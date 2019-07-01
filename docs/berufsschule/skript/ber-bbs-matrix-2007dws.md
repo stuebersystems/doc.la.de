@@ -3,7 +3,7 @@
 
 !!! info "Hinweis"
 
-    Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [`Regionales > Berlin`](https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin/)!
+    Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [`Regionales > Berlin`]((https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin/))!
 
 ## Verordnung
 

@@ -11,12 +11,12 @@ In der Ansicht ```Stammdaten > Schüler``` muss jeder Schüler in der Spalte „
 Falls Sie MAGELLAN einsetzen, können Sie über den Befehl ```Plan > Importieren und Exportieren``` die Schüler aus Ihrer Schulverwaltung übernehmen. 
 Tabelle 2: Bedeutung der Zellen Hintergrundfarben in der Ansicht ```Kursplan > Schüler```
 
-|Hintergrundfarbe|	Bemerkung|
+|Hintergrundfarbe| Bemerkung|
 |--|--|
-|Keine Farbe |	Reine Fachwahl, d.h. es wurde noch kein Kurs zugeordnet|
-|Grün	|Eine Fachwahl, der ein Kurs zugeordnet wurde|
-|Rot	|Bei einem oder mehreren Schüler liegt ein Konflikt vor, weil zwei Kurse eines oder mehrerer Schüler im gleichen Block sind.|
-|Grau	|Kurs mit zu geringer Teilnehmerzahl, siehe Spalte „Min. Schüler“ in der Ansicht ```Kursplan > Kurse```.|
-|Gelb|	Kurs mit zu hoher Teilnehmerzahl, siehe Spalte „Min. Schüler“ in der Ansicht ```Kursplan > Kurse```.|
+|Keine Farbe | Reine Fachwahl, d.h. es wurde noch kein Kurs zugeordnet|
+|Grün |Eine Fachwahl, der ein Kurs zugeordnet wurde|
+|Rot |Bei einem oder mehreren Schüler liegt ein Konflikt vor, weil zwei Kurse eines oder mehrerer Schüler im gleichen Block sind.|
+|Grau |Kurs mit zu geringer Teilnehmerzahl, siehe Spalte „Min. Schüler“ in der Ansicht ```Kursplan > Kurse```.|
+|Gelb| Kurs mit zu hoher Teilnehmerzahl, siehe Spalte „Min. Schüler“ in der Ansicht ```Kursplan > Kurse```.|
 
 ![Von MAGELLAN importieren](/assets/images/fw_mag_importieren.jpg)
