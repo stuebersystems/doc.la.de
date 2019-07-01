@@ -1,6 +1,8 @@
 # Grundlegende Einstellungen
 
->Die nachstehenden Punkte sind eine kurze Zusammenfassung des Vorgehens, die ausführliche Dokumentation finden Sie in der [Magellan-Dokumentation](fhttps://doc.magellan7.stueber.de/).
+!!! info "Hinweis"
+
+    Die nachstehenden Punkte sind eine kurze Zusammenfassung des Vorgehens, die ausführliche Dokumentation finden Sie in der [Magellan-Dokumentation](fhttps://doc.magellan7.stueber.de/).
 
 ## Berufsschulklassen einrichten
 
@@ -10,11 +12,11 @@ In MAGELLAN werden die Daten halbjahresbezogen abgelegt. Sie definieren also ein
 Eine zweijährige Klasse besteht demnach aus 4 Halbjahren mit dem Jahrgang 1 für die ersten beiden Halbjahr und dem Jahrgang 2 für die letzten beiden Halbjahre.
 Folgende Angaben sind bei der Eingabe der Berufsschulklasse neben den Halbjahren wichtig:
 
-|Eingabefeld	|Eingabe|
+|Eingabefeld |Eingabe|
 |--|--|
-|Klassenart	|Standard|
-|Jahrgang	|1, 2, 3 oder 4 (pro Zeitraum der Klasse notwendig)|
-|Beurteilungsart	|Benotung durch Noten|
+|Klassenart |Standard|
+|Jahrgang |1, 2, 3 oder 4 (pro Zeitraum der Klasse notwendig)|
+|Beurteilungsart |Benotung durch Noten|
 
 ## Unterrichtsarten, Fachstatus und Faktoren
 
@@ -56,15 +58,15 @@ Wählen Sie die Kategorie „Berufsschule (Halbjahresnoten)“ um später beim S
  
 Sie müssen für jeden Schüler die Berechnungsverordnung angeben, die für ihn relevant ist. Dazu müssen Sie im Schlüsselverzeichnis „Verordnungen“ die jeweilige Berechnungsverordnung definieren. Klicken Sie dazu auf ```Verzeichnisse > Verordnungen``` und geben dort die Verordnung wie folgt an:
 
-|Spalte	|Bedeutung|
+|Spalte |Bedeutung|
 |--|--|
-|Kürzel	|8-stellige Kurzbezeichnung der Verordnung|
-|Bezeichnung	|Bezeichnung der Verordnung|
-|Kategorie	|Wenn Sie hier „Berufsschule“ eingeben, wird die Verordnung bei den Schüler-Berufsschuldaten angezeigt|
-|Typ	|Bei einigen Verordnungen muss hier eine spezielles Kürzel angegeben werden.|
-|Gültig von	|Gültigkeitsdatum von, ohne Bedeutung für die Berechnungen|
-|Gültig bis|	Gültigkeitsdatum bis, ohne Bedeutung für die Berechnungen|
-|Skript	|Geben Sie hier den Namen des Skripts für diese Berechnungsverordnung ein. Alle verfügbaren Skripte befinden sich im MAGELLAN-Verzeichnis SKRIPTE.|
+|Kürzel |8-stellige Kurzbezeichnung der Verordnung|
+|Bezeichnung |Bezeichnung der Verordnung|
+|Kategorie |Wenn Sie hier „Berufsschule“ eingeben, wird die Verordnung bei den Schüler-Berufsschuldaten angezeigt|
+|Typ |Bei einigen Verordnungen muss hier eine spezielles Kürzel angegeben werden.|
+|Gültig von |Gültigkeitsdatum von, ohne Bedeutung für die Berechnungen|
+|Gültig bis| Gültigkeitsdatum bis, ohne Bedeutung für die Berechnungen|
+|Skript |Geben Sie hier den Namen des Skripts für diese Berechnungsverordnung ein. Alle verfügbaren Skripte befinden sich im MAGELLAN-Verzeichnis SKRIPTE.|
 
 ## Berufsschuldaten synchronisieren
 

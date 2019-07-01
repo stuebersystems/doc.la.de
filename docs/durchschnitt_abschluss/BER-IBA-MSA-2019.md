@@ -32,36 +32,32 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 | Gültig von   | leer                                     |
 | Gültig bis   | leer                                     |
 
+!!! warning "Wichtig"
 
-
-> #### warning::Wichtig!
->
-> Das Skript BER-IBA-MSA-2019.dws wird im Menü ```Schüler > Zeugnis > Leistungen``` ausgeführt und muss im Verzeichnis ``Verordnung`` mit der Kategorie „Versetzung“ angelegt werden.
+    Das Skript BER-IBA-MSA-2019.dws wird im Menü ```Schüler > Zeugnis > Leistungen``` ausgeführt und muss im Verzeichnis ``Verordnung`` mit der Kategorie „Versetzung“ angelegt werden.
 
 ![Verzeichnis Verordnungen](/assets/images/Durchschnitt/MSA.IBA.png)
 
-
 ### Fächer (Unterrichtsart und Fachstatus) definieren
 
-> #### info::Info
->
->  Für die Fächer sind folgenden Unterscheidungen zwingende Voraussetzung.
+!!! warning "Wichtig"
 
-#### Unterrichtsart
+    Für die Fächer sind folgenden Unterscheidungen zwingende Voraussetzung.
+
+### Unterrichtsart
 
 Jedem Fach pro Schüler müssen eine der folgenden Unterrichtsarten auf der Registerkarte ``Schüler > Zeugnis > Fächer`` zugewiesen werden:
 
-|Kürzel	|Schlüssel|Bezeichnung|
+|Kürzel |Schlüssel|Bezeichnung|
 |--|--|--|
-|BÜ|BÜ	|Berufs/Fachübergreifender Lernbereich|
-|FachT|	FachT	|Berufsbezogener Lernbereich / Fachtheorie|
-|FachP|	FachP |Berufsbezogener Lernbereich / Fachpraxis|
+|BÜ|BÜ |Berufs/Fachübergreifender Lernbereich|
+|FachT| FachT |Berufsbezogener Lernbereich / Fachtheorie|
+|FachP| FachP |Berufsbezogener Lernbereich / Fachpraxis|
 
-#### Fachstatus
+### Fachstatus
 
-Der Fachstatus muss unter ``Schüler > Zeugnis > Fachstatus`` zugeordnet sein. 
+Der Fachstatus muss unter ``Schüler > Zeugnis > Fachstatus`` zugeordnet sein.
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
-
 
 | Kürzel | Schlüssel | Bedeutung       |
 |--------|-----------|-----------------|
@@ -72,33 +68,26 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 | WahlB  | WahlB     | Wahlbereich     |
 
 
-![](../assets/MSA.IBA.Prüfungsfächer.png)
+![](/assets/images/MSA.IBA.Prüfungsfächer.png)
 
-
-
-#### Noten zur Berechnung eingeben
+### Noten zur Berechnung eingeben
 
 Um die Berechnung durchzuführen, müssen Sie zunächst die Noten der Schüler eintragen.
 
-#### Erfassung der Prüfungsnoten in den Prüfungsfächern (1.-4.PF)
+### Erfassung der Prüfungsnoten in den Prüfungsfächern (1.-4.PF)
 
 Für die automatische Berechnung des Gesamtnote im 1.-3. Prüfungsfach sind die Noten unter  ``Schüler > Zeugnis > Leistungen`` wie folgt einzugeben:
 
-##### 1.-3. Prüfungsfach
-
+#### 1.-3. Prüfungsfach
 
 | Spalte           | Bedeutung                       |
 |------------------|---------------------------------|
 | Schriftl. Note 1 | schriftliche Note 1PF, 2PF, 3PF |
 | Mdl. Note        | schriftliche Note 1PF, 2PF, 3PF |
 
+![](../assets/images(MSA.IBA.Prüfungsfächer.Schrift.Mdl.png)
 
-
-![](../assets/MSA.IBA.Prüfungsfächer.Schrift.Mdl.png)
-
-
-##### 4. Prüfungsfach
-
+#### 4. Prüfungsfach
 
 | Spalte           | Bedeutung                                |
 |------------------|------------------------------------------|
@@ -106,36 +95,28 @@ Für die automatische Berechnung des Gesamtnote im 1.-3. Prüfungsfach sind die 
 | Beurteilung      | Thema der Präsentationsprüfung/Facharbeit |
 
 
+![](/assets/images/MSA.IBA.4.PF.png)
 
-![](../assets/MSA.IBA.4.PF.png)
-
-#### Erfassung der Jahrgangsnoten und Jahresstunden pro Fach
-
+### Erfassung der Jahrgangsnoten und Jahresstunden pro Fach
 
 | Spalte           | Bedeutung                                |
 |------------------|------------------------------------------|
 | Endnote (Gesamt) | Gesamtnote des 4. Prüfungsfaches         |
 | Beurteilung      | Thema der Präsentationsprüfung/Facharbeit |
 
+![](/assets/images/MSA.IBA.Jahresnoten.png)
 
-
-![](../assets/MSA.IBA.Jahresnoten.png)
-
-#### Berechnung ausführen
+### Berechnung ausführen
 
 Markieren Sie für den Schüler unter ``Schüler > Zeugnis > Leistungen`` das Optionsfeld Durchschnitt einblenden. Auf der rechten Seite der Registerkarte erscheint nun eine zusätzliche Leiste.
 
-#### Automatische Berechnung
+### Automatische Berechnung
 
-Geben Sie unter Prüfungsordnung die gewünschte Prüfungsordnung (basierend auf dem Skript BER-IBA-MSA-2019.dws) zur Versetzung an. Klicken Sie auf ``Neu`` berechnen, um die Daten automatisch durch das entsprechende Skript berechnen zu lassen. 
+Geben Sie unter Prüfungsordnung die gewünschte Prüfungsordnung (basierend auf dem Skript BER-IBA-MSA-2019.dws) zur Versetzung an. Klicken Sie auf ``Neu`` berechnen, um die Daten automatisch durch das entsprechende Skript berechnen zu lassen.
 
 Durch die Berechnung werden automatisch folgende Felder befüllt:
+
 * **MSA Abschluss** wird in das Feld "**Durchschnitte 1**" eingetragen
-* **Gesamtnoten für das 1.-3. Prüfungsfach** werden in das Feld "**Merkmal**" mathematisch gerundet pro Fach eingetragen 
+* **Gesamtnoten für das 1.-3. Prüfungsfach** werden in das Feld "**Merkmal**" mathematisch gerundet pro Fach eingetragen.
 
-![](../assets/MSA.IBA.Durchschnitt.png)
-
-
-
-
-
+![](/assets/images/MSA.IBA.Durchschnitt.png)
