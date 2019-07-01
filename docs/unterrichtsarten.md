@@ -18,43 +18,43 @@ So rufen Sie in MAGELLAN das Schlüsselverzeichnis `Unterrichtsarten` auf:
 
 ## Standardmäßig mitgelieferte Unterrichtsarten
 
-| Kürzel   | Schlüssel | Bedeutung                                |
-|----------|-----------|------------------------------------------|
-| GK       | GK        | Grundkurs                                |
-| Kurs     | Kurs      | Standardwert, d.h. Kurs bzw. Fach        |
-| AG       | AG        | Arbeitsgemeinschaft, -gruppe             |
-| BL       | BL        | Besondere Lernleistung                   |
-| BU       | BU        | Berufsbezogener Unterricht               |
-| BU-P     | BU-P      | Berufsbezogener Unterricht im Pflichtbereich |
+| Kürzel   | Schlüssel | Bedeutung                                        |
+| -------- | --------- | ------------------------------------------------ |
+| GK       | GK        | Grundkurs                                        |
+| Kurs     | Kurs      | Standardwert, d.h. Kurs bzw. Fach                |
+| AG       | AG        | Arbeitsgemeinschaft, -gruppe                     |
+| BL       | BL        | Besondere Lernleistung                           |
+| BU       | BU        | Berufsbezogener Unterricht                       |
+| BU-P     | BU-P      | Berufsbezogener Unterricht im Pflichtbereich     |
 | BU-WP    | BU-WP     | Berufsbezogener Unterricht im Wahlpflichtbereich |
-| BÜ       | BÜ        | Berufsfeldübergreifender Lernbereich     |
-| FK       | FK        | Fundamentalkurs                          |
-| FA       | FA        | Facharbeit                               |
-| FP       | FP        | Fachpraxis                               |
-| FP-GF    | FP-GF     | Fachpraxis Grundfach                     |
-| FP-KF    | FP-KF     | Fachpraxis Kernfach                      |
-| GF       | GF        | Grundfach                                |
-| KF       | KF        | Kernfach                                 |
-| KursA    | KursA     | Fachleistungskurs A                      |
-| KursB    | KursB     | Fachleistungskurs B                      |
-| KursC    | KursC     | Fachleistungskurs C                      |
-| KursE    | KursE     | E-Kurs                                   |
-| KursG    | KursG     | G-Kurs                                   |
-| LF       | LF        | Lernfeld                                 |
-| LG       | LG        | Lerngruppe                               |
-| LK       | LK        | Leistungskurs                            |
-| Modul    | Modul     | Modul                                    |
-| Modul-FÜ | Modul-FÜ  | Modul fachübergreifend                   |
-| Modul-FB | Modul-FB  | Modul fachbezogen                        |
-| PK       | PK        | Profilkurs                               |
-| Theorie  | Theorie   | Theorie                                  |
-| Walhb    | Wahlb     | Wahlbereich                              |
-| WPU1     | WPU1      | Wahlpflichtunterricht 1                  |
-| WPU2     | WPU2      | Wahlpflichtunterricht 2                  |
-| WPU3     | WPU3      | Wahlpflichtunterricht 3                  |
-| WPU4     | WPU4      | Wahlpflichtunterricht 4                  |
-| 2x       | 2x        | 2fach gewertetes Fach                    |
-| 2xM      | 2xM       | 2fach gewertetes und mündliches Prüfungsfach |
-| S        | S         | Schriftliches Prüfungsfach               |
-| SM       | SM        | Schriftliches und mündliches Prüfungsfach |
-| M        | M         | Mündliches Prüfungsfach                  |
+| BÜ       | BÜ        | Berufsfeldübergreifender Lernbereich             |
+| FK       | FK        | Fundamentalkurs                                  |
+| FA       | FA        | Facharbeit                                       |
+| FP       | FP        | Fachpraxis                                       |
+| FP-GF    | FP-GF     | Fachpraxis Grundfach                             |
+| FP-KF    | FP-KF     | Fachpraxis Kernfach                              |
+| GF       | GF        | Grundfach                                        |
+| KF       | KF        | Kernfach                                         |
+| KursA    | KursA     | Fachleistungskurs A                              |
+| KursB    | KursB     | Fachleistungskurs B                              |
+| KursC    | KursC     | Fachleistungskurs C                              |
+| KursE    | KursE     | E-Kurs                                           |
+| KursG    | KursG     | G-Kurs                                           |
+| LF       | LF        | Lernfeld                                         |
+| LG       | LG        | Lerngruppe                                       |
+| LK       | LK        | Leistungskurs                                    |
+| Modul    | Modul     | Modul                                            |
+| Modul-FÜ | Modul-FÜ  | Modul fachübergreifend                           |
+| Modul-FB | Modul-FB  | Modul fachbezogen                                |
+| PK       | PK        | Profilkurs                                       |
+| Theorie  | Theorie   | Theorie                                          |
+| Walhb    | Wahlb     | Wahlbereich                                      |
+| WPU1     | WPU1      | Wahlpflichtunterricht 1                          |
+| WPU2     | WPU2      | Wahlpflichtunterricht 2                          |
+| WPU3     | WPU3      | Wahlpflichtunterricht 3                          |
+| WPU4     | WPU4      | Wahlpflichtunterricht 4                          |
+| 2x       | 2x        | 2fach gewertetes Fach                            |
+| 2xM      | 2xM       | 2fach gewertetes und mündliches Prüfungsfach     |
+| S        | S         | Schriftliches Prüfungsfach                       |
+| SM       | SM        | Schriftliches und mündliches Prüfungsfach        |
+| M        | M         | Mündliches Prüfungsfach                          |
