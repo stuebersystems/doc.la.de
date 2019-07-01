@@ -1,10 +1,9 @@
 # Fachkategorien
 
 Erst durch den Eintrag einer Fachkategorie unter ```Verzeichnisse > Fächer > Kategorie``` erkennt das Verordnungsskript das jeweilige Fach. Ein Fach ohne Kategorie kann nicht verarbeitet werden. Stellen Sie fest, dass einem Fach keine Kategorie zugewiesen wurde oder eine verkehrte verwendet wurde, genügt es die Kategorie im Verzeichnis Fächer abzuändern und das Verordnungsskript neu auszulösen.
-Die Menge der Fachkategorien ist fest vorgegeben und kann nicht von Ihnen erweitert werden. Mit welcher Kategorie Ihr Verordnungsskript arbeitet, erfahren Sie im Abschnitt zum einzelnen Verordnungsskript. 
+Die Menge der Fachkategorien ist fest vorgegeben und kann nicht von Ihnen erweitert werden. Mit welcher Kategorie Ihr Verordnungsskript arbeitet, erfahren Sie im Abschnitt zum einzelnen Verordnungsskript.
 
 Folgende Fachkategorien stehen grundsätzlich zur Verfügung:
-
 
 | Fachkategorie       |
 |---------------------|
@@ -34,5 +33,3 @@ Folgende Fachkategorien stehen grundsätzlich zur Verfügung:
 | BWL/RW              |
 | BWL/VWL             |
 | VWL                 |
-
-
