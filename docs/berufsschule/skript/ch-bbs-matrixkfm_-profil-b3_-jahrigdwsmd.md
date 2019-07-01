@@ -1,15 +1,19 @@
 #CH-BBS-Matrix (KFM-Profil-B 3-jährig).dws
 
-##Fächer
-Bei dem Skript „CH-BBS-Matrix (KFM-Profil-B 3-jährig)“ für die Ausbildung zum Kaufmann/Kauffrau nach dem B-Profil in der Schweiz sind die folgenden Angaben zur Lehrabschlussprüfung Voraussetzung. 
-##Verzeichnis Verordnung 
+## Fächer
+
+Bei dem Skript „CH-BBS-Matrix (KFM-Profil-B 3-jährig)“ für die Ausbildung zum Kaufmann/Kauffrau nach dem B-Profil in der Schweiz sind die folgenden Angaben zur Lehrabschlussprüfung Voraussetzung.
+
+## Verzeichnis Verordnung
+
 Dieses Skript wird im Menü Berufsschule ausgeführt und muss im Verzeichnis Verordnung mit der Kategorie „Berufsschule“ angelegt werden.
 
 |Kürzel	|Bezeichnung|Kategorie|
 |--|--|--|
 |beliebig|beliebig|Berufsschule|
 
-##Betriebliche Lehrabschlussprüfung
+## Betriebliche Lehrabschlussprüfung
+
 Zur Berechnung der betrieblichen Lehrabschlussprüfung existieren eine feste Anzahl Fächer, die dem Schüler zugeordnet werden müssen. 
 
 |Kürzel	|Schlüssel|	Bezeichnung|
@@ -25,7 +29,8 @@ Um die Fächer für die betriebliche Lehrabschlussprüfung zu kennzeichnen, muss
 |--|--|--|
 |BETRIEB|BETRIEB|Betriebliche Lehrabschlussprüfung|
 
-##Schulische Lehrabschlussprüfung
+## Schulische Lehrabschlussprüfung
+
 Zur Berechnung der schulischen Lehrabschlussprüfung existieren eine feste Anzahl Fächer, die dem Schüler zugeordnet werden müssen. 
 
 |Kürzel	|Schlüssel|Bezeichnung|

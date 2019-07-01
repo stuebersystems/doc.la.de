@@ -1,16 +1,19 @@
 # CH-BBS-Matrix (Büroassistent).dws
 
-##Verzeichnis Verordnung 
+## Verzeichnis Verordnung
+
 Dieses Skript wird im Menü Berufsschule ausgeführt und muss im Verzeichnis Verordnung mit der Kategorie „Berufsschule“ angelegt werden.
 
 |Kürzel	|Bezeichnung	|Kategorie|
 |--|--|--|
 |beliebig|	beliebig|	Berufsschule|
 
-##Fächer
+## Fächer
+
 Bei dem Skript „CH-BBS-Matrix (Büroassistent)“ für die Ausbildung zum Büroassistent in der Schweiz sind die folgenden Angaben zur Lehrabschlussprüfung Voraussetzung.
 
-##Abschlussprüfung
+## Abschlussprüfung
+
 Zur Berechnung der Abschlussprüfung existieren eine feste Anzahl Fächer, die dem Schüler zugeordnet werden müssen. 
 
 |Kürzel	|Schlüssel	|Bezeichnung|

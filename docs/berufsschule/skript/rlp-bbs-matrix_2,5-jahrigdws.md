@@ -15,5 +15,6 @@ Wird z.B. das berufsbezogene Fach BWL wöchentlich 2-stündig unterrichtet, so m
 |--|--|--|
 |BWL	|BU	|2|
 
-##Skripte RLP-BBS-Matrix
+## Skripte RLP-BBS-Matrix
+
 Bei der Definition eines Abschlussjahrgangs für die Skript „RLP-BBS-Matrix“ müssen Sie als Kategorie „Berufschule (Jahresnoten)“ wählen. Es werden dann bei der Synchronisation der Berufsschuldaten bis zu 4 Jahresnoten eines Schülers in die Berufsschulematrix übertragen.

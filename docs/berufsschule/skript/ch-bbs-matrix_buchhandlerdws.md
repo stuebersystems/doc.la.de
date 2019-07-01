@@ -1,15 +1,19 @@
 # CH-BBS-Matrix (Buchhändler).dws
 
-##Verzeichnis Verordnung 
+## Verzeichnis Verordnung
+
 Dieses Skript wird im Menü Berufsschule ausgeführt und muss im Verzeichnis Verordnung mit der Kategorie „Berufsschule“ angelegt werden.
 
 |Kürzel	|Bezeichnung	|Kategorie|
 |--|--|--|
 |beliebig	|beliebig|Berufsschule|
 
-##Fächer
+## Fächer
+
 Bei dem Skript „CH-BBS-Matrix (Buchhändler)“ für die Ausbildung zum Buchhändler in der Schweiz sind die folgenden Angaben zur Lehrabschlussprüfung Voraussetzung.
-##Abschlussprüfung
+
+## Abschlussprüfung
+
 Zur Berechnung der Abschlussprüfung existieren eine feste Anzahl Fächer, die dem Schüler zugeordnet werden müssen. 
 
 |Kürzel	|Schlüssel	|Bezeichnung|
@@ -38,6 +42,12 @@ Um die Fächer für die Abschlussprüfung zu kennzeichnen, muss das Feld „Schw
 |BERKENT	|BERKENT	|Berufskenntnisse|
 |ALLGEMEIN	|ALLGEMEIN	|Allgemeinbildung|
 
->Einige Fächer tauchen mehrfach beim Schüler auf. Sie sind jedoch durch die Zuordnung zu einem Schwerpunkt eindeutig.
+
+
+
+!!! warning "Wichtig"
+
+    Einige Fächer tauchen mehrfach beim Schüler auf. Sie sind jedoch durch die Zuordnung zu einem Schwerpunkt eindeutig.
+    
 Zusätzlich ist bei Synchronisierung in die Ansicht „Berufsschule“ wichtig, dass die Option „Fächer mit unterschiedlichen Schwerpunkt getrennt synchronisieren“ aktiviert ist, damit die Fächer mit den unterschiedlichen Schwerpunkten korrekt übertragen werden.
 
