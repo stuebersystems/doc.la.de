@@ -1,14 +1,13 @@
 # BER-BBS-Matrix-2007.dws
 
-> #### warning::Wichtig!
->
-> Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [`Regionales > Berlin`](https://doc.magellan6.stueber.de/regionales/berlin/bs.html)!
 
+!!! info "Hinweis"
 
+    Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [`Regionales > Berlin`](https://doc.magellan6.stueber.de/regionales/berlin/bs.html)!
 
 ## Verordnung
 
-Bei der Definition der Verordnung für das Skript „BER-BBS-Matrix-2007“ müssen Sie unter Typ „BER-BS“ angeben. 
+Bei der Definition der Verordnung für das Skript „BER-BBS-Matrix-2007“ müssen Sie unter Typ „BER-BS“ angeben.
 
 ## Fächer
 
@@ -18,7 +17,7 @@ Bei dem Skript „BER-BBS-Matrix-2007“ für das Bundesland Berlin sind die fol
 
 Ob ein dem Schüler zugeordnetes Fach das Fach Sport/Gesundheitsförderung ist, richtet sich nach der Definition des Fachs im Verzeichnis der Fächer. 
 
-|Kürzel	|Schlüssel	|Bedeutung|
+|Kürzel|Schlüssel	|Bedeutung|
 |--|--|--|
 |Spo|beliebig|Sport|
 
@@ -50,7 +49,7 @@ Das Fach Sport/Gesundheitsförderung und fakultative Fächer werden bei der Bere
 
 Ob ein Schüler im jeweils letzten Zeitraum seiner Laufbahn die Klasse wiederholt, richtet sich nach dem Eintrag unter Ansicht „Schüler“/Laufbahn/Allgemein“ im Feld „Wiederholer“. Ist dieses markiert, wiederholt der Schüler die Klasse.
 
-Für das Skript bedeutet dies, dass er kein Zeugnis zugewiesen bekommt. 
+Für das Skript bedeutet dies, dass er kein Zeugnis zugewiesen bekommt.
 
 ## Kammerprüfung
 
@@ -62,9 +61,9 @@ Ob ein Schüler bei Berufsschulabschluss die Kammerprüfung bestanden hat, richt
 
 Bei keinem Eintrag im Feld „Entscheidung“ hat der Schüler die Kammerprüfung nicht bestanden.
 
-## Höchster bisheriger Abschluss 
+## Höchster bisheriger Abschluss
 
-Für die Berechnung des zusätzlichen Abschlusses im obigen Abschnitt, muss für den Schüler festgehalten werden, ob er den Hauptschulabschluss besitzt. Dieser Abschluss wird pro Schüler unter der Ansicht ```Schüler > Daten 2 ```im Feld „Höchster Abschluss ABS/Abschluss“ bzw. „Höchster Abschluss BBS/Abschluss“ eingetragen. Für diese Felder muss unter ```Verzeichnisse > Abschlüsse (Extern)``` folgende Einträge definiert werden:
+Für die Berechnung des zusätzlichen Abschlusses im obigen Abschnitt, muss für den Schüler festgehalten werden, ob er den Hauptschulabschluss besitzt. Dieser Abschluss wird pro Schüler unter der Ansicht ```Schüler > Daten 2``` im Feld „Höchster Abschluss ABS/Abschluss“ bzw. „Höchster Abschluss BBS/Abschluss“ eingetragen. Für diese Felder muss unter ```Verzeichnisse > Abschlüsse (Extern)``` folgende Einträge definiert werden:
 
 |Kürzel	|Schlüssel	|Bedeutung|
 |--|--|--|
@@ -109,7 +108,7 @@ Ob ein Schüler den zusätzlichen  allgemeinbildenden Unterricht mit Erfolg besu
 
 ## Zeugnisformulare für Abschluss- und Abgangszeugnis
 
-Da das Skript automatisch die jeweiligen Zeugnisformulare den Schülern zuordnet, müssen die Zeugnisformulare zuvor unter ```Verzeichnisse > Zeugnisformulare ```definiert werden. 
+Da das Skript automatisch die jeweiligen Zeugnisformulare den Schülern zuordnet, müssen die Zeugnisformulare zuvor unter ```Verzeichnisse > Zeugnisformulare``` definiert werden.
 
 |Bezeichnung|	Typ|	Datei|
 |--|--|--|
@@ -117,9 +116,7 @@ Da das Skript automatisch die jeweiligen Zeugnisformulare den Schülern zuordnet
 |BER-BS-MSA|beliebig|beliebig|
 |BER-BS-AZ|beliebig|beliebig|
 
-> #### warning::Wichtig!
->
-> Die Bezeichnungen BER-BS-AS für das Abschlusszeugnis, BER-BS-MSA für das Zusatzzeugnis Mittlerer Schulabschluss und BER-BS-AZ für das Abgangszeugnis sind fest vorgegeben.
+!!! warning "Wichtig"
 
-
+    Die Bezeichnungen BER-BS-AS für das Abschlusszeugnis, BER-BS-MSA für das Zusatzzeugnis Mittlerer Schulabschluss und BER-BS-AZ für das Abgangszeugnis sind fest vorgegeben.
 
