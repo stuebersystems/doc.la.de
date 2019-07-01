@@ -1,11 +1,9 @@
 # Unterrichtsarten
 
-
 In MAGELLAN bzw. DAVINCI werden standardmäßig folgende Unterrichtsarten mitgeliefert. Bitte beachten Sie, dass für Berichte, Fachwahlüberprüfungen oder Abiturqualifikationen die Groß- und Kleinschreibweise bei „Schlüssel“ beachtet wird.
 
-> #### primary::Hinweis
->
-> Es können Unterrichtsarten in den Standardverzeichnissen fehlen, bitte prüfen Sie anhand der Beschreibung zu den einzelnen Skripten, welche Werte benötigt werden und legen Sie ggfs. im Verzeichnis an.
+!!!info "Hinweis
+    Es können Unterrichtsarten in den Standardverzeichnissen fehlen, bitte prüfen Sie anhand der Beschreibung zu den einzelnen Skripten, welche Werte benötigt werden und legen Sie ggfs. im Verzeichnis an.
 
 So rufen Sie in DAVINCI das Schlüsselverzeichnis `Unterrichtsarten` auf:
 
@@ -14,12 +12,11 @@ So rufen Sie in DAVINCI das Schlüsselverzeichnis `Unterrichtsarten` auf:
 
 So rufen Sie in MAGELLAN das Schlüsselverzeichnis `Unterrichtsarten` auf:
 
-1.	Starten Sie MAGELLAN.
-2.	Klicken Sie auf `Verzeichnisse > Weitere Schlüsselverzeichnisse`.
-3.	Wählen Sie im Auswahlfenster `Unterrichtsarten` und klicken Sie auf `Bearbeiten`.
+1. Starten Sie MAGELLAN.
+2. Klicken Sie auf `Verzeichnisse > Weitere Schlüsselverzeichnisse`.
+3. Wählen Sie im Auswahlfenster `Unterrichtsarten` und klicken Sie auf `Bearbeiten`.
 
 ## Standardmäßig mitgelieferte Unterrichtsarten
-
 
 | Kürzel   | Schlüssel | Bedeutung                                |
 |----------|-----------|------------------------------------------|
@@ -61,5 +58,3 @@ So rufen Sie in MAGELLAN das Schlüsselverzeichnis `Unterrichtsarten` auf:
 | S        | S         | Schriftliches Prüfungsfach               |
 | SM       | SM        | Schriftliches und mündliches Prüfungsfach |
 | M        | M         | Mündliches Prüfungsfach                  |
-
-
