@@ -1,6 +1,5 @@
 # Notenberechnung in der Berufsschule
 
-
 In der Berufsschule in Deutschland besuchen die Schüler eine Klasse im Rahmen der Berufsausbildung über ein, zwei, drei oder vier Jahre. Entsprechend sind den Berufsschulklassen in MAGELLAN zwei Zeiträume (einjährige Klassen), vier Zeiträume (zweijährige Klassen), sechs Zeiträume (dreijährige Klassen) bzw. acht Zeiträume (vierjährige Klassen) zugeordnet, wobei jeder Zeitraum einem Halbjahr entspricht.
 
 Verlässt der Schüler die Klasse vorzeitig, so erhält er ein Abgangszeugnis. Verlässt er die Klasse erfolgreich zum Abschluss seiner Ausbildung, so erhält er ein Abschlusszeugnis.
@@ -18,10 +17,9 @@ MAGELLAN stellt sehr ausgefeilte Funktionen für die gesamte Endnotenberechnung 
 ## Allgemein
 
 Zur zeitraumübergreifenden Endnotenberechnung der Berufsschule und dem anschließenden Zeugnisdruck gehören folgende Aufgaben:
+
 * Berufsschulklassen und andere Stammdaten einrichten
 * Fächer und Noten der Schüler pro Zeitraum einer Zeugnisausgabe eingeben
 * Endnoten für Abgangs- bzw. Abschlusszeugnisse berechnen
 * Zeugnisbemerkungen eingeben und Zeugnisse drucken
 Alle Schritte werden in MAGELLAN ausgeführt.  
-
-

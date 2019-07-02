@@ -8,7 +8,7 @@ Bei einer gültigen Fachwahl ist der obere Hinweistext grün hinterlegt mit dem 
 
 ![Diese Fachwahl ist gültig](/assets/images/mag_fw_ok.png)
 
-Mit Wahl der Schaltfläche ```Neu prüfen ```wird oberhalb dieser Schaltfläche der Status Fachwahl geprüft angezeigt. Verändert man die Fachwahl des Schülers, wechselt der Status automatisch auf ```Fachwahl nicht geprüft```.
+Mit Wahl der Schaltfläche ```Neu prüfen``` wird oberhalb dieser Schaltfläche der Status Fachwahl geprüft angezeigt. Verändert man die Fachwahl des Schülers, wechselt der Status automatisch auf ```Fachwahl nicht geprüft```.
 
 ![: Dies ist die Anzeige des Prüfstatus „Fachwahl nicht geprüft“ bzw. „Fachwahl geprüft“](/assets/images/mag_fw.png)
 

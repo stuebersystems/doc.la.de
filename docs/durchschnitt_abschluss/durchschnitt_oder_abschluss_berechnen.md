@@ -6,8 +6,10 @@ Auf Basis der berechneten Noten einer Verordnung und der damit verbundenen Durch
 
 Die zeitraumbezogenen Versetzungs-/Durchschnittsberechnungen basieren auf MAGELLAN-Skripten,  die Sie mit Hilfe des MAGELLAN-Skripteditors bearbeiten können. Weitere Informationen zu diesen Skripten finden Sie im Dokument „MAGELLAN Scripting.pdf“.
 
-##Allgemein
+## Allgemein
+
 Zur Berechnung der Durchschnittsnote(n) und Abschlüsse innerhalb eines Zeitraums gehören folgende Aufgaben:
+
 * Klassen und andere Stammdaten einrichten
 * Fächer der Schüler für den gewünschten Zeitraum einer Zeugnisausgabe eingeben.
 * Noten pro Fach der Schüler für den gewünschten Zeitraum einer Zeugnisausgabe eingeben.
@@ -15,8 +17,15 @@ Zur Berechnung der Durchschnittsnote(n) und Abschlüsse innerhalb eines Zeitraum
 
 Alle Schritte werden in MAGELLAN ausgeführt und sind im MAGELLAN-Benutzerhandbuch ausführliche allgemein beschrieben.
 In den nachfolgenden Abschnitten werden nur die Besonderheiten der einzelnen landespezifischen Skripte zur Berechnung des Abschlusses/Durchschnitts innerhalb eines Zeitraums vorgestellt.
-##Landesspezifische Skripte
+
+## Landesspezifische Skripte
+
 Die gesamte Durchschnittsberechnung bei Abschlüssen innerhalb eines Zeitraums wird durch MAGELLAN-Skripte durchgeführt oder anders gesagt, jedes Versetzungsskript repräsentiert eine spezielle Berechnungsvorschrift für die Durchschnittsnote(n) auf dem Abschluss- bzw.  Abgangszeugnis. 
 Die derzeit in MAGELLAN verfügbaren Berechnungsverordnungen können Sie der Tabelle unten entnehmen.
 
->Achten Sie in den folgenden Abschnitten immer auf die speziellen Hinweise für das von Ihnen gewählte Skript
+
+
+
+!!! warning "Wichtig"
+
+    Achten Sie in den folgenden Abschnitten immer auf die speziellen Hinweise für das von Ihnen gewählte Skript

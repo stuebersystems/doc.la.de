@@ -2,7 +2,7 @@
 
 > #### warning::Wichtig!
 >
-> Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [Regionales &gt; Berlin](https://doc.magellan6.stueber.de/regionales/berlin/berlin.html) !
+> Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [Regionales &gt; Berlin](https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin/) !
 
 ## Verzeichnis Verordnung in MAGELLAN
 

@@ -1,6 +1,6 @@
 # Fachwahl aus einer Stundentafel erzeugen
 
-Sie können sich viel Eingabearbeit ersparen, indem Sie mit Stundentafeln als Vorlagen arbeiten. Mit der Schaltfläche Fachwahl erzeugen können Sie für den aktuell markierten Schüler bzw. mehrere markierte Schüler oder alle Schüler des Jahrgangs die Fachwahl aufgrund einer Stundentafel, die als Vorlage dient, erzeugen. 
+Sie können sich viel Eingabearbeit ersparen, indem Sie mit Stundentafeln als Vorlagen arbeiten. Mit der Schaltfläche Fachwahl erzeugen können Sie für den aktuell markierten Schüler bzw. mehrere markierte Schüler oder alle Schüler des Jahrgangs die Fachwahl aufgrund einer Stundentafel, die als Vorlage dient, erzeugen.
 
 ![Dialog "Fachwahl erzeugen](/assets/images/dav_fw.erzeugen.jpg)
 
