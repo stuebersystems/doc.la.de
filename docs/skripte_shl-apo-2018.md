@@ -3,65 +3,68 @@
 Gemäß Landesverordnung über die Gestaltung der Oberstufe und der Abiturprüfung in den Gymnasien und Gemeinschaftsschulen [(OAPVO) vom 2. Juli 2018](http://www.gesetze-rechtsprechung.sh.juris.de/jportal/;jsessionid=449BEADD591E4B730538EA0AD58846A3.jp10?quelle=jlink&query=GymOAbiPrO+SH&psml=bsshoprod.psml&max=true&aiz=true#jlr-GymOAbiPrOSH2018rahmen).
 
 ## Verzeichnis Verordnung
+
 Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
-|Spalte|Wert|
-|--|--|
-|Kürzel|beliebig|
-|Bezeichnung|beliebig|
-|Kategorie|Abitur|
-|Typ|leer|
-|Ab Jahrgang|leer|
-|Skript|```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server)|
-|Notenart 11|Noten oder Punkte|
-|Notenart 12|Punkte|
-|Notenart 13|Punkte|
-|Notenart 13|Punkte|
-|Notenart BBS|leer|
-|Gültig von |leer|
-|Gültig bis|leer|
+| Spalte       | Wert                                                                         |
+| ------------ | ---------------------------------------------------------------------------- |
+| Kürzel       | beliebig                                                                     |
+| Bezeichnung  | beliebig                                                                     |
+| Kategorie    | Abitur                                                                       |
+| Typ          | leer                                                                         |
+| Ab Jahrgang  | leer                                                                         |
+| Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server) |
+| Notenart 11  | Noten oder Punkte                                                            |
+| Notenart 12  | Punkte                                                                       |
+| Notenart 13  | Punkte                                                                       |
+| Notenart 13  | Punkte                                                                       |
+| Notenart BBS | leer                                                                         |
+| Gültig von   | leer                                                                         |
+| Gültig bis   | leer                                                                         |
 
 
 ## Fachkategorien
+
 Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter ```Verzeichnisse > Fächer > Kategorie``` zuweisen.
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
 
-|Fachkategorien|Wird vom Skript berücksichtigt|
-|--|--|
-|Fremdsprache|JA|
-|Religion/Ethik|JA|
-|Deutsch|JA|
-|Mathematik|JA|
-|Kunst|JA|
-|Musik|NEIN|
-|Sport|JA|
-|Informatik|JA|
-|Philosophie|JA|
-|Geschichte|JA|
-|Physik|JA|
-|Chemie|JA|
-|Biologie|JA|
-|Erdkunde|JA|
-|Sozialkunde|NEIN|
-|Wirtschaft|JA|
-|Politik|JA|
-|Darstellendes Spiel|NEIN|
-|Evangelische Religion|NEIN|
-|Katholische Religion|NEIN|
-|Technik|NEIN|
-|Pädagogik|NEIN|
-|Sporttheorie|NEIN|
-|Seminar|NEIN|
-|BWL/RW|NEIN|
-|BWL/VWL|NEIN|
-|VWL|NEIN|
-|Seminar|NEIN|
-|Gesundheit|NEIN|
-|Psychologie|NEIN|
-|Recht|NEIN|
-|Literatur|NEIN|
+| Fachkategorien        | Wird vom Skript berücksichtigt |
+| --------------------- | ------------------------------ |
+| Fremdsprache          | JA                             |
+| Religion/Ethik        | JA                             |
+| Deutsch               | JA                             |
+| Mathematik            | JA                             |
+| Kunst                 | JA                             |
+| Musik                 | NEIN                           |
+| Sport                 | JA                             |
+| Informatik            | JA                             |
+| Philosophie           | JA                             |
+| Geschichte            | JA                             |
+| Physik                | JA                             |
+| Chemie                | JA                             |
+| Biologie              | JA                             |
+| Erdkunde              | JA                             |
+| Sozialkunde           | NEIN                           |
+| Wirtschaft            | JA                             |
+| Politik               | JA                             |
+| Darstellendes Spiel   | NEIN                           |
+| Evangelische Religion | NEIN                           |
+| Katholische Religion  | NEIN                           |
+| Technik               | NEIN                           |
+| Pädagogik             | NEIN                           |
+| Sporttheorie          | NEIN                           |
+| Seminar               | NEIN                           |
+| BWL/RW                | NEIN                           |
+| BWL/VWL               | NEIN                           |
+| VWL                   | NEIN                           |
+| Seminar               | NEIN                           |
+| Gesundheit            | NEIN                           |
+| Psychologie           | NEIN                           |
+| Recht                 | NEIN                           |
+| Literatur             | NEIN                           |
 
 ## Aufgabenbereiche
+
 Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Verzeichnisse > Fächer > Spalte Aufgabenbereich` verwendet werden:
 
 |Aufgabenbereich|
