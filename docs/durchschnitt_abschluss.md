@@ -24,8 +24,6 @@ Die gesamte Durchschnittsberechnung bei Abschlüssen innerhalb eines Zeitraums w
 Die derzeit in MAGELLAN verfügbaren Berechnungsverordnungen können Sie der Tabelle unten entnehmen.
 
 
-
-
 !!! warning "Wichtig"
 
     Achten Sie in den folgenden Abschnitten immer auf die speziellen Hinweise für das von Ihnen gewählte Skript

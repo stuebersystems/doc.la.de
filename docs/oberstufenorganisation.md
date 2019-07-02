@@ -1,24 +1,25 @@
 
-
 # Oberstufenorganisation
-
-
 
 Die jeweiligen Verordnungen spiegeln sich über die Landesanpassung von MAGELLAN bzw. DAVINCI in der Fachwahlüberprüfung und der Abiturqualifikationsberechnung wider. 
 Die Oberstufe stellt den schwierigsten Teil der Schulorganisation dar. MAGELLAN und DAVINCI stellen Funktionen für die gesamte Oberstufenorganisation zur Verfügung. Damit die Berechnungen korrekt durchgeführt werden können und Sie auch die Abiturzeugnisse richtig ausgedruckt bekommen, müssen Sie allerdings einige wenige aber wichtige Details beachten. Diese Details werden in diesem Kapitel erklärt. Lesen Sie es bitte sorgfältig.
 Der Vollständigkeit halber sei an dieser Stelle erwähnt: Fachwahlüberprüfung und Abiturqualifikationsberechnung basieren auf offengelegten (Open Source) MAGELLAN-Skripten, die Sie mit Hilfe des MAGELLAN-Skripteditors bearbeiten können. 
->Eine Bearbeitung der mitgelieferten Skripte ist nicht notwendig und sollte von Ihnen auch nicht durchgeführt werden, da wir für veränderte Skripte keinen Support mehr leisten können.
+
+!!! info "Hinweis"
+
+    Eine Bearbeitung der mitgelieferten Skripte ist nicht notwendig und sollte von Ihnen auch nicht durchgeführt werden, da wir für veränderte Skripte keinen Support mehr leisten können.
 
 Zur Oberstufenorganisation gehören folgende Aufgaben:
-1.	Oberstufenjahrgänge und andere Stammdaten einrichten
-2.	Schüler-Fachwahlen eingeben sowie Kursangebot und Kursblockungen erstellen
-3.	Zulassung zur 12 überprüfen (nur in einigen Bundesländern)
-4.	Qualifikation berechnen und Abiturzulassung überprüfen 
-5.	Schriftliche Abiturnoten eingeben
-6.	Mündliche Abiturnoten eingeben
-7.	Gesamtqualifikation für Prüfungsbereich (Abiturnote) berechnen
-8.	Fachhochschulreife berechnen
-9.	Zeugnisbemerkungen eingeben und Zeugnisse drucken
+
+1. Oberstufenjahrgänge und andere Stammdaten einrichten
+2. Schüler-Fachwahlen eingeben sowie Kursangebot und Kursblockungen erstellen
+3. Zulassung zur 12 überprüfen (nur in einigen Bundesländern)
+4. Qualifikation berechnen und Abiturzulassung überprüfen 
+5. Schriftliche Abiturnoten eingeben
+6. Mündliche Abiturnoten eingeben
+7. Gesamtqualifikation für Prüfungsbereich (Abiturnote) berechnen
+8. Fachhochschulreife berechnen
+9. Zeugnisbemerkungen eingeben und Zeugnisse drucken
 
 Schritt 1 muss in DAVINCI und MAGELLAN durchgeführt werden. 
 
@@ -55,8 +56,8 @@ Folgende Angaben sind bei der Eingabe der Oberstufenjahrgänge neben den Halbjah
 
 |Eingabefeld|Eingabe|
 |--|--|
-|Klassenart	|Oberstufenjahrgang (Leistungs- und Grundkurse) oder Oberstufenjahrgang (nur Kurse)|
-|Jahrgang	|11, 12 oder 13 (pro Zeitraum der Klasse unter Klasse > Zeiträume > Zeitraum > Jahrgang notwendig)|
+|Klassenart |Oberstufenjahrgang (Leistungs- und Grundkurse) oder Oberstufenjahrgang (nur Kurse)|
+|Jahrgang |11, 12 oder 13 (pro Zeitraum der Klasse unter Klasse > Zeiträume > Zeitraum > Jahrgang notwendig)|
 |Beurteilungsart|Benotung durch Punkte|
 
 ## G8-Klassen
@@ -152,13 +153,13 @@ Folgende Fachkategorien stehen grundsätzlich zur Verfügung:
  
 Die korrekte Belegung prüft das Verordnungsskript (ggfs. vorab schon das Fachwahlskript) anhand der Zuweisung den Aufgabenbereichs pro Fach. Weisen Sie bitte unter ``Verzeichnisse > Fächer > Aufgabenbereich``` den Aufgabenbereich pro Fach zu.
 
-|Abkürzung	|Bedeutung|
+|Abkürzung |Bedeutung|
 |--|--|
-|sprachl.-lit.-künstlerisch	|sprachlich-literarisch-künstlerisches Aufgabenfeld|
-|gesellschaftswiss.	|gesellschaftswissenschaftliches Aufgabenfeld|
-|mathem.-nat.-techn.|	mathematisch-naturwissenschaftlich-technisches Aufgabenfeld|
-|Religion	|Religion|
-|Sport	|Sport|
+|sprachl.-lit.-künstlerisch |sprachlich-literarisch-künstlerisches Aufgabenfeld|
+|gesellschaftswiss. |gesellschaftswissenschaftliches Aufgabenfeld|
+|mathem.-nat.-techn.| mathematisch-naturwissenschaftlich-technisches Aufgabenfeld|
+|Religion |Religion|
+|Sport |Sport|
 
 ### Spalte Merkmal
 
@@ -179,9 +180,9 @@ So rufen Sie in DAVINCI das Schlüsselverzeichnis „Unterrichtsarten“ auf:
 2. Klicken Sie auf „Extras|Schlüsselverzeichnisse|Unterrichtsarten“.
 
 So rufen Sie in MAGELLAN das Schlüsselverzeichnis „Unterrichtsarten“ auf:
-1.	Starten Sie MAGELLAN.
-2.	Klicken Sie auf „Verzeichnisse|Weitere Schlüsselverzeichnisse“.
-3.	Wählen Sie im Auswahlfenster „Unterrichtsarten“ und klicken Sie auf Bearbeiten“.
+1. Starten Sie MAGELLAN.
+2. Klicken Sie auf „Verzeichnisse|Weitere Schlüsselverzeichnisse“.
+3. Wählen Sie im Auswahlfenster „Unterrichtsarten“ und klicken Sie auf Bearbeiten“.
 
 ####standardmäßig mitgelieferte Unterrichtsarten
 
@@ -189,43 +190,43 @@ So rufen Sie in MAGELLAN das Schlüsselverzeichnis „Unterrichtsarten“ auf:
 |Kürzel | Schlüssel| Bedeutung |
 | -- | -- | -- |
 | GK | GK | Grundkurs |
-|Kurs	|Kurs	|Standardwert, d.h. Kurs bzw. Fach
-|AG|	AG|	Arbeitsgemeinschaft, -gruppe|
-|BL|	BL|	Besondere Lernleistung|
-|BU	|BU	|Berufsbezogener Unterricht|
-|BU-P|	BU-P|	Berufsbezogener Unterricht im Pflichtbereich|
-|BU-WP	|BU-WP	|Berufsbezogener Unterricht im Wahlpflichtbereich|
-|BÜ	|BÜ	|Berufsfeldübergreifender Lernbereich|
-|FK	|FK	|Fundamentalkurs|
-|FA	|FA	|Facharbeit|
-|FP	|FP	|Fachpraxis|
-|FP-GF	|FP-GF	|Fachpraxis Grundfach|
-|FP-KF	|FP-KF	|Fachpraxis Kernfach|
-|GF	|GF	|Grundfach|
-|KF	|KF	|Kernfach|
-|KursA	|KursA	|Fachleistungskurs A|
-|KursB	|KursB	|Fachleistungskurs B|
-|KursC	|KursC	|Fachleistungskurs C|
-|KursE	|KursE|	E-Kurs|
-|KursG	|KursG	|G-Kurs|
-|LF	|LF	|Lernfeld|
-|LG|	LG	|Lerngruppe|
-|LK	|LK	|Leistungskurs|
-|Modul	|Modul	|Modul|
-|Modul-FÜ	|Modul-FÜ	|Modul fachübergreifend|
-|Modul-FB|	Modul-FB	|Modul fachbezogen|
-|PK	|PK	|Profilkurs|
-|Theorie	|Theorie	|Theorie|
-|Walhb|	Wahlb|	Wahlbereich|
-|WPU1|	WPU1|	Wahlpflichtunterricht 1|
-|WPU2|	WPU2|	Wahlpflichtunterricht 2|
-|WPU3	|WPU3|	Wahlpflichtunterricht 3|
-|WPU4	|WPU4	|Wahlpflichtunterricht 4|
-|2x	|2x	|2fach gewertetes Fach|
-|2xM	|2xM	|2fach gewertetes und mündliches Prüfungsfach|
-|S	|S	|Schriftliches Prüfungsfach|
-|SM	|SM	|Schriftliches und mündliches Prüfungsfach|
-|M	|M	|Mündliches Prüfungsfach|
+|Kurs |Kurs |Standardwert, d.h. Kurs bzw. Fach
+|AG| AG| Arbeitsgemeinschaft, -gruppe|
+|BL| BL| Besondere Lernleistung|
+|BU |BU |Berufsbezogener Unterricht|
+|BU-P| BU-P| Berufsbezogener Unterricht im Pflichtbereich|
+|BU-WP |BU-WP |Berufsbezogener Unterricht im Wahlpflichtbereich|
+|BÜ |BÜ |Berufsfeldübergreifender Lernbereich|
+|FK |FK |Fundamentalkurs|
+|FA |FA |Facharbeit|
+|FP |FP |Fachpraxis|
+|FP-GF |FP-GF |Fachpraxis Grundfach|
+|FP-KF |FP-KF |Fachpraxis Kernfach|
+|GF |GF |Grundfach|
+|KF |KF |Kernfach|
+|KursA |KursA |Fachleistungskurs A|
+|KursB |KursB |Fachleistungskurs B|
+|KursC |KursC |Fachleistungskurs C|
+|KursE |KursE| E-Kurs|
+|KursG |KursG |G-Kurs|
+|LF |LF |Lernfeld|
+|LG| LG |Lerngruppe|
+|LK |LK |Leistungskurs|
+|Modul |Modul |Modul|
+|Modul-FÜ |Modul-FÜ |Modul fachübergreifend|
+|Modul-FB| Modul-FB |Modul fachbezogen|
+|PK |PK |Profilkurs|
+|Theorie |Theorie |Theorie|
+|Walhb| Wahlb| Wahlbereich|
+|WPU1| WPU1| Wahlpflichtunterricht 1|
+|WPU2| WPU2| Wahlpflichtunterricht 2|
+|WPU3 |WPU3| Wahlpflichtunterricht 3|
+|WPU4 |WPU4 |Wahlpflichtunterricht 4|
+|2x |2x |2fach gewertetes Fach|
+|2xM |2xM |2fach gewertetes und mündliches Prüfungsfach|
+|S |S |Schriftliches Prüfungsfach|
+|SM |SM |Schriftliches und mündliches Prüfungsfach|
+|M |M |Mündliches Prüfungsfach|
 
 
  ### Fachstatus
@@ -239,9 +240,9 @@ So rufen Sie in DAVINCI das Schlüsselverzeichnis „Fachstatus“ auf:
 2. Klicken Sie auf „Extras|Schlüsselverzeichnisse|Fachstatus“.
 
 So rufen Sie in MAGELLAN das Schlüsselverzeichnis „Fachstatus“ auf:
-1.	Starten Sie MAGELLAN.
-2.	Klicken Sie auf „Verzeichnisse|Weitere Schlüsselverzeichnisse“.
-3.	Wählen Sie im Auswahlfenster „Fachstatus“ und klicken Sie auf Bearbeiten“.
+1. Starten Sie MAGELLAN.
+2. Klicken Sie auf „Verzeichnisse|Weitere Schlüsselverzeichnisse“.
+3. Wählen Sie im Auswahlfenster „Fachstatus“ und klicken Sie auf Bearbeiten“.
 
 
 ####standardmäßig mitgelieferte Fachstatus
@@ -313,16 +314,16 @@ Welche Verordnungen (Abiturverordnung, Fachwahl) Sie verwenden möchten, definie
 
 Sie müssen für jeden Schüler die Abiturordnung angeben, die für ihn relevant ist. Dazu müssen Sie im Schlüsselverzeichnis Verordnungen die jeweilige Verordnung definieren. Klicken Sie dazu auf „Verzeichnisse|Verordnungen“ und geben Sie dort Verordnung wie folgt an:
 
-|Spalte	|Bedeutung|
+|Spalte |Bedeutung|
 |--|--|
-|Kürzel|	8-stellige Kurzbezeichnung der Verordnung (bitte beachten Sie Besonderheiten bei einzelnen Skripten s.u.)|
-|Bezeichnung	|Bezeichnung der Verordnung|
-|Kategorie|	Mögliche Eingaben sind Fachwahl, Berufsschule oder Abitur.|
-|Gültig von	|Gültigkeitsdatum von, ohne Bedeutung für die Berechnung|
-|Gültig bis	|Gültigkeitsdatum bis, ohne Bedeutung für die Berechnung|
-|Skript|	Geben Sie hier den Namen des Skripts für diese Abiturprüfungs- oder Fachwahlordnung ein. Abiturskripte enthalten auch die Berechnung der Fachhochschulreife. Alle verfügbaren Skripte befinden sich im MAGELLAN-Verzeichnis SKRIPTE.|
-|Typ	|Über Einträge im Typ wird zum Beispiel zwischen G8 und G9 unterschieden. Oder ob Sie Ihr Gymnasium den Schwerpunkt Technik (TG) oder Wirtschaft (WG) hat.  Was für Ihr Skript genau als Eintrag erwartet wird, lesen Sie bitte im Abschnitt zum Skript nach.|
-|Ab Jahrgang	|Für G8-Jahrgänge wird der Wert 10 erwartet, für G9 eine 11. Durch den Eintrag werden beim Synchronisieren die Schülerdaten aus der 12 oder 13 in die Spalten der Qualifikationsphase übernommen. Für Skripte ohne G8/G9-Unterscheidung bleibt diese Spalte leer.|
+|Kürzel| 8-stellige Kurzbezeichnung der Verordnung (bitte beachten Sie Besonderheiten bei einzelnen Skripten s.u.)|
+|Bezeichnung |Bezeichnung der Verordnung|
+|Kategorie| Mögliche Eingaben sind Fachwahl, Berufsschule oder Abitur.|
+|Gültig von |Gültigkeitsdatum von, ohne Bedeutung für die Berechnung|
+|Gültig bis |Gültigkeitsdatum bis, ohne Bedeutung für die Berechnung|
+|Skript| Geben Sie hier den Namen des Skripts für diese Abiturprüfungs- oder Fachwahlordnung ein. Abiturskripte enthalten auch die Berechnung der Fachhochschulreife. Alle verfügbaren Skripte befinden sich im MAGELLAN-Verzeichnis SKRIPTE.|
+|Typ |Über Einträge im Typ wird zum Beispiel zwischen G8 und G9 unterschieden. Oder ob Sie Ihr Gymnasium den Schwerpunkt Technik (TG) oder Wirtschaft (WG) hat.  Was für Ihr Skript genau als Eintrag erwartet wird, lesen Sie bitte im Abschnitt zum Skript nach.|
+|Ab Jahrgang |Für G8-Jahrgänge wird der Wert 10 erwartet, für G9 eine 11. Durch den Eintrag werden beim Synchronisieren die Schülerdaten aus der 12 oder 13 in die Spalten der Qualifikationsphase übernommen. Für Skripte ohne G8/G9-Unterscheidung bleibt diese Spalte leer.|
 
 
 

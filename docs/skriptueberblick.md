@@ -2,9 +2,9 @@
 
 Die gesamte Berechnung wird durch MAGELLAN-Skripte durchgeführt oder anders gesagt, jedes Skript repräsentiert eine Verordnung.
 
-> #### warning::Wichtig!
->
-> Achten Sie in den folgenden Abschnitten immer auf die speziellen Hinweise für das von Ihnen gewählte Skript. Die für Sie relevante Skriptdatei können Sie der Tabelle für Ihre Region unten entnehmen. 
+!!! info "Hinweis"
+
+    Achten Sie in den folgenden Abschnitten immer auf die speziellen Hinweise für das von Ihnen gewählte Skript. Die für Sie relevante Skriptdatei können Sie der Tabelle für Ihre Region unten entnehmen. 
 
 Die Skripte befinden sich im MAGELLAN- bzw. im DAVINCI-Verzeichnis im Ordner ```Skripte > Ihre Region```. 
 
@@ -23,15 +23,15 @@ Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm ve
 
 | Verordnung | Abitur                                   | Fachwahl<br/> MAGELLAN | Fachwahl<br/>DAVINCI | Schüler ><br/>Leistungskarte             | BBS |
 |------------|------------------------------------------|------------------------|----------------------|------------------------------------------|-----|
-| APO 2010   | [BAW-APO-2010-G9.dws](http://doc.la.stueber.de/skripte_baw-apo-2010-g9.html) | -                      | -                    | -                                        | -   |
-| APO 2001   | [BAW-APO-2010-G9.dws](http://doc.la.stueber.de/skripte_baw-apo-2010-g9.html) | -                      | -                    | -                                        | -   |
-| APO 1999   | [BAW-APO-2010-G9.dws](http://doc.la.stueber.de/skripte_baw-apo-2010-g9.html) | -                      | BAW-FW-APO-2001.dws  | -                                        | -   |
-| BGVO 2001  | [BAW-APO-BGY-2001-G9.dws](http://doc.la.stueber.de/skript_baw-apo-bgy-2001-g9.html) | -                      | -                    | -                                        | -   |
-| BGVO 2002  | [BAW-APO-BGY-2002.dws](http://doc.la.stueber.de/skripte_baw-apo-bgy-2002.html) | -                      | -                    | -                                        | -   |
-| BGVO 2016  | [BAW-APO-BGY-2016-G9.dws](http://doc.la.stueber.de/skripte_baw-apo-bgy-2016-g9.html) | -                      | -                    | -                                        | -   |
-| BGVO 2010  | [BAW-APO-BGY-2010-G9.dws](http://doc.la.stueber.de/skripte_baw-apo-bgy-2010-g9.html) | -                      | -                    | -                                        | -   |
-| BSVO 2004  | -                                        | -                      | -                    | [BAW-BSO-Berufsvorbereitungsjahr-2004.dws](http://doc.la.stueber.de/durchschnitt_abschluss/baw-bso-berufsvorbereitungsjahr-2004dws.html) | -   |
-| BSVO 2005  | -                                        | -                      | -                    | [BAW-BSO-Lernfeldkonzeption-2005.dws](http://doc.la.stueber.de/durchschnitt_abschluss/baw-bso-lernfeldkonzeption-2005dws.html) | -   |
+| APO 2010   | [BAW-APO-2010-G9.dws](http://doc.la.stueber.de/02.baw/baw-apo-2010-g9) | -                      | -                    | -                                        | -   |
+| APO 2001   | [BAW-APO-2010-G9.dws](http://doc.la.stueber.de/02.baw/baw-apo-2010-g9) | -                      | -                    | -                                        | -   |
+| APO 1999   | [BAW-APO-2010-G9.dws](http://doc.la.stueber.de/02.baw/baw-apo-2010-g9) | -                      | BAW-FW-APO-2001.dws  | -                                        | -   |
+| BGVO 2001  | [BAW-APO-BGY-2001-G9.dws](http://doc.la.stueber.de/skript_baw-apo-bgy-2001-g9) | -                      | -                    | -                                        | -   |
+| BGVO 2002  | [BAW-APO-BGY-2002.dws](http://doc.la.stueber.de/02.baw/baw-apo-bgy-2002) | -                      | -                    | -                                        | -   |
+| BGVO 2016  | [BAW-APO-BGY-2016-G9.dws](http://doc.la.stueber.de/02.baw/baw-apo-bgy-2016-g9) | -                      | -                    | -                                        | -   |
+| BGVO 2010  | [BAW-APO-BGY-2010-G9.dws](http://doc.la.stueber.de/02.baw/baw-apo-bgy-2010-g9) | -                      | -                    | -                                        | -   |
+| BSVO 2004  | -                                        | -                      | -                    | [BAW-BSO-Berufsvorbereitungsjahr-2004.dws](http://doc.la.stueber.de/durchschnitt_abschluss/baw-bso-berufsvorbereitungsjahr-2004dws) | -   |
+| BSVO 2005  | -                                        | -                      | -                    | [BAW-BSO-Lernfeldkonzeption-2005.dws](http://doc.la.stueber.de/durchschnitt_abschluss/baw-bso-lernfeldkonzeption-2005dws) | -   |
 
 
 
@@ -40,17 +40,17 @@ Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm ve
 
 | Verordnung   | Abitur                                   | Fachwahl<br/> MAGELLAN                   | Fachwahl<br/>DAVINCI                     | Schüler ><br/>Leistungskarte             | BBS |
 |--------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|-----|
-| APO 2017     | [BER-APO-2017.dws](https://doc.la.stueber.de/Skripte/BER-APO-2017.html) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js.html) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js.html) | [BER-IBA-MSA-2019](https://doc.la.stueber.de/durchschnitt_abschluss/BER-IBA-MSA-2019.html)] | -   |
-| APO 2004     | <a href="http://doc.la.stueber.de/skripte_ber-apo-2004.html"> BER-APO-2004.dws</a> | -                                        | -                                        | -                                        | -   |
-| APO 2007     | <a href="http://doc.la.stueber.de/skripte_ber-apo-2007.html"> BER-APO-2007.dws</a> | -                                        | -                                        | [BER-BBS-Matrix-2007.dws](https://doc.la.stueber.de/berufsschule/skript/ber-bbs-matrix-2007dws.html) | -   |
-| APO 2010     | <a href="http://doc.la.stueber.de/skripte_ber-apo-2010.html"> BER-APO-2010.dws</a> | -                                        | -                                        | -                                        | -   |
-| APO 2011     | <a href="http://doc.la.stueber.de/skripte_ber-apo-2011.html"> BER-APO-2011.dws</a> | <a href="http://doc.la.stueber.de/fachwahl/ber-fw-apo-2011js.html"> BER-FW-APO-2011.js</a> | <a href="http://doc.la.stueber.de/fachwahl/ber-fw-apo-2011js.html"> BER-FW-APO-2011.js</a> | -                                        | -   |
+| APO 2017     | [BER-APO-2017.dws](https://doc.la.stueber.de/Skripte/BER-APO-2017) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-IBA-MSA-2019](https://doc.la.stueber.de/durchschnitt_abschluss/BER-IBA-MSA-2019)] | -   |
+| APO 2004     | <a href="http://doc.la.stueber.de/02.ber/ber-apo-2004.html"> BER-APO-2004.dws</a> | -                                        | -                                        | -                                        | -   |
+| APO 2007     | <a href="http://doc.la.stueber.de/02.ber/ber-apo-2007.html"> BER-APO-2007.dws</a> | -                                        | -                                        | [BER-BBS-Matrix-2007.dws](https://doc.la.stueber.de/berufsschule/skript/ber-bbs-matrix-2007dws) | -   |
+| APO 2010     | <a href="http://doc.la.stueber.de/02.ber/ber-apo-2010.html"> BER-APO-2010.dws</a> | -                                        | -                                        | -                                        | -   |
+| APO 2011     | <a href="http://doc.la.stueber.de/02.ber/ber-apo-2011.html"> BER-APO-2011.dws</a> | <a href="http://doc.la.stueber.de/fachwahl/ber-fw-apo-2011js.html"> BER-FW-APO-2011.js</a> | <a href="http://doc.la.stueber.de/fachwahl/ber-fw-apo-2011js.html"> BER-FW-APO-2011.js</a> | -                                        | -   |
 | APO BGY 2011 | -                                        | <a href=" http://doc.la.stueber.de/fachwahl/ber-fw-apo-bbs-2011js.html"> BER-FW-APO-BBS-2011.js</a> | <a href=" http://doc.la.stueber.de/fachwahl/ber-fw-apo-bbs-2011js.html"> BER-FW-APO-BBS-2011.js</a> | -                                        | -   |
-| APO 2006     | <a href=" http://doc.la.stueber.de/skripte_ber-apo-fos-2006.html"> BER-APO-FOS-2006.dws</a> | -                                        | -                                        | -                                        | -   |
-| APO 2013     | <a href=" http://doc.la.stueber.de/skripte_ber-apo-fos-2013.html"> BER-APO-FOS-2013.dws</a> | -                                        | -                                        | -                                        | -   |
-| APO KO 2017  | [BER-APO-KO-2017.dws](https://doc.la.stueber.de/Skripte/BER-APO-KO-2017.html) | -                                        | -                                        | -                                        | -   |
-| APO KO 2011  | <a href=" http://doc.la.stueber.de/skripte_ber-apo-ko-2011.html"> BER-APO-KO-2011.dws</a> | -                                        | -                                        | -                                        | -   |
-| APO KO 1987  | <a href=" http://doc.la.stueber.de/skripte_ber-apo-ko-1987.html"> BER-APO-KO-1987.dws</a> | -                                        | -                                        | -                                        | -   |
+| APO 2006     | <a href=" http://doc.la.stueber.de/02.ber/ber-apo-fos-2006.html"> BER-APO-FOS-2006.dws</a> | -                                        | -                                        | -                                        | -   |
+| APO 2013     | <a href=" http://doc.la.stueber.de/02.ber/ber-apo-fos-2013.html"> BER-APO-FOS-2013.dws</a> | -                                        | -                                        | -                                        | -   |
+| APO KO 2017  | [BER-APO-KO-2017.dws](https://doc.la.stueber.de/Skripte/BER-APO-KO-2017) | -                                        | -                                        | -                                        | -   |
+| APO KO 2011  | <a href=" http://doc.la.stueber.de/02.ber/ber-apo-ko-2011.html"> BER-APO-KO-2011.dws</a> | -                                        | -                                        | -                                        | -   |
+| APO KO 1987  | <a href=" http://doc.la.stueber.de/02.ber/ber-apo-ko-1987.html"> BER-APO-KO-1987.dws</a> | -                                        | -                                        | -                                        | -   |
 
 
 
@@ -58,15 +58,15 @@ Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm ve
 
 Verordnung|Abitur|Fachwahl<br/> MAGELLAN|Fachwahl<br/>DAVINCI|Schüler ><br/>Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
-APO 2006|[BRE-APO-2006.dws](skripte_bre-apo-1998-2006.md)  |-|-|-|-
-APO 1998|[BRE-APO-1998.dws](skripte_bre-apo-1998-2006.md)  |-|BRE-FW-APO-1998.dws|-|-
-APO 2010|[BRE-APO-2010.dws](skripte_bre-apo-2010.md)|-|-|-|-
-APO 2006|[BRE-APO-AGY-2006.dws](skripte_bre-apo-agy-2006.md)|-|-|-|-
-APO BGY 1998|[BRE-APO-BGY-1998.dws](skripte_bre-apo-bgy-1998.md)|-|-|-|-
-APO BGY 2005|[BRE-APO-BGY-2005.dws](skripte_bre-apo-bgy-2005.md)|-|-|-|-
-APO BGY 2010|[BRE-APO-BGY-2010.dws](skripte_bre-apo-bgy-2010.md)|-|-|-|-
-APO KO 2006|[BRE-APO-KO-2006.dws](skripte_bre-apo-ko-2006.md)|-|-|-|-
-APO KO 2010|[BRE-APO-KO-2010.dws](skripte_bre-apo-ko-2010.md)|-|-|-|-
+APO 2006|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-1998-2006.md)"> BRE-APO-2006.dws</a> |-|-|-|-
+APO 1998|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-1998-2006.md)"> BRE-APO-1998.dws</a>  |-|BRE-FW-APO-1998.dws|-|-
+APO 2010|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-2010.md)"> BRE-APO-2010.dws</a>|-|-|-|-
+APO 2006|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-agy-2006.md)"> BRE-APO-AGY-2006.dws</a>|-|-|-|-
+APO BGY 1998|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-bgy-1998.md)"> BRE-APO-BGY-1998.dws</a>|-|-|-|-
+APO BGY 2005|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-bgy-2005.md)"> BRE-APO-BGY-2005.dws</a>|-|-|-|-
+APO BGY 2010|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-bgy-2010.md)"> BRE-APO-BGY-2010.dws</a>|-|-|-|-
+APO KO 2006|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-ko-2006.md)"> BRE-APO-KO-2006.dws</a>|-|-|-|-
+APO KO 2010|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-ko-2010.md)"> BRE-APO-KO-2010.dws</a>|-|-|-|-
 
 ## Hessen
 
@@ -80,7 +80,7 @@ APO 2010|-|[HES-FW-APO-2010.js](fachwahl/hes-fw-apo-2010js.md)|[HES-FW-APO-2010.
 
 Verordnung|Abitur|Fachwahl<br/> MAGELLAN|Fachwahl <br/>DAVINCI|Schüler ><br/> Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
-APO 2017|[MVP-APO-FG-2017.dws](https://doc.la.stueber.de/mvp-apo-fg-2017.html)|-|-|-|-
+APO 2017|[MVP-APO-FG-2017.dws](https://doc.la.stueber.de/mvp-apo-fg-2017)|-|-|-|-
 APO 2010|[MVP-APO-2010.dws (auch FG)](skripte_mvp-apo-2010.md)  |[MVP-FW-APO-2010.js](fachwahl/mvp-fw-apo-2010js.md)|[MVP-FW-APO-2010.js](fachwahl/mvp-fw-apo-2010js.md)|-|-
 APO 2006|[MVP-APO-2006.dws (auch FG)](skripte_mvp-apo-2006.md)  |-|-|-|-
 APO 1999|[MVP-APO-1999.dws](skripte_mvp-apo-1999.md)| |MVP-FW-APO-1999.dws|-|-
@@ -122,7 +122,7 @@ NRW-AS-APO-BK-1999|-|-|-|[NRW-AS-APO-BK-1999](durchschnitt_abschluss/nrw-as-apo-
 | RLP 2006                    | [RLP-APO-2006.dws](skripte_rlp-apo-2006.md) | -                                        | RLP-FW-APO-2006.dws                      | -                             | -                                        |
 | APO 2010                    | [RLP-APO-2010.dws](skripte_rlp-apo-2010.md) | [RLP-FW-APO-2010.js](fachwahl/rlp-fw-apo-2010js.md) | [RLP-FW-APO-2010.js](fachwahl/rlp-fw-apo-2010js.md) | -                             | -                                        |
 | APO 2014/G9                 | [RLP-APO-2014.dws](skripte_rlp-apo-2014.md) | -                                        | -                                        | -                             | -                                        |
-| APO 2014/G8                 | [RLP-APO-G8-2014.dws](https://doc.la.stueber.de/Skripte/rlp-apo-2014-g8.html) |                                          | -                                        | -                             | -                                        |
+| APO 2014/G8                 | [RLP-APO-G8-2014.dws](https://doc.la.stueber.de/Skripte/rlp-apo-2014-g8) |                                          | -                                        | -                             | -                                        |
 | APO BGY 1999                | [RLP-APO-BGY-1999.dws](skripte_rlp-apo-bgy-1999.md) | -                                        | RLP-FW-APO-BGY-1999.dws                  | -                             | -                                        |
 | APO BGY 2010                | [RLP-APO-BGY-2010.dws](skripte_rlp-apo-bgy-2010.md) | [RLP-FW-APO-BGY-2010.js](fachwahl/rlp-fw-apo-bgy-2010js.md) | [RLP-FW-APO-BGY-2010.js](fachwahl/rlp-fw-apo-bgy-2010js.md) | -                             | -                                        |
 | APO BGY 2014                | [RLP-APO-BGY-2014](skripte_rlp-apo-bgy-2014.md) | -                                        | -                                        | -                             | -                                        |
@@ -137,11 +137,11 @@ NRW-AS-APO-BK-1999|-|-|-|[NRW-AS-APO-BK-1999](durchschnitt_abschluss/nrw-as-apo-
 
 Verordnung|Abitur|Fachwahl<br/> MAGELLAN|Fachwahl<br/> DAVINCI|Schüler ><br/> Leistungskarte|BBS
 ----------|------|-----------------     |--------------       |------------------------     |------------
-APO BGY 2017|[SAC-APO-BGY-2017](https://doc.la.stueber.de/skripte_SAC-APO-BGY-2017.html)|-|-|-|-
+APO BGY 2017|[SAC-APO-BGY-2017](https://doc.la.stueber.de/skripte_SAC-APO-BGY-2017)|-|-|-|-
 APO 1996|[SAC-APO-1996.dws](skripte_sac-apo-1996.md)|-|SAC-FW-APO-1996.dws |-|-
 APO BGY 2004|[SAC-APO-BGY-2004.dws](skripte_sac-apo-bgy-2004.md)|-|-|-|-
 APO BGY 2010|[SAC-APO-BGY-2010.dws](skripte_sac-apo-bgy-2010.md)| |-|-|-
-APO BGY 2011|[SAC-APO-BGY-2011.dws](https://doc.la.stueber.de/sac-apo-bgy-2011.html)|-|-|-|-
+APO BGY 2011|[SAC-APO-BGY-2011.dws](https://doc.la.stueber.de/sac-apo-bgy-2011)|-|-|-|-
 APO BGY 2014|[SAC-APO-BGY-2014](skripte_sac-apo-bgy-2014.md)| [SAC-FW-APO-2014.js](fachwahl/sac-fw-apo-2014js.md)|[SAC-FW-APO-2014.js](fachwahl/sac-fw-apo-2014js.md)|-|-
 
 
@@ -159,16 +159,16 @@ APO 1999|[SAA-APO-1999.dws](skripte_saa-apo-1999.md)|-|SAA-FW-APO-1999.dws |-|-
 
 | Verordnung   | Abitur                                   | Mittelstufe                              | Fachwahl<br/> MAGELLAN                   | Fachwahl<br/> DAVINCI                    | Schüler ><br/> Leistungskarte | BBS |
 |--------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|-------------------------------|-----|
-| APO 2018     | [SAR-APO-2018.dws](https://doc.la.stueber.de/Skripte/sar-apo-2018.html) | -                                        | -                                        | -                                        | -                             | -   |
-| APO 2017     | [SAR-APO-2017.dws](https://doc.la.stueber.de/Skripte/SAR-APO-2017.html) | -                                        | -                                        | -                                        | -                             | -   |
+| APO 2018     | [SAR-APO-2018.dws](https://doc.la.stueber.de/Skripte/sar-apo-2018) | -                                        | -                                        | -                                        | -                             | -   |
+| APO 2017     | [SAR-APO-2017.dws](https://doc.la.stueber.de/Skripte/SAR-APO-2017) | -                                        | -                                        | -                                        | -                             | -   |
 | APO 1999     | [SAR-APO-1999.dws](skripte_sar-apo-1999.md) | -                                        | -                                        | -                                        | -                             | -   |
 | APO 2007     | [SAR-APO-2007.dws](skripte_sar-apo-2007.md) | -                                        | [SAR-FW-APO-2007.js](fachwahl/sar-fw-apo-2007js.md) | [SAR-FW-APO-2007.js](fachwahl/sar-fw-apo-2007js.md) | -                             | -   |
-| APO BGY 2017 | [SAR-APO-BGY-2017.dws](https://doc.la.stueber.de/skripte_sar-apo-bgy-2017.html) | -                                        | -                                        | -                                        | -                             | -   |
+| APO BGY 2017 | [SAR-APO-BGY-2017.dws](https://doc.la.stueber.de/skripte_sar-apo-bgy-2017) | -                                        | -                                        | -                                        | -                             | -   |
 | APO BGY 2007 | [SAR-APO-BGY-2007.dws](skripte_sar-apo-bgy-2007.md) | -                                        | -                                        | -                                        | -                             | -   |
 | APO BGY 1999 | [SAR-APO-BGY-1999.dws](skripte_sar-apo-bgy-1999.md) | -                                        | -                                        | -                                        | -                             | -   |
 | APO BGY 2007 | [SAR-APO-BGY-2007.dws](skripte_sar-apo-bgy-2007.md) | -                                        | -                                        | -                                        | -                             | -   |
 | DFG          | [SAR-APO-DFG-2014.dws](skripte_sar-apo-dfg-2014.md) | -                                        | -                                        | -                                        | -                             | -   |
-| GemSVO 2015  | -                                        | [SAR-VO-GEM-2015.dws](https://doc.la.stueber.de/mittelstufe/berechnungsskripte/sar-vo-gem-2015dws.html) | -                                        | -                                        | -                             | -   |
+| GemSVO 2015  | -                                        | [SAR-VO-GEM-2015.dws](https://doc.la.stueber.de/mittelstufe/berechnungsskripte/sar-vo-gem-2015dws) | -                                        | -                                        | -                             | -   |
 
 
 ## Schleswig-Holstein
@@ -176,10 +176,10 @@ APO 1999|[SAA-APO-1999.dws](skripte_saa-apo-1999.md)|-|SAA-FW-APO-1999.dws |-|-
 | Verordnung | Abitur| Fachwahl<br/> MAGELLAN  | Fachwahl <br/>DAVINCI                    | Schüler ><br/> Leistungskarte | BBS |
 |------------|------------------------------------------|------------------------------------------|------------------------------------------|-------------------------------|-----|
 | APO 1998   | [SHL-APO-1998.dws](skripte_shl-apo-1998.md) | -                                        | SHL-FW-APO-1998.dws                      | -                             | -   |
-| APO 2007   | [SHL-APO-2007.dws](https://doc.la.stueber.de/skripte_shl-apo-2007.html) | -                                        | -                                        | -                             | -   |
+| APO 2007   | [SHL-APO-2007.dws](https://doc.la.stueber.de/skripte_shl-apo-2007) | -                                        | -                                        | -                             | -   |
 | APO 2010   | [SHL-APO-2010.dws](skripte-shl-apo-2007shl-apo-2010.md) | [SHL-FW-APO-2010.js](fachwahl/shl-fw-apo-2010js.md) | [SHL-FW-APO-2010.js](fachwahl/shl-fw-apo-2010js.md) | -                             | -   |
-| APO 2015   | [SHL-APO-2015.dws](https://doc.la.stueber.de/skripte_shl-apo-2015.html) | -                                        | -                                        | -                             | -   |
-| APO 2018   | [SHL-APO-2018.dws](https://doc.la.stueber.de/skripte_shl-apo-2018.html)| -                                        | -                                        | -                             | -   |
+| APO 2015   | [SHL-APO-2015.dws](https://doc.la.stueber.de/skripte_shl-apo-2015) | -                                        | -                                        | -                             | -   |
+| APO 2018   | [SHL-APO-2018.dws](https://doc.la.stueber.de/skripte_shl-apo-2018)| -                                        | -                                        | -                             | -   |
 
 
 
@@ -193,8 +193,8 @@ APO 1999|[THÜ-APO-1999.dws](skripte_thu-apo-1999.md)|-|THÜ-FW-APO-1999.dws |-|
 
 Verordnung|Abitur|Fachwahl<br/>MAGELLAN|Fachwahl<br/> DAVINCI|Schüler ><br/> Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
-2017|-|-|-|[DE-MSA-2019.dws](https://doc.la.stueber.de/durchschnitt_abschluss/de-msa-2019dws.html)|-
-APO 2015|[DE-DIAP-2015.dws](https://doc.la.stueber.de/de-diap-2015.html)  |-|-|-|-
+2017|-|-|-|[DE-MSA-2019.dws](https://doc.la.stueber.de/durchschnitt_abschluss/de-msa-2019dws)|-
+APO 2015|[DE-DIAP-2015.dws](https://doc.la.stueber.de/de-diap-2015)  |-|-|-|-
 APO 2005|[DE-DIAP-2005.dws](skripte_de-diap-2005.md) |-|-|-|-
 APO 2004|[DE-DRP-2005.dws](skripte_de-drp-2005.md)  |-|-|-|-
 

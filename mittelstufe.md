@@ -1,14 +1,24 @@
-# Grundlegende Einstellungen
+# Spezielle Einstellungen pro Skript
+
+Die gesamte Abschlussnotenberechnung wird durch MAGELLAN-Skripte durchgeführt. D.h. jedes Skript repräsentiert eine Verordnung. Es wird im Folgenden jeweils das Veröffentlichungsjahr der entsprechenden Verordnung angeben.
+
+Die derzeit in MAGELLAN verfügbaren Prüfungsordnungen werden im Abschnitt [Alle Skripte im Überblick](alle_skripte_im_uberblick.md) aufgelistet.
+
+!!! info "Hinweis"
+
+    Achten Sie in den folgenden Abschnitten immer auf die speziellen Hinweise für das von Ihnen gewählte Skript.
+
+## Grundlegende Einstellungen
 
 !!! info "Hinweis"
 
      Die nachstehenden Punkte sind eine kurze Zusammenfassung der Vorgehensweise.
 
-## Ansicht "Mittelstufe"
+### Ansicht "Mittelstufe"
 
 Damit die Ansicht "Mittelstufe" in Magellan in der linken Navigationsleiste sichtbar ist, müssen Sie unter `Extras > Optionen > Registerkarte "Ein-/Ausblenden"`  die Option `Mittelstufe ausblenden` nicht markieren.
 
-## Einrichtung der Klassen
+### Einrichtung der Klassen
 
 Folgende Angaben sind bei der Eingabe der Klassen neben den Halbjahren wichtig:
 
@@ -18,7 +28,7 @@ Folgende Angaben sind bei der Eingabe der Klassen neben den Halbjahren wichtig:
 | Jahrgang |Klassen > Zeiträume > Zeitraum| 5, 6, 7, 8, 9, 10 (pro Zeitraum der Klasse notwendig) |
 | Beurteilungsart |Klassen > Daten| Benotung durch Punkte bzw. Benotung durch Noten |
 
-## Unterrichtsarten und Fachstatus
+### Unterrichtsarten und Fachstatus
 
 Voraussetzung für die Abgangs- bzw. Abschlussnotenberechnung ist, dass Sie bei den Fächern des Schülers die entsprechende Unterrichtsart und den entsprechenden Fachstatus eingegeben haben.
 
@@ -33,3 +43,4 @@ Bei den einzelnen Berechnungsskripten werden bestimmte Unterscheidungen in den U
 * Je Schüler die Fächer und Noten synchronisieren oder manuell eingeben
 
 In den nachfolgenden Abschnitten erfahren Sie mehr zu den einzelnen Punkten.
+
