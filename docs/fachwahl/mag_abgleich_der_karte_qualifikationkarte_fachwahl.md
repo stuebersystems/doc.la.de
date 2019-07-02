@@ -11,4 +11,6 @@ Folgende Aktionen werden durch diese Option beeinflusst:
 |Ein Fach wird gelöscht|Wird ein Fach auf der Karte Qualifikation oder auf der Karte Fachwahl gelöscht, wird das Fach automatisch auf der anderen Karte entfernt. |
 |Unterrichtsart, Fachstatus o.ä. wird verändert|Ist ein Fach durch den Abgleich auf beiden Karten angelegt worden und es wird eine der zusätzlich zur Verfügung stehenden Eigenschaften geändert, wird die Änderung auch auf der anderen Karte mit abgebildet. |
 
->	Bereits bestehende Fächer auf der Karte Fachwahl und Qualifikation werden durch das Setzen der Option ``Abgleich Qualifikation/Fachwahl``` im Abitur nicht automatisch abgeglichen. Die Option wirkt sich auf neu angelegte oder neu synchronisierte Fächer aus.
+!!! info "Hinweis"
+
+    Bereits bestehende Fächer auf der Karte Fachwahl und Qualifikation werden durch das Setzen der Option ``Abgleich Qualifikation/Fachwahl``` im Abitur nicht automatisch abgeglichen. Die Option wirkt sich auf neu angelegte oder neu synchronisierte Fächer aus.

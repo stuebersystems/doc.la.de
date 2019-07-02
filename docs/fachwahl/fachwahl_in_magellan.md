@@ -15,7 +15,7 @@ Sie können die Schüler von MAGELLAN importieren, die Fachwahlen eingeben und d
 
 !!! info "Hinweis"
 
-    Die Fachwahleingabe ist auch in MAGELLAN möglich, allerdings ohne Stundenzahlen. Die Fachwahlen aus MAGELLAN können per Import nach DAVINCI übernommen werden. MAGELLAN verwendet zur Fachwahlüberprüfung das gleiche Fachwahlskript wie DAVINCI.
+  Die Fachwahleingabe ist auch in MAGELLAN möglich, allerdings ohne Stundenzahlen. Die Fachwahlen aus MAGELLAN können per Import nach DAVINCI übernommen werden. MAGELLAN verwendet zur Fachwahlüberprüfung das gleiche Fachwahlskript wie DAVINCI.
 
 ## Schüler eingeben{#Schüler eingeben}
 
@@ -25,11 +25,11 @@ In der Ansicht ```Stammdaten > Schüler``` werden alle Schüler des Oberstufenja
 
 Sie können die Schüler (der Oberstufenjahrgänge) in den Ansichten ```Stammdaten > Schüler``` oder ```Kursplan > Schüler``` über den Befehl Neu eingeben. 
 
-In der Ansicht ```Kursplan > Schüler``` wird der Schüler automatisch den eingestellten Jahrgang zugeordnet. Wenn Sie mit MAGELLAN arbeiten, können Sie die Schüler über ```Plan > Importieren und Exportieren > Von MAGELLAN importieren```. 
+In der Ansicht ```Kursplan > Schüler``` wird der Schüler automatisch den eingestellten Jahrgang zugeordnet. Wenn Sie mit MAGELLAN arbeiten, können Sie die Schüler über ```Plan > Importieren und Exportieren > Von MAGELLAN importieren```.
 
 In der Ansicht ```Stammdaten > Schüler``` muss jeder Schüler in der Spalte „Klasse“ einem Jahrgang zugeordnet werden. Jahrgang und Klasse ist in diesem Fall gleichbedeutend.
 
-Falls Sie MAGELLAN einsetzen, können Sie über den Befehl ```Plan > Importieren und Exportieren``` die Schüler aus Ihrer Schulverwaltung übernehmen. 
+Falls Sie MAGELLAN einsetzen, können Sie über den Befehl ```Plan > Importieren und Exportieren``` die Schüler aus Ihrer Schulverwaltung übernehmen.
 
 Tabelle 2: Bedeutung der Zellen Hintergrundfarben in der Ansicht ```Kursplan > Schüler```
 
@@ -53,8 +53,8 @@ Mit den „Markieren“ Schaltflächen können Sie alle Halbjahre eines Fachs ma
 
 |Spalte |Bemerkung|
 |--|--|
-|Fach| Gewähltes Fach, das mit der Angabe von Unterrichtsart und „Fachstatus“  näher spezifiziert werden muss. |
-|Unterrichtsart |Unterrichtsart, z.B. „LK“ oder „GK“ oder „Kurs“, abhängig von Fachwahlskript.  Geben Sie die Unterrichtsarten ggf. über ```Schlüsselverzeichnisse > Unterrichtsarten``` ein. Ausschlaggebend sind dort die Angaben in der Spalte „Schlüssel“. Diese Angabe wird von der Blockungsautomatik mit der Vorgabe „Unterrichtsart“ in der Ansicht ```Kursplan > Blöcke``` abgeglichen.|
+|Fach| Gewähltes Fach, das mit der Angabe von Unterrichtsart und „Fachstatus“ näher spezifiziert werden muss. |
+|Unterrichtsart |Unterrichtsart, z.B. „LK“ oder „GK“ oder „Kurs“, abhängig von Fachwahlskript. Geben Sie die Unterrichtsarten ggf. über ```Schlüsselverzeichnisse > Unterrichtsarten``` ein. Ausschlaggebend sind dort die Angaben in der Spalte „Schlüssel“. Diese Angabe wird von der Blockungsautomatik mit der Vorgabe „Unterrichtsart“ in der Ansicht ```Kursplan > Blöcke``` abgeglichen.|
 |Fachstatus |Prüfungsfach z.B. „1PF“, „2PF“, „3PF“, „4PF“ oder „5PF“, abhängig von Fachwahlskript. Geben Sie die Fachstatus ggf. über ```Schlüsselverzeichnisse > Fachstatus``` ein. Ausschlaggebend sind dort die Angaben in der Spalte „Schlüssel“.|
 |Stunden| Geben Sie hier die Stundenzahl ein. Sie wird automatisch auf die Halbjahre 1 bis 6 übertragen. Diese Angabe wird von der Blockungsautomatik mit der Vorgabe „Min. Std“ und „Max. Std“ in der Ansicht ```Kursplan > Blöcke``` abgeglichen. Sie können diese Angabe auch leer lassen.|
 |1…6 |Die Halbjahre der Oberstufe mit der jeweiligen Stundenanzahl, die sich aus der Spalte „Stunden“ ergibt. Sie können mit einem Mausklick in die betreffende Zelle Halbjahre für ein Fach markieren (weiß) oder demarkieren (grau). Wenn Sie unter „Stunden“ keine Stundenanzahl eingegeben haben, bleiben die Zellen der Tabelle leer.|
@@ -79,19 +79,19 @@ Standardmäßig ist die Stundentafel des Jahrgangs eingestellt, Sie können aber
 
 ![Dialog "Schülerdaten löschen"So können Sie die Fachwahl eines Schülers löschen](/assets/images/dav_fw_loeschen.jpg)
 
-*  Wechseln Sie in die Ansicht ```Kursplan > Fachwahlen ```und klicken Sie den gewünschten Schüler in der Detailansicht „Schüler“ an.
+* Wechseln Sie in die Ansicht ```Kursplan > Fachwahlen``` und klicken Sie den gewünschten Schüler in der Detailansicht „Schüler“ an.
 
-*  Markieren Sie eine oder mehrere Zeilen in seiner Fachwahltabelle. Sie können mit Strg+Mausklick und Shift+Mausklick mehrere Zeilen in der Tabelle markieren.
+* Markieren Sie eine oder mehrere Zeilen in seiner Fachwahltabelle. Sie können mit Strg+Mausklick und Shift+Mausklick mehrere Zeilen in der Tabelle markieren.
 
-*  Klicken Sie oben im Menü auf Löschen, um die entsprechenden Zeilen zu löschen.
+* Klicken Sie oben im Menü auf Löschen, um die entsprechenden Zeilen zu löschen.
 
 So können Sie die Fachwahl mehrerer Schüler gleichzeitig löschen:
 
-*  Wechseln Sie in die Ansicht ```Kursplan > Schüler``` und klicken Sie den gewünschten Schüler in der Detailansicht „Schüler“ an.
+* Wechseln Sie in die Ansicht ```Kursplan > Schüler``` und klicken Sie den gewünschten Schüler in der Detailansicht „Schüler“ an.
 
-*  Markieren Sie eine oder mehrere Schüler in der Schüler-Tabelle. Sie können mit Strg+Mausklick und Shift+Mausklick mehrere Zeilen in der Tabelle markieren.
+* Markieren Sie eine oder mehrere Schüler in der Schüler-Tabelle. Sie können mit Strg+Mausklick und Shift+Mausklick mehrere Zeilen in der Tabelle markieren.
 
-*  Klicken Sie oben im Menü auf Löschen, um die entsprechenden Zeilen zu löschen. Das Dialogfenster „Schüler löschen“ gibt Ihnen die Option die Schüler oder nur die Fachwahlen der markierten Schüler zu löschen. Wählen Sie dort „Nur Fachwahlen löschen“.
+* Klicken Sie oben im Menü auf Löschen, um die entsprechenden Zeilen zu löschen. Das Dialogfenster „Schüler löschen“ gibt Ihnen die Option die Schüler oder nur die Fachwahlen der markierten Schüler zu löschen. Wählen Sie dort „Nur Fachwahlen löschen“.
 
 >Wenn Sie eine Stundentafel allen Schülern des Jahrgangs zugwiesen haben, um anschließend die Fachwahlen einzugeben, sind je Schüler unbenutzte Fächer als graue Zeilen in der Ansicht Schüler | Fachwahlen übrig geblieben. Das Dialogfenster „Schüler löschen“ gibt Ihnen die Option, nur die Fachwahlen ohne Belegung der markierten Schüler zu löschen. Wählen Sie dort „Nur Fachwahlen ohne Belegung löschen“.
 
@@ -105,8 +105,8 @@ Stundentafeln geben Sie in der Ansicht ```Stammdaten > Stundentafeln``` ein. Kli
 
 |Spalte |Bemerkung|
 |--|--|
-|Fach |Gewähltes Fach, das mit der Angabe von Unterrichtsart und „Fachstatus“  näher spezifiziert werden muss. |
-|Unterrichtsart| Unterrichtsart, z.B. „LK“ oder „GK“ oder „Kurs“, wird in die gleichnamige Spalte der Fachwahl übernommen.  Geben Sie hier z.B. als Standardvorgabe „GK“ oder „Kurs“ ein, das erspart Ihnen die Eingabe in der Ansicht „Fachwahl“.. Für die Leistungskurse können Sie dann in der Fachwahl anstatt „GK“ die Angabe „LK“ machen. Geben Sie die Unterrichtsar-ten ggf. über ```Schlüsselverzeichnisse > Unterrichtsarten``` ein. Ausschlaggebend sind dort die Angaben in der Spalte „Schlüssel“.|
+|Fach |Gewähltes Fach, das mit der Angabe von Unterrichtsart und „Fachstatus“ näher spezifiziert werden muss. |
+|Unterrichtsart| Unterrichtsart, z.B. „LK“ oder „GK“ oder „Kurs“, wird in die gleichnamige Spalte der Fachwahl übernommen. Geben Sie hier z.B. als Standardvorgabe „GK“ oder „Kurs“ ein, das erspart Ihnen die Eingabe in der Ansicht „Fachwahl“.. Für die Leistungskurse können Sie dann in der Fachwahl anstatt „GK“ die Angabe „LK“ machen. Geben Sie die Unterrichtsar-ten ggf. über ```Schlüsselverzeichnisse > Unterrichtsarten``` ein. Ausschlaggebend sind dort die Angaben in der Spalte „Schlüssel“.|
 |Soll |Sollstundenzahl, die in die Spalte „Stunden“ der Fachwahl übernommen wird
 |Pflichtkurse| Anzahl der zu belegenden Kurse über die 4 oder 6 Halbjahre der Oberstufe
 
@@ -130,12 +130,9 @@ Grundsätzlich wird hier:
 
 ## Fachwahl eintragen {#Fachwahl eintragen}
 
- 
-Das Eintragen der Fächer für die Fachwahl kann sowohl rein manuell pro Fach erfolgen oder wesentlich komfortabler per Zuordnung von Fachwahltafeln. Wir beschreiben nachstehend allgemein die notwendigen Schritte für die Fachwahlerfassung und die Prüfung der Fachwahlen.  
+Das Eintragen der Fächer für die Fachwahl kann sowohl rein manuell pro Fach erfolgen oder wesentlich komfortabler per Zuordnung von Fachwahltafeln. Wir beschreiben nachstehend allgemein die notwendigen Schritte für die Fachwahlerfassung und die Prüfung der Fachwahlen. 
 
-##Fachwahltafeln zuordnen
-
-
+## Fachwahltafeln zuordnen
 
 Durch die Verwendung von Fachwahltafeln können Sie Kopiervorlagen definieren, die Sie über den Assistenten für die Zuweisung Fachwahltafel ein oder mehreren Schüler gleichzeitig zuweisen können.
 
@@ -167,7 +164,6 @@ So weisen Sie eine Fachwahltafel Schülern in der Ansicht „Abitur“ zu:
 
 ## Fächer manuell zuordnen{#Fächer manuell zuordnen}
 
-
 Die Fächer der Fachwahl können auch ohne die Kopiervorlage der Fachwahltafeln dem Schüler zugeordnet werden. Dazu gehen Sie pro Fach wie folgt vor:
 
 * Wechseln Sie in der Ansicht „Abitur“ auf die Registerkarte Fachwahl.
@@ -188,9 +184,7 @@ Wenn Sie die Fachwahl manuell pro Fach auf diese Weise zuordnen, müssen Sie im 
 
 * die Fachwahlverordnung und Zuordnung der Halbjahre zu den die Zeiträume pro Schüler manuell vornehmen.
 
-
 ## Abgleich der Karte Qualifikation/Karte Fachwahl{#Abgleich der Karte Qualifikation/Karte Fachwahl}
-
 
 Unter Extras > Optionen > Einstellungen kann die Option ```Abgleich Qualifikation/Fachwahl im Abitur``` gewählt werden. 
 
@@ -203,13 +197,13 @@ Folgende Aktionen werden durch diese Option beeinflusst:
 |Ein Fach wird gelöscht|Wird ein Fach auf der Karte Qualifikation oder auf der Karte Fachwahl gelöscht, wird das Fach automatisch auf der anderen Karte entfernt. |
 |Unterrichtsart, Fachstatus o.ä. wird verändert|Ist ein Fach durch den Abgleich auf beiden Karten angelegt worden und es wird eine der zusätzlich zur Verfügung stehenden Eigenschaften geändert, wird die Änderung auch auf der anderen Karte mit abgebildet. |
 
-> Bereits bestehende Fächer auf der Karte Fachwahl und Qualifikation werden durch das Setzen der Option ``Abgleich Qualifikation/Fachwahl``` im Abitur nicht automatisch abgeglichen. Die Option wirkt sich auf neu angelegte oder neu synchronisierte Fächer aus.
+!!! info "Hinweis"
 
+    Bereits bestehende Fächer auf der Karte Fachwahl und Qualifikation werden durch das Setzen der Option ``Abgleich Qualifikation/Fachwahl``` im Abitur nicht automatisch abgeglichen. Die Option wirkt sich auf neu angelegte oder neu synchronisierte Fächer aus.
 
 ## Fachwahl prüfen {#Fachwahl prüfen}
 
-
-Sobald Sie dem Schüler eine Fachwahlverordnung zugeordnet haben, wird die Schaltfläche ```Neu prüfen``` zur Überprüfung der Fachwahl aktiv. Auf Basis der eingetragenen Fachwahl können Sie durch Wahl der Schaltfläche ```Neu prüfen``` diese prüfen. Das Ergebnis der Prüfung wird im oberen Bereich der Registerkarte Fachwahl angezeigt. Ist die Anzeige rot unterlegt, handelt es sich um eine (noch) nicht gültige Fachwahl. 
+Sobald Sie dem Schüler eine Fachwahlverordnung zugeordnet haben, wird die Schaltfläche ```Neu prüfen``` zur Überprüfung der Fachwahl aktiv. Auf Basis der eingetragenen Fachwahl können Sie durch Wahl der Schaltfläche ```Neu prüfen``` diese prüfen. Das Ergebnis der Prüfung wird im oberen Bereich der Registerkarte Fachwahl angezeigt. Ist die Anzeige rot unterlegt, handelt es sich um eine (noch) nicht gültige Fachwahl.
 
 ![Diese Fachwahl ist noch fehlerhaft](/assets/images/mag_fw_verkehrt.png)
 
@@ -217,24 +211,25 @@ Bei einer gültigen Fachwahl ist der obere Hinweistext grün hinterlegt mit dem 
 
 ![Diese Fachwahl ist gültig](/assets/images/mag_fw_ok.png)
 
-Mit Wahl der Schaltfläche ```Neu prüfen ```wird oberhalb dieser Schaltfläche der Status Fachwahl geprüft angezeigt. Verändert man die Fachwahl des Schülers, wechselt der Status automatisch auf ```Fachwahl nicht geprüft```.
+Mit Wahl der Schaltfläche ```Neu prüfen``` wird oberhalb dieser Schaltfläche der Status Fachwahl geprüft angezeigt. Verändert man die Fachwahl des Schülers, wechselt der Status automatisch auf ```Fachwahl nicht geprüft```.
 
 ![Dies ist die Anzeige des Prüfstatus „Fachwahl nicht geprüft“ bzw. „Fachwahl geprüft“](/assets/images/mag_fw.png)
 
-> Ist für ein eingetragenes Fach keine der Spalten „1. HJ“ bis „6. HJ“ markiert, wird dieses Fach bei der Fachwahlprüfung als nicht gewählt betrachtet.
+!!! info "Hinweis"
 
-> Die Zuordnung der Zeiträume zu den Halbjahren 1 bis 6 auf der rechten Seite haben keinen Einfluss auf die Fachwahlprüfung. Sie dienen nur der späteren Zuweisung der Fachwahlen eines Halbjahres zu den Fächern des Schülers (siehe nachfolgender Abschnitt)
+    Ist für ein eingetragenes Fach keine der Spalten „1. HJ“ bis „6. HJ“ markiert, wird dieses Fach bei der Fachwahlprüfung als nicht gewählt betrachtet.
 
+!!! info "Hinweis"
 
- ## Fachwahl zu den Fächern des Schülers übernehmen{#Fachwahl zu den Fächern des Schülers übernehmen}
+    Die Zuordnung der Zeiträume zu den Halbjahren 1 bis 6 auf der rechten Seite haben keinen Einfluss auf die Fachwahlprüfung. Sie dienen nur der späteren Zuweisung der Fachwahlen eines Halbjahres zu den Fächern des Schülers (siehe nachfolgender Abschnitt)
 
- 
+## Fachwahl zu den Fächern des Schülers übernehmen{#Fachwahl zu den Fächern des Schülers übernehmen}
 
-Die unter Ansicht ```Abitur > Fachwahl ```erstellten Fachwahlen der Schüler können nun zu Fächern der Schüler auf der Registerkarte Ansicht ```Schüler > Zeugnis > Fächer``` übernommen werden. Diese Zuweisung erfolgt immer zum aktuell eingestellten Zeitraum.
+Die unter Ansicht ```Abitur > Fachwahl``` erstellten Fachwahlen der Schüler können nun zu Fächern der Schüler auf der Registerkarte Ansicht ```Schüler > Zeugnis > Fächer``` übernommen werden. Diese Zuweisung erfolgt immer zum aktuell eingestellten Zeitraum.
 
 Bei der Übernahme der Fachwahl eines Schülers werden nur die Fächer übernommen, die in einem der sechs Halbjahre auf der rechten Seite den aktuellen Zeitraum von MAGELLAN zugewiesen haben und die in diesem Halbjahr das Kontrollkästchen markiert haben.
 
-Beispiel: 
+Beispiel:
 
 In MAGELLAN ist der aktuelle Zeitraum das „1. Halbjahr 2011/2012“. Der Schüler hat die nachfolgende Fachwahl:
 
@@ -253,8 +248,3 @@ Auf Basis dieser Zuordnung kann nun die Zuweisung der Fachwahlen zu den Fächern
 * Klicken Sie auf ```Fertigstellen```, um die Fachwahlübernahme zu starten.
 
 Die übernommen Fächer finden Sie nun auf der Registerkarte Ansicht ```Schüler“ > Zeugnis > Fächer```.
-
-
-
-
-
