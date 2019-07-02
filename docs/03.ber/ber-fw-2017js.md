@@ -49,39 +49,39 @@ Die relevanten Spalten in der Ansicht `Stammdaten > Klassen`:
 Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter `Verzeichnisse > Fächer > Kategorie` zuweisen.  
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
 
-|  | Fachkategorien | Wird vom Skript berücksichtigt |
-| --- | --- | --- |
-|  | Fremdsprache | JA |
-|  | Religion/Ethik | JA |
-|  | Deutsch | JA |
-|  | Mathematik | JA |
-|  | Kunst | JA |
-|  | Musik | JA |
-|  | Sport | JA |
-|  | Informatik | JA |
-|  | Philosophie | JA |
-|  | Geschichte | JA |
-|  | Physik | JA |
-|  | Chemie | JA |
-|  | Biologie | JA |
-|  | Erdkunde | JA |
-|  | Sozialkunde | JA |
-|  | Wirtschaft | JA |
-|  | Politik | JA |
-|  | Darstellendes Spiel | JA |
-|  | Evangelische Religion |  |
-|  | Katholische Religion |  |
-|  | Technik |  |
-|  | Pädagogik |  |
-|  | Sporttheorie | JA |
-|  | BWL/RW |  |
-|  | BWL/VWL |  |
-|  | VWL |  |
-|  | Seminar | JA |
-|  | Gesundheit |  |
-|  | Psychologie |  |
-|  | Recht |  |
-| Literatur |  |  |
+| Fachkategorien | Wird vom Skript berücksichtigt |
+| --- | --- |
+| Fremdsprache |**Ja**|
+| Religion/Ethik |**Ja**|
+| Deutsch |**Ja**|
+| Mathematik |**Ja**|
+| Kunst |**Ja**|
+| Musik |**Ja**|
+| Sport |**Ja**|
+| Informatik |**Ja**|
+| Philosophie |**Ja**|
+| Geschichte |**Ja**|
+| Physik |**Ja**|
+| Chemie |**Ja**|
+| Biologie |**Ja**|
+| Erdkunde |**Ja**|
+| Sozialkunde |**Ja**|
+| Wirtschaft |**Ja**|
+| Politik |**Ja**|
+ Darstellendes Spiel |**Ja**|
+| Evangelische Religion |Nein|
+| Katholische Religion |Nein|
+| Technik |Nein|
+| Pädagogik |Nein|
+| Sporttheorie |**Ja**|
+| BWL/RW |Nein|
+| BWL/VWL |Nein|
+| VWL |Nein|
+| Seminar |**Ja**|
+| Gesundheit |Nein|
+| Psychologie |Nein|
+| Recht |Nein|
+| Literatur |Nein|  |
 
 ## Aufgabenbereiche
 
