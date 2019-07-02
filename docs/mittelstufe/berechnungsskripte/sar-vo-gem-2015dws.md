@@ -4,7 +4,8 @@
 
 Basierend auf der Gemeinschaftsschulverordnung - GemSVO [http://sl.juris.de/sl/gesamt/GemSchulV\_SL\_2012.htm](http://sl.juris.de/sl/gesamt/GemSchulV_SL_2012.htm)
 
-Das Skript zunächst berücksichtigt: 
+Das Skript zunächst berücksichtigt:
+
 1. den Abschluss des Jahrgangs 9 mit dem Hauptschulabschluss, den erweiterten Hauptschulabschluss und die Prüfung des Übergangs von Klasse 9 in die Klasse 10.
 2. den Abschluss des Jahrgangs 10 mit dem Mittleren Bildungsabschluss und den evtl. Übergang nach Klasse 11.
 
@@ -19,11 +20,11 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` für Jahrgang 9 und Jahrgan
 | Spalte | Wert |
 | --- | --- |
 | Kürzel | beliebig |
-| Bezeichnung | beliebig \(GemSVO\) |
+| Bezeichnung | beliebig (GemSVO) |
 | Kategorie | Mittelstufe |
 | Typ | SARGEM09 |
 | Ab Jahrgang | 9 |
-| Skript | `...\Ihre Region\Ihr_Skript.dws` \(Pfad zur Skriptdatei auf Ihrem Server \(`...\Saarland\SAR-VO-GEM-2015.dws`\) |
+| Skript | `...\Ihre Region\Ihr_Skript.dws` (Pfad zur Skriptdatei auf Ihrem Server (`...\Saarland\SAR-VO-GEM-2015.dws`) |
 | Notenart 11 | leer |
 | Notenart 12 | leer |
 | Notenart 13 | leer |
@@ -41,7 +42,7 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` für Jahrgang 9 und Jahrgan
 | Kategorie | Mittelstufe |
 | Typ | SARGEM10 |
 | Ab Jahrgang | 10 |
-| Skript | `...\Ihre Region\Ihr_Skript.dws` \(Pfad zur Skriptdatei auf Ihrem Server \(`...\Saarland\SAR-VO-GEM-2015.dws`\) |
+| Skript | `...\Ihre Region\Ihr_Skript.dws` (Pfad zur Skriptdatei auf Ihrem Server (`...\Saarland\SAR-VO-GEM-2015.dws`) |
 | Notenart 11 | leer |
 | Notenart 12 | leer |
 | Notenart 13 | leer |
@@ -51,9 +52,8 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` für Jahrgang 9 und Jahrgan
 | Gültig bis | leer |
 
 
-### Verzeichnis Verordnungen
 
-![Verzeichnis Verordnungen](/assets/MS_Verordnung.png)
+![Verzeichnis Verordnungen](/assets/images/MS_Verordnung.png)
 
 ### Verzeichnis Fächer
 
@@ -67,7 +67,9 @@ Bitte legen Sie in Ihrem Fächerverzeichnis zusätzlich folgende Fächer wie fol
 
 #### warning::Wichtig!
 
-> Vom Skript werden die Fachbezeichnung "Wahlpflichtbereich", "Gesellschaftswissenschaften" und "Naturwissenschaften" abgefragt.
+!!! info "Hinweis"
+
+    Vom Skript werden die Fachbezeichnung "Wahlpflichtbereich", "Gesellschaftswissenschaften" und "Naturwissenschaften" abgefragt.
 
 #### Fachkategorien
 
@@ -105,9 +107,9 @@ Für die 1. und evtl. 2. Fremdsprache des Schülers muss folgendes beachtet werd
 1. Die Fremdsprachen müssen dem Schüler als Fächer unter `Ansicht "Schüler" > Zeugnis > Fächer` zugeordnet werden. 
 2. Für jede dort zugeordnete Fremdsprache muss pro Schüler festgelegt werden, ob dies die 1. bzw. 2. Fremdsprache ist. Dies erfolgt unter `Ansicht "Schüler" > Daten 3 > Fremdsprache 1`  bzw. `Fremdsprache 2`.
 
-> #### danger::Achtung!
->
-> Bitte beachten Sie, dass die unter Ansicht `Schüler > Daten 3 > Fremdsprache` und die unter `Schüler > Zeugnis > Fächer`verwendeten Fächer auf das identische Fach aus `Verzeichnisse > Fächer`verweisen, ansonsten ist keine Zuordnung möglich!
+!!! info "Hinweis"
+
+    Bitte beachten Sie, dass die unter Ansicht `Schüler > Daten 3 > Fremdsprache` und die unter `Schüler > Zeugnis > Fächer`verwendeten Fächer auf das identische Fach aus `Verzeichnisse > Fächer`verweisen, ansonsten ist keine Zuordnung möglich!
 
 ### Verzeichnis Unterrichtsarten
 
@@ -171,16 +173,18 @@ Damit die Synchronisation klappt sind die folgenden Einstellungen wichtig:
 | Abschlussjahrgänge | Bitte legen Sie unter `Verzeichnisse > Abschlussjahrgänge` die Abschlussjahrgänge an. Es genügt dabei die Angabe des Kürzels, der Bezeichnung und der Kategorie \(Mittelstufe\). |
 | Verordnungen | Richten Sie bitte unter `Verzeichnisse > Verordnungen` pro verwendeter Verordnung eine Zeile entsprechend der Anleitung pro Skript an. Wichtig hierbei ist das Feld "Jahrgang". **Für die Synchonisation muss der Jahrgang mit dem Wert "9" gefüllt werden.** |
 
-> Beim Synchronisieren werden die Noten aus der Spalte „Endnote“ in der `Ansicht "Schüler" > Zeugnis > Leistungen` in das Menü `Mittelstufe` übernommen.
+!!! info "Hinweis"
+
+     Beim Synchronisieren werden die Noten aus der Spalte „Endnote“ in der `Ansicht "Schüler" > Zeugnis > Leistungen` in das Menü `Mittelstufe` übernommen.
 
 
 So synchronisieren Sie Schüler für die Abschlussberechnung:
 
 Rufen Sie den Assistenten aus dem Menü `Mittelstufe` auf der Karte `Prüfung` über die Schaltfläche `Schüler synchronisieren` auf. Der Assistent bietet Ihnen alle Schüler zum Synchronisieren an, filtern Sie hier nach dem Jahrgang und markieren Sie die Schüler und klicken auf `Weiter`.  Auf der nächsten Karte wählen Sie bitte die `Prüfungsordnung` und den `Abschlussjahrgang` aus und klicken auf `Weiter` und `Fertigstellen`.
 
-![Assistent zum Schüler synchronisieren](/images/mittelstufe/ms_synch.png)
+![Assistent zum Schüler synchronisieren](assets/images/mittelstufe/ms_synch.png)
 
-![Assistent zum Schüler synchronisieren / weitere Angaben](/images/mittelstufe/ms_sync1.png)
+![Assistent zum Schüler synchronisieren / weitere Angaben](assets/images/mittelstufe/ms_sync1.png)
 
 Wechseln Sie nach dem Synchronisieren in den Menüpunkt `Mittelstufe` auf die Registerkarte `Auswahl`. Es werden alle synchronisierten Schüler angezeigt.
 

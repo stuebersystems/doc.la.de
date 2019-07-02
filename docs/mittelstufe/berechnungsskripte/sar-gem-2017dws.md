@@ -29,39 +29,39 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 Jedem Fach, dass Sie in der Gemeinschaftsschule verwenden, müssen Sie eine Kategorie unter `Verzeichnisse > Fächer > Kategorie` zuweisen.  
 Folgende Fachkategorien werden durch das Mittelstufenskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
 
-|  | Fachkategorien | Wird vom Skript berücksichtigt |
-| --- | --- | --- |
-|  | Fremdsprache | x |
-|  | Religion/Ethik | x |
-|  | Deutsch | x |
-|  | Mathematik | x |
-|  | Kunst | x |
-|  | Musik | x |
-|  | Sport | x |
-|  | Informatik | x |
-|  | Philosophie |  |
-|  | Geschichte | x |
-|  | Physik | x |
-|  | Chemie | x |
-|  | Biologie | x |
-|  | Erdkunde | x |
-|  | Sozialkunde |  |
-|  | Wirtschaft |  |
-|  | Politik | x |
-|  | Darstellendes Spiel | x |
-|  | Evangelische Religion |  |
-|  | Katholische Religion |  |
-|  | Technik |  |
-|  | Pädagogik |  |
-|  | Sporttheorie |  |
-|  | BWL/RW |  |
-|  | BWL/VWL |  |
-|  | VWL |  |
-|  | Seminar | x |
-|  | Gesundheit |  |
-|  | Psychologie |  |
-|  | Recht |  |
-| Literatur |  |  |
+|Fachkategorien|WirdvomSkriptberücksichtigt|
+|---|---|
+|Fremdsprache|**Ja**|
+|Religion/Ethik|**Ja**|
+|Deutsch|**Ja**|
+|Mathematik|**Ja**|
+|Kunst|**Ja**|
+|Musik|**Ja**|
+|Sport|**Ja**|
+|Informatik|**Ja**|
+|Philosophie|Nein|
+|Geschichte|**Ja**|
+|Physik|**Ja**|
+|Chemie|**Ja**|
+|Biologie|**Ja**|
+|Erdkunde|**Ja**|
+|Sozialkunde|Nein|
+|Wirtschaft|Nein|
+|Politik|**Ja**|
+|DarstellendesSpiel|**Ja**|
+|EvangelischeReligion|Nein|
+|KatholischeReligion|Nein|
+|Technik|Nein|
+|Pädagogik|Nein|
+|Sporttheorie|Nein|
+|BWL/RW|Nein|
+|BWL/VWL|Nein|
+|VWL|Nein|
+|Seminar|**Ja**|
+|Gesundheit|Nein|
+|Psychologie|Nein|
+|Recht|Nein|
+|Literatur|Nein|
 
 ## Aufgabenbereiche
 
@@ -75,9 +75,9 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Verzeichnisse
 | Religion |
 | Sport |
 
-## Unterrichtsart \(Niveau\)
+## Unterrichtsart (Niveau)
 
-Die Unterrichtsart muss unter `Mittelstufe> Unterrichtsart` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Unterrichtsart` übernommen werden.   
+Die Unterrichtsart muss unter `Mittelstufe> Unterrichtsart` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Unterrichtsart` übernommen werden. 
 Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten`, dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung |
