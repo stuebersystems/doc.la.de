@@ -51,8 +51,6 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` für Jahrgang 9 und Jahrgan
 | Gültig von | leer |
 | Gültig bis | leer |
 
-
-
 ![Verzeichnis Verordnungen](/assets/images/MS_Verordnung.png)
 
 ### Verzeichnis Fächer
@@ -132,9 +130,9 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachs
 | Wahlb | Wahlb | Wahlbereich |
 | WahlPF | WahlPF | Wahlpflicht |
 
-### Verzeichnis Abschlüsse \(Intern\)
+### Verzeichnis Abschlüsse (Intern)
 
-Bitte legen Sie in Ihrem Verzeichnis der Abschlüsse \(Intern\) zusätzlich den Hauptschulabschluss und den Mittleren Bildungsabschluss wie folgt unter Verzeichnisse &gt; Abschlüsse \(Intern\) an.
+Bitte legen Sie in Ihrem Verzeichnis der Abschlüsse (Intern) zusätzlich den Hauptschulabschluss und den Mittleren Bildungsabschluss wie folgt unter Verzeichnisse &gt; Abschlüsse (Intern) an.
 
 | Kürzel | Schlüssel | Bezeichnung |
 | --- | --- | --- |
@@ -154,7 +152,7 @@ Bitte legen Sie in Ihrem Verzeichnis der Abschlussarten folgende Zusatzinformati
 | PÜK10 | leer | Abschlusszeugnis „Hauptschulabschluss“ mit Übergangsberechtigung in die Klassenstufe 10 der Gemeinschaftsschule für Schülerinnen und Schüler, die die Abschlussprüfung bestanden haben |
 | ÜGOS | leer | Mit Übergang Gymnasiale Oberstufe |
 
-![Mittelstufenansicht](/images/mittelstufe/ms_ansicht_mittelstufe.png)
+![Mittelstufenansicht](/assets/images/mittelstufe/ms_ansicht_mittelstufe.png)
 
 ## Schüler synchronisieren
 
@@ -177,14 +175,13 @@ Damit die Synchronisation klappt sind die folgenden Einstellungen wichtig:
 
      Beim Synchronisieren werden die Noten aus der Spalte „Endnote“ in der `Ansicht "Schüler" > Zeugnis > Leistungen` in das Menü `Mittelstufe` übernommen.
 
-
 So synchronisieren Sie Schüler für die Abschlussberechnung:
 
 Rufen Sie den Assistenten aus dem Menü `Mittelstufe` auf der Karte `Prüfung` über die Schaltfläche `Schüler synchronisieren` auf. Der Assistent bietet Ihnen alle Schüler zum Synchronisieren an, filtern Sie hier nach dem Jahrgang und markieren Sie die Schüler und klicken auf `Weiter`.  Auf der nächsten Karte wählen Sie bitte die `Prüfungsordnung` und den `Abschlussjahrgang` aus und klicken auf `Weiter` und `Fertigstellen`.
 
-![Assistent zum Schüler synchronisieren](assets/images/mittelstufe/ms_synch.png)
+![Assistent zum Schüler synchronisieren](/assets/images/mittelstufe/ms_synch.png)
 
-![Assistent zum Schüler synchronisieren / weitere Angaben](assets/images/mittelstufe/ms_sync1.png)
+![Assistent zum Schüler synchronisieren / weitere Angaben ](/assets/images/mittelstufe/ms_sync1.png)
 
 Wechseln Sie nach dem Synchronisieren in den Menüpunkt `Mittelstufe` auf die Registerkarte `Auswahl`. Es werden alle synchronisierten Schüler angezeigt.
 
@@ -200,7 +197,6 @@ Durch die Synchronisation erfolgen folgende Vorbelegungen:
 ## Berechnung der Abschlüsse durchführen
 
 Auf der Registerkarte `Prüfung` finden Sie die für den Abschluss relevanten Daten.
-
 
 Die Registerkarte besteht aus 3 Bereiche:
 
@@ -225,17 +221,15 @@ Die Matrix ist in folgende Spaltenbereich aufgeteilt:
 | Prüfung | Hier wird werden die Punkte der Prüfung eingetragen. In der Spalte "Pflicht" wird die schriftliche Prüfung in Deutsch und Mathematik eingetragen. In der Spalte "Wahl" wird ein evtl. zusätzliche weitere mündliche Prüfung eingegeben. Entscheidend für die weitere Berechnung ist der Wert in der Spalte "Note". |
 | Endnote | In den Spalten "Unterrichtsart" und "Note \(Niveau\)" stehen die berechneten Werte auf der zuletzt in 9.2 (Abschluss Klasse 9) bzw. 10.2 (Abschluss Klasse 10) unterrichteten Unterrichtsart für das Zeugnis. In der Spalten "Abschlussnote" und "Unterrichtsart \(Abschlussnote\)" stehen die für die Abschlussberechnung relevanten Werte. |
 
-> #### Hinweis:
->
->
-Punkte mit weniger als 4 Punkte werden mit rot hinterlegt.
+!!! info "Hinweis"
+
+    Punkte mit weniger als 4 Punkte werden mit rot hinterlegt.
 
 ### Kriterien
 
 Unter den Kriterien werden automatisch die jeweiligen Kriterien für den Hauptschulabschluss bzw. den erweiterten Hauptschulabschluss mit Bezug auf die Paragraphen der Verordnung gefüllt, wenn die Schaltfläche `Neu prüfen` angewählt wurde.
 
-Erfolgt eine Änderung in den Matrix, wird rechts unten der Status mit "Abschluss nicht geprüft" ausgewiesen. Erst mit Drücken der Schaltfläche `Neu prüfen` wird der Status auf `"Abschluss geprüft" `gesetzt.
-
+Erfolgt eine Änderung in den Matrix, wird rechts unten der Status mit "Abschluss nicht geprüft" ausgewiesen. Erst mit Drücken der Schaltfläche `Neu prüfen` wird der Status auf `"Abschluss geprüft"` gesetzt.
 
 ### Spalte Merkmal
 
@@ -247,6 +241,3 @@ Eintrag|Text
 `*` | Der Schüler wurde in den gekennzeichneten Fächern `*` nach einem individuellen Förderplan unterrichtet. Seine Leistungen wurden entsprechend diesem Förderplan bewertet.
 `**` | Der Schüler wurde in den gekennzeichneten Fächern `**` im Rahmen seiner sonderpädagogischen Förderung im Bereich Lernen nach einem entsprechenden Förderplan unterrichtet.
 `***`|Der Schüler wurde in den gekennzeichneten Fächern `***` im Rahmen seiner sonderpädagogischen Förderung im Bereich geistige Entwicklung nach einem entsprechenden Förderplan unterrichtet.
-
-
-

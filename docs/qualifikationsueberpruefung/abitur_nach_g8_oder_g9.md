@@ -14,9 +14,8 @@ Entscheidend ist bei der Synchronisation der Daten, dass die Halbjahresergebniss
 |Q3|12.1|13.1|
 |Q4|12.2|13.2|
 
+!!! info "Hinweis"
 
->Haben Sie Schüler nach G8- und nach G9-System, legen Sie Ihre Verordnungszeile bitte doppelt an, tragen einmal 10 und einmal 11 in der Spalte ```Jahrgang``` ein und Synchronisieren Ihre Schüler getrennt und geben im Assistenten ```Synchronisiere Schüler ```die jeweils korrekte Verordnungszeile an.
-
+    Haben Sie Schüler nach G8- und nach G9-System, legen Sie Ihre Verordnungszeile bitte doppelt an, tragen einmal 10 und einmal 11 in der Spalte ```Jahrgang``` ein und Synchronisieren Ihre Schüler getrennt und geben im Assistenten ```Synchronisiere Schüler ```die jeweils korrekte Verordnungszeile an.
 
 ![Beispiel für G8 und G9](/assets/images/g8_verordnung.jpg)
-

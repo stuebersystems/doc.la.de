@@ -4,7 +4,6 @@ Die gesamte Abschlussnotenberechnung wird durch MAGELLAN-Skripte durchgeführt. 
 
 Die derzeit in MAGELLAN verfügbaren Prüfungsordnungen werden im Abschnitt [Alle Skripte im Überblick](alle_skripte_im_uberblick.md) aufgelistet.
 
-> Achten Sie in den folgenden Abschnitten immer auf die speziellen Hinweise für das von Ihnen gewählte Skript.
+!!! info "Hinweis"
 
-
-
+    Achten Sie in den folgenden Abschnitten immer auf die speziellen Hinweise für das von Ihnen gewählte Skript.
