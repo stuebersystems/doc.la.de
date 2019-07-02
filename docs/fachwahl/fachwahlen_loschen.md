@@ -2,7 +2,6 @@
 
 ![Dialog "Schülerdaten löschen"So können Sie die Fachwahl eines Schülers löschen](/assets/images/dav_fw_loeschen.jpg)
 
-
 * Wechseln Sie in die Ansicht ```Kursplan > Fachwahlen``` und klicken Sie den gewünschten Schüler in der Detailansicht „Schüler“ an.
 * Markieren Sie eine oder mehrere Zeilen in seiner Fachwahltabelle. Sie können mit Strg+Mausklick und Shift+Mausklick mehrere Zeilen in der Tabelle markieren.
 * Klicken Sie oben im Menü auf Löschen, um die entsprechenden Zeilen zu löschen.

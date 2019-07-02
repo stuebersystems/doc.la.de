@@ -95,6 +95,3 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachs
 | --- | --- | --- |
 | Wahlb | Wahlb | Wahlbereich |
 | WahlPF | WahlPf | Wahlpflicht |
-
-
-

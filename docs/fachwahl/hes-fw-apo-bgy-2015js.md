@@ -50,37 +50,37 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 
 |Fachkategorien|Wird vom Skript berücksichtigt|
 |--|--|--|
-|Fremdsprache|x|
-|Religion/Ethik|x|
-|Deutsch|x|
-|Mathematik|x|
-|Kunst||
-|Musik||
-|Sport|x|
-|Informatik|x|
-|Philosophie||
-|Geschichte|x|
-|Physik|x|
-|Chemie|x|
-|Biologie|x|
-|Erdkunde||
-|Sozialkunde||
-|Wirtschaft|x (bitte für das Fach "Wirtschaft und Politik" verwenden)|
-|Politik|x|
-|Darstellendes Spiel|x|
-|Evangelische Religion||
-|Katholische Religion||
-|Technik||
-|Pädagogik||
-|Sporttheorie||
+|Fremdsprache| **Ja** |
+|Religion/Ethik| **Ja** |
+|Deutsch| **Ja** |
+|Mathematik| **Ja** |
+|Kunst| Nein |
+|Musik| Nein |
+|Sport| **Ja** |
+|Informatik| **Ja** |
+|Philosophie| Nein |
+|Geschichte| **Ja** |
+|Physik| **Ja** |
+|Chemie| **Ja** |
+|Biologie| **Ja** |
+|Erdkunde| Nein |
+|Sozialkunde| Nein |
+|Wirtschaft|Nein (bitte für das Fach "Wirtschaft und Politik" verwenden)|
+|Politik| **Ja** |
+|Darstellendes Spiel| **Ja** |
+|Evangelische Religion| Nein |
+|Katholische Religion| Nein |
+|Technik| Nein |
+|Pädagogik| Nein |
+|Sporttheorie| Nein |
 |BWL/RW|x (bitte für Rechnungswesen verwenden)|
 |BWL/VWL|x (bitte für Wirtschaftslehre verwenden)|
-|VWL||
-|Seminar||
-|Gesundheit||
-|Psychologie||
-|Recht||
-|Literatur|||
+|VWL| Nein |
+|Seminar| Nein |
+|Gesundheit| Nein |
+|Psychologie| Nein |
+|Recht| Nein |
+|Literatur| Nein |
 
 ## Aufgabenbereiche
 

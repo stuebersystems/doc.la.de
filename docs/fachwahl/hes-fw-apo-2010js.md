@@ -44,37 +44,37 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 
 |Fachkategorien|Wird vom Skript berücksichtigt|
 |--|--|--|
-|Fremdsprache|x|
-|Religion/Ethik|x|
-|Deutsch|x|
-|Mathematik|x|
-|Kunst|x|
-|Musik|x|
-|Sport|x|
-|Informatik|x|
-|Philosophie||
-|Geschichte|x|
-|Physik|x|
-|Chemie|x|
-|Biologie|x|
-|Erdkunde||
-|Sozialkunde||
-|Wirtschaft|x|
-|Politik|x|
-|Darstellendes Spiel|x|
-|Evangelische Religion||
-|Katholische Religion||
-|Technik||
-|Pädagogik||
-|Sporttheorie|x|
-|BWL/RW||
-|BWL/VWL||
-|VWL||
-|Seminar|x|
-|Gesundheit||
-|Psychologie||
-|Recht||
-|Literatur|||
+|Fremdsprache| **Ja** |
+|Religion/Ethik| **Ja** |
+|Deutsch| **Ja** |
+|Mathematik| **Ja** |
+|Kunst| **Ja** |
+|Musik| **Ja** |
+|Sport| **Ja** |
+|Informatik| **Ja** |
+|Philosophie| Nein |
+|Geschichte| **Ja** |
+|Physik| **Ja** |
+|Chemie| **Ja** |
+|Biologie| **Ja** |
+|Erdkunde| Nein |
+|Sozialkunde| Nein |
+|Wirtschaft| **Ja** |
+|Politik| **Ja** |
+|Darstellendes Spiel| **Ja** |
+|Evangelische Religion| Nein |
+|Katholische Religion| Nein |
+|Technik| Nein |
+|Pädagogik| Nein |
+|Sporttheorie| **Ja** |
+|BWL/RW| Nein |
+|BWL/VWL| Nein |
+|VWL| Nein |
+|Seminar| **Ja** |
+|Gesundheit| Nein |
+|Psychologie| Nein |
+|Recht| Nein |
+|Literatur| Nein |
 
 ## Aufgabenbereiche
 

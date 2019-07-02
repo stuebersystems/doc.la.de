@@ -26,7 +26,6 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 
 In der Ansicht ``Stammdaten > Klassen`` weisen Sie die Klassen bzw. Jahrgänge mit Kurssystem (Modus „Kurse“) aus und geben das Fachwahlskript an, nach dem die Fachwahl überprüft werden soll. Hinzu kommen ggf. weitere Angaben sind insbesondere für Fachwahlüberprüfungen notwendig, die mehrere Halbjahre überprüfen, z.B. in Berlin.
 
-
 !!! info "Hinweis"
 
     In den „Kursplan“ Ansichten wird immer mit der Jahrgangsstufe (Spalte „Stufe“) gearbeitet. Wenn Sie z.b den Jahrgang 12 als eine Klasse „12“ eingegeben haben, sind Jahrgangstufe und Klasse gleichbedeutend. Wenn Sie den Jahrgang 12 in Klassen 12A, 12B, 12C aufteilen, werden alle Schüler dieser Klassen angezeigt. Sie wählen den Jahrgang aus, indem Sie über Plan | Auswahl eine Klasse auswählen. Angezeigt wird daraufhin der betreffende Jahrgang.
@@ -49,37 +48,37 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 
 |Fachkategorien|Wird vom Skript berücksichtigt|
 |--|--|--|
-|Fremdsprache|x|
-|Religion/Ethik|x|
-|Deutsch|x|
-|Mathematik|x|
-|Kunst|x|
-|Musik|x|
-|Sport|x|
-|Informatik|x|
-|Philosophie||
-|Geschichte|x|
-|Physik|x|
-|Chemie|x|
-|Biologie|x|
-|Erdkunde||
-|Sozialkunde||
-|Wirtschaft|x|
-|Politik|x|
-|Darstellendes Spiel|x|
-|Evangelische Religion||
-|Katholische Religion||
-|Technik||
-|Pädagogik||
-|Sporttheorie||
-|BWL/RW||
-|BWL/VWL||
-|VWL||
-|Seminar||
-|Gesundheit||
-|Psychologie||
-|Recht||
-|Literatur|||
+|Fremdsprache| **Ja** |
+|Religion/Ethik| **Ja** |
+|Deutsch| **Ja** |
+|Mathematik| **Ja** |
+|Kunst| **Ja** |
+|Musik| **Ja** |
+|Sport| **Ja** |
+|Informatik| **Ja** |
+|Philosophie| Nein |
+|Geschichte| **Ja** |
+|Physik| **Ja** |
+|Chemie| **Ja** |
+|Biologie| **Ja** |
+|Erdkunde| Nein |
+|Sozialkunde| Nein |
+|Wirtschaft| **Ja** |
+|Politik| **Ja** |
+|Darstellendes Spiel| **Ja** |
+|Evangelische Religion| Nein |
+|Katholische Religion| Nein |
+|Technik| Nein |
+|Pädagogik| Nein |
+|Sporttheorie| Nein |
+|BWL/RW| Nein |
+|BWL/VWL| Nein |
+|VWL| Nein |
+|Seminar| Nein |
+|Gesundheit| Nein |
+|Psychologie| Nein |
+|Recht| Nein |
+|Literatur| Nein |
 
 ## Aufgabenbereiche
 
