@@ -10,16 +10,15 @@ Die Skripte befinden sich im MAGELLAN- bzw. im DAVINCI-Verzeichnis im Ordner ```
 
 MAGELLAN-Skripte können zum Beispiel:
 
-* das Abitur oder die Fachhochschulreife berechnen, 
-* die Zulassung zur 12 prüfen, 
-* Fachwahlen in MAGELLAN oder DAVINCI prüfen, 
-* Durchschnitte oder Abschlüsse ermitteln und zuweisen oder 
+* das Abitur oder die Fachhochschulreife berechnen,
+* die Zulassung zur 12 prüfen,
+* Fachwahlen in MAGELLAN oder DAVINCI prüfen,
+* Durchschnitte oder Abschlüsse ermitteln und zuweisen oder
 * Ergebnisse im Berufsschulbereich berechnen.
 
 Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm verwendet und erwartet auch unterschiedliche Eingaben. Diese Eingaben beschreiben wir in den weiteren Abschnitten für jedes Skript.
 
 ## Baden-Württemberg
-
 
 | Verordnung | Abitur                                   | Fachwahl<br/> MAGELLAN | Fachwahl<br/>DAVINCI | Schüler ><br/>Leistungskarte             | BBS |
 |------------|------------------------------------------|------------------------|----------------------|------------------------------------------|-----|
@@ -33,48 +32,43 @@ Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm ve
 | BSVO 2004  | -                                        | -                      | -                    | [BAW-BSO-Berufsvorbereitungsjahr-2004.dws](http://doc.la.stueber.de/durchschnitt_abschluss/baw-bso-berufsvorbereitungsjahr-2004dws) | -   |
 | BSVO 2005  | -                                        | -                      | -                    | [BAW-BSO-Lernfeldkonzeption-2005.dws](http://doc.la.stueber.de/durchschnitt_abschluss/baw-bso-lernfeldkonzeption-2005dws) | -   |
 
-
-
 ## Berlin
-
 
 | Verordnung   | Abitur                                   | Fachwahl<br/> MAGELLAN                   | Fachwahl<br/>DAVINCI                     | Schüler ><br/>Leistungskarte             | BBS |
 |--------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|-----|
 | APO 2017     | [BER-APO-2017.dws](https://doc.la.stueber.de/Skripte/BER-APO-2017) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-IBA-MSA-2019](https://doc.la.stueber.de/durchschnitt_abschluss/BER-IBA-MSA-2019)] | -   |
-| APO 2004     | <a href="http://doc.la.stueber.de/02.ber/ber-apo-2004.html"> BER-APO-2004.dws</a> | -                                        | -                                        | -                                        | -   |
-| APO 2007     | <a href="http://doc.la.stueber.de/02.ber/ber-apo-2007.html"> BER-APO-2007.dws</a> | -                                        | -                                        | [BER-BBS-Matrix-2007.dws](https://doc.la.stueber.de/berufsschule/skript/ber-bbs-matrix-2007dws) | -   |
-| APO 2010     | <a href="http://doc.la.stueber.de/02.ber/ber-apo-2010.html"> BER-APO-2010.dws</a> | -                                        | -                                        | -                                        | -   |
-| APO 2011     | <a href="http://doc.la.stueber.de/02.ber/ber-apo-2011.html"> BER-APO-2011.dws</a> | <a href="http://doc.la.stueber.de/fachwahl/ber-fw-apo-2011js.html"> BER-FW-APO-2011.js</a> | <a href="http://doc.la.stueber.de/fachwahl/ber-fw-apo-2011js.html"> BER-FW-APO-2011.js</a> | -                                        | -   |
-| APO BGY 2011 | -                                        | <a href=" http://doc.la.stueber.de/fachwahl/ber-fw-apo-bbs-2011js.html"> BER-FW-APO-BBS-2011.js</a> | <a href=" http://doc.la.stueber.de/fachwahl/ber-fw-apo-bbs-2011js.html"> BER-FW-APO-BBS-2011.js</a> | -                                        | -   |
-| APO 2006     | <a href=" http://doc.la.stueber.de/02.ber/ber-apo-fos-2006.html"> BER-APO-FOS-2006.dws</a> | -                                        | -                                        | -                                        | -   |
-| APO 2013     | <a href=" http://doc.la.stueber.de/02.ber/ber-apo-fos-2013.html"> BER-APO-FOS-2013.dws</a> | -                                        | -                                        | -                                        | -   |
+| APO 2004     | [BER-APO-2004.dws](http://doc.la.stueber.de/02.ber/ber-apo-2004.html)| -                                        | -                                        | -                                        | -   |
+| APO 2007     | [BER-APO-2007.dws](http://doc.la.stueber.de/02.ber/ber-apo-2007.html)   | -                                        | -                                        | [BER-BBS-Matrix-2007.dws](https://doc.la.stueber.de/berufsschule/skript/ber-bbs-matrix-2007dws) | -   |
+| APO 2010     | [BER-APO-2010.dws](http://doc.la.stueber.de/02.ber/ber-apo-2010.html) | -                                        | -                                        | -                                        | -   |
+| APO 2011     | [BER-APO-2011.dws](http://doc.la.stueber.de/02.ber/ber-apo-2011.html)| [BER-FW-APO-2011.js](http://doc.la.stueber.de/fachwahl/ber-fw-apo-2011js.html) | [BER-FW-APO-2011.js](http://doc.la.stueber.de/fachwahl/ber-fw-apo-2011js.html)| -                                        | -   |
+| APO BGY 2011 | -                                        | [BER-FW-APO-BBS-2011.js](http://doc.la.stueber.de/fachwahl/ber-fw-apo-bbs-2011js.html)| [BER-FW-APO-BBS-2011.js](http://doc.la.stueber.de/fachwahl/ber-fw-apo-bbs-2011js.html) | -                                        | -   |
+| APO 2006     | [BER-APO-FOS-2006.dws](http://doc.la.stueber.de/02.ber/ber-apo-fos-2006.html)| -                                        | -                                        | -                                        | -   |
+| APO 2013     | [BER-APO-FOS-2013.dws](http://doc.la.stueber.de/02.ber/ber-apo-fos-2013.html) | -                                        | -                                        | -                                        | -   |
 | APO KO 2017  | [BER-APO-KO-2017.dws](https://doc.la.stueber.de/Skripte/BER-APO-KO-2017) | -                                        | -                                        | -                                        | -   |
-| APO KO 2011  | <a href=" http://doc.la.stueber.de/02.ber/ber-apo-ko-2011.html"> BER-APO-KO-2011.dws</a> | -                                        | -                                        | -                                        | -   |
-| APO KO 1987  | <a href=" http://doc.la.stueber.de/02.ber/ber-apo-ko-1987.html"> BER-APO-KO-1987.dws</a> | -                                        | -                                        | -                                        | -   |
-
-
+| APO KO 2011  | [BER-APO-KO-2011.dws](http://doc.la.stueber.de/02.ber/ber-apo-ko-2011.html)| -                                        | -                                        | -                                        | -   |
+| APO KO 1987  | [BER-APO-KO-1987.dws](http://doc.la.stueber.de/02.ber/ber-apo-ko-1987.html)  | -                                        | -                                        | -                                        | -   |
 
 ## Bremen
 
 Verordnung|Abitur|Fachwahl<br/> MAGELLAN|Fachwahl<br/>DAVINCI|Schüler ><br/>Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
-APO 2006|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-1998-2006.md)"> BRE-APO-2006.dws</a> |-|-|-|-
-APO 1998|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-1998-2006.md)"> BRE-APO-1998.dws</a>  |-|BRE-FW-APO-1998.dws|-|-
-APO 2010|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-2010.md)"> BRE-APO-2010.dws</a>|-|-|-|-
-APO 2006|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-agy-2006.md)"> BRE-APO-AGY-2006.dws</a>|-|-|-|-
-APO BGY 1998|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-bgy-1998.md)"> BRE-APO-BGY-1998.dws</a>|-|-|-|-
-APO BGY 2005|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-bgy-2005.md)"> BRE-APO-BGY-2005.dws</a>|-|-|-|-
-APO BGY 2010|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-bgy-2010.md)"> BRE-APO-BGY-2010.dws</a>|-|-|-|-
-APO KO 2006|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-ko-2006.md)"> BRE-APO-KO-2006.dws</a>|-|-|-|-
-APO KO 2010|<a href=" http://doc.la.stueber.de/04.bre/bre-apo-ko-2010.md)"> BRE-APO-KO-2010.dws</a>|-|-|-|-
+APO 2006|[BRE-APO-2006.dws](http://doc.la.stueber.de/04.bre/bre-apo-1998-2006.md) |-|-|-|-
+APO 1998|[BRE-APO-1998.dws](http://doc.la.stueber.de/04.bre/bre-apo-1998-2006.md)  |-|BRE-FW-APO-1998.dws|-|-
+APO 2010| [BRE-APO-2010.dws](http://doc.la.stueber.de/04.bre/bre-apo-2010.md) |-|-|-|-
+APO 2006| [BRE-APO-AGY-2006.dws](http://doc.la.stueber.de/04.bre/bre-apo-agy-2006.md) |-|-|-|-
+APO BGY 1998| [BRE-APO-BGY-1998.dws](http://doc.la.stueber.de/04.bre/bre-apo-bgy-1998.md) |-|-|-|-
+APO BGY 2005| [BRE-APO-BGY-2005.dws](http://doc.la.stueber.de/04.bre/bre-apo-bgy-2005.md) |-|-|-|-
+APO BGY 2010| [BRE-APO-BGY-2010.dws](http://doc.la.stueber.de/04.bre/bre-apo-bgy-2010.md) |-|-|-|-
+APO KO 2006| [BRE-APO-KO-2006.dws](http://doc.la.stueber.de/04.bre/bre-apo-ko-2006.md) |-|-|-|-
+APO KO 2010| [BRE-APO-KO-2010.dws](http://doc.la.stueber.de/04.bre/bre-apo-ko-2010.md) |-|-|-|-
 
 ## Hessen
 
 Verordnung|Abitur|Fachwahl<br/> MAGELLAN|Fachwahl<br/>DAVINCI|Schüler ><br/>Leistungskarte|BBS
 ----------|------|-----------------     |----------------     |------------------------     |------------
-APO 2015|[HES-APO-2015.dws](skripte_hes-apo-2015.md)|[HES-FW-APO-2015.js](fachwahl/hes-fw-apo-2015js.md) |[HES-FW-APO-2015.js](fachwahl/hes-fw-apo-2015js.md)|-|-
-APO 2015|[HES-APO-BGY-2015.dws](hes-apo-bgy-2015.md)|[HES-FW-APO-BGY-2015.js](fachwahl/hes-fw-apo-bgy-2015js.md)|[HES-FW-APO-BGY-2015.js](fachwahl/hes-fw-apo-bgy-2015js.md)|-|-
-APO 2010|-|[HES-FW-APO-2010.js](fachwahl/hes-fw-apo-2010js.md)|[HES-FW-APO-2010.js](fachwahl/hes-fw-apo-2010js.md)|-|-
+APO 2015|[HES-APO-2015.dws](http://doc.la.stueber.de/05.hes/hes-apo-2015.md)|[HES-FW-APO-2015.js](http://doc.la.stueber.de/05.hes/hes-fw-apo-2015js.md) |[HES-FW-APO-2015.js](http://doc.la.stueber.de/05.hes/hes-fw-apo-2015js.md)|-|-
+APO 2015|[HES-APO-BGY-2015.dws](http://doc.la.stueber.de/05.hes/hes-apo-bgy-2015.md)|[HES-FW-APO-BGY-2015.js](http://doc.la.stueber.de/05.hes/hes-fw-apo-bgy-2015js.md)|[HES-FW-APO-BGY-2015.js](http://doc.la.stueber.de/05.hes/hes-fw-apo-bgy-2015js.md)|-|-
+APO 2010|-|[HES-FW-APO-2010.js](http://doc.la.stueber.de/05.hes/hes-fw-apo-2010js.md)|[HES-FW-APO-2010.js](http://doc.la.stueber.de/05.hes/hes-fw-apo-2010js.md)|-|-
 
 ## Mecklenburg-Vorpommern
 
