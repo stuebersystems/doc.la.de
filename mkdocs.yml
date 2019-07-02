@@ -54,10 +54,11 @@ nav:
     - Allgemein: oberstufenorganisation.md
     - Die Berechnungsskripte: 
       - Allgemeines: allgemeines_spezielle_einstellungen_pro_skript.md
-      - Ausland:
+      - Auslandsschulen:
       - DE-DIAP-2015: de-diap-2015.md
       - DE-DIAP-2005: skripte_de-diap-2005.md
       - DE-DRP-2005: skripte_de-drp-2005.md
+      - Baden-Württemberg:
       - BAW-APO-2010-G9: skripte_baw-apo-2010-g9.md
       - BAW-APO-2001-G9: skripte_baw-apo-2001-g9.md
       - BAW-APO-1999: skripte_baw-apo-1999.md
@@ -65,6 +66,7 @@ nav:
       - BAW-APO-BGY-2010-G9: skripte_baw-apo-bgy-2010-g9.md
       - BAW-APO-BGY-2002: skripte_baw-apo-bgy-2002.md
       - BAW-APO-BGY-2001-G9: skript_baw-apo-bgy-2001-g9.md
+      - Berlin:
       - BER-APO-2017: Skripte/BER-APO-2017.md
       - BER-APO-2011: skripte_ber-apo-2011.md
       - BER-APO-2007: skripte_ber-apo-2007.md
@@ -74,6 +76,7 @@ nav:
       - BER-APO-KO-1987: skripte_ber-apo-ko-1987.md
       - BER-APO-FOS-2013: skripte_ber-apo-fos-2013.md
       - BER-APO-FOS-2006: skripte_ber-apo-fos-2006.md
+      - Bremen:
       - BRE-APO-2010: skripte_bre-apo-2010.md
       - BRE-APO-1998/2006: skripte_bre-apo-1998-2006.md
       - BRE-APO-AGY-2006: skripte_bre-apo-agy-2006.md
@@ -81,12 +84,15 @@ nav:
       - BRE-APO-BGY-2005: skripte_bre-apo-bgy-2005.md
       - BRE-APO-BGY-1998: skripte_bre-apo-bgy-1998.md
       - BRE-APO-KO-2010: skripte_bre-apo-ko-2010.md
+      - Hessen:
       - HES-APO-2015: skripte_hes-apo-2015.md
       - HES-APO-BGY-2015: hes-apo-bgy-2015.md
       - MVP-APO-FG-2017: mvp-apo-fg-2017.md
+      - Mecklenburg-Vorpommern:
       - MVP-APO-2010 (auch FG): skripte_mvp-apo-2010.md
       - MVP-APO-2006 (auch FG): skripte_mvp-apo-2006.md
       - MVP-APO-1999, MVP-APO-FG-1999: skripte_mvp-apo-fg-1999.md
+      - Niedersachsen:
       - NIE-APO-G9-2016: nie-apo-g9-2016.md
       - NIE-APO-G9-2014/NIE-APO-G8-2014: skripte_nie-apo-g9-2014nie-apo-g8-2014.md
       - NIE-APO-G9-2010/NIE-APO-G8-2010: skripte_nie-apo-g9-2010nie-apo-g8-2010.md
@@ -94,11 +100,13 @@ nav:
       - NIE-APO-2005: skripte_nie-apo-2005.md
       - NIE-APO-FG-2007: skripte_nie-apo-fg-2007.md
       - NIE-APO-FG-1997: skripte_nie-apo-fg-1997.md
+      - Nordrhein-Westfalen:
       - NRW-APO-2012: skripte_nrw-apo-2012.md
       - NRW-APO-1998: skripte_nrw-apo-1998.md
       - NRW-APO-BK-2012: skripte_nrw-apo-bk-2012.md
       - NRW-APO-BK-2011: skripte_nrw-apo-bk-2011.md
       - NRW-APO-BK-1999: skripte_nrw-apo-bk-1999.md
+      - Rheinland-Pfalz:
       - RLP-APO-2014: skripte_rlp-apo-2014.md
       - RLP-APO-G8-2014: Skripte/rlp-apo-2014-g8.md
       - RLP-APO-2010: skripte_rlp-apo-2010.md
@@ -108,13 +116,16 @@ nav:
       - RLP-APO-BGY-2010: skripte_rlp-apo-bgy-2010.md
       - RLP-APO-BGY-1999: skripte_rlp-apo-bgy-1999.md
       - RLP-APO-WG-1999: skripte_rlp-apo-wg-1999.md
+      - Sachsen-Anhalt:
       - SAA-APO-1999: skripte_saa-apo-1999.md
+      - Sachsen:
       - SAC-APO-1996: skripte_sac-apo-1996.md
       - SAC-APO-BGY-2017: skripte_SAC-APO-BGY-2017.md
       - SAC-APO-BGY-2014: skripte_sac-apo-bgy-2014.md
       - SAC-APO-BGY-2011: Skripte/sac-apo-bgy-2011.md
       - SAC-APO-BGY-2010: skripte_sac-apo-bgy-2010.md
       - SAC-APO-BGY-2004: skripte_sac-apo-bgy-2004.md
+      - Saarland:
       - SAR-APO-2018 (in Bearbeitung): skripte_sar-apo-2018.md
       - SAR-APO-2017: Skripte/SAR-APO-2017.md
       - SAR-APO-2007: skripte_sar-apo-2007.md
@@ -123,11 +134,13 @@ nav:
       - SAR-APO-BGY-2007: skripte_sar-apo-bgy-2007.md
       - SAR-APO-BGY-1999: skripte_sar-apo-bgy-1999.md
       - SAR-APO-DFG-2014: skripte_sar-apo-dfg-2014.md
+      - Schleswig-Holstein:
       - SHL-APO-2018: shl-apo-2018.md
       - SHL-APO-2015: skripte_shl-apo-2015.md
       - SHL-APO-2010: skripte_shl-apo-2010.md
       - SHL-APO-2007: skripte_shl-apo-2007.md
       - SHL-APO-1998: skripte_shl-apo-1998.md
+      - Thüringen:
       - THÜ-APO-1999: skripte_thu-apo-1999.md
     - Die Fachwahl: fachwahl/fachwahl_in_magellan.md
     - Die Fachwahlskripte: 
