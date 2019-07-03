@@ -63,7 +63,7 @@ Bitte legen Sie in Ihrem Fächerverzeichnis zusätzlich folgende Fächer wie fol
 | NW | nicht relevant | Naturwissenschaften |
 | WahlPF | nicht relevant | Wahlpflichtbereich |
 
-#### warning::Wichtig!
+#### warning::Wichtig
 
 !!! info "Hinweis"
 
@@ -74,17 +74,39 @@ Bitte legen Sie in Ihrem Fächerverzeichnis zusätzlich folgende Fächer wie fol
 Jedem Fach, das Sie in der Gemeinschaftsschule verwenden, müssen Sie eine Kategorie unter `Verzeichnisse > Fächer > Kategorie` zuweisen.  
 Folgende Fachkategorien werden durch das Mittelstufenskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
 
-| Fachkategorien | Wird vom Skript berücksichtigt |
-| --- | --- |
-| Fremdsprache | x |
-| Deutsch | x |
-| Mathematik | x |
-| Geschichte | x |
-| Physik | x |
-| Chemie | x |
-| Biologie | x |
-| Erdkunde | x |
-| Sozialkunde | x |
+|Fachkategorien|Wird vom Skript berücksichtigt|
+|--|--|
+|Fremdsprache| **Ja** |
+|Religion/Ethik| Nein |
+|Deutsch| **Ja** |
+|Mathematik| **Ja** |
+|Kunst| Nein |
+|Musik| Nein |
+|Sport| Nein |
+|Informatik| Nein |
+|Philosophie| Nein |
+|Geschichte| **Ja** |
+|Physik| **Ja** |
+|Chemie| **Ja** |
+|Biologie| **Ja** |
+|Erdkunde| **Ja** |
+|Sozialkunde| **Ja** |
+|Wirtschaft| Nein |
+|Politik| Nein|
+|Darstellendes Spiel| Nein |
+|Evangelische Religion| Nein |
+|Katholische Religion| Nein |
+|Technik| Nein |
+|Pädagogik| Nein|
+|Sporttheorie| Nein |
+|BWL/RW| Nein |
+|BWL/VWL| Nein |
+|VWL| Nein |
+|Seminar| Nein |
+|Gesundheit| Nein |
+|Psychologie| Nein |
+|Recht| Nein |
+|Literatur| Nein |
 
 #### Aufgabenbereiche
 
@@ -102,7 +124,7 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Verzeichnisse
 
 Für die 1. und evtl. 2. Fremdsprache des Schülers muss folgendes beachtet werden
 
-1. Die Fremdsprachen müssen dem Schüler als Fächer unter `Ansicht "Schüler" > Zeugnis > Fächer` zugeordnet werden. 
+1. Die Fremdsprachen müssen dem Schüler als Fächer unter `Ansicht "Schüler" > Zeugnis > Fächer` zugeordnet werden.
 2. Für jede dort zugeordnete Fremdsprache muss pro Schüler festgelegt werden, ob dies die 1. bzw. 2. Fremdsprache ist. Dies erfolgt unter `Ansicht "Schüler" > Daten 3 > Fremdsprache 1`  bzw. `Fremdsprache 2`.
 
 !!! info "Hinweis"

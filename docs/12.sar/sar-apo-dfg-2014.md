@@ -24,23 +24,23 @@ Im Notenverzeichnis sind die Eintragungen für die Beurteilung der Oberstufensch
 
 Folgende Eintragungen sind für die Klassen Voraussetzung:
 
-| Feld                                        | Wert                                                                                   |
-| ------------------------------------------- | -------------------------------------------------------------------------------------- |
-| ``Klassen > Daten > Beurteilungsart``       | Beurteilung nach Punkten                                                               |
-| `Klassen > Daten > Klassenart`              | Oberstufenjahrgang \(nur Kurse\) oder Oberstufenjahrgang \(Grund- und Leistungskurse\) |
-| `Klassen > Zeiträume > Zeitraum > Jahrgang` | Für jeden Klassenzeitraum ist der Jahrgang \(11,12\) zu erfassen                       |
+| Feld| Wert  |
+| - | -- |
+| ``Klassen > Daten > Beurteilungsart``| Beurteilung nach Punkten  |
+| `Klassen > Daten > Klassenart`| Oberstufenjahrgang \(nur Kurse\) oder Oberstufenjahrgang \(Grund- und Leistungskurse\) |
+| `Klassen > Zeiträume > Zeitraum > Jahrgang` | Für jeden Klassenzeitraum ist der Jahrgang \(11,12\) zu erfassen|
 
 ## Synchronisation der Schüler in das Menü Abitur
 
 Die Schüler werden mit Ihren Fächern und Punkten in das Menü Abitur über den Aufruf „Schüler synchronisieren“ übertragen. Damit diese Synchronisation klappt, sind folgende Punkte zu beachten:
 
-| Voraussetzung      | Anmerkung                                                                                                                                                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Zeitraumart        | Im Verzeichnis der Zeiträume muss das Feld „Art“ mit dem Wert „1. Trimester“, „2.Trimester“ bzw. “3. Trimester“ gefüllt sein.                                                                              |
-| Klassenart         | Unter `Klasse > Daten` muss im Feld „Klassenart“ die Auswahl „Oberstufenjahrgang \(Leistungs- und Grundkurse\)“ oder „Oberstufenjahrgang \(nur Kurse\)“ getroffen sein.                                    |
-| Jahrgang           | Bei jeder Klasse/Jahrgang muss auf der Registerkarte „Zeiträume“ für jeden Zeitraum das Feld „Jahrgang“ mit dem Wert „11“oder „12“ angegeben werden.                                                       |
-| Abschlussjahrgänge | Bitte legen Sie unter `Verzeichnisse > Verordnungen` die Abschlussjahrgänge an.                                                                                                                            |
-| Verordnungen       | Richten Sie bitte unter `Verzeichnisse > Verordnungen` pro verwendeter Abiturverord-nung oder Fachwahl eine Zeile ein. Beachten Sie bitte dazu den nachfolgenden Abschnitt „Verzeichnis der Verordnungen“. |
+| Voraussetzung| Anmerkung|
+| - |- |
+| Zeitraumart| Im Verzeichnis der Zeiträume muss das Feld „Art“ mit dem Wert „1. Trimester“, „2.Trimester“ bzw. “3. Trimester“ gefüllt sein.|
+| Klassenart| Unter `Klasse > Daten` muss im Feld „Klassenart“ die Auswahl „Oberstufenjahrgang \(Leistungs- und Grundkurse\)“ oder „Oberstufenjahrgang \(nur Kurse\)“ getroffen sein.|
+| Jahrgang| Bei jeder Klasse/Jahrgang muss auf der Registerkarte „Zeiträume“ für jeden Zeitraum das Feld „Jahrgang“ mit dem Wert „11“oder „12“ angegeben werden.|
+| Abschlussjahrgänge | Bitte legen Sie unter `Verzeichnisse > Verordnungen` die Abschlussjahrgänge an.|
+| Verordnungen| Richten Sie bitte unter `Verzeichnisse > Verordnungen` pro verwendeter Abiturverord-nung oder Fachwahl eine Zeile ein. Beachten Sie bitte dazu den nachfolgenden Abschnitt „Verzeichnis der Verordnungen“. |
 
 !!!info "Hinweis"
     Die Synchronisation geht von 5 Trimestern aus, also 11.1...11.3 und 12.1...12.2. Bitte schreiben Sie Ihre Schüler nicht in das 3. Semester der Klasse 12 fort.
@@ -49,21 +49,21 @@ Die Schüler werden mit Ihren Fächern und Punkten in das Menü Abitur über den
 
 Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
-| Spalte       | Wert            | Anmerkung                                                                  |
-| ------------ | --------------- | -------------------------------------------------------------------------- |
-| Kürzel       | beliebig        | Dient der Anzeige im Abitur                                                |
-| Bezeichnung  | beliebig        | Dient der Anzeige im Abitur                                                |
-| Kategorie    | Abitur          |                                                                            |
-| Typ          | DFG             | "DFG" für "Deutsch-Französisches Gymnasium Saarbrücken"                    |
-| Ab Jahrgang  | 11              |                                                                            |
+Spalte| Wert| Anmerkung
+-| -| - |
+| Kürzel| beliebig| Dient der Anzeige im Abitur|
+| Bezeichnung| beliebig| Dient der Anzeige im Abitur|
+| Kategorie    | Abitur          ||
+| Typ          | DFG             | "DFG" für "Deutsch-Französisches Gymnasium Saarbrücken"|
+| Ab Jahrgang  | 11              ||
 | Skript       | Pfad zum Skript | `...\Ihre Region\Ihr_Skript.dws` \(Pfad zur Skriptdatei auf Ihrem Server\) |
-| Notenart 11  | Punkte          |                                                                            |
-| Notenart 12  | Punkte          |                                                                            |
-| Notenart 13  | Punkte          |                                                                            |
-| Notenart 13  | Punkte          |                                                                            |
-| Notenart BBS | leer            |                                                                            |
-| Gültig von   | leer            |                                                                            |
-| Gültig bis   | leer            |                                                                            |
+| Notenart 11  | Punkte          ||
+| Notenart 12  | Punkte          ||
+| Notenart 13  | Punkte          ||
+| Notenart 13  | Punkte          ||
+| Notenart BBS | leer            ||
+| Gültig von   | leer            ||
+| Gültig bis   | leer            ||
 
 ## Profile
 
@@ -84,7 +84,7 @@ Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unte
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet:
 
 |Fachkategorien|Wird vom Skript berücksichtigt|
-|--|--|--|
+|--|--|
 |Fremdsprache| **Ja** |
 |Religion/Ethik| **Ja** |
 |Deutsch| **Ja** |
@@ -191,7 +191,7 @@ Unter Ansicht `Abitur > Qualifikation` sollten Sie das Layout der Spalten wie fo
 
 Wenn man die Schaltfläche `Initialisieren` wählt, wird das Fach „Gesellschaftswissenschaften“ automatisch als zusätzlicher Eintrag eingefügt und erhält automatisch den Fachstatus 5PF.
 
-Bei der Einstellung`Gesamtqualifikation berechnen` im Feld `Status` und Wahl der Schaltfläche `Neu berechnen` werden die Vornoten soweit möglich automatisch berechnet.   
+Bei der Einstellung`Gesamtqualifikation berechnen` im Feld `Status` und Wahl der Schaltfläche `Neu berechnen` werden die Vornoten soweit möglich automatisch berechnet.
 Die Vornote für das Fach „Gesellschaftswissenschaften“ muss manuell eingetragen werden.
 
 Wird im Fall einer TPE ebenfalls ein Durchschnitt errechnet, der die Festlegung durch den Fachlehrer erfordert, muss dies ebenfalls manuell in der Spalte Vornote erfolgen. In beiden Fällen erfolgt ein entsprechender Hinweis im Meldungsfenster.

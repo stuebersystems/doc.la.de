@@ -1,7 +1,7 @@
 # SAR-FW-APO-2007.js
 
->Die Fachwahlprüfung basiert auf der Verordnung für das Saarland Gymnasium GOS-VO 2007 G8/G9 Bildungsgang.
-
+!!!info "Hinweis"
+    Die Fachwahlprüfung basiert auf der Verordnung für das Saarland Gymnasium GOS-VO 2007 G8/G9 Bildungsgang.
 
 ## Verzeichnis Verordnung in MAGELLAN
 
@@ -45,7 +45,7 @@ Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unte
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
 
 |Fachkategorien|Wird vom Skript berücksichtigt|
-|--|--|--|
+|--|--|
 |Fremdsprache|**Ja**|
 |Religion/Ethik|**Ja**|
 |Deutsch|**Ja**|
@@ -92,7 +92,7 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnis
 
 ## Unterrichtsart
 
-Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden. 
+Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden.
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 |Kürzel| Schlüssel |Bedeutung|
@@ -102,7 +102,7 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unt
 
 ## Fachstatus
 
-Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden. 
+Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden.
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 |Kürzel |Schlüssel |Bedeutung|
