@@ -3,8 +3,8 @@
 Abiturqualifikationsberechnung gemäß Verordnung des Sächsischen Staatsministeriums für Kultus über Berufliche Gymnasien im Freistaat Sachsen (Schulordnung Berufliche Gymnasien – BGySO).
 
 ## Verzeichnis Verordnung
-Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
+Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
 | Spalte       | Wert                                     |
 |--------------|------------------------------------------|
@@ -21,10 +21,8 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 | Gültig von   | leer                                     |
 | Gültig bis   | leer                                     |
 
-
-
-
 ## Fachkategorien
+
 Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter ```Verzeichnisse > Fächer > Kategorie``` zuweisen.
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet:
 
@@ -37,8 +35,8 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet:
 |Kunst|**Ja**|
 |Musik|**Ja**|
 |Sport|**Ja**|
-|Informatik||
-|Philosophie||
+|Informatik|Nein|
+|Philosophie|Nein|
 |Geschichte|**Ja**|
 |Physik|**Ja**|
 |Chemie|**Ja**|
@@ -46,25 +44,25 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet:
 |Erdkunde|**Ja**|
 |Sozialkunde|**Ja**|
 |Wirtschaft|**Ja**|
-|Politik||
-|Darstellendes Spiel||
-|Evangelische Religion||
-|Katholische Religion||
-|Technik||
-|Pädagogik||
-|Sporttheorie||
-|BWL/RW||
-|BWL/VWL||
-|VWL||
-|Seminar||
-|Gesundheit||
-|Psychologie||
-|Recht||
-|Literatur||
+|Politik|Nein|
+|Darstellendes Spiel|Nein|
+|Evangelische Religion|Nein|
+|Katholische Religion|Nein|
+|Technik|Nein|
+|Pädagogik|Nein|
+|Sporttheorie|Nein|
+|BWL/RW|Nein|
+|BWL/VWL|Nein|
+|VWL|Nein|
+|Seminar|Nein|
+|Gesundheit|Nein|
+|Psychologie|Nein|
+|Recht|Nein|
+|Literatur|Nein|
 
 ## Aufgabenbereiche
-Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnisse > Fächer > Spalte Aufgabenbereich``` verwendet werden:
 
+Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnisse > Fächer > Spalte Aufgabenbereich``` verwendet werden:
 
 | Aufgabenbereich            |
 |----------------------------|
@@ -74,23 +72,20 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnis
 | Religion                   |
 | Sport                      |
 
-
-
 ## Unterrichtsart
-Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden. 
-Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
+Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden.
+Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung     |
 |--------|-----------|---------------|
 | LK     | LK        | Leistungskurs |
 | GK     | GK        | Grundkurs     |
 
-
 ## Fachstatus
-Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden. 
-Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
+Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden.
+Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung       |
 |--------|-----------|-----------------|
@@ -100,21 +95,16 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 | 4PF    | 4PF       | 4. Prüfungsfach |
 | 5PF    | 5PF       | 5. Prüfungsfach |
 
-
-
 ## Besondere Lernleistung
+
 Die „Besondere Lernleistung“ muss mit schriftlicher und mündlicher Note auf der Prüfungsregisterkarte (```Abitur > Prüfung > Lernleistung```) eingegeben werden. Bitte tragen Sie die schriftliche Note links in das erste Feld und die mündliche Note in das zweite Feld ein. Soll die Leistung mit eingebracht werden, aktivieren Sie bitte das Häkchen ```Lernleistung einbringen```.
 
 ## Merkmal
-Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Es kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden. 
 
+Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Es kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
 
 | Merkmal | Bedeutung                                |
 |---------|------------------------------------------|
 | B       | Neu einsetzende Fremdsprache, 2 Kurse müssen eingebracht werden (entspricht dem Niveau B) |
 
-
-
 Alle anderen Fremdsprachen haben automatisch das Niveau A, dazu muss in Spalte `Merkmal` nichts eingetragen werden.
-
-
