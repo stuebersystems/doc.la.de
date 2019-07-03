@@ -10,22 +10,17 @@ Wenn Sie Schüler die nach 12 und Schüler die nach 13 Jahren ihr Abitur ablegen
 
 | Beispiel für Klassenkürzel | `Klassen > Zeiträume > Allgemein > Jahrgang` | Bemerkung |
 |---|---|---|
-| E-Phase | 11 | in dieser Klasse sind gemeinsam Schüler: <br/> - des Jahrgangs 10 \(G8\) <br/> - des Jahrgangs 11 \(G9\) |
-| Q1/Q2-Phase | 12 | in dieser Klasse sind gemeinsam Schüler: <br/> - des Jahrgangs 11 \(G8\) <br/> - des Jahrgangs 12 \(G9\) |
-| Q3/Q4-Phase | 13 | in dieser Klasse sind gemeinsam Schüler: <br/> - des Jahrgangs 12 \(G8\) <br/> - des Jahrgangs 13 \(G9\) |
+| E-Phase | 11 | in dieser Klasse sind gemeinsam Schüler: <br/> - des Jahrgangs 10 (G8) <br/> - des Jahrgangs 11 (G9) |
+| Q1/Q2-Phase | 12 | in dieser Klasse sind gemeinsam Schüler: <br/> - des Jahrgangs 11 (G8) <br/> - des Jahrgangs 12 (G9) |
+| Q3/Q4-Phase | 13 | in dieser Klasse sind gemeinsam Schüler: <br/> - des Jahrgangs 12 (G8) <br/> - des Jahrgangs 13 (G9) |
 
-> #### primary::Wichtig
->
-> Bitte achten Sie darauf, dass unter `Daten3 > Fremdsprachenfolge` für die Schüler die Besuchsjahre individuell nach G8 und G9 eingetragen werden. Die Eintragung kann auch per gesammelt mit dem Assistenten unter `Schüler > Bearbeiten > Sammelzuweisung` erfolgen. Nachfolgend ein Beispiel für die G9-Schüler einer gemischten Klasse.
+!!! info "Hinweis"
 
+    Bitte achten Sie darauf, dass unter `Daten3 > Fremdsprachenfolge` für die Schüler die Besuchsjahre individuell nach G8 und G9 eingetragen werden. Die Eintragung kann auch per gesammelt mit dem Assistenten unter `Schüler > Bearbeiten > Sammelzuweisung` erfolgen. Nachfolgend ein Beispiel für die G9-Schüler einer gemischten Klasse.
 
+![Bitte geben Sie in gemischten Klassen die Jahrgänge wie im oben stehenden Beispiel ein](/assets/images/nrw.apo-2012.png)
 
-![Bitte geben Sie in gemischten Klassen die Jahrgänge wie im oben stehenden Beispiel ein](/images/nrw.apo-2012.png)
-
-
-
-![Bitte richten Sie für dieses Beispiel die Zeile im Verzeichnis Verordnungen wie abgebildet ein](/images/nrw.apo-2012.01.png)
-
+![Bitte richten Sie für dieses Beispiel die Zeile im Verzeichnis Verordnungen wie abgebildet ein](/assets/images/nrw.apo-2012.01.png)
 
 ## Verzeichnis Verordnung
 
@@ -38,7 +33,7 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 | Kategorie | Abitur |
 | Typ | leer |
 | Ab Jahrgang | leer |
-| Skript | `...\Ihre Region\Ihr_Skript.dws` \(Pfad zur Skriptdatei auf Ihrem Server\) |
+| Skript | `...Ihre RegionIhr_Skript.dws` (Pfad zur Skriptdatei auf Ihrem Server) |
 | Notenart 11 | Noten oder Punkte |
 | Notenart 12 | Punkte |
 | Notenart 13 | Punkte |
@@ -52,40 +47,39 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter `Verzeichnisse > Fächer > Kategorie` zuweisen.  
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
 
-
 Fachkategorien | Wird vom Skript berücksichtigt
---- | ---
-Fremdsprache | JA
-Religion/Ethik | JA |
-Deutsch | JA
-Mathematik | JA
-Kunst | JA
-Musik | JA
-Sport | JA
-Informatik | JA
-Philosophie | JA
-Geschichte | JA
-Physik | JA
-Chemie | JA
-Biologie | JA
-Erdkunde | JA
-Sozialkunde | JA
-Wirtschaft | JA
-Politik | -
-Darstellendes Spiel |-
-Evangelische Religion |-
-Katholische Religion |-
-Technik |-
-Pädagogik |-
-Sporttheorie |-
-BWL/RW |-
-BWL/VWL |-
-VWL |-
-Seminar |-
-Gesundheit |-
-Psychologie |-
-Recht  |-
-Literatur |  -
+-- | --
+Fremdsprache | **Ja**
+Religion/Ethik | **Ja** |
+Deutsch | **Ja**
+Mathematik | **Ja**
+Kunst | **Ja**
+Musik | **Ja**
+Sport | **Ja**
+Informatik | **Ja**
+Philosophie | **Ja**
+Geschichte | **Ja**
+Physik | **Ja**
+Chemie | **Ja**
+Biologie | **Ja**
+Erdkunde | **Ja**
+Sozialkunde | **Ja**
+Wirtschaft | **Ja**
+Politik | Nein
+Darstellendes Spiel |Nein
+Evangelische Religion |Nein
+Katholische Religion |Nein
+Technik |Nein
+Pädagogik |Nein
+Sporttheorie |Nein
+BWL/RW |Nein
+BWL/VWL |Nein
+VWL |Nein
+Seminar |Nein
+Gesundheit |Nein
+Psychologie |Nein
+Recht |Nein
+Literatur | Nein
 
 ## Aufgabenbereiche
 
@@ -109,7 +103,6 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Unter
 | LK | LK | Leistungskurs |
 | GK | GK | Grundkurs |
 
-
 ## Fachstatus
 
 Der Fachstatus muss unter `Abitur > Qualifikation > Fachstatus` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Fachstatus` übernommen werden.  
@@ -117,16 +110,12 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachs
 
 | Kürzel | Schlüssel | Bedeutung |
 | --- | --- | --- |
-| Pflicht | Pflicht | Pflichtbereich \(kein Eintrag wird wie Pflicht gewertet\) |
+| Pflicht | Pflicht | Pflichtbereich (kein Eintrag wird wie Pflicht gewertet) |
 | 1PF | 1PF | 1. Prüfungsfach |
 | 2PF | 2PF | 2. Prüfungsfach |
 | 3PF | 3PF | 3. Prüfungsfach |
 | 4PF | 4PF | 4. Prüfungsfach |
 |ZusatzK|ZusatzK|Zusatzkurs|
-
-
-
-
 
 ## Besondere Lernleistung
 
@@ -137,13 +126,13 @@ Weisen Sie dem Fach der "besonderen Lernleistung" auf der Registerkarte `Qualifi
 Im Menü `Abitur` wird auf der Registerkarte `Prüfung` in der Registerkarte `Lernleistung` das jeweilige Fach automatisch eingetragen. Damit die BLL in die Berechnung aufgenommen wird,  
 setzen Sie den Haken vor `Lernleistung einbringen`. Das Thema der besonderen Lernleistung tragen Sie im Feld `Thema` ein, die Gesamtnote geben Sie links im ersten Feld  ein.
 
-!\[Die BLL wird durch das Auslösen des Skriptes eingetragen. \]\(/assets/images/nrw-apo-2012-besondere lernleistung.png\)
+![Die BLL wird durch das Auslösen des Skriptes eingetragen.](/assets/images/nrw-apo-2012-besondere_lernleistung.png)
 
 ## Leistung mündlich erbracht
 
 Sie können in MAGELLAN unter Abitur > Qualifikation > Layout anpassen pro Kurshalbjahr eine Spalte zum Markieren, ob eine Leistung mündlich erbracht wurde einblenden. Bitte markieren Sie dort die mündliche Leistung für ausgewählte Fächer und Halbjahre. Diese Eingabe wird vom Skript für die Festlegung des Profils ausgewertet.
 
-![Blenden Sie die Spalten unter "Layout anpassen" ein und markieren per Häkchen, falls eine Leistung mündlich erbracht wurde.](/images/E1_Q4_muendlich.png)
+![Blenden Sie die Spalten unter "Layout anpassen" ein und markieren per Häkchen, falls eine Leistung mündlich erbracht wurde.](/assets/images/E1_Q4_muendlich.png)
 
 ## Merkmal
 
@@ -151,7 +140,4 @@ Das Merkmal muss unter `Abitur > Qualifikation > Merkmal` eingetragen sein. Er k
 
 | Merkmal | Bedeutung |
 | --- | --- |
-| A | Fremdsprache Anfänger \(2 Kurse müssen eingebracht werden\) |
-
-
-
+| A | Fremdsprache Anfänger (2 Kurse müssen eingebracht werden) |

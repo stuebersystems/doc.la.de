@@ -43,7 +43,7 @@ r Oberstufe verwenden, müssen Sie eine Kategorie unter ```Verzeichnisse > Fäch
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
 
 |Fachkategorien|Wird vom Skript berücksichtigt|
-|--|--|--|
+|--|--|
 |Fremdsprache| **Ja** |
 |Religion/Ethik| **Ja** |
 |Deutsch| **Ja** |

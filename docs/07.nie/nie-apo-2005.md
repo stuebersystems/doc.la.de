@@ -26,7 +26,7 @@ Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unte
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
 
 |Fachkategorien|Wird vom Skript berücksichtigt|
-|--|--|--|
+|--|--|
 |Fremdsprache|**Ja**|
 |Religion/Ethik|**Ja**|
 |Deutsch|**Ja**|
@@ -114,4 +114,3 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
   errechnet und in der Spalte „schriftliche Prüfung” eingetragen, wobei
   Bruchteile entfallen; dabei ist s = Punktzahl der schriftlichen Prüfung
   und m = Punktzahl der mündlichen Prüfung.
-  

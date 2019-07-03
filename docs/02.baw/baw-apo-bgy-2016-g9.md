@@ -25,40 +25,40 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter ```Verzeichnisse > Fächer > Kategorie``` zuweisen.
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
 
-| Fachkategorien        | Wird vom Skript berücksichtigt |
-|-----------------------|--------------------------------|
-| Fremdsprache          | JA                             |
-| Religion/Ethik        | JA                             |
-| Deutsch               | JA                             |
-| Mathematik            | JA                             |
-| Kunst                 | JA                             |
-| Musik                 | JA                             |
-| Sport                 | JA                             |
-| Informatik            | JA                             |
-| Philosophie           | -                              |
-| Geschichte            | JA                             |
-| Physik                | JA                             |
-| Chemie                | JA                             |
-| Biologie              | JA                             |
-| Erdkunde              | JA                             |
-| Sozialkunde           | JA                             |
-| Wirtschaft            | JA                             |
-| Politik               | -                              |
-| Darstellendes Spiel   | -                              |
-| Evangelische Religion | -                              |
-| Katholische Religion  | -                              |
-| Technik               | -                              |
-| Pädagogik             | -                              |
-| Sporttheorie          | -                              |
-| Seminar               | -                              |
-| BWL/RW                | -                              |
-| BWL/VWL               | -                              |
-| VWL                   | -                              |
-| Seminar               | -                              |
-| Gesundheit            | -                              |
-| Psychologie           | -                              |
-| Recht                 | -                              |
-| Literatur             | -                              |
+| Fachkategorien | Wird vom Skript berücksichtigt |
+|--|--|
+| Fremdsprache |**Ja**|
+| Religion/Ethik |**Ja**|
+| Deutsch |**Ja**|
+| Mathematik |**Ja**|
+| Kunst |**Ja**|
+| Musik |**Ja**|
+| Sport |**Ja**|
+| Informatik |**Ja**|
+| Philosophie |Nein|
+| Geschichte |**Ja**|
+| Physik |**Ja**|
+| Chemie |**Ja**|
+| Biologie |**Ja**|
+| Erdkunde |**Ja**|
+| Sozialkunde |**Ja**|
+| Wirtschaft |**Ja**|
+| Politik |Nein|
+| Darstellendes Spiel |Nein|
+| Evangelische Religion |Nein|
+| Katholische Religion |Nein|
+| Technik |Nein|
+| Pädagogik |Nein|
+| Sporttheorie |Nein|
+| Seminar |Nein|
+| BWL/RW |Nein|
+| BWL/VWL |Nein|
+| VWL |Nein|
+| Seminar |Nein|
+| Gesundheit |Nein|
+| Psychologie |Nein|
+| Recht |Nein|
+| Literatur |Nein|
 
 ## Aufgabenbereiche
 
