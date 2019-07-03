@@ -157,7 +157,7 @@ Sie haben in diesem Informationsmodul in der oberen Menüleiste die Möglichkeit
 
 ### Wenn Sie selbst Berichte erstellen möchten
 
-Alle in diesem Dokument erwähnten Crystal-Reports-Berichte für Listen und Zeugnisse können mit dem kostenlos mitgelieferten Runtime-Modul von MAGELLAN ausgedruckt werden. Wenn Sie lediglich die mitgelieferten Zeugnisformulare verwenden, ohne Änderungen am Layout vorzunehmen, benötigen Sie keinen Druckreportgenerator, da bereits eine Runtime-Version des in MAGELLAN verwendeten Crystal Reports-Berichtsgenerators mitinstalliert wird. Wenn Sie Berichte selbst verändern oder erstellen möchten, benötigen Sie eine Lizenz von Crystal Reports. 
+Alle in diesem Dokument erwähnten Crystal-Reports-Berichte für Listen und Zeugnisse können mit dem kostenlos mitgelieferten Runtime-Modul von MAGELLAN ausgedruckt werden. Wenn Sie lediglich die mitgelieferten Zeugnisformulare verwenden, ohne Änderungen am Layout vorzunehmen, benötigen Sie keinen Druckreportgenerator, da bereits eine Runtime-Version des in MAGELLAN verwendeten Crystal Reports-Berichtsgenerators mitinstalliert wird. Wenn Sie Berichte selbst verändern oder erstellen möchten, benötigen Sie eine Lizenz von Crystal Reports.
 
 !!! info "Hinweis"
 
@@ -181,7 +181,7 @@ Die im Lieferumfang von MAGELLAN standardmäßig enthaltenen Berichte entspreche
 
 ### Berichtsdateinamen
 
-Jeder ausgedruckte Bericht enthält klein gedruckt links unten den Namen des Berichts. So können Sie z.B. bei Supportanfragen den Bericht eindeutig identifizieren. Sie können den Namen ggf. über Crystal Reports aus dem Bericht löschen. Die Dateinamen entsprechen folgender Konvention, die wir anhand eines Beispiels  erläutern. 
+Jeder ausgedruckte Bericht enthält klein gedruckt links unten den Namen des Berichts. So können Sie z.B. bei Supportanfragen den Bericht eindeutig identifizieren. Sie können den Namen ggf. über Crystal Reports aus dem Bericht löschen. Die Dateinamen entsprechen folgender Konvention, die wir anhand eines Beispiels  erläutern.
 
 Der folgende Dateiname bezeichnet ein Halbjahreszeugnis für Gymnasien in Rheinland-Pfalz.
 
