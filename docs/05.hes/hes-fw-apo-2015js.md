@@ -28,8 +28,8 @@ In der Ansicht ``Stammdaten > Klassen`` weisen Sie die Klassen bzw. Jahrgänge m
 
 !!! info "Hinweis"
 
-    In den „Kursplan“ Ansichten wird immer mit der Jahrgangsstufe (Spalte „Stufe“) gearbeitet. Wenn Sie z.b den Jahrgang 12 als eine Klasse „12“ eingegeben haben, sind Jahrgangstufe und Klasse gleichbedeutend. Wenn Sie den Jahrgang 12 in Klassen 12A, 12B, 12C aufteilen, werden alle Schüler dieser Klassen angezeigt. Sie wählen den Jahrgang aus, indem Sie über Plan | Auswahl eine Klasse auswählen. Angezeigt wird daraufhin der betreffende Jahrgang.
-    Die relevanten Spalten in der Ansicht ``Stammdaten > Klassen``:
+ In den „Kursplan“ Ansichten wird immer mit der Jahrgangsstufe (Spalte „Stufe“) gearbeitet. Wenn Sie z.b den Jahrgang 12 als eine Klasse „12“ eingegeben haben, sind Jahrgangstufe und Klasse gleichbedeutend. Wenn Sie den Jahrgang 12 in Klassen 12A, 12B, 12C aufteilen, werden alle Schüler dieser Klassen angezeigt. Sie wählen den Jahrgang aus, indem Sie über Plan | Auswahl eine Klasse auswählen. Angezeigt wird daraufhin der betreffende Jahrgang.
+ Die relevanten Spalten in der Ansicht ``Stammdaten > Klassen``:
 
 |Spalte |Beschreibung|
 |--|--|
@@ -94,7 +94,7 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Stammdaten 
 
 ## Unterrichtsart
 
-Die Unterrichtsart muss unter ```Kursplan > Fachwahl > Unterrichtsart (MAGELLAN > Abitur > Qualifikation > Unterrichtsart)``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden. 
+Die Unterrichtsart muss unter ```Kursplan > Fachwahl > Unterrichtsart (MAGELLAN > Abitur > Qualifikation > Unterrichtsart)``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden.
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 |Kürzel| Schlüssel |Bedeutung|
@@ -104,7 +104,7 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unt
 
 ## Fachstatus
 
-Der Fachstatus muss unter ```Kursplan > Fachwahl > Fachstatus (MAGELLAN > Abitur > Qualifikation > Fachstatus)``` zugeordnet sein. 
+Der Fachstatus muss unter ```Kursplan > Fachwahl > Fachstatus (MAGELLAN > Abitur > Qualifikation > Fachstatus)``` zugeordnet sein.
 Prüfen Sie bitte unter ```Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 |Kürzel |Schlüssel |Bedeutung|

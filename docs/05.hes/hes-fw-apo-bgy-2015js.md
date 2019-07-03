@@ -5,7 +5,7 @@ Oberstufenabiturverordnung (OAVO) vom 20. Juli 2009, Fassung 01. April 2015
 
 !!! info "Hinweis"
 
-    Diese Prüfung gilt aktuell nur für berufliche Gymnasien mit: Fachrichtung Wirtschaft
+ Diese Prüfung gilt aktuell nur für berufliche Gymnasien mit: Fachrichtung Wirtschaft
 
 ## Verzeichnis Verordnung in MAGELLAN
 
@@ -96,7 +96,7 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Stammdaten 
 
 ## Unterrichtsart
 
-Die Unterrichtsart muss unter ```Kursplan > Fachwahl > Unterrichtsart (MAGELLAN > Abitur > Qualifikation > Unterrichtsart)``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden. 
+Die Unterrichtsart muss unter ```Kursplan > Fachwahl > Unterrichtsart (MAGELLAN > Abitur > Qualifikation > Unterrichtsart)``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden.
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 |Kürzel| Schlüssel |Bedeutung|
@@ -106,7 +106,7 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unt
 
 ## Fachstatus
 
-Der Fachstatus muss unter ```Kursplan > Fachwahl > Fachstatus (MAGELLAN > Abitur > Qualifikation > Fachstatus)``` zugeordnet sein. 
+Der Fachstatus muss unter ```Kursplan > Fachwahl > Fachstatus (MAGELLAN > Abitur > Qualifikation > Fachstatus)``` zugeordnet sein.
 Prüfen Sie bitte unter ```Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 |Kürzel |Schlüssel |Bedeutung|

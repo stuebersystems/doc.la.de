@@ -1,8 +1,8 @@
 # MVP-APO-FG-1999
 
 ## Verzeichnis Verordnung
-Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
+Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
 |Spalte|Wert|
 |--|--|
@@ -26,6 +26,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 |Gültig bis|leer|
 
 ## Fachkategorien
+
 Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter ```Verzeichnisse > Fächer > Kategorie``` zuweisen.
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
 
@@ -36,9 +37,9 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 |Deutsch|**Ja**|
 |Mathematik|**Ja**|
 |Kunst|**Ja**|
-|Musik||
+|Musik|Nein|
 |Sport|**Ja**|
-|Informatik||
+|Informatik|Nein|
 |Philosophie|**Ja**|
 |Geschichte|**Ja**|
 |Physik|**Ja**|
@@ -47,23 +48,24 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 |Erdkunde|**Ja**|
 |Sozialkunde|**Ja**|
 |Wirtschaft|**Ja**|
-|Politik||
-|Darstellendes Spiel||
-|Evangelische Religion||
-|Katholische Religion||
+|Politik|Nein|
+|Darstellendes Spiel|Nein|
+|Evangelische Religion|Nein|
+|Katholische Religion|Nein|
 |Technik|**Ja**|
 |Pädagogik|**Ja**|
-|Sporttheorie||
-|BWL/RW||
-|BWL/VWL||
-|VWL||
-|Seminar||
-|Gesundheit||
-|Psychologie||
-|Recht||
-|Literatur|||
+|Sporttheorie|Nein|
+|BWL/RW|Nein|
+|BWL/VWL|Nein|
+|VWL|Nein|
+|Seminar|Nein|
+|Gesundheit|Nein|
+|Psychologie|Nein|
+|Recht|Nein|
+|Literatur|Nein|
 
 ## Aufgabenbereiche
+
 Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnisse > Fächer > Spalte Aufgabenbereich``` verwendet werden:
 
 |Aufgabenbereich|
@@ -75,11 +77,12 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnis
 |Sport|
 
 ## Merkmal
-Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden. 
 
-|Fachkürzel	|Bemerkung|	Merkmal|
+Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
+
+|Fachkürzel |Bemerkung| Merkmal|
 |--|--|--|
-|SPOPR	|Sport-Praxis	|Syntax: AAAAAAAA|
+|SPOPR |Sport-Praxis |Syntax: AAAAAAAA|
 |||Angabe der Sportart für jedes der 4 Qualifikationshalbjahre:|
 |||Mannschaftssportarten:|
 |||BB Basketball|
