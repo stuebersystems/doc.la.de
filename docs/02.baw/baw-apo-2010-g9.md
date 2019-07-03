@@ -1,6 +1,7 @@
 # BAW-APO-2010-G9
 
-##Verzeichnis Verordnung
+## Verzeichnis Verordnung
+
 Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
 |Spalte|Wert|
@@ -19,15 +20,15 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 |Gültig von |leer|
 |Gültig bis|leer|
 
-##Besondere Lernleistung
+## Besondere Lernleistung
+
 Für die die Berücksichtigung der besonderen Lernleistung (BLL) ist folgendes zu beachten:
 
-1.	Fall - Besondere Lernleistung (BLL) wird im Block I eingebracht :
+1. Fall - Besondere Lernleistung (BLL) wird im Block I eingebracht :
 Das Fach der BLL wird mit Unterrichtsart "BL" eingetragen, die Note wird einmal in einem der Halbjahre eingegeben. Die Automatik markiert ggf. die BLL-Note und rechnet sie als zwei Kurse mit doppelter Punktzahl in die Block I Qualifikationssumme ein. 
 
-2. Fall - Besondere Lernleistung (BLL) wird im Prüfungsbereich eingebracht 
+2. Fall - Besondere Lernleistung (BLL) wird im Prüfungsbereich eingebracht
 Die BLL wird auf Prüfungsregisterkarte mit Note eintragen. Das Fach der BLL auf Qualifikationsregisterkarte muss gelöscht werden. Wenn "Eingebracht" markiert ist, dann muss die BLL-Note noch einmal als Ersatz der schriftlichen PF4 Note oder als Ersatz der mündlichen Note im PF4 oder PF5 eingegeben werden. Dazu erscheint auch ein entsprechender Hinweis.
-
 
 ## Fachkategorien
 
@@ -36,22 +37,22 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 
 |Fachkategorien|Wird vom Skript berücksichtigt|
 |--|--|--|
-|Fremdsprache|JA|
-|Religion/Ethik|JA|
-|Deutsch|JA|
-|Mathematik|JA|
-|Kunst|JA|
-|Musik|JA|
-|Sport|JA|
-|Informatik|JA|
+|Fremdsprache|**Ja**|
+|Religion/Ethik|**Ja**|
+|Deutsch|**Ja**|
+|Mathematik|**Ja**|
+|Kunst|**Ja**|
+|Musik|**Ja**|
+|Sport|**Ja**|
+|Informatik|**Ja**|
 |Philosophie||
-|Geschichte|JA|
-|Physik|JA|
-|Chemie|JA|
-|Biologie|JA|
-|Erdkunde|JA|
-|Sozialkunde|JA|
-|Wirtschaft|JA|
+|Geschichte|**Ja**|
+|Physik|**Ja**|
+|Chemie|**Ja**|
+|Biologie|**Ja**|
+|Erdkunde|**Ja**|
+|Sozialkunde|**Ja**|
+|Wirtschaft|**Ja**|
 |Politik||
 |Darstellendes Spiel||
 |Evangelische Religion||
@@ -84,33 +85,33 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnis
 Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden. 
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
-|Kürzel|	Schlüssel	|Bedeutung|
+|Kürzel| Schlüssel |Bedeutung|
 |--|--|--|
 |Kurs|Kurs|Kurs (Standardangabe)|
-|KF|	KF	|Kernfach|
-|FA|	FA	|Facharbeit|
-|BL|	BL	|Besondere Lernleistung|
+|KF| KF |Kernfach|
+|FA| FA |Facharbeit|
+|BL| BL |Besondere Lernleistung|
 
 ##Fachstatus
 Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden. 
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
-|Kürzel	|Schlüssel	|Bedeutung|
+|Kürzel |Schlüssel |Bedeutung|
 |--|--|--|
-|1PF	|1PF	|1. Prüfungsfach|
-|2PF	|2PF	|2. Prüfungsfach|
-|3PF	|3PF	|3. Prüfungsfach|
-|4PF	|4PF	|4. Prüfungsfach|
-|4PF	|4PFWahlb	|4. Prüfungsfach Wahlbereich|
-|5PF	|5PF	|5. Prüfungsfach|
-|5PF	|5PFWahlb|5. Prüfungsfach Wahlbereich|
+|1PF |1PF |1. Prüfungsfach|
+|2PF |2PF |2. Prüfungsfach|
+|3PF |3PF |3. Prüfungsfach|
+|4PF |4PF |4. Prüfungsfach|
+|4PF |4PFWahlb |4. Prüfungsfach Wahlbereich|
+|5PF |5PF |5. Prüfungsfach|
+|5PF |5PFWahlb|5. Prüfungsfach Wahlbereich|
 
 ##Merkmal
 Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden. 
 
-|Merkmal	|Bedeutung|
+|Merkmal |Bedeutung|
 |--|--|
-|B|	2. Fremdsprache Anfänger|
+|B| 2. Fremdsprache Anfänger|
 
 
 

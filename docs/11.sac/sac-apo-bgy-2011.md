@@ -35,22 +35,22 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 
 |Fachkategorien|Wird vom Skript berücksichtigt|
 |--|--|--|
-|Fremdsprache|JA|
-|Religion/Ethik|JA|
-|Deutsch|JA|
-|Mathematik|JA|
-|Kunst|JA|
+|Fremdsprache|**Ja**|
+|Religion/Ethik|**Ja**|
+|Deutsch|**Ja**|
+|Mathematik|**Ja**|
+|Kunst|**Ja**|
 |Musik||
-|Sport|JA|
+|Sport|**Ja**|
 |Informatik||
 |Philosophie||
-|Geschichte|JA|
-|Physik|JA|
-|Chemie|JA|
-|Biologie|JA|
+|Geschichte|**Ja**|
+|Physik|**Ja**|
+|Chemie|**Ja**|
+|Biologie|**Ja**|
 |Erdkunde||
-|Sozialkunde|JA|
-|Wirtschaft|JA|
+|Sozialkunde|**Ja**|
+|Wirtschaft|**Ja**|
 |Politik||
 |Darstellendes Spiel||
 |Evangelische Religion||

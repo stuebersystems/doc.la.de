@@ -6,7 +6,6 @@ Abiturqualifikationsberechnung für Deutsche Auslandsschulen  nach der Ordnung d
 
 Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
-
 | Spalte       | Wert                                     |
 |--------------|------------------------------------------|
 | Kürzel       | beliebig                                 |
@@ -23,8 +22,6 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 | Gültig von   | leer                                     |
 | Gültig bis   | leer                                     |
 
-
-
 Nachfolgend Beispiele für Verordnungszeilen für G8 der G9:
 
 ![Anlegen der Verordnung für G8 und G9](/assets/images/DAS/Verordnung.dia.2015.png)
@@ -33,7 +30,6 @@ Nachfolgend Beispiele für Verordnungszeilen für G8 der G9:
 
 Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter `Verzeichnisse > Fächer > Kategorie` zuweisen.  
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
-
 
 | Fachkategorien          | Wird vom Skript berücksichtigt |
 |-------------------------|--------------------------------|
@@ -59,12 +55,9 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 | **Sporttheorie**        | JA                             |
 | **Seminar**             | JA                             |
 
-
-
 ## Aufgabenbereiche
 
 Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Verzeichnisse > Fächer > Spalte Aufgabenbereich` verwendet werden:
-
 
 | Aufgabenbereich            |
 |----------------------------|
@@ -73,7 +66,6 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Verzeichnisse
 | mathem.-nat.-technisch     |
 | Religion                   |
 | Sport                      |
-
 
 ## Fachmerkmale
 
@@ -99,7 +91,6 @@ Nachstehend ein Beispiel für die Eintragung mit der Landessprache Portugiesisch
 Der Fachstatus muss unter `Abitur > Qualifikation > Fachstatus` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Fachstatus` übernommen werden.  
 Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
-
 | Kürzel | Schlüssel | Bedeutung       |
 |--------|-----------|-----------------|
 | 1PF    | 1PF       | 1. Prüfungsfach |
@@ -107,7 +98,6 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachs
 | 3PF    | 3PF       | 3. Prüfungsfach |
 | 4PF    | 4PF       | 4. Prüfungsfach |
 | 5PF    | 5PF       | 5. Prüfungsfach |
-
 
 ## Besondere Lernleistung
 
@@ -121,14 +111,11 @@ Das Merkmal muss unter `Abitur > Qualifikation > Merkmal` eingetragen sein. Er k
 
 | Merkmal | Bedeutung                                |
 |---------|------------------------------------------|
-| A       | Fremdsprache Anfänger \(2 Kurse müssen eingebracht werden\) |
-
+| A       | Fremdsprache Anfänger (2 Kurse müssen eingebracht werden) |
 
 ## Sonstiges
 
 Das Berechnungsskript **DE-DIAP-2015** berücksichtigt auch folgendes:
 
-* Ermittlung einer Schnittverbesserung durch mögliche Einbringung einer mdl. Note in einem Prüfungsfach unter dem Menü ``Abitur > Prüfung`` im Feld "mdl. Note" 
+* Ermittlung einer Schnittverbesserung durch mögliche Einbringung einer mdl. Note in einem Prüfungsfach unter dem Menü ``Abitur > Prüfung`` im Feld "mdl. Note"
 * Ermittlung der Abiturzulassung am Ende der Q3, wenn unter dem Menü ``Abitur > Qualifikation`` in den Feldern ``Q4`` keine Punktwerte eingetragen sind
-
-
