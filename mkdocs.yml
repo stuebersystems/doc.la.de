@@ -49,7 +49,7 @@ markdown_extensions:
 nav:
 - Überblick:
   - Einführung: einfuehrung.md
-  - Alle Skripte im Überblick: skriptueberblick.md.md
+  - Alle Skripte im Überblick: skriptueberblick.md
   - Oberstufenorganisation: 
     - Allgemein: oberstufenorganisation.md
     - Die Berechnungsskripte: 

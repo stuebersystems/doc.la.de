@@ -20,9 +20,8 @@ In den nachfolgenden Abschnitten werden nur die Besonderheiten der einzelnen lan
 
 ## Landesspezifische Skripte
 
-Die gesamte Durchschnittsberechnung bei Abschlüssen innerhalb eines Zeitraums wird durch MAGELLAN-Skripte durchgeführt oder anders gesagt, jedes Versetzungsskript repräsentiert eine spezielle Berechnungsvorschrift für die Durchschnittsnote(n) auf dem Abschluss- bzw.  Abgangszeugnis. 
+Die gesamte Durchschnittsberechnung bei Abschlüssen innerhalb eines Zeitraums wird durch MAGELLAN-Skripte durchgeführt oder anders gesagt, jedes Versetzungsskript repräsentiert eine spezielle Berechnungsvorschrift für die Durchschnittsnote(n) auf dem Abschluss- bzw.  Abgangszeugnis.
 Die derzeit in MAGELLAN verfügbaren Berechnungsverordnungen können Sie der Tabelle unten entnehmen.
-
 
 !!! warning "Wichtig"
 
