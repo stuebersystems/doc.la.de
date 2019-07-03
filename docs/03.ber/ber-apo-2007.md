@@ -1,17 +1,11 @@
 # BER-APO-2007
 
-> #### warning::Wichtig!
->
-> Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [Regionales > Berlin](https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin/)!
+!!! info "Hinweis"
 
+    Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [Regionales > Berlin](https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin/)!
 
+## Verzeichnis Verordnung
 
-
-
-
-
-
-##Verzeichnis Verordnung
 Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
 |Spalte|Wert|
@@ -30,8 +24,8 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 |Gültig von |leer|
 |Gültig bis|leer|
 
+## Fachkategorien
 
-##Fachkategorien
 Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter ```Verzeichnisse > Fächer > Kategorie``` zuweisen.
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
 
@@ -69,7 +63,8 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 |Recht||
 |Literatur|||
 
-##Aufgabenbereiche
+## Aufgabenbereiche
+
 Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnisse > Fächer > Spalte Aufgabenbereich``` verwendet werden:
 
 |Aufgabenbereich|
@@ -80,21 +75,22 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnis
 |Religion|
 |Sport|
 
-##Unterrichtsart
-Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden. 
+## Unterrichtsart
+
+Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden.
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
-|Kürzel|	Schlüssel	|Bedeutung|
+|Kürzel| Schlüssel |Bedeutung|
 |--|--|--|
 |LK|LK|Leistungskurs|
 |GK|GK|Grundkurs|
 
+## Fachstatus
 
-##Fachstatus
-Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden. 
+Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden.
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
-|Kürzel	|Schlüssel	|Bedeutung|
+|Kürzel |Schlüssel |Bedeutung|
 |--|--|--|
 |1PF|1PF|1. Prüfungsfach|
 |2PF|2PF|2. Prüfungsfach|
@@ -103,13 +99,15 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 |5PF|5PF|5. Prüfungsfach|
 |Pflicht|Pflicht|Pflicht|
 
-##Merkmal
-Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden. 
+## Merkmal
 
->Werden Sportarten aus mehreren Halbjahren mit ins Abiturmenü übertragen, werden sie aneinandergefügt.
-> Beispiel: 
-> 1.Halbjahr Badminton BM, 2.Halbjahr Fußball wird beim Synchronisieren als BMFB ins ```Menü Abitur > Qualifikation > Merkmal``` übernommen.
+Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
 
+!!! info "Hinweis"
+
+    Werden Sportarten aus mehreren Halbjahren mit ins Abiturmenü übertragen, werden sie aneinandergefügt.
+    Beispiel: 
+    1.Halbjahr Badminton BM, 2.Halbjahr Fußball wird beim Synchronisieren als BMFB ins ```Menü Abitur > Qualifikation > Merkmal``` übernommen.
 
 |Gruppe|Merkmal|Bedeutung|
 |--|--|--|
@@ -133,4 +131,3 @@ Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. 
 |Gruppe C Sportarten|SK|Skifahren|
 |Gruppe C Sportarten|SL|Skilanglauf|
 |Gruppe C Sportarten|SU|Surfen|
-

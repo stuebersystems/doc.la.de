@@ -1,8 +1,8 @@
 # BER-FW-APO-2017.js
 
-> #### warning::Wichtig!
->
-> Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [Regionales &gt; Berlin](https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin/) !
+!!! info "Hinweis"
+
+    Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [Regionales &gt; Berlin](https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin/) !
 
 ## Verzeichnis Verordnung in MAGELLAN
 
@@ -13,9 +13,9 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 | Kürzel | beliebig |
 | Bezeichnung | beliebig |
 | Kategorie | Fachwahl |
-| Typ | G8 oder leer \(=G9\) |
+| Typ | G8 oder leer (=G9) |
 | Ab Jahrgang | leer |
-| Skript | `...\Ihre Region\Ihr_Skript.js` \(Pfad zur Skriptdatei auf Ihrem Server\) |
+| Skript | `...\Ihre Region\Ihr_Skript.js` (Pfad zur Skriptdatei auf Ihrem Server) |
 | Notenart 11 | Noten oder Punkte |
 | Notenart 12 | Punkte |
 | Notenart 13 | Punkte |
@@ -24,13 +24,15 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 | Gültig von | leer |
 | Gültig bis | leer |
 
-![Beispiele für die Fachwahlzeile für G8 oder G9: Tragen Sie im Feld \`Typ \`G8 ein oder lassen es frei](/images/ber-apo-fw-2017.0.png)
+![Beispiele für die Fachwahlzeile für G8 oder G9: Tragen Sie im Feld `Typ `G8 ein oder lassen es frei](/images/ber-apo-fw-2017.0.png)
 
 ## Verordnung in DAVINCI hinterlegen
 
-In der Ansicht `Stammdaten > Klassen` weisen Sie die Klassen bzw. Jahrgänge mit Kurssystem \(Modus „Kurse“\) aus und geben das Fachwahlskript an, nach dem die Fachwahl überprüft werden soll. Hinzu kommen ggf. weitere Angaben sind insbesondere für Fachwahlüberprüfungen notwendig, die mehrere Halbjahre überprüfen, z.B. in Berlin.
+In der Ansicht `Stammdaten > Klassen` weisen Sie die Klassen bzw. Jahrgänge mit Kurssystem (Modus „Kurse“) aus und geben das Fachwahlskript an, nach dem die Fachwahl überprüft werden soll. Hinzu kommen ggf. weitere Angaben sind insbesondere für Fachwahlüberprüfungen notwendig, die mehrere Halbjahre überprüfen, z.B. in Berlin.
 
-> In den „Kursplan“ Ansichten wird immer mit der Jahrgangsstufe \(Spalte „Stufe“\) gearbeitet. Wenn Sie z.b den Jahrgang 12 als eine Klasse „12“ eingegeben haben, sind Jahrgangstufe und Klasse gleichbedeutend. Wenn Sie den Jahrgang 12 in Klassen 12A, 12B, 12C aufteilen, werden alle Schüler dieser Klassen angezeigt. Sie wählen den Jahrgang aus, indem Sie über Plan \| Auswahl eine Klasse auswählen. Angezeigt wird daraufhin der betreffende Jahrgang.
+!!! info "Hinweis"
+
+        In den „Kursplan“ Ansichten wird immer mit der Jahrgangsstufe (Spalte „Stufe“) gearbeitet. Wenn Sie z.b den Jahrgang 12 als eine Klasse „12“ eingegeben haben, sind Jahrgangstufe und Klasse gleichbedeutend. Wenn Sie den Jahrgang 12 in Klassen 12A, 12B, 12C aufteilen, werden alle Schüler dieser Klassen angezeigt. Sie wählen den Jahrgang aus, indem Sie über `Plan >  Auswahl` eine Klasse auswählen. Angezeigt wird daraufhin der betreffende Jahrgang.
 
 Die relevanten Spalten in der Ansicht `Stammdaten > Klassen`:
 
@@ -39,10 +41,10 @@ Die relevanten Spalten in der Ansicht `Stammdaten > Klassen`:
 | Modus | Stellen Sie hier „Kurse“ ein, dann kann zwischen diesen Klassen in der Ansicht „Kursplan“ geblättert werden. |
 | Stufe | Jahrngsstufe. In den Kursplan-Ansichten wird immer mit der Stufe gearbeitet, nicht mit Klassen. |
 | Startjahr | Startjahr der Klasse |
-| Halbjahr | Nummer des Halbjahres, in dem sich die Klasse aktuell für diesen Planungszeitraum befindet, d.h. 1, 2, 3, 4, 5, 6 \(E1=1, E2=2....Q3=5, Q4=6\). Aus Startjahr und Halbjahresindex errechnet sich, welche Fächer der Schüler in diesem Zeitraum bzw. in diesem Halbjahr belegt hat. |
+| Halbjahr | Nummer des Halbjahres, in dem sich die Klasse aktuell für diesen Planungszeitraum befindet, d.h. 1, 2, 3, 4, 5, 6 (E1=1, E2=2....Q3=5, Q4=6). Aus Startjahr und Halbjahresindex errechnet sich, welche Fächer der Schüler in diesem Zeitraum bzw. in diesem Halbjahr belegt hat. |
 | Schüler | Die Schülerzahl wird automatisch berechnet. |
 | Skript | Geben Sie hier das Fachwahlskript an, das für die Fachwahlüberprüfung sorgt. |
-| Verordnungstyp | G8 oder leer \(=G9\) |
+| Verordnungstyp | G8 oder leer (=G9) |
 
 ## Fachkategorien
 
@@ -81,7 +83,7 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 | Gesundheit |Nein|
 | Psychologie |Nein|
 | Recht |Nein|
-| Literatur |Nein|  |
+| Literatur |Nein|
 
 ## Aufgabenbereiche
 
@@ -97,7 +99,7 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Verzeichnisse
 
 ## Unterrichtsart
 
-Die Unterrichtsart muss unter `Abitur > Qualifikation > Unterrichtsart` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Unterrichtsart` übernommen werden.   
+Die Unterrichtsart muss unter `Abitur > Qualifikation > Unterrichtsart` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Unterrichtsart` übernommen werden.
 Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung |
@@ -110,7 +112,7 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Unter
 
 ## Fachstatus
 
-Der Fachstatus muss unter `Abitur > Qualifikation > Fachstatus` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Fachstatus` übernommen werden.   
+Der Fachstatus muss unter `Abitur > Qualifikation > Fachstatus` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Fachstatus` übernommen werden.
 Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung |
@@ -125,6 +127,3 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachs
 | 4PFBLL | 4PFBLL | 4. Prüfungsfach und besondere Lernleistung |
 | BLL | BLL | 5. Prüfungskomponente besondere Lernleistung |
 | PRS | PRS | 5.Prüfungskomponente Präsentationsprüfung |
-
-
-

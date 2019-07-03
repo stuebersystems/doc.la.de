@@ -117,4 +117,3 @@ Das Merkmal muss unter `Abitur > Qualifikation > Merkmal` eingetragen sein. Er k
 ## Sport als 5. Prüfungsfach
 
 Ist Sport das 5.PF, dan muss unter `Abitur > Prüfung > Mündliche Note` der fachpraktische Punktwert und unter `Abitur > Prüfung > 2. Mündliche Note`der Mündliche Punktewert der Prüfung eingetragen werden.
-

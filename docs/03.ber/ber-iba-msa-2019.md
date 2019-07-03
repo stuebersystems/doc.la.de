@@ -1,7 +1,7 @@
 # BER-IBA-MSA-2019.dws
 
 Innerhalb eines Zeitraums können mit Hilfe des Berechnungsskriptes _BER-IBA-MSA-2019.dws_
-Durchschnittsnoten für den Schulversuch "Integrierte Berufsausbildungsvorbereitung" ermittelt werden. 
+Durchschnittsnoten für den Schulversuch "Integrierte Berufsausbildungsvorbereitung" ermittelt werden.
 
 ## Vorbereitungen
 
@@ -14,8 +14,7 @@ Zur Berechnung des MSA Durchschnittes und der Gesamtnoten für das 1.-3. sowie 4
 
 ### Berechnungsverordnung definieren
 
-Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. 
-
+Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten.
 
 | Spalte       | Wert                                     |
 |--------------|------------------------------------------|
@@ -67,8 +66,7 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 | 4PF    | 4PF       | 4. Prüfungsfach |
 | WahlB  | WahlB     | Wahlbereich     |
 
-
-![](/assets/images/MSA.IBA.Prüfungsfächer.png)
+![JPrüfungsfächer festlegen](/assets/images/MSA.IBA.Prüfungsfächer.png)
 
 ### Noten zur Berechnung eingeben
 
@@ -85,7 +83,7 @@ Für die automatische Berechnung des Gesamtnote im 1.-3. Prüfungsfach sind die 
 | Schriftl. Note 1 | schriftliche Note 1PF, 2PF, 3PF |
 | Mdl. Note        | schriftliche Note 1PF, 2PF, 3PF |
 
-![](../assets/images(MSA.IBA.Prüfungsfächer.Schrift.Mdl.png)
+![Prüfungsergebnisse erfassen](/assets/images/MSA.IBA.Prüfungsfächer.Schrift.Mdl.png)
 
 #### 4. Prüfungsfach
 
@@ -94,8 +92,7 @@ Für die automatische Berechnung des Gesamtnote im 1.-3. Prüfungsfach sind die 
 | Endnote (Gesamt) | Gesamtnote des 4. Prüfungsfaches         |
 | Beurteilung      | Thema der Präsentationsprüfung/Facharbeit |
 
-
-![](/assets/images/MSA.IBA.4.PF.png)
+![Eintragungen für 4.PF](/assets/images/MSA.IBA.4.PF.png)
 
 ### Erfassung der Jahrgangsnoten und Jahresstunden pro Fach
 
@@ -104,7 +101,7 @@ Für die automatische Berechnung des Gesamtnote im 1.-3. Prüfungsfach sind die 
 | Endnote (Gesamt) | Gesamtnote des 4. Prüfungsfaches         |
 | Beurteilung      | Thema der Präsentationsprüfung/Facharbeit |
 
-![](/assets/images/MSA.IBA.Jahresnoten.png)
+![Note und Jahrgangsstunden](/assets/images/MSA.IBA.Jahresnoten.png)
 
 ### Berechnung ausführen
 
@@ -119,4 +116,4 @@ Durch die Berechnung werden automatisch folgende Felder befüllt:
 * **MSA Abschluss** wird in das Feld "**Durchschnitte 1**" eingetragen
 * **Gesamtnoten für das 1.-3. Prüfungsfach** werden in das Feld "**Merkmal**" mathematisch gerundet pro Fach eingetragen.
 
-![](/assets/images/MSA.IBA.Durchschnitt.png)
+![Berechnung](/assets/images/MSA.IBA.Durchschnitt.png)

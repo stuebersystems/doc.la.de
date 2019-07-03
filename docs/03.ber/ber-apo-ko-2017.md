@@ -1,20 +1,12 @@
 # BER-APO-KO-2017
 
+!!! info "Hinweis"
 
-
-> #### warning::Wichtig!
->
-> Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [Regionales > Berlin](https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin/) !
-
-
-
-
+    Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [Regionales > Berlin](https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin/) !
 
 ## Allgemein
 
 In diesem Skript werden für die korrekte Berechnung unter `Abitur > Qualifikation` drei als Leistungskurse markierte Fachzeilen erwartet, die nicht als 1. oder 2.Prüfungsfach erfasst wurden (Unterrichtsart LK und nicht Fachstatus 1PF oder 2PF). Der 3.Leistungskurs wird in der Berechnung wie ein Grundkurs behandelt.
-
-
 
 ## Verzeichnis Verordnung
 
@@ -36,7 +28,6 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 |Gültig von |leer|
 |Gültig bis|leer|
 
-
 ![Eingetragene Verordnungszeile unter Verzeichnisse > Verordnungen](/images/ber-apo-ko-2017.00.png)
 
 ## Fachkategorien
@@ -54,7 +45,7 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 |Musik|**Ja**|
 |Sport|**Ja**|
 |Informatik|**Ja**|
-|Philosophie|-|
+|Philosophie|Nein|
 |Geschichte|**Ja**|
 |Physik|**Ja**|
 |Chemie|**Ja**|
@@ -64,21 +55,21 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 |Wirtschaft|**Ja**|
 |Politik|**Ja**|
 |Darstellendes Spiel|**Ja**|
-|Evangelische Religion|-|
-|Katholische Religion|-|
-|Technik|-|
-|Pädagogik|-|
+|Evangelische Religion|Nein|
+|Katholische Religion|Nein|
+|Technik|Nein|
+|Pädagogik|Nein|
 |Sporttheorie|**Ja**|
-|BWL/RW|-|
-|BWL/VWL|-|
-|VWL|-|
+|BWL/RW|Nein|
+|BWL/VWL|Nein|
+|VWL|Nein|
 |Seminar|**Ja**|
-|Gesundheit|-|
-|Psychologie|-|
-|Recht|-|
-|Literatur|-||
+|Gesundheit|Nein|
+|Psychologie|Nein|
+|Recht|Nein|
+|Literatur|Nein|
 
-## Aufgabenbereiche 
+## Aufgabenbereiche
 
 Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnisse > Fächer > Spalte Aufgabenbereich``` verwendet werden:
 
@@ -92,23 +83,22 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnis
 
 ## Unterrichtsart
 
-Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden. 
+Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden.
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
-|Kürzel|	Schlüssel	|Bedeutung|
+|Kürzel| Schlüssel |Bedeutung|
 |--|--|--|
 |LK|LK|Leistungskurs|
 |GK|GK|Grundkurs|
 |Z|Z|Zusatz-/und Ergänzungskurse|
 |M|M|Musik-Ensemble|
 
-
 ## Fachstatus
 
-Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden. 
+Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden.
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
-|Kürzel	|Schlüssel	|Bedeutung|
+|Kürzel |Schlüssel |Bedeutung|
 |--|--|--|
 |1PF|1PF|1. Prüfungsfach|
 |2PF|2PF|2. Prüfungsfach|
@@ -121,16 +111,15 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 
 Bei der 5 Prüfungskomponente wird zwischen einer „Präsentation“ und der „Besonderen Lernleistung“ unterschieden. Gehen Sie jeweils wie folgt vor:
 
-## Präsentationprüfung
+### Präsentationprüfung
 
-Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü „Abitur“ Registerkarte „Qualifikation“ in der Spalte „Fachstatus“ den Wert „5 PF“ zu und führen das entsprechende Skript aus. 
+Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü „Abitur“ Registerkarte „Qualifikation“ in der Spalte „Fachstatus“ den Wert „5 PF“ zu und führen das entsprechende Skript aus.
 Durch das Berechnungskript wird im Menü „Abitur“ Registerkarte „Prüfung“ im Feld „5. PF“ das Fach eingetragen.  Dort tragen die mündliche Note im Feld "Mündliche Note" ein.
 
-## Besondere Lernleistung
+### Besondere Lernleistung
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `„Abitur“` unter der Registerkarte `„Prüfung“` in der Registerkarte „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld `„Lernleistung einbringen“` markieren.
 
-
-Die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. 
+Die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein.
 Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 Das Berechnungsskript fügt automatisch im 3. Punktfeld die Gesamtnote für die Besondere Lernleistung ein.

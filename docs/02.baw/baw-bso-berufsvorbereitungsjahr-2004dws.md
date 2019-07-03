@@ -29,4 +29,4 @@ Für die automatische Berechnung sind die Noten auf der Registerkarte  ```Zeugni
 |Schriftliche Note 3| Schriftliche Prüfung|
 |Schriftliche Note 4| Mündliche Prüfung|
 
-Die Eintragung der Zeugnisnote in die Spalte „Endnote“ erfolgt durch das Skript. 
+Die Eintragung der Zeugnisnote in die Spalte „Endnote“ erfolgt durch das Skript.
