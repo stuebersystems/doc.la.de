@@ -4,21 +4,21 @@
 
 Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
-| Spalte       | Wert                                                                                                                                                                                                    |
-| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Kürzel       | beliebig                                                                                                                                                                                                |
-| Bezeichnung  | beliebig                                                                                                                                                                                                |
-| Kategorie    | Abitur                                                                                                                                                                                                  |
-| Typ          | Bitte tragen Sie unter ```Verzeichnisse > Verordnungen``` für das Skript einen der folgenden Werte ein:<br>GS = Berufliches Gymnasium Gesundheit und Soziales <br>WS = Berufliches Gymnasium Wirtschaft |
-| Ab Jahrgang  | leer                                                                                                                                                                                                    |
-| Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server)                                                                                                                            |
-| Notenart 11  | Noten oder Punkte                                                                                                                                                                                       |
-| Notenart 12  | Punkte                                                                                                                                                                                                  |
-| Notenart 13  | Punkte                                                                                                                                                                                                  |
-| Notenart 13  | Punkte                                                                                                                                                                                                  |
-| Notenart BBS | leer                                                                                                                                                                                                    |
-| Gültig von   | leer                                                                                                                                                                                                    |
-| Gültig bis   | leer                                                                                                                                                                                                    |
+| Spalte| Wert|
+| - | -|
+| Kürzel       | beliebig|
+| Bezeichnung  | beliebig|
+| Kategorie    | Abitur|
+| Typ          | Bitte tragen Sie unter ```Verzeichnisse > Verordnungen``` für das Skript einen der folgenden Werte ein <br> GS = Berufliches Gymnasium Gesundheit und Soziales <br>WS = Berufliches Gymnasium Wirtschaft |
+| Ab Jahrgang  | leer|
+| Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server)|
+| Notenart 11  | Noten oder Punkte|
+| Notenart 12  | Punkte|
+| Notenart 13  | Punkte|
+| Notenart 13  | Punkte|
+| Notenart BBS | leer|
+| Gültig von   | leer|
+| Gültig bis   | leer|
 
 ## Fachkategorien
 
@@ -26,7 +26,7 @@ Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unte
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet:
 
 | Fachkategorien        | Wird vom Skript berücksichtigt |
-| --------------------- | ------------------------------ |  |
+| --------------------- | ------------------------------ |  
 | Fremdsprache          | **Ja**                         |
 | Religion/Ethik        | **Ja**                         |
 | Deutsch               | **Ja**                         |
@@ -73,7 +73,7 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnis
 
 ## Unterrichtsart
 
-Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden. 
+Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden.
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung                                          |
@@ -88,7 +88,7 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unt
 
 ## Fachstatus
 
-Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden. 
+Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden.
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung                                                |
@@ -102,7 +102,7 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 
 ## Merkmal
 
-Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden. 
+Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
 
 | Merkmal | Bedeutung              |
 | ------- | ---------------------- |
