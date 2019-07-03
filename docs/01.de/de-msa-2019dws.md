@@ -1,7 +1,7 @@
 # DE-MSA-2019.dws
 
 Innerhalb eines Zeitraums kann mit Hilfe des Berechnungsskriptes _DE-MSA-2019.dws_
-der Notendurchschnitt für Auslandsschulen gemäß Ordnung für den Abschluss der Sekundarstufe I an Deutschen Schulen im Ausland vom 16.03.2017 ermittelt werden. 
+der Notendurchschnitt für Auslandsschulen gemäß Ordnung für den Abschluss der Sekundarstufe I an Deutschen Schulen im Ausland vom 16.03.2017 ermittelt werden.
 
 ## Vorbereitungen
 
@@ -38,17 +38,17 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 
 Um die Berechnung durchführen zu können, müssen Sie zunächst die Noten der Schüler unter  ``Schüler > Zeugnis > Leistungen`` im Feld "Endnote" eintragen.
 
-|Spalte	|Bedeutung|
+|Spalte |Bedeutung|
 |--|--|
 |Endnote |Jahrgangsnoten der Fächer|
 
-![](/assets/images/6.5.33_04.png)
+![Leistungen im Feld `Endnote` erfassen](/assets/images/6.5.33_04.png)
 
 #### 3. Berechnung ausführen
 
 Markieren Sie für den Schüler unter ``Schüler > Zeugnis > Leistungen`` das Optionsfeld ``Durchschnitt einblenden``. Auf der rechten Seite der Registerkarte erscheint nun eine zusätzliche Leiste.
 
-Geben Sie unter Prüfungsordnung die gewünschte Prüfungsordnung (basierend auf dem Skript DE-MSA-2019.dws) zur Versetzung an. Klicken Sie auf ``Neu`` berechnen, um die Daten automatisch durch das entsprechende Skript berechnen zu lassen. 
+Geben Sie unter Prüfungsordnung die gewünschte Prüfungsordnung (basierend auf dem Skript DE-MSA-2019.dws) zur Versetzung an. Klicken Sie auf ``Neu`` berechnen, um die Daten automatisch durch das entsprechende Skript berechnen zu lassen.
 
 Durch die Berechnung wird automatisch folgendes Feld befüllt:
 
