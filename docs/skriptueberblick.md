@@ -2,9 +2,8 @@
 
 Die gesamte Berechnung wird durch MAGELLAN-Skripte durchgeführt oder anders gesagt, jedes Skript repräsentiert eine Verordnung.
 
-!!! info "Hinweis"
-
- Achten Sie in den folgenden Abschnitten immer auf die speziellen Hinweise für das von Ihnen gewählte Skript. Die für Sie relevante Skriptdatei können Sie der Tabelle für Ihre Region unten entnehmen. 
+!!! info Hinweis
+    Achten Sie in den folgenden Abschnitten immer auf die speziellen Hinweise für das von Ihnen gewählte Skript. Die für Sie relevante Skriptdatei können Sie der Tabelle für Ihre Region unten entnehmen.
 
 Die Skripte befinden sich im MAGELLAN- bzw. im DAVINCI-Verzeichnis im Ordner ```Skripte > Ihre Region```.
 

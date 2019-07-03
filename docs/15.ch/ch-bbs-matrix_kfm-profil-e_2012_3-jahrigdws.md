@@ -14,9 +14,9 @@ Bei dem Skript „CH-BBS-Matrix (KFM-Profil-E 2012 3-jährig)“ für die Ausbil
 
 ## Betriebliche Lehrabschlussprüfung
 
-Zur Berechnung der betrieblichen Lehrabschlussprüfung existieren eine feste Anzahl Fächer, die dem Schüler zugeordnet werden müssen. 
+Zur Berechnung der betrieblichen Lehrabschlussprüfung existieren eine feste Anzahl Fächer, die dem Schüler zugeordnet werden müssen.
 
-|Kürzel	|Schlüssel	|Bezeichnung|
+|Kürzel |Schlüssel |Bezeichnung|
 |--|--|--|
 |beliebig|AUL|Arbeits- und Lernsituation|
 |beliebig|BEPRAS|Berufspraxis schriftlich|
@@ -25,25 +25,25 @@ Zur Berechnung der betrieblichen Lehrabschlussprüfung existieren eine feste Anz
 
 Um die Fächer für die betriebliche Lehrabschlussprüfung zu kennzeichnen, muss das Feld „Schwerpunkt“ unter ```Schüler > Zeugnis > Fächer``` mit folgendem Schlüssel angegeben werden.
 
-|Kürzel	|Schlüssel	|Bezeichnung|
+|Kürzel |Schlüssel |Bezeichnung|
 |--|--|--|
-|BETRIEB	|BETRIEB	|Betriebliche Lehrabschlussprüfung|
+|BETRIEB |BETRIEB |Betriebliche Lehrabschlussprüfung|
 
 ## Schulische Lehrabschlussprüfung
 
-Zur Berechnung der schulischen Lehrabschlussprüfung existieren eine feste Anzahl Fächer, die dem Schüler zugeordnet werden müssen. 
+Zur Berechnung der schulischen Lehrabschlussprüfung existieren eine feste Anzahl Fächer, die dem Schüler zugeordnet werden müssen.
 
-|Kürzel	|Schlüssel|	Bezeichnung|
+|Kürzel |Schlüssel| Bezeichnung|
 |--|--|--|
-|beliebig|	FSP1	|1. Fremdsprache|
-|beliebig|	ENG	|Englisch|
-|beliebig|	IKA	|IKA|
-|beliebig|LSP	|Landessprache|
-|beliebig|WUG	|W&G|
-|beliebig|PROJEKT|	Projektarbeiten|
+|beliebig| FSP1 |1. Fremdsprache|
+|beliebig| ENG |Englisch|
+|beliebig| IKA |IKA|
+|beliebig|LSP |Landessprache|
+|beliebig|WUG |W&G|
+|beliebig|PROJEKT| Projektarbeiten|
 
 Um die Fächer für die schulische Lehrabschlussprüfung zu kennzeichnen, muss das Feld „Schwerpunkt“ unter ```Schüler > Zeugnis > Fächer``` mit folgendem Schlüssel angegeben werden.
 
-|Kürzel	|Schlüssel|	Bezeichnung|
+|Kürzel |Schlüssel| Bezeichnung|
 |--|--|--|
-|SCHULE|	SCHULE|	Schulische Lehrabschlussprüfung|
+|SCHULE| SCHULE| Schulische Lehrabschlussprüfung|

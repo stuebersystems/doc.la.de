@@ -1,6 +1,6 @@
 # Durchschnitte oder Abschlüsse berechnen
 
-Innerhalb eines Zeitraums können Noten eines Schülers über dessen Versetzung bzw. Durchschnittsnote entscheiden. Die dazu notwenigen Berechnungen basieren auf Verordnungen der jeweiligen Bundesländer. Diese Berechnungen erfolgen aufgrund der MAGELLAN-Scripting-Technologie. 
+Innerhalb eines Zeitraums können Noten eines Schülers über dessen Versetzung bzw. Durchschnittsnote entscheiden. Die dazu notwenigen Berechnungen basieren auf Verordnungen der jeweiligen Bundesländer. Diese Berechnungen erfolgen aufgrund der MAGELLAN-Scripting-Technologie.
 
 Auf Basis der berechneten Noten einer Verordnung und der damit verbundenen Durchschnittsnote können Sie dann die eigentlichen Zeugnisse ausdrucken. Dabei kann jede berechnete Endnote bzw. Durchschnittsnote auch noch manuell aufgrund des pädagogischen Freiraums abgeändert werden.
 

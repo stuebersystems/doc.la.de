@@ -1,6 +1,7 @@
 # RLP-APO-2014
 
 ## Verzeichnis Verordnung
+
 Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
 |Spalte|Wert|
@@ -19,8 +20,8 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 |Gültig von |leer|
 |Gültig bis|leer|
 
-
 ## Fachkategorien
+
 Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter ```Verzeichnisse > Fächer > Kategorie``` zuweisen.
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
 
@@ -44,21 +45,22 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 |Wirtschaft|**Ja**|
 |Politik|**Ja**|
 |Darstellendes Spiel|**Ja**|
-|Evangelische Religion|-|
-|Katholische Religion|-|
-|Technik|-|
-|Pädagogik|-|
+|Evangelische Religion|Nein|
+|Katholische Religion|Nein|
+|Technik|Nein|
+|Pädagogik|Nein|
 |Sporttheorie|**Ja**|
-|BWL/RW|-|
-|BWL/VWL|-|
-|VWL|-|
+|BWL/RW|Nein|
+|BWL/VWL|Nein|
+|VWL|Nein|
 |Seminar|**Ja**|
-|Gesundheit|-|
-|Psychologie|-|
-|Recht|-|
-|Literatur|-|
+|Gesundheit|Nein|
+|Psychologie|Nein|
+|Recht|Nein|
+|Literatur|Nein|
 
 ## Aufgabenbereiche
+
 Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnisse > Fächer > Spalte Aufgabenbereich``` verwendet werden:
 
 |Aufgabenbereich|
@@ -70,46 +72,43 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnis
 |Sport|
 
 ## Unterrichtsart
-Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden. 
+
+Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden.
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
-|Kürzel|	Schlüssel	|Bedeutung|
+|Kürzel| Schlüssel |Bedeutung|
 |--|--|--|
-|LK	|LK|Leistungskurs|
+|LK |LK|Leistungskurs|
 |GK|GK|Grundkurs|
 |FA|FA|Facharbeit|
 
-
-
 ## Fachstatus
-Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden. 
+
+Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden.
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
-> #### warning::Wichtig!
->
-> Die Prüfungsfächer 1. bis 3. müssen nicht eingetragen werden, das Skript besetzt den Fachstatus für die Leistungskurse automatisch. Dabei wird auch die Gewichtung (einfach oder doppelt) der Leistungskurssumme von MAGELLAN übernommen. Der Leistungskurs mit der geringsten Summe wird einfach gewertet, es sei denn, Sie haben einen Sportleistungskurs für den der praktische Teil nicht erfüllt wurde, mit ` ST ` im Feld `Merkmal` gekennzeichnet.
+!!!warning Wichtig
+    Die Prüfungsfächer 1. bis 3. müssen nicht eingetragen werden, das Skript besetzt den Fachstatus für die Leistungskurse automatisch. Dabei wird auch die Gewichtung (einfach oder doppelt) der Leistungskurssumme von MAGELLAN übernommen. Der Leistungskurs mit der geringsten Summe wird einfach gewertet, es sei denn, Sie haben einen Sportleistungskurs für den der praktische Teil nicht erfüllt wurde, mit `ST` im Feld `Merkmal` gekennzeichnet.
 
-|Kürzel	|Schlüssel	|Bedeutung|
+|Kürzel |Schlüssel |Bedeutung|
 |--|--|--|
-|1PF	|1PF	|1. Prüfungsfach|
-|2PF	|2PF	|2. Prüfungsfach|
-|3PF	|3PF	|3. Prüfungsfach|
-|4PF	|4PF	|4. Prüfungsfach|
-|5PF	|5PF	|5. Prüfungsfach|
+|1PF |1PF |1. Prüfungsfach|
+|2PF |2PF |2. Prüfungsfach|
+|3PF |3PF |3. Prüfungsfach|
+|4PF |4PF |4. Prüfungsfach|
+|5PF |5PF |5. Prüfungsfach|
 |Pflicht|Pflicht|Pflichtbereich (kein Eintrag wird als "Pflicht" gewertet)
-|Ersatz	|Ersatz	|Ersatzfach für Sport im Falle eines Sportattestes|
+|Ersatz |Ersatz |Ersatzfach für Sport im Falle eines Sportattestes|
 |Freiw|Freiw|Freiwillig|
 
-
-> #### danger::Achtung!
->
-> Bitte tragen Sie keine Prüfungsfächer von Hand unter MAGELLAN > Abitur > Prüfung ein, das führt zu Problemen, da das Skript die Prüfungsfächer 1.-3. selbstständig vergibt und anschließend das Fach und die letzte Note auf die Karte Prüfungen kopiert!
+!!!warning "Wichtig"
+    Bitte tragen Sie keine Prüfungsfächer von Hand unter MAGELLAN > Abitur > Prüfung ein, das führt zu Problemen, da das Skript die Prüfungsfächer 1.-3. selbstständig vergibt und anschließend das Fach und die letzte Note auf die Karte Prüfungen kopiert!
 
 ## Merkmal
-Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden. 
 
-|Merkmal	|Bedeutung|
+Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
+
+|Merkmal |Bedeutung|
 |--|--|
-|A|	Fremdsprache Anfänger|
-|ST|Ein Leistungskurs mit dem Merkmal "ST" (ST=Sportheorie) wird mit dem Fachstatus 3.PF markiert und einfach gewertet.<br/><br/>Verwenden Sie diesen Eintrag wenn der Praxisteil für die Sport nicht erfüllt werden konnte.
-
+|A| Fremdsprache Anfänger|
+|ST|Ein Leistungskurs mit dem Merkmal "ST" (ST=Sportheorie) wird mit dem Fachstatus 3.PF markiert und einfach gewertet.<br/> Verwenden Sie diesen Eintrag wenn der Praxisteil für die Sport nicht erfüllt werden konnte.

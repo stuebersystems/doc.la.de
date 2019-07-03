@@ -8,7 +8,8 @@ Dieses Skript wird im Menü ```Schüler > Zeugnis > Leistungen``` ausgeführt un
 |--|--|--|
 |beliebig|beliebig|Versetzung|
 
-## Fächer 
+## Fächer
+
 Bei dem Skript „CH-Promotion (KFM-Profil-E 2003)“ für die Ausbildung zum Kaufmann/Kauffrau nach dem E-Profil in der Schweiz für das Reglement 2003 sind die folgenden Angaben zur Berechnung der Promotion Voraussetzung.
 
 ## Schulische Lehrabschlussprüfung

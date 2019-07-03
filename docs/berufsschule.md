@@ -15,7 +15,7 @@ Bei den meisten Abgangs- bzw. Abschlusszeugnissen werden die Noten auf der Basis
 
 Ein typisches Beispiel ist hierbei die Note des berufsbezogenen Unterrichts. Pro Schuljahr wird die Note des berufsbezogenen Unterrichts aufgrund der Stundenfaktoren der berufsbezogenen Fächer berechnet. In den Abgangs- bzw. Abschlusszeugnissen werden sowohl die Gesamtnote im berufsbezogenen Unterricht als auch die Abschlussnoten der einzelnen Fächer in bestimmten Verhältnissen der Schuljahre berechnet. Z.B. kann das letzte Schuljahr einen höheren Einfluss auf die Endnoten haben, als die vorangegangenen Schuljahre.
 
-Die jeweiligen Verordnungen für die Berechnungsvorschriften spiegeln sich über die Landesanpassung von MAGELLAN in der Notenberechnung für die Berufsschule wieder. 
+Die jeweiligen Verordnungen für die Berechnungsvorschriften spiegeln sich über die Landesanpassung von MAGELLAN in der Notenberechnung für die Berufsschule wieder.
 MAGELLAN stellt sehr ausgefeilte Funktionen für die gesamte Endnotenberechnung der Berufsschule zur Verfügung. Damit die Berechnungen korrekt durchgeführt werden können und Sie auch die Abschluss- bzw. Abgangszeugnisse mit Bezug auf mehrere Zeiträume richtig ausgedruckt bekommen, müssen Sie allerdings einige wenige aber wichtige Details beachten. Diese Details werden in diesem Kapitel erklärt. Lesen Sie es bitte sorgfältig.
 
 !!! info "Hinweis"
@@ -80,10 +80,9 @@ Wählen Sie die Kategorie „Berufsschule (Jahresnoten)“ um später beim Synch
 
 Wählen Sie die Kategorie „Berufsschule (Halbjahresnoten)“ um später beim Synchronisieren der Schüler die Noten des jeweils 1. und 2. Halbjahres in die Ansicht „Berufschule“ zu übertragen.
 
-## Berechnungsverordnung definieren
+## Berechnungsverordnung nochmals definieren
 
  ![Definieren der Berechnungsordnung](../images/berechnungsordung.png)
-
 Sie müssen für jeden Schüler die Berechnungsverordnung angeben, die für ihn relevant ist. Dazu müssen Sie im Schlüsselverzeichnis „Verordnungen“ die jeweilige Berechnungsverordnung definieren. Klicken Sie dazu auf ```Verzeichnisse > Verordnungen``` und geben dort die Verordnung wie folgt an:
 
 |Spalte |Bedeutung|
@@ -181,7 +180,7 @@ Im automatisch erzeugten Meldungsfenster werden zusätzliche Statusinformationen
 Alle Noten der Berufsschulnotenmatrix können neben der automatischen Berechnung auch manuell eingegeben werden. Sie können so die Berufschulmatrix nur zur Eingabe von bereits  festgelegten Endnoten nutzen.
 Insbesondere können Sie die manuelle Eingabe aber im Sinne der Korrektur einer zuvor automatischen Berechnung der Endnoten nutzen. Hat beispielsweise die automatische Berechnung ergeben, dass der Schüler genau zwischen zwei Noten steht, so können aufgrund des pädagogischen Ermessens in solchen Fällen z.B. die Faktoren geändert werden. Nach der Änderung kann dann die automatische Berechnung nochmals durchgeführt werden.
 
-## Wer hat Berufsschuldaten geändert?
+## Wer hat Berufsschuldaten geändert
 
 Abschluss- bzw. Abgangsdaten der Berufschule sind sensible Daten. Über die Benutzerverwaltung des MAGELLAN-Administrators wird festgelegt, wer Zugang zu welchen Daten hat. Wie aber können Sie feststellen, dass Daten unter „Berufschule“ geändert worden sind und sei es versehentlich durch Sie selbst?
 

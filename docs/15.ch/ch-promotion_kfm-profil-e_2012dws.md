@@ -14,7 +14,7 @@ Bei dem Skript „CH-Promotion (KFM-Profil-E 2012)“ für die Ausbildung zum Ka
 
 ## Schulische Lehrabschlussprüfung
 
-Zur Berechnung der Promotion existieren eine feste Anzahl Fächer, die dem Schüler zugeordnet werden müssen. 
+Zur Berechnung der Promotion existieren eine feste Anzahl Fächer, die dem Schüler zugeordnet werden müssen.
 
 |Kürzel |Schlüssel| Bezeichnung|
 |--|--|--|
