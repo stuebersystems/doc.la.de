@@ -83,24 +83,4 @@ Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. 
 |Fachkürzel |Bemerkung| Merkmal|
 |--|--|--|
 |SPOPR |Sport-Praxis |Syntax: AAAAAAAA|
-|||Angabe der Sportart für jedes der 4 Qualifikationshalbjahre:|
-|||Mannschaftssportarten:|
-|||BB Basketball|
-|||BM Badminton|
-|||FB Fussball|
-|||HB Handball|
-|||HC Hockey|
-|||RB Rugby|
-|||TS Tennis|
-|||TT Tischtennis|
-|||VB Volleyball|
-|||Individualsportarten:|
-|||GT Geräteturnen|
-|||GY Gymnastik|
-|||JU Judo|
-|||KA Kanusport|
-|||LE Leichtathletik|
-|||RU Rudern|
-|||SW Schwimmen|
-|||TA Tanz|
-|||TR Trampolinturnen|
+|||Angabe der Sportart für jedes der 4 Qualifikationshalbjahre: <br/><br/>**Mannschaftssportarten:**<br/>BB = Basketball<br/>BM = Badminton<br/>FB = Fussball<br/>HB = Handball<br/>HC = Hockey<br/>RB = Rugby<br/>TS = Tennis<br/>TT = Tischtennis<br/>VB = Volleyball<br/><br/>**Individualsportarten:**<br/>GT Geräteturnen<br/>GY = Gymnastik<br/>JU = Judo<br/>KA = Kanusport<br/>LE = Leichtathletik<br/>RU = Rudern<br/>SW = Schwimmen<br/>TA = Tanz<br/>TR = Trampolinturnen|
