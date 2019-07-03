@@ -6,7 +6,7 @@ Die überwiegenden Gemeinsamkeiten sind der Grund dafür, dass wir alle Informat
 
 !!! info "Hinweis"
 
-    Diese Dokumentation versteht sich als Ergänzung der landesspezifischen Besonderheiten zu den Standarddokumentationen für [**MAGELLAN**](https://doc.magellan7.stueber.de/) und [**DAVINCI**](https://doc.davinci6.stueber.de/).
+     Diese Dokumentation versteht sich als Ergänzung der landesspezifischen Besonderheiten zu den Standarddokumentationen für [**MAGELLAN**](https://doc.magellan7.stueber.de/) und [**DAVINCI**](https://doc.davinci6.stueber.de/).
 
 ## Allgemeines
 
