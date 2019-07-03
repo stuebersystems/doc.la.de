@@ -36,7 +36,7 @@ Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm ve
 
 | Verordnung | Abitur | Fachwahl <br/> MAGELLAN | Fachwahl <br/> DAVINCI | Schüler <br/> Leistungskarte | BBS |
 |--------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|-----|
-| APO 2017 | [BER-APO-2017.dws](https://doc.la.stueber.de/Skripte/BER-APO-2017) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-IBA-MSA-2019](https://doc.la.stueber.de/durchschnitt_abschluss/BER-IBA-MSA-2019)] | - |
+| APO 2017 | [BER-APO-2017.dws](https://doc.la.stueber.de/Skripte/BER-APO-2017) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-IBA-MSA-2019](https://doc.la.stueber.de/durchschnitt_abschluss/BER-IBA-MSA-2019) | - |
 | APO 2004 | [BER-APO-2004.dws](http://doc.la.stueber.de/02.ber/ber-apo-2004)| - | - | - | - |
 | APO 2007 | [BER-APO-2007.dws](http://doc.la.stueber.de/02.ber/ber-apo-2007) | - | - | [BER-BBS-Matrix-2007.dws](https://doc.la.stueber.de/berufsschule/skript/ber-bbs-matrix-2007dws) | - |
 | APO 2010 | [BER-APO-2010.dws](http://doc.la.stueber.de/02.ber/ber-apo-2010) | - | - | - | - |
