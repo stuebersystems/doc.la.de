@@ -1,5 +1,7 @@
 # Einführung
 
+Test
+
 MAGELLAN und DAVINCI ist Schulorganisationssoftware für alle deutschen Bundesländer und alle Schularten. Entsprechend der Kulturhoheit der Bundesländer müssen die Programme unterschiedliche landesspezifische Zeugnisformulare, Verordnungen und Landesstatistiken unterstützen. Innerhalb des jeweiligen Landes muss dabei oft nochmals nach Schularten differenziert werden. Betrachtet man die Unterschiede der Formulare, Verordnungen und Landesstatistiken, stellt man fest, dass sich alle irgendwie ähneln.
 
 Die überwiegenden Gemeinsamkeiten sind der Grund dafür, dass wir alle Informationen zur Landesanpassung in den Programmen MAGELLAN und DAVINCI in einem einzigen Dokument zusammengefasst haben. So können Sie z.B. aus der Beschreibung eines Zeugnisformulars für ein ganz anderes Bundesland zum Schluss kommen, dass Sie dieses Formular mit geringem Aufwand an die Bedürfnisse Ihres Bundeslandes anpassen könnten.
