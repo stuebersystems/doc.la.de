@@ -56,7 +56,7 @@ Bei den einzelnen Berechnungsskripten werden bestimmten Unterscheidungen in den 
 
 ## Endnotenberechnung vorbereiten
 
-![Berufschulmatrix](../images/bbsmatrix.png)
+![Berufschulmatrix](/assets/images/bbsmatrix.png)
 
 ### Berechnungsverordnung definieren
 
@@ -68,7 +68,7 @@ In den nachfolgenden Abschnitten erfahren Sie mehr zu den einzelnen Punkten.
 
 ## Abschlussjahrgang definieren
 
-![Verzeichnis Abschlussjahrgänge](../images/abschlussjahrgaenge.png)
+![Verzeichnis Abschlussjahrgänge](/assets/images/abschlussjahrgaenge.png)
 
 Sie können in MAGELLAN unter ```Verzeichnisse > Abschlussjahrgänge``` Abschlussjahrgänge definieren. Damit können Sie jedem Schüler in der Rubrik „Berufsschule“ den entsprechenden Abschlussjahrgang zuordnen.
 
@@ -82,7 +82,7 @@ Wählen Sie die Kategorie „Berufsschule (Halbjahresnoten)“ um später beim S
 
 ## Berechnungsverordnung nochmals definieren
 
- ![Definieren der Berechnungsordnung](../images/berechnungsordung.png)
+ ![Definieren der Berechnungsordnung](/assets/images/berechnungsordung.png)
 Sie müssen für jeden Schüler die Berechnungsverordnung angeben, die für ihn relevant ist. Dazu müssen Sie im Schlüsselverzeichnis „Verordnungen“ die jeweilige Berechnungsverordnung definieren. Klicken Sie dazu auf ```Verzeichnisse > Verordnungen``` und geben dort die Verordnung wie folgt an:
 
 |Spalte |Bedeutung|
@@ -97,7 +97,7 @@ Sie müssen für jeden Schüler die Berechnungsverordnung angeben, die für ihn 
 
 ## Berufsschuldaten synchronisieren
 
- ![Beschriftung](../images/bbs_sync.png)
+ ![Beschriftung](/assets/images/bbs_sync.png)
 
 Bevor Sie die Endnotenberechnung durchführen können, müssen Sie die Daten der Schüler synchronisieren, indem Sie in MAGELLAN auf „Berufsschule“ klicken und dann auf die Schaltfläche „Synchronisieren“ oben im MAGELLANfenster klicken.
 
@@ -143,7 +143,7 @@ Starten Sie den Assistenten mit dem  Punkt „Sammelzuweisung“.
 Markieren Sie die  Schüler, denen die kopierten Angaben zugewiesen werden sollen.
 Wählen Sie auf der folgenden Karte aus welche Daten übernommen werden sollen und ob bereits vorhandene Daten überschrieben werden sollen.
 
- ![Beschriftung](../images/sammelzuweisung_bbs.png)
+ ![Beschriftung](/assets/images/sammelzuweisung_bbs.png)
 
 ## Die Spalte „Position“
 
