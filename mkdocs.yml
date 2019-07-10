@@ -48,8 +48,8 @@ markdown_extensions:
 # Navigation  
 nav:
 - Überblick:
- - Einführung: index.md
- - Alle Skripte im Überblick: skriptueberblick.md
+  - Einführung: index.md
+  - Alle Skripte im Überblick: skriptueberblick.md
 - Oberstufenorganisation: 
   - Allgemein: oberstufenorganisation.md
 - Die Berechnungsskripte: 
