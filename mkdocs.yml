@@ -48,9 +48,9 @@ markdown_extensions:
 # Navigation  
 nav:
 - Überblick:
-  - Einführung: index.md
-- Alle Skripte im Überblick: skriptueberblick.md
-- Oberstufenorganisation: 
+ - Einführung: index.md
+ - Alle Skripte im Überblick: skriptueberblick.md
+ - Oberstufenorganisation: 
   - Allgemein: oberstufenorganisation.md
   - Die Berechnungsskripte: 
     - Allgemeines: berechnungsskripte.md
@@ -145,7 +145,7 @@ nav:
       - SHL-APO-1998: 13.shl/shl-apo-1998.md
     - Thüringen:
       - THÜ-APO-1999: 14.thu/thu-apo-1999.md
-- Die Fachwahl: 
+  - Die Fachwahl: 
   - Allgemeines: fachwahlen.md
   - Berlin:
     - BER-FW-APO-2017.js: 03.ber/ber-fw-2017js.md
@@ -171,11 +171,11 @@ nav:
     - SAR-FW-APO-2007.js: 12.sar/sar-fw-apo-2007js.md
   - Schleswig-Holstein:
     - SHL-FW-APO-2010.js:  13.shl/shl-fw-apo-2010js.md 
-- Mittelstufe: 
+ - Mittelstufe: 
   - Allgemein: mittelstufe.md
   - Saarland: 
     - SAR-VO-GEM-2015.dws: 12.sar/sar-vo-gem-2015.md
-- Berufsschule: 
+ - Berufsschule: 
   - Allgemein: berufsschule.md
   - Berlin:
     - BER-BBS-Matrix-2007.dws: 03.ber/ber-bbs-matrix-2007dws.md
@@ -191,7 +191,7 @@ nav:
     - RLP-BBS-Matrix (2,5-jährig).dws: 09.rlp/rlp-bbs-matrix_2,5-jahrigdws.md
     - RLP-BBS-Matrix (3-jährig).dws: 09.rlp/rlp-bbs-matrix_3-jahrigdws.md
     - RLP-BBS-Matrix (4-jährig).dws: 09.rlp/rlp-bbs-matrix_4-jahrigdws.md
-- Durchschnitte, MSA und Abschlüsse : 
+ - Durchschnitte, MSA und Abschlüsse : 
   - Allgemein: durchschnitt_abschluss.md
   - Deutsche Auslandsschulen:
     - DE-MSA-2019.dws: 01.de/de-msa-2019dws.md
