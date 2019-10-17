@@ -107,11 +107,16 @@ Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü „Abitur“ unter 
 
 ## Merkmal
 
-Das Merkmal muss unter `Abitur > Qualifikation > Merkmal` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Merkmal` übernommen werden.
+Das Merkmal muss unter `Abitur > Qualifikation > Merkmal` eingetragen werden.
+
+!!! info "Hinweis"
+
+    Alternativ besteht auch die Möglichkeit das `Merkmal` ggfs. in einer Fachtafel vorzubelegen, den Schülern gemeinsamt mit den Fächern zuzuweisen und es dann beim Synchronisieren der Schülerfachdaten in den Bereich Abitur zu übernehmen.
 
 | Merkmal | Bedeutung                                |
 |---------|------------------------------------------|
-| A       | Fremdsprache Anfänger (2 Kurse müssen eingebracht werden) |
+| ``A ``      | Fremdsprache Anfänger (2 Kurse müssen eingebracht werden) |
+|``von-bis``  | Tragen Sie als `von` bitte den Startjahrgang ein, als `bis` bitte den Endjahrgang für Fächer, die vor der Qualifikationsphase abgeschlossen wurden. Fächer, die vor der Klassenstufe 10 abgeschlossen wurden, werden nicht erfasst oder ausgewertet.<br/>  <br/>Ein Beispiel: <br/> Biologie wurde von Klassenstufe 5 bis Klassenstufe 10 belegt, dann tragen Sie im Feld Merkmal bitte `5-10` ein. Dieser Wert wird für Zeugnisberichte ausgewertet.
 
 ## Sonstiges
 
