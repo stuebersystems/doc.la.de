@@ -19,7 +19,6 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 |Notenart 11|Noten oder Punkte|
 |Notenart 12|Punkte|
 |Notenart 13|Punkte|
-|Notenart 13|Punkte|
 |Notenart BBS|leer|
 |Gültig von |leer|
 |Gültig bis|leer|
