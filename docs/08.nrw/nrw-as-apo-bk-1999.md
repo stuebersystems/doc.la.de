@@ -2,12 +2,12 @@
 
 ## Abschlussberechnung für Berufskollegs in Nordrhein-Westfalen
 
-Für Berufskollegs in Nordrhein-Westfalen steht ein von Anwendern entwickeltes Skript zur Verfügung, das Notendurchschnitte für verschiedene Bildungsgänge berechnet und auch Abschlüsse zuordnen kann. Gleichzeitig können die sich daraus ergebenen Zeugnisberichte (ebenfalls von Anwendern entwickelt), u.a. auch Zeugnisbemerkungen, den Schüler hinterlegt werden. In den folgenden Abschnitten beschreiben wir die dafür notwendigen Einstellungen.
+!!! danger "Achtung"
 
-!!! warning "Wichtig"
-
-    Anwender können für MAGELLAN eigene Skripte und Berichte entwickeln (oder unsere Berichte und Skripte weiterentwickeln/anpassen) und diese dann im Alltag einsetzen. Diese selbst erstellten Skripte und Berichte werden von uns nicht gepflegt, auf Wunsch aber mit veröffentlicht.  Das Skript und die dazugehörigen Zeugnisberichte werden aktuell nicht weiterentwickelt.
+    MAGELLAN bietet die Möglichkeit eigene Skripte oder Bericht (mitunter auf der Grundlage von Veröffentlichungen von STÜBER SYSTEMS) zu entwickeln und einzusetzen. **Diese selbst erstellten Skripte und Berichte werden von uns nicht gepflegt, sondern lediglich veröffentlicht.** 
     Federführender Autor des Skriptes, der Berichte und der Dokumentation ist Heinz Kersting vom Berufskolleg Mitte TÜV NORD College.
+
+Für Berufskollegs in Nordrhein-Westfalen steht ein von Anwendern entwickeltes Skript zur Verfügung, das Notendurchschnitte für verschiedene Bildungsgänge berechnet und auch Abschlüsse zuordnen kann. Gleichzeitig können die sich daraus ergebenen Zeugnisberichte (ebenfalls von Anwendern entwickelt), u.a. auch Zeugnisbemerkungen, den Schüler hinterlegt werden. In den folgenden Abschnitten beschreiben wir die dafür notwendigen Einstellungen.
 
 ## Zeugnisse zur Anlage A der BASS 2012/2013: Bildungsgänge der Berufsschule
 
