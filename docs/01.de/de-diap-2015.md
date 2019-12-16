@@ -29,7 +29,7 @@ Nachfolgend Beispiele für Verordnungszeilen für G8 der G9:
 ## Fachkategorien
 
 Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter `Verzeichnisse > Fächer > Kategorie` zuweisen.  
-Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
+Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie **nur** die gekennzeichneten Fachkategorien.
 
 | Fachkategorien          | Wird vom Skript berücksichtigt |
 |-------------------------|--------------------------------|
@@ -57,7 +57,7 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 
 ### "Ciencias Sociales" (nur Schulen in Spanien)
 
-Das an spanischen Auslandsschulen unterrichtete Fach "Ciencias Sociales" ist für die Qualifikation notwendig, kann aber kein Prüfungsfach sein. Bitte legen Sie das Fach im Schlüsselverzeichnis `Fächer` an und wählen die `Fachkategorie` "Sozialkunde" und in der Spalte `Aufgabenbereich` den Wert "gesellschaftswiss." aus.
+Das an spanischen Auslandsschulen unterrichtete Fach "Ciencias Sociales" ist für die Qualifikation notwendig, kann aber kein Prüfungsfach sein. Bitte legen Sie das Fach im Schlüsselverzeichnis `Fächer` an, wählen die `Fachkategorie` "Sozialkunde" und in der Spalte `Aufgabenbereich` den Wert "gesellschaftswiss." aus.
 
 ## Aufgabenbereiche
 
