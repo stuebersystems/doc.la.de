@@ -107,7 +107,7 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachs
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü „Abitur“ unter der Registerkarte ``Prüfung > Lernleistung`` das entsprechende Fach zuweisen und das Optionsfeld ``Lernleistung einbringen`` markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld ``Thema`` zu. 
 
-Ergebnisse tragen Sie bitte darüber im Bereich `Prüfungen` für das 5.PF ein.
+Ergebnisse tragen Sie bitte im darüberliegenden Bereich `Prüfungen` für das 5.PF ein.
 
 ![`Abitur > Prüfung > Lernleistung`](/assets/images/DAS/bll.png)
 
