@@ -55,7 +55,7 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, b
 | **Sporttheorie**        | JA                             |
 | **Seminar**             | JA                             |
 
-### "Ciencias Sociales" (nur Schulen in Spanien)
+### Das Fach "Ciencias Sociales"
 
 Das an spanischen Auslandsschulen unterrichtete Fach "Ciencias Sociales" ist für die Qualifikation notwendig, kann aber kein Prüfungsfach sein. Bitte legen Sie das Fach im Schlüsselverzeichnis `Fächer` an, wählen die `Fachkategorie` "Sozialkunde" und in der Spalte `Aufgabenbereich` den Wert "gesellschaftswiss." aus.
 
@@ -105,9 +105,9 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachs
 
 ## Besondere Lernleistung
 
-Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü „Abitur“ unter der Registerkarte ``Prüfung > Lernleistung`` das entsprechende Fach zuweisen und das Optionsfeld ``Lernleistung einbringen`` markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld ``Thema`` zu.
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü „Abitur“ unter der Registerkarte ``Prüfung > Lernleistung`` das entsprechende Fach zuweisen und das Optionsfeld ``Lernleistung einbringen`` markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld ``Thema`` zu. Ergebnisse tragen Sie bitte darüber im Bereich `Prüfungen` für das 5.PF ein.
 
-``Abitur > Prüfung > Lernleistung``
+![`Abitur > Prüfung > Lernleistung`](/assets/images/DAS/bll.png)
 
 ## Präsentation oder Streitgespräch
 
