@@ -12,7 +12,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 | Bezeichnung  | beliebig                                                                    |
 | Kategorie    | Abitur                                                                      |
 | Typ          | leer                                                                        |
-| Ab Jahrgang  | leer                                                                        |
+| Ab Jahrgang  |  10 für G8 oder 11 für G9                                                   |
 | Skript       | ```...\Ihre Region\Ihr_Skript.js``` (Pfad zur Skriptdatei auf Ihrem Server) |
 | Notenart 11  | Noten oder Punkte                                                           |
 | Notenart 12  | Punkte                                                                      |
