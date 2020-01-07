@@ -1,4 +1,4 @@
-# SAR-APO-2018 (noch nicht veröffentlicht)
+# SAR-APO-2018 (GOS 2.0 - in Vorbereitung)
 
 ## Quelle
 
@@ -16,11 +16,11 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 | Bezeichnung  | beliebig                                 |
 | Kategorie    | Abitur                                   |
 | Typ          | dieser Eintrag in ```Magellan > Verzeichnisse > Verordnungen > Typ``` kennzeichnet Schulform: |
-| Ab Jahrgang  | 10                                       |
+| Ab Jahrgang  | leer                                       |
 | Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server) |
-| Notenart 11  | leer _(Einführungsphase, Klassenstufe 10)_ |
-| Notenart 12  | Punkte _(Hauptphase 11/1 und 11/2)_      |
-| Notenart 13  | Punkte  _(Hauptphase 12/1 und 12/2)_     |
+| Notenart 11  | leer _(Einführungsphase, Gymnasien: Klassenstufe 10, Gemeinschaftsschule: Klassenstufe 11)_ |
+| Notenart 12  | Punkte _(Hauptphase, Gymnasien: 11/1 und 11/2, Gemeinschaftsschule: 12/1 und 12/2)_      |
+| Notenart 13  | Punkte  _(Hauptphase, Gymnasien: 12/1 und 12/2, Gemeinschaftsschule: 13/1 und 13/2)_     |
 | Notenart BBS | leer                                     |
 | Gültig von   | leer                                     |
 | Gültig bis   | leer                                     |
@@ -88,8 +88,9 @@ Die zu belegenden Fächer werden Kurse genannt. Bei den Kursen wird zwischen Kur
 | L-Kurs | L         | L-Kurs / Kurs mit erhöhtem Anforderungsniveau |
 | G-Kurs | G         | G-Kurs / Kurs mit grundlegendem Anforderungsniveau |
 
-!!!info "Hinweis"
-    Das Seminarfach erhält die Unterrichtsart  "G-Kurs".
+!!! info "Hinweis"
+
+     Das Seminarfach erhält die Unterrichtsart  "G-Kurs".
 
 ## Fachstatus
 

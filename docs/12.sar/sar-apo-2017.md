@@ -2,8 +2,9 @@
 
 ## Quelle
 
- !!!info "Hinweis"
-    Basierend auf der Verordnung (G8-Abitur) [http://www.saarland.de/dokumente/thema_bildung/GOSVO.pdf](http://www.saarland.de/dokumente/thema_bildung/GOSVO.pdf)
+!!! info "Hinweis"
+
+     Basierend auf der Verordnung (G8-Abitur) [http://www.saarland.de/dokumente/thema_bildung/GOSVO.pdf](http://www.saarland.de/dokumente/thema_bildung/GOSVO.pdf)
 
 ## Verzeichnis Verordnung
 
