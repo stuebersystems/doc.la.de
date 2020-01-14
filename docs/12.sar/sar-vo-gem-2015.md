@@ -4,14 +4,14 @@
 
 Basierend auf der Gemeinschaftsschulverordnung - GemSVO [http://sl.juris.de/sl/gesamt/GemSchulV\_SL\_2012.htm](http://sl.juris.de/sl/gesamt/GemSchulV_SL_2012.htm)
 
-Das Skript zunächst berücksichtigt:
+Das Skript berücksichtigt:
 
-1. den Abschluss des Jahrgangs 9 mit dem Hauptschulabschluss, den erweiterten Hauptschulabschluss und die Prüfung des Übergangs von Klasse 9 in die Klasse 10.
-2. den Abschluss des Jahrgangs 10 mit dem Mittleren Bildungsabschluss und den evtl. Übergang nach Klasse 11.
+1. den **Abschluss des Jahrgangs 9** mit dem Hauptschulabschluss, den erweiterten Hauptschulabschluss und die Prüfung des Übergangs von Klasse 9 in die Klasse 10.
+2. den **Abschluss des Jahrgangs 10** mit dem Mittleren Bildungsabschluss und den evtl. Übergang nach Klasse 11.
 
 ## Vorbereitung
 
-### Verzeichnis Verordnungen
+### Verzeichnis "Verordnungen"
 
 Bitte legen Sie unter `Verzeichnisse > Verordnungen` für Jahrgang 9 und Jahrgang 10 jeweils eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim späteren Synchronisieren der Schüler in das Mittelstufen-Menü weisen Sie den Schülern die Verordnung zu.
 
@@ -51,11 +51,11 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` für Jahrgang 9 und Jahrgan
 | Gültig von | leer |
 | Gültig bis | leer |
 
-![Verzeichnis Verordnungen](/assets/images/MS_Verordnung.png)
+![Verzeichnis Verordnungen](../assets/images/mittelstufe/ms_verordnungen.png)
 
-### Verzeichnis Fächer
+### Verzeichnis "Fächer"
 
-Bitte legen Sie in Ihrem Fächerverzeichnis zusätzlich folgende Fächer wie folgt unter `Schlüsselverzeichnisse > Fächer` an. Das Kürzel kann dabei frei gewählt werden.
+Bitte legen Sie in Ihrem Fächerverzeichnis unter `Schlüsselverzeichnisse > Fächer` zusätzlich folgende Fächer an. Das "Kürzel" kann dabei frei gewählt werden, entscheidend ist der Eintrag im Feld "Bezeichnung" wie vorgegeben:
 
 | Kürzel | Schlüssel | Bezeichnung |
 | --- | --- | --- |
@@ -71,8 +71,8 @@ Bitte legen Sie in Ihrem Fächerverzeichnis zusätzlich folgende Fächer wie fol
 
 #### Fachkategorien
 
-Jedem Fach, das Sie in der Gemeinschaftsschule verwenden, müssen Sie eine Kategorie unter `Schlüsselverzeichnisse > Fächer > Spalte "Kategorie"` zuweisen.  
-Folgende Fachkategorien werden durch das Mittelstufenskript verwendet. Bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
+Jedem Fach, das Sie in der Gemeinschaftsschule verwenden, muss in MAGELLAN unter `Schlüsselverzeichnisse > Fächer > Spalte "Kategorie"` eine Kategori zugewiesen sein.  
+Folgende Fachkategorien werden vom Mittelstufenskript verwendet und müssen den Fächern zugewiesen werden. 
 
 |Fachkategorien|Wird vom Skript berücksichtigt|
 |--|--|
@@ -124,8 +124,10 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Schlüsselver
 
 Für die 1. und evtl. 2. Fremdsprache des Schülers muss folgendes beachtet werden:
 
-1. Die Fremdsprachen müssen dem Schüler als Fächer unter `Ansicht "Schüler" > Zeugnis > Fächer` zugeordnet werden.
-2. Für jede dort zugeordnete Fremdsprache muss pro Schüler festgelegt werden, ob dies die 1. bzw. 2. Fremdsprache ist. Dies erfolgt unter `Ansicht "Schüler" > Daten 3 > Fremdsprache 1`  bzw. `Fremdsprache 2`.
+1. Die Fremdsprachen müssen dem Schüler als Fächer im Menü `Schüler > Zeugnis > Fächer` zugeordnet werden.
+2. Für jede dort zugeordnete Fremdsprache muss pro Schüler festgelegt werden, ob dies die 1. bzw. 2. Fremdsprache ist. Dies erfolgt im Menü t `Schüler > Daten 3 > 1. Fremdsprache`  bzw. `2. Fremdsprache`.
+
+![Eingabe der Fremdsprachenfolge](../assets/images/mittelstufe/ms_fs01.png)
 
 !!! info "Hinweis"
 
@@ -141,6 +143,8 @@ Prüfen Sie bitte unter `Schlüsselverzeichnisse > Unterrichtsarten`, dass in Ih
 | E | E | Erweiterungskurs |
 | G | G | Grundkurs |
 | A | A | Aufbaukurs |
+
+![Unterrichtsarten](../assets/images/mittelstufe/ms_unterrichtsarten01.png)
 
 ### Verzeichnis Fachstatus
 
