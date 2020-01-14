@@ -8,14 +8,14 @@
 
 ## Verzeichnis Verordnung
 
-Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
+Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
 | Spalte       | Wert                                     |
 |--------------|------------------------------------------|
 | Kürzel       | beliebig                                 |
 | Bezeichnung  | beliebig                                 |
 | Kategorie    | Abitur                                   |
-| Typ          | dieser Eintrag in ```Magellan > Verzeichnisse > Verordnungen > Typ``` kennzeichnet Schulform: |
+| Typ          | dieser Eintrag in `MAGALLAN> Verzeichnisse > Verordnungen > Typ` kennzeichnet Schulform: |
 | Ab Jahrgang  | leer                                       |
 | Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server) |
 | Notenart 11  | leer _(Einführungsphase, Gymnasien: Klassenstufe 10, Gemeinschaftsschule: Klassenstufe 11)_ |
@@ -27,7 +27,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 
 ## Fachkategorien
 
-Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter ```Verzeichnisse > Fächer > Kategorie``` zuweisen.
+Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter `Verzeichnisse > Fächer > Kategorie` zuweisen.
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
 
 |Fachkategorien|Wird vom Skript berücksichtigt|

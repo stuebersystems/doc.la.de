@@ -86,9 +86,9 @@ Bitte tragen Sie im Verzeichnis `Fächer` in der Spalte `Merkmal` für die Fäch
 | Englisch      | E       |
 | Landessprache | LS      |
 
-Nachstehend ein Beispiel für die Eintragung mit der Landessprache Portugiesisch:
+Nachstehend ein Beispiel für die Eintragung mit der Landessprache Italienisch:
 
-![Fachmerkmale festlegen](/assets/images/DAS/verordnung.dia.2015.fachmerkmale.png)
+![Fachmerkmale festlegen](../assets/images/DAS/verordnung.dia.2015.fachmerkmale01.png)
 
 ## Fachstatus
 
@@ -109,7 +109,7 @@ Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü „Abitur“ unter 
 
 Ergebnisse tragen Sie bitte im darüberliegenden Bereich `Prüfungen` für das 5.PF ein.
 
-![`Abitur > Prüfung > Lernleistung`](/assets/images/DAS/bll.png)
+![`Abitur > Prüfung > Lernleistung`](/assets/images/DAS/das.bll01.png)
 
 ## Präsentation oder Streitgespräch
 
@@ -136,4 +136,6 @@ Das Merkmal muss unter `Abitur > Qualifikation > Merkmal` eingetragen werden.
 Das Berechnungsskript **DE-DIAP-2015** berücksichtigt auch folgendes:
 
 * Ermittlung einer Schnittverbesserung durch mögliche Einbringung einer mdl. Note in einem Prüfungsfach unter dem Menü ``Abitur > Prüfung`` im Feld "mdl. Note"
+  
+![`Abitur > Prüfung > "Neu berechnen`](../assets/images/DAS/ds.schnittverbessernd01.png)
 * Ermittlung der Abiturzulassung am Ende der Q3, wenn unter dem Menü ``Abitur > Qualifikation`` in den Feldern ``Q4`` keine Punktwerte eingetragen sind
