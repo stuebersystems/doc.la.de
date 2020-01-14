@@ -176,8 +176,6 @@ Bitte legen Sie `Schlüsselverzeichnisse > Abschlussarten` folgende Zusatzinform
 
 ![Verzeichnis Abschlussarten](../assets/images/mittelstufe/ms_abschlussarten.png)
 
-![Mittelstufenansicht](/assets/images/mittelstufe/ms_ansicht_mittelstufe.png)
-
 ## Schüler synchronisieren
 
 ### Vorbereitung
@@ -202,8 +200,9 @@ Damit die Synchronisation klappt sind die folgenden Einstellungen wichtig:
 | --- | --- |
 | Zeitraumart | Im Verzeichnis der Zeiträume muss das Feld „Art“ mit dem Wert „1. Halbjahr“ bzw. “2. Halbjahr“ gefüllt sein. |
 | Jahrgang | Bei jeder Klasse/Jahrgang muss auf der Registerkarte „Zeiträume“ für jeden Zeitraum das Feld „Jahrgang“ mit dem Wert „8“ oder „9“ angegeben werden. |
-| Abschlussjahrgänge | Bitte legen Sie unter `Schlüsselverzeichnisse > Abschlussjahrgänge` die Abschlussjahrgänge an. Es genügt dabei die Angabe des Kürzels, der Bezeichnung und der Kategorie "Mittelstufe". |
-| Verordnungen | Richten Sie bitte unter `Schlüsselverzeichnisse > Verordnungen` pro verwendeter Verordnung eine Zeile entsprechend der Anleitung pro Skript an. Wichtig hierbei ist das Feld "Jahrgang". **Für die Synchonisation muss der Jahrgang mit dem Wert "9" gefüllt werden.** |
+| Abschlussjahrgänge | Bitte legen Sie unter `Schlüsselverzeichnisse > Abschlussjahrgänge` die Abschlussjahrgänge an. Es genügt dabei die Angabe des Kürzels, der Bezeichnung und der Kategorie "Mittelstufe".![Verzeichnis Abschlussjahrgänge](../assets/images/mittelstufe/ms_abschlussarten01.png) |
+| Verordnungen | Richten Sie bitte unter `Schlüsselverzeichnisse > Verordnungen` pro verwendeter Verordnung eine Zeile entsprechend der Anleitung pro Skript an. ![Verzeichnis Verordnungen](../assets/images/mittelstufe/ms_verordnungen.png) Wichtig hierbei ist das Feld "Ab Jahrgang". **Für die Synchonisation muss der Jahrgang mit dem Wert "9" oder "10" gefüllt werden.** |
+
 
 !!! info "Hinweis"
 
@@ -256,7 +255,7 @@ Die Matrix ist in folgende Spaltenbereiche aufgeteilt:
 | 10.1 | Hier sind die aufgrund der Synchronisation übertragenen Werte aus dem Halbjahr 10.1 enthalten. |
 | 10.2 | Hier sind die aufgrund der Synchronisation übertragenen Werte aus dem Halbjahr 10.2 enthalten |
 | Vornote | Hier wird automatisch falls relevant die Vornote ausgegeben. |
-| Prüfung | Hier wird werden die Punkte der Prüfung eingetragen. In der Spalte "Pflicht" wird die schriftliche Prüfung in Deutsch und Mathematik eingetragen. In der Spalte "Wahl" wird ein evtl. zusätzliche weitere mündliche Prüfung eingegeben. Entscheidend für die weitere Berechnung ist der Wert in der Spalte "Note". |
+| Prüfung | Hier werden die Punkte der Prüfung eingetragen. In der Spalte "Pflicht" wird die schriftliche Prüfung in Deutsch und Mathematik eingetragen. In der Spalte "Wahl" wird ein evtl. zusätzliche weitere mündliche Prüfung eingegeben. Entscheidend für die weitere Berechnung ist der Wert in der Spalte "Note". |
 | Endnote | In den Spalten "Unterrichtsart" und "Note \(Niveau\)" stehen die berechneten Werte auf der zuletzt in 9.2 (Abschluss Klasse 9) bzw. 10.2 (Abschluss Klasse 10) unterrichteten Unterrichtsart für das Zeugnis. In der Spalten "Abschlussnote" und "Unterrichtsart \(Abschlussnote\)" stehen die für die Abschlussberechnung relevanten Werte. |
 
 !!! info "Hinweis"
