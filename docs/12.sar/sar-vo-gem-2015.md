@@ -51,7 +51,7 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` für Jahrgang 9 und Jahrgan
 | Gültig von | leer |
 | Gültig bis | leer |
 
-![Verzeichnis Verordnungen](../assets/images/mittelstufe/ms_verordnungen.png)
+![Verzeichnis Verordnungen](/assets/images/mittelstufe/ms_verordnungen.png)
 
 ### Verzeichnis "Fächer"
 
@@ -127,7 +127,7 @@ Für die 1. und evtl. 2. Fremdsprache des Schülers muss folgendes beachtet werd
 1. Die Fremdsprachen müssen dem Schüler als Fächer im Menü `Schüler > Zeugnis > Fächer` zugeordnet werden.
 2. Für jede dort zugeordnete Fremdsprache muss pro Schüler festgelegt werden, ob dies die 1. bzw. 2. Fremdsprache ist. Dies erfolgt im Menü t `Schüler > Daten 3 > 1. Fremdsprache`  bzw. `2. Fremdsprache`.
 
-![Eingabe der Fremdsprachenfolge](../assets/images/mittelstufe/ms_fs01.png)
+![Eingabe der Fremdsprachenfolge](/assets/images/mittelstufe/ms_fs01.png)
 
 !!! info "Hinweis"
 
@@ -178,7 +178,7 @@ Bitte legen Sie `Schlüsselverzeichnisse > Abschlussarten` folgende Zusatzinform
 | PÜK10 | leer | Abschlusszeugnis „Hauptschulabschluss“ mit Übergangsberechtigung in die Klassenstufe 10 der Gemeinschaftsschule für Schülerinnen und Schüler, die die Abschlussprüfung bestanden haben |
 | ÜGOS | leer | Mit Übergang Gymnasiale Oberstufe |
 
-![Verzeichnis Abschlussarten](../assets/images/mittelstufe/ms_abschlussarten.png)
+![Verzeichnis Abschlussarten](/assets/images/mittelstufe/ms_abschlussarten.png)
 
 ## Schüler synchronisieren
 
@@ -186,7 +186,7 @@ Bitte legen Sie `Schlüsselverzeichnisse > Abschlussarten` folgende Zusatzinform
 
 Wechseln Sie in MAGELLAN in den Bereich `Mittelstufe`. Mit der Aktion `Mittelstufe > Auswahl > Schüler synchronisieren` werden die in den Halbjahren pro Schüler erfassten Fach- und Notendaten unter `Ansicht "Schüler" > Zeugnis > Leistungen` auf die Registerkarte "Prüfung" kopiert. 
 
-![Synchronisation Mittelstufe](../assets/images/mittelstufe/ms_synch02.png)
+![Synchronisation Mittelstufe](/assets/images/mittelstufe/ms_synch02.png)
 
 Damit die Daten korrekt in die Spalten kopiert werden können, müssen die nachstehenden Daten korrekt erfasst sein.
 
@@ -204,8 +204,8 @@ Damit die Synchronisation klappt sind die folgenden Einstellungen wichtig:
 | --- | --- |
 | Zeitraumart | Im Verzeichnis der Zeiträume muss das Feld „Art“ mit dem Wert „1. Halbjahr“ bzw. “2. Halbjahr“ gefüllt sein. |
 | Jahrgang | Bei jeder Klasse/Jahrgang muss auf der Registerkarte „Zeiträume“ für jeden Zeitraum das Feld „Jahrgang“ mit dem Wert „8“ oder „9“ angegeben werden. |
-| Abschlussjahrgänge | Bitte legen Sie unter `Schlüsselverzeichnisse > Abschlussjahrgänge` die Abschlussjahrgänge an. Es genügt dabei die Angabe des Kürzels, der Bezeichnung und der Kategorie "Mittelstufe".![Verzeichnis Abschlussjahrgänge](../assets/images/mittelstufe/ms_abschlussarten01.png) |
-| Verordnungen | Richten Sie bitte unter `Schlüsselverzeichnisse > Verordnungen` pro verwendeter Verordnung eine Zeile entsprechend der Anleitung pro Skript an. ![Verzeichnis Verordnungen](../assets/images/mittelstufe/ms_verordnungen.png) Wichtig hierbei ist das Feld "Ab Jahrgang". **Für die Synchonisation muss der Jahrgang mit dem Wert "9" oder "10" gefüllt werden.** |
+| Abschlussjahrgänge | Bitte legen Sie unter `Schlüsselverzeichnisse > Abschlussjahrgänge` die Abschlussjahrgänge an. Es genügt dabei die Angabe des Kürzels, der Bezeichnung und der Kategorie "Mittelstufe".![Verzeichnis Abschlussjahrgänge](/assets/images/mittelstufe/ms_abschlussarten01.png) |
+| Verordnungen | Richten Sie bitte unter `Schlüsselverzeichnisse > Verordnungen` pro verwendeter Verordnung eine Zeile entsprechend der Anleitung pro Skript an. ![Verzeichnis Verordnungen](/assets/images/mittelstufe/ms_verordnungen.png) Wichtig hierbei ist das Feld "Ab Jahrgang". **Für die Synchonisation muss der Jahrgang mit dem Wert "9" oder "10" gefüllt werden.** |
 
 
 !!! info "Hinweis"
@@ -216,13 +216,13 @@ Damit die Synchronisation klappt sind die folgenden Einstellungen wichtig:
 
 Rufen Sie den Assistenten aus dem Menü `Mittelstufe` über `Start > Schüler synchronisieren` auf. Der Assistent bietet Ihnen alle Schüler zum Synchronisieren an, filtern Sie hier nach dem Jahrgang und markieren Sie die Schüler und klicken auf `Weiter`.  
 
-![Assistent zum Schüler synchronisieren](../assets/images/mittelstufe/ms_synch03.png)
+![Assistent zum Schüler synchronisieren](/assets/images/mittelstufe/ms_synch03.png)
 
 Auf der nächsten Karte wählen Sie bitte den `Abschlussjahrgang` und die `Prüfungsordnung` aus und klicken auf `Weiter` und anschließend auf `Fertigstellen`.
 
-![Assistent zum Schüler synchronisieren / weitere Angaben ](../assets/images/mittelstufe/ms_synch04.png)
+![Assistent zum Schüler synchronisieren / weitere Angaben ](/assets/images/mittelstufe/ms_synch04.png)
 
-![Auswahl der Schüler / Fertigstellen](../assets/images/mittelstufe/ms_synch05.png)
+![Auswahl der Schüler / Fertigstellen](/assets/images/mittelstufe/ms_synch05.png)
 
 Nach der Synchronisieren werden Ihnen im Bereich `Mittelstufe > Auswahl` alle synchronisierten Schüler angezeigt.
 
