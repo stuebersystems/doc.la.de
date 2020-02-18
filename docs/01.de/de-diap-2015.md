@@ -88,7 +88,7 @@ Bitte tragen Sie im Verzeichnis `Fächer` in der Spalte `Merkmal` für die Fäch
 
 Nachstehend ein Beispiel für die Eintragung mit der Landessprache Italienisch:
 
-![Fachmerkmale festlegen](../assets/images/DAS/verordnung.dia.2015.fachmerkmale01.png)
+![Fachmerkmale festlegen](/assets/images/DAS/verordnung.dia.2015.fachmerkmale01.png)
 
 ## Fachstatus
 
