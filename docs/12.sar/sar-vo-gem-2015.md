@@ -4,14 +4,14 @@
 
 Basierend auf der Gemeinschaftsschulverordnung - GemSVO [http://sl.juris.de/sl/gesamt/GemSchulV\_SL\_2012.htm](http://sl.juris.de/sl/gesamt/GemSchulV_SL_2012.htm)
 
-Das Skript zunächst berücksichtigt:
+Das Skript berücksichtigt:
 
-1. den Abschluss des Jahrgangs 9 mit dem Hauptschulabschluss, den erweiterten Hauptschulabschluss und die Prüfung des Übergangs von Klasse 9 in die Klasse 10.
-2. den Abschluss des Jahrgangs 10 mit dem Mittleren Bildungsabschluss und den evtl. Übergang nach Klasse 11.
+1. den **Abschluss des Jahrgangs 9** mit dem Hauptschulabschluss, den erweiterten Hauptschulabschluss und die Prüfung des Übergangs von Klasse 9 in die Klasse 10.
+2. den **Abschluss des Jahrgangs 10** mit dem Mittleren Bildungsabschluss und den evtl. Übergang nach Klasse 11.
 
 ## Vorbereitung
 
-### Verzeichnis Verordnungen
+### Verzeichnis "Verordnungen"
 
 Bitte legen Sie unter `Verzeichnisse > Verordnungen` für Jahrgang 9 und Jahrgang 10 jeweils eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim späteren Synchronisieren der Schüler in das Mittelstufen-Menü weisen Sie den Schülern die Verordnung zu.
 
@@ -51,11 +51,11 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` für Jahrgang 9 und Jahrgan
 | Gültig von | leer |
 | Gültig bis | leer |
 
-![Verzeichnis Verordnungen](/assets/images/MS_Verordnung.png)
+![Verzeichnis Verordnungen](/assets/images/mittelstufe/ms_verordnungen.png)
 
-### Verzeichnis Fächer
+### Verzeichnis "Fächer"
 
-Bitte legen Sie in Ihrem Fächerverzeichnis zusätzlich folgende Fächer wie folgt unter `Verzeichnisse > Fächer` an. Das Kürzel kann dabei frei gewählt werden.
+Bitte legen Sie in Ihrem Fächerverzeichnis unter `Schlüsselverzeichnisse > Fächer` zusätzlich folgende Fächer an. Das "Kürzel" kann dabei frei gewählt werden, entscheidend ist der Eintrag im Feld "Bezeichnung" wie vorgegeben:
 
 | Kürzel | Schlüssel | Bezeichnung |
 | --- | --- | --- |
@@ -71,8 +71,8 @@ Bitte legen Sie in Ihrem Fächerverzeichnis zusätzlich folgende Fächer wie fol
 
 #### Fachkategorien
 
-Jedem Fach, das Sie in der Gemeinschaftsschule verwenden, müssen Sie eine Kategorie unter `Verzeichnisse > Fächer > Kategorie` zuweisen.  
-Folgende Fachkategorien werden durch das Mittelstufenskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
+Jedem Fach, das Sie in der Gemeinschaftsschule verwenden, muss in MAGELLAN unter `Schlüsselverzeichnisse > Fächer > Spalte "Kategorie"` eine Kategori zugewiesen sein.  
+Folgende Fachkategorien werden vom Mittelstufenskript verwendet und müssen den Fächern zugewiesen werden. 
 
 |Fachkategorien|Wird vom Skript berücksichtigt|
 |--|--|
@@ -110,7 +110,7 @@ Folgende Fachkategorien werden durch das Mittelstufenskript verwendet, bitte ver
 
 #### Aufgabenbereiche
 
-Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Verzeichnisse > Fächer > Spalte Aufgabenbereich` verwendet werden:
+Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Schlüsselverzeichnisse > Fächer > Spalte "Aufgabenbereich"` verwendet werden:
 
 | Aufgabenbereich |
 | --- |
@@ -122,19 +122,21 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Verzeichnisse
 
 ### Fremdsprachen
 
-Für die 1. und evtl. 2. Fremdsprache des Schülers muss folgendes beachtet werden
+Für die 1. und evtl. 2. Fremdsprache des Schülers muss folgendes beachtet werden:
 
-1. Die Fremdsprachen müssen dem Schüler als Fächer unter `Ansicht "Schüler" > Zeugnis > Fächer` zugeordnet werden.
-2. Für jede dort zugeordnete Fremdsprache muss pro Schüler festgelegt werden, ob dies die 1. bzw. 2. Fremdsprache ist. Dies erfolgt unter `Ansicht "Schüler" > Daten 3 > Fremdsprache 1`  bzw. `Fremdsprache 2`.
+1. Die Fremdsprachen müssen dem Schüler als Fächer im Menü `Schüler > Zeugnis > Fächer` zugeordnet werden.
+2. Für jede dort zugeordnete Fremdsprache muss pro Schüler festgelegt werden, ob dies die 1. bzw. 2. Fremdsprache ist. Dies erfolgt im Menü t `Schüler > Daten 3 > 1. Fremdsprache`  bzw. `2. Fremdsprache`.
+
+![Eingabe der Fremdsprachenfolge](/assets/images/mittelstufe/ms_fs01.png)
 
 !!! info "Hinweis"
 
-    Bitte beachten Sie, dass die unter Ansicht `Schüler > Daten 3 > Fremdsprache` und die unter `Schüler > Zeugnis > Fächer`verwendeten Fächer auf das identische Fach aus `Verzeichnisse > Fächer`verweisen, ansonsten ist keine Zuordnung möglich!
+    Bitte beachten Sie, dass die unter Ansicht `Schüler > Daten 3 > Fremdsprache` und die unter `Schüler > Zeugnis > Fächer` verwendeten Fächer auf das identische Fach aus `Verzeichnisse > Fächer` verweisen, ansonsten ist keine Zuordnung möglich!
 
 ### Verzeichnis Unterrichtsarten
 
-Die Unterrichtsart muss unter `Mittelstufe > Unterrichtsart` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Unterrichtsart` übernommen werden.  
-Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten`, dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie diese ggfs. an.
+Die Unterrichtsart muss im Bereich `Mittelstufe` unter `Prüfung` im Feld `Unterrichtsart` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Feld "Unterrichtsart"` übernommen werden.  
+Prüfen Sie bitte unter `Schlüsselverzeichnisse > Unterrichtsarten`, dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie diese ggf. an.
 
 | Kürzel | Schlüssel | Bedeutung |
 | --- | --- | --- |
@@ -142,10 +144,12 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Unter
 | G | G | Grundkurs |
 | A | A | Aufbaukurs |
 
+![Unterrichtsarten](../assets/images/mittelstufe/ms_unterrichtsarten01.png)
+
 ### Verzeichnis Fachstatus
 
-Der Fachstatus muss unter `Mittelstufe > Fachstatus` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Fachstatus` übernommen werden.  
-Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus`, dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie diese ggfs. an.
+Der Fachstatus muss im Bereich `Mittelstufe` unter `Prüfung` im Feld `Fachstatus` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Feld "Fachstatus"` übernommen werden.  
+Prüfen Sie bitte unter `Schlüsselverzeichnisse > Fachstatus`, dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie diese ggf. an.
 
 | Kürzel | Schlüssel | Bedeutung |
 | --- | --- | --- |
@@ -154,7 +158,7 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachs
 
 ### Verzeichnis Abschlüsse (Intern)
 
-Bitte legen Sie in Ihrem Verzeichnis der Abschlüsse (Intern) zusätzlich den Hauptschulabschluss und den Mittleren Bildungsabschluss wie folgt unter Verzeichnisse &gt; Abschlüsse (Intern) an.
+Bitte legen Sie unter `Schlüsselverzeichnisse > Abschlüsse (Intern)` zusätzlich den Hauptschulabschluss und den Mittleren Bildungsabschluss wie folgt an.
 
 | Kürzel | Schlüssel | Bezeichnung |
 | --- | --- | --- |
@@ -163,10 +167,10 @@ Bitte legen Sie in Ihrem Verzeichnis der Abschlüsse (Intern) zusätzlich den Ha
 
 ### Verzeichnis Abschlussarten
 
-Bitte legen Sie in Ihrem Verzeichnis der Abschlussarten folgende Zusatzinformationen wie folgt unter Verzeichnisse &gt; Weitere Schlüsselverzeichnisse an.
+Bitte legen Sie `Schlüsselverzeichnisse > Abschlussarten` folgende Zusatzinformationen an.
 
 | Kürzel | Schlüssel | Bezeichnung |
-| :--- | :--- | :--- |
+| --- | --- | --- |
 | P | leer | Abschlusszeugnis "Hauptschulabschluss" für Schülerinnen und Schüler, die die Abschlussprüfung bestanden haben |
 | ÜH | leer | Abschlusszeugnis „Hauptschulabschluss“ mit Übergangsberechtigung in die Handelsschule, Gewerbeschule, Sozialpflegeschule“ für Schülerinnen und Schüler, die nicht an der Abschlussprüfung teilgenommen haben. |
 | PÜH | leer | Abschlusszeugnis „Hauptschulabschluss“ mit Übergangsberechtigung in die Handelsschule, Gewerbeschule, Sozialpflegeschule“ für Schülerinnen und Schüler, die die Abschlussprüfung bestanden haben |
@@ -174,15 +178,25 @@ Bitte legen Sie in Ihrem Verzeichnis der Abschlussarten folgende Zusatzinformati
 | PÜK10 | leer | Abschlusszeugnis „Hauptschulabschluss“ mit Übergangsberechtigung in die Klassenstufe 10 der Gemeinschaftsschule für Schülerinnen und Schüler, die die Abschlussprüfung bestanden haben |
 | ÜGOS | leer | Mit Übergang Gymnasiale Oberstufe |
 
-![Mittelstufenansicht](/assets/images/mittelstufe/ms_ansicht_mittelstufe.png)
+![Verzeichnis Abschlussarten](/assets/images/mittelstufe/ms_abschlussarten.png)
 
 ## Schüler synchronisieren
 
-Wechseln Sie in MAGELLAN in den Bereich `Mittelstufe`. Mit der Aktion `Mittelstufe > Auswahl > Schüler synchronisieren` werden die in den Halbjahren pro Schüler erfassten Fach- und Notendaten unter `Ansicht "Schüler" > Zeugnis > Leistungen` auf die Registerkarte "Prüfung" kopiert. Damit die Daten korrekt in die Spalten kopiert werden können, müssen die nachstehenden Daten korrekt erfasst sein.
+### Vorbereitung
+
+Wechseln Sie in MAGELLAN in den Bereich `Mittelstufe`. Mit der Aktion `Mittelstufe > Auswahl > Schüler synchronisieren` werden die in den Halbjahren pro Schüler erfassten Fach- und Notendaten unter `Ansicht "Schüler" > Zeugnis > Leistungen` auf die Registerkarte "Prüfung" kopiert. 
+
+![Synchronisation Mittelstufe](/assets/images/mittelstufe/ms_synch02.png)
+
+Damit die Daten korrekt in die Spalten kopiert werden können, müssen die nachstehenden Daten korrekt erfasst sein.
 
 MAGELLAN extrahiert für die markierten Schüler die Fachdaten der Halbjahre 8.2, 9.1 und 9.2.
 
-Dies ist die Voraussetzung dafür, dass die Abschlussberechnung der Mittelstufe nach Klasse 9 durchgeführt werden kann. In der Ansicht `Mittelstufe` können für die Schüler selbst keine Fächer bzw Noten aus den Halbjahren 8.2 bis 9.2 eintragen werden.
+Dies ist die Voraussetzung dafür, dass die Abschlussberechnung der Mittelstufe nach Klasse 9 durchgeführt werden kann. 
+
+!!! info "Hinweis"
+
+    In der Ansicht `Mittelstufe` können für die Schüler selbst keine Fächer bzw. Noten aus den Halbjahren 8.2 bis 9.2 eintragen werden.
 
 Damit die Synchronisation klappt sind die folgenden Einstellungen wichtig:
 
@@ -190,24 +204,29 @@ Damit die Synchronisation klappt sind die folgenden Einstellungen wichtig:
 | --- | --- |
 | Zeitraumart | Im Verzeichnis der Zeiträume muss das Feld „Art“ mit dem Wert „1. Halbjahr“ bzw. “2. Halbjahr“ gefüllt sein. |
 | Jahrgang | Bei jeder Klasse/Jahrgang muss auf der Registerkarte „Zeiträume“ für jeden Zeitraum das Feld „Jahrgang“ mit dem Wert „8“ oder „9“ angegeben werden. |
-| Abschlussjahrgänge | Bitte legen Sie unter `Verzeichnisse > Abschlussjahrgänge` die Abschlussjahrgänge an. Es genügt dabei die Angabe des Kürzels, der Bezeichnung und der Kategorie \(Mittelstufe\). |
-| Verordnungen | Richten Sie bitte unter `Verzeichnisse > Verordnungen` pro verwendeter Verordnung eine Zeile entsprechend der Anleitung pro Skript an. Wichtig hierbei ist das Feld "Jahrgang". **Für die Synchonisation muss der Jahrgang mit dem Wert "9" gefüllt werden.** |
+| Abschlussjahrgänge | Bitte legen Sie unter `Schlüsselverzeichnisse > Abschlussjahrgänge` die Abschlussjahrgänge an. Es genügt dabei die Angabe des Kürzels, der Bezeichnung und der Kategorie "Mittelstufe".![Verzeichnis Abschlussjahrgänge](/assets/images/mittelstufe/ms_abschlussarten01.png) |
+| Verordnungen | Richten Sie bitte unter `Schlüsselverzeichnisse > Verordnungen` pro verwendeter Verordnung eine Zeile entsprechend der Anleitung pro Skript an. ![Verzeichnis Verordnungen](/assets/images/mittelstufe/ms_verordnungen.png) Wichtig hierbei ist das Feld "Ab Jahrgang". **Für die Synchonisation muss der Jahrgang mit dem Wert "9" oder "10" gefüllt werden.** |
+
 
 !!! info "Hinweis"
 
      Beim Synchronisieren werden die Noten aus der Spalte „Endnote“ in der `Ansicht "Schüler" > Zeugnis > Leistungen` in das Menü `Mittelstufe` übernommen.
 
-So synchronisieren Sie Schüler für die Abschlussberechnung:
+### Schüler für die Abschlussberechnung synchronisieren
 
-Rufen Sie den Assistenten aus dem Menü `Mittelstufe` auf der Karte `Prüfung` über die Schaltfläche `Schüler synchronisieren` auf. Der Assistent bietet Ihnen alle Schüler zum Synchronisieren an, filtern Sie hier nach dem Jahrgang und markieren Sie die Schüler und klicken auf `Weiter`.  Auf der nächsten Karte wählen Sie bitte die `Prüfungsordnung` und den `Abschlussjahrgang` aus und klicken auf `Weiter` und `Fertigstellen`.
+Rufen Sie den Assistenten aus dem Menü `Mittelstufe` über `Start > Schüler synchronisieren` auf. Der Assistent bietet Ihnen alle Schüler zum Synchronisieren an, filtern Sie hier nach dem Jahrgang und markieren Sie die Schüler und klicken auf `Weiter`.  
 
-![Assistent zum Schüler synchronisieren](/assets/images/mittelstufe/ms_synch.png)
+![Assistent zum Schüler synchronisieren](/assets/images/mittelstufe/ms_synch03.png)
 
-![Assistent zum Schüler synchronisieren / weitere Angaben ](/assets/images/mittelstufe/ms_sync1.png)
+Auf der nächsten Karte wählen Sie bitte den `Abschlussjahrgang` und die `Prüfungsordnung` aus und klicken auf `Weiter` und anschließend auf `Fertigstellen`.
 
-Wechseln Sie nach dem Synchronisieren in den Menüpunkt `Mittelstufe` auf die Registerkarte `Auswahl`. Es werden alle synchronisierten Schüler angezeigt.
+![Assistent zum Schüler synchronisieren / weitere Angaben ](/assets/images/mittelstufe/ms_synch04.png)
 
-Per Doppelklick auf den gewünschten Schüler oder über einen Klick auf die Registerkarte `Prüfung` wechseln Sie zur Abschlussberechnung. Auf dieser Registerkarte finden Sie die Fächer, Unterrichtsarten und Notenwerte der Klassen 8.2, 9.1 und 9.2 (KLasse 9) bzw. 9.2, 10.1  und 10.2 (Klasse 10), falls Sie diese Angaben bereits in MAGELLAN unter der Rubrik `Schüler` gemacht haben sollten.
+![Auswahl der Schüler / Fertigstellen](/assets/images/mittelstufe/ms_synch05.png)
+
+Nach der Synchronisieren werden Ihnen im Bereich `Mittelstufe > Auswahl` alle synchronisierten Schüler angezeigt.
+
+Per `Doppelklick` auf den gewünschten Schüler oder über einen Klick auf die Registerkarte `Prüfung` wechseln Sie zur Abschlussberechnung. Auf dieser Registerkarte finden Sie die Fächer, Unterrichtsarten und Notenwerte der Klassen 8.2, 9.1 und 9.2 (für Abschlussberechnung nach Klasse 9) bzw. 9.2, 10.1  und 10.2 (für Abschlussberechnung nach Klasse 10), falls Sie diese Angaben bereits in MAGELLAN unter der Rubrik `Schüler` gemacht haben sollten.
 
 Durch die Synchronisation erfolgen folgende Vorbelegungen:
 
@@ -230,7 +249,7 @@ Die Registerkarte besteht aus 3 Bereiche:
 
 ### Matrix
 
-Die Matrix ist in folgende Spaltenbereich aufgeteilt:
+Die Matrix ist in folgende Spaltenbereiche aufgeteilt:
 
 | Bereiche | Anmerkung |
 | --- | --- |
@@ -240,7 +259,7 @@ Die Matrix ist in folgende Spaltenbereich aufgeteilt:
 | 10.1 | Hier sind die aufgrund der Synchronisation übertragenen Werte aus dem Halbjahr 10.1 enthalten. |
 | 10.2 | Hier sind die aufgrund der Synchronisation übertragenen Werte aus dem Halbjahr 10.2 enthalten |
 | Vornote | Hier wird automatisch falls relevant die Vornote ausgegeben. |
-| Prüfung | Hier wird werden die Punkte der Prüfung eingetragen. In der Spalte "Pflicht" wird die schriftliche Prüfung in Deutsch und Mathematik eingetragen. In der Spalte "Wahl" wird ein evtl. zusätzliche weitere mündliche Prüfung eingegeben. Entscheidend für die weitere Berechnung ist der Wert in der Spalte "Note". |
+| Prüfung | Hier werden die Punkte der Prüfung eingetragen. In der Spalte "Pflicht" wird die schriftliche Prüfung in Deutsch und Mathematik eingetragen. In der Spalte "Wahl" wird ein evtl. zusätzliche weitere mündliche Prüfung eingegeben. Entscheidend für die weitere Berechnung ist der Wert in der Spalte "Note". |
 | Endnote | In den Spalten "Unterrichtsart" und "Note \(Niveau\)" stehen die berechneten Werte auf der zuletzt in 9.2 (Abschluss Klasse 9) bzw. 10.2 (Abschluss Klasse 10) unterrichteten Unterrichtsart für das Zeugnis. In der Spalten "Abschlussnote" und "Unterrichtsart \(Abschlussnote\)" stehen die für die Abschlussberechnung relevanten Werte. |
 
 !!! info "Hinweis"
