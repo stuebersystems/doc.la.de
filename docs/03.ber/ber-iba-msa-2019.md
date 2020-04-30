@@ -16,9 +16,9 @@ Zur Berechnung des MSA Durchschnittes und der Gesamtnoten für das 1.-3. sowie 4
 
 Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten.
 
-| Spalte       | Wert                                     |
-|--------------|------------------------------------------|
-| Kürzel       | beliebig                                 |
+| Spalte | Wert|
+|---|---|
+| Kürzel| beliebig                                 |
 | Bezeichnung  | beliebig                                 |
 | Kategorie    | Versetzung                               |
 | Typ          | leer                                     |
@@ -33,7 +33,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 
 !!! warning "Wichtig"
 
-    Das Skript BER-IBA-MSA-2019.dws wird im Menü ```Schüler > Zeugnis > Leistungen``` ausgeführt und muss im Verzeichnis ``Verordnung`` mit der Kategorie „Versetzung“ angelegt werden.
+    Das Skript BER-IBA-MSA-2019.dws wird im Menü `Schüler > Zeugnis > Leistungen` ausgeführt und muss im `Schlüsselverzeichnis > Verordnung` mit der Kategorie „Versetzung“ angelegt werden.
 
 ![Verzeichnis Verordnungen](/assets/images/Durchschnitt/MSA.IBA.png)
 
