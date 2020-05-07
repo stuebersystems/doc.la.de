@@ -146,3 +146,31 @@ Da das Skript automatisch die jeweiligen Zeugnisformulare den Schülern zuordnet
 !!! warning "Wichtig"
 
     Die Bezeichnungen BER-BFS-AS für das Abschlusszeugnis, BER-BFS-MSA für das Zusatzzeugnis Mittlerer Schulabschluss und BER-BFS-AZ für das Abgangszeugnis sind fest vorgegeben.
+
+
+### Hinweise zu Zeugnisformularen
+
+#### Schulbezeichnung
+
+Die Schulbezeichnung gemäß Verordnung (z.B. Berufsfachschule für Mode und Design, Kaufmännische Berufsfachschule, etc.) tragen Sie im Menü `Mandanten > Merkmale` im Feld "Merkmal A6" ein. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Mandaten)`. Hier ist in der Spalte „Bereich“ der Wert  „Merkmal A6“ zuzuweisen.
+
+Folgendes Beispiel:
+
+Kürzel | Schlüssel | Bezeichnung | Bereich
+--|--|--|--
+beliebig (BFS Kfm) | leer | Kaufmännische Berufsfachschule | Merkmal A6
+beliebig (BFS Textil) | leer | Berufsfachschule für Textiltechnik und Bekleidung | Merkmal A6
+
+#### Kammerprüfung 
+
+Die zuständige Kammer der Kammerprüfung tragen Sie im Menü `Klassen > Merkmale > Merkmal A6` ein. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`. Hier ist in der Spalte „Bereich“ der Wert  „Merkmal A6“ zuzuweisen.
+
+Folgendes Beispiel:
+
+Kürzel | Schlüssel | Bezeichnung | Bereich
+--|--|--|--
+beliebig (IHK) | leer | Industrie- und Handelskammer | Merkmal A6
+beliebig (HK) | leer | Handwerkskammer | Merkmal A6
+
+Das "Prüfdatum" vor der Kammer tragen Sie im entsprechenden Zeitraum im Menü `Schüler > Merkmale` im Feld "Merkmal D4" ein.
+Die Merkmale D1-D4 können per Sammelzuweisung den Schüler zugewiesen werden. (Sammelzuweisung Stammdaten)
