@@ -6,7 +6,7 @@
 
 ## Allgemein
 
-# In diesem Skript werden für die korrekte Berechnung unter `Abitur > Qualifikation` drei als Leistungskurse markierte Fachzeilen erwartet, die nicht als 1. oder 2.Prüfungsfach erfasst wurden (Unterrichtsart LK und nicht Fachstatus 1PF oder 2PF). Der 3. Leistungskurs wird in der Berechnung wie ein Grundkurs behandelt.
+In diesem Skript werden für die korrekte Berechnung unter `Abitur > Qualifikation` drei als Leistungskurse markierte Fachzeilen erwartet, die nicht als 1. oder 2.Prüfungsfach erfasst wurden (Unterrichtsart LK und nicht Fachstatus 1PF oder 2PF). Der 3. Leistungskurs wird in der Berechnung wie ein Grundkurs behandelt.
 
 ## Verzeichnis Verordnung
 

@@ -113,9 +113,15 @@ Die Noten der Prüfungsfächer erfassen Sie im Menü `Berufsschule > Berufschulm
 
 Spalte | Note für ...
 --|--
-..| schriftliche Prüfung
-..| mündliche Prüfung
-..| praktische Prüfung
+Zusatznote 1 | schriftliche Prüfung
+Zusatznote 2 | mündliche Prüfung
+Zusatznote 3 | praktische Prüfung
+
+![Berufsschule > Matrix](../assets/images/Berufsschule/01.png)
+
+!!! info "Hinweis"
+
+    Im Menü `Berufsschule > Matrix` können Sie über die Schaltfäche `Layout anpassen` die Spaltenüberschriften anpassen. Sie können auch für jede Spalte bestimmen, ob diese sichtbar ist oder nicht. 
 
 ## Wiederholer
 
