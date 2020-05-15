@@ -1,11 +1,10 @@
-# BER-IBA-MSA-2019.dws
+# BER-IBA-HJ-2020.dws
 
-Innerhalb eines Zeitraums können mit Hilfe des Berechnungsskriptes _BER-IBA-MSA-2019.dws_
-Durchschnittsnoten für den Schulversuch "Integrierte Berufsausbildungsvorbereitung" ermittelt werden.
+Mit Hilfe des Berechnungsskriptes _BER-IBA-HJ-2020.dws_ können Sie für den Bildungsgang **Integrierte Berufsausbildungsvorbereitung**  Durchschnittsnoten für den Berufsfeldbezogenen Unterricht in Fachtherie und Fachpraxis berechnen.
+
+Im folgenden Kapitel beschreiben wir Ihnen die Vorgehensweise.
 
 ## Vorbereitungen
-
-Zur Berechnung des MSA Durchschnittes und der Gesamtnoten für das 1.-3. sowie 4. Prüfungsfach gehen Sie bitte wie folgt vor:
 
 1. Berechnungsverordnung definieren
 2. Fächer (Unterrichtsart und Fachstatus) definieren
@@ -14,7 +13,7 @@ Zur Berechnung des MSA Durchschnittes und der Gesamtnoten für das 1.-3. sowie 4
 
 ### Berechnungsverordnung definieren
 
-Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten.
+Bitte legen Sie unter `Schlüsselverzeichnisse > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten.
 
 | Spalte | Wert|
 |---|---|
@@ -23,7 +22,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 | Kategorie    | Versetzung                               |
 | Typ          | leer                                     |
 | Ab Jahrgang  | leer                                     |
-| Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server) hier _BER-IBA-MSA-2019.dws_ |
+| Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server) hier _BER-IBA-HJ-2020.dws_ |
 | Notenart 11  | leer                                     |
 | Notenart 12  | leer                                     |
 | Notenart 13  | leer                                     |
@@ -33,9 +32,9 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 
 !!! warning "Wichtig"
 
-    Das Skript BER-IBA-MSA-2019.dws wird im Menü `Schüler > Zeugnis > Leistungen` ausgeführt und muss im `Schlüsselverzeichnis > Verordnung` mit der Kategorie „Versetzung“ angelegt werden.
+    Das Skript BER-IBA-HJ-2020.dws wird im Menü `Schüler > Zeugnis > Leistungen` ausgeführt und muss im `Schlüsselverzeichnis > Verordnung` mit der Kategorie „Versetzung“ angelegt werden.
 
-![Verzeichnis Verordnungen](/assets/images/Durchschnitt/MSA.IBA.png)
+![Verzeichnis Verordnungen](/assets/images/IBA/IBA01.png)
 
 ### Fächer (Unterrichtsart und Fachstatus) definieren
 
@@ -45,7 +44,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 
 ### Unterrichtsart
 
-Jedem Fach pro Schüler müssen eine der folgenden Unterrichtsarten auf der Registerkarte ``Schüler > Zeugnis > Fächer`` zugewiesen werden:
+Den Schülern müssen im Menü `Schüler > Zeugnis > Fächer` folgende Unterrichtsarten zugewiesen werden. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`
 
 |Kürzel |Schlüssel|Bezeichnung|
 |--|--|--|
@@ -55,8 +54,8 @@ Jedem Fach pro Schüler müssen eine der folgenden Unterrichtsarten auf der Regi
 
 ### Fachstatus
 
-Der Fachstatus muss unter ``Schüler > Zeugnis > Fachstatus`` zugeordnet sein.
-Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
+Der Fachstatus muss im im Menü `Schüler > Zeugnis > Fächer` im Feld "Fachstatus" zugeordnet sein.
+Prüfen Sie bitte in Ihrem `Schlüsselverzeichnis > Fachstatus`,  dass alle erwarteten Werte vorhanden sind oder legen Sie diese ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung       |
 |--------|-----------|-----------------|
