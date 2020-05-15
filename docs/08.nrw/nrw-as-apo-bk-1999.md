@@ -5,7 +5,8 @@
 !!! danger "Achtung"
 
     MAGELLAN bietet die Möglichkeit eigene Skripte oder Bericht (mitunter auf der Grundlage von Veröffentlichungen von STÜBER SYSTEMS) zu entwickeln und einzusetzen. **Diese selbst erstellten Skripte und Berichte werden von uns nicht gepflegt, sondern lediglich veröffentlicht.** 
-    Federführender Autor des Skriptes, der Berichte und der Dokumentation ist Heinz Kersting vom Berufskolleg Mitte TÜV NORD College.
+    Federführender Autor des Skriptes, der Berichte und der Dokumentation war Heinz Kersting vom Berufskolleg Mitte TÜV NORD College.
+    Aktuell wird diese Skript nicht weitergepflegt.
 
 Für Berufskollegs in Nordrhein-Westfalen steht ein von Anwendern entwickeltes Skript zur Verfügung, das Notendurchschnitte für verschiedene Bildungsgänge berechnet und auch Abschlüsse zuordnen kann. Gleichzeitig können die sich daraus ergebenen Zeugnisberichte (ebenfalls von Anwendern entwickelt), u.a. auch Zeugnisbemerkungen, den Schüler hinterlegt werden. In den folgenden Abschnitten beschreiben wir die dafür notwendigen Einstellungen.
 
