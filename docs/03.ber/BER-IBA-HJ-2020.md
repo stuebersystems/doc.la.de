@@ -1,13 +1,15 @@
 # BER-IBA-HJ-2020.dws
 
-Mit Hilfe des Berechnungsskriptes _BER-IBA-HJ-2020.dws_ können Sie für den Bildungsgang **Integrierte Berufsausbildungsvorbereitung**  Durchschnittsnoten für das aktuelle Halbjahr den Berufsfeldbezogenen Unterricht in Fachtherie und Fachpraxis berechnen.
+Mit Hilfe des Berechnungsskriptes _BER-IBA-HJ-2020.dws_ können Sie für den Bildungsgang **Integrierte Berufsausbildungsvorbereitung**  die Gesamtnote der Fachtheorie und Fachpraxis für das aktuelle Halbjahr für den Berufsfeldbezogenen Unterricht berechnen lassen.
+
+Die Gesamtnote der Fachtheorie und Fachpraxis errechnet sich aus den gewichteten Halbjahresnotendurchschnitten der jeweiligen Lernfeldnoten gemäß der Verordnung über die Integrierte Berufsausbildungsvorbereitung Anlage 4 Abschnitt B.
 
 Im folgenden Kapitel beschreiben wir Ihnen die Vorgehensweise.
 
 ## Vorbereitungen
 
 1. Berechnungsverordnung definieren
-2. Fächer (Unterrichtsart und Fachstatus) definieren
+2. Fächer zuweisen
 3. Noten zur Berechnung eingeben
 4. Berechnung ausführen
 
@@ -36,15 +38,16 @@ Bitte legen Sie unter `Schlüsselverzeichnisse > Verordnungen` eine neue Zeile a
 
 ![Verzeichnis Verordnungen](/assets/images/IBA/IBA01.png)
 
-### Fächer (Unterrichtsart und Fachstatus) definieren
+### Fächer zuweisen
 
 !!! warning "Wichtig"
 
     Für die Fächer sind folgenden Unterscheidungen zwingende Voraussetzung.
 
-### Unterrichtsart
+#### Berufsfeldübergreifender/berufsfeldbezogener Unterricht
 
-Den Schülern müssen im Menü `Schüler > Zeugnis > Fächer` folgende Unterrichtsarten zugewiesen werden. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`
+Den Fächern des berufsfeldübergreifender bzw. berufsfeldbezogener Unterricht
+müssen Sie im Menü `Schüler > Zeugnis > Fächer` folgende Unterrichtsarten zuweisen. Grundlage dafür bildet das `Schlüsselverzeichnis > Unterrichtsarten`. 
 
 |Kürzel |Schlüssel|Bezeichnung|
 |--|--|--|
@@ -52,67 +55,47 @@ Den Schülern müssen im Menü `Schüler > Zeugnis > Fächer` folgende Unterrich
 |FachT| FachT |Berufsbezogener Lernbereich / Fachtheorie|
 |FachP| FachP |Berufsbezogener Lernbereich / Fachpraxis|
 
-### Fachstatus
+#### Wahlunterricht
 
-Der Fachstatus muss im im Menü `Schüler > Zeugnis > Fächer` im Feld "Fachstatus" zugeordnet sein.
-Prüfen Sie bitte in Ihrem `Schlüsselverzeichnis > Fachstatus`,  dass alle erwarteten Werte vorhanden sind oder legen Sie diese ggfs. an.
+Fächer des Wahlunterrichtes weisen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Fachstatus" den Eintrag "WahlB" zu. Prüfen Sie bitte unter `Schlüsselverzeichnisse > Fachstatus`, dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung       |
 |--------|-----------|-----------------|
-| 1PF    | 1PF       | 1. Prüfungsfach |
-| 2PF    | 2PF       | 2. Prüfungsfach |
-| 3PF    | 3PF       | 3. Prüfungsfach |
-| 4PF    | 4PF       | 4. Prüfungsfach |
 | WahlB  | WahlB     | Wahlbereich     |
 
-![JPrüfungsfächer festlegen](/assets/images/MSA.IBA.Prüfungsfächer.png)
+#### Betriebliche Lernaufgaben
 
-### Noten zur Berechnung eingeben
+Neben dem Wahlunterricht und den berufsfeldübergreifenden bzw. berufsfeldbezogenern Unterricht muss auch die Betriebliche Lernaufgabe benotet werden. Gehen Sie dafür wie folgt vor:
 
-Um die Berechnung durchzuführen, müssen Sie zunächst die Noten der Schüler eintragen.
+1. Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betrieblichen Lernaufgaben an, entscheidend ist der Eintrag im Feld "Schlüssel", dieser muss wie folgt hinterlegt sein:
 
-### Erfassung der Prüfungsnoten in den Prüfungsfächern (1.-4.PF)
+| Kürzel | Schlüssel | Bezeichnung       |
+|--------|-----------|-----------------|
+| LA1 (beliebig)| LA1 | Betriebliche Lernaufgabe 1 (beliebig) |
+| LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 2 (beliebig)|
+| LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 3 (beliebig)|
 
-Für die automatische Berechnung des Gesamtnote im 1.-3. Prüfungsfach sind die Noten unter  ``Schüler > Zeugnis > Leistungen`` wie folgt einzugeben:
+#### Noten der Fächer eingeben
 
-#### 1.-3. Prüfungsfach
+Die Halbjahresnoten der Fächer erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote".
 
-| Spalte           | Bedeutung                       |
-|------------------|---------------------------------|
-| Schriftl. Note 1 | schriftliche Note 1PF, 2PF, 3PF |
-| Mdl. Note        | schriftliche Note 1PF, 2PF, 3PF |
+Für die automatische Berechnung der Gesamtnote der Fachtheorie und Fachpraxis werden die Noten der Fächer mit der Unterrichtsart "FachT" und "FachP" im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" herangezogen. 
 
-![Prüfungsergebnisse erfassen](/assets/images/MSA.IBA.Prüfungsfächer.Schrift.Mdl.png)
+![Schüler > Zeugnis > Leistungen](/assets/images/IBA/IBA02.png)
 
-#### 4. Prüfungsfach
+### Gesamtnotenberechnung Fachtheorie und Fachpraxis ausführen
 
-| Spalte           | Bedeutung                                |
-|------------------|------------------------------------------|
-| Endnote (Gesamt) | Gesamtnote des 4. Prüfungsfaches         |
-| Beurteilung      | Thema der Präsentationsprüfung/Facharbeit |
+Aktivieren Sie für den Schüler unter `Schüler > Zeugnis > Leistungen` das Optionsfeld `Durchschnitt`. Auf der rechten Seite der Registerkarte erscheint nun eine zusätzliche Leiste.
 
-![Eintragungen für 4.PF](/assets/images/MSA.IBA.4.PF.png)
-
-### Erfassung der Jahrgangsnoten und Jahresstunden pro Fach
-
-| Spalte           | Bedeutung                                |
-|------------------|------------------------------------------|
-| Endnote (Gesamt) | Gesamtnote des 4. Prüfungsfaches         |
-| Beurteilung      | Thema der Präsentationsprüfung/Facharbeit |
-
-![Note und Jahrgangsstunden](/assets/images/MSA.IBA.Jahresnoten.png)
-
-### Berechnung ausführen
-
-Markieren Sie für den Schüler unter ``Schüler > Zeugnis > Leistungen`` das Optionsfeld Durchschnitt einblenden. Auf der rechten Seite der Registerkarte erscheint nun eine zusätzliche Leiste.
-
-### Automatische Berechnung
-
-Geben Sie unter Prüfungsordnung die gewünschte Prüfungsordnung (basierend auf dem Skript BER-IBA-MSA-2019.dws) zur Versetzung an. Klicken Sie auf ``Neu`` berechnen, um die Daten automatisch durch das entsprechende Skript berechnen zu lassen.
+Im Feld "Prüfungsverordnung" wählen Sie über das Drop Down Menü die vorab im `Schlüsselverzeichnisse > Verordnungen` definierte Prüfungsverordnung aus.(basierend auf dem Skript BER-IBA-HJ-2020.dws) 
+ 
+Im Feld "Status" wählen Sie `Abschluss berechnen`. Die Berechnung gemäß Skript stoßen Sie über die Schaltfläche `Neu berechnen` an. 
 
 Durch die Berechnung werden automatisch folgende Felder befüllt:
 
-* **MSA Abschluss** wird in das Feld "**Durchschnitte 1**" eingetragen
-* **Gesamtnoten für das 1.-3. Prüfungsfach** werden in das Feld "**Merkmal**" mathematisch gerundet pro Fach eingetragen.
+| Feld | Note für...     |
+|--------|-----------
+Durchschnitte 1 | Fachtheorie - gesamt|
+Durchschnitte 2 | Fachtpraxis - gesamt|
 
-![Berechnung](/assets/images/MSA.IBA.Durchschnitt.png)
+![Berechnung](/assets/images/IBA/IBA03.png)
