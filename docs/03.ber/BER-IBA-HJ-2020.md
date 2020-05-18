@@ -1,6 +1,6 @@
 # BER-IBA-HJ-2020.dws
 
-Mit Hilfe des Berechnungsskriptes _BER-IBA-HJ-2020.dws_ können Sie für den Bildungsgang **Integrierte Berufsausbildungsvorbereitung**  Durchschnittsnoten für den Berufsfeldbezogenen Unterricht in Fachtherie und Fachpraxis berechnen.
+Mit Hilfe des Berechnungsskriptes _BER-IBA-HJ-2020.dws_ können Sie für den Bildungsgang **Integrierte Berufsausbildungsvorbereitung**  Durchschnittsnoten für das aktuelle Halbjahr den Berufsfeldbezogenen Unterricht in Fachtherie und Fachpraxis berechnen.
 
 Im folgenden Kapitel beschreiben wir Ihnen die Vorgehensweise.
 
@@ -22,7 +22,7 @@ Bitte legen Sie unter `Schlüsselverzeichnisse > Verordnungen` eine neue Zeile a
 | Kategorie    | Versetzung                               |
 | Typ          | leer                                     |
 | Ab Jahrgang  | leer                                     |
-| Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server) hier _BER-IBA-HJ-2020.dws_ |
+| Skript       | `...\Ihre Region\Ihr_Skript.dws` (Pfad zur Skriptdatei auf Ihrem Server) hier _BER-IBA-HJ-2020.dws_ |
 | Notenart 11  | leer                                     |
 | Notenart 12  | leer                                     |
 | Notenart 13  | leer                                     |
