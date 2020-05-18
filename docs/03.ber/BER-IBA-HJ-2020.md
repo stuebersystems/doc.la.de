@@ -67,13 +67,16 @@ Fächer des Wahlunterrichtes weisen Sie im Menü `Schüler > Zeugnis > Fächer` 
 
 Neben dem Wahlunterricht und den berufsfeldübergreifenden bzw. berufsfeldbezogenern Unterricht muss auch die Betriebliche Lernaufgabe benotet werden. Gehen Sie dafür wie folgt vor:
 
-1. Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betrieblichen Lernaufgaben an, entscheidend ist der Eintrag im Feld "Schlüssel", dieser muss wie folgt hinterlegt sein:
+* Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betrieblichen Lernaufgaben an, entscheidend ist der Eintrag im Feld "Schlüssel", dieser muss wie folgt hinterlegt sein:
 
 | Kürzel | Schlüssel | Bezeichnung       |
 |--------|-----------|-----------------|
 | LA1 (beliebig)| LA1 | Betriebliche Lernaufgabe 1 (beliebig) |
 | LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 2 (beliebig)|
 | LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 3 (beliebig)|
+
+* Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.  
+
 
 #### Noten der Fächer eingeben
 
