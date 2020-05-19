@@ -50,10 +50,10 @@ nav:
 - Überblick:
    - Einführung: index.md
 - Skripte:
-    - Alle Skripte im Überblick: skriptueberblick.md
+    - Skripte im Überblick: skriptueberblick.md
     - Oberstufenorganisation: 
       - Allgemein: oberstufenorganisation.md
-    - Die Berechnungsskripte: 
+    - Berechnungsskripte: 
         - Allgemeines: berechnungsskripte.md
         - Auslandsschulen:
           - DE-DIAP-2015: 01.de/de-diap-2015.md
@@ -146,7 +146,7 @@ nav:
           - SHL-APO-1998: 13.shl/shl-apo-1998.md
         - Thüringen:
           - THÜ-APO-1999: 14.thu/thu-apo-1999.md
-    - Die Fachwahl: 
+    - Fachwahl: 
       - Allgemeines: fachwahlen.md
       - Berlin:
         - BER-FW-APO-2017.js: 03.ber/ber-fw-2017js.md
