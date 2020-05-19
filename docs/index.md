@@ -8,6 +8,13 @@ Die überwiegenden Gemeinsamkeiten sind der Grund dafür, dass wir alle Informat
 
      Diese Dokumentation versteht sich als Ergänzung der landesspezifischen Besonderheiten zu den Standarddokumentationen für [**MAGELLAN**](https://doc.magellan7.stueber.de/) und [**DAVINCI**](https://doc.davinci6.stueber.de/).
 
+Diese Dokumentation teilt sich in zwei Bereiche:
+
+Bereiche|Informationen
+--|--
+[Skripte](https://doc.la.stueber.de/skriptueberblick/)|Dieser Bereich teilt sich in die Unterbereiche
+Berichte| Dieser Bereich ist derzeit noch im Aufbau. Allgemeine Formulare, die Zeugnisformulare und deren Anwendung werden aktuell im Modul `MAGELLAN-Berichte` beschrieben, das Sie nach der Installation unter `Start > Programme > STÜBER SYSTEMS` finden.
+
 ## Allgemeines
 
 Allgemeine Formulare, die Zeugnisformulare und deren Anwendung werden im Modul `MAGELLAN-Berichte` beschrieben, das Sie nach der Installation unter `Start > Programme > STÜBER SYSTEMS` finden.

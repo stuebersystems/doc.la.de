@@ -209,5 +209,33 @@ nav:
         - CH-Promotion (KFM-Profil-E 2012).dws: 15.ch/ch-promotion_kfm-profil-e_2012dws.md
         - CH-Promotion (KFM-Profil-E 2003).dws: 15.ch/ch-promotion_kfm-profil-e_2003dws.md
 - Berichte:
-    - Berlin: 
-        - Zeugnsi1: berichte/03.ber/ber-zeugnis.md
+    - Allgemeines: berichte.md
+    - Zeugnisse:
+        - Auslandsschulen:
+          - DE-DIAP-2015:
+        - Baden-Württemberg:
+          - BAW-APO-2010-G9: 0
+        - Berlin:
+          - BER-APO-2017:
+        - Bremen:
+          - BRE-APO-2010: 
+        - Hessen:
+          - HES-APO-2015: 
+        - Mecklenburg-Vorpommern:
+          - MVP-APO-FG-2017:
+        - Niedersachsen:
+          - NIE-APO-G9-2016:
+        - Nordrhein-Westfalen:
+          - NRW-APO-2012: 
+        - Rheinland-Pfalz:
+          - RLP-APO-2014: 
+        - Sachsen-Anhalt:
+          - SAA-APO-1999: 
+        - Sachsen:
+          - SAC-APO-1996: 
+        - Saarland:
+          - SAR-APO-2018:
+        - Schleswig-Holstein:
+          - SHL-APO-2018: 
+        - Thüringen:
+          - THÜ-APO-1999: 
