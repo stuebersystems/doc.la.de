@@ -36,7 +36,7 @@ Bitte legen Sie unter `Schlüsselverzeichnisse > Verordnungen` eine neue Zeile a
 
     Das Skript BER-IBA-HJ-2020.dws wird im Menü `Schüler > Zeugnis > Leistungen` ausgeführt und muss im `Schlüsselverzeichnis > Verordnung` mit der Kategorie „Versetzung“ angelegt werden.
 
-![Verzeichnis Verordnungen](/assets/images/IBA/IBA01.png)
+![Verzeichnis Verordnungen](..\assets\images\IBA\IBA01.png)
 
 ### Fächer zuweisen
 
@@ -84,7 +84,7 @@ Die Halbjahresnoten der Fächer erfassen Sie im Menü `Schüler > Zeugnis > Leis
 
 Für die automatische Berechnung der Gesamtnote der Fachtheorie und Fachpraxis werden die Noten der Fächer mit der Unterrichtsart "FachT" und "FachP" im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" herangezogen. 
 
-![Schüler > Zeugnis > Leistungen](/assets/images/IBA/IBA02.png)
+![Schüler > Zeugnis > Leistungen](..\assets\images\IBA\IBA02.png)
 
 ### Gesamtnotenberechnung Fachtheorie und Fachpraxis ausführen
 
@@ -101,4 +101,4 @@ Durch die Berechnung werden automatisch folgende Felder befüllt:
 Durchschnitte 1 | Fachtheorie - gesamt|
 Durchschnitte 2 | Fachtpraxis - gesamt|
 
-![Berechnung](/assets/images/IBA/IBA03.png)
+![Berechnung](..\assets\images\IBA\IBA03.png)
