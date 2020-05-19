@@ -178,5 +178,7 @@ Kürzel | Schlüssel | Bezeichnung | Bereich
 beliebig (IHK) | leer | Industrie- und Handelskammer | Merkmal A6
 beliebig (HK) | leer | Handwerkskammer | Merkmal A6
 
+#### Prüfdatum vor der Kammer
+
 Das "Prüfdatum" vor der Kammer tragen Sie im entsprechenden Zeitraum im Menü `Schüler > Merkmale` im Feld "Merkmal D4" ein.
 Die Merkmale D1-D4 können per Sammelzuweisung den Schüler zugewiesen werden. (Sammelzuweisung Stammdaten)
