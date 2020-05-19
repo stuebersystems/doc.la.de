@@ -1,7 +1,6 @@
 # DE-MSA-2019.dws
 
-Innerhalb eines Zeitraums kann mit Hilfe des Berechnungsskriptes _DE-MSA-2019.dws_
-der Notendurchschnitt für Auslandsschulen gemäß Ordnung für den Abschluss der Sekundarstufe I an Deutschen Schulen im Ausland vom 16.03.2017 ermittelt werden.
+Innerhalb eines Zeitraums kann mit Hilfe des Berechnungsskriptes _DE-MSA-2019.dws_ der Notendurchschnitt für Auslandsschulen gemäß Ordnung für den Abschluss der Sekundarstufe I an Deutschen Schulen im Ausland vom 16.03.2017 ermittelt werden.
 
 ## Vorbereitungen
 
@@ -13,7 +12,7 @@ Zur Berechnung des Notendurchschnittes gehen Sie bitte wie folgt vor:
 
 ### 1. Berechnungsverordnung definieren
 
-Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten.
+Bitte legen Sie unter ```Schlüsselverzeichnis > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten.
 
 |Spalte|Wert|
 |--|--|
@@ -32,23 +31,23 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 
 !!! warning "Wichtig"
 
-    Das Skript DE-MSA-2019.dws wird im Menü ```Schüler > Zeugnis > Leistungen``` ausgeführt und muss im Verzeichnis ``Verordnung`` mit der Kategorie „Versetzung“ angelegt werden.
+    Das Skript DE-MSA-2019.dws wird im Menü `Schüler > Zeugnis > Leistungen` ausgeführt und muss im Schlüsselverzeichnis > Verordnungen mit der Kategorie „Versetzung“ angelegt werden.
 
 #### 2. Noten zur Berechnung eingeben
 
-Um die Berechnung durchführen zu können, müssen Sie zunächst die Noten der Schüler unter  ``Schüler > Zeugnis > Leistungen`` im Feld "Endnote" eintragen.
+Um die Berechnung durchführen zu können, müssen Sie zunächst die Noten der Schüler unter  `Schüler > Zeugnis > Leistungen` im Feld "Endnote" eintragen.
 
 |Spalte |Bedeutung|
 |--|--|
 |Endnote |Jahrgangsnoten der Fächer|
 
-![Leistungen im Feld `Endnote` erfassen](/assets/images/6.5.33_04.png)
+![Leistungen im Feld `Endnote` erfassen](../assets/images/6.5.33_04.png)
 
 #### 3. Berechnung ausführen
 
-Markieren Sie für den Schüler unter ``Schüler > Zeugnis > Leistungen`` das Optionsfeld ``Durchschnitt einblenden``. Auf der rechten Seite der Registerkarte erscheint nun eine zusätzliche Leiste.
+Markieren Sie für den Schüler unter `Schüler > Zeugnis > Leistungen` das Optionsfeld `Durchschnitt einblenden`. Auf der rechten Seite der Registerkarte erscheint nun eine zusätzliche Leiste.
 
-Geben Sie unter Prüfungsordnung die gewünschte Prüfungsordnung (basierend auf dem Skript DE-MSA-2019.dws) zur Versetzung an. Klicken Sie auf ``Neu`` berechnen, um die Daten automatisch durch das entsprechende Skript berechnen zu lassen.
+Geben Sie unter Prüfungsordnung die gewünschte Prüfungsordnung (basierend auf dem Skript DE-MSA-2019.dws) zur Versetzung an. Klicken Sie auf ``Neu berechnen` berechnen, um die Daten automatisch durch das entsprechende Skript berechnen zu lassen.
 
 Durch die Berechnung wird automatisch folgendes Feld befüllt:
 
