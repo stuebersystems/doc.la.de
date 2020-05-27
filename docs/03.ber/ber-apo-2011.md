@@ -106,3 +106,14 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 |4PFBLL|4PFBLL|4. Prüfungsfach und besondere Lernleistung|
 |BLL|BLL|5.Prüfungskomponente besondere Lernleistung|
 |PRS|PRS|5. Prüfungskomponente Präsentationsprüfung|
+
+## Sport als 4.Prüfungsfach
+
+Der Schüler belegt die folgenden Fächer:
+
+Fach | Fachkategorie | Aufgabenbereich | Fachstatus
+--|--|--|--
+Sport | Sport | Sport | 4.PF (siehe Beschreibung im Abschnitt Fachstatus)
+Sport-Theorie|Sport-Theorie | Sport | -
+
+Für die Berechnung des Ergebnisses berücksichtigt das Skript das Ergebnis des letzten Halbjahres auf der Karte `Abitur > Qualifikation` für das Fach `Sport-Theorie` und für das Fach `Sport` die Eingabe unter `Abitur > Prüfungen > 4.PF` wahlweise in den Spalten `schriftliche Prüfung` oder `mündliche Prüfung`.
