@@ -116,4 +116,7 @@ Fach | Fachkategorie | Aufgabenbereich | Fachstatus
 Sport | Sport | Sport | 4.PF (siehe Beschreibung im Abschnitt Fachstatus)
 Sport-Theorie|Sport-Theorie | Sport | -
 
-Für die Berechnung des Ergebnisses berücksichtigt das Skript das Ergebnis des letzten Halbjahres auf der Karte `Abitur > Qualifikation` für das Fach `Sport-Theorie` und für das Fach `Sport` die Eingabe unter `Abitur > Prüfungen > 4.PF` wahlweise in den Spalten `schriftliche Prüfung` oder `mündliche Prüfung`.
+Für die Berechnung des Ergebnisses berücksichtigt das Skript: 
+
+* Für das Fach Sport-Theorie: das Ergebnis des letzten Halbjahres auf der Karte `Abitur > Qualifikation` 
+* Für das Fach `Sport` die Eingabe unter `Abitur > Prüfungen > 4.PF` wahlweise in den Spalten `schriftliche Prüfung` oder `mündliche Prüfung`
