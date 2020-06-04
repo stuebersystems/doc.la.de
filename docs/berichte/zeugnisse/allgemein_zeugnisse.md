@@ -395,8 +395,6 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers de
 
 ## Zeugnisliste (Schuljahr).rpt
 
-#### Beschreibung
-
 Zeugnisliste über zwei Schulhalbjahre
 
 **(A0009)** Schueler > Zeugnis > Details > Zeugniskonferenz am
