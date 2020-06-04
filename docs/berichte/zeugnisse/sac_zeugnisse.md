@@ -16,7 +16,7 @@ BerufS | BerufS | Berufsbezogener Lernbereich
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
-Pflicht      <--->         Pflicht        <--->      Berufsübergreifender Bereich
+Pflicht|Pflicht  | Berufsübergreifender Bereich
 
 **(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
 
@@ -82,7 +82,7 @@ FachP | FachP | Fachpraktischer Bereich (Unterricht)
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
-Pflicht      <--->         Pflicht        <--->      Berufsübergreifender Bereich
+Pflicht|Pflicht  | Berufsübergreifender Bereich
 
 **(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
 
@@ -162,7 +162,7 @@ Die Anzahl der Wochen für das Praktikum bzw. für die  Berufspraktische/Praktis
 Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü Lehrer zurück.
 
 **(A0433)** Schüler > Laufbahn > Abschluss
-----------------------------------------------------------
+
 Tragen Sie im Menü Schüler > Laufbahn > Abschluss die Abschlussbezeichnung im Feld „Abschluss 1“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Abschlüsse (Intern).
 
 Entscheidend ist der Eintrag in Spalte "Bezeichnung".
@@ -569,7 +569,8 @@ Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, 
 
 Im Schlüsselverzeichnis > Fächer legen Sie ein beliebiges Fach an  (z.B. Fachgespräch). Dieses Fach weisen Sie dem Schüler im Menü Schüler > Zeugnis > Fächer zu, zusätzlich erhält dieses Fach im Feld "Fachstatus" den Eintrag "Praktikum". Grundlage bildet das Schlüsselverzeichnis > Fachstatus. Beachten Sie dazu A0015 und A0015.77 (für Praktikum). 
 
-**(A0602)** Abitur > Zeugnisbemerkungen
+**(A0602)** 
+Abitur > Zeugnisbemerkungen
 Schüler > Zeugnis > Bemerkungen / Formulare
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
@@ -671,7 +672,8 @@ Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
+**(A0602)** 
+Abitur > Zeugnisbemerkungen
 Schüler > Zeugnis > Bemerkungen / Formulare
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
@@ -734,7 +736,7 @@ FachP | FachP | Fachpraktischer Bereich (Unterricht)
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
-Pflicht      <--->         Pflicht        <--->      Berufsübergreifender Bereich
+Pflicht|Pflicht  | Berufsübergreifender Bereich
 
 **(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
 
@@ -911,14 +913,14 @@ Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt 
 
 Um Text und Noten den jeweiligen Fächer zuzuordnen, verwenden Sie für die Fächer folgende Kürzel:
 
-Fach | Kürzel                          
+Fach | Kürzel   
 --|--
 Sozial-, Lern- und Arbeitsverhalten | LernSozV
-Religion/Ethik | RelEth                         
-Deutsch/Sachunterricht | DeuSach                             
-Mathematik | Mathe                          
-Geometrie | Geometr                      
-Musik/Sport/Bildene Kunst/Textiles Gestalten/Werken | BKTGWe                     
+Religion/Ethik | RelEth  
+Deutsch/Sachunterricht | DeuSach  
+Mathematik | Mathe   
+Geometrie | Geometr    
+Musik/Sport/Bildene Kunst/Textiles Gestalten/Werken | BKTGWe   
 
 Die Beurteilungstexte tragen Sie im Menü Schüler > Zeugnis > Leistungen im Feld "Beurteilung" ein. Beachten Sie dabei A0001.
 
@@ -2587,7 +2589,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 <<Nachname>>  |  Nachname des Schülers
 <<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
 <<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
+<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**
 <<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
 <<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
 <<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
@@ -2982,7 +2984,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 <<Nachname>>  |  Nachname des Schülers
 <<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
 <<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
+<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**
 <<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
 <<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
 <<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
@@ -3101,7 +3103,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 <<Nachname>>  |  Nachname des Schülers
 <<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
 <<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
+<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**
 <<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
 <<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
 <<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
@@ -3347,7 +3349,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 <<Nachname>>  |  Nachname des Schülers
 <<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
 <<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
+<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**
 <<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
 <<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
 <<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
@@ -3450,7 +3452,7 @@ Die Anzahl der Wochen für das Praktikum bzw. für die  Berufspraktische/Praktis
 Das "Berufsfeld" der Klasse tragen Sie im Klassen > Merkmale im Feld "Merkmal A1" ein. Grundlage bildet das Schlüsselverzeichnis > Merkmale (Klassen). Hier ist in der Spalte „Bereich“ der Wert  „Merkmal A1“ zuzuweisen.
 
 **(A0433)** Schüler > Laufbahn > Abschluss
-----------------------------------------------------------
+
 Tragen Sie im Menü Schüler > Laufbahn > Abschluss die Abschlussbezeichnung im Feld „Abschluss 1“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Abschlüsse (Intern).
 
 Entscheidend ist der Eintrag in Spalte "Bezeichnung".
@@ -4178,7 +4180,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 <<Nachname>>  |  Nachname des Schülers
 <<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
 <<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
+<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**
 <<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
 <<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
 <<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
@@ -5335,7 +5337,7 @@ Den ersten Berufsbereich weisen Sie unter Klassen > Merkmale >Merkmal A1, den zw
 Die Anzahl der Wochen für das Praktikum bzw. für die  Berufspraktische/Praktische Ausbildung weisen Sie einem Fach "Praktikum" bzw.  "Berufspraktische/Praktische Ausbildung" im Menü Schüler > Zeugnis > Fächer im Feld "Merkmal" zu. Beachten Sie dabei A0015.77 (für Praktikum)** bzw. A0015.80 (für  Berufspraktische/Praktische Ausbildung).
 
 **(A0433)** Schüler > Laufbahn > Abschluss
-----------------------------------------------------------
+
 Tragen Sie im Menü Schüler > Laufbahn > Abschluss die Abschlussbezeichnung im Feld „Abschluss 1“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Abschlüsse (Intern).
 
 Entscheidend ist der Eintrag in Spalte "Bezeichnung".
@@ -5456,7 +5458,7 @@ Den ersten Berufsbereich weisen Sie unter Klassen > Merkmale >Merkmal A1, den zw
 Die Anzahl der Wochen für das Praktikum bzw. für die  Berufspraktische/Praktische Ausbildung weisen Sie einem Fach "Praktikum" bzw.  "Berufspraktische/Praktische Ausbildung" im Menü Schüler > Zeugnis > Fächer im Feld "Merkmal" zu. Beachten Sie dabei A0015.77 (für Praktikum)** bzw. A0015.80 (für  Berufspraktische/Praktische Ausbildung).
 
 **(A0433)** Schüler > Laufbahn > Abschluss
-----------------------------------------------------------
+
 Tragen Sie im Menü Schüler > Laufbahn > Abschluss die Abschlussbezeichnung im Feld „Abschluss 1“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Abschlüsse (Intern).
 
 Entscheidend ist der Eintrag in Spalte "Bezeichnung".
@@ -5891,7 +5893,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 <<Nachname>>  |  Nachname des Schülers
 <<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
 <<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
+<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**
 <<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
 <<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
 <<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
@@ -6231,7 +6233,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 <<Nachname>>  |  Nachname des Schülers
 <<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
 <<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
+<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**
 <<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
 <<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
 <<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
@@ -6642,16 +6644,16 @@ BerufS | BerufS | Berufsbezogener Lernbereich
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
-K1                 <--->      K1                   <--->        Lernfeld KOMPLEXPRÜFUNG 1
-K2                 <--->      K2                   <--->        Lernfeld KOMPLEXPRÜFUNG 2
-K3                 <--->      K3                   <--->        Lernfeld KOMPLEXPRÜFUNG 3
-K4                 <--->      K4                   <--->        Lernfeld KOMPLEXPRÜFUNG 4
+K1  | K1|   Lernfeld KOMPLEXPRÜFUNG 1
+K2  | K2|   Lernfeld KOMPLEXPRÜFUNG 2
+K3  | K3|   Lernfeld KOMPLEXPRÜFUNG 3
+K4  | K4|   Lernfeld KOMPLEXPRÜFUNG 4
 
 **(A0015.94)** 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
-Pflicht      <--->         Pflicht        <--->      Berufsübergreifender Bereich
+Pflicht|Pflicht  | Berufsübergreifender Bereich
 
 **(A0018)** Schueler >Daten 2 > Zugang am und/oder Abgang am
 
@@ -6923,7 +6925,7 @@ FHReife | FHReife| Zusatzausbildung zum Erwerb der Fachhochschulreife
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
-Pflicht      <--->         Pflicht        <--->      Berufsübergreifender Bereich
+Pflicht|Pflicht  | Berufsübergreifender Bereich
 
 **(A0018)** Schueler >Daten 2 > Zugang am und/oder Abgang am
 
@@ -7005,16 +7007,16 @@ FHReife | FHReife| Zusatzausbildung zum Erwerb der Fachhochschulreife
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
-K1                 <--->      K1                   <--->        Lernfeld KOMPLEXPRÜFUNG 1
-K2                 <--->      K2                   <--->        Lernfeld KOMPLEXPRÜFUNG 2
-K3                 <--->      K3                   <--->        Lernfeld KOMPLEXPRÜFUNG 3
-K4                 <--->      K4                   <--->        Lernfeld KOMPLEXPRÜFUNG 4
+K1  | K1|   Lernfeld KOMPLEXPRÜFUNG 1
+K2  | K2|   Lernfeld KOMPLEXPRÜFUNG 2
+K3  | K3|   Lernfeld KOMPLEXPRÜFUNG 3
+K4  | K4|   Lernfeld KOMPLEXPRÜFUNG 4
 
 **(A0015.94)** 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
-Pflicht      <--->         Pflicht        <--->      Berufsübergreifender Bereich
+Pflicht|Pflicht  | Berufsübergreifender Bereich
 
 **(A0018)** Schueler >Daten 2 > Zugang am und/oder Abgang am
 
@@ -7206,16 +7208,16 @@ BerufS | BerufS | Berufsbezogener Lernbereich
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
-K1                 <--->      K1                   <--->        Lernfeld KOMPLEXPRÜFUNG 1
-K2                 <--->      K2                   <--->        Lernfeld KOMPLEXPRÜFUNG 2
-K3                 <--->      K3                   <--->        Lernfeld KOMPLEXPRÜFUNG 3
-K4                 <--->      K4                   <--->        Lernfeld KOMPLEXPRÜFUNG 4
+K1  | K1|   Lernfeld KOMPLEXPRÜFUNG 1
+K2  | K2|   Lernfeld KOMPLEXPRÜFUNG 2
+K3  | K3|   Lernfeld KOMPLEXPRÜFUNG 3
+K4  | K4|   Lernfeld KOMPLEXPRÜFUNG 4
 
 **(A0015.94)** 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
-Pflicht      <--->         Pflicht        <--->      Berufsübergreifender Bereich
+Pflicht|Pflicht  | Berufsübergreifender Bereich
 
 **(A0018)** Schueler >Daten 2 > Zugang am und/oder Abgang am
 
@@ -7309,7 +7311,7 @@ BerufS | BerufS | Berufsbezogener Lernbereich
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
-Pflicht      <--->         Pflicht        <--->      Berufsübergreifender Bereich
+Pflicht|Pflicht  | Berufsübergreifender Bereich
 
 **(A0018)** Schueler >Daten 2 > Zugang am und/oder Abgang am
 
@@ -7630,7 +7632,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 <<Nachname>>  |  Nachname des Schülers
 <<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
 <<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
+<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**
 <<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
 <<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
 <<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 

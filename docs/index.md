@@ -13,7 +13,7 @@ Diese Dokumentation teilt sich in zwei Bereiche:
 Bereiche|Informationen
 --|--
 [Skripte](https://doc.la.stueber.de/skriptueberblick/)|Dieser Bereich teilt sich in die Unterbereiche
-Berichte| Dieser Bereich ist derzeit noch im Aufbau. Allgemeine Formulare, die Zeugnisformulare und deren Anwendung werden aktuell im Modul `MAGELLAN-Berichte` beschrieben, das Sie nach der Installation unter `Start > Programme > STÜBER SYSTEMS` finden.
+[Berichte](https://doc.la.stueber.de/berichte/01_uebersicht/)| Dieser Bereich listet für die Berichte (Zeugnisse, Listen usw) der Auslieferung die notwendigen Eingaben auf.
 
 ## Allgemeines
 
