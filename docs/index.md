@@ -8,7 +8,7 @@ Die überwiegenden Gemeinsamkeiten sind der Grund dafür, dass wir alle Informat
 
      Diese Dokumentation versteht sich als Ergänzung der landesspezifischen Besonderheiten zu den Standarddokumentationen für [**MAGELLAN**](https://doc.magellan7.stueber.de/) und [**DAVINCI**](https://doc.davinci6.stueber.de/).
 
-Diese Dokumentation teilt sich in zwei Bereiche:<br/><br/>- Skripte im Überblick<br/>- Oberstufenorganisation<br/>- Berechnungsskripte<br/>- Fachwahl<br/>- Mittelstufe<br/>- Berufsschule<br/>- Durchschnitte, MSA und Abschlüsse
+Diese Dokumentation teilt sich in zwei Bereiche:
 
 Bereiche|Informationen
 --|--

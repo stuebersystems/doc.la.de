@@ -210,5 +210,37 @@ nav:
         - CH-Promotion (KFM-Profil-E 2012).dws: 15.ch/ch-promotion_kfm-profil-e_2012dws.md
         - CH-Promotion (KFM-Profil-E 2003).dws: 15.ch/ch-promotion_kfm-profil-e_2003dws.md
 - Berichte:
-  - Zeugnisse:
-    - Berlin: berichte/zeugnisse/ber_uebersicht.md
+    - Übersicht: berichte/01_uebersicht.md
+    - Menü Schüler: berichte/02_schueler.md
+    - Menü Bewerber: berichte/03_bewerber.md
+    - Menü Klassen: 
+      - Klassenberichte: berichte/04.01_klassen.md
+      - Kurslisten: berichte/04.02_kurslisten.md
+    - Menü Lehrer: berichte/05_lehrer.md
+    - Menü Mandanten: berichte/06_mandanten.md
+    - Menü Personen: berichte/07_personen.md
+    - Menü Sorgeberechtigte: berichte/08_sorgeberechtigte.md
+    - Menü Betriebe: berichte/09_betriebe.md
+    - Menü Schulen: berichte/10_schulen.md
+    - Menü Adressen: berichte/11_adressen.md
+    - Bibliothek:
+      - Quittungen: berichte/12_quittungen.md
+      - Medien: berichte/13_medien.md
+      - Medienvorgänge: berichte/14_medienvorgaenge.md
+      - Medienausleiher: berichte/15_medienausleiher.md
+    - Zeugnisse: 
+      - Allgemeine: berichte/zeugnisse/allgemein_zeugnisse.md
+      - Prüfungslisten: berichte/zeugnisse/pruefungslisten.md
+      - Ausland: berichte/zeugnisse/das_zeugnisse.md
+      - BAW: berichte/zeugnisse/baw_zeugnisse.md
+      - BER: berichte/zeugnisse/ber_zeugnisse.md
+      - BRA: berichte/zeugnisse/bra_zeugnisse.md
+      - MVP: berichte/zeugnisse/mvp_zeugnisse.md
+      - NIE: berichte/zeugnisse/nie_zeugnisse.md
+      - NRW: berichte/zeugnisse/nrw_zeugnisse.md
+      - RLP: berichte/zeugnisse/rlp_zeugnisse.md
+      - SAA: berichte/zeugnisse/saa_zeugnisse.md
+      - SAC: berichte/zeugnisse/sac_zeugnisse.md
+      - SAR: berichte/zeugnisse/sar_zeugnisse.md
+      - SHL: berichte/zeugnisse/shl_zeugnisse.md
+      - THU: berichte/zeugnisse/thu_zeugnisse.md
