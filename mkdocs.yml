@@ -212,6 +212,22 @@ nav:
         - CH-Promotion (KFM-Profil-E 2003).dws: 15.ch/ch-promotion_kfm-profil-e_2003dws.md
 - Berichte:
     - Übersicht: berichte/01_uebersicht.md
+    - Zeugnisse: 
+      - Allgemeine: berichte/zeugnisse/allgemein_zeugnisse.md
+      - Prüfungslisten: berichte/zeugnisse/pruefungslisten.md
+      - Ausland: berichte/zeugnisse/das_zeugnisse.md
+      - BAW: berichte/zeugnisse/baw_zeugnisse.md
+      - BER: berichte/zeugnisse/ber_zeugnisse.md
+      - BRA: berichte/zeugnisse/bra_zeugnisse.md
+      - MVP: berichte/zeugnisse/mvp_zeugnisse.md
+      - NIE: berichte/zeugnisse/nie_zeugnisse.md
+      - NRW: berichte/zeugnisse/nrw_zeugnisse.md
+      - RLP: berichte/zeugnisse/rlp_zeugnisse.md
+      - SAA: berichte/zeugnisse/saa_zeugnisse.md
+      - SAC: berichte/zeugnisse/sac_zeugnisse.md
+      - SAR: berichte/zeugnisse/sar_zeugnisse.md
+      - SHL: berichte/zeugnisse/shl_zeugnisse.md
+      - THU: berichte/zeugnisse/thu_zeugnisse.md
     - Menü Schüler: berichte/02_schueler.md
     - Menü Bewerber: berichte/03_bewerber.md
     - Menü Klassen: 
@@ -229,19 +245,3 @@ nav:
       - Medien: berichte/13_medien.md
       - Medienvorgänge: berichte/14_medienvorgaenge.md
       - Medienausleiher: berichte/15_medienausleiher.md
-    - Zeugnisse: 
-      - Allgemeine: berichte/zeugnisse/allgemein_zeugnisse.md
-      - Prüfungslisten: berichte/zeugnisse/pruefungslisten.md
-      - Ausland: berichte/zeugnisse/das_zeugnisse.md
-      - BAW: berichte/zeugnisse/baw_zeugnisse.md
-      - BER: berichte/zeugnisse/ber_zeugnisse.md
-      - BRA: berichte/zeugnisse/bra_zeugnisse.md
-      - MVP: berichte/zeugnisse/mvp_zeugnisse.md
-      - NIE: berichte/zeugnisse/nie_zeugnisse.md
-      - NRW: berichte/zeugnisse/nrw_zeugnisse.md
-      - RLP: berichte/zeugnisse/rlp_zeugnisse.md
-      - SAA: berichte/zeugnisse/saa_zeugnisse.md
-      - SAC: berichte/zeugnisse/sac_zeugnisse.md
-      - SAR: berichte/zeugnisse/sar_zeugnisse.md
-      - SHL: berichte/zeugnisse/shl_zeugnisse.md
-      - THU: berichte/zeugnisse/thu_zeugnisse.md
