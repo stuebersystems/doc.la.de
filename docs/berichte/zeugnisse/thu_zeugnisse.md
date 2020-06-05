@@ -9,7 +9,7 @@ Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.2)** 
 
-Kürzel |  Schlüssel | Bezeichnung	
+Kürzel |  Schlüssel | Bezeichnung
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
 WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht

@@ -6,4 +6,3 @@ Nachfolgend sind erforderliche Eintragungen für die Berichte unter `MAGELLAN > 
 
 Schulen mit Adressen
 
-

@@ -14,12 +14,9 @@
 
 ## Medienliste (Inventur).rpt
 
-
-
 **(A0534)** MAGELLAN BIBLIOTHEK > Bücher / Medien > Berichte drucken
 
 Der Bericht muss aus dem Programm MAGELLAN BIBLIOTHEK aus dem Menü Bücher / Medien gedruckt werden.
-
 
 ## Medienliste (mit Exemplaren).rpt
 

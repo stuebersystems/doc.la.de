@@ -4,31 +4,23 @@ Nachfolgend sind erforderliche Eintragungen für die Berichte unter `MAGELLAN > 
 
 ## Anwesenheitsliste Lehrer (Monat).rpt
 
-
-
 **(A0302)** Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü „Lehrer“ gedruckt werden.
-
 
 ## Gesamtliste Lehrer (Adressen).rpt
 
 Liste aller vorhandenen Lehrer
 
-
 ## Lehrer (Personalhandkarte).rpt
-
-
 
 **(A0302)** Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü „Lehrer“ gedruckt werden.
 
-
 **(A0362)** Lehrer > Daten 1 > Anrede
 
 Weisen Sie die Anrede des Lehrers im Menü Lehrer > Daten 1 im Feld "Anrede" zu.
-
 
 **(A0522)** Lehrer > Drucken > Berichte drucken... > Lehrer (Personalhandkarte).rpt
 
@@ -62,59 +54,37 @@ Merkmal A2 | beim Oberschulamt
 Merkmal A3 | Ihre Schule
 Merkmal A4 | Sonstiges
 
-
 ## Lehrerliste (Email und Funktion 1-8).rpt
-
-
 
 **(A0302)** Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü „Lehrer“ gedruckt werden.
-
 
 ## Lehrerliste mit Adressen.rpt
 
-
-
 Lehrer mit Adressen 
-
 
 ## Lehrerliste mit Fächer.rpt
 
-
-
 Lehrer mit Lehrämtern 
-
 
 ## Lehrerliste mit Geburtstagen.rpt
 
-
-
 Lehrer mit Geburtsdatum 
-
 
 ## Lehrerstammblatt mit Passfoto.rpt
 
-
-
 Stammdaten der Lehrer mit Passfoto 
-
 
 ## Lehrerstammblatt.rpt
 
-
-
 Stammdaten der Lehrer
 
-
 ## RLP - Lehrer (Abwesenheitsblatt).rpt
-
-
 
 **(A0302)** Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü „Lehrer“ gedruckt werden.
-
 
 **(A0310)** Schlüsselverzeichnisse > Fehlgründe (Lehrer)
 
@@ -131,22 +101,17 @@ Kürzel | Schlüssel | Bezeichnung
 7 | 7 | Persönlich begründet
 8 | 8 | Ohne Genehmigung
 
-
 **(A0309)** Sonstiges
 
 Im Bericht werden alle Fehlzeiten der ausgewählten Lehrer für ein Kalenderjahr ausgegeben. Maßgeblich für die Auswahl des Kalenderjahres ist das Jahr im Feld "Von" im Schlüsselverteichnis Zeiträume.
 
 Ein Beispiel: Wählen Sie einen Zeitraum, der mit dem  Von-Datum 01.08.2009 startet, werden im Bericht alle Fehlzeiten für das Jahr 2009 ausgegeben.
 
-
 ## RLP - Lehrer (Abwesenheitsstatistik nur Krank).rpt
-
-
 
 **(A0302)** Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü „Lehrer“ gedruckt werden.
-
 
 **(A0314)** Schlüsselverzeichnisse > Fehlgründe (Lehrer)
 
@@ -156,9 +121,7 @@ Kürzel | Schlüssel | Bezeichnung
 --|--|--
 1 | 1 | Krankheit
 
-
 **(A0313)** Weisen Sie die Fehlzeiten des Lehrers im Menu "Lehrer|Bearbeiten|Fehlzeiten" zu.
-
 
 **(A0315)** Lehrer > Daten 2 > Besoldung
 
@@ -172,15 +135,11 @@ GD | GD | Gehobener Dienst
 
 Die Besoldung weisen Sie im Menü Lehrer > Daten 2 im Feld "Besoldung" zu.
 
-
 ## RLP - Lehrer (Abwesenheitsstatistik).rpt
-
-
 
 **(A0302)** Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü „Lehrer“ gedruckt werden.
-
 
 **(A0310)** Schlüsselverzeichnisse > Fehlgründe (Lehrer)
 
@@ -197,7 +156,5 @@ Kürzel | Schlüssel | Bezeichnung
 7 | 7 | Persönlich begründet
 8 | 8 | Ohne Genehmigung
 
-
 **(A0313)** Weisen Sie die Fehlzeiten des Lehrers im Menu "Lehrer|Bearbeiten|Fehlzeiten" zu.
-
 

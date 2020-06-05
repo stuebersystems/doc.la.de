@@ -4,8 +4,5 @@ Nachfolgend sind erforderliche Eintragungen für die Berichte unter `MAGELLAN > 
 
 ## Personenliste mit Adressen.rpt
 
-
-
 Personen mit Adressen
-
 
