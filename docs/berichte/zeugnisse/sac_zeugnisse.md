@@ -1129,6 +1129,7 @@ Die Anzahl der Wochen für das Praktikum bzw. für die  Berufspraktische/Praktis
 Für die Ausgabe des Praktikums bzw. der Berufspraktischen Ausbildung legen Sie im Schlüsselverzeichnis > Fächer ein entsprechendes Fach an.
 
 Bsp. für mögliche Fächer:
+
 - Berufspraktische Ausbildung
 - Betriebspraktikum
 - Betriebspraktikum in pflegerischen und/oder sozialen Einrichtungen
@@ -2163,7 +2164,7 @@ t90 | 90 Tage
 h3600 | 3600 Stunden
 
 **(A0429)** Schüler > Laufbahn > Wiederholungsart
-----------------------------------------------------------
+
 Die "Wiederholungsart" tragen Sie im Menü Schüler > Laufbahn im Feld "Wiederholungsart" ein. Grundlage bildet das Schlüsselverzeichnis > Wiederholungsarten. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
 
 Kürzel | Schlüssel | Bezeichnung
@@ -6171,7 +6172,7 @@ oB | ohne Bewertung | Füllwerte
 Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
 
 **(A0429)** Schüler > Laufbahn > Wiederholungsart
-----------------------------------------------------------
+
 Die "Wiederholungsart" tragen Sie im Menü Schüler > Laufbahn im Feld "Wiederholungsart" ein. Grundlage bildet das Schlüsselverzeichnis > Wiederholungsarten. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
 
 Kürzel | Schlüssel | Bezeichnung
@@ -6182,7 +6183,7 @@ Whmögl | leer | Wiederholung möglich
 Whnmögl | leer  | Wiederholung nicht möglich
 
 **(A0430)** Klassen > Zeiträume > Zeitraum > Klassenstufe
-----------------------------------------------------------
+
 Versetzungsvermerke: 
 Die Klassenstufe 11 bzw. 12 muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume > Zeitraum im Feld „Klassenstufe“ eingetragen sein! (siehe A0012)
 
@@ -7874,7 +7875,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
 
 **(A0429)** Schüler > Laufbahn > Wiederholungsart
-----------------------------------------------------------
+
 Die "Wiederholungsart" tragen Sie im Menü Schüler > Laufbahn im Feld "Wiederholungsart" ein. Grundlage bildet das Schlüsselverzeichnis > Wiederholungsarten. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
 
 Kürzel | Schlüssel | Bezeichnung
@@ -8142,7 +8143,7 @@ oB | ohne Bewertung | Füllwerte
 Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
 
 **(A0429)** Schüler > Laufbahn > Wiederholungsart
-----------------------------------------------------------
+
 Die "Wiederholungsart" tragen Sie im Menü Schüler > Laufbahn im Feld "Wiederholungsart" ein. Grundlage bildet das Schlüsselverzeichnis > Wiederholungsarten. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
 
 Kürzel | Schlüssel | Bezeichnung
@@ -8153,7 +8154,7 @@ Whmögl | leer | Wiederholung möglich
 Whnmögl | leer  | Wiederholung nicht möglich
 
 **(A0431)** Schüler > Laufbahn > Wiederholungsart
-----------------------------------------------------------
+
 Für den Fall, dass keine Wiederholung der Abschlussprüfung gewünscht wird, weisen Sie dem Schüler im Menü Schüler > Laufbahn im Feld "Wiederholungsart" den Wert "Whnmögl" zu. Ist eine Wiederholung der Abschlussprüfung möglich, weisen Sie "Whmögl" zu.
 
 Beachten Sie dazu das Merkmal A0329:
