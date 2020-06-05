@@ -65,8 +65,6 @@ Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfu
 
 ## SHL-GY-ABI (2015).rpt
 
-### Beschreibung
-
 bis 2018
 
 **(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
@@ -139,9 +137,9 @@ Für den Fall, dass eine Fremdsprache im 1. Halbjahr eines laufenden Schuljahres
 **(A0086)** Allgemein
 
 Um auf dem Zeugnis die besondere Lernleistung einzutragen gehen Sie wie folgt vor:
-1)** Definieren Sie ein entsprechendes Fach
-2)** Legen Sie unter Schlüsselverzeichnisse > Unterrichtsarten eine Unterrichtsart mit dem Kürzel BL an (falls nicht vorhanden)** und weisen Sie diese dem entsprechenden Fach zu
-3)** Im Schlüsselverzeichnisse > Fachschwerpunkte geben Sie in der Spalte "Bezeichnung" das Thema der besonderen Lernleistung an (falls nicht vorhanden)** und weisen Sie diese dem entsprechenden Fach zu
+1) Definieren Sie ein entsprechendes Fach
+2) Legen Sie unter Schlüsselverzeichnisse > Unterrichtsarten eine Unterrichtsart mit dem Kürzel BL an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
+3) Im Schlüsselverzeichnisse > Fachschwerpunkte geben Sie in der Spalte "Bezeichnung" das Thema der besonderen Lernleistung an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
 
 **(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
 
@@ -170,8 +168,6 @@ Besonderen Lernleistung im Block 1 | Weisen Sie im Menü Abitur > Qualifikation 
 Besonderen Lernleistung im Block 2 | Markieren Sie das Optionsfeld „Besondere Lernleistung einbringen“. Fach, Thema und Punkte notieren Sie ebenfalls im Reiter „Lernleistung“. Die erreichten Punkte tragen Sie im linken Feld ein.
 
 ## SHL-GY-ABI (2018).rpt
-
-### Beschreibung
 
 ab 2018
 
@@ -245,9 +241,9 @@ Für den Fall, dass eine Fremdsprache im 1. Halbjahr eines laufenden Schuljahres
 **(A0086)** Allgemein
 
 Um auf dem Zeugnis die besondere Lernleistung einzutragen gehen Sie wie folgt vor:
-1)** Definieren Sie ein entsprechendes Fach
-2)** Legen Sie unter Schlüsselverzeichnisse > Unterrichtsarten eine Unterrichtsart mit dem Kürzel BL an (falls nicht vorhanden)** und weisen Sie diese dem entsprechenden Fach zu
-3)** Im Schlüsselverzeichnisse > Fachschwerpunkte geben Sie in der Spalte "Bezeichnung" das Thema der besonderen Lernleistung an (falls nicht vorhanden)** und weisen Sie diese dem entsprechenden Fach zu
+1) Definieren Sie ein entsprechendes Fach
+2) Legen Sie unter Schlüsselverzeichnisse > Unterrichtsarten eine Unterrichtsart mit dem Kürzel BL an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
+3) Im Schlüsselverzeichnisse > Fachschwerpunkte geben Sie in der Spalte "Bezeichnung" das Thema der besonderen Lernleistung an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
 
 **(A0096)** Abitur > Prüfung > Sprachkenntnisse
 
@@ -413,7 +409,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 2PF | 2PF | 2. Prüfungsfach (schrifltlich)
 3PF | 3PF | 3. Prüfungsfach (schrifltlich)
 4PF | 4PF | 4. Prüfungsfach (mündlich)
-5PF | 5PF | 5. Prüfungsfach (mündlich oder schriftlich)** Pflichtbereich
+5PF | 5PF | 5. Prüfungsfach (mündlich oder schriftlich) Pflichtbereich
 
 **(A0152)** Schüler > Zeugnis > Fächer > Kurs
 
@@ -464,7 +460,7 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -523,9 +519,9 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers de
 **(A0086)** Allgemein
 
 Um auf dem Zeugnis die besondere Lernleistung einzutragen gehen Sie wie folgt vor:
-1)** Definieren Sie ein entsprechendes Fach
-2)** Legen Sie unter Schlüsselverzeichnisse > Unterrichtsarten eine Unterrichtsart mit dem Kürzel BL an (falls nicht vorhanden)** und weisen Sie diese dem entsprechenden Fach zu
-3)** Im Schlüsselverzeichnisse > Fachschwerpunkte geben Sie in der Spalte "Bezeichnung" das Thema der besonderen Lernleistung an (falls nicht vorhanden)** und weisen Sie diese dem entsprechenden Fach zu
+1) Definieren Sie ein entsprechendes Fach
+2) Legen Sie unter Schlüsselverzeichnisse > Unterrichtsarten eine Unterrichtsart mit dem Kürzel BL an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
+3) Im Schlüsselverzeichnisse > Fachschwerpunkte geben Sie in der Spalte "Bezeichnung" das Thema der besonderen Lernleistung an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
 
 **(A0096)** Abitur > Prüfung > Sprachkenntnisse
 
@@ -558,7 +554,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 2PF | 2PF | 2. Prüfungsfach (schrifltlich)
 3PF | 3PF | 3. Prüfungsfach (schrifltlich)
 4PF | 4PF | 4. Prüfungsfach (mündlich)
-5PF | 5PF | 5. Prüfungsfach (mündlich oder schriftlich)** Pflichtbereich
+5PF | 5PF | 5. Prüfungsfach (mündlich oder schriftlich) Pflichtbereich
 
 **(A0153)** Abitur > Prüfung > Prüfungsfächer
 
@@ -615,7 +611,7 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -661,9 +657,9 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers de
 **(A0086)** Allgemein
 
 Um auf dem Zeugnis die besondere Lernleistung einzutragen gehen Sie wie folgt vor:
-1)** Definieren Sie ein entsprechendes Fach
-2)** Legen Sie unter Schlüsselverzeichnisse > Unterrichtsarten eine Unterrichtsart mit dem Kürzel BL an (falls nicht vorhanden)** und weisen Sie diese dem entsprechenden Fach zu
-3)** Im Schlüsselverzeichnisse > Fachschwerpunkte geben Sie in der Spalte "Bezeichnung" das Thema der besonderen Lernleistung an (falls nicht vorhanden)** und weisen Sie diese dem entsprechenden Fach zu
+1) Definieren Sie ein entsprechendes Fach
+2) Legen Sie unter Schlüsselverzeichnisse > Unterrichtsarten eine Unterrichtsart mit dem Kürzel BL an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
+3) Im Schlüsselverzeichnisse > Fachschwerpunkte geben Sie in der Spalte "Bezeichnung" das Thema der besonderen Lernleistung an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
 
 **(A0096)** Abitur > Prüfung > Sprachkenntnisse
 
@@ -677,11 +673,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 **(A0224)** Ausdruck
 
-Der Bericht muss aus über Drucken > Bericht Drucken (Strg + P)** gedruckt werden.
+Der Bericht muss aus über Drucken > Bericht Drucken (Strg + P) gedruckt werden.
 
 ## SHL-GY-AS (Klasse 5-10)(G8).rpt
-
-### Beschreibung
 
 G8
 
@@ -713,7 +707,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.19)** Merkmal | Bedeutung
+**(A0021.19)** 
+
+Merkmal | Bedeutung
 --|--
 Lern  |  Lernverhalten
 Schule |  Sozialverhalten
@@ -773,7 +769,7 @@ Position | Fach
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
 **(A0418)** Schlüsselverzeichnisse > Zeitraum > Art
 
@@ -788,8 +784,6 @@ Die Unterschrift des Schulleiters kann individuell auf dem Zeugnis ausgegeben we
 Im Menü Mandaten > Daten 2 können Sie die Unterschrift im "jepg" Format hochladen. Damit es zu keiner Skalierung kommt beachten Sie dabei, dass Ihre Datei nach Möglichkeit 2,43 cm hoch und 6,43 cm breit sein sollte.
 
 ## SHL-GY-AS (Klasse 5-10)(G9).rpt
-
-### Beschreibung
 
 G9
 
@@ -821,7 +815,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.19)** Merkmal | Bedeutung
+**(A0021.19)** 
+
+Merkmal | Bedeutung
 --|--
 Lern  |  Lernverhalten
 Schule |  Sozialverhalten
@@ -881,7 +877,7 @@ Position | Fach
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
 **(A0418)** Schlüsselverzeichnisse > Zeitraum > Art
 
@@ -909,7 +905,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im MenüSchüler > Zeugnis >Formulare/Zeugnisbemerkungen. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren,
 die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung)** vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
 "2" usw.
 
 **(A0013)** Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
@@ -965,7 +961,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > D
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0114)** Schüler > Zeugnis > Fächer (Position)** bzw. Abitur > Qualifikation (Position)
+**(A0114)** Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
 Fach eine Position in der Spalte "Position" angegeben werden.
@@ -974,7 +970,7 @@ Fach eine Position in der Spalte "Position" angegeben werden.
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im MenüSchüler > Zeugnis >Formulare/Zeugnisbemerkungen. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren,
 die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung)** vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
 "2" usw.
 
 **(A0012)** Klassen > Zeiträume > Zeitraum > Klassenstufe
@@ -985,9 +981,9 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers di
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0168)** Schlüsselverzeichnisse > Noten > Füllerwerte
+**(A0168)** Schlüsselverzeichnisse > Noten > Füllwerte
 
-Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung))** auf dem Zeugnis auszugeben, müssen Sie unter Schlüsselverzeichnisse > Noten die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter Schlüsselverzeichnisse > Noten die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
 Kürzel | Bezeichnung | Notenart
 --|--|--
@@ -1412,7 +1408,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 **(A0147)** Berufsschule > Zeugnisbemerkungen
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Berufsschule > Zeugnisbemerkungen. Wenn Sie die Schaltfläche "+" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung)** vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
 "2" usw.
 
 **(A0183)** Mandanten > Daten 1 > Ort
@@ -1421,7 +1417,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten >
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
 **(A0245)** Schüler > Zeugnis > Fächer > Schwerpunkt
 
@@ -1455,7 +1451,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im MenüSchüler > Zeugnis >Formulare/Zeugnisbemerkungen. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren,
 die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung)** vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
 "2" usw.
 
 **(A0013)** Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
@@ -1480,7 +1476,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.19)** Merkmal | Bedeutung
+**(A0021.19)** 
+
+Merkmal | Bedeutung
 --|--
 Lern  |  Lernverhalten
 Schule |  Sozialverhalten
@@ -1524,11 +1522,11 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler >Laufba
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** Schüler > Zeugnis >Formulare/Zeugnisbemerkungen
+**(A0115)** Schüler > Zeugnis > Formulare/Zeugnisbemerkungen
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im MenüSchüler > Zeugnis >Formulare/Zeugnisbemerkungen. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren,
 die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung)** vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
 "2" usw.
 
 **(A0013)** Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
@@ -1590,7 +1588,7 @@ PeF | PeF | Profil ergänzendes Fach
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
 **(A0245)** Schüler > Zeugnis > Fächer > Schwerpunkt
 
@@ -1629,9 +1627,9 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers de
 **(A0086)** Allgemein
 
 Um auf dem Zeugnis die besondere Lernleistung einzutragen gehen Sie wie folgt vor:
-1)** Definieren Sie ein entsprechendes Fach
-2)** Legen Sie unter Schlüsselverzeichnisse > Unterrichtsarten eine Unterrichtsart mit dem Kürzel BL an (falls nicht vorhanden)** und weisen Sie diese dem entsprechenden Fach zu
-3)** Im Schlüsselverzeichnisse > Fachschwerpunkte geben Sie in der Spalte "Bezeichnung" das Thema der besonderen Lernleistung an (falls nicht vorhanden)** und weisen Sie diese dem entsprechenden Fach zu
+1) Definieren Sie ein entsprechendes Fach
+2) Legen Sie unter Schlüsselverzeichnisse > Unterrichtsarten eine Unterrichtsart mit dem Kürzel BL an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
+3)Im Schlüsselverzeichnisse > Fachschwerpunkte geben Sie in der Spalte "Bezeichnung" das Thema der besonderen Lernleistung an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
 
 ## SHL-GY-Studienbuch (Qualifikationsphase - zweite Seite).rpt
 
@@ -1647,7 +1645,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im MenüSchüler > Zeugnis >Formulare/Zeugnisbemerkungen. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren,
 die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung)** vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
 "2" usw.
 
 **(A0015.11)** 
@@ -1686,7 +1684,7 @@ AG | AG | Arbeitsgemeinschaft
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
 **(A0077)** Mandanten > Daten 1 > Schulleiter
 
