@@ -1,3 +1,5 @@
+# Zeugnisse für das Saarland
+
 ## SAR-AS-Verhaltenszeugnis.rpt
 
 **(A0013)** Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
@@ -153,28 +155,19 @@ V4 = nicht befriedigend
 
 ## SAR-BS-AGZ Lernfeld MBK.rpt
 
-### Beschreibung
-
-Zusätzlich zu den von uns gelieferten Berichten liefern wir vom Ministerium für Bildung und Kultur erstellte Berichte aus. Sie finden diese Zeugnisberichte aus MAGELLAN heraus über Schüler > Drucken > Zeugnisse > Saarland > Ministerium. Hier finden Sie Details zu den Berichten:
-https://doc.magellan7.stueber.de/schulverwaltung/regionales/saarland/zeugnisse/
+Zusätzlich zu den von uns gelieferten Berichten liefern wir vom Ministerium für Bildung und Kultur erstellte Berichte aus. Sie finden diese Zeugnisberichte aus MAGELLAN heraus über Schüler > Drucken > Zeugnisse > Saarland > Ministerium. Hier finden Sie Details zu den Berichten:[https://doc.magellan7.stueber.de/schulverwaltung/regionales/saarland/zeugnisse/](https://doc.magellan7.stueber.de/schulverwaltung/regionales/saarland/zeugnisse/)
 
 ## SAR-BS-AS-Lernfeld A3 MBK.rpt
-
-### Beschreibung
 
 Zusätzlich zu den von uns gelieferten Berichten liefern wir vom Ministerium für Bildung und Kultur erstellte Berichte aus. Sie finden diese Zeugnisberichte aus MAGELLAN heraus über Schüler > Drucken > Zeugnisse > Saarland > Ministerium. Hier finden Sie Details zu den Berichten:
 https://doc.magellan7.stueber.de/schulverwaltung/regionales/saarland/zeugnisse/
 
 ## SAR-BS-HJZ-Lernfeld MBK.rpt
 
-### Beschreibung
-
 Zusätzlich zu den von uns gelieferten Berichten liefern wir vom Ministerium für Bildung und Kultur erstellte Berichte aus. Sie finden diese Zeugnisberichte aus MAGELLAN heraus über Schüler > Drucken > Zeugnisse > Saarland > Ministerium. Hier finden Sie Details zu den Berichten:
 https://doc.magellan7.stueber.de/schulverwaltung/regionales/saarland/zeugnisse/
 
 ## SAR-FHReife (Nachweis - G8).rpt
-
-### Beschreibung
 
 Zeugnis über den Nachweis des schulischen Teils der Fachhochschulreife
 
@@ -184,7 +177,7 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fäch
 den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0019.22)** 
+**(A0019.22)**
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -245,8 +238,6 @@ Bei dem "Zeugnis über den Nachweis des schulischen Teils der Fachhochschulreife
 Wählen Sie im Menü Abitur > Qualifikation im Feld "Prüfungsordnung" die unter Schlüsselverzeichnisse > Verordnung angelegte Verordnung aus. Die Felder "eingebrachte Halbjahre", "Gesamtpunktzahl" und "Durchschnittsnote" werden durch das Berechnungsskript automatisch gefüllt, wenn man die "Fachhhochschulreife berechnen" lässt.
 
 ## SAR-FHReife (Nachweis - G9).rpt
-
-### Beschreibung
 
 Zeugnis über den Nachweis des schulischen Teils der Fachhochschulreife
 
@@ -483,8 +474,6 @@ Platzhalter | Ausgabe im Bericht
 
 ## SAR-GEMS-HJZ-JZ (Klasse 5-10).rpt
 
-### Beschreibung
-
 Zeugnis für Anlagen 4.14.24.34.4
 umfasst Halbjahreszeugnis Klassenstufe 5-10 sowie Jahreszeugnis Klassenstufe 5-8
 
@@ -677,8 +666,6 @@ Platzhalter | Ausgabe im Bericht
 Die Erläuterungen zu den Einstufungen werden im Zeugnisbericht automatisch gesetzt.
 
 ## SAR-GEMS-HJZ-JZ (Klasse 5-8).rpt
-
-### Beschreibung
 
 4.34.4
 
@@ -890,13 +877,9 @@ Ein Handout zu den Zeugnisformularen Klassenstufen 5-10 (Gymnasium)** ist auf de
 
 ## SAR-GY-AZ (Klassenstufen 5-10)+GEMS-AZ (Einführungsphase).rpt
 
-### Beschreibung
-
 Ein Handout zu den Zeugnissen finden Sie auf den BSCW Server des Ministeriums für Bildung und Kultur.
 
 ## SAR-GY-AZ (modifiziert Klassenstufen 9 und 10).rpt
-
-### Beschreibung
 
 Ein Handout zu den Zeugnissen finden Sie auf den BSCW Server des Ministeriums für Bildung und Kultur.
 
@@ -1028,8 +1011,6 @@ Die Pflicht-Fächer werden gemäß „ Verordnung – Schulordnung – über die
 Das Zeugnis kann sowohl Halbjahres- und Jahreszeugnis sein. Maßgebend ist der Eintrag im Schlüsselverzeichnis > Zeiträume in der Spalte „Art“ (1. Halbjahr oder 2 Halbjahr).
 
 ## SAR-GY-HJZ-JZ (Klassenstufen 5-10)+GEMS-HJZ-JZ (Einführungsphase).rpt
-
-### Beschreibung
 
 Ein Handout zu den Zeugnissen finden Sie auf den BSCW Server des Ministeriums für Bildung und Kultur.
 

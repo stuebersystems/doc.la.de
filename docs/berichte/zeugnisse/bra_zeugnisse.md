@@ -1,6 +1,8 @@
+# Brandenburger Zeugnisse
+
 ## BRA-Bescheinigung-Altenpflegeausbildung.rpt
 
-### Beschreibung
+
 
 Bescheinigung über die Leistungen in der Altenpflegeausbildung
 
@@ -193,7 +195,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume 
 
 ## BRA-BF-AS (2 Seitig - zweispaltig).rpt
 
-### Beschreibung
+
 
 "oder HwO (Berufsschule)
 
@@ -616,7 +618,7 @@ Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen 
 
 ## BRA-BF-Fhreife (3 Seitig).rpt
 
-### Beschreibung
+
 
 Zeugnis der Fachhochschulreife des zweijährigen Bildungsganges in Vollzeitform (Fachoberschule)** 
 
@@ -747,7 +749,7 @@ Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzuf
 
 ## BRA-BV-AS (Bescheinigung).rpt
 
-### Beschreibung
+
 
 Bescheinigung über die Teilnahme an einem Bildungsgang zur Vertiefung der Allgemeinbildung und Berufsorientierung (Berufsschule)
 
@@ -813,7 +815,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume 
 
 ## BRA-BV-AS (mit Lehrgang und Fehltagen).rpt
 
-### Beschreibung
+
 
 Bescheinigung über die Teilnahme an einem Bildungsgang zur Vertiefung der Allgemeinbildung und Berufsorientierung (Berufsschule)
 
@@ -962,7 +964,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume 
 
 ## BRA-FO-HJZ.rpt
 
-### Beschreibung
+
 
 Halbjahreszeugnis des zweijährigen Bildungsganges in Vollzeitform (Fachoberschule)
 
@@ -1054,7 +1056,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld
 
 ## BRA-GS-JZ (Klasse 1-4).rpt
 
-### Beschreibung
+
 
 Jahreszeugnis  der Grundschule
 
@@ -1088,7 +1090,7 @@ Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt 
 
 ## BRA-GY-Abi( Formblatt 09-Mitteilung über die Ergebnisse in den Abiturprüfungen).rpt
 
-### Beschreibung
+
 
 Formblatt 09-Mitteilung über die Ergebnisse in den Abiturprüfungen
 
@@ -1280,7 +1282,7 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers de
 
 ## BRA-GY-AS.rpt
 
-### Beschreibung
+
 
 Zeugnis Klasse 11/ 2 Halbjahr; Zeugnis Klasse 12 und 13/ 1. und 2. Halbjahr
 
@@ -1678,7 +1680,7 @@ Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen 
 
 ## BRA-GY-HJZ (A1).rpt
 
-### Beschreibung
+
 
 Halbjahreszeugnis der gymnasialen Oberstufe
 
@@ -1782,7 +1784,7 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers de
 
 ## BRA-GY-HJZ.rpt
 
-### Beschreibung
+
 
 Zeugnis Klasse 11/1 Halbjahr
 

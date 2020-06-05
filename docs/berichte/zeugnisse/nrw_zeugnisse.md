@@ -1,3 +1,5 @@
+# Zeugnisse für Nordrhein-Westfalen
+
 ## NRW-ABI-AZ  (Anlage D42).rpt
 
 **(A0035)** Klassen > Daten > Bildungsgang
@@ -17,8 +19,6 @@ Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Konferenzdatum" 
 Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
 
 ## NRW-Abitur (Prüfungsergebnisse 1).rpt
-
-
 
 Dokument zugehörig zu Anlage D
 
@@ -55,8 +55,6 @@ Um zwischen Fachhochschulreife und Abitur zu unterscheiden, wählen Sie  im Men�
 Tragen Sie die Durchschnittsnote und die Gesamtpunktzahl des jeweiligen Schülers im Menü Abitur >Prüfung jeweils im Feld "Durchschnitt" und im Feld "Gesamtpunktzahl" ein.
 
 ## NRW-Abitur (Prüfungsergebnisse 2).rpt
-
-
 
 Information zu den Prüfungsergebnissen (Dokument zugehörig zu Anlage D)
 
@@ -2878,8 +2876,6 @@ Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü
 
 ## NRW-BKO-ABI (Bescheinigung Schullaufbahn)_Zeugnisbemerkung_Fachdaten.rpt
 
-
-
 Dieser Bericht gibt die Zeugnisbemerkungen aus dem Bereich `Schüler > Zeugnis > Zeugnis > Zeugnisbemerkungen` für das beim Druck gewählte Halbjahr aus.
 
 **(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
@@ -4119,13 +4115,9 @@ Tragen Sie im aktuellen Zeitraum im Menü Schüler > Laufbahn > Abschluss die Ab
 
 ## NRW-Gems-JZ-HJZ (5-8).rpt
 
-
-
 Zeugnis der Gemeinschaftsschule Klasse 5-8 (Halbjahres- und Jahreszeugnis)
 
 ## NRW-GES-JZ-HJZ (5-9.1_10.1).rpt
-
-
 
 Zeugnis der Gesamtschule Klasse 5-9.1 und 10.1 (Halbjahres- und Jahreszeugnis)
 
@@ -4835,7 +4827,6 @@ Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werde
 
 **(A0021.4)** 
 
-
 Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
@@ -5103,7 +5094,6 @@ es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, fal
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.4)** 
-
 
 Merkmal | Bedeutung
 --|--
@@ -5722,7 +5712,6 @@ es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, fal
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.4)** 
-
 
 Merkmal | Bedeutung
 --|--
