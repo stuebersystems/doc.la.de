@@ -2565,7 +2565,7 @@ Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis
 Im Falle einer zusätzlichen mündliche Prüfungen tragen Sie diese Noze im Menü Abitur > Prüfung in den entsprechenden Feldern unter "2. mündl. Note" ein. Eine Zusätzliche mündliche Prüfung ist in den Prüfungsfächern 1 bis 5 möglich.
 
 **(A0759)** Schüler > Daten 3 > Fremdsprachefolge > Sprachreferenzen
-------------------------------------------
+
 Bitte tragen Sie im Menü Schüler > Daten 3 > Fremdsprachefolge im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das Schlüsselverzeichnis > Sprachreferenzen. Vom Bericht wird das Kürzel abgefragt.
 
 **(A0776)** Schlüsselverzeichnisse > Zeugnisbemerkungen
@@ -7354,7 +7354,7 @@ Weisen Sie im Menü Klassen > Daten den Beruf im Feld "Beruf" zu. Grundlage bild
 Tragen Sie die Vollzeit-  bzw. Teilzeitform unter Klassen > Daten >Organisation ein. Grundlage bildet das Schlüsselverzeichnis Organisiationen.
 
 **(A0712)** Schlüsselverzeichnisse > Fächer
-------
+
 Um die Note der Komplexprüfung auszugeben, legen Sie im Schlüsselverzeichnis > Fächer ein Fach mit Fachbezeichnung "Komplexprüfung" an.
 
 Kürzel | Schlüssel | Bezeichnung
@@ -7651,7 +7651,7 @@ Die "Zusatzausbildung zum Erwerb der Fachhochschulreife" tragen Sie wie folgt ei
 2)** Tragen Sie im Menü Schüler > Zeugnis > Leistungen im Feld "Endnote" die erreichte Note ein.
 
 **(A0831)** Schlüsselverzeichnis > Fächer > Merkmal (*)
-------------------------------------------
+
 Sollte ein Fach (die Fachbezeichnung)** auf dem Zeuignis mit einem Zusatz "*)" versehen werden, tragen Sie bitte unter Schüler > Zeugnis > Leistungen im Feld "Merkmal" ein "*". Der Bericht gibt hinter der Fachbezeichnung *)** aus.
 
 Eintrag in MAGELLAN | Ausgabe auf dem Zeugnis
@@ -7659,11 +7659,11 @@ Eintrag in MAGELLAN | Ausgabe auf dem Zeugnis
 Fach: Deu, Merkmal: * | Deutsch *)
 
 **(A0832)** Klassen > Daten > Berufsfeld 
-------------------------------------
+
 Den Fachbereich der Fachschule weisen Sie im Menü Klassen > Daten im aktuellen Zeitraum im Feld "Berufsfeld" zu. Grundlage bildet das Schlüsselverzeichnis Schlüsselverzeichnisse > Berufsfelder.
 
 **(A0833)** Schüler > Zeugnis > Details > Ausbildungsjahr
-------------------------------------------
+
 Die Klassenstufe der Klassen ergibt sich aus dem Ausbildungsjahr des Schülers. Dieses wird im Schüler > Zeugnis > Details im Feld „Ausbildungsjahr“ eingetragen.
 
 ## SAC-FS-HJZ (C.01.03).rpt
