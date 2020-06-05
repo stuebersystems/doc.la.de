@@ -2,6 +2,8 @@
 
 Abiturqualifikationsberechnung gemäß Verordnung des Sächsischen Staatsministeriums für Kultus über Berufliche Gymnasien im Freistaat Sachsen (Schulordnung Berufliche Gymnasien – BGySO).
 
+Letzte Änderung: 04.06.2020
+
 ## Verzeichnis Verordnung
 
 Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
@@ -11,7 +13,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 | Kürzel       | beliebig                                 |
 | Bezeichnung  | beliebig                                 |
 | Kategorie    | Abitur                                   |
-| Typ          | leer oder "WI" für Wirtschaftswissenschaften |
+| Typ          | leer |
 | Ab Jahrgang  | leer                                     |
 | Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server) |
 | Notenart 11  | Noten                                    |
