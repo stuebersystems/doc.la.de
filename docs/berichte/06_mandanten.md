@@ -55,7 +55,7 @@ Tragen Sie im Menü "Schüler" beim entsprechenden Schüler den Status "Ausländ
 
 ## Gastschulgeld (Berufsschule ohne BG)** – LK Koblenz.rpt
 
-Gastschulgeldliste (Berufsschule ohne Berufsgrundbildungsjahr nur LK Koblenz)** 
+Gastschulgeldliste (Berufsschule ohne Berufsgrundbildungsjahr nur LK Koblenz) 
 
 ## Gastschulgeld (Berufsschule ohne BG)** – LK Mayen.rpt
 
@@ -71,7 +71,7 @@ Gastschulgeldliste (nur Berufsgrundbildungsjahr nur LK  Koblenz)
 
 ## Gastschulgeld (BG)** – LK Mayen.rpt
 
-Gastschulgeldliste (nur Berufsgrundbildungsjahr nur LK Mayen)** 
+Gastschulgeldliste (nur Berufsgrundbildungsjahr nur LK Mayen)
 
 ## Gastschulgeld (BG).rpt
 
@@ -83,11 +83,11 @@ Gastschulgeldliste (Wahlschulen nur LK Koblenz)
 
 ## Gastschulgeld (Wahlschulen)** – LK Mayen.rpt
 
-Gastschulgeldliste  (Wahlschulen nur LK Mayen)** 
+Gastschulgeldliste  (Wahlschulen nur LK Mayen)
 
 ## Gastschulgeld (Wahlschulen).rpt
 
-Gastschulgeldliste (Wahlschulen exkl. Koblenz und Mayen)** 
+Gastschulgeldliste (Wahlschulen exkl. Koblenz und Mayen)
 
 ## Gesamtliste (Anzahl Klassen pro Schulort nach Jahrgang).rpt
 
@@ -184,17 +184,17 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
 **(A0589)** Schüler > Laufbahn > Allgemein > Wiederholer
 
 Beachten Sie bei der Liste mit den Wiederholern innerhalb eines Schuljahres:
 
-1)** Das Schuljahr wiederholende Schüler müssen im entsprechenden Zeitraum im Menü Schüler > Laufbahn im Bereich „Allgemein“ im Feld „Wiederholer“ angehakt werden. Es werden nur die Schüler mit einen Haken in diesem Feld ausgegeben. 
-2)** Markieren Sie nun alle Schüler aus dem Menü Schüler und betätigen Drucken > Zeugnis drucken (siehe auch A112, A239)
-3)** Beim Berichtdruck gilt:
-3a)** abgebende Klasse: Die Klasse vor der Versetzung
-3b)** aufnehmende Klasse:  Die Klasse nach der Versetzung
+1)Das Schuljahr wiederholende Schüler müssen im entsprechenden Zeitraum im Menü Schüler > Laufbahn im Bereich „Allgemein“ im Feld „Wiederholer“ angehakt werden. Es werden nur die Schüler mit einen Haken in diesem Feld ausgegeben. 
+2) Markieren Sie nun alle Schüler aus dem Menü Schüler und betätigen Drucken > Zeugnis drucken (siehe auch A112, A239)
+3) Beim Berichtdruck gilt:
+3a) abgebende Klasse: Die Klasse vor der Versetzung
+3b) aufnehmende Klasse:  Die Klasse nach der Versetzung
 
 ## Offene Medienvorgänge (bis zum heutigen Tag).rpt
 

@@ -24,7 +24,6 @@ Betriebelistedie alle zugewiesenen Auszubildenden zum Betrieb darstellt
 Der Bericht muss aus dem Menü „Betriebe“ gedruckt werden.
 
 **(A0434)** Schüler > Ausbildung > Ausbildungsbetriebe
-----------------------------------------------------------
 Tragen Sie den Betrieb im Menü Schüler > Ausbildung unter Ausbildungsbetriebe ein.
 
 ## Betriebe mit Auszubildenden (mit Parameter Klasse).rpt

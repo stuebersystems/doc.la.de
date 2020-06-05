@@ -37,7 +37,7 @@ Das Zeugnis/der Bericht muss aus dem Menü Sorgeberechtigte gedruckt werden.
 
 **(A0541)** Sorgeberechtigte > Drucken > Berichte drucken
 
-Auf dem Report werden nur Sorgeberechtigte ohne Kinder (ausgeschult)** im aktuellen Zeitraum ausgegeben.
+Auf dem Report werden nur Sorgeberechtigte ohne Kinder (ausgeschult) im aktuellen Zeitraum ausgegeben.
 
 ## Sorgeberechtigte.rpt
 
