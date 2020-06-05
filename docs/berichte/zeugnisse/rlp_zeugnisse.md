@@ -3957,19 +3957,19 @@ Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü Ab
 **(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  so <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Vorname>> | Vorname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Frau>> |  Frau
-<<Sie>> | Sie
-<<Herr>> | Herr
-<<Herrn>> | Herrn
-<<Er>> | Er
+``<<Vorname>>`` | Vorname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Frau>>`` |  Frau
+``<<Sie>>`` | Sie
+``<<Herr>>`` | Herr
+``<<Herrn>>`` | Herrn
+``<<Er>>`` | Er
 
 **(A0549)** Sonstiges
 
@@ -4076,19 +4076,19 @@ Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü Ab
 **(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  so <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Vorname>> | Vorname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Frau>> |  Frau
-<<Sie>> | Sie
-<<Herr>> | Herr
-<<Herrn>> | Herrn
-<<Er>> | Er
+``<<Vorname>>`` | Vorname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Frau>>`` |  Frau
+``<<Sie>>`` | Sie
+``<<Herr>>`` | Herr
+``<<Herrn>>`` | Herrn
+``<<Er>>`` | Er
 
 **(A0549)** Sonstiges
 
@@ -4199,19 +4199,19 @@ Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü Ab
 **(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  so <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Vorname>> | Vorname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Frau>> |  Frau
-<<Sie>> | Sie
-<<Herr>> | Herr
-<<Herrn>> | Herrn
-<<Er>> | Er
+``<<Vorname>>`` | Vorname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Frau>>`` |  Frau
+``<<Sie>>`` | Sie
+``<<Herr>>`` | Herr
+``<<Herrn>>`` | Herrn
+``<<Er>>`` | Er
 
 **(A0549)** Sonstiges
 
@@ -4232,20 +4232,20 @@ Zur Kennzeichnung der dritten oder vierten Fremdsprache als "Pflichtfach" weisen
 Schüler > Zeugnis > Bemerkungen / Formulare
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Vorname>> | Vorname, Vorname2 und Namenszusatz des Schülers
-<<Anrede1>> | Er/Sie (je nach Geschlecht des Schülers)
-<<Anrede2>> | er/sie (je nach Geschlecht des Schülers)
-<<Anrede3>> | seine/ihre (je nach Geschlecht des Schülers)
-<<Anrede4>> |  ihm/ihr (je nach Geschlecht des Schülers)
-<<Anrede5>> | seinen/ihren (je nach Geschlecht des Schülers)
+``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Anrede1>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Anrede2>>`` | er/sie (je nach Geschlecht des Schülers)
+``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
+``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
+``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
 **(A0641)** Schüler > Daten 3 > Fremdsprachenfolge
 
@@ -4342,19 +4342,19 @@ Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü Ab
 **(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  so <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Vorname>> | Vorname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Frau>> |  Frau
-<<Sie>> | Sie
-<<Herr>> | Herr
-<<Herrn>> | Herrn
-<<Er>> | Er
+``<<Vorname>>`` | Vorname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Frau>>`` |  Frau
+``<<Sie>>`` | Sie
+``<<Herr>>`` | Herr
+``<<Herrn>>`` | Herrn
+``<<Er>>`` | Er
 
 **(A0529)** Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)
 
@@ -4382,20 +4382,20 @@ Nun wird das Wappen ausgeblendet. Grundlage bildet das Schlüsselverzeichnis > M
 Schüler > Zeugnis > Bemerkungen / Formulare
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Vorname>> | Vorname, Vorname2 und Namenszusatz des Schülers
-<<Anrede1>> | Er/Sie (je nach Geschlecht des Schülers)
-<<Anrede2>> | er/sie (je nach Geschlecht des Schülers)
-<<Anrede3>> | seine/ihre (je nach Geschlecht des Schülers)
-<<Anrede4>> |  ihm/ihr (je nach Geschlecht des Schülers)
-<<Anrede5>> | seinen/ihren (je nach Geschlecht des Schülers)
+``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Anrede1>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Anrede2>>`` | er/sie (je nach Geschlecht des Schülers)
+``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
+``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
+``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
 ## RLP-GY-ABI (2010-G8-G9)A4.rpt
 
@@ -4488,19 +4488,19 @@ Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü Ab
 **(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  so <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Vorname>> | Vorname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Frau>> |  Frau
-<<Sie>> | Sie
-<<Herr>> | Herr
-<<Herrn>> | Herrn
-<<Er>> | Er
+``<<Vorname>>`` | Vorname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Frau>>`` |  Frau
+``<<Sie>>`` | Sie
+``<<Herr>>`` | Herr
+``<<Herrn>>`` | Herrn
+``<<Er>>`` | Er
 
 **(A0549)** Sonstiges
 
@@ -4524,20 +4524,20 @@ Nun wird das Wappen ausgeblendet. Grundlage bildet das Schlüsselverzeichnis > M
 Schüler > Zeugnis > Bemerkungen / Formulare
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Vorname>> | Vorname, Vorname2 und Namenszusatz des Schülers
-<<Anrede1>> | Er/Sie (je nach Geschlecht des Schülers)
-<<Anrede2>> | er/sie (je nach Geschlecht des Schülers)
-<<Anrede3>> | seine/ihre (je nach Geschlecht des Schülers)
-<<Anrede4>> |  ihm/ihr (je nach Geschlecht des Schülers)
-<<Anrede5>> | seinen/ihren (je nach Geschlecht des Schülers)
+``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Anrede1>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Anrede2>>`` | er/sie (je nach Geschlecht des Schülers)
+``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
+``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
+``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
 ## RLP-GY-ABI (DIN A3 - 1. Seite ohne Wappen)2006.rpt
 
@@ -5308,20 +5308,20 @@ und für "GK-Sozialkunde".
 Schüler > Zeugnis > Bemerkungen / Formulare
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Vorname>> | Vorname, Vorname2 und Namenszusatz des Schülers
-<<Anrede1>> | Er/Sie (je nach Geschlecht des Schülers)
-<<Anrede2>> | er/sie (je nach Geschlecht des Schülers)
-<<Anrede3>> | seine/ihre (je nach Geschlecht des Schülers)
-<<Anrede4>> |  ihm/ihr (je nach Geschlecht des Schülers)
-<<Anrede5>> | seinen/ihren (je nach Geschlecht des Schülers)
+``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Anrede1>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Anrede2>>`` | er/sie (je nach Geschlecht des Schülers)
+``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
+``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
+``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
 ## RLP-GY-FHReife (Jahrgangstufe 11-13).rpt
 
@@ -5416,20 +5416,20 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 Schüler > Zeugnis > Bemerkungen / Formulare
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Vorname>> | Vorname, Vorname2 und Namenszusatz des Schülers
-<<Anrede1>> | Er/Sie (je nach Geschlecht des Schülers)
-<<Anrede2>> | er/sie (je nach Geschlecht des Schülers)
-<<Anrede3>> | seine/ihre (je nach Geschlecht des Schülers)
-<<Anrede4>> |  ihm/ihr (je nach Geschlecht des Schülers)
-<<Anrede5>> | seinen/ihren (je nach Geschlecht des Schülers)
+``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Anrede1>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Anrede2>>`` | er/sie (je nach Geschlecht des Schülers)
+``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
+``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
+``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
 ## RLP-GY-HJZ (2spaltig mit FSP).rpt
 
@@ -5520,20 +5520,20 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 Schüler > Zeugnis > Bemerkungen / Formulare
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Vorname>> | Vorname, Vorname2 und Namenszusatz des Schülers
-<<Anrede1>> | Er/Sie (je nach Geschlecht des Schülers)
-<<Anrede2>> | er/sie (je nach Geschlecht des Schülers)
-<<Anrede3>> | seine/ihre (je nach Geschlecht des Schülers)
-<<Anrede4>> |  ihm/ihr (je nach Geschlecht des Schülers)
-<<Anrede5>> | seinen/ihren (je nach Geschlecht des Schülers)
+``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Anrede1>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Anrede2>>`` | er/sie (je nach Geschlecht des Schülers)
+``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
+``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
+``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
 ## RLP-GY-JZ (2006).rpt
 

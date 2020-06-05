@@ -485,7 +485,7 @@ WPU3 | WPU3 | Fächer des Wahlplfichbereichs III
 Tragen Sie im Menü Schüler > Daten 3 beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-## SAA-GY-HJZ (Schuljahrgänge (5)** 7-10).rpt
+## SAA-GY-HJZ (Schuljahrgänge (5) 7-10).rpt
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -549,7 +549,7 @@ WPU3 | WPU3 | Fächer des Wahlplfichbereichs III
 Tragen Sie im Menü Schüler > Daten 3 beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-## SAA-GY-JZ (Schuljahrgänge (5)** 7-10).rpt
+## SAA-GY-JZ (Schuljahrgänge (5) 7-10).rpt
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 

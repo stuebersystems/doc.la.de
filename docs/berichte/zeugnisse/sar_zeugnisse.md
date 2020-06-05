@@ -464,13 +464,13 @@ Sie können Zeugnisbemerkungen über Platzhalter personalisieren. Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Vorname>> | Vorname und 2. Vorname des Schülers
-<<Nachname>| Zusatz und Nachname des Schülers
-<<Frau>>	 | Frau
-<<Sie>> | Sie
-<<Herr>> | Herr
-<<Herrn>> | Herrn
-<<Er>> | Er
+``<<Vorname>>`` | Vorname und 2. Vorname des Schülers
+``<<Nachname>>``| Zusatz und Nachname des Schülers
+``<<Frau>>``	 | Frau
+``<<Sie>>`` | Sie
+``<<Herr>>`` | Herr
+``<<Herrn>>`` | Herrn
+``<<Er>>`` | Er
 
 ## SAR-GEMS-HJZ-JZ (Klasse 5-10).rpt
 
@@ -653,13 +653,13 @@ Sie können Zeugnisbemerkungen über Platzhalter personalisieren. Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Vorname>> | Vorname des Schülers
-<<Nachname> | Nachname des Schülers
-<<Frau>> | Frau
-<<Sie>> | Sie
-<<Herr>> | Herr
-<<Herrn>> | Herrn
-<<Er>> | Er
+``<<Vorname>>`` | Vorname des Schülers
+``<<Nachname> | Nachname des Schülers
+``<<Frau>>`` | Frau
+``<<Sie>>`` | Sie
+``<<Herr>>`` | Herr
+``<<Herrn>>`` | Herrn
+``<<Er>>`` | Er
 
 **(A0672)** Schüler > Auswahl > Drucken > >Zeugnisse drucken...
 
@@ -860,14 +860,14 @@ Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Vorname>> | Vorname, Vorname2 und Namenszusatz des Schülers
-<<Anrede1>> | Er/Sie (je nach Geschlecht des Schülers)
-<<Anrede2>> | er/sie (je nach Geschlecht des Schülers)
-<<Anrede3>> | seine/ihre (je nach Geschlecht des Schülers)
-<<Anrede4>> |  ihm/ihr (je nach Geschlecht des Schülers)
-<<Anrede5>> | seinen/ihren (je nach Geschlecht des Schülers)
+``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Anrede1>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Anrede2>>`` | er/sie (je nach Geschlecht des Schülers)
+``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
+``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
+``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
 ## SAR-GEMS-Verhaltenszeugnis.rpt
 
@@ -974,19 +974,19 @@ Tragen Sie im Menü Schüler > Zeugnis > Details die Note für die Mitarbeit und
 **(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  so <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Vorname>> | Vorname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Frau>> |  Frau
-<<Sie>> | Sie
-<<Herr>> | Herr
-<<Herrn>> | Herrn
-<<Er>> | Er
+``<<Vorname>>`` | Vorname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Frau>>`` |  Frau
+``<<Sie>>`` | Sie
+``<<Herr>>`` | Herr
+``<<Herrn>>`` | Herrn
+``<<Er>>`` | Er
 
 **(A0474)** Schüler > Zeugnis > Fächer > Merkmal (1)
 
