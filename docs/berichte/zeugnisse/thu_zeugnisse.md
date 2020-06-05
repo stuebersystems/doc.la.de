@@ -752,4 +752,3 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 **(A0055)** Schüler > Zeugnis > Fächer > Kurs
 
 Tragen Sie die Kurse I und II als "1" und "2" im Menü Schüler > Zeugnis > Fächer im Feld "Kurs" ein.
-
