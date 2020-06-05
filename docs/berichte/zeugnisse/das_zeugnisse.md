@@ -333,6 +333,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -475,6 +476,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -586,6 +588,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -716,6 +719,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -858,6 +862,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -1052,6 +1057,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -1164,6 +1170,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -1246,7 +1253,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.58)** Merkmal | Bedeutung
+**(A0021.58)** 
+
+Merkmal | Bedeutung
 --|--
 MSA | Zeugnisbemerkung für das MSA Zeugnis
 
@@ -1300,6 +1309,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -1548,6 +1558,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -1620,7 +1631,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.58)** Merkmal | Bedeutung
+**(A0021.58)** 
+
+Merkmal | Bedeutung
 --|--
 MSA | Zeugnisbemerkung für das MSA Zeugnis
 
@@ -1670,6 +1683,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -1776,6 +1790,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -1878,6 +1893,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -1999,6 +2015,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -2132,6 +2149,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -2261,6 +2279,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -2398,6 +2417,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -2553,6 +2573,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2

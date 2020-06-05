@@ -741,7 +741,9 @@ BerufS | BerufS | Berufsbezogener Lernbereich
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0016.3)** Merkmal | Bedeutung
+**(A0016.3)** 
+
+Merkmal | Bedeutung
 --|--
 * | Noten, die unter Anrechnung von Leistungen einer früheren Ausbildung gebildet worden.
 
@@ -1063,7 +1065,9 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0016.3)** Merkmal | Bedeutung
+**(A0016.3)** 
+
+Merkmal | Bedeutung
 --|--
 * | Noten, die unter Anrechnung von Leistungen einer früheren Ausbildung gebildet worden.
 
@@ -1169,7 +1173,9 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0016.3)** Merkmal | Bedeutung
+**(A0016.3)** 
+
+Merkmal | Bedeutung
 --|--
 * | Noten, die unter Anrechnung von Leistungen einer früheren Ausbildung gebildet worden.
 
@@ -1261,7 +1267,9 @@ Pflicht | Pflicht | Allgemeiner / Berufsübergreifender / Fachrichtungsübergrei
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0016.3)** Merkmal | Bedeutung
+**(A0016.3)** 
+
+Merkmal | Bedeutung
 --|--
 * | Noten, die unter Anrechnung von Leistungen einer früheren Ausbildung gebildet worden.
 
@@ -1415,6 +1423,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -1735,7 +1744,9 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0016.3)** Merkmal | Bedeutung
+**(A0016.3)** 
+
+Merkmal | Bedeutung
 --|--
 * | Noten, die unter Anrechnung von Leistungen einer früheren Ausbildung gebildet worden.
 
@@ -1817,7 +1828,9 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0016.3)** Merkmal | Bedeutung
+**(A0016.3)** 
+
+Merkmal | Bedeutung
 --|--
 * | Noten, die unter Anrechnung von Leistungen einer früheren Ausbildung gebildet worden.
 
@@ -5484,6 +5497,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -5724,6 +5738,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -6064,6 +6079,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -6226,6 +6242,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -6621,6 +6638,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -6740,6 +6758,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -6986,6 +7005,7 @@ Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formula
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
@@ -7787,7 +7807,9 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0016.3)** Merkmal | Bedeutung
+**(A0016.3)** 
+
+Merkmal | Bedeutung
 --|--
 * | Noten, die unter Anrechnung von Leistungen einer früheren Ausbildung gebildet worden.
 
@@ -7943,7 +7965,9 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0016.3)** Merkmal | Bedeutung
+**(A0016.3)** 
+
+Merkmal | Bedeutung
 --|--
 * | Noten, die unter Anrechnung von Leistungen einer früheren Ausbildung gebildet worden.
 
