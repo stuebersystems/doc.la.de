@@ -12,7 +12,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.43)** Merkmal | Bedeutung
+**(A0021.43)** 
+
+Merkmal | Bedeutung
 --|--
 SchulA | Besondere schulische Aktivitäten
 
@@ -97,7 +99,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.43)** Merkmal | Bedeutung
+**(A0021.43)** 
+
+Merkmal | Bedeutung
 --|--
 SchulA | Besondere schulische Aktivitäten
 
@@ -464,13 +468,13 @@ Sie können Zeugnisbemerkungen über Platzhalter personalisieren. Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Vorname>> | Vorname und 2. Vorname des Schülers
-<<Nachname>| Zusatz und Nachname des Schülers
-<<Frau>>	 | Frau
-<<Sie>> | Sie
-<<Herr>> | Herr
-<<Herrn>> | Herrn
-<<Er>> | Er
+``<<Vorname>>`` | Vorname und 2. Vorname des Schülers
+``<<Nachname>>``| Zusatz und Nachname des Schülers
+``<<Frau>>``	 | Frau
+``<<Sie>>`` | Sie
+``<<Herr>>`` | Herr
+``<<Herrn>>`` | Herrn
+``<<Er>>`` | Er
 
 ## SAR-GEMS-HJZ-JZ (Klasse 5-10).rpt
 
@@ -653,13 +657,13 @@ Sie können Zeugnisbemerkungen über Platzhalter personalisieren. Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Vorname>> | Vorname des Schülers
-<<Nachname> | Nachname des Schülers
-<<Frau>> | Frau
-<<Sie>> | Sie
-<<Herr>> | Herr
-<<Herrn>> | Herrn
-<<Er>> | Er
+``<<Vorname>>`` | Vorname des Schülers
+``<<Nachname> | Nachname des Schülers
+``<<Frau>>`` | Frau
+``<<Sie>>`` | Sie
+``<<Herr>>`` | Herr
+``<<Herrn>>`` | Herrn
+``<<Er>>`` | Er
 
 **(A0672)** Schüler > Auswahl > Drucken > >Zeugnisse drucken...
 
@@ -724,7 +728,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.44)** Merkmal | Bedeutung
+**(A0021.44)** 
+
+Merkmal | Bedeutung
 --|--
 zb | allgemeine Zeugnisbemerkung
 
@@ -860,14 +866,14 @@ Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Vorname>> | Vorname, Vorname2 und Namenszusatz des Schülers
-<<Anrede1>> | Er/Sie (je nach Geschlecht des Schülers)
-<<Anrede2>> | er/sie (je nach Geschlecht des Schülers)
-<<Anrede3>> | seine/ihre (je nach Geschlecht des Schülers)
-<<Anrede4>> |  ihm/ihr (je nach Geschlecht des Schülers)
-<<Anrede5>> | seinen/ihren (je nach Geschlecht des Schülers)
+``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Anrede1>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Anrede2>>`` | er/sie (je nach Geschlecht des Schülers)
+``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
+``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
+``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
 ## SAR-GEMS-Verhaltenszeugnis.rpt
 
@@ -974,19 +980,19 @@ Tragen Sie im Menü Schüler > Zeugnis > Details die Note für die Mitarbeit und
 **(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  so <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Vorname>> | Vorname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Frau>> |  Frau
-<<Sie>> | Sie
-<<Herr>> | Herr
-<<Herrn>> | Herrn
-<<Er>> | Er
+``<<Vorname>>`` | Vorname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Frau>>`` |  Frau
+``<<Sie>>`` | Sie
+``<<Herr>>`` | Herr
+``<<Herrn>>`` | Herrn
+``<<Er>>`` | Er
 
 **(A0474)** Schüler > Zeugnis > Fächer > Merkmal (1)
 

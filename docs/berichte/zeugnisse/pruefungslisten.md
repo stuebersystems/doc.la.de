@@ -7,9 +7,9 @@
 **(A0092)** Abitur > Auswahl > Drucken > Prüfungslisten Drucken...
 
 Zum Drucken der Prüfungslisten gehen Sie wie folgt vor:
-1)** Im Menü Abitur > Auswahl markieren Sie die gewünschten Schüler
-2)** Wählen Sie über Start > Drucken > Prüfungslisten Drucken... aus
-3)** Im darauf folgenden Assistenten wählen Sie das gewünschte Fach aus und bestätigen
+1) Im Menü Abitur > Auswahl markieren Sie die gewünschten Schüler
+2) Wählen Sie über Start > Drucken > Prüfungslisten Drucken... aus
+3) Im darauf folgenden Assistenten wählen Sie das gewünschte Fach aus und bestätigen
 
 ### Prüfungsliste (Abitur).rpt
 

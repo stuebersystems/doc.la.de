@@ -178,7 +178,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.4)** Merkmal | Bedeutung
+**(A0021.4)** 
+
+Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
 
@@ -237,7 +239,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.4)** Merkmal | Bedeutung
+**(A0021.4)** 
+
+Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
 
@@ -303,7 +307,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.10)** Merkmal | Bedeutung
+**(A0021.10)** 
+
+Merkmal | Bedeutung
 --|--
 ASL | Leistungsstand, Sozial- und Arbeitsverhalten oder Bemerkungen zum Arbeits- und Sozialverhalten und zur Lernentwicklung oder Bericht zum Arbeits- und Sozialverhalten und über die Leistungen
 SSL | Bericht zum Sozial- und Spielverhalten und über die Lernbereiche
@@ -457,20 +463,20 @@ Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü Mandant
 Schüler > Zeugnis > Bemerkungen / Formulare
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Vorname>> | Vorname, Vorname2 und Namenszusatz des Schülers
-<<Anrede1>> | Er/Sie (je nach Geschlecht des Schülers)
-<<Anrede2>> | er/sie (je nach Geschlecht des Schülers)
-<<Anrede3>> | seine/ihre (je nach Geschlecht des Schülers)
-<<Anrede4>> |  ihm/ihr (je nach Geschlecht des Schülers)
-<<Anrede5>> | seinen/ihren (je nach Geschlecht des Schülers)
+````<<Name>>```` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Anrede1>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Anrede2>>`` | er/sie (je nach Geschlecht des Schülers)
+``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
+``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
+``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
 ## MVP-BS-AZ.rpt
 
@@ -507,7 +513,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.4)** Merkmal | Bedeutung
+**(A0021.4)** 
+
+Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
 
@@ -564,7 +572,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.4)** Merkmal | Bedeutung
+**(A0021.4)** 
+
+Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
 
@@ -606,7 +616,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.4)** Merkmal | Bedeutung
+**(A0021.4)** 
+
+Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
 
@@ -649,14 +661,14 @@ Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Vorname>> | Vorname, Vorname2 und Namenszusatz des Schülers
-<<Anrede1>> | Er/Sie (je nach Geschlecht des Schülers)
-<<Anrede2>> | er/sie (je nach Geschlecht des Schülers)
-<<Anrede3>> | seine/ihre (je nach Geschlecht des Schülers)
-<<Anrede4>> |  ihm/ihr (je nach Geschlecht des Schülers)
-<<Anrede5>> | seinen/ihren (je nach Geschlecht des Schülers)
+````<<Name>>```` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Anrede1>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Anrede2>>`` | er/sie (je nach Geschlecht des Schülers)
+``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
+``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
+``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
 **(A0111)** Ausdruck
 
@@ -815,7 +827,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.11)** Merkmal | Bedeutung
+**(A0021.11)** 
+
+Merkmal | Bedeutung
 --|--
 PK | Teilnahme an Projektkursen
 
@@ -1000,20 +1014,20 @@ Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü Mandant
 Schüler > Zeugnis > Bemerkungen / Formulare
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Vorname>> | Vorname, Vorname2 und Namenszusatz des Schülers
-<<Anrede1>> | Er/Sie (je nach Geschlecht des Schülers)
-<<Anrede2>> | er/sie (je nach Geschlecht des Schülers)
-<<Anrede3>> | seine/ihre (je nach Geschlecht des Schülers)
-<<Anrede4>> |  ihm/ihr (je nach Geschlecht des Schülers)
-<<Anrede5>> | seinen/ihren (je nach Geschlecht des Schülers)
+````<<Name>>```` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Anrede1>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Anrede2>>`` | er/sie (je nach Geschlecht des Schülers)
+``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
+``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
+``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
 **(A0718)** Schlüsselverzeichnisse > Fachrichtungen, Schwerpunkte
 ------
@@ -1148,7 +1162,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.18)** Merkmal | Bedeutung
+**(A0021.18)** 
+
+Merkmal | Bedeutung
 --|--
 lernEntw  | Text für Lernentwicklungsbericht
 Vermerke  | Zusätzliche Vermerke
@@ -1191,7 +1207,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.18)** Merkmal | Bedeutung
+**(A0021.18)** 
+
+Merkmal | Bedeutung
 --|--
 lernEntw  | Text für Lernentwicklungsbericht
 Vermerke  | Zusätzliche Vermerke
@@ -1234,7 +1252,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.18)** Merkmal | Bedeutung
+**(A0021.18)** 
+
+Merkmal | Bedeutung
 --|--
 lernEntw  | Text für Lernentwicklungsbericht
 Vermerke  | Zusätzliche Vermerke
@@ -1277,7 +1297,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.18)** Merkmal | Bedeutung
+**(A0021.18)** 
+
+Merkmal | Bedeutung
 --|--
 lernEntw  | Text für Lernentwicklungsbericht
 Vermerke  | Zusätzliche Vermerke
@@ -1329,7 +1351,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.10)** Merkmal | Bedeutung
+**(A0021.10)** 
+
+Merkmal | Bedeutung
 --|--
 ASL | Leistungsstand, Sozial- und Arbeitsverhalten oder Bemerkungen zum Arbeits- und Sozialverhalten und zur Lernentwicklung oder Bericht zum Arbeits- und Sozialverhalten und über die Leistungen
 SSL | Bericht zum Sozial- und Spielverhalten und über die Lernbereiche
@@ -1397,7 +1421,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.10)** Merkmal | Bedeutung
+**(A0021.10)** 
+
+Merkmal | Bedeutung
 --|--
 ASL | Leistungsstand, Sozial- und Arbeitsverhalten oder Bemerkungen zum Arbeits- und Sozialverhalten und zur Lernentwicklung oder Bericht zum Arbeits- und Sozialverhalten und über die Leistungen
 SSL | Bericht zum Sozial- und Spielverhalten und über die Lernbereiche
@@ -1503,28 +1529,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````<<Name>>```` | Vorname Vorname2 Namenszusatz Nachname
+````<<Name>>```` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0778)** Schlüsselverzeichnisse > Fachgruppen
 
@@ -1847,7 +1874,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.29)** Merkmal | Bedeutung
+**(A0021.29)** 
+
+Merkmal | Bedeutung
 --|--
 GesamtE | Text für Bemerkung und Gesamteinschätzung
 
@@ -1906,7 +1935,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.28)** Merkmal | Bedeutung
+**(A0021.28)** 
+
+Merkmal | Bedeutung
 --|--
 Lern  | Lernverhalten
 Schule  | Verhalten in der Schule
@@ -1978,7 +2009,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.29)** Merkmal | Bedeutung
+**(A0021.29)** 
+
+Merkmal | Bedeutung
 --|--
 GesamtE | Text für Bemerkung und Gesamteinschätzung
 
@@ -2055,7 +2088,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.27)** Merkmal | Bedeutung
+**(A0021.27)** 
+
+Merkmal | Bedeutung
 --|--
 Vermerke > Vermerke
 
@@ -2227,7 +2262,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.18)** Merkmal | Bedeutung
+**(A0021.18)** 
+
+Merkmal | Bedeutung
 --|--
 lernEntw  | Text für Lernentwicklungsbericht
 Vermerke  | Zusätzliche Vermerke
@@ -2333,7 +2370,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.10)** Merkmal | Bedeutung
+**(A0021.10)** 
+
+Merkmal | Bedeutung
 --|--
 ASL | Leistungsstand, Sozial- und Arbeitsverhalten oder Bemerkungen zum Arbeits- und Sozialverhalten und zur Lernentwicklung oder Bericht zum Arbeits- und Sozialverhalten und über die Leistungen
 SSL | Bericht zum Sozial- und Spielverhalten und über die Lernbereiche
@@ -2372,7 +2411,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.18)** Merkmal | Bedeutung
+**(A0021.18)** 
+
+Merkmal | Bedeutung
 --|--
 lernEntw  | Text für Lernentwicklungsbericht
 Vermerke  | Zusätzliche Vermerke
@@ -2449,7 +2490,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.10)** Merkmal | Bedeutung
+**(A0021.10)** 
+
+Merkmal | Bedeutung
 --|--
 ASL | Leistungsstand, Sozial- und Arbeitsverhalten oder Bemerkungen zum Arbeits- und Sozialverhalten und zur Lernentwicklung oder Bericht zum Arbeits- und Sozialverhalten und über die Leistungen
 SSL | Bericht zum Sozial- und Spielverhalten und über die Lernbereiche
@@ -2498,7 +2541,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.25)** Merkmal | Bedeutung
+**(A0021.25)** 
+
+Merkmal | Bedeutung
 --|--
 gut  | Gutachten
 
@@ -2567,7 +2612,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.18)** Merkmal | Bedeutung
+**(A0021.18)** 
+
+Merkmal | Bedeutung
 --|--
 lernEntw  | Text für Lernentwicklungsbericht
 Vermerke  | Zusätzliche Vermerke
@@ -2803,7 +2850,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.10)** Merkmal | Bedeutung
+**(A0021.10)** 
+
+Merkmal | Bedeutung
 --|--
 ASL | Leistungsstand, Sozial- und Arbeitsverhalten oder Bemerkungen zum Arbeits- und Sozialverhalten und zur Lernentwicklung oder Bericht zum Arbeits- und Sozialverhalten und über die Leistungen
 SSL | Bericht zum Sozial- und Spielverhalten und über die Lernbereiche
@@ -2846,7 +2895,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.10)** Merkmal | Bedeutung
+**(A0021.10)** 
+
+Merkmal | Bedeutung
 --|--
 ASL | Leistungsstand, Sozial- und Arbeitsverhalten oder Bemerkungen zum Arbeits- und Sozialverhalten und zur Lernentwicklung oder Bericht zum Arbeits- und Sozialverhalten und über die Leistungen
 SSL | Bericht zum Sozial- und Spielverhalten und über die Lernbereiche
@@ -2980,7 +3031,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.27)** Merkmal | Bedeutung
+**(A0021.27)** 
+
+Merkmal | Bedeutung
 --|--
 Vermerke > Vermerke
 
@@ -3061,7 +3114,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.29)** Merkmal | Bedeutung
+**(A0021.29)** 
+
+Merkmal | Bedeutung
 --|--
 GesamtE | Text für Bemerkung und Gesamteinschätzung
 
@@ -3140,7 +3195,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.31)** Merkmal | Bedeutung
+**(A0021.31)** 
+
+Merkmal | Bedeutung
 --|--
 GesamtE |  Text für Bemerkung und Gesamteinschätzung
 
@@ -3297,7 +3354,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.10)** Merkmal | Bedeutung
+**(A0021.10)** 
+
+Merkmal | Bedeutung
 --|--
 ASL | Leistungsstand, Sozial- und Arbeitsverhalten oder Bemerkungen zum Arbeits- und Sozialverhalten und zur Lernentwicklung oder Bericht zum Arbeits- und Sozialverhalten und über die Leistungen
 SSL | Bericht zum Sozial- und Spielverhalten und über die Lernbereiche
@@ -3340,7 +3399,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.10)** Merkmal | Bedeutung
+**(A0021.10)** 
+
+Merkmal | Bedeutung
 --|--
 ASL | Leistungsstand, Sozial- und Arbeitsverhalten oder Bemerkungen zum Arbeits- und Sozialverhalten und zur Lernentwicklung oder Bericht zum Arbeits- und Sozialverhalten und über die Leistungen
 SSL | Bericht zum Sozial- und Spielverhalten und über die Lernbereiche

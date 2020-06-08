@@ -1,6 +1,6 @@
 # Zeugnisse für Deutsche Auslandschulen
 
-## DAS (Zwischenzeugnis)** Variante 2.rpt
+## DAS (Zwischenzeugnis) Variante 2.rpt
 
 Dieser Bericht gibt die Arbeitsgemeinschaften untereinander ausdie AGs werden individuell beurteilt.
 Mögliche Beurteilungen:
@@ -74,20 +74,20 @@ Der Bericht muss aus über Drucken > Bericht Drucken (Strg + P)** gedruckt werde
 Schüler > Zeugnis > Bemerkungen / Formulare
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Vorname>> | Vorname, Vorname2 und Namenszusatz des Schülers
-<<Anrede1>> | Er/Sie (je nach Geschlecht des Schülers)
-<<Anrede2>> | er/sie (je nach Geschlecht des Schülers)
-<<Anrede3>> | seine/ihre (je nach Geschlecht des Schülers)
-<<Anrede4>> |  ihm/ihr (je nach Geschlecht des Schülers)
-<<Anrede5>> | seinen/ihren (je nach Geschlecht des Schülers)
+``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Anrede1>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Anrede2>>`` | er/sie (je nach Geschlecht des Schülers)
+``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
+``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
+``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
 **(A0709)** Schüler > Zeugnis > Fächer > Merkmal (d)
  
@@ -330,28 +330,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0779)** Klassen > Zeiträume > Zeitraum > Jahrgang
 
@@ -472,28 +473,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ## DAS-GY-ABI (Anlage 7).rpt
 
@@ -583,28 +585,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0805)** Schüler > Daten 3 > Fremdsprachenfolge
 
@@ -713,28 +716,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0805)** Schüler > Daten 3 > Fremdsprachenfolge
 
@@ -855,28 +859,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0805)** Schüler > Daten 3 > Fremdsprachenfolge
 
@@ -959,20 +964,20 @@ Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt 
 Schüler > Zeugnis > Bemerkungen / Formulare
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
 --|--
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>> | Nachname des Schülers
-<<Vorname>> | Vorname, Vorname2 und Namenszusatz des Schülers
-<<Anrede1>> | Er/Sie (je nach Geschlecht des Schülers)
-<<Anrede2>> | er/sie (je nach Geschlecht des Schülers)
-<<Anrede3>> | seine/ihre (je nach Geschlecht des Schülers)
-<<Anrede4>> |  ihm/ihr (je nach Geschlecht des Schülers)
-<<Anrede5>> | seinen/ihren (je nach Geschlecht des Schülers)
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Anrede1>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Anrede2>>`` | er/sie (je nach Geschlecht des Schülers)
+``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
+``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
+``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
 **(A0759)** Schüler > Daten 3 > Fremdsprachefolge > Sprachreferenzen
        
@@ -1049,28 +1054,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0810)** Schlüsselverzeichnis > Fächer > Merkmale
 
@@ -1161,28 +1167,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0810)** Schlüsselverzeichnis > Fächer > Merkmale
 
@@ -1246,7 +1253,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.58)** Merkmal | Bedeutung
+**(A0021.58)** 
+
+Merkmal | Bedeutung
 --|--
 MSA | Zeugnisbemerkung für das MSA Zeugnis
 
@@ -1297,28 +1306,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0791)** Schüler > Zeugnis > Leistungen
 
@@ -1545,28 +1555,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0792)** Schüler > Laufbahn > Abschluss
 
@@ -1620,7 +1631,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.58)** Merkmal | Bedeutung
+**(A0021.58)** 
+
+Merkmal | Bedeutung
 --|--
 MSA | Zeugnisbemerkung für das MSA Zeugnis
 
@@ -1667,28 +1680,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0791)** Schüler > Zeugnis > Leistungen
 
@@ -1773,28 +1787,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0810)** Schlüsselverzeichnis > Fächer > Merkmale
 
@@ -1875,28 +1890,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0810)** Schlüsselverzeichnis > Fächer > Merkmale
 
@@ -1996,28 +2012,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0844)** ENBREA Lernleistungen
 
@@ -2129,28 +2146,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0844)** ENBREA Lernleistungen
 
@@ -2258,28 +2276,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0818)** Schüler > Auswahl > SchülerID = Kenn.-Nr
 
@@ -2395,28 +2414,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0844)** ENBREA Lernleistungen
 
@@ -2550,28 +2570,29 @@ Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
 Berufsschule > Zeugnisbemerkungen
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-<<VornameV>> | Vorname Vorname2
-<<Nachname>> | Nachname
-<<NachnameV>> | Namenszusatz Nachname
-<<Name>> | Vorname Vorname2 Namenszusatz Nachname
-<<Name>> | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-<<Nachname>>  |  Nachname des Schülers
-<<Vorname>> |  Vorname, Vorname2 und Namenszusatz des Schülers
-<<Er_Sie>> |  Er/Sie (je nach Geschlecht des Schülers)
-<<Seine_Ihre>> | Seine/Ihre (je nach Geschlecht des Schülers)**     
-<<seine_ihre>> |  seine/ihre (je nach Geschlecht des Schülers)** 
-<<Ihm_Ihr>> |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-<<ihm_ihr>> |  ihm/ihr (je nach Geschlecht des Schülers)** 
-<<Seinen_Ihren>> |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-<<seinen_ihren>> |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-<<DerSchueler_DieSchuelerin>> |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-<<derSchueler_dieSchuelerin>>  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-<<DemSchueler_DerSchuelerin>>  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+````````<<Name>>```````` | Vorname Vorname2 Namenszusatz Nachname
+````````<<Name>>```````` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **(A0845)** Schüler > Laufbahn > Abschluss (Abschluss 1)
 
