@@ -1748,6 +1748,7 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 **(A0569)** `Schüler > Zeugnis > Fächer`
 
 Den Bildungsgang und die Dauer der „Integration in der Berufsschule“ legen Sie wie folgt an:
+
 1) Definieren Sie ein Fach im Schlüsselverzeichnis > Fächer, weisen Sie dieses im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu. Zusätzlich erhält dieses Fach im Feld "Fachstatus" „Praktikum“ zu (siehe auch A0015.75).
 2) Diesem Fach weisen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Zusatzklasse" die Klasse zu, wo der erfolgte „Bildungsgang“ hinterlegt ist.
 3) Die Anzahl der Wochen für die „Integration in der Berufsschule“ weisen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu (siehe auch A0375).
@@ -2026,7 +2027,8 @@ Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, 
 **(A0420)** `Schüler > Zeugnis > Fächer > Merkmal`
 
 Dauer Praktikum/ erufspraktische/Praktische Ausbildung: 
-# Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:
+
+Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:
 
 1) Das erste Zeichen des Terms bestimmt, ob die Praktikumszeit in Monate, Wochen, Tage oder Stunden ausgegeben werden soll. Für Monat(e) geben Sie ein "m", für Woche(n) geben Sie ein "w", für Tag(e) ein "t" und für Stunde(n) ein "h" an
 
@@ -2066,7 +2068,7 @@ Platzhalter | Ausgabe im Bericht
 ``<<Anrede4>>`` | ihm/ihr (je nach Geschlecht des Schülers)
 ``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
-### SAC-BF-AS (B.04.05).rpt
+Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung") unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:SAC-BF-AS (B.04.05).rpt
 
 B.04.05
 
@@ -4831,6 +4833,113 @@ Den Schwerpunkt der Klasse tragen Sie im Menü Klassen > Merkmale tragen Sie den
 
 ### SAC-FS-JZ (C.01.02).rpt
 
+C.01.02
+
+
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume > Zeitraum` im Feld "Jahrgang" eingetragen sein.
+
+
+**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+
+
+**(A0012)** `Klassen > Zeiträume > Zeitraum > Klassenstufe`
+
+Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers die Klassenstufe auf der Registerkarte `Zeiträume > Zeitraum` im Feld "Klassenstufe" eingetragen sein.
+
+
+**(A0013)**` Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+
+
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
+
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
+
+
+Kürzel | Schlüssel | Bezeichnung	
+--|--|--
+WahlPF | WahlPF | Wahlpflichtfach
+Wahlb | Wahlb | Wahlfächer bzw. –bereich
+Pflicht | Pflicht | Pflichtfach
+BerufS | BerufS | Berufsbezogener Lernbereich
+FHReife | FHReife| Zusatzausbildung zum Erwerb der Fachhochschulreife
+
+
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+
+
+**(A0035)** `Klassen > Daten > Bildungsgang`
+
+Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das Schlüsselverzeichnis "Bildungsgänge".
+
+
+**(A0039)** `Klassen > Daten > Berufsfeld`
+
+Weisen Sie im aktuellen Zeitraum im Menü Klasse > Daten das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
+
+
+**(A0045)** `Mandanten > Daten > Name 1`
+
+Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
+1" ein.
+
+
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
+
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
+
+
+**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
+
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+
+
+**(A0087)** `Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN S`chlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+
+
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
+
+
+**(A0112)** `Ausdruck`
+
+Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+
+
+**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren,die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
+"2" usw.
+
+
+**(A0239)** `Ausdruck`
+
+Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+
+**(A0429)** `Schüler > Laufbahn > Wiederholungsart`
+
+Die "Wiederholungsart" tragen Sie im Menü Schüler > Laufbahn im Feld "Wiederholungsart" ein. Grundlage bildet das `Schlüsselverzeichnis > Wiederholungsarten`. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+Nbest | leer | Wiederholer (Abschlussprüfung nicht bestanden)
+Nzug | leer | Wiederholer (zur Abschlussprüfung nicht zugelassen)
+Whmögl | leer | Wiederholung möglich
+Whnmögl | leer  | Wiederholung nicht möglich
+
 ## D-Zeugnisse
 
 ### SAC-FOS-AZ (D.01.03).rpt
@@ -5002,8 +5111,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 **(A0198)** Schüler > Zeugnis > Leistungen > Durchschnitt einblenden
 
 Der Gesamtdurchschnitt wird wie folgt ermittelt.
-1)** Bleibt das Feld "Durchschnitt 1" leer (Menü `Schüler > Zeugnis > Leistungen` Feld "Durchschnitt 1"), so wird der Durchschnitt gemäß Prüfungsvorschrift automatisch im Bericht berechnet.
-2)** Bleibt das Feld "Durchschnitt 1" nicht leer (Menü `Schüler > Zeugnis > Leistungen` Feld "Durchschnitt 1"), so wird der eingetragene Durchschnitt ausgegeben.
+
+1) Bleibt das Feld "Durchschnitt 1" leer (Menü `Schüler > Zeugnis > Leistungen` Feld "Durchschnitt 1"), so wird der Durchschnitt gemäß Prüfungsvorschrift automatisch im Bericht berechnet.
+2) Bleibt das Feld "Durchschnitt 1" nicht leer (Menü `Schüler > Zeugnis > Leistungen` Feld "Durchschnitt 1"), so wird der eingetragene Durchschnitt ausgegeben.
 
 **(A0216)** `Mandanten > Daten 1 > Ort`
 
@@ -5031,13 +5141,13 @@ FOS/FOS | 140 | Fachoberschule
 
 **(A0802)** Schüler > Drucken > Zeugnisse drucken...
 
-Die Durchschnittsnote, die im Zeugnis der Fachhochschulreife ausgewiesen wird, wird automatisch berechnet. Sie ist das arithmetische Mittel sämtlicher Noten dieses Zeugnisses. Sie wird auf eine Dezimalstelle ohne Rundung berechnet. Die Note für die Facharbeit (Fachstatus "FA")** und die Note im Fach Sport (Verzeichnis "Fächer", Aufgabenbereich "Sport)** bleiben bei der Berechnung der Durchschnittsnote unberücksichtigt.
+Die Durchschnittsnote, die im Zeugnis der Fachhochschulreife ausgewiesen wird, wird automatisch berechnet. Sie ist das arithmetische Mittel sämtlicher Noten dieses Zeugnisses. Sie wird auf eine Dezimalstelle ohne Rundung berechnet. Die Note für die Facharbeit (Fachstatus "FA") und die Note im Fach Sport (Verzeichnis "Fächer", Aufgabenbereich "Sport) bleiben bei der Berechnung der Durchschnittsnote unberücksichtigt.
 
-**(A0856)** Schlüsselverzeichnisse > Fächer > Fachpraktischer Teil der Ausbildung
+**(A0856)** `Schlüsselverzeichnisse > Fächer > Fachpraktischer Teil der Ausbildung`
 
 Um den " Fachpraktischen Teil der Ausbildung" als bestanden oder nicht bestanden auszugeben, legen Sie im Schlüsselverzeichnis > Fächer ein Fach mit der Fachbezeichnung "Fachpraktischer Teil der Ausbildung" an. Weisen Sie dieses Fach dem Schüler im Menü Schüler > Fächer zu, zusätzlich tragen Sie im Feld "Fachstatus" den Wert "FachP" ein. Grundlage bildet das Schlüsselverzeichnis "Fachstatus". Die Benotung erfolgt im Feld "Note".
 
-**(A0857)** Schlüsselverzeichnisse > Noten > Füllwerte
+**(A0857)** `Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B.bestanden, nicht bestanden)** auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird die Bezeichnung ausgegeben.
 
@@ -5047,7 +5157,7 @@ nb | nicht bestanden | Füllwerte
 oB | ohne Bewertung | Füllwerte
 b | bestanden | Füllwerte
 
-**(A0858)** Schlüsselverzeichnisse > Fächer > Facharbeit
+**(A0858)** `Schlüsselverzeichnisse > Fächer > Facharbeit`
 
 Für die Ausgabe der Facharbeit legen Sie im Schlüsselverzeichnis > Fächer ein Fach mit der Fachbezeichnung "Facharbeit" an. Weisen Sie dieses Fach dem Schüler im Menü Schüler > Fächer zu, zusätzlich tragen Sie im Feld "Fachstatus" den Wert FA" ein. Grundlage bildet das Schlüsselverzeichnis "Fachstatus". 
 Das Thema der Facharbeit tragen Sie im Menü Schüler > Leistungem im Feld "Beurteilung" an. Die Note der Facharbeit erfolgt im Feld "Note".
@@ -5343,12 +5453,10 @@ Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ei
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
 
-1. Prüfungskomponente | Vorgehensweise in MAGELLAN
+5. Prüfungskomponente | Vorgehensweise in MAGELLAN
 --|--
-Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü Abitur > Qualifikation in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.
-Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
-Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
-markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Abitur > Prüfung > Lernleistung, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
+Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.<br/><br/>Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
+Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü A`bitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren. <br/><br/>Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. `Abitur > Prüfung > Lernleistung`, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. <br/><br/>Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
 **(A0173)** `Schüler > Zeugnis > Leistungen > Noten`
 
@@ -5788,7 +5896,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>>`` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 ``<<DemSchueler_DerSchuelerin>>`` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0008)** ``Klassen > Zeiträume > Zeitraum` > Jahrgang`
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume > Zeitraum` im Feld "Jahrgang" eingetragen sein.
 
@@ -5903,7 +6011,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>>`` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 ``<<DemSchueler_DerSchuelerin>>`` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0008)** ``Klassen > Zeiträume > Zeitraum` > Jahrgang`
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume > Zeitraum` im Feld "Jahrgang" eingetragen sein.
 
@@ -6032,7 +6140,7 @@ Die Fachrichtung des Schülers legen Sie wie folgt an:
 
 Ausgegeben auf dem Zeugnis wird die Fachrichtung des Bildungsganges.
 
-**(A0008)** ``Klassen > Zeiträume > Zeitraum` > Jahrgang`
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume > Zeitraum` im Feld "Jahrgang" eingetragen sein.
 
@@ -6142,7 +6250,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>>`` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 ``<<DemSchueler_DerSchuelerin>>`` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0008)** ``Klassen > Zeiträume > Zeitraum` > Jahrgang`
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume > Zeitraum` im Feld "Jahrgang" eingetragen sein.
 
@@ -6150,9 +6258,9 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers de
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers die Klassenstufe auf der Registerkarte `Zeiträume > Zeitraum` im Feld "Klassenstufe" eingetragen sein.
 
-## F-Zeugnisse
+### F-Zeugnisse
 
-### Zertifikat (F.01.09).rpt
+### SAC-Zertifikat (F.01.09).rpt
 
 F.01.09
 
@@ -6499,7 +6607,7 @@ Position | Fach
 
 C.01.02
 
-**(A0008)** ``Klassen > Zeiträume > Zeitraum` > Jahrgang`
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume > Zeitraum` im Feld "Jahrgang" eingetragen sein.
 
@@ -6688,7 +6796,7 @@ Zum Anlegen der „komplexe Arbeitsaufgabe“ inklusive Note unter Bemerkungen g
 2) Legen Sie eine Bemerkung im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` an. Weisen Sie zudem im Feld "Merkmal" das Kürzel "Thema" zu und das definieren Sie das Thema der Arbeitsaufgabe im Feld "Text".
 Der vorgegebene Standardtext inklusive dem Thema der Arbeitsaufgabe und der Note werden nun ausgegeben.
 
-## Nach Anlage...-Zeugnisse
+### Nach Anlage...-Zeugnisse
 
 ### SAC-FO-HJI (nach Anlage 31).rpt
 
@@ -6797,7 +6905,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-## Sonstige Zeugnisse
+### Sonstige Zeugnisse
 
 ### SAC-BS-AB (2seitig).rpt
 
@@ -6993,9 +7101,9 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-## Archiv
+### Archiv
 
-### ALT | SAC-BG-ABI (E.01.06).rpt
+## ALT | SAC-BG-ABI (E.01.06).rpt
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -7105,7 +7213,7 @@ Die Fachrichtung des Schülers legen Sie wie folgt an:
 
 Ausgegeben auf dem Zeugnis wird die Fachrichtung des Bildungsganges.
 
-### ALT | SAC-FO-AZ (D.01.04).rpt
+### SACDie Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:ALT | SAC-FO-AZ (D.01.04).rpt
 
 Bitte SAC-FOS-AZ (D.01.03).rpt verwenden
 
@@ -7202,7 +7310,7 @@ Kürzel | Schlüssel | Bezeichnung
 Whmögl | leer | Wiederholung möglich
 Whnmögl | leer | Wiederholung nicht möglich
 
-### ALT | SAC-FO-FHReife (D.01.05).rpt
+### SACDie Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:ALT | SAC-FO-FHReife (D.01.05).rpt
 
 Bitte SAC-FOS-FHReife (D.01.04).rpt verwenden
 
@@ -7274,7 +7382,7 @@ Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugni
 
 Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, Ethik und Sport nicht mit einfliessen, ist es zwingend erforderlich den jeweiligen Fächern im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" die Werte "Religion" oder "Sport" zuzuweisen.
 
-### ALT | SAC-FO-FHReife (D.01.06).rpt
+### SACDie Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:ALT | SAC-FO-FHReife (D.01.06).rpt
 
 Bitte SAC-FOS-FHReife (D.01.04).rpt verwenden
 
@@ -7325,7 +7433,7 @@ Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugni
 
 Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, Ethik und Sport nicht mit einfliessen, ist es zwingend erforderlich den jeweiligen Fächern im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" die Werte "Religion" oder "Sport" zuzuweisen.
 
-### ALT | SAC-FO-HJZ (D.01.03).rpt
+### SACDie Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:ALT | SAC-FO-HJZ (D.01.03).rpt
 
 Bitte SAC-FOS-HJZ (D.01.01).rpt verwenden
 
@@ -7399,7 +7507,7 @@ oB | ohne Bewertung | Füllwerte
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-### ALT | SAC-FO-JZ (D.01.02).rpt
+### SACDie Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:ALT | SAC-FO-JZ (D.01.02).rpt
 
 Bitte SAC-FOS-JZ (D.01.02).rpt verwenden
 
