@@ -118,6 +118,7 @@ Ob im Zeugnis das Betriebspraktikum 1./2. oder 3. als "bestanden" oder "nicht be
 LA1 (beliebig)| LA1 | Betriebliche Lernaufgabe 1 (beliebig)
 LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 2 (beliebig)
 LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
+
 2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.
 
 3. Die Betriebliche Lernaufgabe 1,/2./3.  bezieht sich auf das jeweilige Praktikum 1./2./3. Ein Eintrag "N" im Feld "Merkmal" bei der entsprechenden Lernaufgabe steuert die Ausgabe "nicht bestanden". Bleibt das Feld "Merkmal" leer, wird das Praktikum als "bestanden" ausgegeben.

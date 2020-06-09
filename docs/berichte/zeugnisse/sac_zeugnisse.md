@@ -6241,7 +6241,7 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers de
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers die Klassenstufe auf der Registerkarte `Zeiträume > Zeitraum` im Feld "Klassenstufe" eingetragen sein.
 
-### F-Zeugnisse
+## F-Zeugnisse
 
 ### SAC-Zertifikat (F.01.09).rpt
 
@@ -6779,7 +6779,7 @@ Zum Anlegen der „komplexe Arbeitsaufgabe“ inklusive Note unter Bemerkungen g
 2) Legen Sie eine Bemerkung im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` an. Weisen Sie zudem im Feld "Merkmal" das Kürzel "Thema" zu und das definieren Sie das Thema der Arbeitsaufgabe im Feld "Text".
 Der vorgegebene Standardtext inklusive dem Thema der Arbeitsaufgabe und der Note werden nun ausgegeben.
 
-### Nach Anlage...-Zeugnisse
+## Nach Anlage...-Zeugnisse
 
 ### SAC-FO-HJI (nach Anlage 31).rpt
 
@@ -6888,7 +6888,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-### Sonstige Zeugnisse
+## Sonstige Zeugnisse
 
 ### SAC-BS-AB (2seitig).rpt
 
@@ -7084,9 +7084,9 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-### Archiv
+## Archiv
 
-## ALT | SAC-BG-ABI (E.01.06).rpt
+### ALT | SAC-BG-ABI (E.01.06).rpt
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -7196,7 +7196,7 @@ Die Fachrichtung des Schülers legen Sie wie folgt an:
 
 Ausgegeben auf dem Zeugnis wird die Fachrichtung des Bildungsganges.
 
-### SACDie Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:ALT | SAC-FO-AZ (D.01.04).rpt
+### ALT | SAC-FO-AZ (D.01.04).rpt
 
 Bitte SAC-FOS-AZ (D.01.03).rpt verwenden
 
@@ -7293,7 +7293,7 @@ Kürzel | Schlüssel | Bezeichnung
 Whmögl | leer | Wiederholung möglich
 Whnmögl | leer | Wiederholung nicht möglich
 
-### SACDie Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:ALT | SAC-FO-FHReife (D.01.05).rpt
+### ALT | SAC-FO-FHReife (D.01.05).rpt
 
 Bitte SAC-FOS-FHReife (D.01.04).rpt verwenden
 
@@ -7365,7 +7365,7 @@ Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugni
 
 Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, Ethik und Sport nicht mit einfliessen, ist es zwingend erforderlich den jeweiligen Fächern im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" die Werte "Religion" oder "Sport" zuzuweisen.
 
-### SACDie Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:ALT | SAC-FO-FHReife (D.01.06).rpt
+### ALT | SAC-FO-FHReife (D.01.06).rpt
 
 Bitte SAC-FOS-FHReife (D.01.04).rpt verwenden
 
@@ -7416,7 +7416,7 @@ Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugni
 
 Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, Ethik und Sport nicht mit einfliessen, ist es zwingend erforderlich den jeweiligen Fächern im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" die Werte "Religion" oder "Sport" zuzuweisen.
 
-### SACDie Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:ALT | SAC-FO-HJZ (D.01.03).rpt
+### ALT | SAC-FO-HJZ (D.01.03).rpt
 
 Bitte SAC-FOS-HJZ (D.01.01).rpt verwenden
 
@@ -7490,7 +7490,7 @@ oB | ohne Bewertung | Füllwerte
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-### SACDie Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:ALT | SAC-FO-JZ (D.01.02).rpt
+### ALT | SAC-FO-JZ (D.01.02).rpt
 
 Bitte SAC-FOS-JZ (D.01.02).rpt verwenden
 
