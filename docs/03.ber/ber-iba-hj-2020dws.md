@@ -74,7 +74,7 @@ Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betriebli
 |--------|-----------|-----------------|
 | LA1 (beliebig)| LA1 | Betriebliche Lernaufgabe 1 (beliebig) |
 | LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 2 (beliebig)|
-| LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 3 (beliebig)|
+| LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)|
 
 Weisen Sie diese Fächer ebenfalls im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.  
 
@@ -104,3 +104,35 @@ Durchschnitte 2 | Fachtpraxis - gesamt|
 Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsgang für das 1. Halbjahr in Berlin.
 
 ![Berechnung](..\assets\images\IBA\IBA03.png)
+
+## Sonstiges für den Zeugnisdruck
+
+### Betriebspraktikum 1./2. oder 3. bestanden/nicht bestanden
+
+Ob im Zeugnis das Betriebspraktikum 1./2. oder 3. als "bestanden" oder "nicht bestanden" ausgegeben wird, hängt vom Eintrag im Menü `Schüler > Zeugnis > Fächer`  im Feld "Merkmal" ab.
+
+1. Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betrieblichen Lernaufgaben an, entscheidend ist der Eintrag im Feld "Schlüssel", dieser muss wie folgt hinterlegt sein:
+
+ Kürzel | Schlüssel | Bezeichnung      
+--------|-----------|-----------------
+LA1 (beliebig)| LA1 | Betriebliche Lernaufgabe 1 (beliebig)
+LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 2 (beliebig)
+LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
+2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.
+
+3. Die Betriebliche Lernaufgabe 1,/2./3.  bezieht sich auf das jeweilige Praktikum 1./2./3. Ein Eintrag "N" im Feld "Merkmal" bei der entsprechenden Lernaufgabe steuert die Ausgabe "nicht bestanden". Bleibt das Feld "Merkmal" leer, wird das Praktikum als "bestanden" ausgegeben.
+
+### Betriebspraktikum 1./2. oder 3. - erfolgt im 1. oder 2.HJ?
+
+Tragen Sie den Betrieb des Praktikums im Menü `Schüler > Ausbildung` im Bereich „Praxibetrieb“ ein. Wenn Sie die Schaltfläche `+`oder `Editieren` anklicken, können Sie einen Praxisbetrieb zuweisen bzw. bearbeiten. Im Feld "Praxisbetrieb" hinterlegen Sie den Betrieb. 
+Erfassen Sie weiterhin in den Feldern `Praxis von` und `bis` den Zeitraum des Praktikums und die `Vertragsnummer` wie folgt:
+
+Eintrag für | Eingabe wie folgt
+--|--
+1. Praktikum | LA1HJ1 
+2. Praktikum | LA2HJ1 oder LA2HJ2
+3. Praktikum | LA3HJ2
+
+Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die auch benotet wird, dem 1./2./3 Betriebspraktikum zuordnen. Zudem wird ein Bezug des Betriebspraktikums zum 1. Halbjahr bzw. 2. Halbjahr hergestellt.
+
+![Vertragsnummer des Betriebspraktikums](..\assets\images\IBA\IBA04.png)
