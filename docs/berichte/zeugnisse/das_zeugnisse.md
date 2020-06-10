@@ -13,9 +13,10 @@ Mögliche Beurteilungen:
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.39)** Bitte legen Sie Ihre Arbeitsgemeinschaften unter Schüsselverzeichnisse > Fächer als Fachzeilen an. Verteilen Sie die Arbeitsgemeinschaften per Sammelzuweisung der Fachtafeln oder weisen sie direkt dem Schüler unter Schüler > Zeugnis > Fächer die entsprechenden Fächer der AGs zu. Weisen Sie die Fachzeilen bitte den Fachstatus AG. Legen Sie dazu den Fachstatus einmalig wie folgt an:
@@ -35,9 +36,9 @@ SozialV | SozialV | Sozialverhalten
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0054)** Klassen > Daten > Schulform
+**(A0054)** `Klassen > Daten > Schulform`
 
-Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Schulformen.
+Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
 **(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
@@ -103,9 +104,10 @@ Tragen Sie im Menü Schüler > Daten 2  im Bereich "Bereits besuchte Schulen" di
 
 Übersicht über die Ergebnisse der Deutschen Internationalen Abiturprüfung der einzelnen Prüfling (s. § 39 (2))
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.52)** 
@@ -118,7 +120,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 4PF  |  4PF | 4. Prüfungsfach
 5PF | 5PF | 5. Prüfungsfach (nur mündlich)** Pflichtbereich
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -126,7 +128,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -151,9 +153,9 @@ Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten i
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
 **(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
@@ -225,9 +227,9 @@ Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten i
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
 **(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
@@ -259,9 +261,9 @@ Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0054)** Klassen > Daten > Schulform
+**(A0054)** `Klassen > Daten > Schulform`
 
-Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Schulformen.
+Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
 **(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
@@ -374,9 +376,9 @@ Tragen Sie im Menü Klassen > Daten die Schulart im Feld „Schulart“ ein. Gru
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
 **(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
@@ -495,10 +497,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 ALT: Bitte verwenden Sie den Bericht DAS-GY-ABI (DIA)(2019).rpt
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.7)** 
 
@@ -518,7 +519,7 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -539,7 +540,7 @@ Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfu
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -611,10 +612,9 @@ Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintr
 ZEUGNIS DER Zeugnis der ALLGEMEINEN HOCHSCHULREIFE mit besonderer Lernleistung
 Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland  (Beschluss der Kultusministerkonferenz vom 11.06.2015)** zugrunde.
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.7)** 
 
@@ -642,7 +642,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -669,7 +669,7 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -753,10 +753,9 @@ ZEUGNIS DER Zeugnis der ALLGEMEINEN HOCHSCHULREIFE mit besonderer Lernleistung
 Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland  (Beschluss der Kultusministerkonferenz vom 11.06.2015 i.d.F. vom 03.05.2018)** zugrunde.
 (Anlage 8a zu DIA-PO [§ 37])
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.7)** 
 
@@ -784,7 +783,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -811,7 +810,7 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -893,10 +892,9 @@ Landessprache | LS
 
 NEU ab 2017 - Ausgabe der Sprachniveaus
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.7)** 
 
@@ -934,7 +932,7 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -946,7 +944,7 @@ Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ei
 
 Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfungsfächer die jeweiligen Fächer eingetragen sein.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -977,10 +975,9 @@ Bitte tragen Sie im Menü Schüler > Daten 3 > Fremdsprachefolge im Feld "Refere
 
 Abgangszeugnis-mit-FHR-PO
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.7)** 
 
@@ -1009,7 +1006,7 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -1030,7 +1027,7 @@ Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfu
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -1089,10 +1086,9 @@ Biologie wurde von Klassenstufe 5 bis Klassenstufe 10 belegt, dann tragen Sie im
 
 Abgangszeugnis-ohne-FHR
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.7)** 
 
@@ -1121,7 +1117,7 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -1142,7 +1138,7 @@ Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfu
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -1217,9 +1213,10 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.11)** 
@@ -1387,10 +1384,9 @@ Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an De
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.7)** 
 
@@ -1406,7 +1402,7 @@ Religion | Weitere Fächer
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -1414,7 +1410,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfungsfächer die jeweiligen Fächer eingetragen sein.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -1595,9 +1591,10 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.11)** 
@@ -1723,10 +1720,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0045)** Mandanten > Daten >Name 1
 
@@ -1824,10 +1820,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0045)** Mandanten > Daten >Name 1
 

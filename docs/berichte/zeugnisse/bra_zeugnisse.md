@@ -85,9 +85,10 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.28)** 
@@ -121,9 +122,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
+**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
 **(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
@@ -143,9 +144,10 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.28)** 
@@ -179,9 +181,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
+**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
 **(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
@@ -205,9 +207,10 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.28)** 
@@ -241,9 +244,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
+**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
 **(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
@@ -327,9 +330,10 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Noten" angegeben sein.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.28)** 
@@ -355,9 +359,9 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
+**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
 **(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
@@ -406,9 +410,10 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Noten" angegeben sein.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.27)** 
@@ -433,9 +438,9 @@ Die Fachrichtung weisen Sie im Menü Klassen > Daten im Feld "Berufsfeld" zu. Gr
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0054)** Klassen > Daten > Schulform
+**(A0054)** `Klassen > Daten > Schulform`
 
-Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Schulformen.
+Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
 **(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
@@ -484,9 +489,10 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Noten" angegeben sein.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.27)** 
@@ -528,9 +534,10 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Noten" angegeben sein.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.27)** 
@@ -555,13 +562,13 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schül
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0035)** Klassen > Daten > Bildungsgang
+**(A0035)** `Klassen > Daten > Bildungsgang`
 
-Weisen Sie unter Klassen > Daten im Feld "Bildungsgang" zu. Grundlage bildet das Schlüsselverzeichnis "Bildungsgänge".
+Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0054)** Klassen > Daten > Schulform
+**(A0054)** `Klassen > Daten > Schulform`
 
-Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Schulformen.
+Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
 **(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
@@ -646,9 +653,9 @@ Fächer, denen keine Note zugewiesen wurde, werden auf dem Zeugnis nicht angezei
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
+**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
 **(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
@@ -660,9 +667,10 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.28)** 
@@ -677,9 +685,9 @@ FachT | FachT | Fachtheoretischer Bereich
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
+**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
 ## BRA-BS-AS (mit Durchschnittsberechnung).rpt
 
@@ -687,9 +695,10 @@ Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzuf
 
 Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.28)** 
@@ -704,9 +713,9 @@ FachT | FachT | Fachtheoretischer Bereich
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
+**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
 ## BRA-BS-AS.rpt
 
@@ -714,9 +723,10 @@ Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzuf
 
 Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.28)** 
@@ -731,9 +741,9 @@ FachT | FachT | Fachtheoretischer Bereich
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
+**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
 ## BRA-BV-AS (Bescheinigung).rpt
 
@@ -767,9 +777,10 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Noten" angegeben sein.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.27)** 
@@ -783,9 +794,9 @@ Pflicht | Pflicht | Allgemeiner / Berufsübergreifender / Fachrichtungsübergrei
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0035)** Klassen > Daten > Bildungsgang
+**(A0035)** `Klassen > Daten > Bildungsgang`
 
-Weisen Sie unter Klassen > Daten im Feld "Bildungsgang" zu. Grundlage bildet das Schlüsselverzeichnis "Bildungsgänge".
+Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
 **(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
@@ -831,9 +842,10 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Noten" angegeben sein.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.27)** 
@@ -843,9 +855,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 BerufS | BerufS | Berufsbezogener /Fachrichtungsbezogner Lernbereich
 Pflicht | Pflicht | Allgemeiner / Berufsübergreifender / Fachrichtungsübergreifender Lernbereich
 
-**(A0035)** Klassen > Daten > Bildungsgang
+**(A0035)** `Klassen > Daten > Bildungsgang`
 
-Weisen Sie unter Klassen > Daten im Feld "Bildungsgang" zu. Grundlage bildet das Schlüsselverzeichnis "Bildungsgänge".
+Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
 **(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
@@ -887,9 +899,10 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Noten" angegeben sein.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.27)** 
@@ -935,9 +948,9 @@ Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werde
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
+**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
 **(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
@@ -961,9 +974,9 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
+**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
 **(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
@@ -1001,9 +1014,10 @@ Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Fel
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Noten" angegeben sein.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.27)** 
@@ -1048,9 +1062,10 @@ Jahreszeugnis  der Grundschule
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.11)** 
@@ -1062,11 +1077,11 @@ Kürzel |  Schlüssel | Bezeichnung
 3 PF  | 3 PF  | 3. Prüfungsfach
 4 PF  | 4 PF  | 4. Prüfungsfach
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -1076,7 +1091,7 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Formblatt 09-Mitteilung über die Ergebnisse in den Abiturprüfungen
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -1084,7 +1099,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfungsfächer die jeweiligen Fächer eingetragen sein.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -1094,7 +1109,7 @@ Tragen Sie die Durchschnittsnote und die Gesamtpunktzahl des jeweiligen Schüler
 
 ## BRA-GY-ABI.rpt
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -1102,9 +1117,10 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.11)** 
@@ -1209,10 +1225,9 @@ Dem Schüler weisen Sie unter Schüler > Zeugnis > Fächer die gewählte Religio
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.6)** 
 
@@ -1322,10 +1337,9 @@ Dem Schüler weisen Sie unter Schüler > Zeugnis > Fächer die gewählte Religio
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.6)** 
 
@@ -1362,7 +1376,7 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 ## BRA-GY-AZ (Abitur).rpt
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -1417,7 +1431,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## BRA-GY-AZ (Abitur-2010).rpt
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -1429,10 +1443,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.6)** 
 
@@ -1486,7 +1499,7 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü Abitur > Qualifikation die Grundlage für die Ausgabe. Es werden die Angaben in den Feldern "Durchschnitt" bzw. "Gesamtpunktzahl" verwendet.
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -1498,10 +1511,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.6)** 
 
@@ -1568,10 +1580,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.2)** 
 
@@ -1597,7 +1608,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurs
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -1707,10 +1718,9 @@ Dem Schüler weisen Sie unter Schüler > Zeugnis > Fächer die gewählte Religio
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.6)** 
 
@@ -1809,10 +1819,9 @@ Dem Schüler weisen Sie unter Schüler > Zeugnis > Fächer die gewählte Religio
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.6)** 
 

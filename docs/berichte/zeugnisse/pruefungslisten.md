@@ -17,7 +17,7 @@ Zum Drucken der Prüfungslisten gehen Sie wie folgt vor:
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** Ausdruck
+**(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 

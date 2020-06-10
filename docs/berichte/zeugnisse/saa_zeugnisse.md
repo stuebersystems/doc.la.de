@@ -12,13 +12,14 @@ Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage.
 
 ## SAA-AG-AZ (Einführungsphase).rpt
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.8)** 
@@ -55,14 +56,13 @@ WPU3 | WPU3 | Fächer des Wahlplfichbereichs III
 
 ## SAA-AG-AZ (Qualifikationsphase).rpt
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.3)** 
 
@@ -81,19 +81,20 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick/#berlin)
 
-**(A0033)** Ausdruck > DIN A 4 Format, doppelseitig
+**(A0033)** `Ausdruck > DIN A 4 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 
 ## SAA-GES-AZ (Einführungsphase).rpt
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.8)** 
@@ -134,14 +135,13 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 ## SAA-GES-AZ (Qualifikationsphase).rpt
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.3)** 
 
@@ -156,7 +156,7 @@ keine > Außerhalb der Aufgabenfelder
 
 Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick/#berlin)
 
-**(A0033)** Ausdruck > DIN A 4 Format, doppelseitig
+**(A0033)** `Ausdruck > DIN A 4 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 
@@ -173,9 +173,9 @@ Schüler auf der Registerkarte "Zeugnis" unter "Fächer" dieses Fach zu. Die Def
 Kürzel > Schlüssel > Bezeichnung
 GESAMTB 	> GESAMTB >Gesamtbeurteilung
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
 **(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
@@ -194,9 +194,9 @@ Schüler auf der Registerkarte "Zeugnis" unter "Fächer" dieses Fach zu. Die Def
 Kürzel > Schlüssel > Bezeichnung
 GESAMTB 	> GESAMTB >Gesamtbeurteilung
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
 **(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
@@ -237,9 +237,9 @@ MSPRACHE |  MSPRACHE  |  Mündlicher Sprachgebrach
 RECHTS  | RECHTS  |  Rechtschreibung/Sprachgebrauch
 SSPRACHE |  SSPRACHE  |  Schriftlicher Sprachgebrauch
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
 **(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
@@ -292,9 +292,9 @@ MSPRACHE |  MSPRACHE  |  Mündlicher Sprachgebrach
 RECHTS  | RECHTS  |  Rechtschreibung/Sprachgebrauch
 SSPRACHE |  SSPRACHE  |  Schriftlicher Sprachgebrauch
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
 **(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
@@ -343,13 +343,14 @@ Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage.
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.8)** 
@@ -390,14 +391,13 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 ## SAA-GY-AZ (Modellversuch 13).rpt
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.3)** 
 
@@ -416,20 +416,19 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick/#berlin)
 
-**(A0033)** Ausdruck > DIN A 4 Format, doppelseitig
+**(A0033)** `Ausdruck > DIN A 4 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 
 ## SAA-GY-AZ (Qualifikationsphase).rpt
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.3)** 
 
@@ -444,7 +443,7 @@ keine > Außerhalb der Aufgabenfelder
 
 Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick/#berlin)
 
-**(A0033)** Ausdruck > DIN A 4 Format, doppelseitig
+**(A0033)** `Ausdruck > DIN A 4 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 
@@ -454,9 +453,10 @@ Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.8)** 
@@ -497,9 +497,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 ## SAA-GY-HJZ (Schuljahrgänge (5) 7-10).rpt
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
 **(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
@@ -517,9 +517,10 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.8)** 
@@ -560,9 +561,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 ## SAA-GY-JZ (Schuljahrgänge (5) 7-10).rpt
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
 **(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
@@ -580,9 +581,10 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.8)** 
@@ -633,13 +635,14 @@ Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage.
 
 ## SAA-KO-AZ (Einführungsphase).rpt
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Schüler > Zeugnis> Fächer den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **(A0015.8)** 
@@ -680,14 +683,13 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 ## SAA-KO-AZ (Qualifikationsphase).rpt
 
-**(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
+**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter Schlüsselverzeichnis > Fächer für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im
-Menü Schüler > Zeugnis > Fächer zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 **(A0017.3)** 
 
@@ -702,7 +704,7 @@ keine > Außerhalb der Aufgabenfelder
 
 Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick/#berlin)
 
-**(A0033)** Ausdruck > DIN A 4 Format, doppelseitig
+**(A0033)** `Ausdruck > DIN A 4 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 

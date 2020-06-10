@@ -275,9 +275,9 @@ Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Z
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
@@ -374,9 +374,9 @@ Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Z
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0770)** `Schüler > Zeugnis > Noten`
 
@@ -1352,9 +1352,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
@@ -2619,9 +2619,9 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` die Schulfart im Feld
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0367)** `Schüler > Zeugnis > Fächer`
 
@@ -2817,9 +2817,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0375)** `Schüler > Zeugnis > Fächer`
 
@@ -2930,9 +2930,9 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` die Schulfart im Feld
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0376)** `Schlüsselverzeichnisse > Fächer`
 
@@ -3057,9 +3057,9 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` die Schulfart im Feld
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0375)** `Schüler > Zeugnis > Fächer`
 
@@ -3247,9 +3247,9 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` die Schulfart im Feld
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0341)** `Schüler > Zeugnis > Fächer`
 
@@ -3343,9 +3343,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
@@ -3435,9 +3435,9 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` die Schulfart im Feld
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0375)** `Schüler > Zeugnis > Fächer`
 
@@ -3570,9 +3570,9 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` die Schulfart im Feld
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0376)** `Schlüsselverzeichnisse > Fächer`
 
@@ -3701,9 +3701,9 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` die Schulfart im Feld
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0376)** `Schlüsselverzeichnisse > Fächer`
 
@@ -3870,9 +3870,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0348)** `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
@@ -4353,9 +4353,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0255)** `Klassen > Daten > Organisation`
 
@@ -4562,9 +4562,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0365)** `Klassen > Merkmale > Merkmal A5`
 
@@ -4618,10 +4618,9 @@ Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld 
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das Schlüsselverzeichnis Bildungsgänge.
 
-**(A0037.1)** Schlüsselverzeichnis > Schwerpunkte UND Schlüsselverzeichnis > Bildungsgänge
+**(A0037.1)** `Schlüsselverzeichnis > Schwerpunkte UND Schlüsselverzeichnis > Bildungsgänge`
 
-Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge die Fachrichtung im Feld Fachrichtung zu. Grundlage hierfür bildet das Schlüsselverzeichnis "Verzeichnisse|Weitere Schlüsselverzeichnisse|Fachrichtungen".
-
+Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` die Fachrichtung im Feld `Fachrichtung` zu. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachrichtungen`.
 **(A0037.2)** ``Schlüsselverzeichnisse > Bildungsgänge` UND Schlüsselverzeichnisse > Schwerpunkte`
 
 Weisen Sie unter `Schlüsselverzeichnisse > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis > Schwerpunkte.
@@ -4661,9 +4660,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0341)** `Schüler > Zeugnis > Fächer`
 
@@ -4778,9 +4777,9 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 Pflicht | Pflicht | Pflichtfach
 BerufS | BerufS | Berufsbezogener Lernbereich
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
@@ -5711,10 +5710,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-**(A0037.1)** Schlüsselverzeichnis > Schwerpunkte UND Schlüsselverzeichnis > Bildungsgänge
+**(A0037.1)** `Schlüsselverzeichnis > Schwerpunkte UND Schlüsselverzeichnis > Bildungsgänge`
 
-Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge die Fachrichtung im Feld Fachrichtung zu. Grundlage hierfür bildet das Schlüsselverzeichnis "Verzeichnisse|Weitere Schlüsselverzeichnisse|Fachrichtungen".
-
+Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` die Fachrichtung im Feld `Fachrichtung` zu. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachrichtungen`.
 **(A0045)** `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
@@ -6279,9 +6277,9 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` die Schulfart im Feld
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0372)** Schlüsselverzeichnisse > Fächer
 
@@ -6327,9 +6325,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0424)** `Schüler > Daten 3 > Fremdsprachenfolge > Profil`
 
@@ -6424,9 +6422,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0424)** `Schüler > Daten 3 > Fremdsprachenfolge > Profil`
 
@@ -6521,9 +6519,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0424)** `Schüler > Daten 3 > Fremdsprachenfolge > Profil`
 
@@ -6655,9 +6653,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0429)** `Schüler > Laufbahn > Wiederholungsart`
 
