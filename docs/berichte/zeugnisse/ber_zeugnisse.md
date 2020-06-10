@@ -24,10 +24,10 @@ Kürzel | Schlüssel | Zeugnisbereich
 BLL  |BLL  |5. Prüfungskomponente Besondere Lernleistung 
 PRS |PRS |5. Prüfungskomponente Präsentationsprüfung
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -157,10 +157,10 @@ Kürzel | Schlüssel | Zeugnisbereich
 BLL  |BLL  |5. Prüfungskomponente Besondere Lernleistung 
 PRS |PRS |5. Prüfungskomponente Präsentationsprüfung
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -259,10 +259,10 @@ Kürzel | Schlüssel | Zeugnisbereich
 4PF | 4PF | 4. Prüfungsfach
 5PF | 5PF | 5. Prüfungsfach (wenn Präsentationsprüfung)
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -410,10 +410,10 @@ Kürzel | Schlüssel | Zeugnisbereich
 4PF | 4PF | 4. Prüfungsfach
 5PF | 5PF | 5. Prüfungsfach (wenn Präsentationsprüfung)
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -451,11 +451,11 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -720,12 +720,12 @@ Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "sch
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -760,7 +760,7 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -787,9 +787,9 @@ Die Noten der Fächer tragen Sie im Menü Schüler > Zeugnis > Leistungen in der
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0377)** Schüler > Zeugnis > Fächer > Position
 
@@ -847,14 +847,14 @@ Platzhalter | Ausgabe im Bericht
 
 ## BER-BBS (Zeugniskarte).rpt
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.38)** 
@@ -927,7 +927,7 @@ Platzhalter | Ausgabe im Bericht
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -949,10 +949,10 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.16)** 
@@ -984,18 +984,18 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0039)** Klassen > Daten > Berufsfeld
+**(A0039)** `Klassen > Daten > Berufsfeld`
 
-Weisen Sie im aktuellen Zeitraum im Menü Klasse > Daten das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das Schlüsselverzeichnis >Berufsfelder.
+Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
 **(A0045)** Mandanten > Daten >Name 1
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -1032,9 +1032,9 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüle
 
 Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Schulformen.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -1044,7 +1044,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume 
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -1118,15 +1118,15 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüle
 
 Tragen Sie im Menü Schüler > Zeugnis > Leistungen im Feld "Endnote" die Jahresnote, im Feld "Schriftl. Note 1" die schriftliche Note und im Feld "Mündl. Note" die mündliche Note ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -1224,7 +1224,7 @@ Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld 
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -1271,9 +1271,9 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0039)** Klassen > Daten > Berufsfeld
+**(A0039)** `Klassen > Daten > Berufsfeld`
 
-Weisen Sie im aktuellen Zeitraum im Menü Klasse > Daten das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das Schlüsselverzeichnis >Berufsfelder.
+Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
 **(A0045)** Mandanten > Daten > Name 1
 
@@ -1284,9 +1284,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Tragen Sie die Anzahl der Stunden pro Woche im Menü Schüler > Zeugnis > Fächer im Feld "Faktor" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -1355,7 +1355,7 @@ Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen 
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -1368,7 +1368,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0134)** Schüler > Zeugnis > Leistungen > Endnote
 
@@ -1396,9 +1396,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0158)** Klassen > Daten > Abteilung UND Schlüsselverzeichnis > Abteilungen
  
@@ -1411,18 +1411,18 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 Die Ausgabe des "von" - "bis" Datums des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Schlüsselverzeichnis > Zeiträume. Ausgegeben werden hierbei die Einträge in den Spalten
 "Von" und "Bis".
 
-**(A0039)** Klassen > Daten > Berufsfeld
+**(A0039)** `Klassen > Daten > Berufsfeld`
 
-Weisen Sie im aktuellen Zeitraum im Menü Klasse > Daten das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das Schlüsselverzeichnis >Berufsfelder.
+Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
 **(A0045)** Mandanten > Daten >Name 1
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -1460,7 +1460,7 @@ Schul Z 520b (07.09)
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -1470,7 +1470,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
 
@@ -1514,17 +1514,17 @@ Weisen Sie unter Klassen > Daten im Feld "Bildungsgang" zu. Grundlage bildet das
 
 Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0602)**  Abitur > Zeugnisbemerkungen
 Schüler > Zeugnis > Bemerkungen / Formulare
@@ -1613,7 +1613,7 @@ Platzhalter | Ausgabe im Bericht
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -1651,10 +1651,10 @@ Kürzel | Schlüssel | Zeugnisbereich
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.16)** 
@@ -1718,9 +1718,9 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 ## BER-BFS-AS (Z 522a)(04.11).rpt
 
@@ -1772,11 +1772,11 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 
 Tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Fächer im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Fachschwerpunkte.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -1874,7 +1874,7 @@ Platzhalter | Ausgabe im Bericht
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -1907,18 +1907,18 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüle
 
 Tragen Sie die Anzahl der Stunden/Schuljahr im Menü Schüler > Zeugnis > Fächer im Feld "Faktor" ein.
 
-**(A0039)** Klassen > Daten > Berufsfeld
+**(A0039)** `Klassen > Daten > Berufsfeld`
 
-Weisen Sie im aktuellen Zeitraum im Menü Klasse > Daten das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das Schlüsselverzeichnis >Berufsfelder.
+Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
 **(A0045)** Mandanten > Daten > Name 1
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -1978,10 +1978,10 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.30)** 
@@ -2010,9 +2010,9 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -2041,7 +2041,7 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 531 (09.05)
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -2093,10 +2093,10 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.30)** 
@@ -2158,9 +2158,9 @@ Weisen Sie unter Klassen > Daten im Feld "Bildungsgang" zu. Grundlage bildet das
 
 Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis Schwerpunkte.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0602)**  Abitur > Zeugnisbemerkungen
 Schüler > Zeugnis > Bemerkungen / Formulare
@@ -2216,10 +2216,10 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.30)** 
@@ -2257,11 +2257,11 @@ Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld 
 
 Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Fachrichtung" zu. Grundlage bildet das Schlüsselverzeichnis Fachrichtungen.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -2334,7 +2334,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
 
@@ -2354,9 +2354,9 @@ Jahrgang | Ausgabe im Bericht/Zeugnis
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0158)** Klassen > Daten > Abteilung UND Schlüsselverzeichnis > Abteilungen
  
@@ -2377,10 +2377,10 @@ sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfel
 gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.30)** 
@@ -2417,17 +2417,17 @@ Weisen Sie unter Klassen > Daten im Feld "Bildungsgang" zu. Grundlage bildet das
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0602)**  Abitur > Zeugnisbemerkungen
 Schüler > Zeugnis > Bemerkungen / Formulare
@@ -2485,9 +2485,9 @@ WahlPF | WahlPF | Wahlpflichtfach
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0039)** Klassen > Daten > Berufsfeld
+**(A0039)** `Klassen > Daten > Berufsfeld`
 
-Weisen Sie im aktuellen Zeitraum im Menü Klasse > Daten das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das Schlüsselverzeichnis >Berufsfelder.
+Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
 **(A0045)** Mandanten > Daten >Name 1
 
@@ -2498,7 +2498,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -2547,7 +2547,7 @@ Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten i
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
 
@@ -2582,7 +2582,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -2601,9 +2601,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0476)** Mandanten > Daten 2 > Logo 1, Logo 2
 
@@ -2662,7 +2662,7 @@ Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten i
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
 
@@ -2686,9 +2686,9 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0039)** Klassen > Daten > Berufsfeld
+**(A0039)** `Klassen > Daten > Berufsfeld`
 
-Weisen Sie im aktuellen Zeitraum im Menü Klasse > Daten das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das Schlüsselverzeichnis >Berufsfelder.
+Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
 **(A0045)** Mandanten > Daten >Name 1
 
@@ -2699,7 +2699,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -2718,9 +2718,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 ## BER-BQL VZ-HJZ (Schul Z 505 a).rpt
 
@@ -2730,13 +2730,13 @@ Nicht mehr verwenden! Nutzen Sie BER-BQL TZ-HJZ (Schul Z 505 a-b-c).rpt
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0145)** Schriftart
 
@@ -2756,9 +2756,9 @@ FachT > FachT | Fachtheoretischer Bereich
 FachP | FachP |Fachpraktischer Bereich
 Wahlb | Wahlb | Wahlbereich
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0158)** Klassen > Daten > Abteilung UND Schlüsselverzeichnis > Abteilungen
  
@@ -2781,18 +2781,18 @@ Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werde
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0039)** Klassen > Daten > Berufsfeld
+**(A0039)** `Klassen > Daten > Berufsfeld`
 
-Weisen Sie im aktuellen Zeitraum im Menü Klasse > Daten das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das Schlüsselverzeichnis >Berufsfelder.
+Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
 **(A0045)** Mandanten > Daten >Name 1
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -2883,9 +2883,9 @@ Tragen Sie im Menü Schüler > Ausbildung > Beruf  im Feld "Ausbildung" den Beru
 
 Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -2971,9 +2971,9 @@ Tragen Sie im Menü Schüler > Ausbildung > Beruf  im Feld "Ausbildung" den Beru
 
 Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -3049,9 +3049,9 @@ Tragen Sie im Menü Schüler > Ausbildung > Beruf  im Feld "Ausbildung" den Beru
 
 Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -3217,9 +3217,9 @@ Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen 
 
 Für die Ausgabe des Berufsfeldes müssen Sie entweder das Berufsfeld einer Klasse definieren (folgen Sie hierbei den Anmerkungen in A37/37.3. oder das des Schülers (folgen Sie hierbei den Anmerkungen in A39).
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0099)** Schlüsselverzeichnis > Zeiträume > Art
 
@@ -3352,11 +3352,11 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 
 Weisen Sie unter Klassen > Daten im Feld "Bildungsgang" zu. Grundlage bildet das Schlüsselverzeichnis "Bildungsgänge".
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -3492,7 +3492,7 @@ z.B.
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0145)** Schriftart
 
@@ -3532,9 +3532,9 @@ Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen 
 
 Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -3565,7 +3565,7 @@ Platzhalter | Ausgabe im Bericht
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -3578,7 +3578,7 @@ z.B.
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0145)** Schriftart
 
@@ -3616,13 +3616,13 @@ Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzuf
 
 Schul Z 500
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
 
@@ -3661,7 +3661,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -3684,9 +3684,9 @@ Die Noten der Fächer tragen Sie im Menü Schüler > Zeugnis > Leistungen in der
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0167)** Schlüsselverzeichnis > Zeiträume > Von/Bis
 
@@ -3768,7 +3768,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -3814,7 +3814,7 @@ Schul Z 506 a (BQL VZ)
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -3862,18 +3862,18 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüle
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0039)** Klassen > Daten > Berufsfeld
+**(A0039)** `Klassen > Daten > Berufsfeld`
 
-Weisen Sie im aktuellen Zeitraum im Menü Klasse > Daten das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das Schlüsselverzeichnis >Berufsfelder.
+Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
 **(A0045)** Mandanten > Daten >Name 1
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -3944,7 +3944,7 @@ Schul Z 507 a (BGL VZ)
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -3988,9 +3988,9 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüle
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0039)** Klassen > Daten > Berufsfeld
+**(A0039)** `Klassen > Daten > Berufsfeld`
 
-Weisen Sie im aktuellen Zeitraum im Menü Klasse > Daten das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das Schlüsselverzeichnis >Berufsfelder.
+Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
 **(A0045)** Mandanten > Daten >Name 1
 
@@ -4028,7 +4028,7 @@ Schul Z 505 b (BQL FL)
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -4041,7 +4041,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0145)** Schriftart
 
@@ -4058,9 +4058,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 FachP | FachP | Fachpraxis im Berufsfeld
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0158)** Klassen > Daten > Abteilung UND Schlüsselverzeichnis > Abteilungen
  
@@ -4077,18 +4077,18 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüle
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0039)** Klassen > Daten > Berufsfeld
+**(A0039)** `Klassen > Daten > Berufsfeld`
 
-Weisen Sie im aktuellen Zeitraum im Menü Klasse > Daten das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das Schlüsselverzeichnis >Berufsfelder.
+Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
 **(A0045)** Mandanten > Daten >Name 1
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -4179,10 +4179,10 @@ Sport | Sport
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.30)** 
@@ -4202,7 +4202,7 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -4309,10 +4309,10 @@ Sport | Sport
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.30)** 
@@ -4338,11 +4338,11 @@ Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld 
 
 Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Fachrichtung" zu. Grundlage bildet das Schlüsselverzeichnis Fachrichtungen.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -4377,7 +4377,7 @@ Schul Z 510 (05.06)
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
 
@@ -4393,10 +4393,10 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.30)** 
@@ -4432,9 +4432,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0178)** Klasse > Daten > Schulart
 
@@ -4490,10 +4490,10 @@ Kürzel |  Schlüssel | Bezeichnung
 3 PF  | 3 PF  | 3. Prüfungsfach
 4 PF  | 4 PF  | 4. Prüfungsfach
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.30)** 
@@ -4529,7 +4529,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -4591,7 +4591,7 @@ F | n.b. | F
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -4604,7 +4604,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
 
@@ -4626,9 +4626,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflichtfach
 Freiw | Freiw | Freiwillige Unterrichtsveranstaltung
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0165)** Schüler > Zeugnis > Leistungen
 
@@ -4668,17 +4668,17 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0087)** Schlüsselverzeichnis > Zeiträume > Ausdruck 1
 
@@ -4719,7 +4719,7 @@ F | n.b. | F
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -4732,7 +4732,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
 
@@ -4753,9 +4753,9 @@ Kürzel |  Schlüssel | Bezeichnung
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0165)** Schüler > Zeugnis > Leistungen
 
@@ -4795,17 +4795,17 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0087)** Schlüsselverzeichnis > Zeiträume > Ausdruck 1
 
@@ -4823,13 +4823,13 @@ Schul Z 103(11.05)** (französ. Gymn)
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
 
@@ -4853,9 +4853,9 @@ Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werde
 Tragen Sie im Menü Schüler > Daten 3 beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -4865,7 +4865,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume 
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -4905,22 +4905,22 @@ Schul Z 103 (11.05)
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0023)**  Schüler > Daten 3 > 1./2./3./4. Fremdsprache
 
 Tragen Sie im Menü Schüler > Daten 3 beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -4930,7 +4930,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume 
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -5111,10 +5111,10 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -5161,7 +5161,7 @@ Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum
 
 Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank  abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im  Feld "schriftliche Note" abändern.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -5268,10 +5268,10 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -5318,7 +5318,7 @@ Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum
 
 Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank  abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im  Feld "schriftliche Note" abändern.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -5429,10 +5429,10 @@ Kürzel |  Schlüssel | Zeugnisbereich
 4PF | 4PF | 4. Prüfungsfach
 5PF | 5PF | 5. Prüfungsfach (wenn Präsentationsprüfung)
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -5470,11 +5470,11 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -5583,10 +5583,10 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -5618,7 +5618,7 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -5771,10 +5771,10 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -5806,7 +5806,7 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -5919,9 +5919,9 @@ Schul Z 252 (01.07)
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Noten" angegeben sein.
 (hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung)
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
 
@@ -5964,7 +5964,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -6030,10 +6030,10 @@ Sie weisen dem Feld  "Verhalten" den Noten-Füllwert "ja" zu.
 
 Schul Z 301 (11.11)
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.31. 
@@ -6067,9 +6067,9 @@ Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -6087,7 +6087,7 @@ Unterschieden werden 3 Fälle:
 2. Ist das Abgangsdatum größergleich als das Datum des aktuellen Zeitraums in Magellan (Schlüsselverzeichnis Zeiträume (Von), dann wird "am Ende" ausgegeben.
 3. Wird kein Abgangsdatum angegeben, wird "im Verlauf / am Ende" ausgegeben.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -6124,10 +6124,10 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -6163,7 +6163,7 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -6297,21 +6297,21 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 ## BER-GY-JZ (Schul Z 250)(05.08).rpt
 
 Schul Z 250 (05.08)
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0021)**  Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
 
@@ -6347,7 +6347,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufb
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -6362,9 +6362,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0165)** Schüler > Zeugnis > Leistungen
 
@@ -6489,15 +6489,15 @@ AG  |  Teilnahme an folgenden Arbeitsgemeinschaften
 Tragen Sie im Menü Schüler > Daten 3 beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -6624,12 +6624,12 @@ Schul Z 300 (11.11)
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.31. 
@@ -6657,9 +6657,9 @@ Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -6673,7 +6673,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufb
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -6688,9 +6688,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0382)** 
 
@@ -6702,13 +6702,13 @@ Schul Z 300
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0145)** Schriftart
 
@@ -6725,9 +6725,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 PK | PK | Profilkurs
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0020)** Schüler > Daten 3 > Von/Bis-Datum
 
@@ -6764,17 +6764,17 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0087)** Schlüsselverzeichnis > Zeiträume > Ausdruck 1
 
@@ -6784,9 +6784,9 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
 
-**(A0009)** Schueler > Zeugnis > Details > Zeugniskonferenz am
+**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter Zeugnis > Details im Feld "Zeugniskonferenz am" eingetragen sein.
+Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
 ## BER-GY-JZ (Schul Z 302).rpt
 
@@ -6796,7 +6796,7 @@ Schul Z 302
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -6809,7 +6809,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0136)** Schlüsselverzeichnis > Unterrichtsarten > BL
 
@@ -6860,9 +6860,9 @@ Merkmal | Bedeutung
 --|--
 freiw  | Text für die Teilnahme an freiwilligen Arbeitsgemeinschaften/Unterrichtsveranstaltungen
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -6914,9 +6914,9 @@ Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetrag
 Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
 markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Abitur >  Prüfung > Lernleistung, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0087)** Schlüsselverzeichnis > Zeiträume > Ausdruck 1
 
@@ -6926,7 +6926,7 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Schul II 929-9 (09.07)
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -6939,7 +6939,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
 
@@ -6978,9 +6978,9 @@ Kürzel |  Schlüssel | Bezeichnung
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0021)**  Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
 
@@ -7011,7 +7011,7 @@ Schul II 929-9 (12.08)
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -7024,7 +7024,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
 
@@ -7063,9 +7063,9 @@ Kürzel |  Schlüssel | Bezeichnung
 3 PF  | 3 PF  | 3. Prüfungsfach
 4 PF  | 4 PF  | 4. Prüfungsfach
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0021)**  Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
 
@@ -7092,7 +7092,7 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Schul II 929-12 (12.08)
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -7121,10 +7121,10 @@ Kürzel |  Schlüssel | Zeugnisbereich
 4PF | 4PF | 4. Prüfungsfach
 5PF | 5PF | 5. Prüfungsfach (wenn Präsentationsprüfung)
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -7253,10 +7253,10 @@ sprachl.-lit.-künstlerisch > 1. Aufgabenfeld
 gesellschaftswiss. > 2. Aufgabenfeld
 mathem.-nat.-technisch > 3. Aufgabenfeld
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.21. 
@@ -7306,7 +7306,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -7433,10 +7433,10 @@ sprachl.-lit.-künstlerisch > 1. Aufgabenfeld
 gesellschaftswiss. > 2. Aufgabenfeld
 mathem.-nat.-technisch > 3. Aufgabenfeld
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.21. 
@@ -7510,10 +7510,10 @@ Kürzel |  Schlüssel | Zeugnisbereich
 4PF | 4PF | 4. Prüfungsfach
 5PF | 5PF | 5. Prüfungsfach (wenn Präsentationsprüfung)
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -7551,11 +7551,11 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -7645,7 +7645,7 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 324
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -7686,9 +7686,9 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0082. Schüler > Daten 3 > Fremdsprachenfolge > Bis
 
@@ -7727,7 +7727,7 @@ Beim Anlegen von Punkten im Schlüsselverzeichnis > Noten (Füllwert: Punkte)** 
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -7740,7 +7740,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0141. Schlüsselverzeichnis > Zeiträume > Art
 
@@ -7776,17 +7776,17 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0087)** Schlüsselverzeichnis > Zeiträume > Ausdruck 1
 
@@ -7827,7 +7827,7 @@ Beim Anlegen von Punkten im Schlüsselverzeichnis > Noten (Füllwert: Punkte)** 
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -7840,7 +7840,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0141. Schlüsselverzeichnis > Zeiträume > Art
 
@@ -7876,17 +7876,17 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0087)** Schlüsselverzeichnis > Zeiträume > Ausdruck 1
 
@@ -7921,7 +7921,7 @@ Schul Z 322 (03.11)
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
 
@@ -7936,16 +7936,16 @@ sprachl.-lit.-künstlerisch > 1. Aufgabenfeld
 gesellschaftswiss. > 2. Aufgabenfeld
 mathem.-nat.-technisch > 3. Aufgabenfeld
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.21. 
@@ -7997,7 +7997,7 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -8016,9 +8016,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0168)** Schlüsselverzeichnisse > Noten > Füllerwerte
 
@@ -8113,7 +8113,7 @@ Schul Z 322
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -8126,7 +8126,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0137)** Schlüsselverzeichnis > Zeiträume > Art UND Klassen > Zeiträume > Jahrgang
 
@@ -8165,10 +8165,10 @@ sprachl.-lit.-künstlerisch > 1. Aufgabenfeld
 gesellschaftswiss. > 2. Aufgabenfeld
 mathem.-nat.-technisch > 3. Aufgabenfeld
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.21. 
@@ -8245,7 +8245,7 @@ Unterschieden werden 3 Fälle:
 2. Ist das Abgangsdatum größergleich als das Datum des aktuellen Zeitraums in Magellan (Schlüsselverzeichnis Zeiträume (Von), dann wird "am Ende" ausgegeben.
 3. Wird kein Abgangsdatum angegeben, wird "im Verlauf / am Ende" ausgegeben.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -8303,7 +8303,7 @@ Unterschieden werden 3 Fälle:
 2. Ist das Abgangsdatum größergleich als das Datum des aktuellen Zeitraums in Magellan (Schlüsselverzeichnis Zeiträume (Von), dann wird "am Ende" ausgegeben.
 3. Wird kein Abgangsdatum angegeben, wird "im Verlauf / am Ende" ausgegeben.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -8400,15 +8400,15 @@ Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten i
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0018)** Schueler >Daten 2 > Zugang am und/oder Abgang am
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -8418,7 +8418,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume 
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -8473,9 +8473,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 240 (03.08)
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0012. Klassen > Zeiträume > Zeitraum > Klassenstufe
 
@@ -8518,9 +8518,9 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -8542,7 +8542,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufb
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -8554,9 +8554,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0239)** Ausdruck
 
@@ -8662,15 +8662,15 @@ AG  |  Teilnahme an folgenden Arbeitsgemeinschaften
 Tragen Sie im Menü Schüler > Daten 3 beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -8733,9 +8733,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 242 (06.08)
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0012. Klassen > Zeiträume > Zeitraum > Klassenstufe
 
@@ -8778,9 +8778,9 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -8790,7 +8790,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume 
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -8941,9 +8941,9 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
 
@@ -8953,9 +8953,9 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume 
 
 Schul Z 256 – Zeugnis des Gymnasiums über den mittleren Schulabschluss (10.18)
 
-**(A0010)** Schueler > Laufbahn > Allgemein > Versetzt
+**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler >Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
 
@@ -9006,7 +9006,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -9097,15 +9097,15 @@ Schul Z 102 (11.10)
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0010)** Schueler > Laufbahn > Allgemein > Versetzt
+**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler >Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -9120,9 +9120,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü Schüler > Zeugnis > Leistungen in der Spalte "Endnote" ein. Grundlage bildet das Schlüsselverzeichnis Noten.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0239)** Ausdruck
 
@@ -9214,7 +9214,7 @@ Schul Z 202 (07.10)
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
 
@@ -9254,15 +9254,15 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -9281,9 +9281,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0165)** Schüler > Zeugnis > Leistungen
 
@@ -9355,18 +9355,18 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 240 (07.19)
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0012. Klassen > Zeiträume > Zeitraum > Klassenstufe
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers die Klassenstufe auf der Registerkarte Zeiträume > Zeitraum im Feld "Klassenstufe" eingetragen sein.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.31. 
@@ -9409,7 +9409,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufb
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -9421,9 +9421,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0239)** Ausdruck
 
@@ -9492,13 +9492,13 @@ Das Zeugnis ist variabel sowohl als Halbjahreszeugnis als Jahreszeugnis ausgeleg
 
 Schul Z 250 – Zeugnis des GymnasiumsJahrgangsstufen 5 bis 10 – (02.15)
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0021)**  Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
 
@@ -9534,7 +9534,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufb
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -9549,9 +9549,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0165)** Schüler > Zeugnis > Leistungen
 
@@ -9630,13 +9630,13 @@ Wahlpflichtfach zwei | 31
 
 Schul Z 250 – Zeugnis des Gymnasiums, Jahrgangsstufen 7 bis 10, optional Jahrgangsstufen 5 und 6 – (11.19)
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0021)**  Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale
 
@@ -9681,7 +9681,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufb
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -9700,9 +9700,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Schlüsselverzeichnis > Zeiträume im Feld "Art"
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0740)** Mandanten > Daten > Name 2
 
@@ -9828,9 +9828,9 @@ Wahlpflichtfach drei oder Informationstechnischen Grundkurs | 34
 
 Schul Z 251b – Zeugnis des Gymnasiums über den mittleren Schulabschluss  – (05.16)
 
-**(A0010)** Schueler > Laufbahn > Allgemein > Versetzt
+**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler >Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
 
@@ -9870,15 +9870,15 @@ AG  |  Teilnahme an folgenden Arbeitsgemeinschaften
 Tragen Sie im Menü Schüler > Daten 3 beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0077)** Mandanten > Daten 1 > Schulleiter
+**(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -10003,9 +10003,9 @@ Wahlpflichtfach zwei | 31
 
 Schul Z 255 (09.17)
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0012. Klassen > Zeiträume > Zeitraum > Klassenstufe
 
@@ -10015,10 +10015,10 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers di
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.31. 
@@ -10061,7 +10061,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufb
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -10073,9 +10073,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0239)** Ausdruck
 
@@ -10139,9 +10139,9 @@ Freie Fächer müssen positioniert werden, vergeben Sie dazu im Feld "Position" 
 
 Schul Z 255 – Zeugnis des Gymnasiums über die erweiterte Berufsbildungsreife (10.18)
 
-**(A0010)** Schueler > Laufbahn > Allgemein > Versetzt
+**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler >Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
 
@@ -10199,7 +10199,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -10280,12 +10280,12 @@ Schul Z 300 – Zeugnis der Einführungsphase der gymnasialen Oberstufe (ISS, Ge
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.31. 
@@ -10326,7 +10326,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufb
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -10354,9 +10354,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Schlüsselverzeichnis > Zeiträume im Feld "Art"
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0239)** Ausdruck
 
@@ -10410,12 +10410,12 @@ Schul Z 300 – Zeugnis der Einführungsphase der gymnasialen Oberstufe (ISS, Ge
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.31. 
@@ -10468,7 +10468,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufb
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -10496,9 +10496,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Schlüsselverzeichnis > Zeiträume im Feld "Art"
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0239)** Ausdruck
 
@@ -10592,7 +10592,7 @@ Unterschieden werden 3 Fälle:
 2. Ist das Abgangsdatum größergleich als das Datum des aktuellen Zeitraums in Magellan (Schlüsselverzeichnis Zeiträume (Von), dann wird "am Ende" ausgegeben.
 3. Wird kein Abgangsdatum angegeben, wird "im Verlauf / am Ende" ausgegeben.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -10656,10 +10656,10 @@ Der Bericht setzt die Fächer entsprechend dieser Nummerierung auf zwei Spalten 
 
 Schul Z 301 – Abgangszeugnis der Einführungsphase der gymnasialen Oberstufe (ISS, Gemeinschaftsschule, berufliches Gymnasium)** – (11.18)
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.31. 
@@ -10701,7 +10701,7 @@ Unterschieden werden 3 Fälle:
 2.  Ist das Abgangsdatum größergleich als das Datum des aktuellen Zeitraums in Magellan (Schlüsselverzeichnis Zeiträume (Von), dann wird "am Ende" ausgegeben.
 3.  Wird kein Abgangsdatum angegeben, wird "im Verlauf / am Ende" ausgegeben.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -10797,10 +10797,10 @@ Spalte 2 (rechts)** - hier erscheinen untereinander zunächst die Fächer des �
 
 Schul Z 301 – Abgangszeugnis der Einführungsphase der gymnasialen Oberstufe (ISS, Gemeinschaftsschule, berufliches Gymnasium)** – (11.19)
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.31. 
@@ -10855,7 +10855,7 @@ Unterschieden werden 3 Fälle:
 2. Ist das Abgangsdatum größergleich als das Datum des aktuellen Zeitraums in Magellan (Schlüsselverzeichnis Zeiträume (Von), dann wird "am Ende" ausgegeben.
 3. Wird kein Abgangsdatum angegeben, wird "im Verlauf / am Ende" ausgegeben.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -10953,7 +10953,7 @@ Schul Z 302 – Zeugnis der Qualifikationsphase der gymnasialen Oberstufe (Gymna
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
 
@@ -10970,16 +10970,16 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Weitere Fächer
 Religion | Weitere Fächer
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -11002,7 +11002,7 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -11030,9 +11030,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0239)** Ausdruck
 
@@ -11125,7 +11125,7 @@ Schul Z 302 - Zeugnis der Qualifikationsphase der gymnasialen Oberstufe (Gymnasi
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
 
@@ -11142,10 +11142,10 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Weitere Fächer
 Religion | Weitere Fächer
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -11180,7 +11180,7 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -11208,9 +11208,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0239)** Ausdruck
 
@@ -11308,7 +11308,7 @@ Schul Z 302 (12.07)
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 **(A0017)** Schlüsselverzeichnis > Fächer > Aufgabenbereich
 
@@ -11324,10 +11324,10 @@ gesellschaftswiss. | 2. Aufgabenfeld
 mathem.-nat.-technisch | 3. Aufgabenfeld
 Religion | Religion
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.46)** 
@@ -11349,7 +11349,7 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -11373,9 +11373,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0239)** Ausdruck
 
@@ -11420,10 +11420,10 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -11459,7 +11459,7 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -11599,10 +11599,10 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -11626,7 +11626,7 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -11752,10 +11752,10 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -11791,7 +11791,7 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -11937,10 +11937,10 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -12142,10 +12142,10 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -12347,10 +12347,10 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -12392,7 +12392,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 Zum Eintragen einer Zeugnisbemerkung muss im Abitur > Zeugnis > Zeugnisbemerkungen im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -12518,10 +12518,10 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -12564,7 +12564,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 Zum Eintragen einer Zeugnisbemerkung muss im Abitur > Zeugnis > Zeugnisbemerkungen im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
-**(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
+**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -12675,10 +12675,10 @@ Kürzel |  Schlüssel | Zeugnisbereich
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.17)** 
@@ -13051,12 +13051,12 @@ Schul Z 510 (12.13)
 
 **(A0013)**  Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis >Details in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.30)** 
@@ -13085,7 +13085,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -13101,9 +13101,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0156)** Schüler > Zeugnis > Details > Versäumnisse
+**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Versäumnisse" ein.
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 **(A0239)** Ausdruck
 
@@ -13158,10 +13158,10 @@ Schul Z 534 (12.13)
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0019)** Extras > Schlüsselverzeichnisse > Unterrichtsarten
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis >Fächer im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
-den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019.30)** 
@@ -13227,15 +13227,15 @@ Beachten Sie beim Fachrichtungsbezogenen und Wahlpflicht Unterricht, je nach gew
 
 Schul Z 600 (06.08)
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 **(A0087)** Schlüsselverzeichnis > Zeiträume > Ausdruck 1
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN Schlüsselverzeichnis > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -13257,7 +13257,7 @@ Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werde
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** Ausdruck
+**(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
