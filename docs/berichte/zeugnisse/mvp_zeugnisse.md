@@ -25,9 +25,9 @@ Theorie | Theorie | Fachtheoretischer Lernbereich
 Tragen Sie im Menü Schüler > Laufbahn > Abschluss im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken
 Zeitraumfenster.
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0037)** Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang
 
@@ -63,13 +63,13 @@ FP-GF | FP-GF | Fachpraxis-Grundfächer
 FP-KF | FP-KF | Fachpraxis-Kernfächer
 Theorie | Theorie | Fachtheoretischer Lernbereich
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0027)** Schüler > Laufbahn > Allgemein > Abgang
+**(A0027)** `Schüler > Laufbahn > Allgemein > Abgang`
 
-Tragen Sie im MenüSchüler > Laufbahn > Allgemein im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0037)** Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang
 
@@ -95,13 +95,13 @@ FP-GF | FP-GF | Fachpraxis-Grundfächer
 FP-KF | FP-KF | Fachpraxis-Kernfächer
 Theorie | Theorie | Fachtheoretischer Lernbereich
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0027)** Schüler > Laufbahn > Allgemein > Abgang
+**(A0027)** `Schüler > Laufbahn > Allgemein > Abgang`
 
-Tragen Sie im MenüSchüler > Laufbahn > Allgemein im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0037)** Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang
 
@@ -127,13 +127,13 @@ FP-GF | FP-GF | Fachpraxis-Grundfächer
 FP-KF | FP-KF | Fachpraxis-Kernfächer
 Theorie | Theorie | Fachtheoretischer Lernbereich
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0027)** Schüler > Laufbahn > Allgemein > Abgang
+**(A0027)** `Schüler > Laufbahn > Allgemein > Abgang`
 
-Tragen Sie im MenüSchüler > Laufbahn > Allgemein im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
 
@@ -172,10 +172,13 @@ FP-GF | FP-GF | Fachpraxis-Grundfächer
 FP-KF | FP-KF | Fachpraxis-Kernfächer
 Theorie | Theorie | Fachtheoretischer Lernbereich
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.4)** 
@@ -233,10 +236,13 @@ FP-GF | FP-GF | Fachpraxis-Grundfächer
 FP-KF | FP-KF | Fachpraxis-Kernfächer
 Theorie | Theorie | Fachtheoretischer Lernbereich
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.4)** 
@@ -274,13 +280,13 @@ FP-GF | FP-GF | Fachpraxis-Grundfächer
 FP-KF | FP-KF | Fachpraxis-Kernfächer
 Theorie | Theorie | Fachtheoretischer Lernbereich
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0027)** Schüler > Laufbahn > Allgemein > Abgang
+**(A0027)** `Schüler > Laufbahn > Allgemein > Abgang`
 
-Tragen Sie im MenüSchüler > Laufbahn > Allgemein im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0037)** Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang
 
@@ -301,10 +307,13 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.10)** 
@@ -334,9 +343,9 @@ so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dür
 Tragen Sie im Menü Schüler > Laufbahn > Abschluss im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken
 Zeitraumfenster.
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
 
@@ -371,9 +380,9 @@ Theorie | Theorie | Fachtheoretischer Lernbereich
 Tragen Sie im Menü Schüler > Laufbahn > Abschluss im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken
 Zeitraumfenster.
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
 
@@ -404,11 +413,11 @@ Theorie | Theorie | Fachtheoretischer Lernbereich
 Tragen Sie im Menü Schüler > Laufbahn > Abschluss im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken
 Zeitraumfenster.
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0031)** Ausdruck > DIN A 3 Format, doppelseitig
+**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -419,9 +428,9 @@ Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Noten" angegeben sein.
 (hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung)
 
-**(A0018)** Schueler >Daten 2 > Zugang am und/oder Abgang am
+**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
 **(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -436,20 +445,18 @@ Kürzel |  Schlüssel | Zeugnisbereich
 BU | BU | Fachbezogener / Berufsbezogener Lernbereich
 BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich
 
-**(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
 **(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** Schüler > Zeugnis >Formulare/Zeugnisbemerkungen
+**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
-Die Zuweisung von Zeugnisbemerkungen erfolgt im MenüSchüler > Zeugnis >Formulare/Zeugnisbemerkungen. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren,
-die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung)** vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
-"2" usw.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
 **(A0417)** Schüler > Zeugnis > Details > Fehlstunden / davon unentschuldigt
 
@@ -485,13 +492,13 @@ Platzhalter | Ausgabe im Bericht
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0027)** Schüler > Laufbahn > Allgemein > Abgang
+**(A0027)** `Schüler > Laufbahn > Allgemein > Abgang`
 
-Tragen Sie im MenüSchüler > Laufbahn > Allgemein im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
 
@@ -507,10 +514,13 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.4)** 
@@ -548,11 +558,11 @@ Theorie | Theorie | Fachtheoretischer Lernbereich
 Tragen Sie im Menü Schüler > Laufbahn > Abschluss im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken
 Zeitraumfenster.
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0031)** Ausdruck > DIN A 3 Format, doppelseitig
+**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -566,10 +576,13 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.4)** 
@@ -584,13 +597,13 @@ Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzuf
 
 ## MVP-BVJ-AZ.rpt
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0027)** Schüler > Laufbahn > Allgemein > Abgang
+**(A0027)** `Schüler > Laufbahn > Allgemein > Abgang`
 
-Tragen Sie im MenüSchüler > Laufbahn > Allgemein im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0037)** Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang
 
@@ -610,10 +623,13 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.4)** 
@@ -628,9 +644,9 @@ beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahm
 
 Tragen Sie den Namen des Zeugnisses im Menü Schüler > Zeugnis > Bemerkungen / Formulare im Bereich "Zeugnisformulare" ein. Grundlage bildet das Schlüsselverzeichnis > Zeugnisformulare.
 
-**(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
 **(A0216)** Mandanten >Daten 1 > Ort
 
@@ -819,10 +835,13 @@ GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
 LK | LK | Leistungskurse, Leistungsfächer
 FA | FA | Facharbeit
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.11)** 
@@ -831,13 +850,13 @@ Merkmal | Bedeutung
 --|--
 PK | Teilnahme an Projektkursen
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0027)** Schüler > Laufbahn > Allgemein > Abgang
+**(A0027)** `Schüler > Laufbahn > Allgemein > Abgang`
 
-Tragen Sie im MenüSchüler > Laufbahn > Allgemein im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0032)** 
 
@@ -864,13 +883,13 @@ GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
 LK | LK | Leistungskurse, Leistungsfächer
 FA | FA | Facharbeit
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0027)** Schüler > Laufbahn > Allgemein > Abgang
+**(A0027)** `Schüler > Laufbahn > Allgemein > Abgang`
 
-Tragen Sie im MenüSchüler > Laufbahn > Allgemein im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 ## MVP-FG-FHReife (Bescheinigung 2013).rpt
 
@@ -966,9 +985,9 @@ MS | MS | Maschine schreiben
 Tragen Sie im Menü Schüler > Laufbahn > Abschluss im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken
 Zeitraumfenster.
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0037)** Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang
 
@@ -981,24 +1000,22 @@ Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzuf
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Noten" angegeben sein.
 (hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung)
 
-**(A0018)** Schueler >Daten 2 > Zugang am und/oder Abgang am
+**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
 **(A0112)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** Schüler > Zeugnis >Formulare/Zeugnisbemerkungen
+**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
-Die Zuweisung von Zeugnisbemerkungen erfolgt im MenüSchüler > Zeugnis >Formulare/Zeugnisbemerkungen. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren,
-die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung)** vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
-"2" usw.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
 **(A0239)** Ausdruck
 
@@ -1056,9 +1073,9 @@ so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dür
 Tragen Sie im Menü Schüler > Laufbahn > Abschluss im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken
 Zeitraumfenster.
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
 
@@ -1079,13 +1096,13 @@ Weisen Sie unter  Schlüsselverzeichnisse > Bildungsgänge das Berufsfeld im Fel
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0027)** Schüler > Laufbahn > Allgemein > Abgang
+**(A0027)** `Schüler > Laufbahn > Allgemein > Abgang`
 
-Tragen Sie im MenüSchüler > Laufbahn > Allgemein im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0036)** Schüler > Ausbildung > Ausbildungbetriebe > Beruf
 
@@ -1117,13 +1134,13 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0027)** Schüler > Laufbahn > Allgemein > Abgang
+**(A0027)** `Schüler > Laufbahn > Allgemein > Abgang`
 
-Tragen Sie im MenüSchüler > Laufbahn > Allgemein im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0037)** Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang
 
@@ -1154,10 +1171,13 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –unterricht
 3PF | 3PF | 3. Prüfungsfach
 4PF | 4PF | 4. Prüfungsfach
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.18)** 
@@ -1198,10 +1218,13 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –unterricht
 3PF | 3PF | 3. Prüfungsfach
 4PF | 4PF | 4. Prüfungsfach
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.18)** 
@@ -1242,10 +1265,13 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –unterricht
 3PF | 3PF | 3. Prüfungsfach
 4PF | 4PF | 4. Prüfungsfach
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.18)** 
@@ -1286,10 +1312,13 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –unterricht
 3PF | 3PF | 3. Prüfungsfach
 4PF | 4PF | 4. Prüfungsfach
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.18)** 
@@ -1339,10 +1368,13 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.10)** 
@@ -1409,10 +1441,13 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.10)** 
@@ -1493,9 +1528,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Fächer im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Fachschwerpunkte.
 
-**(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
 **(A0112)** `Ausdruck`
 
@@ -1590,9 +1625,9 @@ Religion | Religion
 
 Tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Fächer im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Fachschwerpunkte.
 
-**(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
 **(A0112)** `Ausdruck`
 
@@ -1821,7 +1856,7 @@ eine "1", für die zweite eine "2" usw.
 
 ## MVP-GY-ABI.rpt
 
-**(A0031)** Ausdruck > DIN A 3 Format, doppelseitig
+**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -1854,14 +1889,17 @@ Die Noten für Arbeits- und Sozialverhalten tragen Sie im aktuellen Zeitraum im 
 
 Für die Ausgabe der Noten für Arbeits- und Sozialverhalten  beachten Sie bitte, dass Sie die Grade der Bewertung "vorbildlich", "gut", "zufriedenstellend"  und "entwicklungsbedürftig" im Schlüsselverzeichnis > Noten anlegen müssen.  Das Kürzel kann beliebig gewählt werden, als Notenart tragen Sie "Füllwert" an.
 
-**(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.29)** 
@@ -1878,9 +1916,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
+**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
@@ -1919,10 +1957,13 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|---
 SozialV | SozialV | Sozialverhalten
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.28)** 
@@ -1942,13 +1983,13 @@ ein. Dies gilt sowohl für das 1. Halbjahr als auch für das 2. Halbjahr.
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
+**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
 **(A0112)** `Ausdruck`
 
@@ -1972,9 +2013,9 @@ Die Noten für Arbeits- und Sozialverhalten tragen Sie im aktuellen Zeitraum im 
 
 Für die Ausgabe der Noten für Arbeits- und Sozialverhalten  beachten Sie bitte, dass Sie die Grade der Bewertung "vorbildlich", "gut", "zufriedenstellend"  und "entwicklungsbedürftig" im Schlüsselverzeichnis > Noten anlegen müssen.  Das Kürzel kann beliebig gewählt werden, als Notenart tragen Sie "Füllwert" an.
 
-**(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
 **(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
@@ -1993,10 +2034,13 @@ WahlPF | WahlPF | Teilnahme an Arbeitsgemeinschaften
 Pflicht | Pflicht | Pflichtfächer
 Pflicht2 | Pflicht 2 | Pflichtfächer 2 zeilig ausgegeben
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.29)** 
@@ -2032,9 +2076,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
+**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0079)** Asudruck
 
@@ -2050,9 +2094,9 @@ Um den Ort des Druckdatums anzuzeigen, tragen Sie den Ort Ihrer Schule im MenüM
 
 ## MVP-GY-AS (Jahrgangsstufe 9-10).rpt
 
-**(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
 **(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
@@ -2071,10 +2115,13 @@ WahlPF | WahlPF | Teilnahme an Arbeitsgemeinschaften
 Pflicht | Pflicht | Pflichtfächer
 Pflicht2 | Pflicht 2 | Pflichtfächer 2 zeilig ausgegeben
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.27)** 
@@ -2110,9 +2157,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
+**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0079)** Asudruck
 
@@ -2174,9 +2221,9 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 
 Beachten Sie bitte, dass Sie Fächern, die in der Klasse 11 abgeschlossen wurden nur Noten in der Skala von 1 bis 6 zuweisen.
 
-**(A0018)** Schueler >Daten 2 > Zugang am und/oder Abgang am
+**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
 **(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -2244,10 +2291,13 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –unterricht
 3PF | 3PF | 3. Prüfungsfach
 4PF | 4PF | 4. Prüfungsfach
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.18)** 
@@ -2271,9 +2321,9 @@ ein. Dies gilt sowohl für das 1. Halbjahr als auch für das 2. Halbjahr.
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
+**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0079)** Asudruck
 
@@ -2350,10 +2400,13 @@ Projekt | Projekt | Projekt
 WahlPF | WahlPF | Wahlpflichtunterricht
 ZusatzK | ZusatzK | Zusatzunterricht
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.10)** 
@@ -2390,10 +2443,13 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.18)** 
@@ -2442,9 +2498,9 @@ ein. Dies gilt sowohl für das 1. Halbjahr als auch für das 2. Halbjahr.
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
+**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 ## MVP-GY-JZ (Wahlpflicht 1. u. 2. HJ).rpt
 
@@ -2468,10 +2524,13 @@ Kürzel |  Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflichtfach
 Freiw | Freiw | Freiwillige Unterrichtsveranstaltung
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.10)** 
@@ -2501,9 +2560,9 @@ ein. Dies gilt sowohl für das 1. Halbjahr als auch für das 2. Halbjahr.
 
 ## MVP-GY-ÜZ (nächste Stufe Seite1 Lernentwicklungsbericht und Seite 2 mit Noten).rpt
 
-**(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
 **(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
 
@@ -2518,10 +2577,13 @@ WahlPF | WahlPF | Teilnahme an Arbeitsgemeinschaften
 Pflicht | Pflicht | Pflichtfächer
 Pflicht2 | Pflicht 2 | Pflichtfächer 2 zeilig ausgegeben
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.25)** 
@@ -2566,9 +2628,9 @@ Tragen Sie im Menü Schüler > Daten 2 im aktuellen Zeitraum die Schulform im Fe
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
+**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
@@ -2588,10 +2650,13 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.18)** 
@@ -2675,13 +2740,13 @@ Kürzel |  Schlüssel | Zeugnisbereich
 Theorie | Theorie | Berufsbezogener theoretischer Lernbereich
 FP | FP | Berufsbezogener praktischer Lernbereich
 
-**(A0026)** Schüler > Laufbahn > Allgemein > Schulformeintritt
+**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0027)** Schüler > Laufbahn > Allgemein > Abgang
+**(A0027)** `Schüler > Laufbahn > Allgemein > Abgang`
 
-Tragen Sie im MenüSchüler > Laufbahn > Allgemein im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0037)** Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang
 
@@ -2825,10 +2890,13 @@ Projekt | Projekt | Projekt
 WahlPF | WahlPF | Wahlpflichtunterricht
 ZusatzK | ZusatzK | Zusatzunterricht
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.10)** 
@@ -2870,10 +2938,13 @@ Projekt | Projekt | Projekt
 WahlPF | WahlPF | Wahlpflichtunterricht
 ZusatzK | ZusatzK | Zusatzunterricht
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.10)** 
@@ -2924,9 +2995,9 @@ ein. Dies gilt sowohl für das 1. Halbjahr als auch für das 2. Halbjahr.
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
+**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0079)** Asudruck
 
@@ -2978,9 +3049,9 @@ ein. Dies gilt sowohl für das 1. Halbjahr als auch für das 2. Halbjahr.
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
+**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0084)** Mandanten > Daten 1 > Name 3
 
@@ -2988,9 +3059,9 @@ Um den Ort des Druckdatums anzuzeigen, tragen Sie den Ort Ihrer Schule im MenüM
 
 ## MVP-REG-AS (Berufsreife).rpt
 
-**(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
 **(A0015)** Extras > Schlüsselverzeichnisse > Fachstatus
 
@@ -3005,10 +3076,13 @@ WahlPF | WahlPF | Teilnahme an Arbeitsgemeinschaften
 Pflicht | Pflicht | Pflichtfächer
 Pflicht2 | Pflicht 2 | Pflichtfächer 2 zeilig ausgegeben
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.27)** 
@@ -3043,9 +3117,9 @@ ein. Dies gilt sowohl für das 1. Halbjahr als auch für das 2. Halbjahr.
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
+**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0079)** Asudruck
 
@@ -3061,9 +3135,9 @@ Um den Ort des Druckdatums anzuzeigen, tragen Sie den Ort Ihrer Schule im MenüM
 
 ## MVP-REG-HJZ (Bemerkung Gesamteinschätzung).rpt
 
-**(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
 **(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
@@ -3086,10 +3160,13 @@ Pflicht2 | Pflicht 2 | Pflichtfächer 2 zeilig ausgegeben
 
 Um ein Fach als Basis- oder Erweiterungskurs zu kennzeichnen, tragen Sie im Menü Schüler > Zeugnis > Fächer im Feld "Merkmal" entweder ein "B" oder "E" ein.
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.29)** 
@@ -3125,9 +3202,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
+**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0079)** Asudruck
 
@@ -3154,9 +3231,9 @@ Sozialverhalten | zu verwenden für das Fach "Verhalten"
 
 Die Noten "vorbildlich", "gut", "zufriedenstellend" und "entwicklungsbedürftig" müssen im Schlüsselvereichnis Noten angelegt werden und dem Schüler zugewiesen werden.
 
-**(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
 **(A0112)** `Ausdruck`
 
@@ -3166,10 +3243,13 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.31)** 
@@ -3191,9 +3271,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
+**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 **(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
@@ -3325,10 +3405,13 @@ Projekt | Projekt | Projekt
 WahlPF | WahlPF | Wahlpflichtunterricht
 ZusatzK | ZusatzK | Zusatzunterricht
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.10)** 
@@ -3370,10 +3453,13 @@ Projekt | Projekt | Projekt
 WahlPF | WahlPF | Wahlpflichtunterricht
 ZusatzK | ZusatzK | Zusatzunterricht
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.10)** 

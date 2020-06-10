@@ -2,7 +2,7 @@
 
 ## SAA-AG-ABI (DIN A3).rpt
 
-**(A0031)** Ausdruck > DIN A 3 Format, doppelseitig
+**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -202,10 +202,13 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.4)** 
@@ -254,10 +257,13 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.6)** 
@@ -306,10 +312,13 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.6)** 
@@ -320,7 +329,7 @@ ZusatzK  |  Allgemeine Beurteilung
 
 ## SAA-GY-ABI (DIN A3).rpt
 
-**(A0031)** Ausdruck > DIN A 3 Format, doppelseitig
+**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -614,7 +623,7 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 ## SAA-KO-ABI (DIN A3).rpt
 
-**(A0031)** Ausdruck > DIN A 3 Format, doppelseitig
+**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 

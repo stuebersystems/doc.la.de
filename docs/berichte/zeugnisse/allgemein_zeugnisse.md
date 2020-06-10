@@ -288,22 +288,27 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0018)** Schueler >Daten 2 > Zugang am und/oder Abgang am
+**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0019.33)** Kürzel | Schlüssel | Zeugnisbereich
+**(A0019.33)** 
+
+Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-**(A0020)** `Schüler > Daten 3` > Von/Bis-Datum
+**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
 
 Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
-**(A0021)** Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale
+**(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
+
+Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **(A0021.14)** 
@@ -317,7 +322,7 @@ Lern | Beurteilung des Lernverhaltens
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0238)** Schüler > Daten 2 > Höchster Abschluss > Abschluss
+**(A0238)** `Schüler > Daten 2 > Höchster Abschluss > Abschluss`
 
 Tragen Sie im Menü „Schüler“ im aktuellen Zeitraum auf der Registerkarte „Daten2“ unter „Höchster Abschluss ABS“ die Abschlussbezeichnung im Feld „Abschluss“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis Abschlüsse (Extern).
 
@@ -325,17 +330,16 @@ Tragen Sie im Menü „Schüler“ im aktuellen Zeitraum auf der Registerkarte �
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0244)** Schüler > Daten 2 > Höchster Abschluss > Abschluss
+**(A0244)** `Schüler > Daten 2 > Höchster Abschluss > Abschluss`
 
 Tragen Sie im Menü „Schüler“ im aktuellen Zeitraum auf der Registerkarte „Daten2“ unter „Höchster Abschluss ABS“ die Abschlussbezeichnung im Feld „Abschluss“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis Abschlüsse (Extern).
 
-**(A0050)** Schüler > Daten 1 > Familie
+**(A0050)** `Schüler > Daten 1 > Familie`
 
-Tragen Sie im aktuellen Zeitraum im Schüler > Daten 1 > Familie  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter Schüler > Familie im Feld "Benachrichtigung"
-"immer" enthalten, relevant.
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
 
 ## Schülerliste (Abi Statusanzeige).rpt
+
 **(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
@@ -344,8 +348,8 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0692)** Abitur > Qualifikation
----
+**(A0692)** `Abitur > Qualifikation`
+
 Es werden die Statusmeldungen für die Abiturberechnungen angezeigt. Führen Sie bei jedem Schüler das zugehörige Skript aus.
 
 ## Schülerpersonalbogen (4 Seitig).rpt
@@ -366,11 +370,11 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0018)** Schueler >Daten 2 > Zugang am und/oder Abgang am
+**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0238)** Schüler > Daten 2 > Höchster Abschluss > Abschluss
+**(A0238)** `Schüler > Daten 2 > Höchster Abschluss > Abschluss`
 
 Tragen Sie im Menü „Schüler“ im aktuellen Zeitraum auf der Registerkarte „Daten2“ unter „Höchster Abschluss ABS“ die Abschlussbezeichnung im Feld „Abschluss“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis Abschlüsse (Extern).
 
@@ -378,15 +382,13 @@ Tragen Sie im Menü „Schüler“ im aktuellen Zeitraum auf der Registerkarte �
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0031)** Ausdruck > DIN A 3 Format, doppelseitig
+**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**(A0050)** Schüler > Daten 1 > Familie
+**(A0050)** `Schüler > Daten 1 > Familie`
 
-Tragen Sie im aktuellen Zeitraum im Schüler > Daten 1 > Familie  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter Schüler > Familie im Feld "Benachrichtigung"
-"immer" enthalten, relevant.
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie` die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Daten1 > Familie` im Feld "Benachrichtigung""immer" enthalten, relevant.
 
 **(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
@@ -416,15 +418,15 @@ Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis >
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** Klassen > Zeiträume > Zeitraum > Klassenleiter
+**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** Schüler > Zeugnis > Details > Zeugnisdatum
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü Schüler > Zeugnis > Details im Feld "Zeugnisdatum" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0103)** Schüler > Laufbahn > Allgemein > Empfehlung
+**(A0103)** `Schüler > Laufbahn > Allgemein > Empfehlung`
 
 Tragen Sie im Menü "Schüler" im aktuellen Zeitraum auf der Registerkarte "Laufbahn" unter "Allgemein" im Feld "Empfehlung" die entsprechende Schulform ein.
 
@@ -432,31 +434,32 @@ Tragen Sie im Menü "Schüler" im aktuellen Zeitraum auf der Registerkarte "Lauf
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** Schüler > Zeugnis >Formulare/Zeugnisbemerkungen
+**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
-Die Zuweisung von Zeugnisbemerkungen erfolgt im MenüSchüler > Zeugnis >Formulare/Zeugnisbemerkungen. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren,
-die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung)** vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
-"2" usw.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0134)** Schüler > Zeugnis > Leistungen > Endnote
+**(A0134)** `Schüler > Zeugnis > Leistungen > Endnote`
 
-Die Noten der Fächer tragen Sie im Menü Schüler > Zeugnis > Leistungen in der Spalte "Endnote" ein. Grundlage bildet das Schlüsselverzeichnis Noten.
+Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
 **(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0559)** Schüler > Zeugnis > Leistungen
+**(A0559)** `Schüler > Zeugnis > Leistungen`
 
-Fächer ohne Eintrag im Menü Schüler > Zeugnis > Leistungen im Feld „Endnote“ werden ausgeblendet. (siehe auch A0134)
+Fächer ohne Eintrag im Menü `Schüler > Zeugnis > Leistungen` im Feld „Endnote“ werden ausgeblendet. 
+Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0590)** Schüler > Zeugnis > Fächer
-Schüler > Zeugnis > Leistungen
+**(A0590)** 
+`Schüler > Zeugnis > Fächer`
 
-Tragen Sie Fächer im Menü Schüler > Zeugnis > Fächer und die Noten des Schülers im Schüler > Zeugnis > Lesitungen ein. Es werden die Fächer und Noten des aktuellen und vorherigen Zeitraums ausgegeben.
+`Schüler > Zeugnis > Leistungen`
 
-**(A0608)** Klassen > Daten > Beurteilungsart
+Tragen Sie Fächer im Menü `Schüler > Zeugnis > Fächer` und die Noten des Schülers im `Schüler > Zeugnis > Lesitungen` ein. Es werden die Fächer und Noten des aktuellen und vorherigen Zeitraums ausgegeben.
 
-Im Menü Klassen > Daten muss im Feld „Beurteilungsart“ entweder „Benotung durch Noten“ oder „Benotung durch Punkte“ angegeben sein.
+**(A0608)** `Klassen > Daten > Beurteilungsart`
+
+Im Menü `Klassen > Daten` muss im Feld „Beurteilungsart“ entweder „Benotung durch Noten“ oder „Benotung durch Punkte“ angegeben sein.
 
