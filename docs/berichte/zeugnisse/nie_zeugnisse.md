@@ -1622,9 +1622,9 @@ Schüler auf der Registerkarte "Zeugnis" unter "Fächer" dieses Fach zu. Die Def
 Kürzel > Schlüssel > Bezeichnung
 GESAMTB 	> GESAMTB >Gesamtbeurteilung
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -2700,9 +2700,9 @@ Das Kleine Latinum wird auf dem Zeugnis ausgegeben, indem Sie unter Abitur > Pr�
 
 ## NIE-GY-AZ (Klasse 7-10).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -2945,9 +2945,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld
 
 ## NIE-GY-HJZ (Klasse 7-10 mit Wahlpflicht).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -2988,9 +2988,9 @@ KursC | KursC | Fachleistungskurs C
 
 ## NIE-GY-HJZ (Klasse 7-10 ohne Wahlpflicht).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -3031,9 +3031,9 @@ KursC | KursC | Fachleistungskurs C
 
 ## NIE-GY-JZ (Mittelstufe).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 

@@ -332,9 +332,9 @@ Für den Zeugnisdruck des Abiturs bildet die Online Dokumentation die Grundlage.
 
 ## SAA-GY-AZ (Einführungsphase).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 

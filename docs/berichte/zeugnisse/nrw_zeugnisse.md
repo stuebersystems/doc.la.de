@@ -40,19 +40,19 @@ Zur Ausgabe der schriftlichen Abitur-Noten müssen unter Abitur > Prüfung > sch
 
 **(A0203)** Abitur > Prüfung > schriftliche / mündliche Note
 
-Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten im Menü Abitur > Prüfung in den Feldern "schriftliche Note" und "mündliche Note" eingetragen sein.
+Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten im Menü `Abitur > Prüfung` in den Feldern "schriftliche Note" und "mündliche Note" eingetragen sein.
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0256)** Abitur > Qualifikation > Status (Fachhochschulreife berechnen)
 
 Um zwischen Fachhochschulreife und Abitur zu unterscheiden, wählen Sie  im Menü "Abitur" auf der Registerkarte "Qualifikation"  unter "Status" für die Fachhochschulreife "Fachhochschulreife berechnen" aus.
 
-**(A0259)** Abitur > Prüfung > Durchschnitt/Gesamtpunktzahl
+**(A0259)** `Abitur > Prüfung > Durchschnitt/Gesamtpunktzahl`
 
-Tragen Sie die Durchschnittsnote und die Gesamtpunktzahl des jeweiligen Schülers im Menü Abitur >Prüfung jeweils im Feld "Durchschnitt" und im Feld "Gesamtpunktzahl" ein.
+Tragen Sie die Durchschnittsnote und die Gesamtpunktzahl des jeweiligen Schülers im Menü `Abitur > Prüfung` jeweils im Feld "Durchschnitt" und im Feld "Gesamtpunktzahl" ein..
 
 ## NRW-Abitur (Prüfungsergebnisse 2).rpt
 
@@ -76,15 +76,15 @@ Zur Ausgabe der schriftlichen Abitur-Noten müssen unter Abitur > Prüfung > sch
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0256)** Abitur > Qualifikation > Status (Fachhochschulreife berechnen)
 
 Um zwischen Fachhochschulreife und Abitur zu unterscheiden, wählen Sie  im Menü "Abitur" auf der Registerkarte "Qualifikation"  unter "Status" für die Fachhochschulreife "Fachhochschulreife berechnen" aus.
 
-**(A0259)** Abitur > Prüfung > Durchschnitt/Gesamtpunktzahl
+**(A0259)** `Abitur > Prüfung > Durchschnitt/Gesamtpunktzahl`
 
-Tragen Sie die Durchschnittsnote und die Gesamtpunktzahl des jeweiligen Schülers im Menü Abitur >Prüfung jeweils im Feld "Durchschnitt" und im Feld "Gesamtpunktzahl" ein.
+Tragen Sie die Durchschnittsnote und die Gesamtpunktzahl des jeweiligen Schülers im Menü `Abitur > Prüfung` jeweils im Feld "Durchschnitt" und im Feld "Gesamtpunktzahl" ein..
 
 **(A0292)** Sonstiges > Word
 
@@ -191,7 +191,7 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0392)** Schüler > Zeugnis > Fächer > Niveau
 
@@ -368,7 +368,7 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0392)** Schüler > Zeugnis > Fächer > Niveau
 
@@ -521,7 +521,7 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0392)** Schüler > Zeugnis > Fächer > Niveau
 
@@ -805,7 +805,7 @@ DB | DB | Differenzierungsbereich
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0395)** Schüler > Zeugnis > Bemerkungen / Formulare > Merkmal (Praktika)
 
@@ -836,9 +836,9 @@ Platzhalter | Ausgabe im Bericht
 
 ## NRW-BF-HJZ.rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -887,9 +887,9 @@ Weisen Sie unter  Schlüsselverzeichnisse > Bildungsgänge das Berufsfeld im Fel
 
 ## NRW-BF-JZ (Einjährige Berufsfachschule).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -979,7 +979,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0602)** Abitur > Zeugnisbemerkungen
 Schüler > Zeugnis > Bemerkungen / Formulare
@@ -1069,7 +1069,7 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0449)** Schüler > Laufbahn > Allgemein > Versetzt
 
@@ -1284,9 +1284,9 @@ Tragen Sie im MenüSchüler > Laufbahn > Allgemein im Feld "Abgang" das Abgangsd
 
 ## NRW-BGJ-HJZ (Vorklasse).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -1335,9 +1335,9 @@ Weisen Sie unter  Schlüsselverzeichnisse > Bildungsgänge das Berufsfeld im Fel
 
 ## NRW-BGJ-HJZ.rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -1386,9 +1386,9 @@ Weisen Sie unter  Schlüsselverzeichnisse > Bildungsgänge das Berufsfeld im Fel
 
 ## NRW-BK-ABI (Anlage D33a).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
 
@@ -1563,7 +1563,7 @@ Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesa
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0388)** Abitur > Prüfung > Konferenzdatum
 ------------------------------------------
@@ -1603,7 +1603,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten >
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0388)** Abitur > Prüfung > Konferenzdatum
 ------------------------------------------
@@ -1687,7 +1687,7 @@ Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuelle
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0370)** Schlüsselverzeichnis > Zeiträume > Ausdruck 2
 
@@ -1805,7 +1805,7 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -1906,7 +1906,7 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -2104,7 +2104,7 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -2209,7 +2209,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0405)** Schüler > Laufbahn > Abschluss > Abschluss 1
 
@@ -2315,7 +2315,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten >
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0519)** Schüler > Zeugnis > Bemerkungen / Formulare > Merkmal (Praktika)
  
@@ -2405,7 +2405,7 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0451)** Schlüsselverzeichnisse > Zeiträume > Von / Bis
 
@@ -2603,7 +2603,7 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0451)** Schlüsselverzeichnisse > Zeiträume > Von / Bis
 
@@ -2731,7 +2731,7 @@ Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuelle
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0370)** Schlüsselverzeichnis > Zeiträume > Ausdruck 2
 
@@ -2849,7 +2849,7 @@ Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuelle
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0370)** Schlüsselverzeichnis > Zeiträume > Ausdruck 2
 
@@ -2893,9 +2893,9 @@ Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü
 
 Dieser Bericht gibt die Zeugnisbemerkungen aus dem Bereich `Schüler > Zeugnis > Zeugnis > Zeugnisbemerkungen` für das beim Druck gewählte Halbjahr aus.
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
 
@@ -3172,9 +3172,9 @@ Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
 Weisen Sie unter Klassen > Daten im Feld "Bildungsgang" zu. Grundlage bildet das Schlüsselverzeichnis "Bildungsgänge".
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0077)** Mandanten > Daten 1 > Schulleiter
 
@@ -3573,9 +3573,9 @@ Tragen Sie im Menü Schüler > Laufbahn > Abschluss die Abschussart im Feld "Abs
 
 ## NRW-BKO-JZ.rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -3684,7 +3684,7 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0392)** Schüler > Zeugnis > Fächer > Niveau
 
@@ -3903,9 +3903,9 @@ Tragen Sie im Menü Schüler > Ausbildung im aktuellen Zeitraum über das Hinzuf
 
 ## NRW-BS-JZ.rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -4010,7 +4010,7 @@ Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Fel
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0348)** Schüler > Zeugnis > Details > Prüfungsvorsitz
 
@@ -4600,9 +4600,9 @@ Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "sch
 
 ## NRW-GY-AZ (Klasse 9-10).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -4663,9 +4663,9 @@ Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen 
 
 ## NRW-GY-HJZ (Klasse 5-8).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -4726,9 +4726,9 @@ Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen 
 
 ## NRW-GY-HJZ (Klasse 9-10).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -4789,9 +4789,9 @@ Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen 
 
 ## NRW-GY-JZ (Hauptschulabschluss).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -4864,9 +4864,9 @@ Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen 
 
 ## NRW-GY-JZ (Jahrgangsstufe 11).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -5859,9 +5859,9 @@ Tragen Sie im Menü Schüler > Laufbahn > Allgemein im Feld "Schulformeintritt" 
 
 ## NRW-WG-JZ.rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 

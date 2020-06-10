@@ -48,7 +48,7 @@ Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Da
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0466)** Mandaten > Daten 1 > Name 1, Name 2, Name 3
 
@@ -135,7 +135,7 @@ Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Da
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0466)** Mandaten > Daten 1 > Name 1, Name 2, Name 3
 
@@ -384,7 +384,7 @@ Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Da
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0370)** Schlüsselverzeichnis > Zeiträume > Ausdruck 2
 
@@ -541,7 +541,7 @@ Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Da
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0370)** Schlüsselverzeichnis > Zeiträume > Ausdruck 2
 
@@ -776,7 +776,7 @@ Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Da
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0370)** Schlüsselverzeichnis > Zeiträume > Ausdruck 2
 
@@ -959,7 +959,7 @@ Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Da
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0285)** Schlüsselverzeichnisse > Noten > Füllwerte
 
@@ -1108,7 +1108,7 @@ Die Noten der Fächer tragen Sie im Menü Schüler > Zeugnis > Leistungen in der
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0247)** Allgemein
 

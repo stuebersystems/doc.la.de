@@ -105,9 +105,9 @@ Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld 
 
 ## THÜ-BF-JZ (mit Versetzungstext).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -157,9 +157,9 @@ Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld 
 
 ## THÜ-BF-JZ (ohne Versetzungstext).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -288,9 +288,9 @@ Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld 
 
 ## THÜ-BS-JZ (BVJ 1-2 und mit Versetzungstext).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -332,9 +332,9 @@ Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld 
 
 ## THÜ-BS-JZ (BVJ 1-2 und ohne Versetzungstext).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -364,9 +364,9 @@ Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld 
 
 ## THÜ-BS-JZ (BVJ und mit Versetzungstext).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -408,9 +408,9 @@ Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld 
 
 ## THÜ-BS-JZ (BVJ und ohne Versetzungtext).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -514,9 +514,9 @@ Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld 
 
 ## THÜ-FO-JZ (mit Versetzungstext).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -566,9 +566,9 @@ Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld 
 
 ## THÜ-FO-JZ (ohne Versetzungstext).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -606,9 +606,9 @@ Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld 
 
 ## THÜ-GY-AZ.rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -645,9 +645,9 @@ Tragen Sie im MenüSchüler > Laufbahn > Allgemein im Feld "Abgang" das Abgangsd
 
 ## THÜ-GY-JZ.rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -687,9 +687,9 @@ Tragen Sie die Kurse I und II als "1" und "2" im Menü Schüler > Zeugnis > Fäc
 
 ## THÜ-RGL-JZ.rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 

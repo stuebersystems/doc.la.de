@@ -2,37 +2,37 @@
 
 ## Abi (Ergebnisliste).rpt
 
-**(A0111)** Ausdruck
+**(A0111)** ´Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0203)** Abitur > Prüfung > schriftliche / mündliche Note
+**(A0203)** `Abitur > Prüfung > schriftliche / mündliche Note`
 
-Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten im Menü Abitur > Prüfung in den Feldern "schriftliche Note" und "mündliche Note" eingetragen sein.
+Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten im Menü `Abitur > Prüfung` in den Feldern "schriftliche Note" und "mündliche Note" eingetragen sein.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0259)** Abitur > Prüfung > Durchschnitt/Gesamtpunktzahl
+**(A0259)** `Abitur > Prüfung > Durchschnitt/Gesamtpunktzahl`
 
-Tragen Sie die Durchschnittsnote und die Gesamtpunktzahl des jeweiligen Schülers im Menü Abitur >Prüfung jeweils im Feld "Durchschnitt" und im Feld "Gesamtpunktzahl" ein.
+Tragen Sie die Durchschnittsnote und die Gesamtpunktzahl des jeweiligen Schülers im Menü `Abitur > Prüfung` jeweils im Feld "Durchschnitt" und im Feld "Gesamtpunktzahl" ein.
 
-**(A0637)** Schüler > Daten 3 > Verschiedenes > Personalnummer
+**(A0637)** `Schüler > Daten 3 > Verschiedenes > Personalnummer`
 
-Die Prüfungsnummer des Schülers für das Abitur tragen Sie im Menü Schüler > Daten 3 im Bereich „Verschiedenes“ im Feld „Personalnummer“ ein.
+Die Prüfungsnummer des Schülers für das Abitur tragen Sie im Menü `Schüler > Daten 3` im Bereich „Verschiedenes“ im Feld „Personalnummer“ ein.
 
 ## Abi-Übersicht-Prüfungsergebnisse.rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0032)** https://doc.la.stueber.de/
 
 Für den Zeugnisdruck des Abiturs bildet die Online Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. https://doc.la.stueber.de/
 
-**(A0111)** Ausdruck
+**(A0111)** ´Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -40,19 +40,19 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
-**(A0203)** Abitur > Prüfung > schriftliche / mündliche Note
+**(A0203)** `Abitur > Prüfung > schriftliche / mündliche Note`
 
-Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten im Menü Abitur > Prüfung in den Feldern "schriftliche Note" und "mündliche Note" eingetragen sein.
+Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten im Menü `Abitur > Prüfung` in den Feldern "schriftliche Note" und "mündliche Note" eingetragen sein.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 ## ALL-GY-HJZ (mit FSP).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0013)** Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
@@ -62,16 +62,16 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Die Noten für Mitarbeit und Verhalten tragen Sie im Menü Schüler > Zeugnis >Details in den Feldern "Mitarbeit" und "Verhalten" ein.
 
-**(A0023)** Schüler > Daten 3 > 1./2./3./4. Fremdsprache
+**(A0023)** `Schüler > Daten 3` > 1./2./3./4. Fremdsprache
 
-Tragen Sie im Menü Schüler > Daten 3 beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
+Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
 ## ALL-GY-HJZ (mit versäumten Stunden).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0013)** Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
@@ -83,9 +83,9 @@ Die Noten für Mitarbeit und Verhalten tragen Sie im Menü Schüler > Zeugnis >D
 
 ## ALL-GY-HJZ (mit versäumten Tagen).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0013)** Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
@@ -97,9 +97,9 @@ Die Noten für Mitarbeit und Verhalten tragen Sie im Menü Schüler > Zeugnis >D
 
 ## ALL-GY-JZ (mit FSP).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
 
@@ -121,16 +121,16 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Die Noten für Mitarbeit und Verhalten tragen Sie im Menü Schüler > Zeugnis >Details in den Feldern "Mitarbeit" und "Verhalten" ein.
 
-**(A0023)** Schüler > Daten 3 > 1./2./3./4. Fremdsprache
+**(A0023)** `Schüler > Daten 3` > 1./2./3./4. Fremdsprache
 
-Tragen Sie im Menü Schüler > Daten 3 beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
+Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
 ## ALL-GY-JZ (ohne FSP und mit Versetzungstext).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
 
@@ -152,16 +152,16 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Die Noten für Mitarbeit und Verhalten tragen Sie im Menü Schüler > Zeugnis >Details in den Feldern "Mitarbeit" und "Verhalten" ein.
 
-**(A0023)** Schüler > Daten 3 > 1./2./3./4. Fremdsprache
+**(A0023)** `Schüler > Daten 3` > 1./2./3./4. Fremdsprache
 
-Tragen Sie im Menü Schüler > Daten 3 beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
+Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
 ## ALL-GY-JZ (ohne FSP und ohne Versetzungstext).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0013)** Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
@@ -249,9 +249,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0589)** Schüler > Laufbahn > Allgemein > Wiederholer
 
@@ -269,9 +269,9 @@ Den freiwilligen Rücktritt eines Schülers tragen Sie im Menü Schüler > Laufb
 
 ## Schüler (Zeitraumübergreifende Notenübersicht).rpt
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0110)** Abitur > Zeugnis > Formulare/Zeugnisbemerkungen
 
@@ -297,7 +297,7 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüle
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-**(A0020)** Schüler > Daten 3 > Von/Bis-Datum
+**(A0020)** `Schüler > Daten 3` > Von/Bis-Datum
 
 Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
@@ -314,18 +314,18 @@ Merkmal | Bedeutung
 Schule | Beurteilung des Verhaltens in der Schule
 Lern | Beurteilung des Lernverhaltens
 
-**(A0023)** Schüler > Daten 3 > 1./2./3./4. Fremdsprache
+**(A0023)** `Schüler > Daten 3` > 1./2./3./4. Fremdsprache
 
-Tragen Sie im Menü Schüler > Daten 3 beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
+Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
 **(A0238)** Schüler > Daten 2 > Höchster Abschluss > Abschluss
 
 Tragen Sie im Menü „Schüler“ im aktuellen Zeitraum auf der Registerkarte „Daten2“ unter „Höchster Abschluss ABS“ die Abschlussbezeichnung im Feld „Abschluss“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis Abschlüsse (Extern).
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0244)** Schüler > Daten 2 > Höchster Abschluss > Abschluss
 
@@ -339,13 +339,13 @@ Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü
 
 ## Schülerliste (Abi Statusanzeige).rpt
 
-**(A0111)** Ausdruck
+**(A0111)** ´Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0692)** Abitur > Qualifikation
 ---
@@ -377,9 +377,9 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüle
 
 Tragen Sie im Menü „Schüler“ im aktuellen Zeitraum auf der Registerkarte „Daten2“ unter „Höchster Abschluss ABS“ die Abschlussbezeichnung im Feld „Abschluss“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis Abschlüsse (Extern).
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0031)** Ausdruck > DIN A 3 Format, doppelseitig
 
@@ -446,9 +446,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü Schüler > Zeugnis > Leistungen in der Spalte "Endnote" ein. Grundlage bildet das Schlüsselverzeichnis Noten.
 
-**(A0239)** Ausdruck
+**(A0239)** `Ausdruck`
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0559)** Schüler > Zeugnis > Leistungen
 

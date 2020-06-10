@@ -392,7 +392,7 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -486,7 +486,7 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -590,7 +590,7 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -692,7 +692,7 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -908,9 +908,9 @@ Weisen Sie im aktuellen Zeitraum im Menü Klasse > Daten das Berufsfeld im Feld 
 
 ## RLP-BGJ-HJZ (Variante 2).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0013)** Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
@@ -2381,7 +2381,7 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0365)** Klassen > Merkmale > Merkmal A5
 
@@ -2498,7 +2498,7 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0361)** Schlüsselverzeichnisse > Fächer > Aufgabenbereich
 
@@ -2624,7 +2624,7 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0348)** Schüler > Zeugnis > Details > Prüfungsvorsitz
 
@@ -2685,7 +2685,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 ## RLP-GES-AS (10.Klasse mit Ü 11).rpt
 
@@ -3815,9 +3815,9 @@ RECHTS  | RECHTS | Richtig schreiben oder Rechtschreiben oder Rechtschreibung
 SSPRACHE | SSPRACHE  | Schriftliche Sprachgestaltung
 EN | EN |  Englisch
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
 
@@ -4004,7 +4004,7 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -4123,7 +4123,7 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -4246,7 +4246,7 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -4389,7 +4389,7 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -4535,7 +4535,7 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -5406,7 +5406,7 @@ BL | BL | Besondere Lernleistung
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0213)** Abitur > Qualifikation > Status > Fachhochschulreife berechnen
 
@@ -5489,9 +5489,9 @@ Platzhalter | Ausgabe im Bericht
 
 ## RLP-GY-HJZ (2spaltig mit FSP).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0013)** Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
@@ -5508,9 +5508,9 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 
 ## RLP-GY-HJZ (2spaltig ohne FSP).rpt
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0013)** Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden
 
@@ -5834,7 +5834,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 ## RLP-GY-JZ (2spaltig und mit Wahl- oder Pflichtfächern).rpt
 
@@ -5893,7 +5893,7 @@ Pflicht | Pflicht | Pflicht
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0007)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2
 
@@ -5989,7 +5989,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten >
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0466)** Mandaten > Daten 1 > Name 1, Name 2, Name 3
 
@@ -6164,7 +6164,7 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0241)** Abitur > Prüfung
 
@@ -7122,7 +7122,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0328)** Schüler > Laufbahn > Abschluss > Abschluss 1
 
@@ -7209,7 +7209,7 @@ angeboten werden, müssen Sie unter Schlüsselverzeichnis > Fächer im Feld "Kat
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0028)** Schüler > Zeugnis > Fächer > Position
 
@@ -7284,7 +7284,7 @@ Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werde
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0028)** Schüler > Zeugnis > Fächer > Position
 
@@ -7295,9 +7295,9 @@ Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen 
 
 Den Bildungsgang des sonderpädagogischen Förderbedarf wird dem Schüler im Schüler > Merkmale  im Bereich "Statistik Merkmale" im Feld „Merkmal S4“ zugeordnet.  Grundlage für das Zuweisen dieses Merkmals bildet das Schlüsselverzeichnis Merkmale (Schüler). Legen Sie dort den Bildungsgang und dem Bereich "Merkmal S4" an.
 
-**(A0006)** Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **(A0075)** Klassen > Daten > Kürzel
 --------
@@ -7371,7 +7371,7 @@ Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werde
 
 **(A0239)** Ausdruck
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0028)** Schüler > Zeugnis > Fächer > Position
 
