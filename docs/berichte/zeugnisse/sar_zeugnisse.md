@@ -357,7 +357,7 @@ Zeitraumfenster.
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0045)** Mandanten > Daten >Name 1
+**(A0045)** `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
@@ -515,7 +515,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**(A0045)** Mandanten > Daten >Name 1
+**(A0045)** `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
@@ -747,7 +747,7 @@ Merkmal | Bedeutung
 --|--
 zb | allgemeine Zeugnisbemerkung
 
-**(A0045)** Mandanten > Daten >Name 1
+**(A0045)** `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.

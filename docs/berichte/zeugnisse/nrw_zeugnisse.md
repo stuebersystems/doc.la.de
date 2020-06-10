@@ -94,8 +94,10 @@ Dieser Bericht enthält spezielle Textfelder, die Sie über Microsoft Word ausf�
 3. Wählen Sie  im Fenster „Format“ bitte  „MS Word“ und im Fenster „Ziel“ bitte „Anwendung“. Bestätigen Sie mit OK.
 4. Der Bericht öffnet sich mit MS Word und Sie können die auszufüllenden Felder per Mausklick aktivieren und füllen.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -269,8 +271,10 @@ Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Z
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im Schlüsselverzeichnis > Zeiträume. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -424,8 +428,10 @@ Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Z
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im Schlüsselverzeichnis > Zeiträume. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -553,8 +559,10 @@ Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Z
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im Schlüsselverzeichnis > Zeiträume. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -808,8 +816,10 @@ Legen Sie im Menü Schüler > Zeugnis > Bemerkungen / Formulare eine Zeugnisbeme
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im Schlüsselverzeichnis > Zeiträume. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -974,8 +984,10 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -1102,8 +1114,10 @@ Leer  | kein Eintrag | kein Eintrag
 
 Bei Bildungsgängen mit langen Textlängen splitten Sie den Text im Schlüsselverzeichnis > Bildungsgänge in "Bezeichnung" und "Bezeichnung2" auf. Beachten Sie dabei A0035.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -1489,8 +1503,10 @@ Bei Bildungsgängen mit langen Textlängen splitten Sie den Text im Schlüsselve
 
 Für Schüler, die in der Jahrgangsstufe 11 eine neu einsetzende Fremdsprache beginnen, weisen Sie dem betreffenden Fach im Menü Abitur > Qualifikation in der Spalte „Merkmal“ ein "A" zu. 
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -1645,7 +1661,7 @@ Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet d
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0045)** Mandanten > Daten >Name 1
+**(A0045)** `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
@@ -1683,8 +1699,10 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN Schlüsselverzeichnis > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck 2".
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -1762,7 +1780,7 @@ Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0045)** Mandanten > Daten >Name 1
+**(A0045)** `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
@@ -1784,7 +1802,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
 Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. 
 
-**(A0139)** Abitur > Prüfung > Zeugnisdatum
+**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
 
@@ -1810,8 +1828,10 @@ Auf dem Zeugnis kann wahlweise zwischen einer „Facharbeit“ und einer „Beso
 a)** Zur Ausgabe der „Besonderen Lernleistung“ müssen Sie im Menü Abitur > Prüfung im Bereich „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld "Thema" zu. Die Note für die besondere Lernleistung" im Block1 tragen Sie im 1. Notenfeld ganz links ein. Die Noten für Block2 tragen Sie in den 2 Notenfeldern daneben ein. 
 b)** Zur Ausgabe der „Facharbeit“ müssen Sie im Menü Abitur > Prüfung im Bereich "Projekt“ das entsprechende Fach zuweisen und das Optionsfeld „Projekt einbringen“ markieren. Das Thema des Projektes weisen Sie analog dem entsprechenden Feld im Feld "Thema" zu. Die Note für die Facharbeit" im Block1 tragen Sie im 1. Notenfeld ganz links ein. Die Noten für Block2 tragen Sie in den 2 Notenfeldern daneben ein.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -1861,7 +1881,7 @@ Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0045)** Mandanten > Daten >Name 1
+**(A0045)** `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
@@ -1883,7 +1903,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
 Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. 
 
-**(A0139)** Abitur > Prüfung > Zeugnisdatum
+**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
 
@@ -1909,8 +1929,10 @@ Auf dem Zeugnis kann wahlweise zwischen einer „Facharbeit“ und einer „Beso
 a)** Zur Ausgabe der „Besonderen Lernleistung“ müssen Sie im Menü Abitur > Prüfung im Bereich „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld "Thema" zu. Die Note für die besondere Lernleistung" im Block1 tragen Sie im 1. Notenfeld ganz links ein. Die Noten für Block2 tragen Sie in den 2 Notenfeldern daneben ein. 
 b)** Zur Ausgabe der „Facharbeit“ müssen Sie im Menü Abitur > Prüfung im Bereich "Projekt“ das entsprechende Fach zuweisen und das Optionsfeld „Projekt einbringen“ markieren. Das Thema des Projektes weisen Sie analog dem entsprechenden Feld im Feld "Thema" zu. Die Note für die Facharbeit" im Block1 tragen Sie im 1. Notenfeld ganz links ein. Die Noten für Block2 tragen Sie in den 2 Notenfeldern daneben ein.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -2054,7 +2076,7 @@ Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0045)** Mandanten > Daten >Name 1
+**(A0045)** `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
@@ -2076,7 +2098,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
 Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. 
 
-**(A0139)** Abitur > Prüfung > Zeugnisdatum
+**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
 
@@ -2096,8 +2118,10 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -2203,8 +2227,10 @@ Kürzel | Schlüssel | Bezeichnung
 --|--|--
 FachOR | beliebig | beliebig
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -2303,8 +2329,10 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
  
 Um dem Zeugnis "Zusätzliche Unterrichtsveranstaltungen/Praktika" zuzuordnen, tragen Sie im Menü Schüler > Zeugnis > Bemerkungen / Formulare eine Zeugnisbemerkung mit dem entsprechenden Text ein. Weisen Sie diesen Zeugnisbemerkung im Feld "Merkmal" den Begriff "Praktika" zu.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -2423,8 +2451,10 @@ Eintrag in Spalte „Note“ | Ausgabe „Religion“ | Ausgabe „Note“
 „ab“  (abgewählt)** | Religion |  „----„
 Leer  | kein Eintrag | kein Eintrag
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -2498,7 +2528,7 @@ bis Zeitraum unter "Von" und "Bis" ein.
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0139)** Abitur > Prüfung > Zeugnisdatum
+**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
 
@@ -2514,8 +2544,10 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -2611,8 +2643,10 @@ Platzhalter | Ausgabe im Bericht
 
 Die Fächer, die in die Berechnung der Durchschnittsnote für die Fachhochschulreife eingehen, sind im Menü Schüler > Zeugnis > Fächer im Feld Merkmal mit einem "*" zu kennzeichnen (wichtig nur für Abschlusszeugnis mit Fachhochschulreife). Diese Systematik wird auch für das Berechnungsskript für die Schulabschlüsse verlangt.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -2675,7 +2709,7 @@ Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet d
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0045)** Mandanten > Daten >Name 1
+**(A0045)** `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
@@ -2713,8 +2747,10 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN Schlüsselverzeichnis > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck 2".
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -2834,8 +2870,10 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 Unterfächer die einem Hauptfach zugeordnet werden sollen, kennzeichnen Sie im Menü Schüler > Zeugnis > Fächer im Feld "Haupfach". Dort weisen Sie dem Unterfach das entsprechende Hauptfach zu. Damit die Fächer auf dem Zeugnis in der gewünschten Reihenfolge ausgegeben wird, weisen Sie den Fächern entsprechende Positionen zu. 
 Machen Sie dabei zwischen Unter-  und Hauptfächern keine Unterschiede und positionieren diese in der gewünschten chronologischen Reihenfolge. Beachten Sie dabei, dass ein Hauptfach eine niedrigere Position als ein Unterfach haben muss und dass keine anderen Fächer zwischen Hauptfach und Unterfach positioniert werden.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -2996,8 +3034,10 @@ Das Zeugnis/der Bericht muss aus dem Menü Abitur gedruckt werden. Fach und Note
 
 ## NRW-BKO-ABI (Bescheinigung Schullaufbahn3).rpt
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -3071,8 +3111,10 @@ eine "1", für die zweite eine "2" usw.
 
 ## NRW-BKO-ABI (Bescheinigung Schullaufbahn4).rpt
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -3170,8 +3212,10 @@ eine "1", für die zweite eine "2" usw.
 
 ## NRW-BKO-ABI.rpt
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -3202,7 +3246,7 @@ Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld 
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0139)** Abitur > Prüfung > Zeugnisdatum
+**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
 
@@ -3464,8 +3508,10 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 Zum Eintragen einer Zeugnisbemerkung muss im Abitur > Zeugnis > Zeugnisbemerkungen im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -3675,8 +3721,10 @@ Fächer des Differenzierungsbereiches zählen hierbei grundsätzlich nicht mit.
 
 Ausnahmen bilden die Bildungsgänge der Schulgliederung A02. Diese werden in dem Bericht nicht berücksichtigt.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -4175,8 +4223,10 @@ Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Z
 
 Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü Mandanten > Daten 1  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -4306,7 +4356,7 @@ Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis"
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0045)** Mandanten > Daten >Name 1
+**(A0045)** `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
@@ -4320,7 +4370,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0139)** Abitur > Prüfung > Zeugnisdatum
+**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
 
@@ -4332,16 +4382,18 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten >
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
 
-**(A0289)** Mandaten > Daten 1 > Schulnummer
+**(A0289)** `Mandaten > Daten 1 > Schulnummer`
 
-Tragen Sie die Schulnummer Ihrer Schule im Menü Mandaten > Daten 1 im Feld „Schulnummer“ ein.
+Tragen Sie die Schulnummer Ihrer Schule im Menü `Mandaten > Daten 1` im Feld „Schulnummer“ ein.
 
 **(A0439)** Schüler > Daten 1 > Konfession
 
 Tragen Sie im Menü Schüler> Daten 1 im Feld "Konfession" die Konfession des Schülers ein. Grundlage bildet das Schlüsselverzeichnis > Konfessionen.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -4452,10 +4504,10 @@ Zeitraumfenster.
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 ## NRW-GY-AS (Variante 2).rpt
 
@@ -4515,10 +4567,10 @@ Zeitraumfenster.
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 ## NRW-GY-AZ (Jahrgangsstufe 11).rpt
 
@@ -4643,10 +4695,10 @@ Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 ## NRW-GY-HJZ (Klasse 5-8).rpt
 
@@ -4709,10 +4761,10 @@ Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 ## NRW-GY-HJZ (Klasse 9-10).rpt
 
@@ -4775,10 +4827,10 @@ Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 ## NRW-GY-JZ (Hauptschulabschluss).rpt
 
@@ -4853,10 +4905,10 @@ Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 ## NRW-GY-JZ (Jahrgangsstufe 11).rpt
 
@@ -4932,10 +4984,10 @@ Zeitraumfenster.
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 **(A0042)** Klasse > Schwerpunkt ODER Schüler > Ausbildung > Schwerpunkt
 
@@ -5000,10 +5052,10 @@ Zeitraumfenster.
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 **(A0042)** Klasse > Schwerpunkt ODER Schüler > Ausbildung > Schwerpunkt
 
@@ -5079,10 +5131,10 @@ Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 ## NRW-GY-JZ (Sekundarabschluss I).rpt
 
@@ -5142,10 +5194,10 @@ Zeitraumfenster.
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 **(A0042)** Klasse > Schwerpunkt ODER Schüler > Ausbildung > Schwerpunkt
 
@@ -5207,8 +5259,10 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü Mandanten > Daten 1  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
 
-**(A0602)** Abitur > Zeugnisbemerkungen
-Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0602)** 
+`Abitur > Zeugnisbemerkungen`
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
@@ -5315,10 +5369,10 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 ## NRW-RS-AS (Variante 1).rpt
 
@@ -5366,10 +5420,10 @@ Zeitraumfenster.
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 **(A0042)** Klasse > Schwerpunkt ODER Schüler > Ausbildung > Schwerpunkt
 
@@ -5446,10 +5500,10 @@ Zeitraumfenster.
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 **(A0042)** Klasse > Schwerpunkt ODER Schüler > Ausbildung > Schwerpunkt
 
@@ -5513,10 +5567,10 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 **(A0042)** Klasse > Schwerpunkt ODER Schüler > Ausbildung > Schwerpunkt
 
@@ -5580,10 +5634,10 @@ Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 **(A0042)** Klasse > Schwerpunkt ODER Schüler > Ausbildung > Schwerpunkt
 
@@ -5647,10 +5701,10 @@ Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 **(A0042)** Klasse > Schwerpunkt ODER Schüler > Ausbildung > Schwerpunkt
 
@@ -5715,10 +5769,10 @@ Zeitraumfenster.
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 **(A0042)** Klasse > Schwerpunkt ODER Schüler > Ausbildung > Schwerpunkt
 
@@ -5783,10 +5837,10 @@ Zeitraumfenster.
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 **(A0042)** Klasse > Schwerpunkt ODER Schüler > Ausbildung > Schwerpunkt
 
@@ -5850,10 +5904,10 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0028)** Schüler > Zeugnis > Fächer > Position
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Schüler > Zeugnis > Fächer pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter Schlüsselvezeichnis > Fachtafeln die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
+Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 **(A0042)** Klasse > Schwerpunkt ODER Schüler > Ausbildung > Schwerpunkt
 
