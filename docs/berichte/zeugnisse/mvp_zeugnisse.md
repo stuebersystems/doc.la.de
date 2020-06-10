@@ -714,7 +714,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 GF | GF | Grundfach
 HF | HF | Hauptfach
 
-**(A0020)** Schüler > Daten 3 > Von/Bis-Datum
+**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
 
 Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
@@ -785,7 +785,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 GF | GF | Grundfach
 HF | HF | Hauptfach
 
-**(A0020)** Schüler > Daten 3 > Von/Bis-Datum
+**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
 
 Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
@@ -1521,7 +1521,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 HF | HF | Hauptfach
 
-**(A0020)** Schüler > Daten 3 > Von/Bis-Datum
+**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
 
 Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
@@ -1687,7 +1687,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 GF | GF | Grundfach
 HF | HF | Hauptfach
 
-**(A0020)** Schüler > Daten 3 > Von/Bis-Datum
+**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
 
 Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
@@ -1758,7 +1758,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 GF | GF | Grundfach
 HF | HF | Hauptfach
 
-**(A0020)** Schüler > Daten 3 > Von/Bis-Datum
+**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
 
 Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
@@ -1839,7 +1839,7 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0020)** Schüler > Daten 3 > Von/Bis-Datum
+**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
 
 Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
 

@@ -112,7 +112,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 eA | eA | E-Kurs | Fach mit erhöhtem Anforderungsniveau
 
-**(A0020)** Schüler > Daten 3 > Von/Bis-Datum
+**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
 
 Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
@@ -215,7 +215,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 eA | eA | E-Kurs | Fach mit erhöhtem Anforderungsniveau
 
-**(A0020)** Schüler > Daten 3 > Von/Bis-Datum
+**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
 
 Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
@@ -350,7 +350,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 PeF | PeF | Profil ergänzendes Fach
 
-**(A0020)** Schüler > Daten 3 > Von/Bis-Datum
+**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
 
 Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
 

@@ -37,7 +37,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0150)** Allgemein > Systemdatum
+**(A0150)** `Allgemein > Systemdatum`
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
@@ -128,7 +128,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0150)** Allgemein > Systemdatum
+**(A0150)** `Allgemein > Systemdatum`
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
