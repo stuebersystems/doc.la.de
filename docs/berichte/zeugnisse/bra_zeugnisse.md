@@ -986,10 +986,9 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0099)** Schlüsselverzeichnis > Zeiträume > Art
+**(A0099)** `Schlüsselverzeichnis > Zeiträume > Art`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Schlüsselverzeichnis > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Art". Tragen Sie den von und
-bis Zeitraum unter "Von" und "Bis" ein.
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Art". Tragen Sie den von und bis Zeitraum unter "Von" und "Bis" ein.
 
 ## BRA-FS-AS (3-seitig).rpt
 
@@ -1197,7 +1196,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
+**(A0130)** `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
@@ -1250,17 +1249,17 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurs
 
-**(A0267)** Schlüsselverzeichnis > Zeiträume > Art UND Klassen > Zeiträume > Klassenstufe
+**(A0267)** `Schlüsselverzeichnis > Zeiträume > Art UND Klassen > Zeiträume > Klassenstufe`
 
-Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter „Verzeichnisse|Zeiträume|Art“ und aus dem Menü „Klassen“ Registerkarte „Zeiträume“, Feld „Klassenstufe“.
+Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Extras > Schlüsselverzeichnisse > Zeiträume > Art` und aus dem Menü „Klassen“ Registerkarte „Zeiträume“, Feld „Klassenstufe“.
 z.B.
 1 Jahrgang >>> 1. und 2. HJ
 2 Jahrgang >>> 3. und 4. HJ usw.
 Beachten Sie bitte, in dem Feld Klassenstufe einen numerischen Wert einzutragen.
 
-**(A0326)** Schüler > Merkmale > Merkmal A1
+**(A0326)** `Schüler > Merkmale > Merkmal A1`
 
-Tragen Sie den für den Zeugnisdruck relevanten Schulstandort im Menü Schüler > Merkmale im Feld „Merkmal A1“ ein. Grundlage bildet das Schlüsselverzeichnis > Merkmale (Schüler). Hier ist in der Spalte „Bereich“ zuzuweisen „Merkmal A1“. Für den Zeugnisdruck ist nur der Wert in der Spalte „Bezeichnung“ des Merkmales relevant, das Kürzel und der Schlüssel kann beliebig gewählt werden.
+Tragen Sie den für den Zeugnisdruck relevanten Schulstandort im Menü `Schüler > Merkmale` im Feld „Merkmal A1“ ein. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Schüler)`. Hier ist in der Spalte „Bereich“ zuzuweisen „Merkmal A1“. Für den Zeugnisdruck ist nur der Wert in der Spalte „Bezeichnung“ des Merkmales relevant, das Kürzel und der Schlüssel kann beliebig gewählt werden.
 
 **(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
@@ -1275,8 +1274,6 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 ## BRA-GY-AS.rpt
-
-
 
 Zeugnis Klasse 11/ 2 Halbjahr; Zeugnis Klasse 12 und 13/ 1. und 2. Halbjahr
 
@@ -1309,7 +1306,7 @@ z.B.
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
+**(A0130)** `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
@@ -1380,7 +1377,7 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
+**(A0130)** `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
@@ -1435,7 +1432,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
+**(A0130)** `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
@@ -1503,7 +1500,7 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
+**(A0130)** `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
@@ -1690,7 +1687,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
+**(A0130)** `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
@@ -1745,7 +1742,7 @@ LK | LK | Leistungskurs
 
 **(A0267)** Schlüsselverzeichnis > Zeiträume > Art UND Klassen > Zeiträume > Klassenstufe
 
-Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter „Verzeichnisse|Zeiträume|Art“ und aus dem Menü „Klassen“ Registerkarte „Zeiträume“, Feld „Klassenstufe“.
+Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Extras > Schlüsselverzeichnisse > Zeiträume > Art` und aus dem Menü „Klassen“ Registerkarte „Zeiträume“, Feld „Klassenstufe“.
 z.B.
 1 Jahrgang >>> 1. und 2. HJ
 2 Jahrgang >>> 3. und 4. HJ usw.
@@ -1791,7 +1788,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
+**(A0130)** `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
@@ -1854,7 +1851,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 **(A0267)** Schlüsselverzeichnis > Zeiträume > Art UND Klassen > Zeiträume > Klassenstufe
 
-Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter „Verzeichnisse|Zeiträume|Art“ und aus dem Menü „Klassen“ Registerkarte „Zeiträume“, Feld „Klassenstufe“.
+Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Extras > Schlüsselverzeichnisse > Zeiträume > Art` und aus dem Menü „Klassen“ Registerkarte „Zeiträume“, Feld „Klassenstufe“.
 z.B.
 1 Jahrgang >>> 1. und 2. HJ
 2 Jahrgang >>> 3. und 4. HJ usw.

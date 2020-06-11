@@ -976,7 +976,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers die Klassenstufe auf der Registerkarte `Zeiträume` im Feld "Klassenstufe" eingetragen sein.
 
-**(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
+**(A0130)** `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
@@ -1020,9 +1020,9 @@ Das Zeugnis gilt sowohl für das 1. und 2. Halbjahr. Der Versetzungstext wird nu
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0064)** Schüler > Zeugnis > Fächer > Schwerpunkt
+**(A0064)** `Schüler > Zeugnis > Fächer > Schwerpunkt`
 
-Tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Fächer im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Fachschwerpunkte.
+Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Fächer` im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachschwerpunkte`.
 
 **(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
@@ -1092,7 +1092,7 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
+**(A0130)** `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
@@ -1114,7 +1114,7 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
+**(A0130)** `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
@@ -1529,7 +1529,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0130)** Klassen > Daten > Beurteilungsart > Benotung durch Punkte
+**(A0130)** `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 

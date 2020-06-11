@@ -940,9 +940,9 @@ KursZ | KursZ | KursZ
 
 Tragen Sie die Anzahl der belegten Kurse oder die Kursnummer im Menü Schüler > Zeugnis > Fächer  im Feld "Kurs" ein.
 
-**(A0064)** Schüler > Zeugnis > Fächer > Schwerpunkt
+**(A0064)** `Schüler > Zeugnis > Fächer > Schwerpunkt`
 
-Tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Fächer im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Fachschwerpunkte.
+Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Fächer` im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachschwerpunkte`.
 
 ## NIE-FG-JZ (Kursstufe Wirtschaft).rpt
 
@@ -982,9 +982,9 @@ Sport | Aufgabenfeld D
 
 Tragen Sie die Anzahl der belegten Kurse oder die Kursnummer im Menü Schüler > Zeugnis > Fächer  im Feld "Kurs" ein.
 
-**(A0064)** Schüler > Zeugnis > Fächer > Schwerpunkt
+**(A0064)** `Schüler > Zeugnis > Fächer > Schwerpunkt`
 
-Tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Fächer im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Fachschwerpunkte.
+Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Fächer` im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachschwerpunkte`.
 
 ## NIE-FG-JZ (Vorstufe Technik).rpt
 
@@ -1888,9 +1888,9 @@ Theorie | Theorie | Fachtheorie
 KursA | KursA | KursA
 KursZ | KursZ | KursZ
 
-**(A0064)** Schüler > Zeugnis > Fächer > Schwerpunkt
+**(A0064)** `Schüler > Zeugnis > Fächer > Schwerpunkt`
 
-Tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Fächer im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Fachschwerpunkte.
+Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Fächer` im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachschwerpunkte`.
 
 ## NIE-GY (Kursstufe 2).rpt
 
@@ -1955,9 +1955,9 @@ Theorie | Theorie | Fachtheorie
 KursA | KursA | KursA
 KursZ | KursZ | KursZ
 
-**(A0064)** Schüler > Zeugnis > Fächer > Schwerpunkt
+**(A0064)** `Schüler > Zeugnis > Fächer > Schwerpunkt`
 
-Tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Fächer im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Fachschwerpunkte.
+Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Fächer` im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachschwerpunkte`.
 
 ## NIE-GY (Kursstufe 3).rpt
 
@@ -2022,9 +2022,9 @@ Theorie | Theorie | Fachtheorie
 KursA | KursA | KursA
 KursZ | KursZ | KursZ
 
-**(A0064)** Schüler > Zeugnis > Fächer > Schwerpunkt
+**(A0064)** `Schüler > Zeugnis > Fächer > Schwerpunkt`
 
-Tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Fächer im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Fachschwerpunkte.
+Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Fächer` im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachschwerpunkte`.
 
 ## NIE-GY (Kursstufe 4).rpt
 
@@ -2089,9 +2089,9 @@ Theorie | Theorie | Fachtheorie
 KursA | KursA | KursA
 KursZ | KursZ | KursZ
 
-**(A0064)** Schüler > Zeugnis > Fächer > Schwerpunkt
+**(A0064)** `Schüler > Zeugnis > Fächer > Schwerpunkt`
 
-Tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Fächer im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Fachschwerpunkte.
+Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Fächer` im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachschwerpunkte`.
 
 ## NIE-GY (Studienbuch - Einführungsphase)** G9.rpt
 
@@ -2301,9 +2301,9 @@ KursZ | KursZ | KursZ
 
 Tragen Sie die Anzahl der belegten Kurse oder die Kursnummer im Menü Schüler > Zeugnis > Fächer  im Feld "Kurs" ein.
 
-**(A0064)** Schüler > Zeugnis > Fächer > Schwerpunkt
+**(A0064)** `Schüler > Zeugnis > Fächer > Schwerpunkt`
 
-Tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Fächer im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Fachschwerpunkte.
+Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Fächer` im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachschwerpunkte`.
 
 ## NIE-GY (Vorstufe 2).rpt
 
@@ -2359,9 +2359,9 @@ KursZ | KursZ | KursZ
 
 Tragen Sie die Anzahl der belegten Kurse oder die Kursnummer im Menü Schüler > Zeugnis > Fächer  im Feld "Kurs" ein.
 
-**(A0064)** Schüler > Zeugnis > Fächer > Schwerpunkt
+**(A0064)** `Schüler > Zeugnis > Fächer > Schwerpunkt`
 
-Tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Fächer im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Fachschwerpunkte.
+Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Fächer` im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachschwerpunkte`.
 
 ## NIE-GY-ABI (2005).rpt
 
@@ -2887,7 +2887,7 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.39)** Bitte legen Sie Ihre Arbeitsgemeinschaften unter Schüsselverzeichnisse > Fächer als Fachzeilen an. Verteilen Sie die Arbeitsgemeinschaften per Sammelzuweisung der Fachtafeln oder weisen sie direkt dem Schüler unter Schüler > Zeugnis > Fächer die entsprechenden Fächer der AGs zu. Weisen Sie die Fachzeilen bitte den Fachstatus AG. Legen Sie dazu den Fachstatus einmalig wie folgt an:
+**(A0015.39)** Bitte legen Sie Ihre Arbeitsgemeinschaften unter `Schüsselverzeichnisse > Fächer` als Fachzeilen an. Verteilen Sie die Arbeitsgemeinschaften per Sammelzuweisung der Fachtafeln oder weisen sie direkt dem Schüler unter `Schüler > Zeugnis > Fächer` die entsprechenden Fächer der AGs zu. Weisen Sie die Fachzeilen bitte den Fachstatus AG. Legen Sie dazu den Fachstatus einmalig wie folgt an:
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|---

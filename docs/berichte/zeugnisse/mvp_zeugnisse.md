@@ -1533,9 +1533,9 @@ Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis"
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0064)** Schüler > Zeugnis > Fächer > Schwerpunkt
+**(A0064)** `Schüler > Zeugnis > Fächer > Schwerpunkt`
 
-Tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Fächer im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Fachschwerpunkte.
+Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Fächer` im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachschwerpunkte`.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -1629,9 +1629,9 @@ gesellschaftswiss. | 2. Aufgabenfeld
 mathem.-nat.-technisch | 3. Aufgabenfeld
 Religion | Religion
 
-**(A0064)** Schüler > Zeugnis > Fächer > Schwerpunkt
+**(A0064)** `Schüler > Zeugnis > Fächer > Schwerpunkt`
 
-Tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Fächer im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Fachschwerpunkte.
+Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Fächer` im Feld "Schwerpunkt" den Fachschwerpunkt ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachschwerpunkte`.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -1811,9 +1811,9 @@ mathem.-nat.-technisch > 3. Aufgabenfeld
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0202)** Abitur > Qualifikation > Durchschnitt
+**(A0202)** `Abitur > Qualifikation > Durchschnitt`
 
-Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü Abitur > Qualifikation im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist. Der Durchschnitt wird auch automatisch durch das Fachoberschulschulskript berechnet und entsprechend hinterlegt.
+Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Abitur > Qualifikation` im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist. Der Durchschnitt wird auch automatisch durch das Fachoberschulschulskript berechnet und entsprechend hinterlegt.
 
 **(A0241)** `Abitur > Prüfung`
 
