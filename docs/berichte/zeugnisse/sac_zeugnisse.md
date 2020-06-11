@@ -76,7 +76,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 **(A0112)** `Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
@@ -95,13 +95,13 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 Die Anzahl der Wochen für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach "Praktikum" bzw. "Berufspraktische/Praktische Ausbildung" im Menü `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Beachten Sie dabei A0015.77 (für Praktikum) bzw. A0015.80 (für Berufspraktische/Praktische Ausbildung).
 
-**(A0393)** Klassen > Merkmale > Merkmal A1
+**(A0393)** `Klassen > Merkmale > Merkmal A1`
 
-Das "Berufsfeld" der Klasse tragen Sie im Klassen > Merkmale im Feld "Merkmal A1" ein. Grundlage bildet das Schlüsselverzeichnis > Merkmale (Klassen). Hier ist in der Spalte „Bereich“ der Wert „Merkmal A1“ zuzuweisen.
+Das "Berufsfeld" der Klasse tragen Sie im `Klassen > Merkmale` im Feld "Merkmal A1" ein. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`. Hier ist in der Spalte „Bereich“ der Wert „Merkmal A1“ zuzuweisen.
 
 **(A0433)** `Schüler > Laufbahn > Abschluss`
 
-Tragen Sie im Menü Schüler > Laufbahn > Abschluss die Abschlussbezeichnung im Feld „Abschluss 1“ ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Abschlüsse (Intern)`.
+Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` die Abschlussbezeichnung im Feld „Abschluss 1“ ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Abschlüsse (Intern)`.
 
 Entscheidend ist der Eintrag in Spalte "Bezeichnung".
 
@@ -115,8 +115,8 @@ MSA (frei definierbar)** | leer | Mittlerer Schulabschluss
 
 Zum Anlegen der „komplexe Arbeitsaufgabe“ inklusive Note unter Bemerkungen gehen Sie wie folgt vor:
 
-1)** Legen ein beliebiges Fach (Bsp. „komplexe Arbeitsaufgabe“) im Schlüsselverzeichnis > Fächer an und weisen dieses im Menü `Schüler > Zeugnis > Fächer` dem Schule zu. Dieses Fach erhält im Feld "Fachstatus" „Thema“. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`. Die Note erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld „Endnote“.
-2)** Legen Sie eine Bemerkung im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` an. Weisen Sie zudem im Feld "Merkmal" das Kürzel "Thema" zu und das definieren Sie das Thema der Arbeitsaufgabe im Feld "Text".
+1) Legen ein beliebiges Fach (Bsp. „komplexe Arbeitsaufgabe“) im Schlüsselverzeichnis > Fächer an und weisen dieses im Menü `Schüler > Zeugnis > Fächer` dem Schule zu. Dieses Fach erhält im Feld "Fachstatus" „Thema“. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`. Die Note erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld „Endnote“.
+2) Legen Sie eine Bemerkung im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` an. Weisen Sie zudem im Feld "Merkmal" das Kürzel "Thema" zu und das definieren Sie das Thema der Arbeitsaufgabe im Feld "Text".
 Der vorgegebene Standardtext inklusive dem Thema der Arbeitsaufgabe und der Note werden nun ausgegeben.
 
 **(A0602)** 
@@ -148,7 +148,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 **(A0112)** `Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
@@ -175,9 +175,9 @@ Praktikum | Praktikum | Praktikum
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0339)** ``Schüler > Zeugnis > Fächer > Gruppe`
+**(A0339)** `Schüler > Zeugnis > Fächer` (Gruppe)
 
-Unterschiedliche berufsbezogene Bereiche differenzieren Sie, indem Sie den "Berufsbezogenen Bereich" den jeweiligen Fächern im Menu `Schüler > Zeugnis > Fächer` im Feld "Gruppe" zuweisen. Grundlage dafür bildet das `Schlüsselverzeichnis > Fachgruppen`. Beachten Sie zudem, dass sie den berufsbezogenen Fächern ausserdem den Fachstatus "BerufS" zuweisen (siehe A15 und A15.27)
+Unterschiedliche berufsbezogene Bereiche differenzieren Sie, indem Sie den "Berufsbezogenen Bereich" den jeweiligen Fächern im Menu `Schüler > Zeugnis > Fächer` im Feld "Gruppe" zuweisen. Grundlage dafür bildet das `Schlüsselverzeichnis > Fachgruppen`. Beachten Sie zudem, dass sie den berufsbezogenen Fächern ausserdem den Fachstatus "BerufS" zuweisen.
 
 **(A0341)** `Schüler > Zeugnis > Fächer`
 
@@ -224,7 +224,7 @@ BerufS | BerufS | Berufsbezogener /Fachrichtungsbezogner Lernbereich
 Pflicht | Pflicht | Allgemeiner / Berufsübergreifender / Fachrichtungsübergreifender Lernbereich
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**(A0028)** ``Schüler > Zeugnis > Fächer` > Position`
+**(A0028)** `Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
@@ -255,12 +255,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 **(A0112)** `Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
-
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
-
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
