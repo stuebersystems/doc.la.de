@@ -13226,6 +13226,7 @@ Merkmal | Bedeutung
 AG | Teilnahme an folgenden Arbeitsgemeinschaften
 
 **A0021.61**	
+
 Merkmal | Bedeutung
 --|--
 Beiblatt | Beiblatt ist Bestandteil des Zeugnisses
@@ -13356,6 +13357,7 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 **A0015.15**	
+
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflichtbereich
@@ -13366,11 +13368,13 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 Folgende Kürzel im Feld Merkmal dürfen für den Zeugnisdruck verwendet werden:
 
 **A0021.21**	
+
 Merkmal | Bedeutung
 --|--
 AG | Teilnahme an folgenden Arbeitsgemeinschaften
 
 **A0021.61**	
+
 Merkmal | Bedeutung
 --|--
 Beiblatt | Beiblatt ist Bestandteil des Zeugnisses
@@ -13409,9 +13413,11 @@ Die Bemerkung Entsprechend dem Beschluss der Schulkonferenz gemäß § 58 (7) Sc
 
 Um die korrekte Bemerkung über das Arbeits- und Sozialverhalten zu generieren (siehe auch A0579), legen Sie, falls das Arbeits- und Sozialverhalten beurteilt werden soll, im Menü `Schüler > Zeugnis > Bemerkungen / Formulare` eine Zeugnisbemerkung mit dem Merkmal „ASV1“, „ASV2“ oder „ASV12“ an. Damit wird die entsprechende Bemerkung generiert und ermittelt um welches Schuljahr es sich handelt worauf sich Ihre Informationen über das „Arbeits- und Sozialverhalten“ beziehen, was für andere Zeugnisse relevant sein kann. Beachten Sie dabei:  
 
-ASV1	-->	1. HJ
-ASV2	-->	2. HJ
-ASV12	-->	1. und 2. HJ
+Merkmal | Ausgabe im
+--|-- 
+ASV1| 1. HJ
+ASV2 | 2. HJ
+ASV12 | 1. und 2. HJ
 
 Wird das Arbeits- und Sozialverhalten des Schülers nicht beurteilt, weisen Sie dem Schüler keine Bemerkung mit dem Merkmal  „ASV1“, „ASV2“ oder „ASV12“ zu. Der entsprechende Vermerk wird auch dann ausgegeben.
 
