@@ -4,6 +4,7 @@
 
 Dieser Bericht gibt die Arbeitsgemeinschaften untereinander ausdie AGs werden individuell beurteilt.
 Mögliche Beurteilungen:
+
 - Mit sehr gutem Erfolg teilgenommen
 - Mit gutem Erfolg teilgenommen
 - Mit Erfolg teilgenommen
@@ -25,7 +26,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|---
 AG | AG | Arbeitsgemeinschaft
 
-**(A0015.99)** 
+**(A0015.99)**
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|---
@@ -1410,27 +1411,29 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0153)** Abitur > Prüfung > Prüfungsfächer
+**(A0153)** `Abitur > Prüfung > Prüfungsfächer`
 
-Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfungsfächer die jeweiligen Fächer eingetragen sein.
+Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein.
 
 **(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0277)** Schüler > Daten 1 > Staatsangeh. 1
+**(A0277)** `Schüler > Daten 1 > Staatsangeh. 1`
 
-Tragen Sie die Staatsangehörigkeit des Schülers im Menü Schüler > Daten 1 im Feld "Staatsangeh. 1" ein.
+Tragen Sie die Staatsangehörigkeit des Schülers im Menü `Schüler > Daten 1` im Feld "Staatsangeh. 1" ein.
 
-**(A0632)** Abitur > Qualifikation > Q1Bilingual-Q4Bilingual
-Schlüsselverzeichnisse > Kurssprachen
+**(A0632)** `Abitur > Qualifikation > Q1Bilingual-Q4Bilingual
+Schlüsselverzeichnisse > Kurssprachen`
 
-Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü Abitur > Qualifikation in den Feldern Q1Bilingual-Q4Bilingual ein, die Sie über „Layout anpassen“ einblenden können. 
-Q1 und Q2 umfasst den Zeitraum der 11. Klasse, Q3 und Q4 die 12. Klasse. 
-Grundlage hierzu bildet das Schlüsselverzeichnis > Kurssprachen.  Ausgegeben wird die „Bezeichnung“ und „Bezeichnung1“ des Schlüsselverzeichnis >Kurssprachen. 
-Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu unterscheiden, tragen Sie im Schlüsselverzeichnis > Kurssprachen für die jeweilige Kurssprache für bilinguale Fächern den Wert „bi“ im Feld "Schlüssel" ein, bei den komplett in einer Fremdsprache unterrichteten Fächern lassen Sie das Feld Schlüssel bitte leer. 
+Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü Abitur > Qualifikation in den Feldern Q1Bilingual-Q4Bilingual ein, die Sie über „Layout anpassen“ einblenden können.
+Q1 und Q2 umfasst den Zeitraum der 11. Klasse, Q3 und Q4 die 12. Klasse.
+Grundlage hierzu bildet das `Schlüsselverzeichnis > Kurssprachen`.  Ausgegeben wird die „Bezeichnung“ und „Bezeichnung1“ des Schlüsselverzeichnis > Kurssprachen.
+
+Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu unterscheiden, tragen Sie im Schlüsselverzeichnis > Kurssprachen für die jeweilige Kurssprache für bilinguale Fächern den Wert „bi“ im Feld "Schlüssel" ein, bei den komplett in einer Fremdsprache unterrichteten Fächern lassen Sie das Feld Schlüssel bitte leer.
 
 Bsp:
+
 Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
 --|--|--|--
 bi(de/eng)** | bi | Deutsch / Englisch | English / German
@@ -1440,11 +1443,11 @@ Spanisch | leer | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü Abitur > Qualifikation den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar)** in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
-**(A0805)** Schüler > Daten 3 > Fremdsprachenfolge
+**(A0805)** `Schüler > Daten 3 > Fremdsprachenfolge`
 
 Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintrages in MAGELLAN unter Schüler > Daten 3 > Fremdsprachenfolge im Feld "von" und aus dem Menü Klassen > Zeiträume Feld „Jahrgang“.
 
-**(A0810)** Schlüsselverzeichnis > Fächer > Merkmale
+**(A0810)** `Schlüsselverzeichnis > Fächer > Merkmale`
 
 Bitte tragen Sie im Schlüsselverzeichnis > Fächer in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
