@@ -2,11 +2,11 @@
 
 Abiturqualifikationsberechnung gemäß Verordnung des Sächsischen Staatsministeriums für Kultus über Berufliche Gymnasien im Freistaat Sachsen (Schulordnung Berufliche Gymnasien – BGySO).
 
-Letzte Änderung: 04.06.2020
+Letzte Änderung: 10.06.2020
 
 ## Verzeichnis Verordnung
 
-Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
+Bitte legen Sie unter `Extras > Schlüsselverzeichnisse > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Menü `Abitur` weisen Sie den Schülern die Verordnung zu.
 
 | Spalte       | Wert                                     |
 |--------------|------------------------------------------|
@@ -25,7 +25,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 
 ## Fachkategorien
 
-Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter ```Verzeichnisse > Fächer > Kategorie``` zuweisen.
+Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie im unter `Extras > Schlüsselverzeichnisse > Fächer` im Feld "Kategorie" zuweisen.
 Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet:
 
 |Fachkategorien|Wird vom Skript berücksichtigt|
@@ -64,7 +64,7 @@ Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet:
 
 ## Aufgabenbereiche
 
-Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnisse > Fächer > Spalte Aufgabenbereich``` verwendet werden:
+Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Extras > Schlüsselverzeichnisse > Fächer` in Spalet `Aufgabenbereich` verwendet werden:
 
 | Aufgabenbereich            |
 |----------------------------|
@@ -76,8 +76,8 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnis
 
 ## Unterrichtsart
 
-Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden.
-Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
+Die Unterrichtsart muss im Menü `Abitur > Qualifikation` im Feld "Unterrichtsart" zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus dem Menü `Schüler > Zeugnis > Fächer > Unterrichtsart` übernommen werden.
+Prüfen Sie bitte unter ```Extras > Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung     |
 |--------|-----------|---------------|
@@ -86,8 +86,8 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unt
 
 ## Fachstatus
 
-Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden.
-Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
+Der Fachstatus muss im Menü `Abitur > Qualifikation` im Feld "Fachstatus" zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus dem Menü `Schüler > Zeugnis > Fächer > Fachstatus` übernommen werden.
+Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung       |
 |--------|-----------|-----------------|
@@ -99,14 +99,12 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 
 ## Besondere Lernleistung
 
-Die „Besondere Lernleistung“ muss mit schriftlicher und mündlicher Note auf der Prüfungsregisterkarte (```Abitur > Prüfung > Lernleistung```) eingegeben werden. Bitte tragen Sie die schriftliche Note links in das erste Feld und die mündliche Note in das zweite Feld ein. Soll die Leistung mit eingebracht werden, aktivieren Sie bitte das Häkchen ```Lernleistung einbringen```.
+Die „Besondere Lernleistung“ muss mit schriftlicher und mündlicher Note auf der Prüfungsregisterkarte (Menü `Abitur > Prüfung > Lernleistung`) eingegeben werden. Bitte tragen Sie die schriftliche Note links in das erste Feld und die mündliche Note in das zweite Feld ein. Soll die Leistung mit eingebracht werden, aktivieren Sie bitte das Häkchen `Lernleistung einbringen`.
 
 ## Merkmal
 
-Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Es kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
+Das Merkmal muss im Menü `Abitur > Qualifikation > Merkmal` eingetragen sein. Es kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus dem Menü `Schüler > Zeugnis > Fächer > Merkmal` übernommen werden.
 
 | Merkmal | Bedeutung                                |
 |---------|------------------------------------------|
-| B       | Neu einsetzende Fremdsprache, 2 Kurse müssen eingebracht werden (entspricht dem Niveau B) |
-
-Alle anderen Fremdsprachen haben automatisch das Niveau A, dazu muss in Spalte `Merkmal` nichts eingetragen werden.
+| A       | Neu einsetzende Fremdsprache, 2 Kurse müssen eingebracht werden (entspricht dem Niveau A) |

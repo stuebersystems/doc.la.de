@@ -1,6 +1,6 @@
 # Zeugnisse für Sachsen
 
-## A-Zeugnisse
+## A-Zeugnisse (Berufsschule)
 
 ### SAC-BF-AS (A.02.07).rpt
 
@@ -51,8 +51,7 @@ FachP | FachP | Fachpraktischer Bereich (Unterricht)
 
 **(A0045)** `Mandanten > Daten > Name 1`
 
-Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
-1" ein.
+Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 1" ein.
 
 **(A0054)** `Klassen > Daten > Schulform`
 
@@ -3892,7 +3891,173 @@ Zusatznote1 | praktische Prüfung
 Schriftl. Note 1 | schriftliche Prüfung
 Mündl. Note | mündliche Prüfung
 
-## C-Zeugnisse
+## C-Zeugnisse (Fachschule)
+
+###  SAC-FS-AS (C.01.05).rpt
+
+C.01.05 (Abschlusszeugnis Fachschule)
+
+**A0002**	 `Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
+
+Im Menü `Klassen > Daten` muss bei der Klasse des Schülers iim Feld Beurteilungsart   Noten   angegeben sein. (hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung) 
+
+**A0015**	 `Extras > Schlüsselverzeichnisse > Fachstatus`
+
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis   Fachtafeln   den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Folgende Fachstati dürfen im Zeugnisdruck verwendet werden: 
+
+**A0015.15**	 
+
+Kürzel | Schlüssel | Zeugnisbereich
+--|--|--
+WahlPF | WahlPF | Wahlpflichtbereich 
+
+**A0015.38**	 
+
+Kürzel | Schlüssel | Zeugnisbereich
+--|--|--
+Wahlb | Wahlb | Wahlfächer bzw. –bereich 
+
+**A0015.48**	 
+
+Kürzel | Schlüssel | Zeugnisbereich
+--|--|--
+Pflicht | Plicht | Pflichfächer 
+
+**A0015.58**	 
+
+Kürzel | Schlüssel | Zeugnisbereich
+--|--|--
+BerufS | BerufS | Berufsbezogener Unterricht / Fachrichtungsbezogner Lernbereich
+ 
+**A0015.77**	 
+
+Kürzel | Schlüssel | Zeugnisbereich
+--|--|--
+Praktikum | Praktikum | Praktikum 
+
+**A0018**	 `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld   Zugang am   bzw.   Abgang am   ein. 
+
+**A0019**	 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld   Unterrichtsart   ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im `Schlüsselverzeichnis > Fachtafeln` die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden: 
+
+**A0019.75**	 
+
+Kürzel | Schlüssel | Bezeichnung	
+--|--|--
+KS |  KS | schriftliche Komplexprüfungen 
+
+**A0019.76**	 
+
+Kürzel | Schlüssel | Bezeichnung	
+--|--|--
+KP |  KP | praktische Komplexprüfungen 
+
+**A0031**	 `Ausdruck > DIN A 3 Format, doppelseitig`
+
+Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben. 
+
+**A0045**	 `Mandanten > Daten > Name 1`
+
+Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1"   ein. 
+
+**A0054**	 `Klassen > Daten > Schulform`
+
+Tragen Sie im aktuellen Zeitraum im  Menü `Klassen > Daten` die Schulform im Feld   Schulform   ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`. 
+
+**A0077**	 `Mandanten > Daten 1 > Schulleiter`
+
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld   Schulleiter   eingetragen werden. 
+
+**A0112**	 `Ausdruck`
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden. 
+
+**A0115**	 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche   Hinzufügen   anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld   Position   eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung   1  , für die Ausgabe der zweiten Bemerkung   2   usw. 
+
+**A0740**	 `Mandanten > Daten > Name 2`
+
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld   Name 2   ein. 
+
+**A0777** `Schüler > Zeugnis > Bemerkungen/Formulare`
+
+`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
+
+`Berufsschule > Zeugnisbemerkungen`
+
+Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+
+Möglich sind:
+Platzhalter in MAGELLAN | Anzeige im Bericht
+--|--
+``<<Vorname>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+``<<Name>>`` | Vorname Vorname2 Namenszusatz Nachname
+``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers) 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers) 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers) 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers) 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers) 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers) ``
+``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin  (je nach Geschlecht des Schülers) 
+``<<DemSchueler_DerSchuelerin>> `` |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+
+**A0880**	 `Klassen > Daten > Berufsfeld`
+
+Den FACHBEREICH der Fachschule tragen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` im Feld   Berufsfeld   zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`. 
+
+**A0883** `Schüler > Laufbahn > Abschluss > Abschlussart`
+
+Bei `Schüler > Laufbahn > Abschluss` tragen im Bereich „Abschluss1“ im Feld „Abschlussart“ die jeweilige Abschlussart. Grundlage bildet das `Schlüsselverzeichnis > Abschlussarten`. 
+
+Der Bericht gibt das Feld "Bezeichnung"   aus. 
+
+**A0886** `Extras > Schlüsselverzeichnisse > Bildungsgänge`
+
+Die Fachrichtung und den Schwerpunkt der Fachschule hinterlegen Sie im `Schlüsselverzeichnis > Bildungsgänge` in den Feldern   Fachrichtung   und   Schwerpunkt  . Grundlage dafür bildet das `Schlüsselverzeichnis > Schwerpunkte` und `Schlüsselverzeichnis > Fachrichtungen  .
+
+a. Weisen Sie im Menü `Schüler> Ausbildung` im aktuellen Zeitraum über das  `Hinzufügen` oder  `Bearbeiten` eines Ausbildungsbetriebes im Feld   Bildungsgang   den Bildungsgang ein.
+ODER 
+B. Weisen Sie im Menü `Klassen > Daten` im Feld `Bildungsgang` den Bildungsgang der Klassen zu, daran hängt dann auch die Fachrichtung und der Schwerpunkt. 
+
+**A0887** `Schlüsselverzeichnisse > Fächer`
+
+Für die Ausgabe der Facharbeit legen Sie im `Schlüsselverzeichnis > Fächer` ein beliebiges Fach. Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Fächer` zu, zusätzlich tragen Sie im Feld   Fachstatus   den Wert   FA   ein. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
+Das Thema der Facharbeit tragen Sie im Menü `Schüler > Leistungem` im Feld   Beurteilung   an. Die Note der Facharbeit erfolgt im Feld "Note". 
+
+**A0888** `Schüler > Zeugnis > Fächer`
+
+Schriftliche / Praktische Komplexprüfung
+
+1. Legen Sie im `Schlüsselverzeichnisse > Fächer` für die Anzahl Ihrer Komplexprüfungen jeweils ein Fach an. Beachten Sie dabei, dass die Fachbezeichnung die Auflistung der Lernfelder ist, die in diese Komplexprüfung fallen. Der Bericht gibt auf dem Zeugnis den Eintrag aus Feld   Bezeichnung   aus.
+
+ Kürzel | Schlüssel | Bezeichnung
+--------|-----------|-----------------
+(beliebig)| (beliebig) | Lernfeld 1, Lernfeld 2 (beliebig)
+(beliebig)| (beliebig) | (beliebig)
+(beliebig)| (beliebig) |  (beliebig)
+
+2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu, positionieren Sie diese über das Feld   Position  . 
+3. Weisen Sie diesen Fächer im Menü `Schüler > Zeugnis > Fächer` im Feld   Unterrichtsart  , entweder   KP   (für praktische Komplexprüfung) oder   KS   (für schriftliche Komplexprüfung zu. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`
+
+4. Der Bericht gibt zusätzlich eine Nummer vor der schriftlichen Komplexprüfung aus, dahinter wird die Fachbezeichnung ausgelesen.
+5. Die Note der schriftlichen / praktischen Komplexprüfung tragen Sie im Menü `Schüler > Zeugnis > Leistungen` ein.
+
+6. Damit der Bericht die Lernfelder der entsprechenden schriftlichen / praktischen Komplexprüfung zuordnen kann, weisen Sie im Menü `Schüler > Zeugnis > Fächer` diesen Lernfeldern im Feld "Hauptfach" das für die Komplexprüfung angelegte Fach zu. MAGELLAN greift hier auf das `Schlüsselverzeichnis > Fächer` zu.
 
 ### SAC-FS-AS (C.01.08).rpt
 
