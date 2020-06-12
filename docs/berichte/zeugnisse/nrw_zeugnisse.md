@@ -95,9 +95,9 @@ Dieser Bericht enthält spezielle Textfelder, die Sie über Microsoft Word ausf�
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -272,9 +272,9 @@ Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktue
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -429,9 +429,9 @@ Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktue
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -560,9 +560,9 @@ Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktue
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -804,9 +804,9 @@ DB | DB | Differenzierungsbereich
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0395)** Schüler > Zeugnis > Bemerkungen / Formulare > Merkmal (Praktika)
+**(A0395)** Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal (Praktika)
 
-Legen Sie im Menü Schüler > Zeugnis > Bemerkungen / Formulare eine Zeugnisbemerkung an und tragen Sie im Feld  „Zeugnisbemerkungen“ die Anzahl der Praktikums-Stunden als Zahl ein. Zusätzlich müssen Sie dieser Zeugnisbemerkung im Feld "Merkmal" den Begriff "Praktika" zuweisen.
+Legen Sie im Menü Schüler > Zeugnis > Bemerkungen/Formulare eine Zeugnisbemerkung an und tragen Sie im Feld  „Zeugnisbemerkungen“ die Anzahl der Praktikums-Stunden als Zahl ein. Zusätzlich müssen Sie dieser Zeugnisbemerkung im Feld "Merkmal" den Begriff "Praktika" zuweisen.
 
 **(A0451)** Schlüsselverzeichnisse > Zeiträume > Von / Bis
 
@@ -815,9 +815,9 @@ Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktue
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -983,9 +983,9 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -1078,7 +1078,7 @@ Um den Satz "Sie können die Jahrgangsstue … wiederholen" auf dem Zeugnis ausz
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im Schlüsselverzeichnis > Zeiträume. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
-**(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0458)** Schüler > Zeugnis > Bemerkungen/Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
@@ -1113,9 +1113,9 @@ Bei Bildungsgängen mit langen Textlängen splitten Sie den Text im Schlüsselve
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -1502,9 +1502,9 @@ Für Schüler, die in der Jahrgangsstufe 11 eine neu einsetzende Fremdsprache be
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -1698,9 +1698,9 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -1827,9 +1827,9 @@ b)** Zur Ausgabe der „Facharbeit“ müssen Sie im Menü Abitur > Prüfung im 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -1928,9 +1928,9 @@ b)** Zur Ausgabe der „Facharbeit“ müssen Sie im Menü Abitur > Prüfung im 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -2117,9 +2117,9 @@ Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `A
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -2226,9 +2226,9 @@ FachOR | beliebig | beliebig
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -2321,16 +2321,16 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0519)** Schüler > Zeugnis > Bemerkungen / Formulare > Merkmal (Praktika)
+**(A0519)** Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal (Praktika)
  
-Um dem Zeugnis "Zusätzliche Unterrichtsveranstaltungen/Praktika" zuzuordnen, tragen Sie im Menü Schüler > Zeugnis > Bemerkungen / Formulare eine Zeugnisbemerkung mit dem entsprechenden Text ein. Weisen Sie diesen Zeugnisbemerkung im Feld "Merkmal" den Begriff "Praktika" zu.
+Um dem Zeugnis "Zusätzliche Unterrichtsveranstaltungen/Praktika" zuzuordnen, tragen Sie im Menü Schüler > Zeugnis > Bemerkungen/Formulare eine Zeugnisbemerkung mit dem entsprechenden Text ein. Weisen Sie diesen Zeugnisbemerkung im Feld "Merkmal" den Begriff "Praktika" zu.
 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -2419,7 +2419,7 @@ Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktue
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im Schlüsselverzeichnis > Zeiträume. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
-**(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0458)** Schüler > Zeugnis > Bemerkungen/Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
@@ -2450,9 +2450,9 @@ Leer  | kein Eintrag | kein Eintrag
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -2542,9 +2542,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -2617,7 +2617,7 @@ Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktue
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im Schlüsselverzeichnis > Zeiträume. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
-**(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0458)** Schüler > Zeugnis > Bemerkungen/Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
@@ -2641,9 +2641,9 @@ Die Fächer, die in die Berechnung der Durchschnittsnote für die Fachhochschulr
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -2745,9 +2745,9 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -2868,9 +2868,9 @@ Machen Sie dabei zwischen Unter-  und Hauptfächern keine Unterschiede und posit
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -3019,9 +3019,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 ``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0789)** Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0789)** Schüler > Zeugnis > Bemerkungen/Formulare
 
-Für diesen Bericht werden die Zeugnisbemerkungen aus dem Menü Schüler > Zeugnis > Bemerkungen / Formulare aus dem beim Druck aufgerufenen Halbjahr abgefragt. Bitte weisen Sie Ihren Bemerkungen im Feld „Position“  eine Positionsnummer zu. Z.B. für die erste Bemerkung eine „1“, für die zweite eine „2“ usw.
+Für diesen Bericht werden die Zeugnisbemerkungen aus dem Menü Schüler > Zeugnis > Bemerkungen/Formulare aus dem beim Druck aufgerufenen Halbjahr abgefragt. Bitte weisen Sie Ihren Bemerkungen im Feld „Position“  eine Positionsnummer zu. Z.B. für die erste Bemerkung eine „1“, für die zweite eine „2“ usw.
 
 **(A0790)** Ausdruck > Abitur
 
@@ -3032,9 +3032,9 @@ Das Zeugnis/der Bericht muss aus dem Menü Abitur gedruckt werden. Fach und Note
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -3109,9 +3109,9 @@ eine "1", für die zweite eine "2" usw.
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -3210,9 +3210,9 @@ eine "1", für die zweite eine "2" usw.
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -3505,9 +3505,9 @@ eine "1", für die zweite eine "2" usw.
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -3718,9 +3718,9 @@ Ausnahmen bilden die Bildungsgänge der Schulgliederung A02. Diese werden in dem
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -4031,9 +4031,10 @@ Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im F
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0348)** Schüler > Zeugnis > Details > Prüfungsvorsitz
+**(A0348)** `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü Lehrer zurück.
+Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
+
 
 **(A0404)** Schüler > Laufbahn > Abschluss > Abschluss 1
 
@@ -4217,9 +4218,9 @@ Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandan
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -4384,9 +4385,9 @@ Tragen Sie im Menü Schüler> Daten 1 im Feld "Konfession" die Konfession des Sc
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -5247,9 +5248,9 @@ Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandan
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:

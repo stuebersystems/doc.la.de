@@ -869,9 +869,9 @@ Im Menü Mandanten > Daten 2 können Sie ihre Landeswappen oder Ihre Schullogos 
 
 Es werden nur Arbeitsgemeinschaften mit der Endnote "tg" (teilgenommen)** ausgegeben. Grundlage bildet das Schlüsselverzeichnis > Noten.
 
-**(A0603)** Schüler > Zeugnis > Bemerkungen / Formulare > Merkmal (FS)
+**(A0603)** Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal (FS)
 
-Bemerkungen zu den Fremdsprachen legen Sie im Menü Schüler > Zeugnis > Bemerkungen / Formulare als Zeugnisbemerkung an. Weisen die zudem im Feld "Merkmal" das Kürzel "FS" zu. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen zu den Fremdsprachen legen Sie im Menü Schüler > Zeugnis > Bemerkungen/Formulare als Zeugnisbemerkung an. Weisen die zudem im Feld "Merkmal" das Kürzel "FS" zu. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Möglich sind:
 
 Platzhalter | Ausgabe im Bericht
@@ -984,7 +984,7 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Tragen Sie im Menü Schüler > Zeugnis > Details die Note für die Mitarbeit und Verhalten beim Schüler im aktuellen Zeitraum in den Feldern „Mitarbeit“ und „Verhalten“ ein. Grundlage für das Erfassen von Noten bildet das Schlüsselverzeichnis > Noten. Hier gelten die Eintragungen im Feld "alternativen Bezeichnungen".
 
-**(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0458)** Schüler > Zeugnis > Bemerkungen/Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  

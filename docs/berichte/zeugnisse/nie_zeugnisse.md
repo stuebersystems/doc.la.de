@@ -2610,9 +2610,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0168)** Schlüsselverzeichnisse > Noten > Füllerwerte
+**(A0168)** `Schlüsselverzeichnisse > Noten > Füllwerte`
 
-Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung))** auf dem Zeugnis auszugeben, müssen Sie unter Schlüsselverzeichnisse > Noten die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
 Kürzel | Bezeichnung | Notenart
 --|--|--
@@ -2633,9 +2633,10 @@ keine schriftliche Note unter "Prüfungsfächer" im 4. PF zugewiesen (Feld bleib
 
 Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
 
-**(A0348)** Schüler > Zeugnis > Details > Prüfungsvorsitz
+**(A0348)** `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü Lehrer zurück.
+Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
+
 
 **(A0373)** Schlüsselverzeichnisse > Fächer > Aufgabenbereich (Seminar)
 
@@ -2727,9 +2728,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0168)** Schlüsselverzeichnisse > Noten > Füllerwerte
+**(A0168)** `Schlüsselverzeichnisse > Noten > Füllwerte`
 
-Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung))** auf dem Zeugnis auszugeben, müssen Sie unter Schlüsselverzeichnisse > Noten die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
 Kürzel | Bezeichnung | Notenart
 --|--|--
@@ -2750,9 +2751,10 @@ keine schriftliche Note unter "Prüfungsfächer" im 4. PF zugewiesen (Feld bleib
 
 Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
 
-**(A0348)** Schüler > Zeugnis > Details > Prüfungsvorsitz
+**(A0348)** `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü Lehrer zurück.
+Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
+
 
 **(A0373)** Schlüsselverzeichnisse > Fächer > Aufgabenbereich (Seminar)
 

@@ -2436,13 +2436,13 @@ Den Fachbereich der Klasse tragen Sie im Menü Klassen > Merkmale im Feld "Merkm
 
 Den Schwerpunkt der Klasse tragen Sie im Menü Klassen > Merkmale tragen Sie den Schwerpunkt im Feld "Merkmal A6" ein. Grundlage bildet das Schlüsselverzeichnis > Merkmale (Klassen). Hier ist in der Spalte „Bereich“ der Wert  „Merkmal A6“ zuzuweisen.  Bleibt das Feld "A6" leer wird der "Schwerpunkt" ausgeblendet.
 
-**(A0385)** Schüler > Zeugnis > Bemerkungen / Formulare > Merkmal (VTageP)** / (VTagePU)
+**(A0385)** Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal (VTageP)** / (VTagePU)
 
 Die Versäumnisse im Praktikum tragen Sie wie folgt ein:
 
-1)** gesamt Fehltage: Um dem Zeugnis "Fehltage im Praktikum" zuzuordnen, tragen Sie im Menü Schüler > Zeugnis > Bemerkungen / Formulare eine Zeugnisbemerkungen ein. Der Bemerkungstext sind die Fehltage als Zahl. Dieser Zeugnisbemerkung weisen Sie im Feld "Merkmal" den Begriff "VTageP" zu.
+1)** gesamt Fehltage: Um dem Zeugnis "Fehltage im Praktikum" zuzuordnen, tragen Sie im Menü Schüler > Zeugnis > Bemerkungen/Formulare eine Zeugnisbemerkungen ein. Der Bemerkungstext sind die Fehltage als Zahl. Dieser Zeugnisbemerkung weisen Sie im Feld "Merkmal" den Begriff "VTageP" zu.
 
-2)** gesamt Fehltage unentschuldigt: Um dem Zeugnis "unentschuldigte Fehltage im Praktikum" zuzuordnen, tragen Sie im Menü Schüler > Zeugnis > Bemerkungen / Formulare eine Zeugnisbemerkungen ein. Der Bemerkungstext sind die Fehltage als Zahl. Weisen Sie dieser Zeugnisbemerkung im Feld "Merkmal" den Begriff "VTagePU" zu.
+2)** gesamt Fehltage unentschuldigt: Um dem Zeugnis "unentschuldigte Fehltage im Praktikum" zuzuordnen, tragen Sie im Menü Schüler > Zeugnis > Bemerkungen/Formulare eine Zeugnisbemerkungen ein. Der Bemerkungstext sind die Fehltage als Zahl. Weisen Sie dieser Zeugnisbemerkung im Feld "Merkmal" den Begriff "VTagePU" zu.
 
 **(A0418)** Schlüsselverzeichnisse > Zeitraum > Art
 
@@ -2555,13 +2555,13 @@ Den Fachbereich der Klasse tragen Sie im Menü Klassen > Merkmale im Feld "Merkm
 
 Den Schwerpunkt der Klasse tragen Sie im Menü Klassen > Merkmale tragen Sie den Schwerpunkt im Feld "Merkmal A6" ein. Grundlage bildet das Schlüsselverzeichnis > Merkmale (Klassen). Hier ist in der Spalte „Bereich“ der Wert  „Merkmal A6“ zuzuweisen.  Bleibt das Feld "A6" leer wird der "Schwerpunkt" ausgeblendet.
 
-**(A0385)** Schüler > Zeugnis > Bemerkungen / Formulare > Merkmal (VTageP)** / (VTagePU)
+**(A0385)** Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal (VTageP)** / (VTagePU)
 
 Die Versäumnisse im Praktikum tragen Sie wie folgt ein:
 
-1)** gesamt Fehltage: Um dem Zeugnis "Fehltage im Praktikum" zuzuordnen, tragen Sie im Menü Schüler > Zeugnis > Bemerkungen / Formulare eine Zeugnisbemerkungen ein. Der Bemerkungstext sind die Fehltage als Zahl. Dieser Zeugnisbemerkung weisen Sie im Feld "Merkmal" den Begriff "VTageP" zu.
+1)** gesamt Fehltage: Um dem Zeugnis "Fehltage im Praktikum" zuzuordnen, tragen Sie im Menü Schüler > Zeugnis > Bemerkungen/Formulare eine Zeugnisbemerkungen ein. Der Bemerkungstext sind die Fehltage als Zahl. Dieser Zeugnisbemerkung weisen Sie im Feld "Merkmal" den Begriff "VTageP" zu.
 
-2)** gesamt Fehltage unentschuldigt: Um dem Zeugnis "unentschuldigte Fehltage im Praktikum" zuzuordnen, tragen Sie im Menü Schüler > Zeugnis > Bemerkungen / Formulare eine Zeugnisbemerkungen ein. Der Bemerkungstext sind die Fehltage als Zahl. Weisen Sie dieser Zeugnisbemerkung im Feld "Merkmal" den Begriff "VTagePU" zu.
+2)** gesamt Fehltage unentschuldigt: Um dem Zeugnis "unentschuldigte Fehltage im Praktikum" zuzuordnen, tragen Sie im Menü Schüler > Zeugnis > Bemerkungen/Formulare eine Zeugnisbemerkungen ein. Der Bemerkungstext sind die Fehltage als Zahl. Weisen Sie dieser Zeugnisbemerkung im Feld "Merkmal" den Begriff "VTagePU" zu.
 
 **(A0418)** Schlüsselverzeichnisse > Zeitraum > Art
 
@@ -2671,9 +2671,10 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0348)** Schüler > Zeugnis > Details > Prüfungsvorsitz
+**(A0348)** `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü Lehrer zurück.
+Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
+
 
 **(A0361)** Schlüsselverzeichnisse > Fächer > Aufgabenbereich
 
@@ -2690,9 +2691,9 @@ Die Durchschnittsnote wird auf dem Zeugnis errechnet. Beachten Sie dabei, dass d
 a)** den Fächern Religion oder Ethik, Sport im Schlüsselverzeichnis > Fächer im Spalte "Aufgabenbereich" "Sport" oder "Religion" zugewiesen sein
 b)** dem zusatzqualifizierenden Fach im Menü Schüler > Fächer im Feld "Fachstatus" "Zusatz" zugewiesen sein.
 
-**(A0625)** Schüler > Zeugnis > Bemerkungen / Formulare > Merkmal (Projekt)
+**(A0625)** Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal (Projekt)
 
-Den Titel des Abschlussprojektes weisen Sie im Menü Schüler > Zeugnis > Bemerkungen / Formulare als Zeugnisbemerkung zu. Diese Bemerkung wird mit dem Merkmal „Projekt“ versehen. Siehe A0021 und A0021.49
+Den Titel des Abschlussprojektes weisen Sie im Menü Schüler > Zeugnis > Bemerkungen/Formulare als Zeugnisbemerkung zu. Diese Bemerkung wird mit dem Merkmal „Projekt“ versehen. Siehe A0021 und A0021.49
 
 ## RLP-GES (Abschlussprognose).rpt
 
@@ -3556,9 +3557,9 @@ Die Beurteilungstexte tragen Sie im Menü Schüler > Zeugnis > Leistungen im Fel
 
 Um den Muttersprachlichen Unterricht auf dem Beiblatt auszugeben, verwenden Sie beim entsprechenden Schüler im Menü Schüler > Daten 3 > Fremdsprachenfolge die 3. Fremdsprache. Damit Ihnen im Auswahlmenü Fremdsprachen angeboten werden, müssen Sie unter Schlüsselberzeichnis > Fächer den vorhandenen Fremdsprachen in der Spalte „Kategorie“ aus dem Pull-Down-Menü „Fremdsprache“ zugewiesen haben. Beachten Sie bitte hierzu auch A0369.
 
-**(A0369)** Schüler > Zeugnis > Bemerkungen / Formulare > Zeugnisformulare > Merkmal (Beiblatt)
+**(A0369)** Schüler > Zeugnis > Bemerkungen/Formulare > Zeugnisformulare > Merkmal (Beiblatt)
 
-Um den Muttersprachlichen Unterricht auf dem Beiblatt auszugeben, müssen Sie im Menü Schüler > Zeugnis > Bemerkungen / Formulare > Zeugnisformulare eine Zeugnisbemerkung mit dem "Merkmal" "Beiblatt" anlegen. Beurteilungstexte zum Muttersprachlichen Unterricht können Sie im Feld "Text" anlegen. Beachten Sie bitte hierzu auch A0368.
+Um den Muttersprachlichen Unterricht auf dem Beiblatt auszugeben, müssen Sie im Menü Schüler > Zeugnis > Bemerkungen/Formulare > Zeugnisformulare eine Zeugnisbemerkung mit dem "Merkmal" "Beiblatt" anlegen. Beurteilungstexte zum Muttersprachlichen Unterricht können Sie im Feld "Text" anlegen. Beachten Sie bitte hierzu auch A0368.
 
 **(A0370)** Schlüsselverzeichnis > Zeiträume > Ausdruck 2
 
@@ -3618,9 +3619,9 @@ Die Beurteilungstexte tragen Sie im Menü Schüler > Zeugnis > Leistungen im Fel
 
 Um den Muttersprachlichen Unterricht auf dem Beiblatt auszugeben, verwenden Sie beim entsprechenden Schüler im Menü Schüler > Daten 3 > Fremdsprachenfolge die 3. Fremdsprache. Damit Ihnen im Auswahlmenü Fremdsprachen angeboten werden, müssen Sie unter Schlüsselberzeichnis > Fächer den vorhandenen Fremdsprachen in der Spalte „Kategorie“ aus dem Pull-Down-Menü „Fremdsprache“ zugewiesen haben. Beachten Sie bitte hierzu auch A0369.
 
-**(A0369)** Schüler > Zeugnis > Bemerkungen / Formulare > Zeugnisformulare > Merkmal (Beiblatt)
+**(A0369)** Schüler > Zeugnis > Bemerkungen/Formulare > Zeugnisformulare > Merkmal (Beiblatt)
 
-Um den Muttersprachlichen Unterricht auf dem Beiblatt auszugeben, müssen Sie im Menü Schüler > Zeugnis > Bemerkungen / Formulare > Zeugnisformulare eine Zeugnisbemerkung mit dem "Merkmal" "Beiblatt" anlegen. Beurteilungstexte zum Muttersprachlichen Unterricht können Sie im Feld "Text" anlegen. Beachten Sie bitte hierzu auch A0368.
+Um den Muttersprachlichen Unterricht auf dem Beiblatt auszugeben, müssen Sie im Menü Schüler > Zeugnis > Bemerkungen/Formulare > Zeugnisformulare eine Zeugnisbemerkung mit dem "Merkmal" "Beiblatt" anlegen. Beurteilungstexte zum Muttersprachlichen Unterricht können Sie im Feld "Text" anlegen. Beachten Sie bitte hierzu auch A0368.
 
 **(A0370)** Schlüsselverzeichnis > Zeiträume > Ausdruck 2
 
@@ -3679,9 +3680,9 @@ Noten weisen Sie dem jeweiligen Fach auf der Registerkarte „Zeugnis“ unter �
 
 Um den Muttersprachlichen Unterricht auf dem Beiblatt auszugeben, verwenden Sie beim entsprechenden Schüler im Menü Schüler > Daten 3 > Fremdsprachenfolge die 3. Fremdsprache. Damit Ihnen im Auswahlmenü Fremdsprachen angeboten werden, müssen Sie unter Schlüsselberzeichnis > Fächer den vorhandenen Fremdsprachen in der Spalte „Kategorie“ aus dem Pull-Down-Menü „Fremdsprache“ zugewiesen haben. Beachten Sie bitte hierzu auch A0369.
 
-**(A0369)** Schüler > Zeugnis > Bemerkungen / Formulare > Zeugnisformulare > Merkmal (Beiblatt)
+**(A0369)** Schüler > Zeugnis > Bemerkungen/Formulare > Zeugnisformulare > Merkmal (Beiblatt)
 
-Um den Muttersprachlichen Unterricht auf dem Beiblatt auszugeben, müssen Sie im Menü Schüler > Zeugnis > Bemerkungen / Formulare > Zeugnisformulare eine Zeugnisbemerkung mit dem "Merkmal" "Beiblatt" anlegen. Beurteilungstexte zum Muttersprachlichen Unterricht können Sie im Feld "Text" anlegen. Beachten Sie bitte hierzu auch A0368.
+Um den Muttersprachlichen Unterricht auf dem Beiblatt auszugeben, müssen Sie im Menü Schüler > Zeugnis > Bemerkungen/Formulare > Zeugnisformulare eine Zeugnisbemerkung mit dem "Merkmal" "Beiblatt" anlegen. Beurteilungstexte zum Muttersprachlichen Unterricht können Sie im Feld "Text" anlegen. Beachten Sie bitte hierzu auch A0368.
 
 **(A0370)** Schlüsselverzeichnis > Zeiträume > Ausdruck 2
 
@@ -3807,9 +3808,9 @@ Noten weisen Sie dem jeweiligen Fach auf der Registerkarte „Zeugnis“ unter �
 
 Um den Muttersprachlichen Unterricht auf dem Beiblatt auszugeben, verwenden Sie beim entsprechenden Schüler im Menü Schüler > Daten 3 > Fremdsprachenfolge die 3. Fremdsprache. Damit Ihnen im Auswahlmenü Fremdsprachen angeboten werden, müssen Sie unter Schlüsselberzeichnis > Fächer den vorhandenen Fremdsprachen in der Spalte „Kategorie“ aus dem Pull-Down-Menü „Fremdsprache“ zugewiesen haben. Beachten Sie bitte hierzu auch A0369.
 
-**(A0369)** Schüler > Zeugnis > Bemerkungen / Formulare > Zeugnisformulare > Merkmal (Beiblatt)
+**(A0369)** Schüler > Zeugnis > Bemerkungen/Formulare > Zeugnisformulare > Merkmal (Beiblatt)
 
-Um den Muttersprachlichen Unterricht auf dem Beiblatt auszugeben, müssen Sie im Menü Schüler > Zeugnis > Bemerkungen / Formulare > Zeugnisformulare eine Zeugnisbemerkung mit dem "Merkmal" "Beiblatt" anlegen. Beurteilungstexte zum Muttersprachlichen Unterricht können Sie im Feld "Text" anlegen. Beachten Sie bitte hierzu auch A0368.
+Um den Muttersprachlichen Unterricht auf dem Beiblatt auszugeben, müssen Sie im Menü Schüler > Zeugnis > Bemerkungen/Formulare > Zeugnisformulare eine Zeugnisbemerkung mit dem "Merkmal" "Beiblatt" anlegen. Beurteilungstexte zum Muttersprachlichen Unterricht können Sie im Feld "Text" anlegen. Beachten Sie bitte hierzu auch A0368.
 
 **(A0370)** Schlüsselverzeichnis > Zeiträume > Ausdruck 2
 
@@ -4081,7 +4082,7 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
 
-**(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0458)** Schüler > Zeugnis > Bemerkungen/Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
@@ -4200,7 +4201,7 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
 
-**(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0458)** Schüler > Zeugnis > Bemerkungen/Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
@@ -4323,7 +4324,7 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
 
-**(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0458)** Schüler > Zeugnis > Bemerkungen/Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
@@ -4358,9 +4359,9 @@ Zur Kennzeichnung der dritten oder vierten Fremdsprache als "Pflichtfach" weisen
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -4468,7 +4469,7 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
 
-**(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0458)** Schüler > Zeugnis > Bemerkungen/Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
@@ -4510,9 +4511,9 @@ Nun wird das Wappen ausgeblendet. Grundlage bildet das Schlüsselverzeichnis > M
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -4616,7 +4617,7 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
 
-**(A0458)** Schüler > Zeugnis > Bemerkungen / Formulare
+**(A0458)** Schüler > Zeugnis > Bemerkungen/Formulare
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
@@ -4654,9 +4655,9 @@ Nun wird das Wappen ausgeblendet. Grundlage bildet das Schlüsselverzeichnis > M
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -5438,9 +5439,9 @@ und für "GK-Sozialkunde".
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -5547,9 +5548,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -5651,9 +5652,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Bemerkungen / Formulare`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen / Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
