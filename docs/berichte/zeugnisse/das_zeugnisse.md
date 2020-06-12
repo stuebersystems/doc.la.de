@@ -25,6 +25,14 @@ Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|---
 AG | AG | Arbeitsgemeinschaft
+<<<<<<< HEAD
+=======
+
+**(A0015.99)**
+
+Kürzel |  Schlüssel | Zeugnisbereich
+--|--|---
+>>>>>>> 8f9b5b140da66bdcc6a92e2f5f3458494896b0ca
 SozialV | SozialV | Sozialverhalten
 
 **(A0028)** `Schüler > Zeugnis > Fächer > Position`

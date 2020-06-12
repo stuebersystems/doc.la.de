@@ -113,7 +113,7 @@ Ob im Zeugnis das Betriebspraktikum 1./2. oder 3. als "bestanden" oder "nicht be
 
 1. Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betrieblichen Lernaufgaben an, entscheidend ist der Eintrag im Feld "Schlüssel", dieser muss wie folgt hinterlegt sein:
 
- Kürzel | Schlüssel | Bezeichnung      
+ Kürzel | Schlüssel | Bezeichnung 
 --------|-----------|-----------------
 LA1 (beliebig)| LA1 | Betriebliche Lernaufgabe 1 (beliebig)
 LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 2 (beliebig)
@@ -122,6 +122,10 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.
 
 3. Die Betriebliche Lernaufgabe 1,/2./3.  bezieht sich auf das jeweilige Praktikum 1./2./3. Ein Eintrag "N" im Feld "Merkmal" bei der entsprechenden Lernaufgabe steuert die Ausgabe "nicht bestanden". Bleibt das Feld "Merkmal" leer, wird das Praktikum als "bestanden" ausgegeben.
+
+![Betriebspraktikum wurde bestanden/nicht bestanden](..\assets\images\IBA\IBA05.png)
+
+![Ausgabe auf dem Zeugnis > Betriebspraktikum wurde bestanden/nicht bestanden](..\assets\images\IBA\IBA06.png)
 
 ### Betriebspraktikum 1./2. oder 3. - erfolgt im 1. oder 2.HJ?
 
