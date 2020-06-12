@@ -4403,9 +4403,9 @@ Platzhalter | Ausgabe im Bericht
 ``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
 ``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
-**(A0729)** Schlüsselverzeichnisse > Sprachreferenzen
+**(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
 
-Bitte tragen Sie in unter im Menü Schüler > Daten 3 > Fremdsprachenfolge im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das Schlüsselverzeichnis >Sprachreferenzen.
+Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
 Mögliche Werte sind aktuell:
 
