@@ -2659,9 +2659,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0211)** Lehrer > Daten 2 > Dienstbez.
+**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
 
-Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Daten 2 im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das Schlüsselverzeichnis > Dienstbezeichnungen.
+Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
 **(A0216)** Mandanten >Daten 1 > Ort
 
@@ -3401,9 +3401,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0141)** Schlüsselverzeichnis > Zeiträume > Art
+**(A0141)** `Schlüsselverzeichnis > Zeiträume > Art`
 
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Schlüsselverzeichnis > Zeiträume im Feld "Art"
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
 
 **(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
@@ -3791,9 +3791,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0141)** Schlüsselverzeichnis > Zeiträume > Art
+**(A0141)** `Schlüsselverzeichnis > Zeiträume > Art`
 
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Schlüsselverzeichnis > Zeiträume im Feld "Art"
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
 
 **(A0216)** Mandanten >Daten 1 > Ort
 
@@ -6067,9 +6067,9 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0466)** Mandaten > Daten 1 > Name 1, Name 2, Name 3
+**(A0466)** `Mandaten > Daten 1 > Name 1, Name 2, Name 3`
 
-Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü Mandanten > Daten 1  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
+Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
 
 ## RLP-GY-Punktekreditkarte-2006.rpt
 

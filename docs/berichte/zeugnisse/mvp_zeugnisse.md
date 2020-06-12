@@ -458,9 +458,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details in den Feldern „Fehlstunden“ und „davon unentschuldigt“ erfolgen.
 
-**(A0466)** Mandaten > Daten 1 > Name 1, Name 2, Name 3
+**(A0466)** `Mandaten > Daten 1 > Name 1, Name 2, Name 3`
 
-Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü Mandanten > Daten 1  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
+Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
@@ -1019,9 +1019,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0466)** Mandaten > Daten 1 > Name 1, Name 2, Name 3
+**(A0466)** `Mandaten > Daten 1 > Name 1, Name 2, Name 3`
 
-Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü Mandanten > Daten 1  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
+Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
@@ -2190,9 +2190,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
-**(A0141)** Schlüsselverzeichnis > Zeiträume > Art
+**(A0141)** `Schlüsselverzeichnis > Zeiträume > Art`
 
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Schlüsselverzeichnis > Zeiträume im Feld "Art"
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 

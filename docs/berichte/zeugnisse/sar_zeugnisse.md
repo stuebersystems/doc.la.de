@@ -45,17 +45,17 @@ Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0211)** Lehrer > Daten 2 > Dienstbez.
+**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
 
-Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Daten 2 im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das Schlüsselverzeichnis > Dienstbezeichnungen.
+Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
 **(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0466)** Mandaten > Daten 1 > Name 1, Name 2, Name 3
+**(A0466)** `Mandaten > Daten 1 > Name 1, Name 2, Name 3`
 
-Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü Mandanten > Daten 1  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
+Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
 
 **(A0476)** Mandanten > Daten 2 > Logo 1, Logo 2
 
@@ -136,17 +136,17 @@ Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0211)** Lehrer > Daten 2 > Dienstbez.
+**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
 
-Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Daten 2 im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das Schlüsselverzeichnis > Dienstbezeichnungen.
+Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
 **(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0466)** Mandaten > Daten 1 > Name 1, Name 2, Name 3
+**(A0466)** `Mandaten > Daten 1 > Name 1, Name 2, Name 3`
 
-Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü Mandanten > Daten 1  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
+Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
 
 **(A0476)** Mandanten > Daten 2 > Logo 1, Logo 2
 
@@ -385,9 +385,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0211)** Lehrer > Daten 2 > Dienstbez.
+**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
 
-Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Daten 2 im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das Schlüsselverzeichnis > Dienstbezeichnungen.
+Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
 **(A0239)** `Ausdruck`
 
@@ -543,9 +543,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0211)** Lehrer > Daten 2 > Dienstbez.
+**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
 
-Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Daten 2 im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das Schlüsselverzeichnis > Dienstbezeichnungen.
+Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
 **(A0239)** `Ausdruck`
 
@@ -780,9 +780,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0211)** Lehrer > Daten 2 > Dienstbez.
+**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
 
-Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Daten 2 im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das Schlüsselverzeichnis > Dienstbezeichnungen.
+Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
 **(A0239)** `Ausdruck`
 
@@ -960,9 +960,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0211)** Lehrer > Daten 2 > Dienstbez.
+**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
 
-Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Daten 2 im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das Schlüsselverzeichnis > Dienstbezeichnungen.
+Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
 **(A0239)** `Ausdruck`
 

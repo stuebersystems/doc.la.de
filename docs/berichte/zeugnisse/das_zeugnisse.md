@@ -2018,21 +2018,21 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0141)** Schlüsselverzeichnis > Zeiträume > Art
+**(A0141)** `Schlüsselverzeichnis > Zeiträume > Art`
 
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Schlüsselverzeichnis > Zeiträume im Feld "Art"
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
 
 **(A0183)** `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0211)** Lehrer > Daten 2 > Dienstbez.
+**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
 
-Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Daten 2 im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das Schlüsselverzeichnis > Dienstbezeichnungen.
+Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0466)** Mandaten > Daten 1 > Name 1, Name 2, Name 3
+**(A0466)** `Mandaten > Daten 1 > Name 1, Name 2, Name 3`
 
-Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü Mandanten > Daten 1  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
+Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
 
 **(A0777)** 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
@@ -2066,28 +2066,28 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0844)** ENBREA Lernleistungen
+**(A0844)** `ENBREA Lernleistungen`
 
-Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie unter: https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/
+Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie unter: [https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/](https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/)
 
-**(A0845)** Schüler > Laufbahn > Abschluss (Abschluss 1)
+**(A0845)** `Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
 Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis)** als auch Abgangszeugnis ausgelegt.
 
-Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( Schüler > Laufbahn > Abschluss > Abschluss1)** differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
-Handelt es sich um ein Abgangszeugnis, tragen Sie unter  „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
+Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
+Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
 
-**(A0847)** Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV
+**(A0847)** `Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV`
 
-Bitte weisen im Menü Klassen > Zeiträume über die Schalfläche "Leistungsprofile definieren" den Fächern (Name)** Sozialverhalten und Arbeitsverhalten im Feld "Interner Code" den Eintrag "ASV" zu.
+Bitte weisen im Menü `Klassen > Zeiträume` über die Schalfläche "Leistungsprofile definieren" den Fächern (Name) Sozialverhalten und Arbeitsverhalten im Feld "Interner Code" den Eintrag "ASV" zu.
 
-**(A0849)** Schüler > Zeugnis > ENBREA Leistungen> Position
+**(A0849)** `Schüler > Zeugnis > ENBREA Leistungen> Position`
 
-Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü Schüler > Zeugnis > ENBREA Leistungen pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
+Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü `Schüler > Zeugnis > ENBREA Leistungen` pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
 
-**(A0850)** Datenbank > Optionen > ENBREA
+**(A0850)** `Datenbank > Optionen > ENBREA`
 
-Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter Datenbank > Optionen > ENBREA > ENBREA Funktionen aktivieren.
+Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
 
 ## DSND.DAS-GS (Klasse 2).rpt
 
@@ -2153,21 +2153,21 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0141)** Schlüsselverzeichnis > Zeiträume > Art
+**(A0141)** `Schlüsselverzeichnis > Zeiträume > Art`
 
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Schlüsselverzeichnis > Zeiträume im Feld "Art"
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
 
 **(A0183)** `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0211)** Lehrer > Daten 2 > Dienstbez.
+**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
 
-Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Daten 2 im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das Schlüsselverzeichnis > Dienstbezeichnungen.
+Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0466)** Mandaten > Daten 1 > Name 1, Name 2, Name 3
+**(A0466)** `Mandaten > Daten 1 > Name 1, Name 2, Name 3`
 
-Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü Mandanten > Daten 1  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
+Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
 
 **(A0777)** 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
@@ -2201,28 +2201,30 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0844)** ENBREA Lernleistungen
+**(A0844)** `ENBREA Lernleistungen`
 
-Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie unter: https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/
+Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie unter: [https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/](https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/)
 
-**(A0845)** Schüler > Laufbahn > Abschluss (Abschluss 1)
+**(A0845)** `Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
 Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis)** als auch Abgangszeugnis ausgelegt.
 
-Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( Schüler > Laufbahn > Abschluss > Abschluss1)** differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
-Handelt es sich um ein Abgangszeugnis, tragen Sie unter  „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
+Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
+Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
 
-**(A0847)** Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV
+**(A0847)** `Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV`
 
-Bitte weisen im Menü Klassen > Zeiträume über die Schalfläche "Leistungsprofile definieren" den Fächern (Name)** Sozialverhalten und Arbeitsverhalten im Feld "Interner Code" den Eintrag "ASV" zu.
+Bitte weisen im Menü `Klassen > Zeiträume` über die Schalfläche "Leistungsprofile definieren" den Fächern (Name) Sozialverhalten und Arbeitsverhalten im Feld "Interner Code" den Eintrag "ASV" zu.
 
-**(A0849)** Schüler > Zeugnis > ENBREA Leistungen> Position
+**(A0849)** `Schüler > Zeugnis > ENBREA Leistungen> Position`
 
-Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü Schüler > Zeugnis > ENBREA Leistungen pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
+Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü `Schüler > Zeugnis > ENBREA Leistungen` pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
 
-**(A0850)** Datenbank > Optionen > ENBREA
 
-Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter Datenbank > Optionen > ENBREA > ENBREA Funktionen aktivieren.
+**(A0850)** `Datenbank > Optionen > ENBREA`
+
+Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
+
 
 ## DSND.DAS-GS (Klasse 3).rpt
 
@@ -2284,21 +2286,21 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0141)** Schlüsselverzeichnis > Zeiträume > Art
+**(A0141)** `Schlüsselverzeichnis > Zeiträume > Art`
 
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Schlüsselverzeichnis > Zeiträume im Feld "Art"
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
 
 **(A0183)** `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0211)** Lehrer > Daten 2 > Dienstbez.
+**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
 
-Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Daten 2 im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das Schlüsselverzeichnis > Dienstbezeichnungen.
+Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0466)** Mandaten > Daten 1 > Name 1, Name 2, Name 3
+**(A0466)** `Mandaten > Daten 1 > Name 1, Name 2, Name 3`
 
-Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü Mandanten > Daten 1  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
+Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
 
 **(A0777)** 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
@@ -2336,28 +2338,30 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 Als Kenn-Nr. liest der Bericht die SchülerID des Schüler aus.
 
-**(A0844)** ENBREA Lernleistungen
+**(A0844)** `ENBREA Lernleistungen`
 
-Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie unter: https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/
+Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie unter: [https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/](https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/)
 
-**(A0845)** Schüler > Laufbahn > Abschluss (Abschluss 1)
+**(A0845)** `Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
 Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis)** als auch Abgangszeugnis ausgelegt.
 
-Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( Schüler > Laufbahn > Abschluss > Abschluss1)** differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
-Handelt es sich um ein Abgangszeugnis, tragen Sie unter  „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
+Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
+Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
 
-**(A0847)** Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV
+**(A0847)** `Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV`
 
-Bitte weisen im Menü Klassen > Zeiträume über die Schalfläche "Leistungsprofile definieren" den Fächern (Name)** Sozialverhalten und Arbeitsverhalten im Feld "Interner Code" den Eintrag "ASV" zu.
+Bitte weisen im Menü `Klassen > Zeiträume` über die Schalfläche "Leistungsprofile definieren" den Fächern (Name) Sozialverhalten und Arbeitsverhalten im Feld "Interner Code" den Eintrag "ASV" zu.
 
-**(A0849)** Schüler > Zeugnis > ENBREA Leistungen> Position
+**(A0849)** `Schüler > Zeugnis > ENBREA Leistungen> Position`
 
-Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü Schüler > Zeugnis > ENBREA Leistungen pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
+Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü `Schüler > Zeugnis > ENBREA Leistungen` pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
 
-**(A0850)** Datenbank > Optionen > ENBREA
 
-Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter Datenbank > Optionen > ENBREA > ENBREA Funktionen aktivieren.
+**(A0850)** `Datenbank > Optionen > ENBREA`
+
+Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
+
 
 ## DSND.DAS-GS (Klasse 4) (Spezial1).rpt
 
@@ -2423,21 +2427,21 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0141)** Schlüsselverzeichnis > Zeiträume > Art
+**(A0141)** `Schlüsselverzeichnis > Zeiträume > Art`
 
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Schlüsselverzeichnis > Zeiträume im Feld "Art"
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
 
 **(A0183)** `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0211)** Lehrer > Daten 2 > Dienstbez.
+**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
 
-Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Daten 2 im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das Schlüsselverzeichnis > Dienstbezeichnungen.
+Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0466)** Mandaten > Daten 1 > Name 1, Name 2, Name 3
+**(A0466)** `Mandaten > Daten 1 > Name 1, Name 2, Name 3`
 
-Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü Mandanten > Daten 1  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
+Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
 
 **(A0777)** 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
@@ -2471,28 +2475,30 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0844)** ENBREA Lernleistungen
+**(A0844)** `ENBREA Lernleistungen`
 
-Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie unter: https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/
+Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie unter: [https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/](https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/)
 
-**(A0845)** Schüler > Laufbahn > Abschluss (Abschluss 1)
+**(A0845)** `Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
 Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis)** als auch Abgangszeugnis ausgelegt.
 
-Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( Schüler > Laufbahn > Abschluss > Abschluss1)** differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
-Handelt es sich um ein Abgangszeugnis, tragen Sie unter  „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
+Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
+Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
 
-**(A0847)** Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV
+**(A0847)** `Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV`
 
-Bitte weisen im Menü Klassen > Zeiträume über die Schalfläche "Leistungsprofile definieren" den Fächern (Name)** Sozialverhalten und Arbeitsverhalten im Feld "Interner Code" den Eintrag "ASV" zu.
+Bitte weisen im Menü `Klassen > Zeiträume` über die Schalfläche "Leistungsprofile definieren" den Fächern (Name) Sozialverhalten und Arbeitsverhalten im Feld "Interner Code" den Eintrag "ASV" zu.
 
-**(A0849)** Schüler > Zeugnis > ENBREA Leistungen> Position
+**(A0849)** `Schüler > Zeugnis > ENBREA Leistungen> Position`
 
-Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü Schüler > Zeugnis > ENBREA Leistungen pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
+Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü `Schüler > Zeugnis > ENBREA Leistungen` pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
 
-**(A0850)** Datenbank > Optionen > ENBREA
 
-Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter Datenbank > Optionen > ENBREA > ENBREA Funktionen aktivieren.
+**(A0850)** `Datenbank > Optionen > ENBREA`
+
+Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
+
 
 ## DSND.DAS-GS-GY (Klasse 3-10).rpt
 
@@ -2564,9 +2570,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0141)** Schlüsselverzeichnis > Zeiträume > Art
+**(A0141)** `Schlüsselverzeichnis > Zeiträume > Art`
 
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Schlüsselverzeichnis > Zeiträume im Feld "Art"
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
 
 **(A0183)** `Mandanten > Daten 1 > Ort`
 
@@ -2628,16 +2634,16 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0845)** Schüler > Laufbahn > Abschluss (Abschluss 1)
+**(A0845)** `Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
 Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis)** als auch Abgangszeugnis ausgelegt.
 
-Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( Schüler > Laufbahn > Abschluss > Abschluss1)** differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
-Handelt es sich um ein Abgangszeugnis, tragen Sie unter  „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
+Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
+Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
 
-**(A0848)** Klassen > Daten > Schulart
+**(A0848)** `Klassen > Daten > Schulart`
 
-Tragen Sie die Schulart im aktuellen Zeitraum im Menü Klassen > Daten im Feld „Schulart“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis Schularten. Der Bericht fragt die "Bezeichnung" der Schulart ab, Vorgaben sind:
+Tragen Sie die Schulart im aktuellen Zeitraum im Menü `Klassen > Daten` im Feld „Schulart“ ein. Grundlage hierfür bildet das `Schlüsselverzeichnis >Schularten`. Der Bericht fragt die "Bezeichnung" der Schulart ab, Vorgaben sind:
 
 Kürzel (beliebig)**  | Bezeichnung (wie folgt einzutragen)** | Ausgabe im Zeugnis
 --|--|--
