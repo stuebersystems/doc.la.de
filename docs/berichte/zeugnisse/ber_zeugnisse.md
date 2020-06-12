@@ -1389,8 +1389,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-
-
 Kürzel | Schlüssel | Bezeichnung	
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
@@ -4528,8 +4526,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-
-
 Kürzel | Schlüssel | Bezeichnung	
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
@@ -4891,13 +4887,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -5045,13 +5037,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -5212,13 +5200,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 SK | SK | Seminarfach, Seminarkurs
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -5352,13 +5336,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -5539,13 +5519,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -5684,8 +5660,6 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-
 
 Kürzel | Schlüssel | Bezeichnung	
 --|--|--
@@ -5881,13 +5855,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -6276,7 +6246,6 @@ Den Versetzungstext in Bezug auf die Berechtigung zum Übergang an die gymnasial
 **(A0348)** `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
 Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
-
 
 **(A0359)** `Mandaten > Daten 1 > Stellvertreter`
 
@@ -7500,8 +7469,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-
-
 Kürzel | Schlüssel | Bezeichnung	
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
@@ -7691,7 +7658,6 @@ frei | Sport
 
 HINWEIS: Weitere Sportfächer (Sport Theorie, Sport)** vergeben Sie bitte die Positionsnummer 24 oder 25.
 
-
 **(A0394)** 
 `Schlüsselverzeichnis > Zeiträume > Art` UND
 
@@ -7823,8 +7789,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
@@ -7934,8 +7898,6 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -8086,8 +8048,6 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers di
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-
 
 Kürzel | Schlüssel | Bezeichnung	
 --|--|--
@@ -8335,8 +8295,6 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers di
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-
 
 Kürzel | Schlüssel | Bezeichnung	
 --|--|--
@@ -10950,13 +10908,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -11449,13 +11403,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -11651,13 +11601,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -11853,13 +11799,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -12021,13 +11963,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -12177,13 +12115,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
