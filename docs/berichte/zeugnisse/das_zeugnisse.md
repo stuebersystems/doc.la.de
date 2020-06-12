@@ -1577,11 +1577,11 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0792)** Schüler > Laufbahn > Abschluss
+**(A0792)** `Schüler > Laufbahn > Abschluss`
 
 "Die Berechtigung zum Übergang in die Qualifikationsphase hat sie/er erhalten/nicht erhalten."
 
-Bei Schüler > Laufbahn > Abschluss“ tragen im Bereich „Abschluss1“ im Feld „Abschlussart“ die jeweilige Abschlussart. Grundlage bildet das Schlüsselverzeichnis > Abschlussarten. Maßgeblich ist immer das Kürzel:
+Bei `Schüler > Laufbahn > Abschluss` tragen im Bereich „Abschluss1“ im Feld „Abschlussart“ die jeweilige Abschlussart. Grundlage bildet das `Schlüsselverzeichnis > Abschlussarten`. Maßgeblich ist immer das Kürzel:
 
 Kürzel | Schluessel | Bezeichnung
 --|--|--
@@ -1669,7 +1669,7 @@ Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im F
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0759)** `Schüler > Daten 3 > Fremdsprachefolge > Sprachreferenzen`
-       
+
 Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`. Vom Bericht wird das Kürzel abgefragt.
 
 **(A0776)** `Schlüsselverzeichnisse > Zeugnisbemerkungen`
@@ -1717,9 +1717,9 @@ Spalte | Note
 Spalte "Schriftl. Note 1"| schriftliche Note
 Spalte "Mündl. Note" | mündliche Note
 
-**(A0836)** Ausdruck
+**(A0836)** `Ausdruck`
 
-Der Bericht muss aus dem Menü Start > Drucken > Zeugnisse Drucken... (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menü `Start > Drucken > Zeugnisse Drucken...` (Strg + Z) gedruckt werden.
 
 ## DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6)(ab2020).rpt
 
@@ -1738,6 +1738,16 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 **(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+
+**(A0017.7)** 
+
+Aufgabenbereich|  Zeugnisbereich
+--|--
+sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfeld
+gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
+mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
+Sport | Weitere Fächer
+Religion | Weitere Fächer
 
 **(A0045)** `Mandanten > Daten > Name 1`
 
@@ -1827,8 +1837,10 @@ Landessprache | LS
 ## DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6).rpt
 
 bis 2019
+
 Zeugnis über das ... Halbjahr der gymnasialen Qualifikationsphase
-(Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland  „Deutsches Internationales Abitur“ (Beschluss der Kultusministerkonferenz vom 11.06.2015)** zugrunde.)
+
+(Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland „Deutsches Internationales Abitur“ (Beschluss der Kultusministerkonferenz vom 11.06.2015) zugrunde.)
 
 **(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
@@ -1841,6 +1853,16 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 **(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+
+**(A0017.7)** 
+
+Aufgabenbereich|  Zeugnisbereich
+--|--
+sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfeld
+gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
+mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
+Sport | Weitere Fächer
+Religion | Weitere Fächer
 
 **(A0045)** `Mandanten > Daten > Name 1`
 
@@ -1864,17 +1886,19 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0394)** Schlüsselverzeichnis > Zeiträume > Art UND
-Klassen > Zeiträume > Jahrgang
+**(A0394)** 
+`Schlüsselverzeichnis > Zeiträume > Art` UND
 
-Die Ausgabe des Kurshalbjahres (Q-Phase G9)** errechnet sich aufgrund der Definition des aktuellen Zeitraums im Schlüsselverzeichnis > Zeiträume >Art und aus dem Menü Klassen > Zeiträume > Jahrgang.
+`Klassen > Zeiträume > Jahrgang`
+
+Die Ausgabe des Kurshalbjahres (Q-Phase G9) errechnet sich aufgrund der Definition des aktuellen Zeitraums im `Schlüsselverzeichnis > Zeiträume > Art` und aus dem Menü `Klassen > Zeiträume > Jahrgang`.
 
 Jahrgang/Zeitraum | Ausgabe im Bericht
 --|--
-12.1 (Q1)** | 1. Kurshalbjahr
-12.2 (Q2)** | 2. Kurshalbjahr
-13.1 (Q3)** | 3. Kurshalbjahr
-13.2 (Q4)** | 4. Kurshalbjahr
+12.1 (Q1) | 1. Kurshalbjahr
+12.2 (Q2) | 2. Kurshalbjahr
+13.1 (Q3) | 3. Kurshalbjahr
+13.2 (Q4) | 4. Kurshalbjahr
 
 **(A0740)** `Mandanten > Daten > Name 2`
 
