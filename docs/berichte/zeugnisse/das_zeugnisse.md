@@ -2356,7 +2356,7 @@ Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss 
 
 Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter Datenbank > Optionen > ENBREA > ENBREA Funktionen aktivieren.
 
-## DSND.DAS-GS (Klasse 4)** (Spezial1).rpt
+## DSND.DAS-GS (Klasse 4) (Spezial1).rpt
 
 **(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
