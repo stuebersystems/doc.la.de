@@ -41,9 +41,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0211)** Lehrer > Daten 2 > Dienstbez.
 
@@ -132,9 +132,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0211)** Lehrer > Daten 2 > Dienstbez.
 
@@ -382,9 +382,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0211)** Lehrer > Daten 2 > Dienstbez.
 
@@ -540,9 +540,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0211)** Lehrer > Daten 2 > Dienstbez.
 
@@ -777,9 +777,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0211)** Lehrer > Daten 2 > Dienstbez.
 
@@ -957,9 +957,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Noten" angegeben sein.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0211)** Lehrer > Daten 2 > Dienstbez.
 
@@ -969,9 +969,9 @@ Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Da
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0285)** Schlüsselverzeichnisse > Noten > Füllwerte
+**(A0285)** `Schlüsselverzeichnisse > Noten > Füllwerte`
 
-Arbeitsgemeinschaften (AGs)** an denen der Schüler teilgenommen hat, müssen mit der Note "teilgenommen" gekennzeichnet werden. Legen Sie dazu unter Schlüsselverzeichnisse > Noten eine Note "teilgenommen" an.
+Arbeitsgemeinschaften (AGs) an denen der Schüler teilgenommen hat, müssen mit der Note "teilgenommen" gekennzeichnet werden. Legen Sie dazu unter `Schlüsselverzeichnisse > Noten` eine Note "teilgenommen" an.
 
 Kürzel | Schlüssel | Bezeichnung | Notenart
 --|--|--|--

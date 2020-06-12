@@ -2385,9 +2385,9 @@ Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ei
 
 Für die korrekte Ausgabe des Seminarfachs lassen Sie das Feld "Aufgabenbereich" unter Schlüsselverzeichnisse > Fächer leer.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -2479,9 +2479,9 @@ Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ei
 
 Für die korrekte Ausgabe des Seminarfachs lassen Sie das Feld "Aufgabenbereich" unter Schlüsselverzeichnisse > Fächer leer.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -3002,9 +3002,9 @@ Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details 
 
 Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü Abitur > Qualifikation im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist.
 
-**(A0178)** Klasse > Daten > Schulart
+**(A0178)** `Klasse > Daten > Schulart`
 
-Tragen Sie im aktuellen Zeitraum im Menü Klasse > Daten die Schulfart im Feld "Schulart" ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Schularten.
+Tragen Sie im aktuellen Zeitraum im Menü Klasse > Daten die Schulfart im Feld "Schulart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`.
 
 **(A0019.17)** 
 

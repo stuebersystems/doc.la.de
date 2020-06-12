@@ -794,9 +794,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0128)** Schüler > Zeugnis > Leistungen > Durchschnitt 1
+**(A0128)** `Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
-Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
+Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
 **(A0019.54)** 
 
@@ -1049,9 +1049,9 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -1558,9 +1558,9 @@ GK | GK | Grundkurse
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0218)** Abitur > Qualifikation > Manuelles Markieren
 
@@ -1604,9 +1604,9 @@ Kürzel |  Schlüssel | Bezeichnung
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0239)** `Ausdruck`
 
@@ -2309,17 +2309,17 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0128)** Schüler > Zeugnis > Leistungen > Durchschnitt 1
+**(A0128)** `Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
-Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
+Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
-**(A0128)** Schüler > Zeugnis > Leistungen > Durchschnitt 1
+**(A0128)** `Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
-Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
+Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0239)** `Ausdruck`
 
@@ -2386,9 +2386,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -2531,9 +2531,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
  **(A0190)** `Schüler > Zeugnis > Fächer > Position`
 
@@ -4029,9 +4029,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0128)** Schüler > Zeugnis > Leistungen > Durchschnitt 1
+**(A0128)** `Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
-Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
+Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
 **(A0239)** `Ausdruck`
 
@@ -4373,9 +4373,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0241)** `Abitur > Prüfung`
 
@@ -4427,9 +4427,9 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0753)** https://doc.la.stueber.de/
 

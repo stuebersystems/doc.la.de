@@ -1892,9 +1892,9 @@ Um den Projektkurs im jeweiligen Zeitraum auszugeben, tragen Sie unter Abitur > 
 
 ## MVP-GY-AS (Gesamteinschätzung 9-10).rpt
 
-**(A0304)** Schüler > Zeugnis > Details > Mitarbeit/Verhalten
+**(A0304)** `Schüler > Zeugnis > Details > Mitarbeit/Verhalten`
 
-Die Noten für Arbeits- und Sozialverhalten tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Details in den Feldern „Mitarbeit“ und „Verhalten“ ein. Für Sozialverhalten verwenden Sie das Feld "Verhalten", für Arbeitsverhalten das Feld "Mitarbeit".
+Die Noten für Arbeits- und Sozialverhalten tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern „Mitarbeit“ und „Verhalten“ ein. Für Sozialverhalten verwenden Sie das Feld "Verhalten", für Arbeitsverhalten das Feld "Mitarbeit".
 
 **(A0305)** Schlüsselverzeichnisse > Noten
 
@@ -2007,9 +2007,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0239)** `Ausdruck`
 
@@ -2017,9 +2017,9 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 ## MVP-GY-AS (Jahrgangsstufe 7-8).rpt
 
-**(A0304)** Schüler > Zeugnis > Details > Mitarbeit/Verhalten
+**(A0304)** `Schüler > Zeugnis > Details > Mitarbeit/Verhalten`
 
-Die Noten für Arbeits- und Sozialverhalten tragen Sie im aktuellen Zeitraum im Menü Schüler > Zeugnis > Details in den Feldern „Mitarbeit“ und „Verhalten“ ein. Für Sozialverhalten verwenden Sie das Feld "Verhalten", für Arbeitsverhalten das Feld "Mitarbeit".
+Die Noten für Arbeits- und Sozialverhalten tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern „Mitarbeit“ und „Verhalten“ ein. Für Sozialverhalten verwenden Sie das Feld "Verhalten", für Arbeitsverhalten das Feld "Mitarbeit".
 
 **(A0305)** Schlüsselverzeichnisse > Noten
 
@@ -3270,9 +3270,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 

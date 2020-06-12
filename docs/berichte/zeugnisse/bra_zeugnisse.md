@@ -271,9 +271,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0128)** Schüler > Zeugnis > Leistungen > Durchschnitt 1
+**(A0128)** `Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
-Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
+Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
 **(A0135)** Klassen > Daten > Beurteilungsart > Benotung durch Noten
 
@@ -632,9 +632,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0128)** Schüler > Zeugnis > Leistungen > Durchschnitt 1
+**(A0128)** `Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
-Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
+Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
 **(A0135)** Klassen > Daten > Beurteilungsart > Benotung durch Noten
 
@@ -663,9 +663,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## BRA-BS-AS (mit Durchschnittsberechnung - einspaltig).rpt
 
-**(A0128)** Schüler > Zeugnis > Leistungen > Durchschnitt 1
+**(A0128)** `Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
-Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
+Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -691,9 +691,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 ## BRA-BS-AS (mit Durchschnittsberechnung).rpt
 
-**(A0128)** Schüler > Zeugnis > Leistungen > Durchschnitt 1
+**(A0128)** `Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
-Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
+Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -719,9 +719,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 ## BRA-BS-AS.rpt
 
-**(A0128)** Schüler > Zeugnis > Leistungen > Durchschnitt 1
+**(A0128)** `Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
-Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
+Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -1005,9 +1005,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0128)** Schüler > Zeugnis > Leistungen > Durchschnitt 1
+**(A0128)** `Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
-Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
+Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
 **(A0135)** Klassen > Daten > Beurteilungsart > Benotung durch Noten
 

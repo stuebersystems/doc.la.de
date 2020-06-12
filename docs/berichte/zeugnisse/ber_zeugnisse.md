@@ -4177,9 +4177,9 @@ Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ei
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0178)** Klasse > Daten > Schulart
+**(A0178)** `Klasse > Daten > Schulart`
 
-Tragen Sie im aktuellen Zeitraum im Menü Klasse > Daten die Schulfart im Feld "Schulart" ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Schularten.
+Tragen Sie im aktuellen Zeitraum im Menü Klasse > Daten die Schulfart im Feld "Schulart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`.
 
 **(A0201.)**
 `Schüler > Zeugnis > Fächer > Merkmal` bzw. 
@@ -4387,9 +4387,9 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0178)** Klasse > Daten > Schulart
+**(A0178)** `Klasse > Daten > Schulart`
 
-Tragen Sie im aktuellen Zeitraum im Menü Klasse > Daten die Schulfart im Feld "Schulart" ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Schularten.
+Tragen Sie im aktuellen Zeitraum im Menü Klasse > Daten die Schulfart im Feld "Schulart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`.
 
 **(A0201.)**
 `Schüler > Zeugnis > Fächer > Merkmal` bzw. 
@@ -4636,9 +4636,9 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0293. Schüler > Zeugnis > Bemerkungen / Formulare
 
@@ -4761,9 +4761,9 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 ## BER-GS-JZ (Schul Z 103)(11.05)** (französ. Gymn).rpt
 
@@ -6280,9 +6280,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -6605,9 +6605,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -6718,9 +6718,9 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
@@ -7728,9 +7728,9 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
@@ -7829,9 +7829,9 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
@@ -8468,13 +8468,13 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -9341,9 +9341,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -9465,9 +9465,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -9609,9 +9609,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -9638,9 +9638,9 @@ Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuelle
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0777)** Schüler > Zeugnis > Bemerkungen/Formulare
 Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
@@ -9988,9 +9988,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -10252,9 +10252,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -10296,9 +10296,9 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 **(A0382)** 
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0777)** Schüler > Zeugnis > Bemerkungen/Formulare
 Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
@@ -10391,9 +10391,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -10435,9 +10435,9 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 **(A0382)** 
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0777)** 
 
@@ -10569,9 +10569,9 @@ Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (Schlüsselverzeichnis >Fächer", Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (Schlüsselverzeichnis > Fächer, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0744)** Schüler > Zeugnis > Fächer > Position
 
@@ -10676,9 +10676,9 @@ Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (Schlüsselverzeichnis >Fächer", Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (Schlüsselverzeichnis > Fächer, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0777)** Schüler > Zeugnis > Bemerkungen/Formulare
 Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
@@ -10827,9 +10827,9 @@ Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (Schlüsselverzeichnis >Fächer", Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (Schlüsselverzeichnis > Fächer, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0777)** Schüler > Zeugnis > Bemerkungen/Formulare
 Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
@@ -10985,9 +10985,9 @@ Seminar
 
 Um das Seminarfach auszugeben, weisen Sie dem jeweiligen Fach im Schlüsselverzeichnis > Fächer im Feld "Kategorie" den Eintrag "Seminar" zu. 
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0751)** Schlüsselverzeichnisse > Fächer > Kategorie
 
@@ -11160,9 +11160,9 @@ Seminar
 
 Um das Seminarfach auszugeben, weisen Sie dem jeweiligen Fach im Schlüsselverzeichnis > Fächer im Feld "Kategorie" den Eintrag "Seminar" zu. 
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0751)** Schlüsselverzeichnisse > Fächer > Kategorie
 
@@ -11468,9 +11468,9 @@ Gymnasien tragen bitte in Spalte "Ab Jahrgang" eine 10 ein.
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (Schlüsselverzeichnis >Fächer", Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (Schlüsselverzeichnis > Fächer, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0742)** Schüler > Daten 3 > Fremdsprachenfolge > von / bis 
 
@@ -11634,9 +11634,9 @@ Gymnasien tragen bitte in Spalte "Ab Jahrgang" eine 10 ein.
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (Schlüsselverzeichnis >Fächer", Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (Schlüsselverzeichnis > Fächer, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0744)** Schüler > Zeugnis > Fächer > Position
 
@@ -11797,9 +11797,9 @@ Gymnasien tragen bitte in Spalte "Ab Jahrgang" eine 10 ein.
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (Schlüsselverzeichnis > Fächer", Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (Schlüsselverzeichnis > Fächer, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0744)** Schüler > Zeugnis > Fächer > Position
 
@@ -12797,9 +12797,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü Abitur > Qualifikation im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist.
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0814)** Abitur > Qualifikation > Status > Fachhochschulreife berechnen
 
@@ -12842,9 +12842,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü Abitur > Qualifikation im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist.
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0814)** Abitur > Qualifikation > Status > Fachhochschulreife berechnen
 
@@ -12887,9 +12887,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü Abitur > Qualifikation im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist.
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0814)** Abitur > Qualifikation > Status > Fachhochschulreife berechnen
 
@@ -12932,9 +12932,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü Abitur > Qualifikation im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist.
 
-**(A0740)** Mandanten > Daten > Name 2
+**(A0740)** `Mandanten > Daten > Name 2`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü Mandanten > Daten 1 im Feld "Name 2" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 **(A0814)** Abitur > Qualifikation > Status >Fachhochschulreife berechnen
 

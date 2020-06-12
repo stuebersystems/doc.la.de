@@ -2427,9 +2427,9 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -6083,9 +6083,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0239)** `Ausdruck`
 
@@ -7300,9 +7300,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0002)** Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten
 

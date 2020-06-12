@@ -725,9 +725,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0112)** `Ausdruck`
 
@@ -835,9 +835,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0088)** Schüler > Laufbahn > Allgemein > Versetzt
+**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 **(A0112)** `Ausdruck`
 
@@ -1404,9 +1404,9 @@ Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Berufsschule > Zeugnisbeme
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
 "2" usw.
 
-**(A0183)** Mandanten > Daten 1 > Ort
+**(A0183)** `Mandanten > Daten 1 > Ort`
 
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld "Ort".
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 **(A0239)** Ausdruck
 
