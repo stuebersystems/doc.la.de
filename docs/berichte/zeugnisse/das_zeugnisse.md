@@ -1724,8 +1724,10 @@ Der Bericht muss aus dem Menü `Start > Drucken > Zeugnisse Drucken...` (Strg + 
 ## DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6)(ab2020).rpt
 
 ab 2020
+
 Zeugnis über das ... Halbjahr der gymnasialen Qualifikationsphase
-(Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland  „Deutsches Internationales Abitur“ (Beschluss der Kultusministerkonferenz vom 11.06.2015)** zugrunde.)
+
+(Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland „Deutsches Internationales Abitur“ (Beschluss der Kultusministerkonferenz vom 11.06.2015) zugrunde.)
 
 **(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
@@ -1751,8 +1753,7 @@ Religion | Weitere Fächer
 
 **(A0045)** `Mandanten > Daten > Name 1`
 
-Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
-1" ein.
+Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 1" ein.
 
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -1771,17 +1772,19 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0394)** Schlüsselverzeichnis > Zeiträume > Art UND
-Klassen > Zeiträume > Jahrgang
+**(A0394)** 
+`Schlüsselverzeichnis > Zeiträume > Art` UND
 
-Die Ausgabe des Kurshalbjahres (Q-Phase G9)** errechnet sich aufgrund der Definition des aktuellen Zeitraums im Schlüsselverzeichnis > Zeiträume >Art und aus dem Menü Klassen > Zeiträume > Jahrgang.
+`Klassen > Zeiträume > Jahrgang`
+
+Die Ausgabe des Kurshalbjahres (Q-Phase G9) errechnet sich aufgrund der Definition des aktuellen Zeitraums im `Schlüsselverzeichnis > Zeiträume > Art` und aus dem Menü `Klassen > Zeiträume > Jahrgang`.
 
 Jahrgang/Zeitraum | Ausgabe im Bericht
 --|--
-12.1 (Q1)** | 1. Kurshalbjahr
-12.2 (Q2)** | 2. Kurshalbjahr
-13.1 (Q3)** | 3. Kurshalbjahr
-13.2 (Q4)** | 4. Kurshalbjahr
+12.1 (Q1) | 1. Kurshalbjahr
+12.2 (Q2) | 2. Kurshalbjahr
+13.1 (Q3) | 3. Kurshalbjahr
+13.2 (Q4) | 4. Kurshalbjahr
 
 **(A0740)** `Mandanten > Daten > Name 2`
 
@@ -2644,3 +2647,118 @@ GY |  Gymnasium | des Gymnasiums
 OR |  Orientierungsstufe | der Orientierungsstufe
 HS | Hauptschule | der Hauptschule
 
+## DSND-DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6).rpt
+
+ab 2019
+
+Zeugnis über das ... Halbjahr der gymnasialen Qualifikationsphase
+
+(Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland „Deutsches Internationales Abitur“ (Beschluss der Kultusministerkonferenz vom 11.06.2015) zugrunde.)
+
+**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+
+**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+
+**(A0017.7)** 
+
+Aufgabenbereich|  Zeugnisbereich
+--|--
+sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfeld
+gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
+mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
+Sport | Weitere Fächer
+Religion | Weitere Fächer
+
+**(A0045)** `Mandanten > Daten > Name 1`
+
+Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 1" ein.
+
+**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
+
+**(A0112)** `Ausdruck`
+
+Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+
+**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
+
+**(A0183)** `Mandanten > Daten 1 > Ort`
+
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
+
+**(A0394)** 
+`Schlüsselverzeichnis > Zeiträume > Art` UND
+
+`Klassen > Zeiträume > Jahrgang`
+
+Die Ausgabe des Kurshalbjahres (Q-Phase G9) errechnet sich aufgrund der Definition des aktuellen Zeitraums im `Schlüsselverzeichnis > Zeiträume > Art` und aus dem Menü `Klassen > Zeiträume > Jahrgang`.
+
+Jahrgang/Zeitraum | Ausgabe im Bericht
+--|--
+12.1 (Q1) | 1. Kurshalbjahr
+12.2 (Q2) | 2. Kurshalbjahr
+13.1 (Q3) | 3. Kurshalbjahr
+13.2 (Q4) | 4. Kurshalbjahr
+
+**(A0740)** `Mandanten > Daten > Name 2`
+
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
+
+**(A0776)** `Schlüsselverzeichnisse > Zeugnisbemerkungen`
+
+Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
+
+**(A0777)** 
+`Schüler > Zeugnis > Bemerkungen/Formulare`
+
+`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
+
+`Berufsschule > Zeugnisbemerkungen`
+
+Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B.  So `<<hier steht Ihr Platzhalter>>`.  
+
+Möglich sind:
+
+Platzhalter in MAGELLAN | Anzeige im Bericht
+--|--
+`<<VornameV>>` | Vorname Vorname2
+`<<Nachname>>` | Nachname
+`<<NachnameV>>` | Namenszusatz Nachname
+`<<Name>>` | Vorname Vorname2 Namenszusatz Nachname
+`<<Name>>` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+`<<Nachname>>`  |  Nachname des Schülers
+`<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
+`<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)** 
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+`<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+
+**(A0810)** `Schlüsselverzeichnis > Fächer > Merkmale`
+
+Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
+
+Fach (Bezeichnung/Kürzel)**  | 	Merkmal
+--|--
+Deutsch |  	D
+Mathematik | M
+Englisch | 	E
+Landessprache | LS
