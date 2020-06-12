@@ -1797,10 +1797,10 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0122)** Abitur > Prüfung > Lernleistung
+**(A0122)** A`bitur > Prüfung > Lernleistung`
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
-Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. 
+Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu 
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
@@ -1898,10 +1898,10 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0122)** Abitur > Prüfung > Lernleistung
+**(A0122)** A`bitur > Prüfung > Lernleistung`
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
-Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. 
+Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu 
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
@@ -2093,10 +2093,10 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0122)** Abitur > Prüfung > Lernleistung
+**(A0122)** A`bitur > Prüfung > Lernleistung`
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
-Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. 
+Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu 
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
@@ -3236,10 +3236,10 @@ Platzhalter | Ausgabe im Bericht
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0122)** Abitur > Prüfung > Lernleistung
+**(A0122)** A`bitur > Prüfung > Lernleistung`
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
-Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. 
+Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu 
 
 **(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
