@@ -38,10 +38,9 @@ Besonderen Lernleistung im Block 2 | Markieren Sie das Optionsfeld „Besondere 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0153)** Abitur > Prüfung > Prüfungsfächer
+**(A0153)** `Abitur > Prüfung > Prüfungsfächer`
 
-Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfungsfächer die jeweiligen Fächer eingetragen sein.
-
+Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein.
 **(A0163)** Abitur > Qualifikation
 
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
@@ -60,10 +59,9 @@ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprech
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0153)** Abitur > Prüfung > Prüfungsfächer
+**(A0153)** `Abitur > Prüfung > Prüfungsfächer`
 
-Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfungsfächer die jeweiligen Fächer eingetragen sein.
-
+Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein.
 ## SHL-GY-ABI (2015).rpt
 
 bis 2018
@@ -292,7 +290,7 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0122)** A`bitur > Prüfung > Lernleistung`
+**(A0122)** `Abitur > Prüfung > Lernleistung`
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
 Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu 
@@ -392,7 +390,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -536,7 +534,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -554,10 +552,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 4PF | 4PF | 4. Prüfungsfach (mündlich)
 5PF | 5PF | 5. Prüfungsfach (mündlich oder schriftlich) Pflichtbereich
 
-**(A0153)** Abitur > Prüfung > Prüfungsfächer
+**(A0153)** `Abitur > Prüfung > Prüfungsfächer`
 
-Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfungsfächer die jeweiligen Fächer eingetragen sein.
-
+Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein.
 **(A0163)** Abitur > Qualifikation
 
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
@@ -1098,7 +1095,7 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0241)** `Abitur > Prüfung`
 

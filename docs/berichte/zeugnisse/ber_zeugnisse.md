@@ -413,7 +413,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0145)** `Schriftart`
 
@@ -1876,7 +1876,7 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0145)** `Schriftart`
 
@@ -4171,7 +4171,7 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0145)** `Schriftart`
 
@@ -5432,7 +5432,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0145)** `Schriftart`
 
@@ -5576,7 +5576,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0145)** `Schriftart`
 
@@ -5766,7 +5766,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0145)** `Schriftart`
 
@@ -6119,7 +6119,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0145)** `Schriftart`
 
@@ -7305,7 +7305,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0140)** Allgemein > Ausgabe Laufbahn
 
@@ -7503,7 +7503,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0145)** `Schriftart`
 
@@ -7592,7 +7592,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0145)** `Schriftart`
 
@@ -11384,7 +11384,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0157)** `Eintrittsjahr Einführungsphase`
  
@@ -11554,7 +11554,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0157)** `Eintrittsjahr Einführungsphase`
  
@@ -11717,7 +11717,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0157)** `Eintrittsjahr Einführungsphase`
  
@@ -11893,7 +11893,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0241)** `Abitur > Prüfung`
 
@@ -12097,7 +12097,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0241)** `Abitur > Prüfung`
 
@@ -12315,7 +12315,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0241)** `Abitur > Prüfung`
 
@@ -12486,7 +12486,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0241)** `Abitur > Prüfung`
 
@@ -12619,7 +12619,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0459)** `Schlüsselverzeichnisse > Fächer > Kategorie`
 

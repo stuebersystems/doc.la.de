@@ -348,10 +348,9 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0025)** Schüler > Laufbahn > Abschluss
+**(A0025)** `Schüler > Laufbahn > Abschluss`
 
-Tragen Sie im Menü Schüler > Laufbahn > Abschluss im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken
-Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 **(A0027)** `Schüler > Laufbahn > Allgemein > Abgang`
 

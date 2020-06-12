@@ -228,7 +228,6 @@ Zeugnis der Klassenstufe 3-10 (Schulformen: Grundschule (1-4)Orientierungsstufe 
 Im Menü `Klassen` muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein,
 hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
 
-
 **(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
@@ -532,19 +531,18 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0122)** A`bitur > Prüfung > Lernleistung`
+**(A0122)** `Abitur > Prüfung > Lernleistung`
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
 Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu 
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0153)** Abitur > Prüfung > Prüfungsfächer
+**(A0153)** `Abitur > Prüfung > Prüfungsfächer`
 
-Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfungsfächer die jeweiligen Fächer eingetragen sein.
-
+Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein.
 **(A0183)** `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
@@ -560,9 +558,7 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü `Abitur > Qualifikation` in den Feldern Q1Bilingual-Q4Bilingual ein, die Sie über „Layout anpassen“ einblenden können. Q1 und Q2 umfasst den Zeitraum der 11. Klasse, Q3 und Q4 die 12. Klasse. 
 Grundlage hierzu bildet das `Schlüsselverzeichnis > Kurssprachen`.  Ausgegeben wird die „Bezeichnung“ und „Bezeichnung1“ des `Schlüsselverzeichnis > Kurssprachen`. 
-Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu unterscheiden, tragen Sie im `Schlüsselverzeichnis > Kurssprachen` für die jeweilige Kurssprache für bilinguale Fächern den Wert „bi“ im Feld "Schlüssel" ein, bei den komplett in einer Fremdsprache unterrichteten Fächern lassen Sie das Feld Schlüssel bitte leer. 
-
-Bsp:
+Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu unterscheiden, tragen Sie im `Schlüsselverzeichnis > Kurssprachen` für die jeweilige Kurssprache für bilinguale Fächern den Wert „bi“ im Feld "Schlüssel" ein, bei den komplett in einer Fremdsprache unterrichteten Fächern lassen Sie das Feld Schlüssel bitte leer.Bsp:
 Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
 --|--|--|--
 bi(de/eng)** | bi | Deutsch / Englisch | English / German
@@ -659,24 +655,25 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0122)** A`bitur > Prüfung > Lernleistung`
+**(A0122)** `Abitur > Prüfung > Lernleistung`
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
 Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. 
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0153)** Abitur > Prüfung > Prüfungsfächer
+**(A0153)** `Abitur > Prüfung > Prüfungsfächer`
 
-Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfungsfächer die jeweiligen Fächer eingetragen sein.
+Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein.
 
-**(A0158)** Klassen > Daten > Abteilung UND Schlüsselverzeichnis > Abteilungen
-       
+**(A0158)** `Klassen > Daten > Abteilung UND Schlüsselverzeichnis > Abteilungen`
+
 Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
-1)** Im entsprechenden Zeitraum muss im Menü Klassen > Daten bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
-2)** Unter Schlüsselverzeichnis > Abteilungen können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
+
+1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
+2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
 **(A0183)** `Mandanten > Daten 1 > Ort`
 
@@ -694,7 +691,6 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü `Abitur > Qualifikation` in den Feldern Q1Bilingual-Q4Bilingual ein, die Sie über „Layout anpassen“ einblenden können. Q1 und Q2 umfasst den Zeitraum der 11. Klasse, Q3 und Q4 die 12. Klasse. 
 Grundlage hierzu bildet das `Schlüsselverzeichnis > Kurssprachen`.  Ausgegeben wird die „Bezeichnung“ und „Bezeichnung1“ des `Schlüsselverzeichnis > Kurssprachen`. 
 Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu unterscheiden, tragen Sie im `Schlüsselverzeichnis > Kurssprachen` für die jeweilige Kurssprache für bilinguale Fächern den Wert „bi“ im Feld "Schlüssel" ein, bei den komplett in einer Fremdsprache unterrichteten Fächern lassen Sie das Feld Schlüssel bitte leer. 
- 
 
 Bsp:
 Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
@@ -753,9 +749,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintrages in MAGELLAN unter `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "von" und aus dem Menü `Klassen > Zeiträume` Feld „Jahrgang“.
 
-**(A0810)** Schlüsselverzeichnis > Fächer > Merkmale
+**(A0810)** `Schlüsselverzeichnis > Fächer > Merkmale`
 
-Bitte tragen Sie im Schlüsselverzeichnis > Fächer in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
+Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
 Fach (Bezeichnung/Kürzel)**  | 	Merkmal
 --|--
@@ -804,24 +800,24 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0122)** A`bitur > Prüfung > Lernleistung`
+**(A0122)** `Abitur > Prüfung > Lernleistung`
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
 Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu 
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0153)** Abitur > Prüfung > Prüfungsfächer
+**(A0153)** `Abitur > Prüfung > Prüfungsfächer`
 
-Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfungsfächer die jeweiligen Fächer eingetragen sein.
-
-**(A0158)** Klassen > Daten > Abteilung UND Schlüsselverzeichnis > Abteilungen
-       
+Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein.
+**(A0158)** `Klassen > Daten > Abteilung UND Schlüsselverzeichnis > Abteilungen`
+ 
 Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
-1)** Im entsprechenden Zeitraum muss im Menü Klassen > Daten bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
-2)** Unter Schlüsselverzeichnis > Abteilungen können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
+
+1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
+2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
 **(A0183)** `Mandanten > Daten 1 > Ort`
 
@@ -898,9 +894,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintrages in MAGELLAN unter `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "von" und aus dem Menü `Klassen > Zeiträume` Feld „Jahrgang“.
 
-**(A0810)** Schlüsselverzeichnis > Fächer > Merkmale
+**(A0810)** `Schlüsselverzeichnis > Fächer > Merkmale`
 
-Bitte tragen Sie im Schlüsselverzeichnis > Fächer in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
+Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
 Fach (Bezeichnung/Kürzel)**  | 	Merkmal
 --|--
@@ -959,12 +955,11 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0153)** Abitur > Prüfung > Prüfungsfächer
+**(A0153)** `Abitur > Prüfung > Prüfungsfächer`
 
-Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfungsfächer die jeweiligen Fächer eingetragen sein.
-
+Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein.
 **(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
@@ -1016,12 +1011,11 @@ Religion | Weitere Fächer
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0025)** Schüler > Laufbahn > Abschluss
+**(A0025)** `Schüler > Laufbahn > Abschluss`
 
-Tragen Sie im Menü Schüler > Laufbahn > Abschluss im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken
-Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
+**(A0026)** `Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
@@ -1033,19 +1027,18 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0122)** A`bitur > Prüfung > Lernleistung`
+**(A0122)** `Abitur > Prüfung > Lernleistung`
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
 Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu 
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0153)** Abitur > Prüfung > Prüfungsfächer
+**(A0153)** `Abitur > Prüfung > Prüfungsfächer`
 
-Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfungsfächer die jeweiligen Fächer eingetragen sein.
-
+Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein.
 **(A0183)** `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
@@ -1090,9 +1083,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0810)** Schlüsselverzeichnis > Fächer > Merkmale
+**(A0810)** `Schlüsselverzeichnis > Fächer > Merkmale`
 
-Bitte tragen Sie im Schlüsselverzeichnis > Fächer in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
+Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
 Fach (Bezeichnung/Kürzel)**  | 	Merkmal
 --|--
@@ -1101,8 +1094,9 @@ Mathematik | M
 Englisch | 	E
 Landessprache | LS
 
-**(A0837)** Ausgabe "von-bis" der Fächer, die vor Beginn der Qualifikationsphase abgeschlossen wurden
-   -----
+**(A0837)** 
+Ausgabe "von-bis" der Fächer, die vor Beginn der Qualifikationsphase abgeschlossen wurden
+
 Tragen Sie als "von" bitte den Startjahrgang ein, als "bis" bitte den Endjahrgang für Fächer, die vor der Qualifikationsphase abgeschlossen wurden. Fächer, die vor der Klassenstufe 10 abgeschlossen wurden, werden nicht erfasst oder ausgewertet.
 
 Ein Beispiel:
@@ -1130,12 +1124,11 @@ Religion | Weitere Fächer
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0025)** Schüler > Laufbahn > Abschluss
+**(A0025)** `Schüler > Laufbahn > Abschluss`
 
-Tragen Sie im Menü Schüler > Laufbahn > Abschluss im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken
-Zeitraumfenster.
+Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0026)**` Schüler > Laufbahn > Allgemein > Schulformeintritt`
+**(A0026)** `Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
@@ -1147,18 +1140,18 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0122)** A`bitur > Prüfung > Lernleistung`
+**(A0122)** `Abitur > Prüfung > Lernleistung`
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
 Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu 
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0153)** Abitur > Prüfung > Prüfungsfächer
+**(A0153)** `Abitur > Prüfung > Prüfungsfächer`
 
-Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfungsfächer die jeweiligen Fächer eingetragen sein.
+Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein.
 
 **(A0183)** `Mandanten > Daten 1 > Ort`
 
@@ -1204,9 +1197,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0810)** Schlüsselverzeichnis > Fächer > Merkmale
+**(A0810)** `Schlüsselverzeichnis > Fächer > Merkmale`
 
-Bitte tragen Sie im Schlüsselverzeichnis > Fächer in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
+Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
 Fach (Bezeichnung/Kürzel)**  | 	Merkmal
 --|--
@@ -1215,16 +1208,17 @@ Mathematik | M
 Englisch | 	E
 Landessprache | LS
 
-**(A0837)** Ausgabe "von-bis" der Fächer, die vor Beginn der Qualifikationsphase abgeschlossen wurden
-   -----
+**(A0837)** 
+Ausgabe "von-bis" der Fächer, die vor Beginn der Qualifikationsphase abgeschlossen wurden
+
 Tragen Sie als "von" bitte den Startjahrgang ein, als "bis" bitte den Endjahrgang für Fächer, die vor der Qualifikationsphase abgeschlossen wurden. Fächer, die vor der Klassenstufe 10 abgeschlossen wurden, werden nicht erfasst oder ausgewertet.
 
 Ein Beispiel:
 Biologie wurde von Klassenstufe 5 bis Klassenstufe 10 belegt, dann tragen Sie im Feld Merkmal bitte 5-10 ein. Dieser Wert wird für Zeugnisberichte ausgewertet.
 
-**(A0838)** Abitur > Qualifikation > E1/E2
+**(A0838)** `Abitur > Qualifikation > E1/E2`
 
-Die Abschlussnoten der abgewählten bzw. abgeschlossenen Fächer (vor Beginn der Qualifikationsphase abgeschlossen)** tragen Sie im Menü Abitur > Qualifikation  in den Feldern "E1" oder "E2" ein. Ausgeben wird die letzte eingetragene Note des Faches.
+Die Abschlussnoten der abgewählten bzw. abgeschlossenen Fächer (vor Beginn der Qualifikationsphase abgeschlossen) tragen Sie im Menü `Abitur > Qualifikation`  in den Feldern "E1" oder "E2" ein. Ausgeben wird die letzte eingetragene Note des Faches.
 
 ## DAS-HS-MSA-AS (Anlage 8 und 9)(§23).rpt
 
@@ -1301,9 +1295,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
-**(A0636)** Personen > Daten > Kategorie
+**(A0636)** `Personen > Daten > Kategorie`
 
-Den Beauftragten der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland tragen Sie im Menü Personen > Daten ein. Wichtig ist, dass dort im Feld „Kategorie“ „Konsulat“ zugewiesen wird. Grundlage hierfür bildet das Schlüsselverzeichnis >Kategorien (Personen)** und abgefragt wird dort das Feld „Kürzel“, Schlüssel und Bezeichnung können frei gewählt werden.
+Den Beauftragten der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland tragen Sie im Menü `Personen > Daten` ein. Wichtig ist, dass dort im Feld „Kategorie“ „Konsulat“ zugewiesen wird. Grundlage hierfür bildet das `Schlüsselverzeichnis > Kategorien (Personen)` und abgefragt wird dort das Feld „Kürzel“, Schlüssel und Bezeichnung können frei gewählt werden.
 
 **(A0740)** `Mandanten > Daten > Name 2`
 
@@ -1349,62 +1343,49 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0791)** Schüler > Zeugnis > Leistungen
+**(A0791)** `Schüler > Zeugnis > Leistungen`
 
-schriftliche/mdl. Prüfungsnoten
-Bei Fächern, in denen zusätzlich zur Endnote eine mündliche und schriftliche Note ausgegeben wird, tragen Sie die Noten wie folgt ein:
-Im aktuellen Zeitraum im Menü Schüler > Zeugnis > Leistungen
+schriftliche/mdl. Prüfungsnoten: Bei Fächern, in denen zusätzlich zur Endnote eine mündliche und schriftliche Note ausgegeben wird, tragen Sie die Noten wie folgt ein: Im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Leistungen`
 
 Spalte | Note
 --|--
 Spalte "Schriftl. Note 1"| schriftliche Note
 Spalte "Mündl. Note" | mündliche Note
 
-**(A0791)** Schüler > Zeugnis > Leistungen
-
-schriftliche/mdl. Prüfungsnoten
-Bei Fächern, in denen zusätzlich zur Endnote eine mündliche und schriftliche Note ausgegeben wird, tragen Sie die Noten wie folgt ein:
-Im aktuellen Zeitraum im Menü Schüler > Zeugnis > Leistungen
-
-Spalte | Note
---|--
-Spalte "Schriftl. Note 1"| schriftliche Note
-Spalte "Mündl. Note" | mündliche Note
-
-**(A0793)** Schüler > Laufbahn > Abschluss
+**(A0793)** `Schüler > Laufbahn > Abschluss`
 
 "Die Berechtigung zum Übergang in die 10. Jahrgangsstufe des Bildungsgangs Realschule"
 Ob ein SchülerIn die Berechtigung zum Übergang in die 10. Jahrgangsstufe des Bildungsgangs Realschule erhalten hat oder nicht hängt wie folgt ab:
 
-Bei Schüler > Laufbahn > Abschluss“ tragen im Bereich „Abschluss1“ im Feld „Abschlussart“ die jeweilige Abschlussart. Grundlage bildet das Schlüsselverzeichnis > Abschlussarten. Maßgeblich ist immer das Kürzel:
+Bei `Schüler > Laufbahn > Abschluss` tragen im Bereich „Abschluss1“ im Feld „Abschlussart“ die jeweilige Abschlussart. Grundlage bildet das `Schlüsselverzeichnis > Abschlussarten`. Maßgeblich ist immer das Kürzel:
 
 Kürzel | Schluessel | Bezeichnung
 --|--|--
 BÜR |--| Berechtigung zum Übergang in diein die 10. Jahrgangsstufe des Bildungsgangs Realschule erhalten
 nBÜR |--|Berechtigung zum Übergang in die in die 10. Jahrgangsstufe des Bildungsgangs Realschule NICHT erhalten
 
-**(A0794)** Schüler > Laufbahn > Abschluss
+**(A0794)** `Schüler > Laufbahn > Abschluss`
 
 "Die Berechtigung zum Übergang in die Einführungsphase der gymnasialen Oberstufe (Zeugnis Anlage 9 [§23])"
 Ob ein SchülerIn die Berechtigung zum Übergang in die Einführungsphase der gymnasialen Oberstufe erhalten hat oder nicht hängt wie folgt ab:
 
-Bei Schüler > Laufbahn > Abschluss“ tragen im Bereich „Abschluss1“ im Feld „Abschlussart“ die jeweilige Abschlussart. Grundlage bildet das Schlüsselverzeichnis > Abschlussarten. Maßgeblich ist immer das Kürzel:
+Bei `Schüler > Laufbahn > Abschluss` tragen im Bereich „Abschluss1“ im Feld „Abschlussart“ die jeweilige Abschlussart. Grundlage bildet das `Schlüsselverzeichnis > Abschlussarten`. Maßgeblich ist immer das Kürzel:
 
 Kürzel | Schluessel | Bezeichnung
 --|--|--
 BÜG |--| Berechtigung zum Übergang in die Einführungsphase der gymnasialen Oberstufe erhalten
 nBÜG | -- | Berechtigung zum Übergang in die Einführungsphase der gymnasialen Oberstufe NICHT erhalten
 
-**(A0795)** Schüler > Drucken > Zeugnisse drucken...
+**(A0795)** `Schüler > Drucken > Zeugnisse drucken...`
 
 Beachten Sie, dass der Report ein Abschlusszeugnis der Jahrgangsstufe 9 und 10 ist. 
-Dies hängt vom Eintrag des Jahrganges im Menü Klassen > Zeiträume > Zeitraum im Feld "Jahrgang" ab. Siehe A-Merkmal 008.
+Dies hängt vom Eintrag des Jahrganges im Menü `Klassen > Zeiträume > Zeitraum` im Feld "Jahrgang" ab. Siehe A-Merkmal 008.
 
-Im entsprechenden Zeitraum muss im Menü Klassen > Zeiträume > Zeitraum der Jahrgang im Feld „Jahrgang“ angegeben sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume > Zeitraum` der Jahrgang im Feld „Jahrgang“ angegeben sein.
 
-**(A0836)** Ausdruck
+**(A0836)** `Ausdruck`
 
-Der Bericht muss aus dem Menü Start > Drucken > Zeugnisse Drucken... (Strg + Z)** gedruckt werden.
+Der Bericht muss aus dem Menü `Start > Drucken > Zeugnisse Drucken...` (Strg + Z) gedruckt werden.
 
 ## DAS-Prüfungsbogen (Anlage 7 zu DIA-PO)(2018).rpt
 
@@ -1438,10 +1419,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0153)** Abitur > Prüfung > Prüfungsfächer
+**(A0153)** `Abitur > Prüfung > Prüfungsfächer`
 
-Zur Ausgabe der Abitur-Prüfungsfächer müssen unter Abitur > Prüfung > Prüfungsfächer die jeweiligen Fächer eingetragen sein.
-
+Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein.
 **(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
@@ -1449,7 +1429,6 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 **(A0277)** `Schüler > Daten 1 > Staatsangeh. 1`
 
 Tragen Sie die Staatsangehörigkeit des Schülers im Menü `Schüler > Daten 1` im Feld "Staatsangeh. 1" ein.
-
 
 **(A0632)** 
 `Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
@@ -1459,8 +1438,6 @@ Tragen Sie die Staatsangehörigkeit des Schülers im Menü `Schüler > Daten 1` 
 Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü `Abitur > Qualifikation` in den Feldern Q1Bilingual-Q4Bilingual ein, die Sie über „Layout anpassen“ einblenden können. Q1 und Q2 umfasst den Zeitraum der 11. Klasse, Q3 und Q4 die 12. Klasse. 
 Grundlage hierzu bildet das `Schlüsselverzeichnis > Kurssprachen`.  Ausgegeben wird die „Bezeichnung“ und „Bezeichnung1“ des `Schlüsselverzeichnis > Kurssprachen`. 
 Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu unterscheiden, tragen Sie im `Schlüsselverzeichnis > Kurssprachen` für die jeweilige Kurssprache für bilinguale Fächern den Wert „bi“ im Feld "Schlüssel" ein, bei den komplett in einer Fremdsprache unterrichteten Fächern lassen Sie das Feld Schlüssel bitte leer. 
- 
-
 Bsp:
 Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
 --|--|--|--
@@ -1474,9 +1451,9 @@ Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Men�
 
 Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintrages in MAGELLAN unter `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "von" und aus dem Menü `Klassen > Zeiträume` Feld „Jahrgang“.
 
-**(A0810)** Schlüsselverzeichnis > Fächer > Merkmale
+**(A0810)** `Schlüsselverzeichnis > Fächer > Merkmale`
 
-Bitte tragen Sie im Schlüsselverzeichnis > Fächer in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
+Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
 Fach (Bezeichnung/Kürzel)**  | 	Merkmal
 --|--
@@ -1485,9 +1462,9 @@ Mathematik | M
 Englisch | 	E
 Landessprache | LS
 
-**(A0811)** Schüler > Daten 2 > Staatsangehörigkeit > Staatsangeh.2
+**(A0811)** `Schüler > Daten 2 > Staatsangehörigkeit > Staatsangeh.2`
 
-Die 2. Staatsangehörigkeit des Schülers tragen Sie unter Schüler > Daten 2 > Staatsangehörigkeit  im Feld "Staatsangeh.2" ein.
+Die 2. Staatsangehörigkeit des Schülers tragen Sie unter `Schüler > Daten 2 > Staatsangehörigkeit`  im Feld "Staatsangeh.2" ein.
 
 ## DAS-Versetzungszeugnis-GY-MSA (ZKA)(Anlage 11)(§23).rpt
 
@@ -1497,7 +1474,6 @@ Versetzungszeugnis Gymnasium - Mittlerer Schulabschluss (ZKA)
 
 Im Menü `Klassen` muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein,
 hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
-
 
 **(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
@@ -1732,11 +1708,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0791)** Schüler > Zeugnis > Leistungen
+**(A0791)** `Schüler > Zeugnis > Leistungen`
 
-schriftliche/mdl. Prüfungsnoten
-Bei Fächern, in denen zusätzlich zur Endnote eine mündliche und schriftliche Note ausgegeben wird, tragen Sie die Noten wie folgt ein:
-Im aktuellen Zeitraum im Menü Schüler > Zeugnis > Leistungen
+schriftliche/mdl. Prüfungsnoten: Bei Fächern, in denen zusätzlich zur Endnote eine mündliche und schriftliche Note ausgegeben wird, tragen Sie die Noten wie folgt ein: Im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Leistungen`
 
 Spalte | Note
 --|--
@@ -1839,9 +1813,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0810)** Schlüsselverzeichnis > Fächer > Merkmale
+**(A0810)** `Schlüsselverzeichnis > Fächer > Merkmale`
 
-Bitte tragen Sie im Schlüsselverzeichnis > Fächer in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
+Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
 Fach (Bezeichnung/Kürzel)**  | 	Merkmal
 --|--
@@ -1942,9 +1916,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0810)** Schlüsselverzeichnis > Fächer > Merkmale
+**(A0810)** `Schlüsselverzeichnis > Fächer > Merkmale`
 
-Bitte tragen Sie im Schlüsselverzeichnis > Fächer in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
+Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
 Fach (Bezeichnung/Kürzel)**  | 	Merkmal
 --|--
@@ -2499,7 +2473,6 @@ Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter Date
 
 Im Menü `Klassen` muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein,
 hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
-
 
 **(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 

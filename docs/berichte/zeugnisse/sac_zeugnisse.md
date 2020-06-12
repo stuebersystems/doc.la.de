@@ -5587,7 +5587,7 @@ Fach eine Position in der Spalte "Position" angegeben werden.
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0163)** `Abitur > Qualifikation`
 
@@ -5746,7 +5746,7 @@ Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld 
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0155)** `Abitur > Prüfung > Lernleistung > 1. Punktfeld`
 
@@ -5804,7 +5804,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0153)** `Abitur > Prüfung > Prüfungsfächer`
 
@@ -5893,7 +5893,7 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0155)** `Abitur > Prüfung > Lernleistung > 1. Punktfeld`
 
@@ -7114,7 +7114,7 @@ Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld 
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -7307,7 +7307,7 @@ Fach eine Position in der Spalte "Position" angegeben werden.
 
 **(A0139)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **(A0163)** `Abitur > Qualifikation`
 
