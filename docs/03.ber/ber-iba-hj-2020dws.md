@@ -103,7 +103,7 @@ Durch die Berechnung werden automatisch folgende Felder befüllt:
 
 | Feld | Note für...     |
 |--------|-----------
-Endnote | Endoten der Fächer mit dem Fachstatus "FachT", "FachP" und "BÜ" sowie Fächer mit dem Fachstatus "Wahlb" oder "WahlPF"
+Endnote | Endoten der Fächer mit dem Fachstatus "FachT", "FachP" und "BÜ" sowie Fächer mit dem Fachstatus "Wahlb"
 Durchschnitt 1 | Fachtheorie - gesamt|
 Durchschnitt 2 | Fachtpraxis - gesamt|
 
@@ -138,6 +138,8 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 ![Betriebspraktikum wurde bestanden/nicht bestanden](..\assets\images\IBA\IBA05.png)
 
 ![Ausgabe auf dem Zeugnis > Betriebspraktikum wurde bestanden/nicht bestanden](..\assets\images\IBA\IBA06.png)
+
+3. Die Noten der Betriebliche Lernaufgabe 1,/2./3. tragen Sie im im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" ein. 
 
 ### Betriebspraktikum 1./2. oder 3. - erfolgt im 1. oder 2.HJ?
 
