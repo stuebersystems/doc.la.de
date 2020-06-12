@@ -119,6 +119,18 @@ Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsga
 
 ## Sonstiges für den Zeugnisdruck
 
+### Fächer des berufsfeldebezogenen Unterrichts (Lernfelder) anlegen
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal`
+
+Ihre Lernfelder erfassen Sie im  `Schlüsselverzeichnisse > Fächer`. Im Feld "Bezeichnung" tragen Sie die Lernfeldbezeichnung ein. Die Lernfeldnummer geben Sie bitte im Feld "Zeugnismerkmal" (Merkmal) ein.
+
+Kürzel | Schlüssel | Bezeichnung | Merkmal
+--|--|--|--
+beliebig | beliebig | Sich im Berufsfeld orientieren | LF1
+
+Der Bericht liest den Eintrag aus Feld "Merkmal" aus und setzt dahinter die Fachbezeichnung aus Feld "Bezeichnung".
+
 ### Betriebspraktikum 1./2. oder 3. bestanden/nicht bestanden
 
 Ob im Zeugnis das Betriebspraktikum 1./2. oder 3. als "bestanden" oder "nicht bestanden" ausgegeben wird, hängt vom Eintrag im Menü `Schüler > Zeugnis > Fächer`  im Feld "Merkmal" ab.
