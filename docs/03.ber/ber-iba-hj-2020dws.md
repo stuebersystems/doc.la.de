@@ -80,17 +80,22 @@ Weisen Sie diese Fächer ebenfalls im Menü `Schüler > Zeugnis > Fächer` dem S
 
 #### 3. Noten der Fächer eingeben
 
-Die Halbjahresnoten der Fächer erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote".
+Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt". Dieses Feld ermöglicht Noten als Kommawert (Beispiel 1,4) zu erfassen.
 
-Für die automatische Berechnung der Gesamtnote der Fachtheorie und Fachpraxis werden die Noten der Fächer mit der Unterrichtsart "FachT" und "FachP" im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" herangezogen.
+![Schüler > Zeugnis > Leistungen](..\assets\images\IBA\IBA07.png)
 
-![Schüler > Zeugnis > Leistungen](..\assets\images\IBA\IBA02.png)
+!!! warning "Wichtig"
 
-### Gesamtnotenberechnung Fachtheorie und Fachpraxis durchführen
+    Aktivieren Sie für den Schüler unter `Schüler > Zeugnis > Leistungen` das Optionsfeld `Durchschnitt`. Auf der rechten Seite der Registerkarte erscheint nun eine zusätzliche Leiste.
 
-Aktivieren Sie für den Schüler unter `Schüler > Zeugnis > Leistungen` das Optionsfeld `Durchschnitt`. Auf der rechten Seite der Registerkarte erscheint nun eine zusätzliche Leiste.
+1. Für die Berechnung der Halbjahresendnoten, die auf das Zeugnis übergeben werden, werden die Noten der Fächer aus dem Feld "Durchschnitt" herangezogen.
+2. Für die automatische Berechnung der Gesamtnote für den Fachtheorie- und Fachpraxisunterricht werden die Noten der Fächer mit der Unterrichtsart "FachT" und "FachP" im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt" herangezogen.
 
-Im Feld "Prüfungsverordnung" wählen Sie über das Drop Down Menü die vorab im `Schlüsselverzeichnisse > Verordnungen` definierte Prüfungsverordnung aus.(basierend auf dem Skript BER-IBA-HJ-2020.dws) 
+![Schüler > Zeugnis > Leistungen](..\assets\images\IBA\IBA08.png)
+
+### Gesamtnotenberechnung durchführen
+
+Im Feld "Prüfungsverordnung" wählen Sie über das Drop Down Menü die vorab im `Schlüsselverzeichnis > Verordnungen` definierte Prüfungsverordnung aus.(basierend auf dem Skript *BER-IBA-HJ-2020.dws*) 
  
 Im Feld "Status" wählen Sie `Abschluss berechnen`. Die Berechnung gemäß Skript stoßen Sie über die Schaltfläche `Neu berechnen` an. 
 
@@ -98,12 +103,19 @@ Durch die Berechnung werden automatisch folgende Felder befüllt:
 
 | Feld | Note für...     |
 |--------|-----------
-Durchschnitte 1 | Fachtheorie - gesamt|
-Durchschnitte 2 | Fachtpraxis - gesamt|
+Endnote | Endoten der Fächer mit dem Fachstatus "FachT", "FachP" und "BÜ" sowie Fächer mit dem Fachstatus "Wahlb"
+Durchschnitt 1 | Fachtheorie - gesamt|
+Durchschnitt 2 | Fachtpraxis - gesamt|
 
-Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsgang für das 1. Halbjahr in Berlin.
+Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsgang für das 1. Halbjahr in Berlin. Sie sehen die Voreinstellungen und die Werte, die durch das Skript berechnet werden.
 
-![Berechnung](..\assets\images\IBA\IBA03.png)
+![Berechnung](..\assets\images\IBA\IBA09.png)
+
+!!! info "Hinweis"
+
+   Die berechnete "Endnote" kann jederzeit manuell im Feld "Endnote" geändert werden. Durch erneutes Ausführen des Berechnungsskriptes wird diese Note nicht mehr überschrieben, das Skript gibt Ihnen im Meldefenster den Hinweis "Endnote für "Fach XY" manuell eingegeben (berechneter Wert wäre 2)".
+
+![Meldefenster nach Notenänderung im Feld "Endnote" und erneuter Berechnung durch das Skript](..\assets\images\IBA\IBA10.png)
 
 ## Sonstiges für den Zeugnisdruck
 
@@ -126,6 +138,8 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 ![Betriebspraktikum wurde bestanden/nicht bestanden](..\assets\images\IBA\IBA05.png)
 
 ![Ausgabe auf dem Zeugnis > Betriebspraktikum wurde bestanden/nicht bestanden](..\assets\images\IBA\IBA06.png)
+
+3. Die Noten der Betriebliche Lernaufgabe 1,/2./3. tragen Sie im im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" ein. 
 
 ### Betriebspraktikum 1./2. oder 3. - erfolgt im 1. oder 2.HJ?
 
