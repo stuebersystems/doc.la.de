@@ -144,7 +144,7 @@ Falls die Besondere Lernleistung nicht eines der Prüfungsfächer 1.-4. ist, wei
 |schriftliche Note|Note der **schriftliche Ausarbeitung**|
 |2. mündl. Note| Note des **Prüfungsgespräches**|
 
-![Noteneingabe der Besonderen Lernleistung](/assets/images/BLL.png)
+![Noteneingabe der Besonderen Lernleistung](/assets/BLL.png)
 
 ## Merkmal
 
