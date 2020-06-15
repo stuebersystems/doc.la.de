@@ -887,8 +887,6 @@ Kürzel | Schlüssel | Zeugnisbereich
 BU | BU | Fachbezogener / Berufsbezogener Lernbereich
 BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflicht
@@ -2899,7 +2897,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-## BER-BS-AS (Schul Z 501).rpt
+## ALT | BER-BS-AS (Schul Z 501).rpt
 
 Schul Z 501
 
@@ -4417,7 +4415,6 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 Manche Fächer werden mit einer Note für mündliche Leistungen, einer Note für schriftliche Leistungen und einer Gesamtnote versehen. Tragen Sie daher im Menü `Schüler > Zeugnis > Leistungen` die Noten wie folgt ein:
 
-
 Note | Feld in MAGELLAN
 --|--
 mündliche Note | Mündl. Note | 
@@ -4538,7 +4535,6 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 **(A0165)** `Schüler > Zeugnis > Leistungen`
 
 Manche Fächer werden mit einer Note für mündliche Leistungen, einer Note für schriftliche Leistungen und einer Gesamtnote versehen. Tragen Sie daher im Menü `Schüler > Zeugnis > Leistungen` die Noten wie folgt ein:
-
 
 Note | Feld in MAGELLAN
 --|--
@@ -5710,7 +5706,6 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Manche Fächer werden mit einer Note für mündliche Leistungen, einer Note für schriftliche Leistungen und einer Gesamtnote versehen. Tragen Sie daher im Menü `Schüler > Zeugnis > Leistungen` die Noten wie folgt ein:
 
-
 Note | Feld in MAGELLAN
 --|--
 mündliche Note | Mündl. Note | 
@@ -5766,8 +5761,6 @@ Schul Z 301 (11.11)
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -6081,7 +6074,6 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 Manche Fächer werden mit einer Note für mündliche Leistungen, einer Note für schriftliche Leistungen und einer Gesamtnote versehen. Tragen Sie daher im Menü `Schüler > Zeugnis > Leistungen` die Noten wie folgt ein:
 
-
 Note | Feld in MAGELLAN
 --|--
 mündliche Note | Mündl. Note | 
@@ -6172,8 +6164,6 @@ Schul Z 251 (07.10)
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-
 
 Kürzel | Schlüssel | Bezeichnung	
 --|--|--
@@ -6343,8 +6333,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflicht
@@ -6399,8 +6387,6 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 **(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
-
-
 
 ## BER-GY-JZ (Schul Z 300).rpt
 
@@ -8508,8 +8494,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-
-
 Kürzel | Schlüssel | Bezeichnung	
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfächer bzw. –unterricht
@@ -8910,8 +8894,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflicht
@@ -9092,7 +9074,6 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 Manche Fächer werden mit einer Note für mündliche Leistungen, einer Note für schriftliche Leistungen und einer Gesamtnote versehen. Tragen Sie daher im Menü `Schüler > Zeugnis > Leistungen` die Noten wie folgt ein:
 
-
 Note | Feld in MAGELLAN
 --|--
 mündliche Note | Mündl. Note | 
@@ -9157,10 +9138,6 @@ Bildende Kunst | 14
 Sport | 15
 Wahlpflichtfach eins | 30
 Wahlpflichtfach zwei | 31
-
-
-
-
 
 !!! danger "Achtung"
 
@@ -9371,8 +9348,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-
-
 Kürzel | Schlüssel | Bezeichnung	
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfächer bzw. –unterricht
@@ -9501,8 +9476,6 @@ Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefi
 
 **(A0745)** `Schüler > Zeugnis > Fächer > Position`
 
-
-
 Um Noten den jeweiligen Fächer zuzuordnen, verwenden Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Position" folgende Positionen:
 
 Fach|Position
@@ -9550,8 +9523,6 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schül
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -9678,8 +9649,6 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-
 
 Kürzel | Schlüssel | Bezeichnung	
 --|--|--
@@ -9808,7 +9777,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflicht
@@ -9932,7 +9900,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflicht
@@ -10008,8 +9975,6 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-
-
 **(A0740)** `Mandanten > Daten > Name 2`
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
@@ -10064,8 +10029,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü Schüler > Zeugnis > Fäc
 den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflicht
@@ -10118,8 +10081,6 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 **(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
-
 
 **(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
 
@@ -10218,8 +10179,6 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-
-
 **(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
@@ -10294,8 +10253,6 @@ Schul Z 301 – Abgangszeugnis der Einführungsphase der gymnasialen Oberstufe (
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -10523,8 +10480,6 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-
-
 **(A0459)** `Schlüsselverzeichnisse > Fächer > Kategorie`
 
 Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
@@ -10700,8 +10655,6 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-
-
 **(A0459)** `Schlüsselverzeichnisse > Fächer > Kategorie`
 
 Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
@@ -10800,8 +10753,6 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
-
-
 Aufgabenbereich| Zeugnisbereich
 --|--
 sprachl.-lit.-künstlerisch | 1. Aufgabenfeld
@@ -10863,8 +10814,6 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 **(A0239)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
-
 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
