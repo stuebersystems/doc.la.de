@@ -13101,3 +13101,4 @@ Um Noten den jeweiligen Fächer zuzuordnen, verwenden Sie für die Fächer folge
 * Wahlpflichtfach zwei: 31
 * Wahlpflichtfach drei: 32
 * Wahlpflichtfach vier: 33
+
