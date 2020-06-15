@@ -1,9 +1,24 @@
 # Berliner Zeugnisse
 
+##  BER-Schul Z 520 (09.19).rpt
+
+Schul Z 520 – Zeugnis der Berufsfachschule – (2 Seiten) – (09.19)
+
+## BER-Schul Z 522 (09.19).rpt
+
+Schul Z 522 – Abschlusszeugnis der Berufsfachschule mit schulischer Abschlussprüfung – (3 Seiten) – (09.19)
+
+## BER-Schul Z 523 (09.19).rpt
+
+Schul Z 523 – Abschlusszeugnis der Berufsfachschule mit Kammerprüfung – (3 Seiten) – (09.19)
+
+## BER-Schul Z 526 (09.19).rpt
+
+Schul Z 526 – Abgangszeugnis der Berufsfachschule – (2 Seiten) – (09.19)
+
 ## BER-Schul Z 590 (12.19).rpt
 
 Schul Z 590 – Zeugnis der Integrierten Berufsausbildungsvorbereitung (Vollzeit) – (2 Seiten) – (12.19)
-
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
