@@ -1,6 +1,6 @@
 # Berliner Zeugnisse
 
-##  BER-Schul Z 520 (09.19).rpt
+## BER-Schul Z 520 (09.19).rpt
 
 Schul Z 520 – Zeugnis der Berufsfachschule – (2 Seiten) – (09.19)
 
@@ -4998,7 +4998,7 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-## BER-GS-JZ (Schul Z 103)(11.05)** (französ. Gymn).rpt
+## BER-GS-JZ (Schul Z 103)(11.05) (französ. Gymn).rpt
 
 Schul Z 103(11.05)** (französ. Gymn)
 
