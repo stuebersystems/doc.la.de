@@ -126,7 +126,7 @@ Im Menü ``Abitur`` wird auf der Registerkarte ``Prüfung`` im Feld ``5. PF`` da
 |mündliche Note|Note der **Präsentation**|
 |2. mündl. Note| Note des **Prüfungsgespräches**|
 
-![Noteneingabe der Präsentationsprüfung](assets/BER-APO-2017_praesentationspruefung1.png)
+![Noteneingabe der Präsentationsprüfung](assets/images/ber-apo-2017.01.png)
 
 #### Besondere Lernleistung
 
@@ -144,7 +144,7 @@ Falls die Besondere Lernleistung nicht eines der Prüfungsfächer 1.-4. ist, wei
 |schriftliche Note|Note der **schriftliche Ausarbeitung**|
 |2. mündl. Note| Note des **Prüfungsgespräches**|
 
-![Noteneingabe der Besonderen Lernleistung](/assets/BLL.png)
+![Noteneingabe der Besonderen Lernleistung](assets/images/ber-apo-2017.02.png)
 
 ## Merkmal
 
