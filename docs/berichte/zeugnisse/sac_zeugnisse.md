@@ -5504,7 +5504,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 ### SAC-BG-ABI (E.01.06).rpt
 
-E.01.06
+E.01.06 Zeugnis der allgemeinen Hochschulreife
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -5665,6 +5665,14 @@ Definieren Sie im Schlüsselverzeichnis "Zeugnisbemerkungen" folgende Bemerkung:
 ``<<DerSchueler_DieSchuelerin>>`` hat die Belegungsverpflichtung in der zweiten Fremdsprache durch Bestehen einer Feststellungsprüfung in der Herkunftssprache ersetzt.
 
 Weisen Sie danach dem Schüler individuell diese Zeugnisbemerkung zu. Aufgrund der Platzhalter in der Bemerkung wird in Abhängig vom Geschlecht des Schülers "Die Schülerin" oder "Der Schüler"… ausgegeben,
+
+**A0898** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+
+Haben Sie im Menü `Schüler > Daten 3` keine 2 Fremdsprache hinterlegt, wird folgender Satz unter den Bemerkungen auf dem Zeugnis unterdrückt:
+
+*"Das in *ZWEITE FREMDSPRACHE* erreichte Sprachniveau entspricht der Stufe <B1/B2> des Gemeinsamen europäischen Referenzrahmens."*
+
+![Zeugnisvorlage E.01.06 Seite 4](/assets/images/Sachsen/bild01.png)
 
 ### SAC-BG-ABI (E.01.08).rpt
 
