@@ -82,7 +82,7 @@ Weisen Sie diese Fächer ebenfalls im Menü `Schüler > Zeugnis > Fächer` dem S
 
 Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt". Dieses Feld ermöglicht Noten als Kommawert (Beispiel 1,4) zu erfassen.
 
-![Schüler > Zeugnis > Leistungen](..\assets\images\IBA\IBA07.png)
+![Schüler > Zeugnis > Leistungen](/assets/images/IBA/IBA07.png)
 
 !!! warning "Wichtig"
 
@@ -91,7 +91,7 @@ Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler >
 1. Für die Berechnung der Halbjahresendnoten, die auf das Zeugnis übergeben werden, werden die Noten der Fächer aus dem Feld "Durchschnitt" herangezogen.
 2. Für die automatische Berechnung der Gesamtnote für den Fachtheorie- und Fachpraxisunterricht werden die Noten der Fächer mit der Unterrichtsart "FachT" und "FachP" im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt" herangezogen.
 
-![Schüler > Zeugnis > Leistungen](..\assets\images\IBA\IBA08.png)
+![Schüler > Zeugnis > Leistungen](/assets/images/IBA/IBA08.png)
 
 ### Gesamtnotenberechnung durchführen
 
@@ -109,7 +109,7 @@ Durchschnitt 2 | Fachtpraxis - gesamt|
 
 Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsgang für das 1. Halbjahr in Berlin. Sie sehen die Voreinstellungen und die Werte, die durch das Skript berechnet werden.
 
-![Berechnung](..\assets\images\IBA\IBA09.png)
+![Berechnung](/assets/images/IBA/IBA09.png)
 
 !!! info "Hinweis"
 
@@ -157,9 +157,9 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 
 3. Die Betriebliche Lernaufgabe 1,/2./3.  bezieht sich auf das jeweilige Praktikum 1./2./3. Ein Eintrag "N" im Feld "Merkmal" bei der entsprechenden Lernaufgabe steuert die Ausgabe "nicht bestanden". Bleibt das Feld "Merkmal" leer, wird das Praktikum als "bestanden" ausgegeben.
 
-![Betriebspraktikum wurde bestanden/nicht bestanden](..\assets\images\IBA\IBA05.png)
+![Betriebspraktikum wurde bestanden/nicht bestanden](/assets/images/IBA/IBA05.png)
 
-![Ausgabe auf dem Zeugnis > Betriebspraktikum wurde bestanden/nicht bestanden](..\assets\images\IBA\IBA06.png)
+![Ausgabe auf dem Zeugnis > Betriebspraktikum wurde bestanden/nicht bestanden](/assets/images/IBA/IBA06.png)
 
 3. Die Noten der Betriebliche Lernaufgabe 1,/2./3. tragen Sie im im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" ein. 
 
@@ -176,4 +176,4 @@ Eintrag für | Eingabe wie folgt
 
 Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die auch benotet wird, dem 1./2./3 Betriebspraktikum zuordnen. Zudem wird ein Bezug des Betriebspraktikums zum 1. Halbjahr bzw. 2. Halbjahr hergestellt.
 
-![Vertragsnummer des Betriebspraktikums](..\assets\images\IBA\IBA04.png)
+![Vertragsnummer des Betriebspraktikums](/assets/images/IBA/IBA04.png)
