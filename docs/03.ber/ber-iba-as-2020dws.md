@@ -1,14 +1,12 @@
-# BER-IBA-HJ-2020.dws
+# BER-IBA-AS-2020.dws
 
-Mit Hilfe des Berechnungsskriptes _BER-IBA-HJ-2020.dws_ können Sie für den Bildungsgang **Integrierte Berufsausbildungsvorbereitung**  die Gesamtnote der Fachtheorie und Fachpraxis für das aktuelle Halbjahr für den Berufsfeldbezogenen Unterricht berechnen lassen.
-
-Die Gesamtnote der Fachtheorie und Fachpraxis errechnet sich aus den gewichteten Halbjahresnotendurchschnitten der jeweiligen Lernfeldnoten gemäß der Verordnung über die Integrierte Berufsausbildungsvorbereitung Anlage 4 Abschnitt B.
+Mit Hilfe des Berechnungsskriptes _BER-IBA-AS-2020.dws_ können Sie für den Bildungsgang **Integrierte Berufsausbildungsvorbereitung**  die Endnoten (Jahresnotendurchschnitte) der Teilbereiche Fachtheorie und Fachpraxis (als Mittelwert der Halbjahresnotendurchschnitte gmäß Anlage 4 Abschnitt B der Verordnung über die integrierte Berufsausbildungsvorbereitung) sowie die Duchschnittsnote des Bildungsganges Integrierte Berufsausbildungsvorbereitung berechnen lassen.
 
 Im folgenden Kapitel beschreiben wir Ihnen die Vorgehensweise.
 
 ## Vorbereitungen
 
-Zur Berechnung der Gesamtnote innerhalb eines Zeitraums gehören folgende Aufgaben:
+Zur Berechnung der Endnoten der Teilbereiche Fachtheorie und Fachpraxis sowie der Duchschnittsnote des Bildungsganges IBA innerhalb eines Schuljahres (1. Halbjahr / 2. Halbjahr) gehören folgende Aufgaben:
 
 1. Berechnungsverordnung definieren
 2. Fächer der Schüler für den gewünschten Zeitraum einer Zeugnisausgabe  eingeben.
@@ -26,7 +24,7 @@ Bitte legen Sie unter `Schlüsselverzeichnisse > Verordnungen` eine neue Zeile a
 | Kategorie    | Versetzung                               |
 | Typ          | leer                                     |
 | Ab Jahrgang  | leer                                     |
-| Skript       | `...\Ihre Region\Ihr_Skript.dws` (Pfad zur Skriptdatei auf Ihrem Server) hier _BER-IBA-HJ-2020.dws_ |
+| Skript       | `...\Ihre Region\Ihr_Skript.dws` (Pfad zur Skriptdatei auf Ihrem Server) hier _BER-IBA-AS-2020.dws_ |
 | Notenart 11  | leer                                     |
 | Notenart 12  | leer                                     |
 | Notenart 13  | leer                                     |
@@ -36,9 +34,9 @@ Bitte legen Sie unter `Schlüsselverzeichnisse > Verordnungen` eine neue Zeile a
 
 !!! warning "Wichtig"
 
-    Das Skript BER-IBA-HJ-2020.dws wird im Menü `Schüler > Zeugnis > Leistungen` ausgeführt und muss im `Schlüsselverzeichnis > Verordnung` mit der Kategorie „Versetzung“ angelegt werden.
+    Das Skript BER-IBA-AS-2020.dws wird im Menü `Schüler > Zeugnis > Leistungen` ausgeführt und muss im `Schlüsselverzeichnis > Verordnung` mit der Kategorie „Versetzung“ angelegt werden.
 
-![Geben Sie hier die Berechnungsverordnung mit der Kategorie „Versetzung“ ein.](..\assets\images\IBA\IBA01.png)
+![Geben Sie hier die Berechnungsverordnung mit der Kategorie „Versetzung“ ein.](..\assets\images\IBA\IBA15.png)
 
 ### 2. Fächer der Schüler eingeben
 
@@ -82,20 +80,18 @@ Weisen Sie diese Fächer ebenfalls im Menü `Schüler > Zeugnis > Fächer` dem S
 
 Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt". Dieses Feld ermöglicht Noten als Kommawert (Beispiel 1,4) zu erfassen.
 
-![Schüler > Zeugnis > Leistungen](..\assets\images\IBA\IBA07.png)
+![Schüler > Zeugnis > Leistungen](..\assets\images\IBA\IBA16.png)
 
 !!! warning "Wichtig"
 
     Aktivieren Sie für den Schüler unter `Schüler > Zeugnis > Leistungen` das Optionsfeld `Durchschnitt`. Auf der rechten Seite der Registerkarte erscheint nun eine zusätzliche Leiste.
 
-1. Für die Berechnung der Halbjahresendnoten, die auf das Zeugnis übergeben werden, werden die Noten der Fächer aus dem Feld "Durchschnitt" herangezogen.
-2. Für die automatische Berechnung der Gesamtnote für den Fachtheorie- und Fachpraxisunterricht werden die Noten der Fächer mit der Unterrichtsart "FachT" und "FachP" im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt" herangezogen.
-
-![Schüler > Zeugnis > Leistungen](..\assets\images\IBA\IBA08.png)
+1. Für die Berechnung der Jahresendnoten, die auf das Zeugnis übergeben werden, werden die Noten der Fächer aus dem Feld "Durchschnitt" aus dem 1. Halbjahr und dem 2. Halbjahr des Schülers herangezogen.
+2. Für die automatische Berechnung der Gesamtnote für den Fachtheorie- und Fachpraxisunterricht werden die Noten der Fächer mit der Unterrichtsart "FachT" und "FachP" im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt" aus dem 1. Halbjahr und dem 2. Halbjahr des Schülers herangezogen.
 
 ### Gesamtnotenberechnung durchführen
 
-Im Feld "Prüfungsverordnung" wählen Sie über das Drop Down Menü die vorab im `Schlüsselverzeichnis > Verordnungen` definierte Prüfungsverordnung aus.(basierend auf dem Skript *BER-IBA-HJ-2020.dws*) 
+Im Feld "Prüfungsverordnung" wählen Sie über das Drop Down Menü die vorab im `Schlüsselverzeichnis > Verordnungen` definierte Prüfungsverordnung aus.(basierend auf dem Skript *BER-IBA-AS-2020.dws*) 
  
 Im Feld "Status" wählen Sie `Abschluss berechnen`. Die Berechnung gemäß Skript stoßen Sie über die Schaltfläche `Neu berechnen` an. 
 
@@ -104,10 +100,11 @@ Durch die Berechnung werden automatisch folgende Felder befüllt:
 | Feld | Note für...     |
 |--------|-----------
 Endnote | Endoten der Fächer mit dem Fachstatus "FachT", "FachP" und "BÜ" sowie Fächer mit dem Fachstatus "Wahlb"
-Durchschnitt 1 | Fachtheorie - gesamt|
-Durchschnitt 2 | Fachtpraxis - gesamt|
+Endnote (Gesamt) | Jahresendoten der Fächer mit dem Fachstatus "FachT", "FachP" und "BÜ" sowie Fächer mit dem Fachstatus "Wahlb"
+Durchschnitt 1 | Endnote (Jahresnotendurchschnitt) des Teilbereiches Fachtheorie|
+Durchschnitt 2 | Endnote (Jahresnotendurchschnitt) des Teilbereiches Fachtpraxis|
 
-Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsgang für das 1. Halbjahr in Berlin. Sie sehen die Voreinstellungen und die Werte, die durch das Skript berechnet werden.
+Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsgang für das 2. Halbjahr in Berlin. Sie sehen die Voreinstellungen und die Werte, die durch das Skript berechnet werden.
 
 ![Berechnung](..\assets\images\IBA\IBA09.png)
 
@@ -140,6 +137,28 @@ Sollte dies beim Schüler zutreffen, legen Sie im `Schlüsselverzeichnis > Fäch
 Weisen Sie dieses Fach im Menü `Schüler > Zeugnis > Fächer` anstelle des zugewiesenen Lernfeldes zu. Beachten Sie, dass Sie diesem  Qualifizierungsbaustein im Feld "Unterrichtart" entweder "FachT" oder "FachP" zuweisen.
 
 Anstelle des Lernfeldes wird nun der Qualifizierungsbaustein auf dem Zeugnis ausgegeben.
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal`
+
+Ihre Lernfelder erfassen Sie im  `Schlüsselverzeichnisse > Fächer`. Im Feld "Bezeichnung" tragen Sie die Lernfeldbezeichnung ein. Die Lernfeldnummer geben Sie bitte im Feld "Zeugnismerkmal" (Merkmal) ein.
+
+Kürzel | Schlüssel | Bezeichnung | Merkmal
+--|--|--|--
+beliebig | beliebig | Sich im Berufsfeld orientieren | LF1
+
+Der Bericht liest den Eintrag aus Feld "Merkmal" aus und setzt dahinter die Fachbezeichnung aus Feld "Bezeichnung".
+
+## Betriebliche Lernaufgabe - Endnote
+
+Um für die "Betriebliche Lernaufgabe - Endnote" die "Gesamtstunden" und eine "Note" auf dem Zeugnis ausgeben zu können, legen Sie bitte ein Fach für diese "Betriebliche Lernaufgabe" im `Schlüsselverzeichnis > Fächer` mit folgendem Kürzel an:
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+BLE | leer | beliebig
+
+Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Zeugnis > Fächer` zu. Tragen Sie im Feld "Faktor" die "Gesamtstunden" ein. Die Endnote erfassen Sie für dieses Fach im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote (Gesamt)".
+
+![Fach für die Betriebliche Lernaufgabe anlegen, um Endnote ausgeben zu können](..\assets\images\IBA\IBA17.png)
 
 ### Betriebspraktikum 1./2. oder 3. bestanden/nicht bestanden
 

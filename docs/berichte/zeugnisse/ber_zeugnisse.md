@@ -8,7 +8,7 @@ Schul Z 590 – Zeugnis der Integrierten Berufsausbildungsvorbereitung (Vollzeit
 
 Schul Z 591 – Abschlusszeugnis der Integrierten Berufsausbildungsvorbereitung (Vollzeit) – (4 Seiten) – (03.20)
 
-**A0002**	`Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
+**A0002**	`Klassen > Daten > Beurteilungsart > Noten`
 
 Im Menü `Klassen > Daten` muss bei der Klasse des Schülers iim Feld Beurteilungsart "Noten" angegeben sein. (hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung)"
 
@@ -30,7 +30,7 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schül
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im `Schlüsselverzeichnis > Fachtafeln` die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-Kürzel | Schlüssel | Bezeichnung	
+Kürzel | Schlüssel | Bezeichnung
 --|--|--
 BÜ |  BÜ |  Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)
 FachT | FachT | Fachtheoretischer Bereich (Unterricht)
@@ -72,7 +72,7 @@ Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem 
 Kürzel | Bezeichnung | Notenart
 --|--|--
 beliebig | beliebig | Füllwerte
-oB | ohne Bewertung | Füllwerte"
+oB | ohne Bewertung | Füllwerte
 
 **A0206**	`Schüler > Zeugnis > Fächer > Faktor`
 
@@ -246,6 +246,14 @@ Kürzel | Schlüssel | Bezeichnung
 BLE | leer | beliebig
 
 Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Zeugnis > Fächer` zu. Tragen Sie im Feld "Faktor" die "Gesamtstunden" ein. Die Endnote erfassen Sie für dieses Fach im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote (Gesamt)".
+
+**A0899** `Sonstiges`
+
+Die Endnoten (Jahresnotendurchschnitte) der Teilbereiche Fachtheorie und Fachpraxis werden als Mittelwert aus den 	Halbjahresnotendurchschnitten 	gemäß Anlage 4 Abschnitt B der Verordnung über die Integrierte Berufsausbildungsvorbereitung gebildet.
+
+**A0900** `Sonstiges`
+
+Die Durchschnittsnote im Abschlusszeugnis des Bildungsgangs Integrierte Berufsausbildungsvorbereitung wird gemäß § 24 und Anlage 5 der Verordnung über die Integrierte Berufsausbildungsvorbereitung gebildet.
 
 ##  BER-Schul Z 592 (2019.2020).rpt
 
