@@ -198,3 +198,21 @@ Eintrag für | Eingabe wie folgt
 Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die auch benotet wird, dem 1./2./3 Betriebspraktikum zuordnen. Zudem wird ein Bezug des Betriebspraktikums zum 1. Halbjahr bzw. 2. Halbjahr hergestellt.
 
 ![Vertragsnummer des Betriebspraktikums](..\assets\images\IBA\IBA04.png)
+
+###  Prüfungsfächer - Präsentationsprüfung
+
+Für die Ausgabe des Faches der Präsentationsprüfung weisen Sie diesem Fach im Menü `Schüler > Zeugnis > Fächer` im Feld "Fachstatus" den Eintrag "4PF" zu. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
+
+Kürzel | Schlüssel | Zeugnisbereich
+--|--|--
+4PF | 4PF |  4. Prüfungsfach
+
+Die Noten der Präsentationsprüfung erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` in folgenden Feldern:
+
+Spalte | Note für..
+--|--
+Zusatz Note 1 | Gesamtnote
+Schriftl. Note 1 | Präsentationsprüfung
+Mündl. Note | ggf. zusätzliche mündliche Prüfung
+
+Das Thema der Präsentationsprüfung erfassen Sie im Menü `Schüler > Zeugnis > Leistungen`im Feld "Beurteilungstexte".
