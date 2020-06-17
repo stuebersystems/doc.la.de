@@ -125,8 +125,6 @@ Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsga
 
 ### Fächer des berufsfeldebezogenen Unterrichts (Lernfelder) anlegen
 
-`Extras > Schlüsselverzeichnisse > Fächer > Merkmal`
-
 Ihre Lernfelder erfassen Sie im  `Schlüsselverzeichnisse > Fächer`. Im Feld "Bezeichnung" tragen Sie die Lernfeldbezeichnung ein. Die Lernfeldnummer geben Sie bitte im Feld "Zeugnismerkmal" (Merkmal) ein.
 
 Kürzel | Schlüssel | Bezeichnung | Merkmal

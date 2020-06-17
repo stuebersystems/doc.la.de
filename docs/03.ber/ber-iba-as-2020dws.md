@@ -142,7 +142,7 @@ Weisen Sie dieses Fach im Menü `Schüler > Zeugnis > Fächer` anstelle des zuge
 
 Anstelle des Lernfeldes wird nun der Qualifizierungsbaustein auf dem Zeugnis ausgegeben.
 
-`Extras > Schlüsselverzeichnisse > Fächer > Merkmal`
+### Fächer des berufsfeldebezogenen Unterrichts (Lernfelder) anlegen
 
 Ihre Lernfelder erfassen Sie im  `Schlüsselverzeichnisse > Fächer`. Im Feld "Bezeichnung" tragen Sie die Lernfeldbezeichnung ein. Die Lernfeldnummer geben Sie bitte im Feld "Zeugnismerkmal" (Merkmal) ein.
 
