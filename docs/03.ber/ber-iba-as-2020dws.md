@@ -152,7 +152,7 @@ beliebig | beliebig | Sich im Berufsfeld orientieren | LF1
 
 Der Bericht liest den Eintrag aus Feld "Merkmal" aus und setzt dahinter die Fachbezeichnung aus Feld "Bezeichnung".
 
-## Betriebliche Lernaufgabe - Endnote
+### Betriebliche Lernaufgabe - Endnote
 
 Um für die "Betriebliche Lernaufgabe - Endnote" die "Gesamtstunden" und eine "Note" auf dem Zeugnis ausgeben zu können, legen Sie bitte ein Fach für diese "Betriebliche Lernaufgabe" im `Schlüsselverzeichnis > Fächer` mit folgendem Kürzel an:
 
