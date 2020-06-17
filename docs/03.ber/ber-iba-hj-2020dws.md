@@ -162,7 +162,7 @@ Eintrag für | Eingabe wie folgt
 --|--
 1. Praktikum | LA1HJ1 
 2. Praktikum | LA2HJ1 oder LA2HJ2
-3. Praktikum | LA3HJ2
+3. Praktikum | LA3
 
 Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die auch benotet wird, dem 1./2./3 Betriebspraktikum zuordnen. Zudem wird ein Bezug des Betriebspraktikums zum 1. Halbjahr bzw. 2. Halbjahr hergestellt.
 
