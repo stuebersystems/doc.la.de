@@ -1,5 +1,9 @@
 # BER-IBA-HJ-2020.dws
 
+Grundlage: Verordnung über die Integrierte Berufsausbildungsvorbereitung IBA-VO vom 22.07.2019
+
+*Letzte Änderung: 12.06.2020*
+
 Mit Hilfe des Berechnungsskriptes _BER-IBA-HJ-2020.dws_ können Sie für den Bildungsgang **Integrierte Berufsausbildungsvorbereitung**  die Gesamtnote der Fachtheorie und Fachpraxis für das aktuelle Halbjahr für den Berufsfeldbezogenen Unterricht berechnen lassen.
 
 Die Gesamtnote der Fachtheorie und Fachpraxis errechnet sich aus den gewichteten Halbjahresnotendurchschnitten der jeweiligen Lernfeldnoten gemäß der Verordnung über die Integrierte Berufsausbildungsvorbereitung Anlage 4 Abschnitt B.
