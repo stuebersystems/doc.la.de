@@ -40,7 +40,7 @@ Bitte legen Sie unter `Schlüsselverzeichnisse > Verordnungen` eine neue Zeile a
 
     Das Skript BER-IBA-AS-2020.dws wird im Menü `Schüler > Zeugnis > Leistungen` ausgeführt und muss im `Schlüsselverzeichnis > Verordnung` mit der Kategorie „Versetzung“ angelegt werden.
 
-![Geben Sie hier die Berechnungsverordnung mit der Kategorie „Versetzung“ ein.](..\assets\images\IBA\IBA15.png)
+![Geben Sie hier die Berechnungsverordnung mit der Kategorie „Versetzung“ ein.](\assets\images\IBA\IBA15.png)
 
 ### 2. Fächer der Schüler eingeben
 
@@ -84,7 +84,7 @@ Weisen Sie diese Fächer ebenfalls im Menü `Schüler > Zeugnis > Fächer` dem S
 
 Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt". Dieses Feld ermöglicht Noten als Kommawert (Beispiel 1,4) zu erfassen.
 
-![Schüler > Zeugnis > Leistungen](..\assets\images\IBA\IBA16.png)
+![Schüler > Zeugnis > Leistungen](\assets\images\IBA\IBA16.png)
 
 !!! warning "Wichtig"
 
@@ -110,13 +110,13 @@ Durchschnitt 2 | Endnote (Jahresnotendurchschnitt) des Teilbereiches Fachtpraxis
 
 Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsgang für das 2. Halbjahr in Berlin. Sie sehen die Voreinstellungen und die Werte, die durch das Skript berechnet werden.
 
-![Berechnung](..\assets\images\IBA\IBA09.png)
+![Berechnung](\assets\images\IBA\IBA09.png)
 
 !!! info "Hinweis"
 
    Die berechnete "Endnote" kann jederzeit manuell im Feld "Endnote" geändert werden. Durch erneutes Ausführen des Berechnungsskriptes wird diese Note nicht mehr überschrieben, das Skript gibt Ihnen im Meldefenster den Hinweis "Endnote für "Fach XY" manuell eingegeben (berechneter Wert wäre 2)".
 
-![Meldefenster nach Notenänderung im Feld "Endnote" und erneuter Berechnung durch das Skript](..\assets\images\IBA\IBA10.png)
+![Meldefenster nach Notenänderung im Feld "Endnote" und erneuter Berechnung durch das Skript](\assets\images\IBA\IBA10.png)
 
 ## Sonstiges für den Zeugnisdruck
 
@@ -162,7 +162,7 @@ BLE | leer | beliebig
 
 Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Zeugnis > Fächer` zu. Tragen Sie im Feld "Faktor" die "Gesamtstunden" ein. Die Endnote erfassen Sie für dieses Fach im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote (Gesamt)".
 
-![Fach für die Betriebliche Lernaufgabe anlegen, um Endnote ausgeben zu können](..\assets\images\IBA\IBA17.png)
+![Fach für die Betriebliche Lernaufgabe anlegen, um Endnote ausgeben zu können](\assets\images\IBA\IBA17.png)
 
 ### Betriebspraktikum 1./2. oder 3. bestanden/nicht bestanden
 
@@ -199,7 +199,7 @@ Eintrag für | Eingabe wie folgt
 
 Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die auch benotet wird, dem 1./2./3 Betriebspraktikum zuordnen. Zudem wird ein Bezug des Betriebspraktikums zum 1. Halbjahr bzw. 2. Halbjahr hergestellt.
 
-![Vertragsnummer des Betriebspraktikums](..\assets\images\IBA\IBA04.png)
+![Vertragsnummer des Betriebspraktikums](\assets\images\IBA\IBA04.png)
 
 ###  Prüfungsfächer - Präsentationsprüfung
 
