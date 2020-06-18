@@ -1501,7 +1501,7 @@ BFS Textil | leer | Berufsfachschule für Textiltechnik und Bekleidung | Merkmal
 Um eine zeitraumübergreifenden Endnotenberechnung der Berufsfachschule in MAGELLAN auszuführen, lesen Sie bitte unsere Onlinedokumentation:
 
 https://doc.la.stueber.de/berufsschule/
-https://doc.la.stueber.de/03.ber/ber-bfs-matrix-2016dws.md
+https://doc.la.stueber.de/03.ber/ber-bfs-matrix-2016dws
 
 **A0870**	`Schlüsselverzeichnisse > Zeugnisformulare`
 

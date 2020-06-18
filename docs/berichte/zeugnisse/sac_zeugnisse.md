@@ -1820,7 +1820,7 @@ Platzhalter | Ausgabe im Bericht
 ``<<Anrede4>>`` | ihm/ihr (je nach Geschlecht des Schülers)
 ``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
-## B-Zeugnisse
+## B-Zeugnisse (Berufsfachschule)
 
 ### SAC-BF-AS (B.01.03).rpt
 
@@ -5082,7 +5082,7 @@ Nzug | leer | Wiederholer (zur Abschlussprüfung nicht zugelassen)
 Whmögl | leer | Wiederholung möglich
 Whnmögl | leer  | Wiederholung nicht möglich
 
-## D-Zeugnisse
+## D-Zeugnisse (Fachoberschule)
 
 ### SAC-FOS-AZ (D.01.03).rpt
 
@@ -5500,7 +5500,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>>`` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 ``<<DemSchueler_DerSchuelerin>>`` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-## E-Zeugnisse
+## E-Zeugnisse (Berufliche Gymnasium)
 
 ### SAC-BG-ABI (E.01.06).rpt
 
@@ -6404,7 +6404,7 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers de
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers die Klassenstufe auf der Registerkarte `Zeiträume > Zeitraum` im Feld "Klassenstufe" eingetragen sein.
 
-## F-Zeugnisse
+## F-Zeugnisse (Bescheinigungen)
 
 ### SAC-Zertifikat (F.01.09).rpt
 
