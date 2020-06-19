@@ -620,7 +620,6 @@ Bitte lesen Sie dazu unsere Onlinedokumentation:
 
 https://doc.la.stueber.de/03.ber/ber-iba-as-2020dws/
 
-
 ## BER-Schul Z 593 (2019.2020).rpt
 
 Schul Z 593 – Zeugnis der Integrierten Berufsausbildungsvorbereitung über den mittleren Schulabschluss (Vollzeit) – (4 Seiten) (2019/2020)
@@ -727,7 +726,6 @@ Die Ausgabe Zeugnisbemerkungen wird durch den Eintrag im Menü `Schüler > Laufb
 Zeugnisbemerkungen:
 Das Zeugnis berechtigt / berechtigt nicht1) zum Übergang in die gymnasiale Oberstufe nach § 5 Verordnung über die gymnasiale Oberstufe (VO-GO in der jeweils gültigen Fassung).
 Das Zeugnis berechtigt / berechtigt nicht1) zum Übergang in die Fachoberschule nach § 4 Ausbildungs- und Prüfungsverordnung für die Fachoberschule (APO-FOS in der jeweils gültigen Fassung).
-
 
 Beachten Sie dabei die Tabelle und maßgeblich für das Auslesen der Zeugnisbemerkung ist das Feld "Kürzel" des jeweiligen Schlüsselverzeichnisses.
 
@@ -1959,7 +1957,7 @@ frei | Sport
 24 | frei  
 25 | frei
 
-HINWEIS: Weitere Sportfächer (Sport Theorie, Sport)** vergeben Sie bitte die Positionsnummer 24 oder 25.
+HINWEIS: Weitere Sportfächer (Sport Theorie, Sport) vergeben Sie bitte die Positionsnummer 24 oder 25.
 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
@@ -2253,7 +2251,7 @@ frei | Sport
 24 | frei  
 25 | frei
 
-HINWEIS: Weitere Sportfächer (Sport Theorie, Sport)** vergeben Sie bitte die Positionsnummer 24 oder 25.
+HINWEIS: Weitere Sportfächer (Sport Theorie, Sport) vergeben Sie bitte die Positionsnummer 24 oder 25.
 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
@@ -2288,16 +2286,9 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0019.38)** 
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 BU | BU | Fachbezogener / Berufsbezogener Lernbereich
-
-**(A0019.39)** 
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 GK | GK | Grundkurse
 
  **(A0190)** `Schüler > Zeugnis > Fächer > Position`
@@ -2319,7 +2310,6 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -2387,20 +2377,16 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0019.16)** 
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 BU | BU | Fachbezogener / Berufsbezogener Lernbereich
 BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 WahlPF | WahlPF | Wahlpflicht
 
-**(A0198)** Schüler > Zeugnis > Leistungen > Durchschnitt einblenden
+**(A0198)** `Schüler > Zeugnis > Leistungen > Durchschnitt einblenden`
 
 Der Gesamtdurchschnitt wird wie folgt ermittelt.
+
 1. Bleibt das Feld "Durchschnitt 1" leer (Menü Schüler > Zeugnis > Leistungen Feld "Durchschnitt 1"), so wird der Durchschnitt gemäß Prüfungsvorschrift automatisch im Bericht berechnet.
 2. Bleibt das Feld "Durchschnitt 1" nicht leer (Menü Schüler > Zeugnis > Leistungen Feld "Durchschnitt 1"), so wird der eingetragene Durchschnitt ausgegeben.
 
@@ -3455,7 +3441,6 @@ Kürzel | Schlüssel | Bezeichnung
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
-
 Aufgabenbereich| Zeugnisbereich
 --|--
 sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfeld
@@ -4141,8 +4126,6 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 **(A0099)** `Schlüsselverzeichnis > Zeiträume > Art`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Art". Tragen Sie den von und bis Zeitraum unter "Von" und "Bis" ein.
-
-
 
 Schul Z 502d
 
@@ -5720,7 +5703,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 1PF | 1PF | 1. Prüfungsfach
@@ -6527,13 +6509,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 ME | ME | Musik Ensemble
 
 **(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
@@ -6675,13 +6651,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 ME | ME | Musik Ensemble
 
 **(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
@@ -6692,7 +6662,7 @@ Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis"
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0071.)** Ausdruck
+**(A0071.)** `Ausdruck`
 
 Wird ein Schüler "Gem. § 42 (1. und (2. VO-GO von der mündlichen Prüfung ausgeschlossen", muss dies nach Druckfertigstellung manuell in dem vorgesehenen Feld angekreuzt werden.
 
@@ -6704,7 +6674,7 @@ Fächerwahl - Zeilen Nr. - Für die Ausgabe der Fächerwahl (Zeile Nr.) gemäß 
 
 Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden.  
 
-**(A0074)** Abitur > Prüfung > schriftliche Note
+**(A0074)** `Abitur > Prüfung > schriftliche Note`
 
 Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im Feld "schriftliche Note" abändern.
 
@@ -6781,13 +6751,13 @@ Falls die Besondere Lernleistung nicht eines der Prüfungsfächer 1.-4. ist, wei
 
 **(A0796)** `Schlüsselverzeichnisse > Verordnungen > Typ (G8 oder G9)`
 
-Bericht ist für G8 und G9 ausgelegt - Das Zeugnis kann sowohl für G8 als auch G9 genutzt werden. Entscheidend für die Berechnung und den Druck ist der Eintrag im Schlüsselverzeichnis > Verordnungen im Feld "Typ". Für "G8" tragen Sie bitte "G8" ein, für "G9" tragen Sie bitte "G9"
+Bericht ist für G8 und G9 ausgelegt - Das Zeugnis kann sowohl für G8 als auch G9 genutzt werden. Entscheidend für die Berechnung und den Druck ist der Eintrag im `Schlüsselverzeichnis > Verordnungen` im Feld "Typ". Für "G8" tragen Sie bitte "G8" ein, für "G9" tragen Sie bitte "G9"
 
 **(A0797)** `Schlüsselverzeichnis > Abschlussjahrgänge`
 
-Die Ausgabe des Eintrittsjahres in die E-Phase (ISS, berufl.Gymn)** oder Q-Phase (Gymn, ggf. ISS)** erfolgt aufgrund der Datumsangabe unter Schlüsselverzeichnisse > Abschlussjahrgänge im Feld "von". Ausgegeben wird hierbei nur die Jahreszahl.
+Die Ausgabe des Eintrittsjahres in die E-Phase (ISS, berufl.Gymn)** oder Q-Phase (Gymn, ggf. ISS)** erfolgt aufgrund der Datumsangabe unter `Schlüsselverzeichnisse > Abschlussjahrgänge` im Feld "von". Ausgegeben wird hierbei nur die Jahreszahl.
 
-Bsp. für Ausgabe Eintrittsjahe "2015"
+Bsp. für Ausgabe Eintrittsjahr "2015"
 
 Kürzel | Bezeichnung | von | bis | Kategorie
 --|--|--|--|--
@@ -6830,19 +6800,8 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
-
- 
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 SK | SK | Seminarfach, Seminarkurs
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 ME | ME | Musik Ensemble
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
@@ -6878,9 +6837,9 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0164)** Schlüsselverzeichnis > Fächer
+**(A0164)** `Schlüsselverzeichnis > Fächer`
 
-Um den Seminarkurs auszugeben, legen Sie unter Schlüsselverzeichnis > Fächer ein Fach mit dem Schlüssel "SK" an. Wichtig ist, dass diesem Fach kein Aufgabenbereich zugeordnet wird. Die Benotung erfolgt analog zu den anderen Fächern.
+Um den Seminarkurs auszugeben, legen Sie unter `Schlüsselverzeichnis > Fächer` ein Fach mit dem Schlüssel "SK" an. Wichtig ist, dass diesem Fach kein Aufgabenbereich zugeordnet wird. Die Benotung erfolgt analog zu den anderen Fächern.
 
 **(A0163.)** `Abitur > Qualifikation`
 
@@ -6891,6 +6850,7 @@ Gehen Sie jeweils wie folgt vor:
 --|--
 Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü` Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.<br/><br/> Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
 Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren. <br/><br/>Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu (`Abitur > Prüfung > Lernleistung`), die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
+
 **(A0377)** `Schüler > Zeugnis > Fächer > Position`
 
 Damit die Fächer gemäß der Zeugnisvorlage ausgegeben werden, müssen die Fächer des Schülers die folgenden Fachbezeichnungen, Fachschlüssel oder Positionsnummern erhalten. Bei nicht vergebenen Fächern, werden nur die jeweiligen Fächer angezeigt, die Notenfelder auf dem Zeugnis werden jedoch entwertet. Damit Noten und Fächer korrekt ausgegeben werden achten Sie bitte darauf, dass die Fächer die richtigen Fachbezeichnungen, Fachschlüssel oder Positionsnummern lt. Vorgabe erhalten, da den Fächern sonst falsche Noten zugeordnet werden können. Frei belegbare Fächer müssen die entsprechende Position haben, fixe Fächer dürfen nicht identische Positionen mit frei belegbaren Fächern aufweisen und müssen die jeweilige Fachbezeichnung oder den entsprechenden Fachschlüssel beinhalten. 
@@ -6924,7 +6884,7 @@ frei | Sport
 24 | frei  
 25 | frei
 
-HINWEIS: Weitere Sportfächer (Sport Theorie, Sport)** vergeben Sie bitte die Positionsnummer 24 oder 25.
+HINWEIS: Weitere Sportfächer (Sport Theorie, Sport) vergeben Sie bitte die Positionsnummer 24 oder 25.
 
 ## BER-GY-ABI (Schul Z 306)(09.12).rpt
 
@@ -6970,13 +6930,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 ME | ME | Musik Ensemble
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
@@ -7041,7 +6995,7 @@ frei | Sport
 24 | frei  
 25 | frei
 
-HINWEIS: Weitere Sportfächer (Sport Theorie, Sport)** vergeben Sie bitte die Positionsnummer 24 oder 25.
+HINWEIS: Weitere Sportfächer (Sport Theorie, Sport) vergeben Sie bitte die Positionsnummer 24 oder 25.
 
 **(A0459)** `Schlüsselverzeichnisse > Fächer > Kategorie`
 
@@ -7151,13 +7105,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 ME | ME | Musik Ensemble
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
@@ -7485,13 +7433,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 ME | ME | Musik Ensemble
 
 **(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
@@ -8512,7 +8454,7 @@ frei | Sport
 24 | frei  
 25 | frei
 
-HINWEIS: Weitere Sportfächer (Sport Theorie, Sport)** vergeben Sie bitte die Positionsnummer 24 oder 25.
+HINWEIS: Weitere Sportfächer (Sport Theorie, Sport) vergeben Sie bitte die Positionsnummer 24 oder 25.
 
 **(A0419)** `Ausschluss mdl. Prüfung`
 
@@ -8848,7 +8790,7 @@ frei | Sport
 24 | frei  
 25 | frei
 
-HINWEIS: Weitere Sportfächer (Sport Theorie, Sport)** vergeben Sie bitte die Positionsnummer 24 oder 25.
+HINWEIS: Weitere Sportfächer (Sport Theorie, Sport) vergeben Sie bitte die Positionsnummer 24 oder 25.
 
 **(A0163.)** `Abitur > Qualifikation`
 
@@ -9160,10 +9102,6 @@ sprachl.-lit.-künstlerisch | 1. Aufgabenfeld
 gesellschaftswiss. | 2. Aufgabenfeld
 mathem.-nat.-technisch | 3. Aufgabenfeld
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
@@ -9274,7 +9212,7 @@ frei | Sport
 24 | frei  
 25 | frei
 
-HINWEIS: Weitere Sportfächer (Sport Theorie, Sport)** vergeben Sie bitte die Positionsnummer 24 oder 25.
+HINWEIS: Weitere Sportfächer (Sport Theorie, Sport) vergeben Sie bitte die Positionsnummer 24 oder 25.
 
 **(A0394)** 
 `Schlüsselverzeichnis > Zeiträume > Art` UND
@@ -11884,11 +11822,6 @@ Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflicht
-
-**(A0019.93. 
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 Wahl | Wahl | Wahlunterricht
 
 **(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
@@ -12040,12 +11973,6 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Weitere Fächer
 Religion | Weitere Fächer
-
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 **(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -12388,8 +12315,6 @@ Religion | Religion
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
- 
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -13651,13 +13576,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 Z | Z | Zusatz-/Ergänzungskurs
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
 ME | ME | Musik Ensemble
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
@@ -14825,7 +14744,6 @@ Kürzel | Schlüssel | Bezeichnung
 BU | BU | Fachbezogener / Berufsbezogener Lernbereich (Unterricht)
 BÜ |BÜ |Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)
 
-
 **(A0168)** `Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
@@ -14963,7 +14881,6 @@ Tragen Sie das Datum des Abschlusszeugnisses im Menü Berufsschule > Matrix im F
 
 Ist das Feld "2. Zugang am" im Menü Schüler > Daten 2 gefüllt, wird auf dem Zeugnis "2. Zugang am" und "2. Abgang am" ausgegeben, ansonsten "Zugang am" und "Abgang am".
 
-
 **(A0740)** `Mandanten > Daten > Name 2`
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
@@ -15083,7 +15000,6 @@ Kürzel | Bezeichnung | Notenart
 --|--|--
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
-
 
 **(A0740)**
 Tragen Sie Namenszusätze Ihrer Schule im Menü „Mandanten“ auf der Registerkarte „Daten 1“ im Feld „Name 2“ ein.
@@ -15251,7 +15167,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 Grundlage bildet das Schlüsselverzeichnis Unterrichtsarten. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im `Schlüsselverzeichnis > Fachtafeln` die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-
 Kürzel | Schlüssel | Bezeichnung 
 --|--|--
 BU | BU | Fachbezogener / Berufsbezogener Lernbereich (Unterricht)
@@ -15348,7 +15263,6 @@ BER-BFS-AZ| beliebig| beliebig (Bsp. BER-Schul Z 526 (09.19).rpt)
 Die Bezeichnungen BER-BFS-AS für das Abschlusszeugnis, BER-BFS-MSA für das Zusatzzeugnis Mittlerer Schulabschluss und BER-BFS-AZ für das Abgangszeugnis sind fest vorgegeben.
  
 ## (V6) BER-Schul Z 523 (09.19).rpt
-
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -15865,14 +15779,12 @@ Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeu
 
 **(A0168)** `Schlüsselverzeichnisse > Noten > Füllwerte`
 
-
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
 Kürzel | Bezeichnung | Notenart
 --|--|--
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
-
 
 **(A0045)** `Mandanten > Daten > Name 1`
 
@@ -15978,14 +15890,11 @@ Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugni
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-
 Kürzel | Schlüssel | Bezeichnung 
 --|--|--
 BU | BU | Fachbezogener / Berufsbezogener Lernbereich (Unterricht)
 BÜ |BÜ |Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)
 
-**(A0036)**
-`
 **(A0168)** `Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
@@ -15994,7 +15903,6 @@ Kürzel | Bezeichnung | Notenart
 --|--|--
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
-
 
 **(A0045)** `Mandanten > Daten > Name 1`
 
