@@ -119,8 +119,8 @@ Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsga
 
 !!! info "Hinweis"
 
-   Die eingetragenen Noten in Feld "Durchschnitt" können jederzeit geändert werden. Durch erneutes Ausführen des Berechnungsskriptes wird die Berechnung neu durchgeführt.
-   Die berechnete "Endnote (Gesamt)" kann manuell im Feld "Endnote (Gesamt)" geändert werden. Die Endnoten (gesamt) werden in das Abschlusszeugnis IBA, IBA mit MSA und IBA mit EBBR übergeben.
+    Die eingetragenen Noten in Feld "Durchschnitt" können jederzeit geändert werden. Durch erneutes Ausführen des Berechnungsskriptes wird die Berechnung neu durchgeführt.
+    Die berechnete "Endnote (Gesamt)" kann manuell im Feld "Endnote (Gesamt)" geändert werden. Die Endnoten (gesamt) werden in das Abschlusszeugnis IBA, IBA mit MSA und IBA mit EBBR übergeben.
 
 ## Sonstiges für den Zeugnisdruck
 
