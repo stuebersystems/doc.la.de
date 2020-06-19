@@ -12175,19 +12175,11 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0813)** `Schüler > Zeugnis > Details > Versäumnisse (1 oder 2)`
+**(A0906)** `Klassen > Merkmale > Merkmal S4`
 
-Spezialfälle - Zweitausfertigung:
-Bei Verlust eines Zeugnisses kann eine Zweitausfertigung erstellt werden.
-Zwei Fälle sind zu unterscheiden:
-1. Der ehemalige Klassenleiter ist noch an der Schule.
-2. Der ehemalige Klassenleiter ist nicht mehr an der Schule.
+Das Zeugnis kann sowohl für G8 als auch G9 genutzt werden.Tragen Sie im Menü  `Klasse > Merkmale` die im Feld „Merkmal S4“ für "G8"bitte "G8"  und für  "G9"bitte "G9" ein.
 
-Die Steuerung der Zweitausfertigung erfolgt im Menü Schüler > Zeugnis > Details im Feld „Versäumnisse“. Durch Eintrag einer „1“ wird der erste Fall und analog durch Eintrag einer „2“ der zweite Fall generiert.
-
-Automatisch erscheint bei den Zeugnisbemerkungen der Satz:
-„Diese Zweitausfertigung des Zeugnisses ist am . . . aufgrund der Zeugnisunterlagen der Schule als Ersatz für das zerstörte (abhanden gekommene)** Zeugnis ausgestellt worden."
-Das zu druckende Datum wird im Menü Schüler > Zeugnis > Details im Feld „Anrechnungsdatum“ eingetragen.
+Grundlage hierfür bildet das `Schlüsselverzeichnis > Klassenmerkmale`. Ergänzen Sie es um die Einträge "G8" und "G9".
 
 ## BER-Schul Z 302 (11.19).rpt
 
@@ -12282,8 +12274,8 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
 
-|Fächer > Kategorie|
-|--|
+|Fächer Kategorie|
+|--| 
 |Fremdsprache|
 |Religion|
 |Deutsch|
@@ -12349,20 +12341,11 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0813)** `Schüler > Zeugnis > Details > Versäumnisse (1 oder 2)`
+**(A0907)** `Klassen > Merkmale > Merkmal S4`
 
-Spezialfälle - Zweitausfertigung:
-Bei Verlust eines Zeugnisses kann eine Zweitausfertigung erstellt werden.
-Zwei Fälle sind zu unterscheiden:
+Das Zeugnis kann sowohl für G8 als auch G9 genutzt werden.Tragen Sie im Menü  `Klasse > Merkmale` die im Feld „Merkmal S4“ für "G8"bitte "G8"  und für  "G9"bitte "G9" ein.
 
-1. Der ehemalige Klassenleiter ist noch an der Schule.
-2. Der ehemalige Klassenleiter ist nicht mehr an der Schule.
-
-Die Steuerung der Zweitausfertigung erfolgt im Menü Schüler > Zeugnis > Details im Feld „Versäumnisse“. Durch Eintrag einer „1“ wird der erste Fall und analog durch Eintrag einer „2“ der zweite Fall generiert.
-
-Automatisch erscheint bei den Zeugnisbemerkungen der Satz:
-„Diese Zweitausfertigung des Zeugnisses ist am . . . aufgrund der Zeugnisunterlagen der Schule als Ersatz für das zerstörte (abhanden gekommene)** Zeugnis ausgestellt worden."
-Das zu druckende Datum wird im Menü Schüler > Zeugnis > Details im Feld „Anrechnungsdatum“ eingetragen.
+Grundlage hierfür bildet das `Schlüsselverzeichnis > Klassenmerkmale`. Ergänzen Sie es um die Einträge "G8" und "G9".
 
 ## BER-Schul Z 302 (12.07).rpt
 
