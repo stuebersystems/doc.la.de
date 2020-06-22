@@ -788,14 +788,15 @@ Zeugnisbemerkungen:
 Das Zeugnis berechtigt / berechtigt nicht1) zum Übergang in die gymnasiale Oberstufe nach § 5 Verordnung über die gymnasiale Oberstufe (VO-GO in der jeweils gültigen Fassung).
 Das Zeugnis berechtigt / berechtigt nicht1) zum Übergang in die Fachoberschule nach § 4 Ausbildungs- und Prüfungsverordnung für die Fachoberschule (APO-FOS in der jeweils gültigen Fassung).
 
+
 Beachten Sie dabei die Tabelle und maßgeblich für das Auslesen der Zeugnisbemerkung ist das Feld "Kürzel" des jeweiligen Schlüsselverzeichnisses.
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
 leer | leer | Nicht berechtigt für beide Übergänge
-ÜGOS | leer | Mit Übergang Gymnasiale Oberstufe
-ÜFOS | leer | Mit Übergang Fachoberschule
-ÜGFOS | leer | Mit Übergang Gymnasiale Oberstufe und Übergang Fachoberschule"
+ÜGOS | leer | Mit Übergang Gymnasiale Oberstufe / Ohne Übergang Fachoberschule
+ÜFOS | leer | Mit Übergang Fachoberschule / Ohne Übergang Gymnasiale Oberstufe
+ÜGFOS | leer | Mit Übergang Gymnasiale Oberstufe und Übergang Fachoberschule
 
 **A0896** `Schüler > Zeugnis > Leistungen`
 
