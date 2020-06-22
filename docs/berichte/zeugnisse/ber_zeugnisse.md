@@ -664,6 +664,10 @@ https://doc.la.stueber.de/03.ber/ber-iba-as-2020dws/
 
 Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Schüler > Zeugnis > Zeugnisdetails` gezogen.
 
+**A0912** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal >EBBR`
+
+Zeugnisbemerkungen, die nur auf dem MSA Zeugnis ausgegeben werden sollen, weisen Sie Menü `Schüler > Zeugnis > Bemerkungen/Formulare` bei der Bemerkung das Merkmal "EBBR" zu.
+
 ## BER-Schul Z 593 (2019.2020).rpt
 
 Schul Z 593 – Zeugnis der Integrierten Berufsausbildungsvorbereitung über den mittleren Schulabschluss (Vollzeit) – (4 Seiten) (2019/2020)
@@ -849,6 +853,10 @@ https://doc.la.stueber.de/03.ber/ber-iba-as-2020dws/
 **A0910** `Schüler > Zeugnis > Zeugnisdetails > Zeugnisdatum`
 
 Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Schüler > Zeugnis > Zeugnisdetails` gezogen.
+
+**A0911** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal > MSA`
+
+Zeugnisbemerkungen, die nur auf dem MSA Zeugnis ausgegeben werden sollen, weisen Sie Menü `Schüler > Zeugnis > Bemerkungen/Formulare` bei der Bemerkung das Merkmal "MSA" zu.
 
 ## BER-Schul Z 594 (12.19).rpt
 
