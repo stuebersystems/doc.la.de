@@ -84,13 +84,13 @@ Weisen Sie diese Fächer ebenfalls im Menü `Schüler > Zeugnis > Fächer` dem S
 
 #### 3. Noten der Fächer eingeben
 
-Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt". Dieses Feld ermöglicht Noten als Kommawert (Beispiel 1,4) zu erfassen.
+Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt". Dieses Feld ermöglicht Noten als Kommawert (Beispiel 1,4) zu erfassen. Fächer, für die es keine Bewertung gibt, also *ohne Bewertung* sind, weisen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" den Füllwert "o.B." zu.
 
 ![Schüler > Zeugnis > Leistungen](/assets/images/IBA/IBA07.png)
 
 !!! info "Hinweis"
 
-    Das Berechnungsskript kann auch Füllwerte verarbeiten. Dazu zählt Folgendes: o.B. + o.B. = o.B., o.B. + Note = Note.
+    Das Berechnungsskript kann auch Füllwerte verarbeiten. Dazu zählt Folgendes: o.B. = o.B..
     Ist der gebildete Durchschnitt bei Fachtheorie bzw. Fachpraxis des berufsfeldbezogenen Unterrichts im Ergebnis "o.B.", so wird im Durchschnitt eine "0" gespeichert.
 
 !!! warning "Wichtig"
