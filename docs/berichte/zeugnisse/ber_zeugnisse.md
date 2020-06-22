@@ -6059,11 +6059,6 @@ Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werde
 Merkmal | Bedeutung
 --|--
 AG | Teilnahme an folgenden Arbeitsgemeinschaften
-
-**(A0021)** 32. 
-
-Merkmal | Bedeutung
---|--
 PROGNOSE | Text für Abschlussprognose
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
@@ -6180,11 +6175,6 @@ Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werde
 Merkmal | Bedeutung
 --|--
 AG | Teilnahme an folgenden Arbeitsgemeinschaften
-
-**(A0021)** 32. 
-
-Merkmal | Bedeutung
---|--
 PROGNOSE | Text für Abschlussprognose
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
@@ -10740,10 +10730,17 @@ AG | Teilnahme an folgenden Arbeitsgemeinschaften
 
 **(A0021)** `Beiblatt`
 
-Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses: ? ja ? nein1)." wird wie folgt gesteuert:
+Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
+
+☐ ja
+
+☐ nein
+
+1)." wird wie folgt gesteuert:
 
 Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
-Liegt dieses Merkmal nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
+
+Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -11461,7 +11458,7 @@ Spalte 2 (rechts)| hier erscheinen untereinander zunächst die Fächer des „Wa
 
 ## BER-Schul Z 300 (11.19).rpt
 
-Schul Z 300 – Zeugnis der Einführungsphase der gymnasialen Oberstufe (ISS, Gemeinschaftsschule, berufliches Gymnasium)** - (11.19)
+Schul Z 300 – Zeugnis der Einführungsphase der gymnasialen Oberstufe (ISS, Gemeinschaftsschule, berufliches Gymnasium) - (11.19)
 
 **(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
@@ -11488,10 +11485,19 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021)** `Beiblatt`Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620)** ist Bestandteil dieses Zeugnisses: ? ja ? nein1)." wird wie folgt gesteuert:
+**(A0021)** `Beiblatt`
 
-Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620)** ist Bestandteil dieses Zeugnisses.”
-Liegt dieses Merkmal nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620)** ist nicht Bestandteil dieses Zeugnisses.”
+Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
+
+☐ ja
+
+☐ nein
+
+1)." wird wie folgt gesteuert:
+
+Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
+
+Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -11688,7 +11694,7 @@ Der Bericht setzt die Fächer entsprechend dieser Nummerierung auf zwei Spalten 
 
 ## BER-Schul Z 301 (11.18).rpt
 
-Schul Z 301 – Abgangszeugnis der Einführungsphase der gymnasialen Oberstufe (ISS, Gemeinschaftsschule, berufliches Gymnasium)** – (11.18)
+Schul Z 301 – Abgangszeugnis der Einführungsphase der gymnasialen Oberstufe (ISS, Gemeinschaftsschule, berufliches Gymnasium) – (11.18)
 
 **(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -11819,7 +11825,7 @@ Spalte 2 (rechts)** - hier erscheinen untereinander zunächst die Fächer des �
 
 ## BER-Schul Z 301 (11.19).rpt
 
-Schul Z 301 – Abgangszeugnis der Einführungsphase der gymnasialen Oberstufe (ISS, Gemeinschaftsschule, berufliches Gymnasium)** – (11.19)
+Schul Z 301 – Abgangszeugnis der Einführungsphase der gymnasialen Oberstufe (ISS, Gemeinschaftsschule, berufliches Gymnasium) – (11.19)
 
 **(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -11844,10 +11850,17 @@ Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werde
 
 **(A0021)** `Beiblatt`
 
-Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620)** ist Bestandteil dieses Zeugnisses: ? ja ? nein1)." wird wie folgt gesteuert:
+Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
 
-Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620)** ist Bestandteil dieses Zeugnisses.”
-Liegt dieses Merkmal nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620)** ist nicht Bestandteil dieses Zeugnisses.”
+☐ ja
+
+☐ nein
+
+1)." wird wie folgt gesteuert:
+
+Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
+
+Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -11964,7 +11977,7 @@ Spalte 2 (rechts)** - hier erscheinen untereinander zunächst die Fächer des �
 
 ## BER-Schul Z 302 (10.18).rpt
 
-Schul Z 302 – Zeugnis der Qualifikationsphase der gymnasialen Oberstufe (Gymnasium, ISS, Gemeinschaftsschule, berufliches Gymnasium)** – (10.18)
+Schul Z 302 – Zeugnis der Qualifikationsphase der gymnasialen Oberstufe (Gymnasium, ISS, Gemeinschaftsschule, berufliches Gymnasium) – (10.18)
 
 **(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
@@ -12118,7 +12131,7 @@ Grundlage hierfür bildet das `Schlüsselverzeichnis > Klassenmerkmale`. Ergänz
 
 ## BER-Schul Z 302 (11.19).rpt
 
-Schul Z 302 - Zeugnis der Qualifikationsphase der gymnasialen Oberstufe (Gymnasium, ISS, Gemeinschaftsschule, berufliches Gymnasium)** – (11.19)
+Schul Z 302 - Zeugnis der Qualifikationsphase der gymnasialen Oberstufe (Gymnasium, ISS, Gemeinschaftsschule, berufliches Gymnasium) – (11.19)
 
 **(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
@@ -12153,10 +12166,19 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021)** `Beiblatt`Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620)** ist Bestandteil dieses Zeugnisses: ? ja ? nein1)." wird wie folgt gesteuert:
+**(A0021)** `Beiblatt`
 
-Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620)** ist Bestandteil dieses Zeugnisses.”
-Liegt dieses Merkmal nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620)** ist nicht Bestandteil dieses Zeugnisses.”
+Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
+
+☐ ja
+
+☐ nein
+
+1)." wird wie folgt gesteuert:
+
+Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
+
+Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
 
 **(A0045)** `Mandanten > Daten > Name 1`
 
@@ -12540,7 +12562,7 @@ Der Bericht setzt die Fächer entsprechend dieser Nummerierung auf zwei Spalten 
 
 ## BER-Schul Z 303 (10.18).rpt
 
-Schul Z 303 - Abgangszeugnis der Qualifikationsphase (Gymnasium, ISS, Gemeinschaftsschule, berufliches Gymnasium)** – (10.18)
+Schul Z 303 - Abgangszeugnis der Qualifikationsphase (Gymnasium, ISS, Gemeinschaftsschule, berufliches Gymnasium) – (10.18)
 
 **(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
@@ -12687,7 +12709,7 @@ Der Bericht setzt die Fächer entsprechend dieser Nummerierung auf zwei Spalten 
 
 ## BER-Schul Z 303 (11.19).rpt
 
-Schul Z 303 - Abgangszeugnis der Qualifikationsphase (Gymnasium, ISS, Gemeinschaftsschule, berufliches Gymnasium)** – (11.19)
+Schul Z 303 - Abgangszeugnis der Qualifikationsphase (Gymnasium, ISS, Gemeinschaftsschule, berufliches Gymnasium) – (11.19)
 
 **(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
@@ -12721,10 +12743,19 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021)** `Beiblatt`Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620)** ist Bestandteil dieses Zeugnisses: ? ja ? nein1)." wird wie folgt gesteuert:
+**(A0021)** `Beiblatt`
 
-Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620)** ist Bestandteil dieses Zeugnisses.”
-Liegt dieses Merkmal nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620)** ist nicht Bestandteil dieses Zeugnisses.”
+Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
+
+☐ ja
+
+☐ nein
+
+1)." wird wie folgt gesteuert:
+
+Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
+
+Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -12845,7 +12876,7 @@ Der Bericht setzt die Fächer entsprechend dieser Nummerierung auf zwei Spalten 
 
 ## BER-Schul Z 306 (05.16).rpt
 
-Schul Z 306 - Zeugnis der allgemeinen Hochschulreife (GymnasiumISSberufliches Gymnasium)** - 05.16
+Schul Z 306 - Zeugnis der allgemeinen Hochschulreife (GymnasiumISSberufliches Gymnasium) - 05.16
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -13035,7 +13066,7 @@ Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefi
 
 ## BER-Schul Z 306 (11.18).rpt
 
-Schul Z 306 – Zeugnis der allgemeinen Hochschulreife (Gymnasium, ISS, berufliches Gymnasium)** – (11.18)
+Schul Z 306 – Zeugnis der allgemeinen Hochschulreife (Gymnasium, ISS, berufliches Gymnasium) – (11.18)
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -13225,7 +13256,7 @@ Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefi
 
 ## BER-Schul Z 306 (11.19)(FG).rpt
 
-Schul Z 306 – Zeugnis der allgemeinen Hochschulreife (Gymnasium, ISS, berufliches Gymnasium)** – (11.19)** / Französisches Gymnasium
+Schul Z 306 – Zeugnis der allgemeinen Hochschulreife (Gymnasium, ISS, berufliches Gymnasium) – (11.19)** / Französisches Gymnasium
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -13270,10 +13301,35 @@ GK | GK | Grundkurse
 Z | Z | Zusatz-/Ergänzungskurs
 ME | ME | Musik Ensemble
 
-**(A0021)** `Beiblatt`Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620)** ist Bestandteil dieses Zeugnisses: ? ja ? nein1)." wird wie folgt gesteuert:
 
-Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620)** ist Bestandteil dieses Zeugnisses.”
-Liegt dieses Merkmal nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620)** ist nicht Bestandteil dieses Zeugnisses.”
+**(A0021)** `Beiblatt`
+
+Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
+
+☐ ja
+
+☐ nein
+
+1)." wird wie folgt gesteuert:
+
+Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
+
+Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
+
+
+**(A0021)** `Beiblatt`
+
+Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
+
+☐ ja
+
+☐ nein
+
+1)." wird wie folgt gesteuert:
+
+Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
+
+Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -13381,7 +13437,7 @@ Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefi
 
 ## BER-Schul Z 306 (11.19).rpt
 
-Schul Z 306 – Zeugnis der allgemeinen Hochschulreife (Gymnasium, ISS, berufliches Gymnasium)** – (11.19)
+Schul Z 306 – Zeugnis der allgemeinen Hochschulreife (Gymnasium, ISS, berufliches Gymnasium) – (11.19)
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -13426,10 +13482,19 @@ GK | GK | Grundkurse
 Z | Z | Zusatz-/Ergänzungskurs
 ME | ME | Musik Ensemble
 
-**(A0021)** `Beiblatt`Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620)** ist Bestandteil dieses Zeugnisses: ? ja ? nein1)." wird wie folgt gesteuert:
+**(A0021)** `Beiblatt`
 
-Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620)** ist Bestandteil dieses Zeugnisses.”
-Liegt dieses Merkmal nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620)** ist nicht Bestandteil dieses Zeugnisses.”
+Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
+
+☐ ja
+
+☐ nein
+
+1)." wird wie folgt gesteuert:
+
+Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
+
+Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -14130,16 +14195,19 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0021)** 62. 
+**(A0021)** `Beiblatt`
 
-Merkmal | Bedeutung
---|--
-Beiblatt | Beiblatt ist Bestandteil des Zeugnisses
+Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
 
-Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620)** ist Bestandteil dieses Zeugnisses: ? ja ? nein1)." wird wie folgt gesteuert:
+☐ ja
 
-Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620)** ist Bestandteil dieses Zeugnisses.”
-Liegt dieses Merkmal nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620)** ist nicht Bestandteil dieses Zeugnisses.”
+☐ nein
+
+1)." wird wie folgt gesteuert:
+
+Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
+
+Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
 
 ## Schülerliste Berufsschulmatrix BS-BER mit Meldungen.rpt
 
