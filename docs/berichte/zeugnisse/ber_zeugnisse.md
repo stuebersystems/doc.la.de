@@ -12862,7 +12862,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0157)** `Eintrittsjahr Einführungsphase`Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
+**(A0157)** `Eintrittsjahr Einführungsphase`
+
+Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
 **(A0239)** `Ausdruck`
 
@@ -12874,11 +12876,11 @@ Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `A
 
 **(A0379)** `Abitur > Zeugnisbemerkungen > Merkmal (S_Lauf)`
 
-Für die Ausgabe weiterer Bemerkungen zur Schullaufbahn tragen Sie im Menü Abitur > Zeugnisbemerkungen eine Zeugnisbemerkung ein. Entscheidend ist die Eingabe in der Spalte „Merkmal“. Hier müssen Sie "S_Lauf" eintragen.
+Für die Ausgabe weiterer Bemerkungen zur Schullaufbahn tragen Sie im Menü `Abitur > Zeugnisbemerkungen` eine Zeugnisbemerkung ein. Entscheidend ist die Eingabe in der Spalte „Merkmal“. Hier müssen Sie "S_Lauf" eintragen.
 
 **(A0380)** `Abitur > Zeugnisbemerkungen`
 
-Für die Ausgabe weiterer Bemerkungen tragen Sie im Menü Abitur > Zeugnisbemerkungen den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
+Für die Ausgabe weiterer Bemerkungen tragen Sie im Menü `Abitur > Zeugnisbemerkungen` den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
 **(A0381)** `Abitur > Zeugnisbemerkungen > Merkmal (freiw)`
 
@@ -12930,15 +12932,22 @@ Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 **(A0731)** `Schlüsselverzeichnisse > Verordnungen`
 
 Ausgabe Kurshalbjahr: 
-Sie müssen für jeden Schüler die Abiturordnung angeben, die für ihn relevant ist. Dazu müssen Sie im `Schlüsselverzeichnis > Verordnungen` die jeweilige Verordnung definieren. Entscheidend für die Differenzierung ist von Gymnasien (Abi nach JG 12, G8)** und Integrierter Sekundarschule (Abi nach JG 13, G9)** der Eintrag in Spalte "Ab Jahrgang".
+Sie müssen für jeden Schüler die Abiturordnung angeben, die für ihn relevant ist. Dazu müssen Sie im `Schlüsselverzeichnis > Verordnungen` die jeweilige Verordnung definieren. 
+Entscheidend für die Differenzierung ist der Eintrag in Spalte "Ab Jahrgang":
 
-Integrierter Sekundarschule tragen bitte in Spalte "Ab Jahrgang" eine 11 ein.
-Gymnasien tragen bitte in Spalte "Ab Jahrgang" eine 10 ein.
+Wer|eintrag in der Spalte `Jahrgang`
+--|--
+Gymnasien (Abi nach JG 12, G8) |10
+Integrierter Sekundarschule (Abi nach JG 13, G9)|11
 
 **(A0739)** `Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
-Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
+Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. 
+Gefiltert werden die alten Fremdsprachen:
+* Latein (`Schlüsselverzeichnis > Fächer > Spalte "Merkmal"` = LAT) und
+* Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer > Spalte "Merkmal"` = AGR). 
+Diese werden nicht ausgegeben.
 
 **(A0740)** `Mandanten > Daten > Name 2`
 
