@@ -4512,6 +4512,10 @@ Tragen Sie die Vollzeit-  bzw. Teilzeitform unter `Klassen > Daten > Organisatio
 
 ![`Klassen > Daten > Organisation`](/assets/images/Sachsen/Bild05.png)
 
+**A0348**	`Schüler > Zeugnis > Details > Prüfungsvorsitz`
+
+Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück."
+
 **A0740**	 `Mandanten > Daten > Name 2`
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld   Name 2   ein. 
