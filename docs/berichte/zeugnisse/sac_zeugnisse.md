@@ -4493,10 +4493,6 @@ Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1"   ein. 
 
-**A0054**	 `Klassen > Daten > Schulform`
-
-Tragen Sie im aktuellen Zeitraum im  Menü `Klassen > Daten` die Schulform im Feld   Schulform   ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`. 
-
 **A0077**	 `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld   Schulleiter   eingetragen werden. 
@@ -4509,6 +4505,12 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche   Hinzufügen   anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld   Position   eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung   1  , für die Ausgabe der zweiten Bemerkung   2   usw. 
+
+**A0255** `Klassen > Daten > Organisation`
+
+Tragen Sie die Vollzeit-  bzw. Teilzeitform unter `Klassen > Daten > Organisation` ein. Grundlage bildet das Schlüsselverzeichnis Organisiationen. Der Bericht gibt die "Bezeichnung" der Organisation aus.
+
+![`Klassen > Daten > Organisation`](/assets/images/Sachsen/Bild05.png)
 
 **A0740**	 `Mandanten > Daten > Name 2`
 
@@ -4578,6 +4580,8 @@ Schriftliche / Praktische Komplexprüfung
 (beliebig)| (beliebig) | Lernfeld 1, Lernfeld 2 (beliebig)
 (beliebig)| (beliebig) | (beliebig)
 (beliebig)| (beliebig) |  (beliebig)
+
+![`Schüler > Zeugnis > Fächer`](/assets/images/Sachsen/Bild04.png)
 
 2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu, positionieren Sie diese über das Feld   Position  . 
 3. Weisen Sie diesen Fächer im Menü `Schüler > Zeugnis > Fächer` im Feld   Unterrichtsart  , entweder   KP   (für praktische Komplexprüfung) oder   KS   (für schriftliche Komplexprüfung zu. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`
