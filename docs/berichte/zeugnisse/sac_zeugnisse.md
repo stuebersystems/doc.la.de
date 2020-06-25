@@ -4509,7 +4509,7 @@ Tragen Sie die Vollzeit-  bzw. Teilzeitform unter `Klassen > Daten > Organisatio
 
 **A0348**	`Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück."
+Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
 
 **A0740**	 `Mandanten > Daten > Name 2`
 
