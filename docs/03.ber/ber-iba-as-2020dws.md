@@ -212,3 +212,12 @@ Schriftl. Note 1 | Präsentationsprüfung
 Mündl. Note | ggf. zusätzliche mündliche Prüfung
 
 Das Thema der Präsentationsprüfung erfassen Sie im Menü `Schüler > Zeugnis > Leistungen`im Feld "Beurteilungstexte".
+
+###  Zeugnisbemerkungen für MSA / EBBR Zeugnis
+
+Damit Zeugnisbemerkungen, die nur für das Abschlusszeugnis IBA über MSA bzw. Abschlusszeugnis IBA über EBBR nicht auf dem IBA Abschlusszeugnis (Schul Z 591) ausgegeben werden, beachten Sie bitte folgendes.
+
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. 
+
+Erfolgt keine Eingabe in der Spalte "Merkmal", so wird diese Bemerkung nur auf dem IBA Abschlusszeugnis (Schul Z 591) ausgegeben. 
+Für das Abschlusszeugnis IBA über den mittleren Schulabschluss (Schul Z 593) verwenden Sie bitte im Feld "Merkmal" den Eintrag "MSA", für das Abschlusszeugnis IBA  über die erweiterte Berufsbildungsreife (Schul Z 592) verwenden Sie im Feld "Merkmal" den Eintrag "EBBR".
