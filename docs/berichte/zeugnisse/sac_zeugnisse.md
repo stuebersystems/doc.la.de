@@ -4463,12 +4463,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflichtbereich 
 Wahlb | Wahlb | Wahlfächer bzw. –bereich 
 Pflicht | Plicht | Pflichfächer 
-BerufS | BerufS | Berufsbezogener Unterricht / Fachrichtungsbezogner Lernbereich
-
-**A0015.77**	 
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
+BerufS | BerufS | Berufsbezogener Unterricht / Fachrichtungsbezogner Lernbe
 Praktikum | Praktikum | Praktikum 
 
 **A0018**	 `Schueler > Daten 2 > Zugang am und/oder Abgang am`
@@ -4495,7 +4490,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "
 
 **A0077**	 `Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld   Schulleiter   eingetragen werden. 
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter"   eingetragen werden. 
 
 **A0112**	 `Ausdruck`
 
@@ -4508,7 +4503,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld   Position   eine Re
 
 **A0255** `Klassen > Daten > Organisation`
 
-Tragen Sie die Vollzeit-  bzw. Teilzeitform unter `Klassen > Daten > Organisation` ein. Grundlage bildet das Schlüsselverzeichnis Organisiationen. Der Bericht gibt die "Bezeichnung" der Organisation aus.
+Tragen Sie die Vollzeit-  bzw. Teilzeitform unter `Klassen > Daten > Organisation` ein. Grundlage bildet das `Schlüsselverzeichnis > Organisiationen`. Der Bericht gibt die "Bezeichnung" der Organisation aus.
 
 ![`Klassen > Daten > Organisation`](/assets/images/Sachsen/Bild05.png)
 
@@ -4554,19 +4549,23 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 Den FACHBEREICH der Fachschule tragen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` im Feld   Berufsfeld   zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`. 
 
+![`Klassen > Daten`](/assets/images/Sachsen/Bild06.png)
+
 **A0883** `Schüler > Laufbahn > Abschluss > Abschlussart`
 
 Bei `Schüler > Laufbahn > Abschluss` tragen im Bereich „Abschluss1“ im Feld „Abschlussart“ die jeweilige Abschlussart. Grundlage bildet das `Schlüsselverzeichnis > Abschlussarten`. 
 
-Der Bericht gibt das Feld "Bezeichnung"  aus. 
+Der Bericht gibt das Feld "Bezeichnung" aus. 
+
+![`Schüler > Laufbahn > Abschluss`](/assets/images/Sachsen/Bild07.png)
 
 **A0886** `Extras > Schlüsselverzeichnisse > Bildungsgänge`
 
-Die Fachrichtung und den Schwerpunkt der Fachschule hinterlegen Sie im `Schlüsselverzeichnis > Bildungsgänge` in den Feldern   Fachrichtung   und   Schwerpunkt  . Grundlage dafür bildet das `Schlüsselverzeichnis > Schwerpunkte` und `Schlüsselverzeichnis > Fachrichtungen  .
+Die Fachrichtung und den Schwerpunkt der Fachschule hinterlegen Sie im `Schlüsselverzeichnis > Bildungsgänge` in den Feldern   Fachrichtung   und   Schwerpunkt  . Grundlage dafür bildet das `Schlüsselverzeichnis > Schwerpunkte` und `Schlüsselverzeichnis > Fachrichtungen`.
 
-a. Weisen Sie im Menü `Schüler> Ausbildung` im aktuellen Zeitraum über das  `Hinzufügen` oder  `Bearbeiten` eines Ausbildungsbetriebes im Feld   Bildungsgang   den Bildungsgang ein.
+* Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das  `Hinzufügen` oder  `Bearbeiten` eines Ausbildungsbetriebes im Feld "Bildungsgang"  den Bildungsgang ein. Daran hängt dann auch die Fachrichtung und der Schwerpunkt. 
 ODER 
-B. Weisen Sie im Menü `Klassen > Daten` im Feld `Bildungsgang` den Bildungsgang der Klassen zu, daran hängt dann auch die Fachrichtung und der Schwerpunkt. 
+* Weisen Sie im Menü `Klassen > Daten` im Feld `Bildungsgang` den Bildungsgang der Klassen zu, daran hängt dann auch die Fachrichtung und der Schwerpunkt. 
 
 **A0887** `Schlüsselverzeichnisse > Fächer`
 
@@ -4588,16 +4587,16 @@ Schriftliche / Praktische Komplexprüfung
 ![`Schüler > Zeugnis > Fächer`](/assets/images/Sachsen/Bild04.png)
 
 2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu, positionieren Sie diese über das Feld   Position  . 
-3. Weisen Sie diesen Fächer im Menü `Schüler > Zeugnis > Fächer` im Feld   Unterrichtsart  , entweder   KP   (für praktische Komplexprüfung) oder   KS   (für schriftliche Komplexprüfung zu. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`
-
+3. Weisen Sie diesen Fächer im Menü `Schüler > Zeugnis > Fächer` im Feld   Unterrichtsart , entweder   KP   (für praktische Komplexprüfung) oder   KS   (für schriftliche Komplexprüfung zu. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`.
 4. Der Bericht gibt zusätzlich eine Nummer vor der schriftlichen Komplexprüfung aus, dahinter wird die Fachbezeichnung ausgelesen.
 5. Die Note der schriftlichen / praktischen Komplexprüfung tragen Sie im Menü `Schüler > Zeugnis > Leistungen` ein.
-
 6. Damit der Bericht die Lernfelder der entsprechenden schriftlichen / praktischen Komplexprüfung zuordnen kann, weisen Sie im Menü `Schüler > Zeugnis > Fächer` diesen Lernfeldern im Feld "Hauptfach" das für die Komplexprüfung angelegte Fach zu. MAGELLAN greift hier auf das `Schlüsselverzeichnis > Fächer` zu.
 
 ![`Schüler > Zeugnis > Fächer`](/assets/images/Sachsen/Bild02.png)
 
 ![`Schlüsselverzeichnis > Fächer`](/assets/images/Sachsen/Bild03.png)
+
+![Ergebnis der Eintragungen auf dem Zeugnis](/assets/images/Sachsen/Bild09.png)
 
 ### SAC-FS-AS (C.01.08).rpt
 
