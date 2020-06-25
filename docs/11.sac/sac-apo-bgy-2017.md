@@ -25,10 +25,10 @@ Bitte legen Sie unter `Extras > Schlüsselverzeichnisse > Verordnungen` eine neu
 
 ## Fachkategorien
 
-Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie im unter `Extras > Schlüsselverzeichnisse > Fächer` im Feld "Kategorie" zuweisen.
-Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet:
+Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`. 
+Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werden. Für diese Fächer sind die zu verwendenden Fachkategorien fest vorgeschrieben. Alle anderen Fächer können mit einer der übrigen Fachkategorie gekennzeichnet werden oder ohne Fachkategorie geführt werden.
 
-|Fachkategorien|Wird vom Skript berücksichtigt|
+|Fachkategorien|Muss genutzt werden|
 |--|--|
 |Fremdsprache|**Ja**|
 |Religion/Ethik|**Ja**|
