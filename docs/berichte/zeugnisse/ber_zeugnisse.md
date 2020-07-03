@@ -1331,6 +1331,7 @@ Zusatznote 3 | praktische Prüfung"
 **A0870** `Schlüsselverzeichnisse > Zeugnisformulare`
 
 Da das Berechnungsskript automatisch die jeweiligen Zeugnisformulare den Schülern zuordnet, müssen die Zeugnisformulare zuvor unter `Schlüsselverzeichnisse > Zeugnisformulare` definiert werden.
+
 Bezeichnung |  Typ | Datei
 --|--|--
 BER-BFS-AS | beliebig | beliebig (Bsp. BER-Schul Z 522 (09.19).rpt)
@@ -1465,6 +1466,7 @@ HK | leer | Handwerkskammer | Merkmal A6"
 **A0870** `Schlüsselverzeichnisse > Zeugnisformulare`
 
 Da das Berechnungsskript automatisch die jeweiligen Zeugnisformulare den Schülern zuordnet, müssen die Zeugnisformulare zuvor unter `Schlüsselverzeichnisse > Zeugnisformulare` definiert werden.
+
 Bezeichnung |  Typ | Datei
 --|--|--
 BER-BFS-AS | beliebig | beliebig (Bsp. BER-Schul Z 522 (09.19).rpt)
@@ -1588,6 +1590,7 @@ https://doc.la.stueber.de/03.ber/ber-bfs-matrix-2016dws
 **A0870** `Schlüsselverzeichnisse > Zeugnisformulare`
 
 Da das Berechnungsskript automatisch die jeweiligen Zeugnisformulare den Schülern zuordnet, müssen die Zeugnisformulare zuvor unter `Schlüsselverzeichnisse > Zeugnisformulare` definiert werden.
+
 Bezeichnung |  Typ | Datei
 --|--|--
 BER-BFS-AS | beliebig | beliebig (Bsp. BER-Schul Z 522 (09.19).rpt)
