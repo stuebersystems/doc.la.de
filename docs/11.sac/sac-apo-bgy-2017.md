@@ -1,4 +1,4 @@
-# SAC-APO-BGY-2017
+# SAC-APO-BGY-2017 und SAC-APO-BGY-2017(Schulfremde)
 
 Abiturqualifikationsberechnung gemäß Verordnung des Sächsischen Staatsministeriums für Kultus über Berufliche Gymnasien im Freistaat Sachsen (Schulordnung Berufliche Gymnasien – BGySO).
 
