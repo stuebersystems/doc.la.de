@@ -317,6 +317,8 @@ Bedenken Sie hierbei, dass die Fächer, die belegt worden sind, allerdings keine
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache und Sprachreferenz`
 
+![Fremdsprache und Sprachreferenz](/assets/images/baw/referenz.png)
+
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache unter Fremdsprachenfolge ein. 
 Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie dem jeweiligen Fach unter `Schlüsselverzeichnis > Fächer` im Feld `Kategorie` aus dem Pull-Down-Menü den Wert Fremdsprache zugewiesen haben.
 
@@ -390,6 +392,8 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache und Sprachreferenz`
 
+![Fremdsprache und Sprachreferenz](/assets/images/baw/referenz.png)
+
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache unter Fremdsprachenfolge ein. 
 Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie dem jeweiligen Fach unter `Schlüsselverzeichnis > Fächer` im Feld `Kategorie` aus dem Pull-Down-Menü den Wert Fremdsprache zugewiesen haben.
 
@@ -462,6 +466,8 @@ Bedenken Sie hierbei, dass die Fächer, die belegt worden sind, allerdings keine
 **Fremdsprache und Sprachreferenz** 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache und Sprachreferenz`
+
+![Fremdsprache und Sprachreferenz](/assets/images/baw/referenz.png)
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache unter Fremdsprachenfolge ein. 
 Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie dem jeweiligen Fach unter `Schlüsselverzeichnis > Fächer` im Feld `Kategorie` aus dem Pull-Down-Menü den Wert Fremdsprache zugewiesen haben.
@@ -566,6 +572,8 @@ Bedenken Sie hierbei, dass die Fächer, die belegt worden sind, allerdings keine
 **Fremdsprache und Sprachreferenz** 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache und Sprachreferenz`
+
+![Fremdsprache und Sprachreferenz](/assets/images/baw/referenz.png)
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache unter Fremdsprachenfolge ein. 
 Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie dem jeweiligen Fach unter `Schlüsselverzeichnis > Fächer` im Feld `Kategorie` aus dem Pull-Down-Menü den Wert Fremdsprache zugewiesen haben.
