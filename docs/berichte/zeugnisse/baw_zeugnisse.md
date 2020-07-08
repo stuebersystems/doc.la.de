@@ -313,6 +313,18 @@ Für die Ausgabe der Fächer im Zeugnisdruck müssen verschiedene Typen der Fäc
 Dies erfolgt durch den Eintrag im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote". Erfolgt keine Angabe unter "Endnote", so wird das Fach auf dem Zeugnis nicht ausgegeben.
 Bedenken Sie hierbei, dass die Fächer, die belegt worden sind, allerdings keine Note erhalten sollen, eine beliebige Eintragung im Feld "Endnote" voraussetzen, z.B. für ,,nicht feststellbar" "n.f." Diese Abkürzung ist zuvor im `Schlüsselverzeichnis > Noten` anzulegen.
 
+**Fremdsprache und Sprachreferenz** 
+
+`Schüler > Daten 3 > 1./2./3./4. Fremdsprache und Sprachreferenz`
+
+Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache unter Fremdsprachenfolge ein. 
+Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie dem jeweiligen Fach unter `Schlüsselverzeichnis > Fächer` im Feld `Kategorie` aus dem Pull-Down-Menü den Wert Fremdsprache zugewiesen haben.
+
+Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld `Referenz` das Referenzniveau der Fremdsprache ein. 
+Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
+
+Vom Bericht wird das Kürzel Ihrer Eintragung im Verzeichnis Sprachreferenzen ausgegeben.
+
 ## BAW-GY-HJZ (Jahrgangsstufe 12).rpt
 
 **(A0014)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
@@ -335,8 +347,6 @@ AG | AG | Arbeitsgemeinschaft
 **(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
-
-
 
 Aufgabenbereich | Zeugnisbereich
 --|--
@@ -375,6 +385,18 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 **(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+
+**Fremdsprache und Sprachreferenz** 
+
+`Schüler > Daten 3 > 1./2./3./4. Fremdsprache und Sprachreferenz`
+
+Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache unter Fremdsprachenfolge ein. 
+Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie dem jeweiligen Fach unter `Schlüsselverzeichnis > Fächer` im Feld `Kategorie` aus dem Pull-Down-Menü den Wert Fremdsprache zugewiesen haben.
+
+Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld `Referenz` das Referenzniveau der Fremdsprache ein. 
+Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
+
+Vom Bericht wird das Kürzel Ihrer Eintragung im Verzeichnis Sprachreferenzen ausgegeben.
 
 ## BAW-GY-HJZ (Jahrgangsstufe 13).rpt
 
@@ -436,6 +458,18 @@ BL | BL | Besondere Lernleistung (Seminarkurs)
 Für die Ausgabe der Fächer im Zeugnisdruck müssen verschiedene Typen der Fächer unterschieden werden.
 Dies erfolgt durch den Eintrag im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote". Erfolgt keine Angabe unter "Endnote", so wird das Fach auf dem Zeugnis nicht ausgegeben.
 Bedenken Sie hierbei, dass die Fächer, die belegt worden sind, allerdings keine Note erhalten sollen, eine beliebige Eintragung im Feld "Endnote" voraussetzen, z.B. für ,,nicht feststellbar" "n.f." Diese Abkürzung ist zuvor im `Schlüsselverzeichnis > Noten` anzulegen.
+
+**Fremdsprache und Sprachreferenz** 
+
+`Schüler > Daten 3 > 1./2./3./4. Fremdsprache und Sprachreferenz`
+
+Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache unter Fremdsprachenfolge ein. 
+Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie dem jeweiligen Fach unter `Schlüsselverzeichnis > Fächer` im Feld `Kategorie` aus dem Pull-Down-Menü den Wert Fremdsprache zugewiesen haben.
+
+Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld `Referenz` das Referenzniveau der Fremdsprache ein. 
+Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
+
+Vom Bericht wird das Kürzel Ihrer Eintragung im Verzeichnis Sprachreferenzen ausgegeben.
 
 ## BAW-GY-HJZ (Mittelstufe).rpt
 
@@ -528,6 +562,18 @@ FP | FP | Fachpraxis im Berufsfeld
 Für die Ausgabe der Fächer im Zeugnisdruck müssen verschiedene Typen der Fächer unterschieden werden.
 Dies erfolgt durch den Eintrag im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote". Erfolgt keine Angabe unter "Endnote", so wird das Fach auf dem Zeugnis nicht ausgegeben.
 Bedenken Sie hierbei, dass die Fächer, die belegt worden sind, allerdings keine Note erhalten sollen, eine beliebige Eintragung im Feld "Endnote" voraussetzen, z.B. für ,,nicht feststellbar" "n.f." Diese Abkürzung ist zuvor im `Schlüsselverzeichnis > Noten` anzulegen.
+
+**Fremdsprache und Sprachreferenz** 
+
+`Schüler > Daten 3 > 1./2./3./4. Fremdsprache und Sprachreferenz`
+
+Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache unter Fremdsprachenfolge ein. 
+Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie dem jeweiligen Fach unter `Schlüsselverzeichnis > Fächer` im Feld `Kategorie` aus dem Pull-Down-Menü den Wert Fremdsprache zugewiesen haben.
+
+Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld `Referenz` das Referenzniveau der Fremdsprache ein. 
+Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
+
+Vom Bericht wird das Kürzel Ihrer Eintragung im Verzeichnis Sprachreferenzen ausgegeben.
 
 ## BAW-GY-JZ (Mittelstufe).rpt
 
