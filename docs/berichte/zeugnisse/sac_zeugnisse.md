@@ -2955,6 +2955,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
@@ -4451,6 +4452,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
@@ -4605,6 +4607,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
@@ -4749,7 +4752,7 @@ Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugni
 
 Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, Ethik und Sport nicht mit einfliessen, ist es zwingend erforderlich den jeweiligen Fächern im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" die Werte "Religion" oder "Sport" zuzuweisen.
 
-**A0740**	 `Mandanten > Daten > Name 2`
+**A0740** `Mandanten > Daten > Name 2`
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld   Name 2   ein. 
 
@@ -4763,6 +4766,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
