@@ -4833,6 +4833,17 @@ Schriftliche / Praktische Komplexprüfung
 5. Die Note der schriftlichen / praktischen Komplexprüfung tragen Sie im Menü `Schüler > Zeugnis > Leistungen` ein.
 6. Damit der Bericht die Lernfelder der entsprechenden schriftlichen / praktischen Komplexprüfung zuordnen kann, weisen Sie im Menü `Schüler > Zeugnis > Fächer` diesen Lernfeldern im Feld "Hauptfach" das für die Komplexprüfung angelegte Fach zu. MAGELLAN greift hier auf das `Schlüsselverzeichnis > Fächer` zu.
 
+Die Ausgabe differiert je nach Fachstatus des Faches:
+
+Fachstatus | Merkmal | Zeugnisbereich
+--|--|--
+WahlPF | * | Nur der Eintrag `*` wird ausgegeben
+Wahlb | kein Eintrag | keine Ausgabe
+Pflicht | * | Nur der Eintrag `*` wird ausgegeben 
+BerufS | freie Wahl | jeder Eintrag würde ausgegeben
+Praktikum | kein Eintrag | keine Ausgabe
+FHReife | kein Eintrag | keine Ausgabe
+
 ![`Schüler > Zeugnis > Fächer`](/assets/images/Sachsen/Bild02.png)
 
 ![`Schlüsselverzeichnis > Fächer`](/assets/images/Sachsen/Bild03.png)
@@ -5433,6 +5444,7 @@ Grundlage für die Ausgabe "EINJÄHRIGEN / ZWEIJÄHRIGEN" Bildungsgang bildet da
 Abgefragt wird der Schlüssel!
 
 Bsp.:
+
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
 FOS 12L(v)** | 14 | Fachoberschule 12L
@@ -5509,6 +5521,7 @@ Grundlage für die Ausgabe "EINJÄHRIGEN / ZWEIJÄHRIGEN" Bildungsgang bildet da
 Abgefragt wird der Schlüssel!
 
 Bsp.:
+
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
 FOS 12L(v)** | 14 | Fachoberschule 12L
