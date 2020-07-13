@@ -4828,7 +4828,7 @@ Schriftliche / Praktische Komplexprüfung
 ![`Schüler > Zeugnis > Fächer`](/assets/images/Sachsen/Bild04.png)
 
 2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu, positionieren Sie diese über das Feld   Position  . 
-3. Weisen Sie diesen Fächer im Menü `Schüler > Zeugnis > Fächer` im Feld   Unterrichtsart , entweder   KP   (für praktische Komplexprüfung) oder   KS   (für schriftliche Komplexprüfung zu. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`.
+3. Weisen Sie diesen Fächer im Menü `Schüler > Zeugnis > Fächer` im Feld `Unterrichtsart`, entweder ``KP`` (für praktische Komplexprüfung) oder ``KS`` (für schriftliche Komplexprüfung zu. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`.
 4. Der Bericht gibt zusätzlich eine Nummer vor der schriftlichen Komplexprüfung aus, dahinter wird die Fachbezeichnung ausgelesen.
 5. Die Note der schriftlichen / praktischen Komplexprüfung tragen Sie im Menü `Schüler > Zeugnis > Leistungen` ein.
 6. Damit der Bericht die Lernfelder der entsprechenden schriftlichen / praktischen Komplexprüfung zuordnen kann, weisen Sie im Menü `Schüler > Zeugnis > Fächer` diesen Lernfeldern im Feld "Hauptfach" das für die Komplexprüfung angelegte Fach zu. MAGELLAN greift hier auf das `Schlüsselverzeichnis > Fächer` zu.
@@ -4837,10 +4837,10 @@ Die Ausgabe differiert je nach Fachstatus des Faches:
 
 Fachstatus | Merkmal | Zeugnisbereich
 --|--|--
-WahlPF | * | Nur der Eintrag `*` wird ausgegeben
+WahlPF | kein Eintrag | keine Ausgabe
 Wahlb | kein Eintrag | keine Ausgabe
-Pflicht | * | Nur der Eintrag `*` wird ausgegeben 
-BerufS | freie Wahl | jeder Eintrag würde ausgegeben
+Pflicht | freie Wahl (nur die Ziffer, siehe Fußnoten) | jeder Eintrag würde ausgegeben
+BerufS | freie Wahl (nur die Ziffer, siehe Fußnoten) | jeder Eintrag würde ausgegeben
 Praktikum | kein Eintrag | keine Ausgabe
 FHReife | kein Eintrag | keine Ausgabe
 
