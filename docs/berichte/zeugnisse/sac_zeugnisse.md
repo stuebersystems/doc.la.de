@@ -4748,10 +4748,6 @@ Tragen Sie die Vollzeit-  bzw. Teilzeitform unter `Klassen > Daten > Organisatio
 
 Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
 
-**A0361** `Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
-
-Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, Ethik und Sport nicht mit einfliessen, ist es zwingend erforderlich den jeweiligen Fächern im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" die Werte "Religion" oder "Sport" zuzuweisen.
-
 **A0740** `Mandanten > Daten > Name 2`
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld   Name 2   ein. 
@@ -4855,6 +4851,16 @@ Um ein Fach mit der Fußnote "4)" zu kennzeichen (Das Fach war Gegenstand des Er
 ![Ergebnis der Eintragungen auf dem Zeugnis](/assets/images/Sachsen/Bild11.png)
 
 ![Ergebnis der Eintragungen auf dem Zeugnis](/assets/images/Sachsen/Bild10.png)
+
+**A0916** `Schlüsselverzeichnisse > Fächer > Aufgabenbereich`UND
+`Schüler > Zeugnis > Fächer`
+
+Die Durchschnittsnote ergibt sich aus allen Zeugnisnoten mit Ausnahme der Fächer Sport, Religion und Ethik sowie mit Ausnahme aller nachrichtlich ausgewiesenen Noten.
+Damit eine Differenzierung der Fächer für die automatische Durchschnittsnoteberechnung erfolgen kann, beachten Sie dazu folgendes:
+
+1. Fächer Sport, Religion und Ethik: Es ist zwingend erforderlich den jeweiligen Fächern im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" die Werte "Religion" oder "Sport" zuzuweisen.
+
+2. Nachrichtlich ausgewiesene Fächer (Noten): Nachrichtlich ausgewiesenen Fächern weisen Sie im Menü `Schüler > Zeugnis > Fächer`  im Feld "Hauptfach" das für die Komplexprüfung angelegte Fach zu. MAGELLAN greift hier auf das `Schlüsselverzeichnis > Fächer` zu.
 
 ### SAC-FS-AS (C.01.08).rpt
 
