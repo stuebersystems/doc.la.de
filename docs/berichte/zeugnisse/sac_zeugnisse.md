@@ -6613,15 +6613,6 @@ oB | ohne Bewertung | Füllwerte
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0661)** `Schlüsselverzeichnisse > Bildungsgänge`
-
-Die Fachrichtung des Schülers legen Sie wie folgt an:
-
-1) Weisen Sie im Menü `Schüler > Ausbildung` den Bildungsgang des Schülers im Feld „Bildungsgang“ zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`. 
-2) Weisen Sie im `Schlüsselverzeichnis > Bildungsgänge` im Feld „Fachrichtung“ die Fachrichtung zu. Grundlage bildet das `Schlüsselverzeichnis > Fachrichtungen`.
-
-Ausgegeben auf dem Zeugnis wird die Fachrichtung des Bildungsganges.
-
 **(A0777)** 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
@@ -6661,6 +6652,23 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers de
 **(A0012)** `Klassen > Zeiträume > Zeitraum > Klassenstufe`
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers die Klassenstufe auf der Registerkarte `Zeiträume > Zeitraum` im Feld "Klassenstufe" eingetragen sein.
+
+**(A0917)** `Schlüsselverzeichnisse > Fachrichtungen` UND
+`Schlüsselverzeichnisse > Bildungsänge` 
+
+Um die Fachrichtung der Klasse bzw. die Fachrichtung des Schüler zu bestimmen, gehen Sie bitte wie folgt vor:
+
+1) Fachrichtung:
+1a) Definieren Sie die Fachrichtungen zunächst im `Schlüsselverzeichnis > Fachrichtungen`
+1b) Weisen Sie nun den Bildungsgang im `Schlüsselverzeichnis > Bildungsgänge` im Feld „Fachrichtung“ die entsprechende Fachrichtung zu. 
+
+Die Fachrichtung kann entweder am Bildungsgang der Klasse oder am Bildungsgang des Schülers hängen: 
+
+1) Fachrichtung, Bildungsgang der Klasse
+2a) Weisen Sie im Menü `Klassen > Daten` im Feld "Bildungsgang" den Bildungsgang mit der entsprechend zugewiesenen Fachrichtung zu.
+
+3) Fachrichtung, Bildungsgang des Schülers
+3a) Weisen Sie im Menü `Schüler > Ausbildung` im Feld "Bildungsgang" den Bildungsgang mit der entsprechend zugewiesenen Fachrichtung dem Schüler zu.
 
 ## F-Zeugnisse (Bescheinigungen)
 
