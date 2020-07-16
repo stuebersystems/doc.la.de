@@ -1,6 +1,8 @@
 # Zeugnisse für Baden-Württemberg
 
-## BAW-BBS-AS (kaufmaennisch).rpt
+## Berufsschulzeugnisse
+
+### BAW-BBS-AS (kaufmaennisch).rpt
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -21,11 +23,11 @@ WahlPFF | WahlP | Teilnahme an Arbeitsgemeinschaften
 
 Tragen Sie die Fachtheoretische Abschlussnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 2" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
-## BAW-BBS-AS (Urkunde 1).rpt
+###  BAW-BBS-AS (Urkunde 1).rpt
 
-## BAW-BBS-AS (Urkunde 2).rpt
+###  BAW-BBS-AS (Urkunde 2).rpt
 
-## BAW-BBS-AS (Variante 1).rpt
+###  BAW-BBS-AS (Variante 1).rpt
 
 **(A0014)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
 
@@ -51,7 +53,7 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
-## BAW-BBS-AS.rpt
+### BAW-BBS-AS.rpt
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -66,7 +68,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflichtfach
 Pflicht | Pflicht | Pflicht
 
-## BAW-BBS-AZ.rpt
+###  BAW-BBS-AZ.rpt
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -81,7 +83,7 @@ Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 WahlPF | WahlPF | Wahlpflichtfach
 Pflicht | Pflicht | Pflicht
 
-## BAW-BBS-HJZ (Wahlbereich).rpt
+### BAW-BBS-HJZ (Wahlbereich).rpt
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -96,7 +98,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflichtfach
 Pflicht | Pflicht | Pflicht
 
-## BAW-BBS-HJZ.rpt
+### BAW-BBS-HJZ.rpt
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -111,7 +113,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflichtfach
 Pflicht | Pflicht | Pflicht
 
-## BAW-BBS-JZ (Wahlbereich).rpt
+### BAW-BBS-JZ (Wahlbereich).rpt
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -126,7 +128,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflichtfach
 Pflicht | Pflicht | Pflicht
 
-## BAW-BBS-JZ.rpt
+### BAW-BBS-JZ.rpt
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -140,6 +142,8 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
 Pflicht | Pflicht | Pflicht
+
+## Mittelstufe und Gymnasium
 
 ### BAW-GY-ABI (2019 mit KF-LK).rpt
 
@@ -240,11 +244,11 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "
 
 Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld ""Referenz"" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`. Vom Bericht wird das Kürzel abgefragt.
 
-## BAW-GY-HJZ (Kursstufe mit BLL).rpt
+### BAW-GY-HJZ (Kursstufe mit BLL).rpt
 
 Halbjahreszeugnis der gymnasialen Oberstufe
 
-## BAW-GY-JZ (Mittelstufe mit GER)(A5).rpt
+### BAW-GY-JZ (Mittelstufe mit GER)(A5).rpt
 
 Jahreszeugnis der Mittelstufe mit Niveau der Fremdsprachen (GER)
 
@@ -314,118 +318,58 @@ beliebig | unbefriedigend | Füllwert
 
 Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`. Vom Bericht wird das Kürzel abgefragt.
 
-## BAW-GY (Mitteilung Prüfungsergebnisse).rpt
+### BAW-GY (Mitteilung Prüfungsergebnisse).rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+Mitteilung der Prüfungsergebnisse (schriftl./mdl. Prüfungen)
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+**A0007** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter  `Extras > Schlüsselverzeichnisse > Zeiträume`.  Ausgegeben wird hierbei der Eintrag in der Spalte „Ausdruck2“.
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
+**A0015** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
-**(A0111)** `Ausdruck`
-
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
-
-**(A0131)** `Schüler > Zeugnis > Details > Tutor`
-
-Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
-
-**(A0203)** Abitur > Prüfung > schriftliche / mündliche Note
-
-Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten im Menü `Abitur > Prüfung` in den Feldern "schriftliche Note" und "mündliche Note" eingetragen sein.
-
-**(A0239)** `Ausdruck`
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
-## BAW-GY-ABI (2014 - Kontrolle vor mündlichen Abi - 2 Seite).rpt
-
-**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis ""Fachtafeln"" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-Kürzel | Schlüssel | Zeugnisbereich
+Kürzel | Schlüsse l| Bedeutung
 --|--|--
-Wahlb | Wahlb | Wahlfächer bzw. –bereich
-Abgew | Abgew | Fächer die nicht auf Zeugnis gedruckt werden sollen
+1PF | 1PF| 1. Prüfungsfach
+2PF | 2PF | 	2. Prüfungsfach
+3PF | 3PF | 3. Prüfungsfach
+4PF | 4PF | 4. Prüfungsfach
+4PF | 4PFWahlb | 4. Prüfungsfach Wahlbereich
+5PF | 5PF | 5. Prüfungsfach
+5PF  | 5PFWahlb | 	5. Prüfungsfach Wahlbereich"
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**A0045** `Mandanten > Daten > Name 1`
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld ""Name 1"" ein."
 
+**A0078** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden."
 
-Aufgabenbereich | Zeugnisbereich
---|--
-sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfeld
-gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
-mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
-Sport | Sport
+**A0078** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+**A0111** `Ausdruck`
 
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+**A0131** `Schüler > Zeugnis > Details > Tutor`
 
-Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
+Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden."
 
-**(A0032)** 
+**A0203** `Abitur > Prüfung > schriftliche / mündliche Note`
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten im Menü `Abitur > Prüfung` in den Feldern "schriftliche Note" und "mündliche Note" eingetragen sein."
 
-**(A0111)** `Ausdruck`
+**A0239** `Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden."
 
-**(A0239)** `Ausdruck`
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
-**(A0241)** `Abitur > Prüfung`
-
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
-
-**(A0573)** 
-
-## BAW-GY-ABI (DIN A4).rpt
-
-**(A0032)** 
-
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
-
-**(A0033)** `Ausdruck > DIN A 4 Format, doppelseitig`
-
-Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
-
-**(A0035)** `Klassen > Daten > Bildungsgang`
-
-Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
-
-**(A0035.3)** `Schlüsselverzeichnis > Bildungsgänge > Fachrichtung`
-
-Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Feld "Fachrichtung" zu. Grundlage bildet das `Schlüsselverzeichnis Fachrichtungen`.
-
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
-
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
-
-**(A0037.1)** `Schlüsselverzeichnis > Schwerpunkte UND Schlüsselverzeichnis > Bildungsgänge`
-
-Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` die Fachrichtung im Feld `Fachrichtung` zu. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachrichtungen`.
-
-**(A0038)** `Klasse > Bildungsgang > Fachrichtung` ODER `Schüler > Ausbildung > Bildungsgang > Fachrichtung`
-
-Für die Ausgabe der Fachrichtung müssen Sie entweder der Klasse einen Bildungsgang mit Fachrichtung zuweisen oder dem Schüler unter `Schüler > Ausbildung >  Editieren oder neuzuweisen > Bildungsgang` einen BIldungsgang mit hinterlegter Fachrichtung. 
-Bereiten Sie dazu unter `Extras > Schlüsselverzeichnisse` die gewünschten Fachrichtungen im gleichnamigen Verzeichnis vor. Die angelegten Fachrichtungen weisen Sie im Schlüsselverzeichnis `Bildungsgänge` den jeweiligen Bildungsgängen zu.
-
-## BAW-GY-HJZ (Mittelstufe).rpt
+### BAW-GY-HJZ (Mittelstufe).rpt
 
 **(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
@@ -437,7 +381,7 @@ Für die Ausgabe der Fächer im Zeugnisdruck müssen verschiedene Typen der Fäc
 Dies erfolgt durch den Eintrag im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote". Erfolgt keine Angabe unter "Endnote", so wird das Fach auf dem Zeugnis nicht ausgegeben.
 Bedenken Sie hierbei, dass die Fächer, die belegt worden sind, allerdings keine Note erhalten sollen, eine beliebige Eintragung im Feld "Endnote" voraussetzen, z.B. für ,,nicht feststellbar" "n.f." Diese Abkürzung ist zuvor im `Schlüsselverzeichnis > Noten` anzulegen.
 
-## BAW-GY-JZ (Klasse 5).rpt
+### BAW-GY-JZ (Klasse 5).rpt
 
 **(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
@@ -477,7 +421,7 @@ Für die Ausgabe der Fächer im Zeugnisdruck müssen verschiedene Typen der Fäc
 Dies erfolgt durch den Eintrag im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote". Erfolgt keine Angabe unter "Endnote", so wird das Fach auf dem Zeugnis nicht ausgegeben.
 Bedenken Sie hierbei, dass die Fächer, die belegt worden sind, allerdings keine Note erhalten sollen, eine beliebige Eintragung im Feld "Endnote" voraussetzen, z.B. für ,,nicht feststellbar" "n.f." Diese Abkürzung ist zuvor im `Schlüsselverzeichnis > Noten` anzulegen.
 
-## BAW-GY-JZ (Mittelstufe mit Beurteilung).rpt
+### BAW-GY-JZ (Mittelstufe mit Beurteilung).rpt
 
 **(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
@@ -531,7 +475,7 @@ Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
 Vom Bericht wird das Kürzel Ihrer Eintragung im Verzeichnis Sprachreferenzen ausgegeben.
 
-## BAW-GY-JZ (Mittelstufe).rpt
+### BAW-GY-JZ (Mittelstufe).rpt
 
 **(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
@@ -786,3 +730,89 @@ Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld `Refe
 Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
 Vom Bericht wird das Kürzel Ihrer Eintragung im Verzeichnis Sprachreferenzen ausgegeben.
+
+### BAW-GY-ABI (2014 - Kontrolle vor mündlichen Abi - 2 Seite).rpt
+
+**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
+
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+
+Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
+
+Kürzel | Schlüssel | Zeugnisbereich
+--|--|--
+Wahlb | Wahlb | Wahlfächer bzw. –bereich
+Abgew | Abgew | Fächer die nicht auf Zeugnis gedruckt werden sollen
+
+**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+
+
+
+Aufgabenbereich | Zeugnisbereich
+--|--
+sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfeld
+gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
+mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
+Sport | Sport
+
+**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
+Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
+
+**(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+
+Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
+
+**(A0032)** 
+
+Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+
+**(A0111)** `Ausdruck`
+
+Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+
+**(A0239)** `Ausdruck`
+
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
+
+**(A0241)** `Abitur > Prüfung`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+
+**(A0573)** 
+
+### BAW-GY-ABI (DIN A4).rpt
+
+**(A0032)** 
+
+Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+
+**(A0033)** `Ausdruck > DIN A 4 Format, doppelseitig`
+
+Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
+
+**(A0035)** `Klassen > Daten > Bildungsgang`
+
+Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
+
+**(A0035.3)** `Schlüsselverzeichnis > Bildungsgänge > Fachrichtung`
+
+Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Feld "Fachrichtung" zu. Grundlage bildet das `Schlüsselverzeichnis Fachrichtungen`.
+
+**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
+
+**(A0037.1)** `Schlüsselverzeichnis > Schwerpunkte UND Schlüsselverzeichnis > Bildungsgänge`
+
+Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` die Fachrichtung im Feld `Fachrichtung` zu. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachrichtungen`.
+
+**(A0038)** `Klasse > Bildungsgang > Fachrichtung` ODER `Schüler > Ausbildung > Bildungsgang > Fachrichtung`
+
+Für die Ausgabe der Fachrichtung müssen Sie entweder der Klasse einen Bildungsgang mit Fachrichtung zuweisen oder dem Schüler unter `Schüler > Ausbildung >  Editieren oder neuzuweisen > Bildungsgang` einen BIldungsgang mit hinterlegter Fachrichtung. 
+Bereiten Sie dazu unter `Extras > Schlüsselverzeichnisse` die gewünschten Fachrichtungen im gleichnamigen Verzeichnis vor. Die angelegten Fachrichtungen weisen Sie im Schlüsselverzeichnis `Bildungsgänge` den jeweiligen Bildungsgängen zu.
+
