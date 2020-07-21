@@ -1,8 +1,8 @@
-# Zeugnisse für Deutsche Auslandschulen
+# Zeugnisse für Deutsche Auslandsschulen
 
 ## DAS (Zwischenzeugnis) Variante 2.rpt
 
-Dieser Bericht gibt die Arbeitsgemeinschaften untereinander aus die AGs werden individuell beurteilt.
+Dieser Bericht gibt die Arbeitsgemeinschaften untereinander aus, die Arbeitsgemeinschaften werden individuell beurteilt.
 Mögliche Beurteilungen:
 
 - Mit sehr gutem Erfolg teilgenommen

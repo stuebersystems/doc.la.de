@@ -1,4 +1,4 @@
-# Berliner Zeugnisse
+# Zeugnisse für Berlin
 
 ## BER-Schul Z 590 (12.19).rpt
 

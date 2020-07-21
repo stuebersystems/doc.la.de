@@ -1,8 +1,6 @@
-# Brandenburger Zeugnisse
+# Zeugnisse für Brandenburg
 
 ## BRA-Bescheinigung-Altenpflegeausbildung.rpt
-
-
 
 Bescheinigung über die Leistungen in der Altenpflegeausbildung
 
