@@ -28,10 +28,10 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 
 ## Fachkategorien
 
-Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter ```Verzeichnisse > Fächer > Kategorie``` zuweisen.
-Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
+Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`. 
+Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werden. Für diese Fächer sind die zu verwendenden Fachkategorien fest vorgeschrieben. Alle anderen Fächer können mit einer der übrigen Fachkategorie gekennzeichnet werden oder ohne Fachkategorie geführt werden.
 
-|Fachkategorien|Wird vom Skript berücksichtigt|
+|Fachkategorien|Muss genutzt werden|
 |--|--|
 |Fremdsprache|**Ja**|
 |Religion/Ethik|**Ja**|
@@ -106,3 +106,17 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 |4PFBLL|4PFBLL|4. Prüfungsfach und besondere Lernleistung|
 |BLL|BLL|5.Prüfungskomponente besondere Lernleistung|
 |PRS|PRS|5. Prüfungskomponente Präsentationsprüfung|
+
+## Sport als 4.Prüfungsfach
+
+Der Schüler belegt die folgenden Fächer:
+
+Fach | Fachkategorie | Aufgabenbereich | Fachstatus
+--|--|--|--
+Sport | Sport | Sport | 4.PF (siehe Beschreibung im Abschnitt Fachstatus)
+Sport-Theorie|Sport-Theorie | Sport | -
+
+Für die Berechnung des Ergebnisses berücksichtigt das Skript: 
+
+* Für das Fach Sport-Theorie: das Ergebnis des letzten Halbjahres auf der Karte `Abitur > Qualifikation` 
+* Für das Fach `Sport` die Eingabe unter `Abitur > Prüfungen > 4.PF` wahlweise in den Spalten `schriftliche Prüfung` oder `mündliche Prüfung`

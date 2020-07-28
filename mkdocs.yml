@@ -116,6 +116,7 @@ nav:
           - NRW-APO-BK-2012: 08.nrw/nrw-apo-bk-2012.md
           - NRW-APO-BK-2011: 08.nrw/nrw-apo-bk-2011.md
           - NRW-APO-BK-1999: 08.nrw/nrw-apo-bk-1999.md
+          - NRW-APO-OS-2011: 08.nrw/nrw-apo-os-2011.md
         - Rheinland-Pfalz:
           - RLP-APO-2014: 09.rlp/rlp-apo-2014.md
           - RLP-APO-G8-2014: 09.rlp/rlp-apo-2014-g8.md
@@ -131,6 +132,7 @@ nav:
         - Sachsen:
           - SAC-APO-1996: 11.sac/sac-apo-1996.md
           - SAC-APO-BGY-2017: 11.sac/sac-apo-bgy-2017.md
+          - SAC-APO-BGY-2017(Schulfremde): 11.sac/sac-apo-bgy-2017.md
           - SAC-APO-BGY-2014: 11.sac/sac-apo-bgy-2014.md
           - SAC-APO-BGY-2011: 11.sac/sac-apo-bgy-2011.md
           - SAC-APO-BGY-2010: 11.sac/sac-apo-bgy-2010.md
@@ -209,8 +211,45 @@ nav:
         - BAW-BSO-Berufsvorbereitungsjahr-2004.dws: 02.baw/baw-bso-berufsvorbereitungsjahr-2004dws.md
       - Berlin:
         - BER-IBA-MSA-2019.dws: 03.ber/ber-iba-msa-2019.md
+        - BER-IBA-HJ-2020.dws: 03.ber/ber-iba-hj-2020dws.md
+        - BER-IBA-AS-2020.dws: 03.ber/ber-iba-as-2020dws.md
       - Nordrhein-Westfalen:
         - NRW-AS-APO-BK-1999: 08.nrw/nrw-as-apo-bk-1999.md
       - Schweiz:
         - CH-Promotion (KFM-Profil-E 2012).dws: 15.ch/ch-promotion_kfm-profil-e_2012dws.md
         - CH-Promotion (KFM-Profil-E 2003).dws: 15.ch/ch-promotion_kfm-profil-e_2003dws.md
+- Berichte:
+    - Übersicht: berichte/01_uebersicht.md
+    - Zeugnisse: 
+      - Allgemeine: berichte/zeugnisse/allgemein_zeugnisse.md
+      - Prüfungslisten: berichte/zeugnisse/pruefungslisten.md
+      - Ausland: berichte/zeugnisse/das_zeugnisse.md
+      - BAW: berichte/zeugnisse/baw_zeugnisse.md
+      - BER: berichte/zeugnisse/ber_zeugnisse.md
+      - BRA: berichte/zeugnisse/bra_zeugnisse.md
+      - MVP: berichte/zeugnisse/mvp_zeugnisse.md
+      - NIE: berichte/zeugnisse/nie_zeugnisse.md
+      - NRW: berichte/zeugnisse/nrw_zeugnisse.md
+      - RLP: berichte/zeugnisse/rlp_zeugnisse.md
+      - SAA: berichte/zeugnisse/saa_zeugnisse.md
+      - SAC: berichte/zeugnisse/sac_zeugnisse.md
+      - SAR: berichte/zeugnisse/sar_zeugnisse.md
+      - SHL: berichte/zeugnisse/shl_zeugnisse.md
+      - THU: berichte/zeugnisse/thu_zeugnisse.md
+    - Menü Schüler: berichte/02_schueler.md
+    - Menü Bewerber: berichte/03_bewerber.md
+    - Menü Klassen: 
+      - Klassenberichte: berichte/04.01_klassen.md
+      - Kurslisten: berichte/04.02_kurslisten.md
+    - Menü Lehrer: berichte/05_lehrer.md
+    - Menü Mandanten: berichte/06_mandanten.md
+    - Menü Personen: berichte/07_personen.md
+    - Menü Sorgeberechtigte: berichte/08_sorgeberechtigte.md
+    - Menü Betriebe: berichte/09_betriebe.md
+    - Menü Schulen: berichte/10_schulen.md
+    - Menü Adressen: berichte/11_adressen.md
+    - Bibliothek:
+      - Quittungen: berichte/12_quittungen.md
+      - Medien: berichte/13_medien.md
+      - Medienvorgänge: berichte/14_medienvorgaenge.md
+      - Medienausleiher: berichte/15_medienausleiher.md

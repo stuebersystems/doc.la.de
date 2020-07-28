@@ -1,3 +1,4 @@
+
 # BER-APO-2017
 
 !!! info "Hinweis"
@@ -31,10 +32,10 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 
 ## Fachkategorien
 
-Jedem Fach, dass Sie in der Oberstufe verwenden, müssen Sie eine Kategorie unter ```Verzeichnisse > Fächer > Kategorie``` zuweisen.
-Folgende Fachkategorien werden durch das Abiturqualifikationsskript verwendet, bitte verwenden Sie nur die gekennzeichneten Fachkategorien.
+Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`. 
+Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werden. Für diese Fächer sind die zu verwendenden Fachkategorien fest vorgeschrieben. Alle anderen Fächer können mit einer der übrigen Fachkategorie gekennzeichnet werden oder ohne Fachkategorie geführt werden.
 
-|Fachkategorien|Wird vom Skript berücksichtigt|
+|Fachkategorien|Muss genutzt werden|
 |--|--|
 |Fremdsprache|**Ja**|
 |Religion/Ethik|**Ja**|
@@ -125,7 +126,7 @@ Im Menü ``Abitur`` wird auf der Registerkarte ``Prüfung`` im Feld ``5. PF`` da
 |mündliche Note|Note der **Präsentation**|
 |2. mündl. Note| Note des **Prüfungsgespräches**|
 
-![Noteneingabe der Präsentationsprüfung](assets/BER-APO-2017_praesentationspruefung1.png)
+![Noteneingabe der Präsentationsprüfung](assets/images/ber-apo-2017.01.png)
 
 #### Besondere Lernleistung
 
@@ -143,7 +144,7 @@ Falls die Besondere Lernleistung nicht eines der Prüfungsfächer 1.-4. ist, wei
 |schriftliche Note|Note der **schriftliche Ausarbeitung**|
 |2. mündl. Note| Note des **Prüfungsgespräches**|
 
-![Noteneingabe der Besonderen Lernleistung](/assets/images/BLL.png)
+![Noteneingabe der Besonderen Lernleistung](assets/images/ber-apo-2017.02.png)
 
 ## Merkmal
 
@@ -152,3 +153,17 @@ Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. 
 |Merkmal |Bedeutung|
 |--|--|
 |A| Fremdsprache Anfänger|
+
+## Sport als 4.Prüfungsfach
+
+Der Schüler belegt die folgenden Fächer:
+
+Fach | Fachkategorie | Aufgabenbereich | Fachstatus
+--|--|--|--
+Sport | Sport | Sport | 4.PF (siehe Beschreibung im Abschnitt Fachstatus)
+Sport-Theorie|Sport-Theorie | Sport | -
+
+Für die Berechnung des Ergebnisses berücksichtigt das Skript: 
+
+* Für das Fach Sport-Theorie: das Ergebnis des letzten Halbjahres auf der Karte `Abitur > Qualifikation` 
+* Für das Fach `Sport` die Eingabe unter `Abitur > Prüfungen > 4.PF` wahlweise in den Spalten `schriftliche Prüfung` oder `mündliche Prüfung`
