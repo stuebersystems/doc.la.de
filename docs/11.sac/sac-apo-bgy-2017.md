@@ -1,8 +1,10 @@
-# SAC-APO-BGY-2017 und SAC-APO-BGY-2017(Schulfremde)
+# SAC-APO-BGY-2017 und SAC-APO-BGY-2017 (Schulfremde)
 
 Abiturqualifikationsberechnung gemäß Verordnung des Sächsischen Staatsministeriums für Kultus über Berufliche Gymnasien im Freistaat Sachsen (Schulordnung Berufliche Gymnasien – BGySO).
 
-Letzte Änderung: 10.06.2020
+//// Verordnung Fachrichtungen Biotechnologie, Technik-, Agrar-, Ernährungs-, Informations- u. Kommunikationswissenschaft. ////
+
+Letzte Änderung: 07.07.2020
 
 ## Verzeichnis Verordnung
 
@@ -108,3 +110,10 @@ Das Merkmal muss im Menü `Abitur > Qualifikation > Merkmal` eingetragen sein. E
 | Merkmal | Bedeutung                                |
 |---------|------------------------------------------|
 | A       | Neu einsetzende Fremdsprache, 2 Kurse müssen eingebracht werden (entspricht dem Niveau A) |
+
+## Sonstiges
+
+Das Berechnungsskript weist Sie darauf hin, wenn gemäß § 52 Absatz 2 eine zusätzliche mündliche Prüfung durchzuführen ist (wenn die Leistung des Prüfungsteilnehmers in diesem Fach mit null Punkten bewertet wurde).
+
+![`Abitur > Prüfung`](/assets/images/Sachsen/apo2017.01.png)
+
