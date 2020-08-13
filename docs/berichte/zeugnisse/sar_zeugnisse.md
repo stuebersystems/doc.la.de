@@ -280,6 +280,16 @@ Ein Handout zu den Zeugnisformularen ist auf dem BSCW-Server http://bscw.saarlan
 
 ## SAR-GEMS-AS (Klasse 9-10) Ansicht Mittelstufe.rpt
 
+## SAR-GEMS-AS (Klasse 9-10).rpt
+
+Bitte verwenden Sie ab dem Schuljahr 2019/2020 folgende Formulare: 
+
+* `SAR-GEMS-AS (Klasse 10)(ab 2020).rpt`
+* `SAR-GEMS-AS (Klasse 9 mit Prüfung)(ab 2020).rpt`
+* `SAR-GEMS-AS (Klasse 9 ohne Prüfung)(ab 2020).rpt`
+
+Der Bericht `SAR-GEMS-AS (Klasse 9-10).rpt` ist nun in der Auslieferung von MAGELLAN unter dem Namen `SAR-GEMS-AS (Klasse 9-10)(bis 2019).rpt` zu finden.
+
 ## SAR-GEMS-AS (Klasse 9 mit Prüfung)(ab 2020).rpt
 
 **A0015**	`Extras > Schlüsselverzeichnisse > Fachstatus`
@@ -508,7 +518,7 @@ Der Punktwert wird in Klammern auf dem Zeugnis ausgegeben. Der Bericht selbst re
 
 Ein Handout zu den Zeugnisformularen ist auf dem BSCW-Server http://bscw.saarland.de abgelegt.
 
-`Schueler > Zeugnis > Details > Zeugniskonferenz am`
+**A009** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
@@ -664,8 +674,6 @@ Platzhalter | Ausgabe im Bericht
 ``<<Herr>>`` | Herr
 ``<<Herrn>>`` | Herrn
 ``<<Er>>`` | Er
-
-## SAR-GEMS-AS (Klasse 9-10)(bis 2019).rpt
 
 **(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
