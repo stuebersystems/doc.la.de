@@ -215,7 +215,12 @@ Legen Sie Ihre Fächer unter `Schlüsselverzeichnisse > Fächer` an. Bitte defin
 
 ## DAS-GS-GY (Klasse 3-10).rpt
 
-Zeugnis der Klassenstufe 3-10 (Schulformen: Grundschule (1-4)Orientierungsstufe (5)Gymnasium (ab 6))
+Jahres/Halbjahreszeugnis der Klassenstufe 3-10, Schulformen: 
+* Grundschule
+* Hauptschule
+* Realschule
+* Orientierungsstufe
+* Gymnasium
 
 **(A0002)** `Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
 
@@ -244,8 +249,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0019.33)** 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
@@ -257,12 +260,7 @@ Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweise
 
 **(A0045)** `Mandanten > Daten > Name 1`
 
-Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
-1" ein.
-
-**(A0054)** `Klassen > Daten > Schulform`
-
-Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
+Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 1" ein.
 
 **(A0077)** `Mandanten > Daten 1 > Schulleiter`
 
@@ -270,7 +268,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 **(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten 1` zugewiesen wurde.
 
 **(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
 
@@ -289,10 +287,6 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0178)** `Klasse > Daten > Schulart`
-
-Tragen Sie im aktuellen Zeitraum im Menü Klasse > Daten die Schulfart im Feld "Schulart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`.
-
 **(A0183)** `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
@@ -309,9 +303,9 @@ n.b. | n.b. | teilgenommen | Füllwerte
 
 Die Noten für Arbeits- und Sozialverhalten tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern „Mitarbeit“ und „Verhalten“ ein. Für Sozialverhalten verwenden Sie das Feld "Verhalten", für Arbeitsverhalten das Feld "Mitarbeit".
 
-**(A0402)** Schüler > Zeugnis > Fächer > Hauptfach
+**(A0402)** `Schüler > Zeugnis > Fächer > Hauptfach`
 
-Unterfächer die einem Hauptfach zugeordnet werden sollen, kennzeichnen Sie im Menü Schüler > Zeugnis > Fächer im Feld "Haupfach". Dort weisen Sie dem Unterfach das entsprechende Hauptfach zu. Damit die Fächer auf dem Zeugnis in der gewünschten Reihenfolge ausgegeben wird, weisen Sie den Fächern entsprechende Positionen zu. 
+Unterfächer die einem Hauptfach zugeordnet werden sollen, kennzeichnen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Haupfach". Dort weisen Sie dem Unterfach das entsprechende Hauptfach zu. Damit die Fächer auf dem Zeugnis in der gewünschten Reihenfolge ausgegeben wird, weisen Sie den Fächern entsprechende Positionen zu. 
 Machen Sie dabei zwischen Unter-  und Hauptfächern keine Unterschiede und positionieren diese in der gewünschten chronologischen Reihenfolge. Beachten Sie dabei, dass ein Hauptfach eine niedrigere Position als ein Unterfach haben muss und dass keine anderen Fächer zwischen Hauptfach und Unterfach positioniert werden.
 
 **(A0740)** `Mandanten > Daten > Name 2`
@@ -354,23 +348,21 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0779)** Klassen > Zeiträume > Zeitraum > Jahrgang
-
-Die Ausgabe der besuchten Schulform hängt vom eingetragenen Jahrgang der Klasse ab. Im entsprechenden Zeitraum muss im Menü Klassen > Zeiträume > Zeitraum der Jahrgang im Feld „Jahrgang“ angegeben sein.
-
-eingetragener Jahrgang bei Klasse | der Bericht gibt folgendes aus
---|--
-Jahrgang 1-4 | Grundschule
-Jahrgang 5 | Orientierungsstufe
-Jahrgang ab 6 |  Gymnasium
-
 **(A0780)** Schlüsselverzeichnisse > Zeiträume > Art
 
 Der Versetzungsvermerk wird nur im 2. Halbjahr auf dem Zeugnis ausgegeben. 
 
-**(A0782)** Klassen > Daten > Schulart
+**(A0918)** `Schüler > Laufbahn > Allgemein > Schulart` oder `Klasse > Daten > Schulart` 
 
-Tragen Sie im Menü Klassen > Daten die Schulart im Feld „Schulart“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis >Schularten.
+Die Schulart des Schülers tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Allgemein > Schulart` oder im `Klasse > Daten` die Schulfart im Feld "Schulart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`. Das Zeugnis fragt die "Bezeichnung" aus dem `Schlüsselverzeichnis > Schularten` ab, diese müssen wie folgt erfasst werden: 
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+beliebig (GS) | leer | Grundschule
+beliebig (GYM) | leer | Gymnasium
+beliebig (HS) | leer | Hauptschule
+beliebig (OS) | leer | Orientierungsstufe
+beliebig (RS) | leer | Realschule
 
 ## DAS-GY (Klasse 11-12).rpt
 
