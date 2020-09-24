@@ -30,8 +30,6 @@ So geht's:
 
 3. Bestätigen Sie mit OK und wählen im nächsten Fenster den Bericht auf um ihn zu drucken oder das Ergebnis der Vorschau zu zeigen. Es werden nur die Schüler gezeigt, auf die Ihre Auswahl zutrifft.
 
-
-
 **(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
