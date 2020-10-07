@@ -4,7 +4,7 @@ Grundlage: Verordnung über die Integrierte Berufsausbildungsvorbereitung IBA-VO
 
 *Letzte Änderung: 19.06.2020*
 
-Mit Hilfe des Berechnungsskriptes _BER-IBA-AS-2020.dws_ können Sie für den Bildungsgang **Integrierte Berufsausbildungsvorbereitung**  die Endnoten (Jahresnotendurchschnitte) der Teilbereiche Fachtheorie und Fachpraxis (als Mittelwert der Halbjahresnotendurchschnitte gmäß Anlage 4 Abschnitt B der Verordnung über die integrierte Berufsausbildungsvorbereitung) sowie die Duchschnittsnote des Bildungsganges Integrierte Berufsausbildungsvorbereitung berechnen lassen.
+Mit Hilfe des Berechnungsskriptes _BER-IBA-AS-2020.dws_ können Sie für den Bildungsgang **Integrierte Berufsausbildungsvorbereitung**  die Endnoten (Jahresnotendurchschnitte) der Teilbereiche Fachtheorie und Fachpraxis (als Mittelwert der Halbjahresnotendurchschnitte gemäß Anlage 4 Abschnitt B der Verordnung über die integrierte Berufsausbildungsvorbereitung) sowie die Duchschnittsnote des Bildungsganges Integrierte Berufsausbildungsvorbereitung berechnen lassen.
 
 Im folgenden Kapitel beschreiben wir Ihnen die Vorgehensweise.
 
@@ -124,7 +124,7 @@ Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsga
 
 ## Sonstiges für den Zeugnisdruck
 
-### Fächer des berufsfeldebezogenen Unterrichts (Lernfelder) anlegen
+### Fächer des berufsfeldbezogenen Unterrichts (Lernfelder) anlegen
 
 `Extras > Schlüsselverzeichnisse > Fächer > Merkmal`
 
@@ -195,7 +195,7 @@ Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die a
 
 ![Vertragsnummer des Betriebspraktikums](\assets\images\IBA\IBA04.png)
 
-###  Prüfungsfächer - Präsentationsprüfung für MSA / EBBR
+### Prüfungsfächer - Präsentationsprüfung für MSA / EBBR
 
 Für die Ausgabe des Faches der Präsentationsprüfung weisen Sie diesem Fach im Menü `Schüler > Zeugnis > Fächer` im Feld "Fachstatus" den Eintrag "4PF" zu. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
 
@@ -213,7 +213,7 @@ Mündl. Note | ggf. zusätzliche mündliche Prüfung
 
 Das Thema der Präsentationsprüfung erfassen Sie im Menü `Schüler > Zeugnis > Leistungen`im Feld "Beurteilungstexte".
 
-###  Zeugnisbemerkungen für MSA / EBBR Zeugnis
+### Zeugnisbemerkungen für MSA / EBBR Zeugnis
 
 Damit Zeugnisbemerkungen, die nur für das Abschlusszeugnis IBA über MSA bzw. Abschlusszeugnis IBA über EBBR nicht auf dem IBA Abschlusszeugnis (Schul Z 591) ausgegeben werden, beachten Sie bitte folgendes.
 
