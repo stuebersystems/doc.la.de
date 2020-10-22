@@ -64,12 +64,12 @@ Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**A0158** `Klassen > Daten > Abteilung` UND 
-`Schlüsselverzeichnis > Abteilungen`
+**A0158** `Klassen > Daten > Abteilung` UND `Schlüsselverzeichnis > Abteilungen`
 
 Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
-1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
-2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
+
+1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
+2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
 **A0392** `Schüler > Zeugnis > Fächer > Niveau`
 
@@ -121,12 +121,12 @@ Weisen Sie den Fächern im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau"
 
 **A0864** `Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
 
-Tragen Sie den Betrieb des Praktikums im Menü `Schüler > Ausbildung` im Bereich „Praxibetrieb“ ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Praxisbetrieb zuweisen bzw. bearbeiten. Im Feld "Praxisbetrieb" hinterlegen Sie den Betrieb. 
-Erfassen Sie im Feld "Bildungsgang" den Bildungsgang. 
+Tragen Sie den Betrieb des Praktikums im Menü `Schüler > Ausbildung` im Bereich „Praxibetrieb“ ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Praxisbetrieb zuweisen bzw. bearbeiten. Im Feld "Praxisbetrieb" hinterlegen Sie den Betrieb.
+Erfassen Sie im Feld "Bildungsgang" den Bildungsgang.
 
-Hinweis: Am Bildungsgang können verschiedene Berufsfelder hängen. 
+Hinweis: Am Bildungsgang können verschiedene Berufsfelder hängen.
 
-Legen Sie zunächst die möglichen Berufsfelder Ihrer Schule im `Schlüsselverzeichnis > Berufsfelder` an, der Bericht fragt den Eintrag aus dem Feld "Bezeichnung" ab. 
+Legen Sie zunächst die möglichen Berufsfelder Ihrer Schule im `Schlüsselverzeichnis > Berufsfelder` an, der Bericht fragt den Eintrag aus dem Feld "Bezeichnung" ab.
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
@@ -146,7 +146,7 @@ Agrarwirt (beliebig)| 13 (beliebig) | Agrarwirtschaft
 SozPflege (beliebig)| 14 (beliebig) | Sozialpäd. Pflegerischer Dienst 
 Sonstige (beliebig) | 15 (beliebig)| Sonstige/ mehrere Berufsfelder 
 
-Definieren Sie danach im Schlüsselverzeichnis > Bildungsänge Ihre Bildungsgänge, weisen Sie hier je Bildungsgang im Feld "Berufsfeld" ein Berufsfeld zu, folgende Bsp.:
+Definieren Sie danach im `Schlüsselverzeichnis > Bildungsgänge` Ihre Bildungsgänge, weisen Sie hier je Bildungsgang im Feld "Berufsfeld" ein Berufsfeld zu, folgende Bsp.:
 
 Kürzel | Schlüssel | Bezeichnung | Berufsfeld
 --|--|--|--
