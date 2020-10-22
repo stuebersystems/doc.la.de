@@ -903,6 +903,7 @@ Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:"
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
+BÜ |  BÜ |  Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)
 FachT | FachT | Fachtheoretischer Bereich (Unterricht)
 FachP | FachP | Fachpraktischer Bereich (Unterricht)"
 
