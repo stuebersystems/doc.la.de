@@ -87,6 +87,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
@@ -353,6 +354,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
@@ -585,6 +587,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
@@ -748,6 +751,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
@@ -944,6 +948,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
@@ -1195,6 +1200,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
@@ -1292,6 +1298,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
@@ -1421,6 +1428,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
@@ -1561,6 +1569,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
@@ -1707,9 +1716,11 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
@@ -1828,9 +1839,11 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
@@ -2034,6 +2047,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
 
 Möglich sind:
+
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
