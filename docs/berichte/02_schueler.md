@@ -2,6 +2,22 @@
 
 Nachfolgend sind erforderliche Eintragungen für die Berichte unter `MAGELLAN > Schüler > Drucken > Berichte` beschrieben.
 
+## KV09b Masernschutz.rpt
+
+Der Bericht muss aus dem Menü "Schüler" gedruckt werden. Es werden im Berichtskopf die Schüler-/Sorgeberechtigtendaten aus den Einträgen in MAGELLAN ausgegeben, weitere Angaben im Bericht sind nach dem Druck manuell einzutragen. 
+
+### Adressdaten
+
+Die Adressdaten werden immer vom gewählten Schüler ausgegeben.
+
+### Volljährigkeit
+
+Der Bericht prüft die Volljährigkeit des Schülers. Ist der Schüler ab dem Druckdatum volljährig, bleibt das Sorgeberechtigtenfeld leer, die Kontaktdaten (E-Mail, Telefonnummer) des Schülers werden ausgegeben.
+
+Ist der Schüler minderjährig, wird das Sorgeberechtigtenfeld gefüllt, es werden die Kontaktdaten (E-Mail, Telefonnummer) des Sorgeberechtigten ausgegeben.
+
+Aus der Liste unter `Schüler > Daten1 > Familie` wird (sortiert nach der Position) der erste Sorgeberechtige ausgegeben, der den Wert `Immer` im Feld `Benachrichtigung` eingetragen hat.
+
 ## Anmeldeschein (weiterführende Schulen).rpt
 
 **(A0112H)** Ausdruck
@@ -12,7 +28,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken`(Strg + P) gedruckt werden.
 
-**(A0332)** ` Schüler > Laufbahn > Empfehlung`
+**(A0332)** `Schüler > Laufbahn > Empfehlung`
 
 Tragen Sie die Schulübergangsempfehlung im Menü Schüler > Laufbahn im Feld "Empfehlung" wie folgt ein:
 
