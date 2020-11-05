@@ -2,22 +2,6 @@
 
 Nachfolgend sind erforderliche Eintragungen für die Berichte unter `MAGELLAN > Schüler > Drucken > Berichte` beschrieben.
 
-## KV09b Masernschutz.rpt
-
-Der Bericht muss aus dem Menü "Schüler" gedruckt werden. Es werden im Berichtskopf die Schüler-/Sorgeberechtigtendaten aus den Einträgen in MAGELLAN ausgegeben, weitere Angaben im Bericht sind nach dem Druck manuell einzutragen. 
-
-### Adressdaten
-
-Die Adressdaten werden immer vom gewählten Schüler ausgegeben.
-
-### Volljährigkeit
-
-Der Bericht prüft die Volljährigkeit des Schülers. Ist der Schüler ab dem Druckdatum volljährig, bleibt das Sorgeberechtigtenfeld leer, die Kontaktdaten (E-Mail, Telefonnummer) des Schülers werden ausgegeben.
-
-Ist der Schüler minderjährig, wird das Sorgeberechtigtenfeld gefüllt, es werden die Kontaktdaten (E-Mail, Telefonnummer) des Sorgeberechtigten ausgegeben.
-
-Aus der Liste unter `Schüler > Daten1 > Familie` wird (sortiert nach der Position) der erste Sorgeberechtige ausgegeben, der den Wert `Immer` im Feld `Benachrichtigung` eingetragen hat.
-
 ## Anmeldeschein (weiterführende Schulen).rpt
 
 **(A0112H)** Ausdruck
@@ -77,6 +61,22 @@ Wechseln Sie in das Menü Abitur > Auswahl und markieren eine Gruppe von Schüle
 Wählen Sie Drucken > Berichte > Fachwahl-Kursliste.rpt und rufen die Druckvorschau auf. Es erscheint ein Parameterfenster, wählen Sie das Kurshalbjahr (E1, E2, Q1, Q2, Q3 oder Q4)**aus!
 
 Der Bericht fasst die gewählten Kurse nach Fach und Unterrichtsart der markierten Schüler zusammen und gibt jeweils Schüler, Klasse und Fachstatus aus.
+
+## KV09b Masernschutz.rpt
+
+Der Bericht muss aus dem Menü "Schüler" gedruckt werden. Es werden im Berichtskopf die Schüler-/Sorgeberechtigtendaten aus den Einträgen in MAGELLAN ausgegeben, weitere Angaben im Bericht sind nach dem Druck manuell einzutragen. 
+
+### Adressdaten
+
+Die Adressdaten werden immer vom gewählten Schüler ausgegeben.
+
+### Volljährigkeit
+
+Der Bericht prüft die Volljährigkeit des Schülers. Ist der Schüler ab dem Druckdatum volljährig, bleibt das Sorgeberechtigtenfeld leer, die Kontaktdaten (E-Mail, Telefonnummer) des Schülers werden ausgegeben.
+
+Ist der Schüler minderjährig, wird das Sorgeberechtigtenfeld gefüllt, es werden die Kontaktdaten (E-Mail, Telefonnummer) des Sorgeberechtigten ausgegeben.
+
+Aus der Liste unter `Schüler > Daten1 > Familie` wird (sortiert nach der Position) der erste Sorgeberechtige ausgegeben, der den Wert `Immer` im Feld `Benachrichtigung` eingetragen hat.
 
 ## MVP-Schullastenausgleich-Teilzeit (nicht im Landkreis Mecklenburgische Seenplatte).rpt
 
