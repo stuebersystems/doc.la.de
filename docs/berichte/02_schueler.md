@@ -75,7 +75,9 @@ Ist der Schüler minderjährig, wird das Sorgeberechtigtenfeld gefüllt, es werd
 
 !!! danger "Achtung"
 
-    Aus der Liste unter `Schüler > Daten1 > Familie` wird (sortiert nach der Position) der erste Sorgeberechtige ausgegeben, der den Wert `Immer` im Feld `Benachrichtigung` eingetragen hat.
+    Aus der Liste unter `Schüler > Daten1 > Familie` werden (sortiert nach der Position) Sorgeberechtige ausgegeben, für die der Wert `Immer` im Feld `Benachrichtigung` eingetragen wurde.
+
+![KV09b_Masernschutz](/assets/images/berichte.schueler/KV09b_Masernschutz.png)
 
 ## MVP-Schullastenausgleich-Teilzeit (nicht im Landkreis Mecklenburgische Seenplatte).rpt
 
