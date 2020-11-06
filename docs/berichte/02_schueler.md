@@ -64,7 +64,7 @@ Der Bericht fasst die gewählten Kurse nach Fach und Unterrichtsart der markiert
 
 ## KV09b Masernschutz.rpt
 
-Der Bericht muss aus dem Menü "Schüler" gedruckt werden. 
+Der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 Es werden im Berichtskopf die Schüler-/Sorgeberechtigtendaten aus den Einträgen in MAGELLAN ausgegeben. Das Druckdatum (Tagesdatum) und der Ort (`Mandanten > Daten > Ort`) werden automatisch eingefügt. Weitere Angaben im Bericht sind nach dem Druck manuell einzutragen.
 
 ### Volljährigkeit
