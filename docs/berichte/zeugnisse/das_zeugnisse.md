@@ -827,7 +827,6 @@ Grundlage hierzu bildet das `Schlüsselverzeichnis > Kurssprachen`.  Ausgegeben 
 
 Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu unterscheiden, tragen Sie im `Schlüsselverzeichnis > Kurssprachen` für die jeweilige Kurssprache für bilinguale Fächern den Wert „bi“ im Feld "Schlüssel" ein, bei den komplett in einer Fremdsprache unterrichteten Fächern lassen Sie das Feld Schlüssel bitte leer. 
  
-
 Bsp:
 
 Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
