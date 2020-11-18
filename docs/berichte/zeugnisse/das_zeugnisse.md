@@ -814,8 +814,8 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0632)** 
-`Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
 
+`Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
 `Schlüsselverzeichnisse > Kurssprachen`
 
 Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü `Abitur > Qualifikation` in den Feldern Q1Bilingual-Q4Bilingual ein, die Sie über „Layout anpassen“ einblenden können. Q1 und Q2 umfasst den Zeitraum der 11. Klasse, Q3 und Q4 die 12. Klasse. 
@@ -824,6 +824,7 @@ Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu untersc
  
 
 Bsp:
+
 Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
 --|--|--|--
 bi(de/eng)** | bi | Deutsch / Englisch | English / German
@@ -1359,8 +1360,8 @@ Bei `Schüler > Laufbahn > Abschluss` tragen im Bereich „Abschluss1“ im Feld
 
 Kürzel | Schluessel | Bezeichnung
 --|--|--
-BÜG |--| Berechtigung zum Übergang in die Einführungsphase der gymnasialen Oberstufe erhalten
-nBÜG | -- | Berechtigung zum Übergang in die Einführungsphase der gymnasialen Oberstufe NICHT erhalten
+BÜG |-| Berechtigung zum Übergang in die Einführungsphase der gymnasialen Oberstufe erhalten
+nBÜG | - | Berechtigung zum Übergang in die Einführungsphase der gymnasialen Oberstufe NICHT erhalten
 
 **(A0795)** `Schüler > Drucken > Zeugnisse drucken...`
 
@@ -1424,7 +1425,9 @@ Tragen Sie die Staatsangehörigkeit des Schülers im Menü `Schüler > Daten 1` 
 Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü `Abitur > Qualifikation` in den Feldern Q1Bilingual-Q4Bilingual ein, die Sie über „Layout anpassen“ einblenden können. Q1 und Q2 umfasst den Zeitraum der 11. Klasse, Q3 und Q4 die 12. Klasse. 
 Grundlage hierzu bildet das `Schlüsselverzeichnis > Kurssprachen`.  Ausgegeben wird die „Bezeichnung“ und „Bezeichnung1“ des `Schlüsselverzeichnis > Kurssprachen`. 
 Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu unterscheiden, tragen Sie im `Schlüsselverzeichnis > Kurssprachen` für die jeweilige Kurssprache für bilinguale Fächern den Wert „bi“ im Feld "Schlüssel" ein, bei den komplett in einer Fremdsprache unterrichteten Fächern lassen Sie das Feld Schlüssel bitte leer. 
-Bsp:
+
+Bsp.:
+
 Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
 --|--|--|--
 bi(de/eng)** | bi | Deutsch / Englisch | English / German
@@ -2630,7 +2633,7 @@ Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Ei
 
 Tragen Sie die Schulart im aktuellen Zeitraum im Menü `Klassen > Daten` im Feld „Schulart“ ein. Grundlage hierfür bildet das `Schlüsselverzeichnis >Schularten`. Der Bericht fragt die "Bezeichnung" der Schulart ab, Vorgaben sind:
 
-Kürzel (beliebig)**  | Bezeichnung (wie folgt einzutragen)** | Ausgabe im Zeugnis
+Kürzel (beliebig) **| Bezeichnung (wie folgt einzutragen)** | Ausgabe im Zeugnis
 --|--|--
 GS | Grundschule | der Grundschule
 RS | Realschule | der Realschule
