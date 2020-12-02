@@ -18,7 +18,6 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
-
 Arbeitsgemeinschaften:
  Bitte legen Sie Ihre Arbeitsgemeinschaften unter `Schüsselverzeichnisse > Fächer` als Fachzeilen an. Verteilen Sie die Arbeitsgemeinschaften per Sammelzuweisung der Fachtafeln oder weisen sie direkt dem Schüler unter `Schüler > Zeugnis > Fächer` die entsprechenden Fächer der AGs zu. Weisen Sie die Fachzeilen bitte den Fachstatus AG. 
  
@@ -67,6 +66,7 @@ Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im F
 Der Bericht muss aus über `Drucken > Bericht Drucken` (Strg + P) gedruckt werden.
 
 **(A0602)** 
+
 `Abitur > Zeugnisbemerkungen`
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
@@ -458,9 +458,9 @@ Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Fel
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
 **(A0777)** 
-Schüler > Zeugnis > Bemerkungen/Formulare
-Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
-Berufsschule > Zeugnisbemerkungen
+`Schüler > Zeugnis > Bemerkungen/Formulare`
+`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
+`Berufsschule > Zeugnisbemerkungen`
 
 Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B.  So `<<hier steht Ihr Platzhalter>>`.  
@@ -544,7 +544,10 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü `Abitur > Qualifikation` in den Feldern Q1Bilingual-Q4Bilingual ein, die Sie über „Layout anpassen“ einblenden können. Q1 und Q2 umfasst den Zeitraum der 11. Klasse, Q3 und Q4 die 12. Klasse. 
 Grundlage hierzu bildet das `Schlüsselverzeichnis > Kurssprachen`.  Ausgegeben wird die „Bezeichnung“ und „Bezeichnung1“ des `Schlüsselverzeichnis > Kurssprachen`. 
-Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu unterscheiden, tragen Sie im `Schlüsselverzeichnis > Kurssprachen` für die jeweilige Kurssprache für bilinguale Fächern den Wert „bi“ im Feld "Schlüssel" ein, bei den komplett in einer Fremdsprache unterrichteten Fächern lassen Sie das Feld Schlüssel bitte leer.Bsp:
+Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu unterscheiden, tragen Sie im `Schlüsselverzeichnis > Kurssprachen` für die jeweilige Kurssprache für bilinguale Fächern den Wert „bi“ im Feld "Schlüssel" ein, bei den komplett in einer Fremdsprache unterrichteten Fächern lassen Sie das Feld Schlüssel bitte leer.
+
+Bsp:
+
 Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
 --|--|--|--
 bi(de/eng)** | bi | Deutsch / Englisch | English / German
@@ -659,6 +662,7 @@ Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüf
 Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
 
 1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
+
 2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
 **(A0183)** `Mandanten > Daten 1 > Ort`
@@ -679,6 +683,7 @@ Grundlage hierzu bildet das `Schlüsselverzeichnis > Kurssprachen`.  Ausgegeben 
 Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu unterscheiden, tragen Sie im `Schlüsselverzeichnis > Kurssprachen` für die jeweilige Kurssprache für bilinguale Fächern den Wert „bi“ im Feld "Schlüssel" ein, bei den komplett in einer Fremdsprache unterrichteten Fächern lassen Sie das Feld Schlüssel bitte leer. 
 
 Bsp:
+
 Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
 --|--|--|--
 bi(de/eng)** | bi | Deutsch / Englisch | English / German
@@ -2213,11 +2218,9 @@ Bitte weisen im Menü `Klassen > Zeiträume` über die Schalfläche "Leistungspr
 
 Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü `Schüler > Zeugnis > ENBREA Leistungen` pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
 
-
 **(A0850)** `Datenbank > Optionen > ENBREA`
 
 Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
-
 
 ## DSND.DAS-GS (Klasse 3).rpt
 
