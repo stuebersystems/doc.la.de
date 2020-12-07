@@ -91,6 +91,10 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 `Schlüsselverzeichnisse > Kurssprachen`
 
+!!! info "Hinweis"
+
+    Der Bericht bietet Platz für zwei Fächer die bilingual unterrichtet wurden und zwei Fächer die vollständig in abweichender Sprache unterrichtet wurden.
+
 Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü `Abitur > Qualifikation` in den Feldern `Q1Bilingual-Q4Bilingual` ein, die Sie über „Layout anpassen“ einblenden können. 
 
 Die Felder können im Bereich `Abitur` gefüllt werden, oder per Synchronisation aus dem Bereich `Schüler > Zeugnis > Fächer` aus den halbjahresbezogenen Einträgen in der Spalte `Sprache` übernommen werden. In den Bereich `Schüler > Zeugnis > Fächer` kann die Sprache auch bereits aus der Fachwahltafel [`Extras > Schlüsselverzeichnisse > Fachtafeln > Fachwahltafel`] unter `Abitur > Fachwahl` übernommen werden.
@@ -109,6 +113,7 @@ bi(de/eng)** | bi | Deutsch / Englisch | English / German
 Deutsch | leer | Deutsch | German
 Englisch | leer | Englisch | English
 Spanisch | leer | Spanisch | Espanol
+
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
@@ -192,7 +197,7 @@ Mögliche Beurteilungen:
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
+`Extras > Schlüsselverzeichnisse > Fachstatus`
 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
