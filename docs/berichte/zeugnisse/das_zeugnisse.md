@@ -68,6 +68,17 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" 
 
 Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein. Die Fächer werden beim Starten des Verordnungsskriptes auf der Unterkarte `Qualifikation` automatisch eingetragen.
 
+Der Fachstatus muss unter `Abitur > Qualifikation > Fachstatus` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Fachstatus` übernommen werden.  
+Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
+
+| Kürzel | Schlüssel | Bedeutung       |
+|--------|-----------|-----------------|
+| 1PF    | 1PF       | 1. Prüfungsfach |
+| 2PF    | 2PF       | 2. Prüfungsfach |
+| 3PF    | 3PF       | 3. Prüfungsfach |
+| 4PF    | 4PF       | 4. Prüfungsfach |
+| 5PF    | 5PF       | 5. Prüfungsfach |
+
 ### Ort
 
 `Mandanten > Daten 1 > Ort`
