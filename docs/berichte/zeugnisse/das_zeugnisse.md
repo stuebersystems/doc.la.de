@@ -1,5 +1,168 @@
 # Zeugnisse für Deutsche Auslandsschulen
 
+## DAS-GY-ABI (DIA)(2020).rpt
+
+ZEUGNIS DER Zeugnis der ALLGEMEINEN HOCHSCHULREIFE mit besonderer Lernleistung
+Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland  (Beschluss der Kultusministerkonferenz vom 11.06.2015 i.d.F. vom 03.05.2018)** zugrunde.
+(Anlage 8a zu DIA-PO [§ 37])
+
+### Aufgabenbereich
+
+`Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+
+Aufgabenbereich|  Zeugnisbereich
+--|--
+sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfeld
+gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
+mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
+Sport | Weitere Fächer
+Religion | Weitere Fächer
+
+### Fremdsprache
+
+`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+
+Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
+
+Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintrages in MAGELLAN unter `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "von" und aus dem Menü `Klassen > Zeiträume` Feld „Jahrgang“.
+
+### Schulleiter, Klassenleiter, Abteilungsleiter
+
+`Mandanten > Daten 1 > Schulleiter`
+
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
+
+`Klassen > Zeiträume > Zeitraum > Klassenleiter`
+
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
+
+`Klassen > Daten > Abteilung UND Schlüsselverzeichnis > Abteilungen`
+ 
+Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
+
+1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
+2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
+
+### Drucken
+
+Das Zeugnis/der Bericht muss aus dem Menü "Abitur" über das Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
+
+### Lernleistung
+
+`Abitur > Prüfung > Lernleistung`
+
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
+Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu 
+
+### Zeugnisdatum
+
+`Abitur > Prüfung > Zeugnisdatum`
+
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
+
+### Prüfungsfächer
+
+`Abitur > Prüfung > Prüfungsfächer`
+
+Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein. Die Fächer werden beim Starten des Verordnungsskriptes auf der Unterkarte `Qualifikation` automatisch eingetragen.
+
+### Ort
+
+`Mandanten > Daten 1 > Ort`
+
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
+
+### Kurssprachen
+
+`Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
+
+`Schlüsselverzeichnisse > Kurssprachen`
+
+Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü `Abitur > Qualifikation` in den Feldern `Q1Bilingual-Q4Bilingual` ein, die Sie über „Layout anpassen“ einblenden können.
+
+Q1 und Q2 umfasst den Zeitraum der 11. Klasse, Q3 und Q4 die 12. Klasse.
+
+Grundlage hierzu bildet das `Schlüsselverzeichnis > Kurssprachen`.  Ausgegeben wird die „Bezeichnung“ und „Bezeichnung1“ des `Schlüsselverzeichnis > Kurssprachen`. 
+
+Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu unterscheiden, tragen Sie im `Schlüsselverzeichnis > Kurssprachen` für die jeweilige Kurssprache für bilinguale Fächern den Wert „bi“ im Feld "Schlüssel" ein, bei den komplett in einer Fremdsprache unterrichteten Fächern lassen Sie das Feld Schlüssel bitte leer. 
+
+Bsp:
+
+Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
+--|--|--|--
+bi(de/eng)** | bi | Deutsch / Englisch | English / German
+Deutsch | leer | Deutsch | German
+Englisch | leer | Englisch | English
+Spanisch | leer | Spanisch | Espanol
+
+Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
+
+### Fächerverzeichnis
+
+`Schlüsselverzeichnisse > Fächer > Bezeichnung2`
+
+Die Übersetzung des Faches tragen Sie im `Schlüsselverzeichnis > Fächer` im Feld „Bezeichnung2“ ein.
+
+`Schlüsselverzeichnis > Fächer > Merkmale`
+
+Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
+
+Fach (Bezeichnung/Kürzel)**  | 	Merkmal
+--|--
+Deutsch |  	D
+Mathematik | M
+Englisch | 	E
+Landessprache | LS
+
+### Sprachreferenzen
+
+`Schüler > Daten 3 > Fremdsprachefolge > Sprachreferenzen`
+
+Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`. Vom Bericht wird das Kürzel abgefragt. Für das Zuweisen der Referenzen können Sie auch die Sammelzuweisung verwenden.
+
+### Zeugnisbemerkungen
+
+`Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+
+Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
+
+`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+
+Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
+
+`Schüler > Zeugnis > Bemerkungen/Formulare`
+
+`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
+
+`Berufsschule > Zeugnisbemerkungen`
+
+Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B.  So `<<hier steht Ihr Platzhalter>>`.  
+
+Möglich sind:
+
+Platzhalter in MAGELLAN | Anzeige im Bericht
+--|--
+`<<VornameV>>` | Vorname Vorname2
+`<<Nachname>>` | Nachname
+`<<NachnameV>>` | Namenszusatz Nachname
+`<<Name>>` | Vorname Vorname2 Namenszusatz Nachname
+`<<Name>>` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+`<<Nachname>>`  |  Nachname des Schülers
+`<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
+`<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)**     
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)** 
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)** 
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+`<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+
 ## DAS (Zwischenzeugnis) Variante 2.rpt
 
 Dieser Bericht gibt die Arbeitsgemeinschaften untereinander aus, die Arbeitsgemeinschaften werden individuell beurteilt.
@@ -682,156 +845,6 @@ Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im
 Grundlage hierzu bildet das `Schlüsselverzeichnis > Kurssprachen`.  Ausgegeben wird die „Bezeichnung“ und „Bezeichnung1“ des `Schlüsselverzeichnis > Kurssprachen`. 
 Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu unterscheiden, tragen Sie im `Schlüsselverzeichnis > Kurssprachen` für die jeweilige Kurssprache für bilinguale Fächern den Wert „bi“ im Feld "Schlüssel" ein, bei den komplett in einer Fremdsprache unterrichteten Fächern lassen Sie das Feld Schlüssel bitte leer. 
 
-Bsp:
-
-Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
---|--|--|--
-bi(de/eng)** | bi | Deutsch / Englisch | English / German
-Deutsch | leer | Deutsch | German
-Englisch | leer | Englisch | English
-Spanisch | leer | Spanisch | Espanol
-
-Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
-**(A0633)** `Schlüsselverzeichnisse > Fächer > Bezeichnung2`
-
-Die englische Übersetzung des Faches tragen Sie im `Schlüsselverzeichnis > Fächer` im Feld „Bezeichnung2“ ein.
-
-**(A0759)** `Schüler > Daten 3 > Fremdsprachefolge > Sprachreferenzen`
-       
-Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`. Vom Bericht wird das Kürzel abgefragt.
-
-**(A0776)** `Schlüsselverzeichnisse > Zeugnisbemerkungen`
-
-Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
-
-**(A0777)** 
-`Schüler > Zeugnis > Bemerkungen/Formulare`
-
-`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
-
-`Berufsschule > Zeugnisbemerkungen`
-
-Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B.  So `<<hier steht Ihr Platzhalter>>`.  
-
-Möglich sind:
-
-Platzhalter in MAGELLAN | Anzeige im Bericht
---|--
-`<<VornameV>>` | Vorname Vorname2
-`<<Nachname>>` | Nachname
-`<<NachnameV>>` | Namenszusatz Nachname
-`<<Name>>` | Vorname Vorname2 Namenszusatz Nachname
-`<<Name>>` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-`<<Nachname>>`  |  Nachname des Schülers
-`<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
-`<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)**     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)** 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)** 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-`<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
-
-**(A0805)** `Schüler > Daten 3 > Fremdsprachenfolge`
-
-Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintrages in MAGELLAN unter `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "von" und aus dem Menü `Klassen > Zeiträume` Feld „Jahrgang“.
-
-**(A0810)** `Schlüsselverzeichnis > Fächer > Merkmale`
-
-Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
-
-Fach (Bezeichnung/Kürzel)**  | 	Merkmal
---|--
-Deutsch |  	D
-Mathematik | M
-Englisch | 	E
-Landessprache | LS
-
-## DAS-GY-ABI (DIA)(2020).rpt
-
-ZEUGNIS DER Zeugnis der ALLGEMEINEN HOCHSCHULREIFE mit besonderer Lernleistung
-Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland  (Beschluss der Kultusministerkonferenz vom 11.06.2015 i.d.F. vom 03.05.2018)** zugrunde.
-(Anlage 8a zu DIA-PO [§ 37])
-
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
-
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
-
-**(A0017.7)** 
-
-Aufgabenbereich|  Zeugnisbereich
---|--
-sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfeld
-gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
-mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
-Sport | Weitere Fächer
-Religion | Weitere Fächer
-
-**(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
-
-Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
-
-**(A0077)** `Mandanten > Daten 1 > Schulleiter`
-
-Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
-
-**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
-
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
-
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
-
-Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
-
-**(A0111)** `Ausdruck`
-
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
-
-**(A0122)** `Abitur > Prüfung > Lernleistung`
-
-Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
-Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu 
-
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
-
-Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
-
-**(A0153)** `Abitur > Prüfung > Prüfungsfächer`
-
-Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein.
-**(A0158)** `Klassen > Daten > Abteilung UND Schlüsselverzeichnis > Abteilungen`
- 
-Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
-
-1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
-2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
-
-**(A0183)** `Mandanten > Daten 1 > Ort`
-
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
-
-**(A0239)** `Ausdruck`
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
-**(A0632)** 
-
-`Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
-
-`Schlüsselverzeichnisse > Kurssprachen`
-
-Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü `Abitur > Qualifikation` in den Feldern `Q1Bilingual-Q4Bilingual` ein, die Sie über „Layout anpassen“ einblenden können. 
-
-Q1 und Q2 umfasst den Zeitraum der 11. Klasse, Q3 und Q4 die 12. Klasse.
-
-Grundlage hierzu bildet das `Schlüsselverzeichnis > Kurssprachen`.  Ausgegeben wird die „Bezeichnung“ und „Bezeichnung1“ des `Schlüsselverzeichnis > Kurssprachen`. 
-
-Um Bilingual von komplett in einer Fremdsprache unterrichtete Fächer zu unterscheiden, tragen Sie im `Schlüsselverzeichnis > Kurssprachen` für die jeweilige Kurssprache für bilinguale Fächern den Wert „bi“ im Feld "Schlüssel" ein, bei den komplett in einer Fremdsprache unterrichteten Fächern lassen Sie das Feld Schlüssel bitte leer. 
- 
 Bsp:
 
 Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
