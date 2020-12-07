@@ -80,7 +80,9 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 `Schlüsselverzeichnisse > Kurssprachen`
 
-Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü `Abitur > Qualifikation` in den Feldern `Q1Bilingual-Q4Bilingual` ein, die Sie über „Layout anpassen“ einblenden können.
+Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü `Abitur > Qualifikation` in den Feldern `Q1Bilingual-Q4Bilingual` ein, die Sie über „Layout anpassen“ einblenden können. 
+
+Die Felder können im Bereich `Abitur` gefüllt werden, oder per Synchronisation aus dem Bereich `Schüler > Zeugnis > Fächer` aus den halbjahresbezogenen Einträgen in der Spalte `Sprache` übernommen werden. In den Bereich `Schüler > Zeugnis > Fächer` kann die Sprache auch bereits aus der Fachwahltafel [`Extras > Schlüsselverzeichnisse > Fachtafeln > Fachwahltafel`] unter `Abitur > Fachwahl` übernommen werden.
 
 Q1 und Q2 umfasst den Zeitraum der 11. Klasse, Q3 und Q4 die 12. Klasse.
 
