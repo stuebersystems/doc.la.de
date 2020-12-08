@@ -109,10 +109,10 @@ Bsp:
 
 Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
 --|--|--|--
-bi(de/eng)** | bi | Deutsch / Englisch | English / German
-Deutsch | leer | Deutsch | German
-Englisch | leer | Englisch | English
-Spanisch | leer | Spanisch | Espanol
+bi(de/eng)** | **bi** | Deutsch / Englisch | English / German
+Deutsch | **leer** | Deutsch | German
+Englisch | **leer** | Englisch | English
+Spanisch | **leer** | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
