@@ -118,9 +118,13 @@ Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Men�
 
 ### Fächerverzeichnis
 
+#### Fachübersetzung
+
 `Schlüsselverzeichnisse > Fächer > Bezeichnung2`
 
 Die Übersetzung des Faches tragen Sie im `Schlüsselverzeichnis > Fächer` im Feld „Bezeichnung2“ ein.
+
+#### vierstündige Fächer
 
 `Schlüsselverzeichnis > Fächer > Merkmale`
 
@@ -132,6 +136,16 @@ Deutsch |  	D
 Mathematik | M
 Englisch | 	E
 Landessprache | LS
+
+#### Unterrichtssprache
+
+`Schlüsselverzeichnisse > Fächer > Bezeichnung`
+
+Um die Unterrichtssprache zum Fach auszugeben, geben Sie die gewünschte Bezeichnung im Feld `Bezeichnung` ein. 
+
+Beispiel:
+
+`Biologie/Englisch`
 
 ### Sprachreferenzen
 
