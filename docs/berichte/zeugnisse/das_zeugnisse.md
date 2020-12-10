@@ -2150,85 +2150,97 @@ Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Dat
 
 ## DSND.DAS-GS (Klasse 2).rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+### Schulhalbjahre
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+### Klassenjahrgang
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+### Zeugniskonferenz
+
+`Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+### Versetzungsvermerk
+
+`Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+### Fehlzeiten
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+### Unterrichtsarten
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0019.33)** 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+### Druck
+
+`Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
+Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0045)** `Mandanten > Daten > Name 1`
+### Mandanten, Ort
+
+`Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** `Mandanten > Daten 1 > Schulleiter`
+`Mandanten > Daten 1 > Ort`
+
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
+
+`Mandanten > Daten 1 > Name 1, Name 2, Name 3`
+
+Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
+
+### Schulleiter, Klassenleiter
+
+`Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
+`Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+`Lehrer > Daten 2 > Dienstbez.`
+
+Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
+
+### Zeugnisdatum
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+### Zeugnisbemerkungen
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
-
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0141)** `Schlüsselverzeichnis > Zeiträume > Art`
-
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
-
-**(A0183)** `Mandanten > Daten 1 > Ort`
-
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
-
-**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
-
-Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
-
-**(A0466)** `Mandaten > Daten 1 > Name 1, Name 2, Name 3`
-
-Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
-
-**(A0777)** 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
@@ -2260,106 +2272,128 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0844)** `ENBREA Lernleistungen`
+### Verzeichnis Zeiträume
+
+`Schlüsselverzeichnis > Zeiträume > Art`
+
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
+
+### ENBREA Lernleistungen
 
 Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie unter: [https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/](https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/)
 
-**(A0845)** `Schüler > Laufbahn > Abschluss (Abschluss 1)`
+`Datenbank > Optionen > ENBREA`
+
+Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
+
+### Abschluss
+
+`Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
 Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis)** als auch Abgangszeugnis ausgelegt.
 
 Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
 Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
 
-**(A0847)** `Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV`
+### Arbeits- und Sozialverhalten
+
+`Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV`
 
 Bitte weisen im Menü `Klassen > Zeiträume` über die Schalfläche "Leistungsprofile definieren" den Fächern (Name) Sozialverhalten und Arbeitsverhalten im Feld "Interner Code" den Eintrag "ASV" zu.
 
-**(A0849)** `Schüler > Zeugnis > ENBREA Leistungen> Position`
+### Fachpositionen
+
+`Schüler > Zeugnis > ENBREA Leistungen> Position`
 
 Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü `Schüler > Zeugnis > ENBREA Leistungen` pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
-
-**(A0850)** `Datenbank > Optionen > ENBREA`
-
-Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
 
 ## DSND.DAS-GS (Klasse 3).rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+### Schulhalbjahre
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+### Klassenjahrgang
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+### Zeugniskonferenz
+
+`Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+### Versetzungsvermerk
+
+`Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+### Unterrichtsarten
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0019.33)** 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+### Druck
+
+`Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
+Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0045)** `Mandanten > Daten > Name 1`
+### Mandanten, Ort
+
+ `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** `Mandanten > Daten 1 > Schulleiter`
+`Mandanten > Daten 1 > Ort`
+
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
+
+`Mandaten > Daten 1 > Name 1, Name 2, Name 3`
+
+Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
+
+### Klassenleiter, Schulleiter
+
+`Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
+`Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+`Lehrer > Daten 2 > Dienstbez.`
+
+Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
+
+### Zeugnisdatum
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+### Zeugnisbemerkungen
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
-
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0141)** `Schlüsselverzeichnis > Zeiträume > Art`
-
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
-
-**(A0183)** `Mandanten > Daten 1 > Ort`
-
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
-
-**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
-
-Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
-
-**(A0466)** `Mandaten > Daten 1 > Name 1, Name 2, Name 3`
-
-Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
-
-**(A0777)** 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
@@ -2391,116 +2425,134 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0818)** Schüler > Auswahl > SchülerID = Kenn.-Nr
+### Kennnummer
+
+`Schüler > Auswahl > SchülerID = Kenn.-Nr`
 
 Als Kenn-Nr. liest der Bericht die SchülerID des Schüler aus.
 
-**(A0844)** `ENBREA Lernleistungen`
+### ENBREA Lernleistungen
 
 Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie unter: [https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/](https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/)
 
-**(A0845)** `Schüler > Laufbahn > Abschluss (Abschluss 1)`
+`Datenbank > Optionen > ENBREA`
+
+Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
+
+### Abschluss
+
+`Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
 Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis)** als auch Abgangszeugnis ausgelegt.
 
 Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
 Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
 
-**(A0847)** `Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV`
+### Arbeits- und Sozialverhalten
+
+`Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV`
 
 Bitte weisen im Menü `Klassen > Zeiträume` über die Schalfläche "Leistungsprofile definieren" den Fächern (Name) Sozialverhalten und Arbeitsverhalten im Feld "Interner Code" den Eintrag "ASV" zu.
 
-**(A0849)** `Schüler > Zeugnis > ENBREA Leistungen> Position`
+### Fachposition
+
+`Schüler > Zeugnis > ENBREA Leistungen> Position`
 
 Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü `Schüler > Zeugnis > ENBREA Leistungen` pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
 
-
-**(A0850)** `Datenbank > Optionen > ENBREA`
-
-Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
-
-
 ## DSND.DAS-GS (Klasse 4) (Spezial1).rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+### Schulhalbjahre
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+### Klassenjahrgang
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+### Zeugniskonferenz
+
+`Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+### Versetzungsvermerk
+
+`Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+### Fehlzeiten
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+### Unterrichtsarten
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0019.33)** 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+### Druck
+
+`Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
+Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0045)** `Mandanten > Daten > Name 1`
+### Mandanten
+
+`Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** `Mandanten > Daten 1 > Schulleiter`
+`Mandanten > Daten 1 > Ort`
+
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
+
+`Mandaten > Daten 1 > Name 1, Name 2, Name 3`
+
+Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
+
+### Schulleiter, Klassenleiter
+
+`Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
+`Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+`Lehrer > Daten 2 > Dienstbez.`
+
+Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
+
+### Zeugnisdatum
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+### Zeugnisbemerkungen
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
-
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0141)** `Schlüsselverzeichnis > Zeiträume > Art`
-
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
-
-**(A0183)** `Mandanten > Daten 1 > Ort`
-
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
-
-**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
-
-Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
-
-**(A0466)** `Mandaten > Daten 1 > Name 1, Name 2, Name 3`
-
-Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
-
-**(A0777)** 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
@@ -2532,109 +2584,139 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0844)** `ENBREA Lernleistungen`
+### ENBREA Lernleistungen
 
 Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie unter: [https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/](https://doc.magellan7.stueber.de/schulverwaltung/howto/enbrea.leistungen/)
 
-**(A0845)** `Schüler > Laufbahn > Abschluss (Abschluss 1)`
+`Datenbank > Optionen > ENBREA`
+
+Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
+
+### Abschluss
+
+`Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
 Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis)** als auch Abgangszeugnis ausgelegt.
 
 Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
 Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
 
-**(A0847)** `Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV`
+### Arbeits- und Sozialverhalten
+
+`Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV`
 
 Bitte weisen im Menü `Klassen > Zeiträume` über die Schalfläche "Leistungsprofile definieren" den Fächern (Name) Sozialverhalten und Arbeitsverhalten im Feld "Interner Code" den Eintrag "ASV" zu.
 
-**(A0849)** `Schüler > Zeugnis > ENBREA Leistungen> Position`
+### Fachposition
+
+`Schüler > Zeugnis > ENBREA Leistungen> Position`
 
 Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü `Schüler > Zeugnis > ENBREA Leistungen` pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
 
 
-**(A0850)** `Datenbank > Optionen > ENBREA`
-
-Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
-
 ## DSND.DAS-GS-GY (Klasse 3-10).rpt
 
-**(A0002)** `Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
+### Beurteilungsart
 
-Im Menü `Klassen` muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein,
-hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
+ `Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+Im Menü `Klassen` muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein, hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
+
+### Zeugniskonferenz
+
+`Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+### Versetzungsvermerk
+
+`Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+### Fehlzeiten
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+### Unterrichtsarten
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0019.33)** 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+### Fachpositionen
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0045)** `Mandanten > Daten > Name 1`
+### Mandanten
+
+`Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0077)** `Mandanten > Daten 1 > Schulleiter`
+`Mandanten > Daten > Name 2`
+
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
+
+### Schulleiter, Klassenleiter
+
+`Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
+`Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0087)** `Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
+### Schuljahr, Schulhalbjahr
+
+`Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+`Schlüsselverzeichnis > Zeiträume > Art`
+
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
+
+### Zeugnisdatum
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+### Druck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
-
-**(A0112)** `Ausdruck`
-
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+### Zeugnisbemerkungen
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0141)** `Schlüsselverzeichnis > Zeiträume > Art`
+### Ort
 
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
-
-**(A0183)** `Mandanten > Daten 1 > Ort`
+`Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0283)** Schüler > Zeugnis > Details > Verhalten bzw. Mitarbeit
+### Verhalten und Mitarbeit
+
+`Schüler > Zeugnis > Details > Verhalten bzw. Mitarbeit`
 
 Zur Ausgabe der Noten für "Arbeitsverhalten" und "Sozialverhalten" verwenden Sie bitte im Menü Schüler > Zeugnis > Details die Felder "Mitarbeit" und "Verhalten". Beachten Sie folgendes
 
@@ -2645,20 +2727,19 @@ Sozialverhalten | zu verwenden für das Fach "Verhalten"
 
 Die Noten "vorbildlich", "gut", "zufriedenstellend" und "entwicklungsbedürftig" müssen im Schlüsselvereichnis Noten angelegt werden und dem Schüler zugewiesen werden.
 
-**(A0402)** Schüler > Zeugnis > Fächer > Hauptfach
+### Hauptfach
+
+Schüler > Zeugnis > Fächer > Hauptfach
 
 Unterfächer die einem Hauptfach zugeordnet werden sollen, kennzeichnen Sie im Menü Schüler > Zeugnis > Fächer im Feld "Haupfach". Dort weisen Sie dem Unterfach das entsprechende Hauptfach zu. Damit die Fächer auf dem Zeugnis in der gewünschten Reihenfolge ausgegeben wird, weisen Sie den Fächern entsprechende Positionen zu. 
 Machen Sie dabei zwischen Unter-  und Hauptfächern keine Unterschiede und positionieren diese in der gewünschten chronologischen Reihenfolge. Beachten Sie dabei, dass ein Hauptfach eine niedrigere Position als ein Unterfach haben muss und dass keine anderen Fächer zwischen Hauptfach und Unterfach positioniert werden.
 
-**(A0740)** `Mandanten > Daten > Name 2`
+### Zeugnisbemerkungen
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
-
-**(A0776)** `Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
-**(A0777)** 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
@@ -2690,14 +2771,18 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0845)** `Schüler > Laufbahn > Abschluss (Abschluss 1)`
+### Abschluss
+
+`Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
 Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis)** als auch Abgangszeugnis ausgelegt.
 
 Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
 Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
 
-**(A0848)** `Klassen > Daten > Schulart`
+### Schulart
+
+`Klassen > Daten > Schulart`
 
 Tragen Sie die Schulart im aktuellen Zeitraum im Menü `Klassen > Daten` im Feld „Schulart“ ein. Grundlage hierfür bildet das `Schlüsselverzeichnis >Schularten`. Der Bericht fragt die "Bezeichnung" der Schulart ab, Vorgaben sind:
 
@@ -2717,50 +2802,12 @@ Zeugnis über das ... Halbjahr der gymnasialen Qualifikationsphase
 
 (Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland „Deutsches Internationales Abitur“ (Beschluss der Kultusministerkonferenz vom 11.06.2015) zugrunde.)
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+### Schulhalbjahre, Kurshalbjahre
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
-
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
-
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
-
-**(A0017.7)** 
-
-Aufgabenbereich|  Zeugnisbereich
---|--
-sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfeld
-gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
-mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
-Sport | Weitere Fächer
-Religion | Weitere Fächer
-
-**(A0045)** `Mandanten > Daten > Name 1`
-
-Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 1" ein.
-
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
-
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
-
-**(A0112)** `Ausdruck`
-
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
-
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
-
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
-
-**(A0183)** `Mandanten > Daten 1 > Ort`
-
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
-
-**(A0394)** 
 `Schlüsselverzeichnis > Zeiträume > Art` UND
 
 `Klassen > Zeiträume > Jahrgang`
@@ -2774,15 +2821,61 @@ Jahrgang/Zeitraum | Ausgabe im Bericht
 13.1 (Q3) | 3. Kurshalbjahr
 13.2 (Q4) | 4. Kurshalbjahr
 
-**(A0740)** `Mandanten > Daten > Name 2`
+### Klassenjahrgang
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+
+### Aufgabenbereich
+
+`Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+
+Aufgabenbereich|  Zeugnisbereich
+--|--
+sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfeld
+gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
+mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
+Sport | Weitere Fächer
+Religion | Weitere Fächer
+
+### Mandanten, Ort
+
+`Mandanten > Daten > Name 1`
+
+Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 1" ein.
+
+`Mandanten > Daten > Name 2`
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**(A0776)** `Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Mandanten > Daten 1 > Ort`
+
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
+
+### Zeugnisdatum
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
+
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
+
+### Druck
+
+Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+
+### Zeugnisbemerkungen
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
+
+ `Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
-**(A0777)** 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
@@ -2814,7 +2907,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0810)** `Schlüsselverzeichnis > Fächer > Merkmale`
+### Verzeichnis Fächer
+
+`Schlüsselverzeichnis > Fächer > Merkmale`
 
 Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
@@ -2825,7 +2920,7 @@ Mathematik | M
 Englisch | 	E
 Landessprache | LS
 
-## DAS-HJZ-JZ (3-12).rpt
+## Archiv DAS-HJZ-JZ (3-12).rpt
 
 Halbjahres-/Jahreszeugnis der Klassenstufe 3-12
 
@@ -2987,10 +3082,7 @@ beliebig (HS) | leer | Hauptschule
 beliebig (OS) | leer | Orientierungsstufe
 beliebig (RS) | leer | Realschule"
 
-## Archiv
-
-
-### DAS-GY-ABI (Anlage 7).rpt
+## Archiv DAS-GY-ABI (Anlage 7).rpt
 
 ALT: Bitte verwenden Sie den Bericht DAS-GY-ABI (DIA)(2019).rpt
 
@@ -3108,7 +3200,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintrages in MAGELLAN unter `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "von" und aus dem Menü `Klassen > Zeiträume` Feld „Jahrgang“.
 
-### DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6).rpt
+## Archiv DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6).rpt
 
 bis 2019
 
