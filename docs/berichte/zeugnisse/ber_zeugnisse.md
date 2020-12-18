@@ -13100,9 +13100,18 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 **(A0907)** `Klassen > Merkmale > Merkmal S4`
 
-Das Zeugnis kann sowohl für G8 als auch G9 genutzt werden.Tragen Sie im Menü  `Klasse > Merkmale` die im Feld „Merkmal S4“ für "G8"bitte "G8"  und für  "G9"bitte "G9" ein.
+Das Zeugnis kann sowohl für G8 als auch G9 genutzt werden.
+Tragen Sie im Menü `Klasse > Merkmale` die im Feld „Merkmal S4“ für "G8"bitte "G8"  und für  "G9"bitte "G9" ein. Sollten die Werte nicht vorhanden sein, ergänzen Sie sie bitte:
 
-Grundlage hierfür bildet das `Schlüsselverzeichnis > Klassenmerkmale`. Ergänzen Sie es um die Einträge "G8" und "G9".
+
+Version 6: Grundlage hierfür bildet das `Verzeichnisse > Merkmale > Klassenmerkmale`. Legen Sie hier zwei neue Werte an. 
+Version 7: Grundlage hierfür bildet das `chlüsselverzeichnisse  > Klassenmerkmale`.  Legen Sie hier zwei neue Werte an. 
+
+Kürzel|Schlüssel|Bezeichnung|Bereich
+--|--|--|--
+G8|G8|G8|MerkmalS4
+G9|G9|G9|MerkmalS4
+
 
 ## BER-Schul Z 302 (12.07).rpt
 
