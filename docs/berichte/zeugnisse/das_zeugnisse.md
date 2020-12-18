@@ -2903,8 +2903,8 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)** 
 `<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
 `<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)**
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)**
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ### Verzeichnis Fächer
