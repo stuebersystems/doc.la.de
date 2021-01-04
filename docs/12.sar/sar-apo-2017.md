@@ -87,7 +87,8 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unt
 |G-Kurs|G|G-Kurs / Fach mit grundlegendem Anforderungsniveau|
 |NF|NF|Neigungsfach|
 
-!!!warning: "Wichtig"
+!!! warning "Wichtig"
+
     Unterrichtsart kann mit "Kurs" oder mit "E-Kurs" und "G-Kurs" oder einer beliebigen anderen Bezeichnung gewählt werden. Das Seminarfach kann ebenfalls beliebig durch die Unterrichtsart gekennzeichnet werden.
 Das Neigungsfach wir durch die 'Unterrichtsart "NF" gekennzeichnet.
 
