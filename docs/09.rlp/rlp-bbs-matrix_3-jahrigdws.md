@@ -11,7 +11,7 @@ Alle Fächer mit der Unterrichtsart „BU“ werden gemäß der Vorschrift für 
 Jedes Fach mit der Unterrichtsart „BU“ muss einen Stundenfaktor zugeordnet bekommen, welcher der Anzahl der unterrichteten Wochenstunden entspricht.  
 Wird z.B. das berufsbezogene Fach BWL wöchentlich 2-stündig unterrichtet, so muss man dem Fach BWL der Faktor 2 erhalten.
 
-|Fach |Unetrrichtsart |Faktor|
+|Fach |Unterrichtsart |Faktor|
 |--|--|--|
 |BWL |BU |2|
 
