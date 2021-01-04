@@ -1,4 +1,4 @@
-# SAR-APO-2018 (GOS 2.0 - in Vorbereitung)
+# SAR-APO-2018 (GOS 2.0)
 
 ## Quelle
 
@@ -27,7 +27,7 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 
 ## Fachkategorien
 
-Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`. 
+Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`.
 Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werden. Für diese Fächer sind die zu verwendenden Fachkategorien fest vorgeschrieben. Alle anderen Fächer können mit einer der übrigen Fachkategorie gekennzeichnet werden oder ohne Fachkategorie geführt werden.
 
 |Fachkategorien|Muss genutzt werden|
@@ -116,6 +116,16 @@ Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. 
 |---------|------------------------------------------|
 | A       | Fremdsprache Anfänger (2 Kurse müssen eingebracht werden) |
 
+## Seminarfach
+
+Legen Sie als Seminarfach bitte eine Fach mit der Fachkategorien "Seminar" an. Das Seminarfach erhält die Unterrichtsart  "G-Kurs".
+
 ## Die Besondere Lernleistung
 
-Laut der zugrundliegenden Abiturverordnung muss die besondere Lernleistung im Kursbereich und nicht im Prüfungsbereich eingebracht werden. Aus diesem Grund müssen die einzubringenden Noten der besonderen Lernleistung als normale Fachnoten auf der Registerkarte ``Abitur > Qualifikation`` eingegeben werden und nicht wie sonst üblich auf der Registerkarte ``Abitur > Prüfung``.
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur“` auf der Registerkarte `Prüfung > Lernleistung` das entsprechende **Fach** zuweisen und das Optionsfeld Lernleistung einbringen markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld **Thema** zu.
+
+Das Ergebnis tragen Sie bitte im Feld **Punkte** ganz links ein.
+
+!!! info Hinweis 
+
+     Die Vorschlagsautomatik weist Sie darauf hin, ob das Einbringen der Lernleistung günstiger ist, als das Seminarfach. Sollte dies der Fall, nehmen Sie bitte die entsprechenden Halbjahre des Seminrafaches manuell aus der Berechnung aus `Abitur > Qualifikation` durch manuelles Markieren und bringen die Lernleistung bitte auf `Abutur > Prüfung > Lernleistung` bitte ein.
