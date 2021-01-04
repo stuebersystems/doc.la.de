@@ -186,7 +186,7 @@ Bitte legen Sie im `Schlüsselverzeichnis > Abschlussarten` folgende Zusatzinfor
 
 ![Verzeichnis Abschlussarten](/assets/images/mittelstufe/ms_abschlussarten.png)
 
-## Schüler ins Menü `Mittelstufe` synchronisieren
+## Schüler ins Menü Mittelstufe synchronisieren
 
 ### Vorbereitung
 
