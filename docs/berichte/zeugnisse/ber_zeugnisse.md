@@ -9912,7 +9912,7 @@ Bildende Kunst |BIKU
 Politikwissenschaft | -
 Geschichte |GE, GES, GESOZ
 Geografie |GEO
-Mathematik |Ma, MAT
+Mathematik |MA, MAT
 Physik |PHY
 Chemie |CHE
 Biologie |BIO
