@@ -9906,8 +9906,10 @@ Für einige Fächer, die fest ausgegeben werden, wird eine Fachbezeichnung oder 
 
 Faecher.Bezeichnung|Faecher.Schluessel
 --|--
-Deutsch | = DE, DEU
+Deutsch | DE, DEU
+Musik | MU, MUS
 Bildende Kunst |BIKU
+Politikwissenschaft | -
 Geschichte |GE, GES, GESOZ
 Geografie |GEO
 Mathematik |Ma, MAT
@@ -9916,6 +9918,7 @@ Chemie |CHE
 Biologie |BIO
 Informatik |INF
 Sport |SPORT (Position 24 oder 25)
+
 
 ### Unterrichtsarten
 
