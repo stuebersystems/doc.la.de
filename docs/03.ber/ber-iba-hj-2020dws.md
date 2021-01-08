@@ -96,7 +96,7 @@ Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler >
 **Füllwerte**:
 Sollten Ihnen die gewünschten Füllwerte nicht zur Verfügung stehen, legen Sie diese bitte unter `Extras > Schlüsselverzeichnisse > Noten` an.
 
-![Füllwerte anlegen](\assets\images\IBA\IBA20.png)
+![Füllwerte anlegen](/assets/images/IBA/IBA20.png)
 
 !!! warning "Wichtig"
 
@@ -129,7 +129,7 @@ Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsga
 
    Die berechnete "Endnote" kann jederzeit manuell im Feld "Endnote" geändert werden. Durch erneutes Ausführen des Berechnungsskriptes wird diese Note nicht mehr überschrieben, das Skript gibt Ihnen im Meldefenster den Hinweis "Endnote für "Fach XY" manuell eingegeben (berechneter Wert wäre 2)".
 
-![Meldefenster nach Notenänderung im Feld "Endnote" und erneuter Berechnung durch das Skript](\assets\images\IBA\IBA10.png)
+![Meldefenster nach Notenänderung im Feld "Endnote" und erneuter Berechnung durch das Skript](/assets/images/IBA/IBA10.png)
 
 ## Sonstiges für den Zeugnisdruck
 
