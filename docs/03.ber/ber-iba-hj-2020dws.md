@@ -93,6 +93,11 @@ Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler >
     Das Berechnungsskript kann auch Füllwerte verarbeiten. Dazu zählt Folgendes: o.B. = o.B.
     Ist der gebildete Durchschnitt bei Fachtheorie bzw. Fachpraxis des berufsfeldbezogenen Unterrichts im Ergebnis "o.B.", so wird im Durchschnitt eine "0" gespeichert.
 
+**Füllwerte**:
+Sollten Ihnen die gewünschten Füllwerte nicht zur Verfügung stehen, legen Sie diese bitte unter `Extras > Schlüsselverzeichnisse > Noten` an.
+
+![Füllwerte anlegen](\assets\images\IBA\IBA20.png)
+
 !!! warning "Wichtig"
 
     Aktivieren Sie für den Schüler unter `Schüler > Zeugnis > Leistungen` das Optionsfeld `Durchschnitt`. Auf der rechten Seite der Registerkarte erscheint nun eine zusätzliche Leiste.
