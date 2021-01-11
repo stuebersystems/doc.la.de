@@ -2,7 +2,7 @@
 
 ## SAR-AS-Verhaltenszeugnis.rpt
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**A0013** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -11,7 +11,7 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis ""Fachtafeln"" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.98)** 
+**A0015.98** 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -1335,21 +1335,21 @@ Zusätzlich zu den von uns gelieferten Berichten liefern wir vom Ministerium fü
 
 ## SAR-GY-ABI (GOS2.0).rpt 
 
-Vorlage: Anlage 9a [§ 54 (1)] - mit GeR
+Vorlage: Anlage 9a [§ 54 (1)] - mit GeR, Abiturzeugnis
 
 **A0015** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:"
 
-**A0015.57**	
+**A0015.57**
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
-1PF | 1PF | 1. Prüfungsfach 
-2PF| 2PF | 2. Prüfungsfach 
-3PF | 3PF | 3. Prüfungsfach 
-4PF| 4PF|  4. Prüfungsfach 
+1PF | 1PF | 1. Prüfungsfach
+2PF| 2PF | 2. Prüfungsfach
+3PF | 3PF | 3. Prüfungsfach
+4PF| 4PF|  4. Prüfungsfach
 5PF |  5PF | 5. Prüfungsfach
 
 **A0017** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
@@ -1371,17 +1371,10 @@ Religion| Weitere Fächer
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im `Schlüsselverzeichnis > Fachtafeln` die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**A0019.71**
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
-L-Kurs | L  | Leistungskurse (L-Kurse), Kurse auf erhöhtem Anforderungsniveau"
-
-**A0019.72**
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
-G-Kurs | G | Grundkurse (G-Kurse), Kurs auf grundlegendem Anforderungsniveau"
+L-Kurs | L  | Leistungskurse (L-Kurse), Kurse auf erhöhtem Anforderungsniveau
+G-Kurs | G | Grundkurse (G-Kurse), Kurs auf grundlegendem Anforderungsniveau
 
 **A0020** `Schüler > Daten 3 > Von/Bis-Datum`
 
@@ -1394,7 +1387,7 @@ angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "K
 
 **A0032** `(Landesanpassungen)[https://doc.la.stueber.de/]`
 
-Für den Zeugnisdruck des Abiturs/Hauptphase bildet die Online Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. https://doc.la.stueber.de/"
+Für den Zeugnisdruck des Abiturs/Hauptphase bildet die Online Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. https://doc.la.stueber.de/
 
 **A0077** `Mandanten > Daten 1 > Schulleiter`
 
@@ -1404,10 +1397,10 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**A0130	** `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
+**A0130** `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
 Im Menü`Klassen > Daten` muss bei der Klasse des Schülers im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
-**A0139	** `Abitur > Prüfung > Zeugnisdatum`
+**A0139** `Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -1423,6 +1416,8 @@ Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `A
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
 Die Note für die besondere Lernleistung tragen Sie im 1. Notenfeld ganz links ein.
+
+![`Abitur > Prüfung > Lernleistung`](/assets/images/Saarland/sar003.png)
 
 **A0415** `Lehrer > Daten 2 > Amtsbez.`
 
@@ -1485,12 +1480,16 @@ Notenverzeichnis:
 
 Notenkürzel | Bezeichnung | Alternative Bezeichnung | Notenwert	| Notenart | 	Farbe | Statistik-ID | Gültig von | Gültig bis
 --|--|--|--|--|--|--|--|--
-15| sehr gut | | 15 |	Punktwert | Keine Farbe ausgewählt | | | 	
+15| sehr gut | | 15 |	Punktwert | Keine Farbe ausgewählt | | | 
 14| sehr gut | | 14 |	Punktwert | Keine Farbe ausgewählt | | | 	
 13| sehr gut | | 13 |	Punktwert | Keine Farbe ausgewählt | | |		
 bL 15| sehr gut | | 15 |	Punktwert | Keine Farbe ausgewählt | | | 	
 bL 14| sehr gut | | 14 |	Punktwert | Keine Farbe ausgewählt | | | 	
 bL 13| sehr gut | | 13 |	Punktwert | Keine Farbe ausgewählt | | |
+
+![`Abitur > Prüfung > Lernleistung`](/assets/images/Saarland/sar003.png)
+
+![`Abitur > Qualifikation`](/assets/images/Saarland/sar005.png)
 
 ## SAR-GY-AZ (GOS2.0).rpt
 
