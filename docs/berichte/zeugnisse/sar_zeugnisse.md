@@ -1563,6 +1563,97 @@ Im Menü`Klassen > Daten` muss bei der Klasse des Schülers im Feld "Beurteilung
 
 Vorlage: Anlage 5 [§ 34 (4)]
 
+![Vorlage](/assets/images/Saarland/Antrag_Zulassung_Abitur_anlage5.pdf)
+
+**A0015**	`Extras > Schlüsselverzeichnisse > Fachstatus`
+
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
+
+**A0015.110** Kürzel | Schlüssel | Bezeichnung	
+--|--|--
+1PF | 1PF  | 1. Prüfungsfach
+2PF | 2PF | 2. Prüfungsfach
+3PF | 3PF  | 3. Prüfungsfach
+4PF | 4PF  | 4. Prüfungsfach
+5PF | 5PF  | 5. Prüfungsfach"
+
+**A0023**	`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+
+Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
+angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben."
+
+**A0045**	`Mandanten > Daten > Name 1`
+
+Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein."
+
+**A0100** `Schüler > Zeugnis > Details > Zeugnisdatum`
+
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein."
+
+**A0111** `Ausdruck`
+
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden."
+
+**A0131** `Schüler > Zeugnis > Details > Tutor`
+
+Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden."
+
+**A0179** `Schüler > Zeugnis > Stammkurs`
+
+Im Menü `Schüler > Zeugnis` legen Sie über die Spalte "Stammkurs" fest, welcher Kurs der Stammkurs bzw. Bezugskurs des Schülers ist."
+
+**A0241** `Abitur > Prüfung`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren."
+
+**A0266** `Abitur > Prüfung > Lernleistung`
+
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
+Die Note für die besondere Lernleistung tragen Sie im 1. Notenfeld ganz links ein."
+
+**A0921** `Schüler > Merkmale > Merkmal D1`
+
+Eintrittsdatum in die Oberstufe: Tragen Sie im Menü `Schüler > Merkmale`  im Feld "Merkmal D1" das Datum des Eintritts in die Oberstufe ein."
+
+**A0922** `Schüler > Merkmale > Merkmal D3`
+
+Nachwais der Pflichtfremdsprachen, Feststellungsprüfung: Tragen Sie im Menü `Schüler > Merkmale`  im Feld "Merkmal D3" das Datum der Feststellungsprüfung ein."
+
+**A0923** `Schüler > Merkmale > Merkmal B1`
+
+Fach der Feststellungsprüfung: Tragen Sie im Menü `Schüler > Merkmale`  im Feld "Merkmal B1" das Fach der Feststellungsprüfung ein."
+
+**A0924** `Schüler > Merkmale > Merkmal B2`
+
+Niveau der Feststellungsprüfung: Tragen Sie im Menü `Schüler > Merkmale`  im Feld "Merkmal B2" das Niveau der Feststellungsprüfung ein."
+
+**A0925** `Schüler > Merkmale > Merkmal B3`
+
+Note der Feststellungsprüfung: Tragen Sie im Menü `Schüler > Merkmale`  im Feld "Merkmal B3" das Niveau der Feststellungsprüfung ein."
+
+**A0926** `Sonstiges`
+
+Teilnahme am Lateinunterricht: In welcher Klassenstufe das Fach "Latein" belegt wurde, sowie die letzte Note tragen Sie bitte händisch auf dem Formular ein."
+
+**A0927** `Sonstiges`
+
+Ergänzungsprüfung Ja/Nein haken Sie händisch auf dem Formular ein."
+
+**A0928** `Extras > Schlüsselverzeichnisse > Abschlussjahrgänge`
+
+Jahr der Abiturprüfung: Sie können in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Abschlussjahrgänge` die Abschlussjahrgänge definieren. In unserem Fall ist dies ein Abiturjahrgang. Damit können Sie jedem Schüler in der Rubrik `Abitur` den entsprechenden Abiturjahrgang zuordnen. 
+
+Der Bericht liest das Feld "Bezeichnung" aus. (2021, 2020 etc.)"
+
+**A0929** `Abitur > Qualifikation`
+
+Leistungen in der Hauptphase: Die Punktwerte der Fächer zieht der Bericht je HJ aus dem Menü `Abitur > Qualifikation`. Den Fachlehrer der jeweiligen Fächerkönnen Sie im Feld "Lehrer" im Menü `Abitur > Qualifikation` erfassen, ist dies erfolgt, wird er in den Bericht übergeben."
+
+**A0931** `Abitur > Qualifikation > Merkmal`
+
+Wochenstunden der Fächer: Tragem Sie die Wochenstunden der Fächer im  Menü `Abitur > Qualifikation` im Feld "Merkmal" ein."
+
 ## SAR-BS-AS-Lernfeld A3 MBK.rpt
 
 Zusätzlich zu den von uns gelieferten Berichten liefern wir vom Ministerium für Bildung und Kultur erstellte Berichte aus. Sie finden diese Zeugnisberichte aus MAGELLAN heraus über `Schüler > Drucken > Zeugnisse > Saarland > Ministerium`. Hier finden Sie Details zu den Berichten:
