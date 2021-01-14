@@ -125,7 +125,7 @@ Wenn Sie diese einbringen wollen, setzen Sie nun den Haken vor **Lernleistung ei
 Das `Verzeichnis > Noten` müssen Sie entsprechend für die Noten der Besonderen Lernleistung anpassen.
 
 Notenkürzel|Bezeichnung|Notenwert| Notenart
--|-|-|-|-
+-|-|-|-
 bL00|ungenügend|0|Punktwert
 bL01|mangelhaft|1|Punktwert
 bL02|mangelhaft|2|Punktwert
