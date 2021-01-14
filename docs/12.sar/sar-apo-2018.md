@@ -122,10 +122,33 @@ Legen Sie als Seminarfach bitte eine Fach mit der Fachkategorien "Seminar" an. D
 
 ## Die Besondere Lernleistung
 
-Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur“` auf der Registerkarte `Prüfung > Lernleistung` das entsprechende **Fach** zuweisen und das Optionsfeld Lernleistung einbringen markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld **Thema** zu.
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur“` auf der Registerkarte `Prüfung > Lernleistung` das entsprechende **Fach** zuweisen. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld **Thema** zu.
 
 Das Ergebnis tragen Sie bitte im Feld **Punkte** ganz links ein.
 
-!!! info Hinweis 
+Die Vorschlagsautomatik weist Sie darauf hin, ob das Einbringen der Lernleistung günstiger ist, als das Einringen des Seminarfaches. 
 
-     Die Vorschlagsautomatik weist Sie darauf hin, ob das Einbringen der Lernleistung günstiger ist, als das Seminarfach. Sollte dies der Fall, nehmen Sie bitte die entsprechenden Halbjahre des Seminrafaches manuell aus der Berechnung aus `Abitur > Qualifikation` durch manuelles Markieren und bringen die Lernleistung bitte auf `Abutur > Prüfung > Lernleistung` bitte ein.
+Wenn Sie diese einbringen wollen, setzen Sie nun den Haken vor **Lernleistung einbringen und** tragen Sie unter `Abitur > Qualifikation` anstelle der Seminarfach-Noten für diese beiden Halbjahre die Noten der Besonderen Lernleistung ein. Die Noten müssen den Präfix "bL" haben.
+
+Das `Verzeichnis > Noten` müssen Sie entsprechend für die Noten der Besonderen Lernleistung anpassen.
+
+Notenkürzel|Bezeichnung|Notenwert| Notenart
+-|-|-|-|-
+bL00|ungenügend|0|Punktwert
+bL01|mangelhaft|1|Punktwert
+bL02|mangelhaft|2|Punktwert
+bL03|mangelhaft|3|Punktwert
+bL04|ausreichend|4|Punktwert
+bL05|ausreichend|5|Punktwert
+bL06|ausreichend|6|Punktwert
+bL07|befriedigend|7|Punktwert
+bL08|befriedigend|8|Punktwert
+bL09|befriedigend|9|Punktwert
+bL10|gut|10|Punktwert
+bL11|gut|11|Punktwert
+bL12|gut|12|Punktwert
+bL13|sehr gut|13|Punktwert
+bL14|sehr gut|14|Punktwert
+bL15|sehr gut|15|Punktwert
+
+Führen Sie danach das Berechnungsskript erneut aus.
