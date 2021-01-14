@@ -4,7 +4,7 @@
 
 !!! info "Hinweis"
 
-     Basierend auf der Verordnung zur Änderung der Verordnung [– Schul-und Prüfungsordnung über die gymnasiale Oberstufe und die Abiturprüfung im Saarland vom 17. April 2018](http://sl.juris.de/cgi-bin/landesrecht.py?d=http://sl.juris.de/sl/gesamt/OberStV_SL_2007.htm#OberStV_SL_2007_rahmen)
+     Basierend auf der Verordnung zur Änderung der Verordnung [– Schul-und Prüfungsordnung über die gymnasiale Oberstufe und die Abiturprüfung im Saarland vom 17. April 2018]
 
 ## Verzeichnis Verordnung
 
@@ -107,14 +107,6 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 
 !!!info "Hinweis"
     Die Abiturprüfung erfolgt in vier Fächern schriftlich und in einem Fach mündlich. In den schriftlich geprüften Fächern sind zusätzlich mündliche Prüfungen möglich.
-
-## Merkmal
-
-Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
-
-| Merkmal | Bedeutung                                |
-|---------|------------------------------------------|
-| A       | Fremdsprache Anfänger (2 Kurse müssen eingebracht werden) |
 
 ## Seminarfach
 
