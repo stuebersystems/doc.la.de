@@ -4,7 +4,7 @@
 
 !!! info "Hinweis"
 
-     Basierend auf der Verordnung zur Änderung der Verordnung [– Schul-und Prüfungsordnung über die gymnasiale Oberstufe und die Abiturprüfung im Saarland vom 17. April 2018](http://sl.juris.de/cgi-bin/landesrecht.py?d=http://sl.juris.de/sl/gesamt/OberStV_SL_2007.htm#OberStV_SL_2007_rahmen)
+     Basierend auf der Verordnung zur Änderung der Verordnung [– Schul-und Prüfungsordnung über die gymnasiale Oberstufe und die Abiturprüfung im Saarland vom 17. April 2018]
 
 ## Verzeichnis Verordnung
 
@@ -108,24 +108,16 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 !!!info "Hinweis"
     Die Abiturprüfung erfolgt in vier Fächern schriftlich und in einem Fach mündlich. In den schriftlich geprüften Fächern sind zusätzlich mündliche Prüfungen möglich.
 
-## Merkmal
-
-Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
-
-| Merkmal | Bedeutung                                |
-|---------|------------------------------------------|
-| A       | Fremdsprache Anfänger (2 Kurse müssen eingebracht werden) |
-
 ## Seminarfach
 
 Legen Sie als Seminarfach bitte eine Fach mit der Fachkategorien "Seminar" an. Das Seminarfach erhält die Unterrichtsart  "G-Kurs".
 
 ## Die Besondere Lernleistung
 
-Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur“` auf der Registerkarte `Prüfung > Lernleistung` das entsprechende **Fach** zuweisen und das Optionsfeld Lernleistung einbringen markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld **Thema** zu.
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur` auf der Registerkarte `Prüfung > Lernleistung` das entsprechende **Fach** zuweisen und das Optionsfeld Lernleistung einbringen markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld **Thema** zu.
 
 Das Ergebnis tragen Sie bitte im Feld **Punkte** ganz links ein.
 
-!!! info Hinweis 
+!!! info Hinweis
 
-     Die Vorschlagsautomatik weist Sie darauf hin, ob das Einbringen der Lernleistung günstiger ist, als das Seminarfach. Sollte dies der Fall, nehmen Sie bitte die entsprechenden Halbjahre des Seminrafaches manuell aus der Berechnung aus `Abitur > Qualifikation` durch manuelles Markieren und bringen die Lernleistung bitte auf `Abutur > Prüfung > Lernleistung` bitte ein.
+     Die Vorschlagsautomatik weist Sie darauf hin, ob das Einbringen der Lernleistung günstiger ist, als das Seminarfach. Sollte dies der Fall, ersetzen Sie bitte die entsprechenden Halbjahre des Seminarfaches durch die Punktwerte der besonderen Lernleistung im Menü `Abitur > Qualifikation`. Führen Sie das Skript erneut aus.
