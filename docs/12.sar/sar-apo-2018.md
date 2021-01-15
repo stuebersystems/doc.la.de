@@ -106,23 +106,24 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 | 5PF    | 5PF       | 5. Prüfungsfach (G-Kurs) |
 
 !!!info "Hinweis"
+
     Die Abiturprüfung erfolgt in vier Fächern schriftlich und in einem Fach mündlich. In den schriftlich geprüften Fächern sind zusätzlich mündliche Prüfungen möglich.
 
 ## Seminarfach
 
-Legen Sie als Seminarfach bitte eine Fach mit der Fachkategorien "Seminar" an. Das Seminarfach erhält die Unterrichtsart  "G-Kurs".
+Legen Sie im `Schlüsselverzeichnis > Fächer` ein beliebiges Fach für das Seminarfach an. Dieses muss hier im Feld "Fachkategorien" mit der Auwahl "Seminar" versehen werden. Das Seminarfach erhält zum die Unterrichtsart  "G-Kurs".
 
 ## Die Besondere Lernleistung
 
-Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur“` auf der Registerkarte `Prüfung > Lernleistung` das entsprechende **Fach** zuweisen. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld **Thema** zu.
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur` auf der Registerkarte `Prüfung > Lernleistung` das entsprechende **Fach** zuweisen. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld **Thema** zu.
 
 Das Ergebnis tragen Sie bitte im Feld **Punkte** ganz links ein.
 
-Die Vorschlagsautomatik weist Sie darauf hin, ob das Einbringen der Lernleistung günstiger ist, als das Einringen des Seminarfaches. 
+Die Vorschlagsautomatik weist Sie darauf hin, ob das Einbringen der Lernleistung günstiger ist, als das Einringen von 2 Halbjahresnoten des Seminarfaches.
 
-Wenn Sie diese einbringen wollen, setzen Sie nun den Haken vor **Lernleistung einbringen und** tragen Sie unter `Abitur > Qualifikation` anstelle der Seminarfach-Noten für diese beiden Halbjahre die Noten der Besonderen Lernleistung ein. Die Noten müssen den Präfix "bL" haben.
+Wenn Sie die Noten des besonderen Lernleistung einbringen wollen, setzen Sie nun den Haken vor **Lernleistung einbringen** und tragen Sie unter `Abitur > Qualifikation` anstelle der Seminarfach-Noten für diese beiden Halbjahre die Noten der Besonderen Lernleistung ein. Die Noten müssen den Präfix "bL" haben.
 
-Das `Verzeichnis > Noten` müssen Sie entsprechend für die Noten der Besonderen Lernleistung anpassen.
+Dazu müssen Sie das `Schlüsselverzeichnis > Noten` wie folgt anpassen:
 
 Notenkürzel|Bezeichnung|Notenwert| Notenart
 -|-|-|-
