@@ -14623,6 +14623,9 @@ Schul Z 350 (10.07)
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
+**Zeugnisdatum**
+Das Zeugnisdatum geben Sie bitte unter `Abitur > Qualifikation` auf der rechten Seite im Feld `Zeugnisdatum` ein. Sie können das Feld auch für mehrere Schüler in einem Arbeitsgang mit dem Datum versehen, nutzen Sie dafür bitte den Aufruf zur `Sammelzuweisung` auf der Karte `Prüfungen`.
+
 **(A0030)** `Abitur > Qualifikation`
 
 Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü `Abitur > Qualifikation` die Grundlage für die Ausgabe. Es werden die Angaben in den Feldern "Durchschnitt" bzw. "Gesamtpunktzahl" verwendet.
