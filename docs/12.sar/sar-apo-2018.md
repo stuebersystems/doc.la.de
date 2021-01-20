@@ -113,6 +113,21 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 
 Legen Sie im `Schlüsselverzeichnis > Fächer` ein beliebiges Fach für das Seminarfach an. Dieses muss hier im Feld "Fachkategorien" mit der Auwahl "Seminar" versehen werden. Das Seminarfach erhält zum die Unterrichtsart  "G-Kurs".
 
+## Merkmal
+
+Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Es kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
+
+Folgende Merkmale werden vom Berechnungsskript bzw. von Zeugnisformularen gefordert:
+
+|Merkmal |Bedeutung| gefordert vom: |
+|--|--|--|
+|A | neu beginnende Fremdsprache| Skript |
+|2,3,4 | Wochenstunden | Berichten |
+
+!!!info "Hinweis"
+
+    Bitte beachten Sie, dass das Merkmal für die Fremdsprache immer vor der Anzahl der Wochenstunden im Merkmalsfeld erfasst sein muss. Z.B. Merkmal "A2" bedeutet: A= neu beginnende FSP, 2= 2 stündig
+
 ## Die Besondere Lernleistung
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur` auf der Registerkarte `Prüfung > Lernleistung` das entsprechende **Fach** zuweisen. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld **Thema** zu.
