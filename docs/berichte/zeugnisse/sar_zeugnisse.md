@@ -270,7 +270,8 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers) 
 ``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin  (je nach Geschlecht des Schülers) 
-``<<DemSchueler_DerSchuelerin>> `` |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)"
+``<<DemSchueler_DerSchuelerin>> `` |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+
 ## SAR-FHReife (Nachweis)(GOS2.0) Zweitschrift.rpt
 
 Ein Handout zu den Zeugnisformularen ist auf dem BSCW-Server http://bscw.saarland.de abgelegt.
@@ -1605,7 +1606,7 @@ Im Menü `Schüler > Zeugnis` legen Sie über die Spalte "Stammkurs" fest, welch
 
 **A0241** `Abitur > Prüfung`
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren."
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
 
 **A0266** `Abitur > Prüfung > Lernleistung`
 
@@ -1652,7 +1653,19 @@ Leistungen in der Hauptphase: Die Punktwerte der Fächer zieht der Bericht je HJ
 
 **A0931** `Abitur > Qualifikation > Merkmal`
 
-Wochenstunden der Fächer: Tragem Sie die Wochenstunden der Fächer im  Menü `Abitur > Qualifikation` im Feld "Merkmal" ein."
+`Abitur > Qualifikation > Merkmal`
+
+Um die Wochenstunden der Fächer zu hinterlegen und die neu beginnenden Fremdsprache kennzeichnen beachten Sie bitte folgendes:
+Tragen Sie bitte im  Menü `Abitur > Qualifikation` im Feld "Merkmal" vorgegebene Werte ein, diese werden sowohl für die Berechnung als auch für den Zeugnisdruck  gefordert:
+
+Merkmal | Bedeutung| erforderlich für: 
+--|--|--
+A | neu beginnende Fremdsprache| Skript |
+|2, 3, 4 | Anzahl der Wochenstunden | Berichte |
+
+**Wichtig:** Bitte beachten Sie, dass das Merkmal für die Fremdsprache immer vor der Anzahl der Wochenstunden im Merkmalsfeld erfasst sein muss. Z.B. Merkmal "A2" bedeutet: A= neu beginnende FSP, 2= 2 stündig
+
+**Hinweis:** Das Merkmal muss unter `Abitur > Qualifikation > Merkmal` eingetragen sein. Es kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Merkmal` übernommen werden.
 
 ## SAR-BS-AS-Lernfeld A3 MBK.rpt
 
