@@ -321,6 +321,10 @@ Gehen Sie in MAGELLAN wie folgt vor:
 Wählt der Schüler anstelle der 4. schriftlichen Prüfung die Einbringung einer „Besonderen Lernleistung“, müssen Sie im Menü `Abitur > Prüfung` im Feld „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
 Die schriftliche Note für die „Besondere Lernleistung" tragen Sie im 1. Notenfeld ganz links ein. Folglich ist keine schriftliche Note unter „Prüfungsfächer“ im 4. PF zugewiesen (Feld bleibt leer).
 
+**A211** `Lehrer > Daten 2 > Dienstbez.`
+
+Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
+
 **A0216** `Mandanten > Daten 1 > Ort`
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
@@ -337,9 +341,10 @@ Weisen Sie dem Fach "Seminarfach" im `Schlüsselverzeichnis > Fächer` im Feld "
 
 Die Fremdsprachen des Schülers tragen Sie wie folgt ein:
 
-1) Pflichtfremdsprachen: Diese tragen Sie im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" ein. Im Feld "Zusatz" markieren Sie die entsprechenden Sprachen mit "Pflichtfach". Sie können max. 4 Pflichtfremdsprachen auswählen, beachten Sie aber bitte, dass bei der Auswahl von 4 Fremdsprachen keine "Wahlsprachen" mehr ausgewählt werden können.
-
-2) Wahlsprachen: Diese tragen Sie im im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" ein. Beachten Sie bitte, dass nur die 3. und/oder 4. Fremdsprache eine Wahlsprache sein kann. Im Feld "Zusatz" markieren Sie die entsprechenden Sprachen mit "Wahlfach (fakultative FS)".
+Fremdsprachen | Eintragung in MAGELLAN wie folgt
+--|-- 
+Pflichtfremdsprachen | Diese tragen Sie im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" ein. Im Feld "Zusatz" markieren Sie die entsprechenden Sprachen mit "Pflichtfach". Sie können max. 4 Pflichtfremdsprachen auswählen, beachten Sie aber bitte, dass bei der Auswahl von 4 Fremdsprachen keine "Wahlsprachen" mehr ausgewählt werden können.
+Wahlsprachen | Diese tragen Sie im im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" ein. Beachten Sie bitte, dass nur die 3. und/oder 4. Fremdsprache eine Wahlsprache sein kann. Im Feld "Zusatz" markieren Sie die entsprechenden Sprachen mit "Wahlfach (fakultative FS)".
 
 Beachten Sie bitte zudem, dass zuerst die Pflichtfremdsprachen und im Anschluss die Wahlsprachen angelegt werden müssen.
 
