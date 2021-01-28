@@ -382,7 +382,7 @@ Hinterlegen Sie bitte im Menü  `Mandanten > Daten 1` die Schulform Ihrer Schule
 
 **A0933** `Abitur > Prüfung > Sprachkenntnisse`
 
-Das kleine, mittlere bzw. große Latinum wird auf dem Zeugnis ausgegeben, wenn Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` das dafür vorgesehene Feld markieren.
+Das kleine, mittlere bzw. große Latinum etc. wird auf dem Zeugnis ausgegeben, wenn Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` das dafür vorgesehene Feld markieren.
 
 ### NIE-GY-ABI (2014).rpt
 

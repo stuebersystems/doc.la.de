@@ -292,7 +292,14 @@ Bitte verwenden Sie ab dem Schuljahr 2019/2020 folgende Formulare:
 
 Der Bericht `SAR-GEMS-AS (Klasse 9-10).rpt` ist nun in der Auslieferung von MAGELLAN unter dem Namen `SAR-GEMS-AS (Klasse 9-10)(bis 2019).rpt` zu finden.
 
-## SAR-GEMS-AS (Klasse 9 mit Prüfung)(ab 2020).rpt
+## SAR-GEMS-AS (Klasse 9 mit Prüfung)(ab 2020).rpt 
+
+Siehe SAR-GEMS-AS (Klasse 9 mit Prüfung)(ab 2021).rpt
+
+## SAR-GEMS-AS (Klasse 9 mit Prüfung)(ab 2021).rpt
+
+Anlage 4.7 der Verordnung - Schulordnung - über die Bildungsgänge und die Abschlüsse der Gemeinschaftsschule
+(Gemeinschaftsschulverordnung - GemSVO) Vom 1. August 2012
 
 **A0015**	`Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -405,6 +412,13 @@ Die Durchschnittsnote des Hauptschulabschlusses errechnen Sie selbst. Das Ergebn
 Der Punktwert wird in Klammern auf dem Zeugnis ausgegeben. Der Bericht selbst rechnet den Punktwert in eine Wortbezeichnung um gemäß: sehr gut (15/14/13) - gut (12/11/10) - befriedigend (09/08/07) - ausreichend (06/05/04) - mangelhaft (03/02/01) - ungenügend (00)"
 
 ## SAR-GEMS-AS (Klasse 9 ohne Prüfung)(ab 2020).rpt
+
+Siehe SAR-GEMS-AS (Klasse 9 ohne Prüfung)(ab 2021).rpt
+
+## SAR-GEMS-AS (Klasse 9 ohne Prüfung)(ab 2021).rpt
+
+Anlage 4.8 der Verordnung - Schulordnung - über die Bildungsgänge und die Abschlüsse der Gemeinschaftsschule
+(Gemeinschaftsschulverordnung - GemSVO) Vom 1. August 2012
 
 **A0015**	`Extras > Schlüsselverzeichnisse > Fachstatus`
 
