@@ -15,7 +15,7 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 | Kürzel       | beliebig                                 |
 | Bezeichnung  | beliebig                                 |
 | Kategorie    | Abitur                                   |
-| Typ          | dieser Eintrag in `MAGALLAN> Verzeichnisse > Verordnungen > Typ` kennzeichnet Schulform: |
+| Typ          | leer |
 | Ab Jahrgang  | leer                                       |
 | Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server) |
 | Notenart 11  | leer _(Einführungsphase, Gymnasien: Klassenstufe 10, Gemeinschaftsschule: Klassenstufe 11)_ |
