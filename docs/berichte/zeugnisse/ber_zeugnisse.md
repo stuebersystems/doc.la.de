@@ -8923,16 +8923,11 @@ Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0137)** `Schlüsselverzeichnis > Zeiträume > Art UND Klassen > Zeiträume > Jahrgang`
+**(A0906)** `Klassen > Merkmale > Merkmal S4`
 
-Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume > Art` und aus `Klassen > Zeiträume > Jahrgang`.
-z.B.
+Das Zeugnis kann sowohl für G8 als auch G9 genutzt werden.Tragen Sie im Menü `Klasse > Merkmale` die im Feld „Merkmal S4“ für "G8"bitte "G8" und für "G9" bitte "G9" ein.
 
-Jahrgang | Ausgabe
---|--
-12 | 1. und 2. HJ
-13 | 3. und 4. HJ
-usw. | usw.
+Grundlage hierfür bildet das `Schlüsselverzeichnis > Klassenmerkmale`. Ergänzen Sie es um die Einträge "G8" und "G9".
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
