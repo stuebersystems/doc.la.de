@@ -2,8 +2,7 @@
 
 Abiturqualifikationsberechnung für Gymnasien in Nordrhein-Westfalen.
 
-Quelle:
-  (https://bass.schul-welt.de/9607.htm#13-32nr3.1p7)[https://bass.schul-welt.de/9607.htm#13-32nr3.1p7]          
+Quelle: [https://bass.schul-welt.de/9607.htm#13-32nr3.1p7](https://bass.schul-welt.de/9607.htm#13-32nr3.1p7)
 
 ## Gemischte Klassen nach G8 und G9
 
@@ -80,9 +79,9 @@ BWL/VWL |Nein
 VWL |Nein
 Seminar |Nein
 Gesundheit |Nein
-Psychologie **|Nein
+Psychologie|Nein
 Recht |Nein
-Literatur | Ja**
+Literatur | **Ja**
 
 ## Aufgabenbereiche
 
