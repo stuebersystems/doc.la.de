@@ -128,6 +128,7 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachs
 | 4PF | 4PF | 4. Prüfungsfach (Grundkursfach)|
 | 5PF | 4PF | 5. Prüfungsfach (Grundkursfach)|
 |ZusatzK|ZusatzK|Zusatzkurs|
+|Projekt|Projekt|Projekt|
 
 ## Besondere Lernleistung
 
