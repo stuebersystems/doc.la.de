@@ -17,8 +17,8 @@ theme:
     custom_dir: overrides
     language: de
     features:
-        - tabs
-        - instant
+        - navigation.tabs
+        - navigation.instant
     palette:
         primary: 'blue'
         accent: 'deep orange'
@@ -103,6 +103,7 @@ nav:
           - MVP-APO-1999: 06.mvp/mvp-apo-1999.md
           - MVP-APO-FG-1999: 06.mvp/mvp-apo-fg-1999.md
         - Niedersachsen:
+          - NIE-APO-G9-2018: 07.nie/nie-apo-g9-2018.md 
           - NIE-APO-G9-2016: 07.nie/nie-apo-g9-2016.md
           - NIE-APO-G9-2014/NIE-APO-G8-2014: 07.nie/nie-apo-g9-2014nie-apo-g8-2014.md
           - NIE-APO-G9-2010/NIE-APO-G8-2010: 07.nie/nie-apo-g9-2010nie-apo-g8-2010.md
@@ -133,12 +134,13 @@ nav:
           - SAC-APO-1996: 11.sac/sac-apo-1996.md
           - SAC-APO-BGY-2017: 11.sac/sac-apo-bgy-2017.md
           - SAC-APO-BGY-2017(Schulfremde): 11.sac/sac-apo-bgy-2017.md
+          - SAC-APO-BGY-2017(DuBAS): 11.sac/sac-apo-bgy-2017Dubas.md
           - SAC-APO-BGY-2014: 11.sac/sac-apo-bgy-2014.md
           - SAC-APO-BGY-2011: 11.sac/sac-apo-bgy-2011.md
           - SAC-APO-BGY-2010: 11.sac/sac-apo-bgy-2010.md
           - SAC-APO-BGY-2004: 11.sac/sac-apo-bgy-2004.md
         - Saarland:
-          - SAR-APO-2018 (in Bearbeitung): 12.sar/sar-apo-2018.md
+          - SAR-APO-2018: 12.sar/sar-apo-2018.md
           - SAR-APO-2017: 12.sar/sar-apo-2017.md
           - SAR-APO-2007: 12.sar/sar-apo-2007.md
           - SAR-APO-1999: 12.sar/sar-apo-1999.md

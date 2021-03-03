@@ -28,11 +28,11 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 |Gültig von |leer|
 |Gültig bis|leer|
 
-![Eintragung im Verzeichnis Verordnungen für Abiturberechnung und Fachwahl](/assets/Verordnung.typ.abJG.png)
+![Eintragung im Verzeichnis Verordnungen für Abiturberechnung und Fachwahl](/assets/images/Verordnung.typ.abJG.png)
 
 ## Fachkategorien
 
-Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`. 
+Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`.
 Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werden. Für diese Fächer sind die zu verwendenden Fachkategorien fest vorgeschrieben. Alle anderen Fächer können mit einer der übrigen Fachkategorie gekennzeichnet werden oder ohne Fachkategorie geführt werden.
 
 |Fachkategorien|Muss genutzt werden|

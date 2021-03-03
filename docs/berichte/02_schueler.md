@@ -12,7 +12,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken`(Strg + P) gedruckt werden.
 
-**(A0332)** ` Schüler > Laufbahn > Empfehlung`
+**(A0332)** `Schüler > Laufbahn > Empfehlung`
 
 Tragen Sie die Schulübergangsempfehlung im Menü Schüler > Laufbahn im Feld "Empfehlung" wie folgt ein:
 
@@ -61,6 +61,23 @@ Wechseln Sie in das Menü Abitur > Auswahl und markieren eine Gruppe von Schüle
 Wählen Sie Drucken > Berichte > Fachwahl-Kursliste.rpt und rufen die Druckvorschau auf. Es erscheint ein Parameterfenster, wählen Sie das Kurshalbjahr (E1, E2, Q1, Q2, Q3 oder Q4)**aus!
 
 Der Bericht fasst die gewählten Kurse nach Fach und Unterrichtsart der markierten Schüler zusammen und gibt jeweils Schüler, Klasse und Fachstatus aus.
+
+## KV09b Masernschutz.rpt
+
+Der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Es werden im Berichtskopf die Schüler-/Sorgeberechtigtendaten aus den Einträgen in MAGELLAN ausgegeben. Das Druckdatum (Tagesdatum) und der Ort (`Mandanten > Daten > Ort`) werden automatisch eingefügt. Weitere Angaben im Bericht sind nach dem Druck manuell einzutragen.
+
+**Volljährigkeit**
+
+Der Bericht prüft die Volljährigkeit des Schülers. Ist der Schüler ab dem Druckdatum volljährig, bleibt das Sorgeberechtigtenfeld leer, die Adressdaten (PLZ, Ort, Straße) und Kontaktdaten (E-Mail, Telefonnummer) des Schülers werden ausgegeben.
+
+Ist der Schüler minderjährig, wird das Sorgeberechtigtenfeld gefüllt, es werden die Adressdaten (PLZ, Ort, Straße) und die Kontaktdaten (E-Mail, Telefonnummer) des Sorgeberechtigten ausgegeben.
+
+!!! danger "Achtung"
+
+    Aus der Liste unter `Schüler > Daten1 > Familie` werden (sortiert nach der Position) Sorgeberechtige ausgegeben, für die der Wert `Immer` im Feld `Benachrichtigung` eingetragen wurde.
+
+![KV09b_Masernschutz](/assets/images/berichte.schueler/KV09b_Masernschutz.png)
 
 ## MVP-Schullastenausgleich-Teilzeit (nicht im Landkreis Mecklenburgische Seenplatte).rpt
 
@@ -1519,41 +1536,3 @@ Tragen Sie im Menü Mandanten > Daten 1 den Schulträger im Feld „Schulträger
 Um die Ausgabe des Empfängers zu gewährleisten, legen Sie die Adresse Ihrer Unfallkasse im Menü Adressen an. Weisen Sie der Unfallkasse das "Kürzel" "unfall" zu.
 
 ## Unfallbericht.rpt
-
-## Zeugnisliste nach Schülerfächern (Kopfnoten).rpt
-
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
-
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
-
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-**(A0014)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
-
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
-
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
-
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
-
-**(A0188)** Ausdruck
-
-Der Bericht muss aus dem Menü "Klassen" gedruckt werden.
-
-**(A0224)** Ausdruck
-
-Der Bericht muss aus über `Drucken > Bericht Drucken`(Strg + P) gedruckt werden.
-
-**(A0346)** `Klassen > Zeiträume > Zeitraum > Klassenleiter 2`
-
-Der stellv. Klassenlehrer muss im entsprechenden Zeitraum im Menü Menü `Klassen > Zeiträume` im Feld „Klassenleiter 2“ eingetragen werden.
-
-**(A0634)** `Schüler > Auswahl > Zeugnisse drucken`
-
-Die Fächer werden in der Kreuztabelle nach Position sortiert. Beachten Sie, dass die Fächer der Schüler einer Klasse im Menü Schüler > Zeugnis > Fächer im Feld "Posistion" alle die selbe Position haben müssen, da sonst die Fächer mehrfach ausgegeben werden.

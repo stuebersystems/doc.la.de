@@ -1,10 +1,10 @@
-# SAR-APO-2018 (GOS 2.0 - in Vorbereitung)
+# SAR-APO-2018 (GOS 2.0)
 
 ## Quelle
 
 !!! info "Hinweis"
 
-     Basierend auf der Verordnung zur Änderung der Verordnung [– Schul-und Prüfungsordnung über die gymnasiale Oberstufe und die Abiturprüfung im Saarland vom 17. April 2018](http://sl.juris.de/cgi-bin/landesrecht.py?d=http://sl.juris.de/sl/gesamt/OberStV_SL_2007.htm#OberStV_SL_2007_rahmen)
+     Basierend auf der Verordnung zur Änderung der Verordnung [– Schul-und Prüfungsordnung über die gymnasiale Oberstufe und die Abiturprüfung im Saarland vom 17. April 2018]
 
 ## Verzeichnis Verordnung
 
@@ -15,7 +15,7 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 | Kürzel       | beliebig                                 |
 | Bezeichnung  | beliebig                                 |
 | Kategorie    | Abitur                                   |
-| Typ          | dieser Eintrag in `MAGALLAN> Verzeichnisse > Verordnungen > Typ` kennzeichnet Schulform: |
+| Typ          | leer |
 | Ab Jahrgang  | leer                                       |
 | Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server) |
 | Notenart 11  | leer _(Einführungsphase, Gymnasien: Klassenstufe 10, Gemeinschaftsschule: Klassenstufe 11)_ |
@@ -27,7 +27,7 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 
 ## Fachkategorien
 
-Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`. 
+Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`.
 Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werden. Für diese Fächer sind die zu verwendenden Fachkategorien fest vorgeschrieben. Alle anderen Fächer können mit einer der übrigen Fachkategorie gekennzeichnet werden oder ohne Fachkategorie geführt werden.
 
 |Fachkategorien|Muss genutzt werden|
@@ -106,16 +106,57 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 | 5PF    | 5PF       | 5. Prüfungsfach (G-Kurs) |
 
 !!!info "Hinweis"
+
     Die Abiturprüfung erfolgt in vier Fächern schriftlich und in einem Fach mündlich. In den schriftlich geprüften Fächern sind zusätzlich mündliche Prüfungen möglich.
+
+## Seminarfach
+
+Legen Sie im `Schlüsselverzeichnis > Fächer` ein beliebiges Fach für das Seminarfach an. Dieses muss hier im Feld "Fachkategorien" mit der Auwahl "Seminar" versehen werden. Das Seminarfach erhält zum die Unterrichtsart  "G-Kurs".
 
 ## Merkmal
 
-Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
+Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Es kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
 
-| Merkmal | Bedeutung                                |
-|---------|------------------------------------------|
-| A       | Fremdsprache Anfänger (2 Kurse müssen eingebracht werden) |
+Folgende Merkmale werden vom Berechnungsskript bzw. von Zeugnisformularen gefordert:
+
+|Merkmal |Bedeutung| gefordert vom: |
+|--|--|--|
+|A | neu beginnende Fremdsprache| Skript |
+|2,3,4 | Wochenstunden | Berichten |
+
+!!!info "Hinweis"
+
+    Bitte beachten Sie, dass das Merkmal für die Fremdsprache immer vor der Anzahl der Wochenstunden im Merkmalsfeld erfasst sein muss. Z.B. Merkmal "A2" bedeutet: A= neu beginnende FSP, 2= 2 stündig
 
 ## Die Besondere Lernleistung
 
-Laut der zugrundliegenden Abiturverordnung muss die besondere Lernleistung im Kursbereich und nicht im Prüfungsbereich eingebracht werden. Aus diesem Grund müssen die einzubringenden Noten der besonderen Lernleistung als normale Fachnoten auf der Registerkarte ``Abitur > Qualifikation`` eingegeben werden und nicht wie sonst üblich auf der Registerkarte ``Abitur > Prüfung``.
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur` auf der Registerkarte `Prüfung > Lernleistung` das entsprechende **Fach** zuweisen. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld **Thema** zu.
+
+Das Ergebnis tragen Sie bitte im Feld **Punkte** ganz links ein.
+
+Die Vorschlagsautomatik weist Sie darauf hin, ob das Einbringen der Lernleistung günstiger ist, als das Einringen von 2 Halbjahresnoten des Seminarfaches.
+
+Wenn Sie die Noten des besonderen Lernleistung einbringen wollen, setzen Sie nun den Haken vor **Lernleistung einbringen** und tragen Sie unter `Abitur > Qualifikation` anstelle der Seminarfach-Noten für diese beiden Halbjahre die Noten der Besonderen Lernleistung ein. Die Noten müssen den Präfix "bL" haben.
+
+Dazu müssen Sie das `Schlüsselverzeichnis > Noten` wie folgt anpassen:
+
+Notenkürzel|Bezeichnung|Notenwert| Notenart
+-|-|-|-
+bL00|ungenügend|0|Punktwert
+bL01|mangelhaft|1|Punktwert
+bL02|mangelhaft|2|Punktwert
+bL03|mangelhaft|3|Punktwert
+bL04|ausreichend|4|Punktwert
+bL05|ausreichend|5|Punktwert
+bL06|ausreichend|6|Punktwert
+bL07|befriedigend|7|Punktwert
+bL08|befriedigend|8|Punktwert
+bL09|befriedigend|9|Punktwert
+bL10|gut|10|Punktwert
+bL11|gut|11|Punktwert
+bL12|gut|12|Punktwert
+bL13|sehr gut|13|Punktwert
+bL14|sehr gut|14|Punktwert
+bL15|sehr gut|15|Punktwert
+
+Führen Sie danach das Berechnungsskript erneut aus.

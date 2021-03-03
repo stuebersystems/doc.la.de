@@ -4,7 +4,7 @@ Grundlage: Verordnung über die Integrierte Berufsausbildungsvorbereitung IBA-VO
 
 *Letzte Änderung: 12.06.2020*
 
-Mit Hilfe des Berechnungsskriptes _BER-IBA-HJ-2020.dws_ können Sie für den Bildungsgang **Integrierte Berufsausbildungsvorbereitung**  die Gesamtnote der Fachtheorie und Fachpraxis für das aktuelle Halbjahr für den Berufsfeldbezogenen Unterricht berechnen lassen.
+Mit Hilfe des Berechnungsskriptes _BER-IBA-HJ-2020.dws_ können Sie für den Bildungsgang **Integrierte Berufsausbildungsvorbereitung** die Gesamtnote der Fachtheorie und Fachpraxis für das aktuelle Halbjahr für den Berufsfeldbezogenen Unterricht berechnen lassen.
 
 Die Gesamtnote der Fachtheorie und Fachpraxis errechnet sich aus den gewichteten Halbjahresnotendurchschnitten der jeweiligen Lernfeldnoten gemäß der Verordnung über die Integrierte Berufsausbildungsvorbereitung Anlage 4 Abschnitt B.
 
@@ -15,7 +15,7 @@ Im folgenden Kapitel beschreiben wir Ihnen die Vorgehensweise.
 Zur Berechnung der Gesamtnote innerhalb eines Zeitraums gehören folgende Aufgaben:
 
 1. Berechnungsverordnung definieren
-2. Fächer der Schüler für den gewünschten Zeitraum einer Zeugnisausgabe  eingeben.
+2. Fächer der Schüler für den gewünschten Zeitraum einer Zeugnisausgabe eingeben.
 3. Noten pro Fach der Schüler für den gewünschten Zeitraum zur Berechnung eingeben
 4. Berechnung ausführen
 
@@ -70,7 +70,7 @@ Fächer des Wahlunterrichtes weisen Sie im Menü `Schüler > Zeugnis > Fächer` 
 
 #### Betriebliche Lernaufgaben
 
-Neben dem Wahlunterricht und den berufsfeldübergreifenden bzw. berufsfeldbezogenern Unterricht muss auch die Betriebliche Lernaufgabe benotet werden. Gehen Sie dafür wie folgt vor:
+Neben dem Wahlunterricht und den berufsfeldübergreifenden bzw. berufsfeldbezogenen Unterricht muss auch die Betriebliche Lernaufgabe benotet werden. Gehen Sie dafür wie folgt vor:
 
 Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betrieblichen Lernaufgaben an, entscheidend ist der Eintrag im Feld "Schlüssel", dieser muss wie folgt hinterlegt sein:
 
@@ -90,8 +90,13 @@ Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler >
 
 !!! info "Hinweis"
 
-    Das Berechnungsskript kann auch Füllwerte verarbeiten. Dazu zählt Folgendes: o.B. = o.B..
+    Das Berechnungsskript kann auch Füllwerte verarbeiten. Dazu zählt Folgendes: o.B. = o.B.
     Ist der gebildete Durchschnitt bei Fachtheorie bzw. Fachpraxis des berufsfeldbezogenen Unterrichts im Ergebnis "o.B.", so wird im Durchschnitt eine "0" gespeichert.
+
+**Füllwerte**:
+Sollten Ihnen die gewünschten Füllwerte nicht zur Verfügung stehen, legen Sie diese bitte unter `Extras > Schlüsselverzeichnisse > Noten` an.
+
+![Füllwerte anlegen](/assets/images/IBA/IBA20.png)
 
 !!! warning "Wichtig"
 
@@ -104,17 +109,17 @@ Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler >
 
 ### Gesamtnotenberechnung durchführen
 
-Im Feld "Prüfungsverordnung" wählen Sie über das Drop Down Menü die vorab im `Schlüsselverzeichnis > Verordnungen` definierte Prüfungsverordnung aus.(basierend auf dem Skript *BER-IBA-HJ-2020.dws*) 
+Im Feld "Prüfungsverordnung" wählen Sie über das Drop Down Menü die vorab im `Schlüsselverzeichnis > Verordnungen` definierte Prüfungsverordnung aus. (basierend auf dem Skript *BER-IBA-HJ-2020.dws*) 
  
 Im Feld "Status" wählen Sie `Abschluss berechnen`. Die Berechnung gemäß Skript stoßen Sie über die Schaltfläche `Neu berechnen` an. 
 
-Durch die Berechnung werden automatisch folgende Felder befüllt:
+Durch die Berechnung wird automatisch folgende Felder befüllt:
 
 | Feld | Note für...     |
 |--------|-----------
 Endnote | Endoten der Fächer mit dem Fachstatus "FachT", "FachP" und "BÜ" sowie Fächer mit dem Fachstatus "Wahlb"
 Durchschnitt 1 | Fachtheorie - gesamt|
-Durchschnitt 2 | Fachtpraxis - gesamt|
+Durchschnitt 2 | Fachpraxis - gesamt|
 
 Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsgang für das 1. Halbjahr in Berlin. Sie sehen die Voreinstellungen und die Werte, die durch das Skript berechnet werden.
 
@@ -124,13 +129,13 @@ Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsga
 
    Die berechnete "Endnote" kann jederzeit manuell im Feld "Endnote" geändert werden. Durch erneutes Ausführen des Berechnungsskriptes wird diese Note nicht mehr überschrieben, das Skript gibt Ihnen im Meldefenster den Hinweis "Endnote für "Fach XY" manuell eingegeben (berechneter Wert wäre 2)".
 
-![Meldefenster nach Notenänderung im Feld "Endnote" und erneuter Berechnung durch das Skript](..\assets\images\IBA\IBA10.png)
+![Meldefenster nach Notenänderung im Feld "Endnote" und erneuter Berechnung durch das Skript](/assets/images/IBA/IBA10.png)
 
 ## Sonstiges für den Zeugnisdruck
 
-### Fächer des berufsfeldebezogenen Unterrichts (Lernfelder) anlegen
+### Fächer des berufsfeldbezogenen Unterrichts (Lernfelder) anlegen
 
-Ihre Lernfelder erfassen Sie im  `Schlüsselverzeichnisse > Fächer`. Im Feld "Bezeichnung" tragen Sie die Lernfeldbezeichnung ein. Die Lernfeldnummer geben Sie bitte im Feld "Zeugnismerkmal" (Merkmal) ein.
+Ihre Lernfelder erfassen Sie im `Schlüsselverzeichnisse > Fächer`. Im Feld "Bezeichnung" tragen Sie die Lernfeldbezeichnung ein. Die Lernfeldnummer geben Sie bitte im Feld "Zeugnismerkmal" (Merkmal) ein.
 
 Kürzel | Schlüssel | Bezeichnung | Merkmal
 --|--|--|--
@@ -144,13 +149,13 @@ Ein Lernfeld kann durch einen Qualifizierungsbaustein gemäß § 11 der Verordnu
 
 Sollte dies beim Schüler zutreffen, legen Sie im `Schlüsselverzeichnis > Fächer` den entsprechenden Qualifizierungsbaustein als Fach an. Beachten Sie, dass dieses Fach im Feld "Merkmal" den Eintrag "QB:" erhält. 
 
-Weisen Sie dieses Fach im Menü `Schüler > Zeugnis > Fächer` anstelle des zugewiesenen Lernfeldes zu. Beachten Sie, dass Sie diesem  Qualifizierungsbaustein im Feld "Unterrichtart" entweder "FachT" oder "FachP" zuweisen.
+Weisen Sie dieses Fach im Menü `Schüler > Zeugnis > Fächer` anstelle des zugewiesenen Lernfeldes zu. Beachten Sie, dass Sie diesem Qualifizierungsbaustein im Feld "Unterrichtart" entweder "FachT" oder "FachP" zuweisen.
 
 Anstelle des Lernfeldes wird nun der Qualifizierungsbaustein auf dem Zeugnis ausgegeben.
 
 ### Betriebspraktikum 1./2. oder 3. bestanden/nicht bestanden
 
-Ob im Zeugnis das Betriebspraktikum 1./2. oder 3. als "bestanden" oder "nicht bestanden" ausgegeben wird, hängt vom Eintrag im Menü `Schüler > Zeugnis > Fächer`  im Feld "Merkmal" ab.
+Ob im Zeugnis das Betriebspraktikum 1./2. oder 3. als "bestanden" oder "nicht bestanden" ausgegeben wird, hängt vom Eintrag im Menü `Schüler > Zeugnis > Fächer` im Feld "Merkmal" ab.
 
 1. Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betrieblichen Lernaufgaben an, entscheidend ist der Eintrag im Feld "Schlüssel", dieser muss wie folgt hinterlegt sein:
 
@@ -162,17 +167,17 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 
 2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.
 
-3. Die Betriebliche Lernaufgabe 1,/2./3.  bezieht sich auf das jeweilige Praktikum 1./2./3. Ein Eintrag "N" im Feld "Merkmal" bei der entsprechenden Lernaufgabe steuert die Ausgabe "nicht bestanden". Bleibt das Feld "Merkmal" leer, wird das Praktikum als "bestanden" ausgegeben.
+3. Die Betriebliche Lernaufgabe 1./2./3. bezieht sich auf das jeweilige Praktikum 1./2./3. Ein Eintrag "N" im Feld "Merkmal" bei der entsprechenden Lernaufgabe steuert die Ausgabe "nicht bestanden". Bleibt das Feld "Merkmal" leer, wird das Praktikum als "bestanden" ausgegeben.
 
 ![Betriebspraktikum wurde bestanden/nicht bestanden](/assets/images/IBA/IBA05.png)
 
 ![Ausgabe auf dem Zeugnis > Betriebspraktikum wurde bestanden/nicht bestanden](/assets/images/IBA/IBA06.png)
 
-3. Die Noten der Betriebliche Lernaufgabe 1,/2./3. tragen Sie im im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" ein. 
+4. Die Noten der Betriebliche Lernaufgabe 1,/2./3. tragen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" ein. 
 
-### Betriebspraktikum 1./2. oder 3. - erfolgt im 1. oder 2.HJ?
+### Betriebspraktikum 1., 2. oder 3. - erfolgt im 1. oder 2.HJ?
 
-Tragen Sie den Betrieb des Praktikums im Menü `Schüler > Ausbildung` im Bereich „Praxibetrieb“ ein. Wenn Sie die Schaltfläche `+`oder `Editieren` anklicken, können Sie einen Praxisbetrieb zuweisen bzw. bearbeiten. Im Feld "Praxisbetrieb" hinterlegen Sie den Betrieb. 
+Tragen Sie den Betrieb des Praktikums im Menü `Schüler > Ausbildung` im Bereich „Praxisbetrieb“ ein. Wenn Sie die Schaltfläche `+`oder `Editieren` anklicken, können Sie einen Praxisbetrieb zuweisen bzw. bearbeiten. Im Feld "Praxisbetrieb" hinterlegen Sie den Betrieb. 
 Erfassen Sie weiterhin in den Feldern `Praxis von` und `bis` den Zeitraum des Praktikums und die `Vertragsnummer` wie folgt:
 
 Eintrag für | Eingabe wie folgt

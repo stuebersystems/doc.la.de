@@ -1,10 +1,10 @@
-# SAC-APO-BGY-2017 und SAC-APO-BGY-2017 (Schulfremde)
+# SAC-APO-BGY-2017 (DuBAS) 
 
-Abiturqualifikationsberechnung gemäß Verordnung des Sächsischen Staatsministeriums für Kultus über Berufliche Gymnasien im Freistaat Sachsen (Schulordnung Berufliche Gymnasien – BGySO).
+Berufsausbildung mit Abitur 
 
 //// Verordnung Fachrichtungen Biotechnologie, Technik-, Agrar-, Ernährungs-, Informations- u. Kommunikationswissenschaft. ////
 
-Letzte Änderung: 07.07.2020
+Letzte Änderung: 24.02.2021
 
 ## Verzeichnis Verordnung
 
@@ -88,6 +88,8 @@ Prüfen Sie bitte unter ```Extras > Schlüsselverzeichnisse > Unterrichtsarten``
 
 ## Fachstatus
 
+Die Abiturprüfung findet nur in 4 Prüfungsfächern P1 bis P4 statt. Die Prüfungsfächer werden über den zugewiesenen Fachstatus erkannt.
+
 Der Fachstatus muss im Menü `Abitur > Qualifikation` im Feld "Fachstatus" zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus dem Menü `Schüler > Zeugnis > Fächer > Fachstatus` übernommen werden.
 Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
@@ -97,9 +99,11 @@ Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass i
 | 2PF    | 2PF       | 2. Prüfungsfach |
 | 3PF    | 3PF       | 3. Prüfungsfach |
 | 4PF    | 4PF       | 4. Prüfungsfach |
-| 5PF    | 5PF       | 5. Prüfungsfach |
 
 ## Besondere Lernleistung
+
+Wird eine besondere Lernleistung erbracht, wird deren Ergebnis als fünftes Prüfungsfach gewertet. Die Abrechnung erfolgt dann wie beim normalen BGy als
+fünftes Prüfungsfach.
 
 Die „Besondere Lernleistung“ muss mit schriftlicher und mündlicher Note auf der Prüfungsregisterkarte (Menü `Abitur > Prüfung > Lernleistung`) eingegeben werden. Bitte tragen Sie die schriftliche Note links in das erste Feld und die mündliche Note in das zweite Feld ein. Soll die Leistung mit eingebracht werden, aktivieren Sie bitte das Häkchen `Lernleistung einbringen`.
 

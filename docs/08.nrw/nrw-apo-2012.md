@@ -2,6 +2,8 @@
 
 Abiturqualifikationsberechnung für Gymnasien in Nordrhein-Westfalen.
 
+Quelle: [https://bass.schul-welt.de/9607.htm#13-32nr3.1p7](https://bass.schul-welt.de/9607.htm#13-32nr3.1p7)
+
 ## Gemischte Klassen nach G8 und G9
 
 Wenn Sie Schüler die nach 12 und Schüler die nach 13 Jahren ihr Abitur ablegen möchten gemeinsam in einer Klasse verwalten möchten, gehen Sie bitte folgendermaßen vor.
@@ -70,16 +72,16 @@ Darstellendes Spiel |Nein
 Evangelische Religion |Nein
 Katholische Religion |Nein
 Technik |Nein
-Pädagogik |Nein
+Pädagogik |**Ja**
 Sporttheorie |Nein
 BWL/RW |Nein
 BWL/VWL |Nein
 VWL |Nein
 Seminar |Nein
 Gesundheit |Nein
-Psychologie |Nein
+Psychologie|Nein
 Recht |Nein
-Literatur | Nein
+Literatur | **Ja**
 
 ## Aufgabenbereiche
 
@@ -92,6 +94,15 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Verzeichnisse
 | mathem.-nat.-technisch |
 | Religion |
 | Sport |
+
+## Fachmerkmale
+
+Unter `Extras > Schlüsselverzeichnisse > Fächer > Zeugnismerkmal` können besondere Merkmale für instrumentale und vokale Kurse eingetragen werden.
+
+Zeugnismerkmal | Bedeutung
+--|--
+INST|Merkmal für instrumentalen Kurs
+VOKA|Merkmal für vokalen Kurs
 
 ## Unterrichtsart
 
@@ -111,10 +122,11 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachs
 | Kürzel | Schlüssel | Bedeutung |
 | --- | --- | --- |
 | Pflicht | Pflicht | Pflichtbereich (kein Eintrag wird wie Pflicht gewertet) |
-| 1PF | 1PF | 1. Prüfungsfach |
-| 2PF | 2PF | 2. Prüfungsfach |
-| 3PF | 3PF | 3. Prüfungsfach |
-| 4PF | 4PF | 4. Prüfungsfach |
+| 1PF | 1PF | 1. Prüfungsfach (weiteres Leistungskursfach)|
+| 2PF | 2PF | 2. Prüfungsfach (Profil bildendes Leistungskursfach|
+| 3PF | 3PF | 3. Prüfungsfach (Grundkursfach)|
+| 4PF | 4PF | 4. Prüfungsfach (Grundkursfach)|
+| 5PF | 4PF | 5. Prüfungsfach (Grundkursfach)|
 |ZusatzK|ZusatzK|Zusatzkurs|
 
 ## Besondere Lernleistung

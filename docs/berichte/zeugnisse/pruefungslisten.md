@@ -13,9 +13,22 @@ Zum Drucken der Prüfungslisten gehen Sie wie folgt vor:
 
 ### Prüfungsliste (Abitur).rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+Die Prüfungslisten filtern Schüler aus einer Menge Schüler, auf die eine bestimmte Kombination aus Fach, Fachstatus und Unterrichtsart zutrifft.
 
-Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
+
+!!! info "Hinweis"
+
+    Die Prüfungsfächer müssen dafür als Voraussetzung im Feld Fachstatus unter `Abitur > Qualifikation > Fachstatus` gefüllt sein.
+
+So geht's:
+
+1. Markieren Sie die Schüler (zum Beispiel einen gesamten Jahrgang) unter `Abitur > Auswahl` und rufen über Menüleiste am oberen Fensterrand die Funktion `Drucken > Prüfungslisten drucken..` auf.
+2. Wählen Sie im folgenden Fenster das Fach und ggfs. den Fachstatus und/oder die Unterrichtsart aus.
+
+
+![Filterfenster](/assets/images/pruefungslisten/01.png)
+
+3. Bestätigen Sie mit OK und wählen im nächsten Fenster den Bericht auf um ihn zu drucken oder das Ergebnis der Vorschau zu zeigen. Es werden nur die Schüler gezeigt, auf die Ihre Auswahl zutrifft.
 
 **(A0111)** `Ausdruck`
 
@@ -28,9 +41,10 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 **(A0092)** Abitur > Auswahl > Drucken > Prüfungslisten Drucken...
 
 Zum Drucken der Prüfungslisten gehen Sie wie folgt vor:
-1)** Im Menü Abitur > Auswahl markieren Sie die gewünschten Schüler
-2)** Wählen Sie über Start > Drucken > Prüfungslisten Drucken... aus
-3)** Im darauf folgenden Assistenten wählen Sie das gewünschte Fach aus und bestätigen
+
+1. Im Menü `Abitur > Auswahl` markieren Sie die gewünschten Schüler
+2. Wählen Sie über `Start > Drucken > Prüfungslisten Drucken...` aus
+3. Im darauf folgenden Assistenten wählen Sie das gewünschte Fach aus und bestätigen
 
 **(A0094)** Abitur > Prüfung > Abiturjahrgang
 

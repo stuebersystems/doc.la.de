@@ -46,6 +46,6 @@ Folgende Angaben sind bei der Eingabe der Klassen neben den Halbjahren wichtig:
 
 | Eingabefeld     | Wo                             | Eingabe                                  |
 |-----------------|--------------------------------|------------------------------------------|
-| Klassenart      | Klassen > Daten                | Standard                                 |
-| Jahrgang        | Klassen > Zeiträume > Zeitraum | 5, 6, 7, 8, 9, 10 \(pro Zeitraum der Klasse notwendig\) |
-| Beurteilungsart | Klassen > Daten                | Benotung durch Punkte bzw. Benotung durch Noten |
+| Klassenart      | `Klassen > Daten`               | Standard                                 |
+| Jahrgang        | `Klassen > Zeiträume > Zeitraum` | 5, 6, 7, 8, 9, 10 (pro Zeitraum der Klasse notwendig\) |
+| Beurteilungsart | `Klassen > Daten`                | Benotung durch Punkte bzw. Benotung durch Noten |
