@@ -9877,13 +9877,13 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 322 (03.11)
 
-### Fehlzeiten
+**Fehlzeiten**
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-### Aufgabenberech
+**Aufgabenbereich**
 
 `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
@@ -9895,7 +9895,7 @@ sprachl.-lit.-künstlerisch | 1. Aufgabenfeld
 gesellschaftswiss. | 2. Aufgabenfeld
 mathem.-nat.-technisch | 3. Aufgabenfeld
 
-### Fachbezeichnungen und Schlüssel
+**Fachbezeichnungen und Schlüssel**
 
 Für einige Fächer, die fest ausgegeben werden, wird eine Fachbezeichnung oder ein Fachschlüssel vorausgesetzt um die Endnote zuzuordnen. Diese Werte werden unter `Extras > Schlüsselverzeichnisse > Fächer` in der Spalte `Fächer` oder `Schlüssel` erwartet.
 
@@ -9915,7 +9915,7 @@ Informatik |INF
 Sport |SPORT (Position 24 oder 25)
 
 
-### Unterrichtsarten
+**Unterrichtsarten**
 
 Folgende `Unterrichtsarten` dürfen im Zeugnisdruck verwendet werden:
 
@@ -9932,31 +9932,31 @@ SK | SK | Seminarfach, Seminarkurs
 Z | Z | Zusatz-/Ergänzungskurs
 ME | ME | Musik Ensemble
 
-### Mandanten
+**Mandanten**
 
 `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" e
 
-### Verzeichnis Zeiträume
+**Verzeichnis Zeiträume**
 
 `Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-### Zeugnisdatum
+**Zeugnisdatum**
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-### Druck
+**Druck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-### Zeugnisbemerkungen
+**Zeugnisbemerkungen**
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
@@ -9973,23 +9973,23 @@ Merkmal | Bedeutung
 --|--
 freiw | Text für die Teilnahme an freiwilligen Arbeitsgemeinschaften/Unterrichtsveranstaltungen
 
-### Beurteilungsart
+**Beurteilungsart**
 
 `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-### Schriftart
+**Schriftart**
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-### Versäumnisse
+**Versäumnisse**
 
 `Schüler > Zeugnis > Details > Versäumnisse`
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-### Noten und Füllwerte
+**Noten und Füllwerte**
 
 `Schlüsselverzeichnisse > Noten > Füllwerte`
 
@@ -10005,7 +10005,7 @@ oB | ohne Bewertung | Füllwerte
 Die Kürzel der Punkte müssen zweistellig (einstellig und eine Führungsnull) sein. 
 Beim Anlegen von Punkten im `Schlüsselverzeichnis > Noten` (Notenart: Punkte) mit einem Notenwert kleiner 10 (0-9) weisen Sie im Feld "Notenkürzel" dem Notenwert eine "0" voran (z.B. "00", "03" usw.).
 
-### Fachpositionen
+**Fachpositionen**
 
 `Schüler > Zeugnis > Fächer > Position`
 
@@ -10042,7 +10042,7 @@ frei | Sport
 
 HINWEIS: Weitere Sportfächer (Sport Theorie, Sport) vergeben Sie bitte die Positionsnummer 24 oder 25.
 
-### Ausgabe Kurshalbjahr
+**Ausgabe Kurshalbjahr**
 
 `Schlüsselverzeichnis > Zeiträume > Art` UND
 
@@ -10057,7 +10057,7 @@ Jahrgang/Zeitraum | Ausgabe im Bericht
 13.1 (Q3. | 3. Kurshalbjahr
 13.2 (Q4) | 4. Kurshalbjahr
 
-### Zuugnisbemerkungen personalisieren
+**Zeugnisbemerkungen personalisieren**
 
 `Abitur > Zeugnisbemerkungen`
 
