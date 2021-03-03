@@ -9914,7 +9914,6 @@ Biologie |BIO
 Informatik |INF
 Sport |SPORT (Position 24 oder 25)
 
-
 **Unterrichtsarten**
 
 Folgende `Unterrichtsarten` dürfen im Zeugnisdruck verwendet werden:
@@ -9936,8 +9935,7 @@ ME | ME | Musik Ensemble
 
 `Mandanten > Daten > Name 1`
 
-Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
-1" e
+Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 1" ein.
 
 **Verzeichnis Zeiträume**
 
@@ -10052,9 +10050,9 @@ Die Ausgabe des Kurshalbjahres (Q-Phase G9) errechnet sich aufgrund der Definiti
 
 Jahrgang/Zeitraum | Ausgabe im Bericht
 --|--
-12.1 (Q1. | 1. Kurshalbjahr
-12.2 (Q2. | 2. Kurshalbjahr
-13.1 (Q3. | 3. Kurshalbjahr
+12.1 (Q1) | 1. Kurshalbjahr
+12.2 (Q2) | 2. Kurshalbjahr
+13.1 (Q3) | 3. Kurshalbjahr
 13.2 (Q4) | 4. Kurshalbjahr
 
 **Zeugnisbemerkungen personalisieren**
