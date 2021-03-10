@@ -12,12 +12,23 @@ Im folgenden Kapitel beschreiben wir Ihnen die Vorgehensweise.
 
 Zur Berechnung der Endnoten der Teilbereiche Fachtheorie und Fachpraxis sowie der Duchschnittsnote des Bildungsganges IBA innerhalb eines Schuljahres (1. Halbjahr / 2. Halbjahr) gehören folgende Aufgaben:
 
-1. Berechnungsverordnung definieren
-2. Fächer der Schüler für den gewünschten Zeitraum einer Zeugnisausgabe  eingeben.
-3. Noten pro Fach der Schüler für den gewünschten Zeitraum zur Berechnung eingeben
-4. Berechnung ausführen
+1. Schlüsselverzeichnis definieren
+2. Berechnungsverordnung definieren
+3. Fächer der Schüler für den gewünschten Zeitraum einer Zeugnisausgabe  eingeben.
+4. Noten pro Fach der Schüler für den gewünschten Zeitraum zur Berechnung eingeben
+5. Berechnung ausführen
 
-### 1. Berechnungsverordnung definieren
+### 1. Schlüsselverzeichnisse
+
+Bitte pflegen Sie in den Schlüsselverzeichnissen `Schulform`und `Schulart` folgendes Kürzel ein:
+
+| Spalte | Wert|
+|---|---|
+| Kürzel| IBA 
+
+Tragen Sie die Werte bitte für die IBA Klassen im Menü `Klassen > Daten bei Schulform und Schulart`ein.
+
+### 2. Berechnungsverordnung definieren
 
 Bitte legen Sie unter `Schlüsselverzeichnisse > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten.
 
@@ -42,7 +53,7 @@ Bitte legen Sie unter `Schlüsselverzeichnisse > Verordnungen` eine neue Zeile a
 
 ![Geben Sie hier die Berechnungsverordnung mit der Kategorie „Versetzung“ ein.](/assets/images/IBA/IBA15.png)
 
-### 2. Fächer der Schüler eingeben
+### 3. Fächer der Schüler eingeben
 
 !!! warning "Wichtig"
 
@@ -80,7 +91,7 @@ Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betriebli
 
 Weisen Sie diese Fächer ebenfalls im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.  
 
-#### 3. Noten der Fächer eingeben
+#### 4. Noten der Fächer eingeben
 
 Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt". Dieses Feld ermöglicht Noten als Kommawert (Beispiel 1,4) zu erfassen. Fächer, für die es keine Bewertung gibt, also *ohne Bewertung* sind, weisen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" den Füllwert "o.B." zu.
 
