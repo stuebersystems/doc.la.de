@@ -598,11 +598,18 @@ Platzhalter | Ausgabe im Bericht
 
 **A0937** `Sonstiges`
 
+`Sonstiges`
+
 Modellversuch „Französisch und Englisch als gleichwertige Sprachen“: 
 Innerhalb eines Modellversuches bieten einige Schulen in den Klassenstufen 5 und 6 Französisch und Englisch als gleichwertige Sprachen an. Erst nach der Klassenstufe 6 wird entschieden, welche der beiden Sprachen als erste und welche eventuell als zweite Fremdsprache weitergeführt wird.
 Im Bereich der Pflichtfächer erscheint daher keines der beiden Fächer mit einer Note bzw. als Sprachkurs. Stattdessen wird innerhalb des Pflichtbereiches folgender Vermerk gedruckt:
 „ Die Schülerin / der Schüler hat am dreistündigen Sprachunterricht in den Fächern Französisch und Englisch teilgenommen.“
 Damit dieser Vermerk gedruckt wird, genügt es im Menü `Schüler > Zeugnis ` bei den Fächern Englisch und Französisch in der Spalte "Endnote" einfach keine Note einzutragen. Alternativ können diese Fächer auch einfach bei der Fachtafel weggelassen werden.
+
+Was genau prüft der Bericht?
+
+1. Wenn im Menü `Klassen > Zeiträume` im Feld "Jahrgang" der Wert 1, 2, 3, 4, 5, 6 oder 7 und/oder keine 2. Fremdsprache im Menü `Schüler > Daten 3` angegeben, wird der Bereich immer angezeigt!
+2. Ein Unterdrücken passiert nur, wenn Jahrgang > 7 und 2. FS angegeben ist.
 
 ## SAR-GEMS-AS (Klasse 9 ohne Prüfung)(ab 2020).rpt
 
@@ -1046,7 +1053,7 @@ Platzhalter | Ausgabe im Bericht
 
 ## SAR-GEMS-HJZ-JZ (Klasse 5-10).rpt
 
-Zeugnis für Anlagen 4.14.24.34.4
+Zeugnis für Anlagen 4.1, 4.2, 4.3, 4.4
 umfasst Halbjahreszeugnis Klassenstufe 5-10 sowie Jahreszeugnis Klassenstufe 5-8
 
 **A0009**	`Schueler > Zeugnis > Details > Zeugniskonferenz am`
@@ -1253,6 +1260,19 @@ Wenn im Menü `Klassen > Zeiträume` im Feld „Klassenleiter 1“ und "Klassenl
 **A0068**	`Schüler > Daten 3 > Verschiedenes > Schulpflicht erfüllt`
 
 Haken Sie im  entsprechenden Zeitraum im Menü `Schüler > Daten 3` unter „Verschiedenes“ das Feld „Schulpflicht erfüllt“ an, wenn der Schüler diese erfüllt hat.
+
+**A0937** `Sonstiges`
+
+Modellversuch „Französisch und Englisch als gleichwertige Sprachen“: 
+Innerhalb eines Modellversuches bieten einige Schulen in den Klassenstufen 5 und 6 Französisch und Englisch als gleichwertige Sprachen an. Erst nach der Klassenstufe 6 wird entschieden, welche der beiden Sprachen als erste und welche eventuell als zweite Fremdsprache weitergeführt wird.
+Im Bereich der Pflichtfächer erscheint daher keines der beiden Fächer mit einer Note bzw. als Sprachkurs. Stattdessen wird innerhalb des Pflichtbereiches folgender Vermerk gedruckt:
+„ Die Schülerin / der Schüler hat am dreistündigen Sprachunterricht in den Fächern Französisch und Englisch teilgenommen.“
+Damit dieser Vermerk gedruckt wird, genügt es im Menü `Schüler > Zeugnis ` bei den Fächern Englisch und Französisch in der Spalte "Endnote" einfach keine Note einzutragen. Alternativ können diese Fächer auch einfach bei der Fachtafel weggelassen werden.
+
+Was genau prüft der Bericht?
+
+1. Wenn im Menü `Klassen > Zeiträume` im Feld "Jahrgang" der Wert 1, 2, 3, 4, 5, 6 oder 7 und/oder keine 2. Fremdsprache im Menü `Schüler > Daten 3` angegeben, wird der Bereich immer angezeigt!
+2. Ein Unterdrücken passiert nur, wenn Jahrgang > 7 und 2. FS angegeben ist.
 
 ## SAR-GY-AZ (Klassenstufen 5-10)+GEMS-AZ (Einführungsphase).rpt
 
