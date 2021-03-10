@@ -595,6 +595,15 @@ Platzhalter | Ausgabe im Bericht
 ``<<Herr>>`` | Herr
 ``<<Herrn>>``| Herrn
 ``<<Er>>`` | Er
+
+**A0937** `Sonstiges`
+
+Modellversuch „Französisch und Englisch als gleichwertige Sprachen“: 
+Innerhalb eines Modellversuches bieten einige Schulen in den Klassenstufen 5 und 6 Französisch und Englisch als gleichwertige Sprachen an. Erst nach der Klassenstufe 6 wird entschieden, welche der beiden Sprachen als erste und welche eventuell als zweite Fremdsprache weitergeführt wird.
+Im Bereich der Pflichtfächer erscheint daher keines der beiden Fächer mit einer Note bzw. als Sprachkurs. Stattdessen wird innerhalb des Pflichtbereiches folgender Vermerk gedruckt:
+„ Die Schülerin / der Schüler hat am dreistündigen Sprachunterricht in den Fächern Französisch und Englisch teilgenommen.“
+Damit dieser Vermerk gedruckt wird, genügt es im Menü `Schüler > Zeugnis ` bei den Fächern Englisch und Französisch in der Spalte "Endnote" einfach keine Note einzutragen. Alternativ können diese Fächer auch einfach bei der Fachtafel weggelassen werden.
+
 ## SAR-GEMS-AS (Klasse 9 ohne Prüfung)(ab 2020).rpt
 
 Siehe SAR-GEMS-AS (Klasse 9 ohne Prüfung)(ab 2021).rpt
