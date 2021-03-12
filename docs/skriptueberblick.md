@@ -35,9 +35,9 @@ Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm ve
 
 | Verordnung | Abitur | Fachwahl <br/> MAGELLAN | Fachwahl <br/> DAVINCI | Schüler <br/> Leistungskarte | BBS |
 |---|----|---|----|------------------------------------------|-----|
-| BER-IBA-AS-2020 | - | - | - | - | [BER-IBA-AS-2020](https://doc.la.stueber.de/03.ber/ber-iba-as-2020dws/) |
-| BER-IBA-HJ-2020 | - | - | - | - | [BER-IBA-HJ-2020.dws](https://doc.la.stueber.de/03.ber/ber-iba-hj-2020dws/) |
-| BER-IBA-MSA-2019 | - | - | - | - | [BER-IBA-MSA-2019.dws](https://doc.la.stueber.de/03.ber/ber-iba-msa-2019/) |
+| BER-IBA-AS-2020 | - | - | - | [BER-IBA-AS-2020](https://doc.la.stueber.de/03.ber/ber-iba-as-2020dws/) | - |
+| BER-IBA-HJ-2020 | - | - | - | [BER-IBA-HJ-2020.dws](https://doc.la.stueber.de/03.ber/ber-iba-hj-2020dws/)|-  |
+| BER-IBA-MSA-2019 | - | - | - | [BER-IBA-MSA-2019.dws](https://doc.la.stueber.de/03.ber/ber-iba-msa-2019/) | - |
 | BER-BFS-Matrix (2016) | - | - | - | - | [BER-BFS-Matrix-2016](https://doc.la.stueber.de/03.ber/ber-bfs-matrix-2016dws.md) |
 | BER-BBS-Matrix (2016) | - | - | - | - | [BER-BBS-Matrix-2016](https://doc.la.stueber.de/03.ber/ber-bbs-matrix-2016dws/) |
 | BER-BBS-Matrix (2007) | - | - | - | - | [BER-BBS-Matrix-2007](https://doc.la.stueber.de/03.ber/ber-bbs-matrix-2007dws/) |
