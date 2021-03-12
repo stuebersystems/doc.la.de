@@ -801,42 +801,42 @@ Kürzel | Schlüssel | Zeugnisbereich
 L-Kurs | L  | Leistungskurse (L-Kurse), Kurse auf erhöhtem Anforderungsniveau"
 G-Kurs | G | Grundkurse (G-Kurse), Kurs auf grundlegendem Anforderungsniveau"
 
-**A0045*	`Mandanten > Daten > Name 1`
+**A0045** `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
-**A0077**	`Mandanten > Daten 1 > Schulleiter`
+**A0077** `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
 
-**A0111**	`Ausdruck`
+**A0111** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**A0131**	`Schüler > Zeugnis > Details > Tutor`
+**A0131** `Schüler > Zeugnis > Details > Tutor`
 
 Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
-**A0175**	`Abitur > Qualifikation > Durchschnitt`
+**A0175** `Abitur > Qualifikation > Durchschnitt`
 
 Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Abitur > Qualifikation` im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist.
 
-**A0176**	`Abitur > Qualifikation > Zeugnisdatum`
+**A0176** `Abitur > Qualifikation > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Qualifikation` im Feld "Zeugnisdatum" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist.
 
-**A0213**	`Abitur > Qualifikation > Status > Fachhochschulreife berechnen`
+**A0213** `Abitur > Qualifikation > Status > Fachhochschulreife berechnen`
 
 Wählen Sie die eingebrachten Halbjahre für die Notenberechnung im Menü `Abitur > Qualifikation` im Feld "Eingebrachte Halbjahre" aus. Beachten Sie bitte, dass Sie im Menü `Abitur > Qualifikation` im Feld "Status" "Fachhochschulreife berechnen" ausgewählt haben.
 
-**A0216**	`Mandanten > Daten 1 > Ort`
+**A0216** `Mandanten > Daten 1 > Ort`
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**A0218**	`Abitur > Qualifikation > Manuelles Markieren`
+**A0218** `Abitur > Qualifikation > Manuelles Markieren`
 
 Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesamtpunktzahl des schulischen Teils der Fachhochschulreife. D.h. markieren Sie im Menü `Abitur > Qualifikation` die Option "Manuelles Markieren", wählen Sie die Option "Kurse einbringen" und klicken Sie die entsprechenden Kurse an. Die eingebrachten Kurse werden gelb markiert.
 
-**A0681**	`Abitur > Qualifikation > Status > Fachhochschulreife berechnen`
+**A0681** `Abitur > Qualifikation > Status > Fachhochschulreife berechnen`
 
 Ergebnisse außerhalb der Gesamtpunktzahl: Je nachdem, welche Halbjahre Sie im Bereich "Fachhochschulreife" im "Feld" „Eingebrachte Halbjahre“ ausgewählt haben, erscheinen in „Ergebnisse außerhalb der Gesamtpunktzahl“ die Fächer, die nicht eingebracht wurden.
 

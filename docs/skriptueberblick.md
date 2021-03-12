@@ -35,6 +35,9 @@ Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm ve
 
 | Verordnung | Abitur | Fachwahl <br/> MAGELLAN | Fachwahl <br/> DAVINCI | Schüler <br/> Leistungskarte | BBS |
 |---|----|---|----|------------------------------------------|-----|
+| BER-IBA-AS-2020 | - | - | - | - | [BER-IBA-AS-2020](https://doc.la.stueber.de/03.ber/ber-iba-as-2020dws/) |
+| BER-IBA-HJ-2020 | - | - | - | - | [BER-IBA-HJ-2020.dws](https://doc.la.stueber.de/03.ber/ber-iba-hj-2020dws/) |
+| BER-IBA-MSA-2019 | - | - | - | - | [BER-IBA-MSA-2019.dws](https://doc.la.stueber.de/03.ber/ber-iba-msa-2019/) |
 | BER-BFS-Matrix (2016) | - | - | - | - | [BER-BFS-Matrix-2016](https://doc.la.stueber.de/03.ber/ber-bfs-matrix-2016dws.md) |
 | BER-BBS-Matrix (2016) | - | - | - | - | [BER-BBS-Matrix-2016](https://doc.la.stueber.de/03.ber/ber-bbs-matrix-2016dws/) |
 | BER-BBS-Matrix (2007) | - | - | - | - | [BER-BBS-Matrix-2007](https://doc.la.stueber.de/03.ber/ber-bbs-matrix-2007dws/) |
@@ -76,6 +79,7 @@ APO 2010|-|[HES-FW-APO-2010.js](http://doc.la.stueber.de/05.hes/hes-fw-apo-2010j
 
 Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
+APO 2019 (in Bearbeitung)|[MVP-APO-FG-2019.dws](https://doc.la.stueber.de/06.mvp/mvp-apo-fg-2019)|-|-|-|-
 APO 2017|[MVP-APO-FG-2017.dws](https://doc.la.stueber.de/06.mvp/mvp-apo-fg-2017)|-|-|-|-
 APO 2010|[MVP-APO-2010.dws (auch FG)](https://doc.la.stueber.de/06.mvp/mvp-apo-2010) |[MVP-FW-APO-2010.js](https://doc.la.stueber.de/06.mvp/mvp-fw-apo-2010js)|[MVP-FW-APO-2010.js](https://doc.la.stueber.de/06.mvp/mvp-fw-apo-2010js)|-|-
 APO 2006|[MVP-APO-2006.dws (auch FG)](https://doc.la.stueber.de/06.mvp/mvp-apo-2006) |-|-|-|-
@@ -86,6 +90,7 @@ APO FG 1999|[MVP-APO-FG-1999.dws](https://doc.la.stueber.de/06.mvp/mvp-apo-fg-19
 
 Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
 ----------|------|----------------- |---------------- |------------------------ |------------
+APO 2018|[NIE-APO-G9-2018.dws](https://doc.la.stueber.de/07.nie/nie-apo-g9-2018) |-|-|-|-
 APO 2016|[NIE-APO-G9-2016.dws](https://doc.la.stueber.de/07.nie/nie-apo-g9-2016) |-|-|-|-
 APO 2014|[NIE-APO-G9-2014.dws](https://doc.la.stueber.de/07.nie/nie-apo-g9-2014nie-apo-g8-2014) |-|-|-|-
 APO 2014|[NIE-APO-G8-2014.dws](https://doc.la.stueber.de/07.nie/nie-apo-g9-2014nie-apo-g8-2014) |-|-|-|-
