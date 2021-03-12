@@ -766,11 +766,15 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin  (je nach Geschlecht des Schülers) 
 ``<<DemSchueler_DerSchuelerin>> `` |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)"
 
-**A0938**	`Sonstiges`
+**A0933** `Abitur > Prüfung > Sprachkenntnisse`
+
+Das kleine, mittlere bzw. große Latinum etc. wird auf dem Zeugnis ausgegeben, wenn Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` das dafür vorgesehene Feld markieren.
+
+**A0938** `Sonstiges`
 
 Die Ausgabe der "In der Einführungsphase neu beginnende Fremdsprache" erfolgt aufgrund der eingetragenen Jahrgangsstufe der Fremdsprachen im Menü `Schüler > Daten 3`. Sprachen, die ab JG 11 beginnen, werden hier als neu beginnende Fremdsprache erkannt.
 
-****	`Abitur > Prüfung`
+**A0939** `Abitur > Prüfung`
 
 Auf dem Zeugnis kann eine „Facharbeit“ und eine "besondere Lernleistung“ ausgegeben werden. 
 
