@@ -176,7 +176,7 @@ Sie können Berichte alternativ auch in Access erstellen. Wie Sie Access an die 
 
 !!! info "Hinweis"
 
-    Falls Sie selbst in Crystal Reports Berichte erstellen möchten, finden Sie die dazu notwendigen Informationen in der [MAGELLAN 6 Datenstruktur](https://doc.magellan7-datenstruktur.stueber.de/).
+    Falls Sie selbst in Crystal Reports Berichte erstellen möchten, finden Sie die dazu notwendigen Informationen in der [MAGELLAN 6 Datenstruktur](https://doc.magellan7-toolbox.stueber.de/datenstruktur/).
 
 ### Berichte im Auftrag erstellen lassen
 
