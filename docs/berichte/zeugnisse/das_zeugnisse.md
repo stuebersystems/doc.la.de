@@ -8,7 +8,7 @@ ZEUGNIS DER Zeugnis der ALLGEMEINEN HOCHSCHULREIFE mit besonderer Lernleistung
 Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland  (Beschluss der Kultusministerkonferenz vom 11.06.2015 i.d.F. vom 03.05.2018) zugrunde.
 (Anlage 8a zu DIA-PO [§ 37])
 
-###Aufgabenbereich
+### Aufgabenbereich
 
 `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
@@ -30,7 +30,7 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintrages in MAGELLAN unter `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "von" und aus dem Menü `Klassen > Zeiträume` Feld „Jahrgang“.
 
-###Schulleiter, Klassenleiter, Abteilungsleiter
+### Schulleiter, Klassenleiter, Abteilungsleiter
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -47,24 +47,24 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-###Drucken
+### Drucken
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" über das Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-###Lernleistung
+### Lernleistung
 
 `Abitur > Prüfung > Lernleistung`
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
 Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu 
 
-###Zeugnisdatum
+### Zeugnisdatum
 
 `Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-###Prüfungsfächer
+### Prüfungsfächer
 
 `Abitur > Prüfung > Prüfungsfächer`
 
@@ -81,7 +81,7 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachs
 | 4PF    | 4PF       | 4. Prüfungsfach |
 | 5PF    | 5PF       | 5. Prüfungsfach |
 
-###Ort
+### Ort
 
 `Mandanten > Daten 1 > Ort`
 
@@ -118,7 +118,7 @@ Spanisch | ###leer### | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
-###Schlüsselverzeichnis > Fächer
+### Schlüsselverzeichnis > Fächer
 
 `Schlüsselverzeichnisse > Fächer > Bezeichnung2`
 
@@ -128,7 +128,7 @@ Die Übersetzung des Faches tragen Sie im `Schlüsselverzeichnis > Fächer` im F
 
 Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
-Fach (Bezeichnung/Kürzel)###  | 	Merkmal
+Fach (Bezeichnung/Kürzel)  | 	Merkmal
 --|--
 Deutsch |  	D
 Mathematik | M
@@ -143,13 +143,13 @@ Beispiel:
 
 `Biologie/Englisch`
 
-###Sprachreferenzen
+### Sprachreferenzen
 
 `Schüler > Daten 3 > Fremdsprachefolge > Sprachreferenzen`
 
 Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`. Vom Bericht wird das Kürzel abgefragt. Für das Zuweisen der Referenzen können Sie auch die Sammelzuweisung verwenden.
 
-###Zeugnisbemerkungen
+### Zeugnisbemerkungen
 
 `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
@@ -180,14 +180,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ## DAS (Zwischenzeugnis) Variante 2.rpt
@@ -200,19 +200,19 @@ Mögliche Beurteilungen:
 - Mit Erfolg teilgenommen
 - Teilgenommen
 
-###Zeiträume
+### Zeiträume
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-###Fachstatus
+### Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
-###Arbeitsgemeinschaften
+### Arbeitsgemeinschaften
 
  Bitte legen Sie Ihre Arbeitsgemeinschaften unter `Schüsselverzeichnisse > Fächer` als Fachzeilen an. Verteilen Sie die Arbeitsgemeinschaften per Sammelzuweisung der Fachtafeln oder weisen sie direkt dem Schüler unter `Schüler > Zeugnis > Fächer` die entsprechenden Fächer der AGs zu. Weisen Sie die Fachzeilen bitte den Fachstatus AG. 
  
@@ -223,7 +223,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 AG | AG | Arbeitsgemeinschaft
 SozialV | SozialV | Sozialverhalten
 
-###Fachpositonen
+### Fachpositonen
 
 `Schüler > Zeugnis > Fächer > Position`
 
@@ -231,13 +231,13 @@ Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeu
 
 Um Fächer wie z.B. Sprachgebrauch, Lesen oder Rechtschreiben einzurücken, positionieren Sie diese im Menü `Schüler > Zeugnis > Fächer`  mit 1, 3 oder 5.
 
-###Schulform
+### Schulform
 
 `Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
-###Schulleiter, Klassenleiter
+### Schulleiter, Klassenleiter
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -610,14 +610,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers) 
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers) 
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers) 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ## DAS-GY (Klasse 11-12).rpt
@@ -758,14 +758,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ## DAS-GY-ABI (DIA)(2019).rpt
@@ -803,7 +803,7 @@ Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintr
 
 Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
-Fach (Bezeichnung/Kürzel)###  | 	Merkmal
+Fach (Bezeichnung/Kürzel)  | 	Merkmal
 --|--
 Deutsch |  	D
 Mathematik | M
@@ -921,14 +921,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ## DAS-GY-ABI-Reifepruefung 2017.rpt
@@ -1091,14 +1091,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ### Druck
@@ -1137,7 +1137,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
-Fach (Bezeichnung/Kürzel)###  | 	Merkmal
+Fach (Bezeichnung/Kürzel)  |Merkmal
 --|--
 Deutsch |  	D
 Mathematik | M
@@ -1219,14 +1219,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ### Druck
@@ -1265,7 +1265,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
-Fach (Bezeichnung/Kürzel)###  | 	Merkmal
+Fach (Bezeichnung/Kürzel)  | 	Merkmal
 --|--
 Deutsch |  	D
 Mathematik | M
@@ -1381,14 +1381,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ### Mandanten
@@ -1556,7 +1556,7 @@ Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintr
 
 Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
-Fach (Bezeichnung/Kürzel)###  | 	Merkmal
+Fach (Bezeichnung/Kürzel)  | 	Merkmal
 --|--
 Deutsch |  	D
 Mathematik | M
@@ -1680,14 +1680,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ### Abschluss
@@ -1795,14 +1795,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ### Mandanten
@@ -1960,14 +1960,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ### vierstündige Fächer
@@ -1976,13 +1976,12 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
-Fach (Bezeichnung/Kürzel)###  | 	Merkmal
+Fach (Bezeichnung/Kürzel)  | Merkmal
 --|--
 Deutsch |  	D
 Mathematik | M
 Englisch | 	E
 Landessprache | LS
-
 
 ## DSND.DAS-GS (Klasse 1).rpt
 
@@ -2099,14 +2098,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ### Schulhalbjahre
@@ -2260,14 +2259,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ### Verzeichnis Zeiträume
@@ -2413,14 +2412,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ### Kennnummer
@@ -2572,14 +2571,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ### ENBREA Lernleistungen
@@ -2759,14 +2758,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ### Abschluss
@@ -2895,14 +2894,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)###
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)###
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler) 
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler) 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ### Verzeichnis Fächer
@@ -2911,7 +2910,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
-Fach (Bezeichnung/Kürzel)###  | 	Merkmal
+Fach (Bezeichnung/Kürzel)  | 	Merkmal
 --|--
 Deutsch |  	D
 Mathematik | M
@@ -3184,14 +3183,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ###(A0805)### `Schüler > Daten 3 > Fremdsprachenfolge`
@@ -3294,21 +3293,21 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<Nachname>>`  |  Nachname des Schülers
 `<<Vorname>>` |  Vorname, Vorname2 und Namenszusatz des Schülers
 `<<Er_Sie>>` |  Er/Sie (je nach Geschlecht des Schülers)
-`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schülers)###     
-`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schülers)### 
-`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schülers)### 
-`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schülers)### 
-`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schülers)### 
-`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schülers)### 
-`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)### 
-`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)### 
+`<<Seine_Ihre>>` | Seine/Ihre (je nach Geschlecht des Schüler)      
+`<<seine_ihre>>` |  seine/ihre (je nach Geschlecht des Schüler)  
+`<<Ihm_Ihr>>` |  Ihm/Ihr (je nach Geschlecht des Schüler)  
+`<<ihm_ihr>>` |  ihm/ihr (je nach Geschlecht des Schüler)  
+`<<Seinen_Ihren>>` |  Seinen/Ihnen (je nach Geschlecht des Schüler)  
+`<<seinen_ihren>>` |  seinen/ihnen (je nach Geschlecht des Schüler)  
+`<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
+`<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ###(A0810)### `Schlüsselverzeichnis > Fächer > Merkmale`
 
 Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Merkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
 
-Fach (Bezeichnung/Kürzel)###  | 	Merkmal
+Fach (Bezeichnung/Kürzel)  | 	Merkmal
 --|--
 Deutsch |  	D
 Mathematik | M
