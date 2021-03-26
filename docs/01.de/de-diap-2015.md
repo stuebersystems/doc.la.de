@@ -137,5 +137,5 @@ Das Berechnungsskript **DE-DIAP-2015** berücksichtigt auch folgendes:
 
 * Ermittlung einer Schnittverbesserung durch mögliche Einbringung einer mdl. Note in einem Prüfungsfach unter dem Menü ``Abitur > Prüfung`` im Feld "mdl. Note"
   
-![`Abitur > Prüfung > "Neu berechnen`](../assets/images/DAS/ds.schnittverbessernd01.png)
+![`Abitur > Prüfung > "Neu berechnen`](/assets/images/DAS/ds.schnittverbessernd01.png)
 * Ermittlung der Abiturzulassung am Ende der Q3, wenn unter dem Menü ``Abitur > Qualifikation`` in den Feldern ``Q4`` keine Punktwerte eingetragen sind

@@ -150,7 +150,7 @@ Prüfen Sie bitte im `Schlüsselverzeichnis > Unterrichtsarten`, dass in Ihrem V
 | G | G | Grundkurs |
 | A | A | Aufbaukurs |
 
-![Unterrichtsarten](../assets/images/mittelstufe/ms_unterrichtsarten01.png)
+![Unterrichtsarten](/assets/images/mittelstufe/ms_unterrichtsarten01.png)
 
 ### Schlüsselverzeichnis > Fachstatus
 
