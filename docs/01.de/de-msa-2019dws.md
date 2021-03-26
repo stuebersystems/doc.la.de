@@ -12,7 +12,7 @@ Zur Berechnung des Notendurchschnittes gehen Sie bitte wie folgt vor:
 
 ### 1. Berechnungsverordnung definieren
 
-Bitte legen Sie unter ```Schlüsselverzeichnis > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten.
+Bitte legen Sie unter `Schlüsselverzeichnis > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten.
 
 |Spalte|Wert|
 |--|--|
@@ -21,7 +21,7 @@ Bitte legen Sie unter ```Schlüsselverzeichnis > Verordnungen``` eine neue Zeile
 |Kategorie|Versetzung|
 |Typ|leer|
 |Ab Jahrgang|leer|
-|Skript|```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server) hier _DE-MSA-2019.dws_|
+|Skript|`...\Ihre Region\Ihr_Skript.dws` (Pfad zur Skriptdatei auf Ihrem Server) hier _DE-MSA-2019.dws_|
 |Notenart 11|leer|
 |Notenart 12|leer|
 |Notenart 13|leer|
@@ -41,7 +41,7 @@ Um die Berechnung durchführen zu können, müssen Sie zunächst die Noten der S
 |--|--|
 |Endnote |Jahrgangsnoten der Fächer|
 
-![Leistungen im Feld `Endnote` erfassen](../assets/images/6.5.33_04.png)
+![Leistungen im Feld `Endnote` erfassen](/assets/images/6.5.33_04.png)
 
 #### 3. Berechnung ausführen
 

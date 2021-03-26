@@ -117,7 +117,7 @@ Zusatznote 1 | schriftliche Prüfung
 Zusatznote 2 | mündliche Prüfung
 Zusatznote 3 | praktische Prüfung
 
-![Berufsschule > Matrix](..\assets\images\Berufsschule\01.png)
+![Berufsschule > Matrix](\assets\images\Berufsschule\01.png)
 
 !!! info "Hinweis"
 
@@ -167,7 +167,7 @@ Kürzel | Schlüssel | Bezeichnung | Bereich
 beliebig (BFS Kfm) | leer | Kaufmännische Berufsfachschule | Merkmal A6
 beliebig (BFS Textil) | leer | Berufsfachschule für Textiltechnik und Bekleidung | Merkmal A6
 
-![Menü Mandante > Merkmale](..\assets\images\Berufsschule\BFS02.png)
+![Menü Mandante > Merkmale](\assets\images\Berufsschule\BFS02.png)
 
 #### Kammerprüfung 
 
@@ -180,11 +180,11 @@ Kürzel | Schlüssel | Bezeichnung | Bereich
 beliebig (IHK) | leer | Industrie- und Handelskammer | Merkmal A6
 beliebig (HK) | leer | Handwerkskammer | Merkmal A6
 
-![Menü Klassen > Merkmale](..\assets\images\Berufsschule\BFS01.png)
+![Menü Klassen > Merkmale](\assets\images\Berufsschule\BFS01.png)
 
 #### Prüfdatum vor der Kammer
 
 Das "Prüfdatum" vor der Kammer tragen Sie im entsprechenden Zeitraum im Menü `Schüler > Merkmale` im Feld "Merkmal D4" ein.
 Die Merkmale D1-D4 können per Sammelzuweisung den Schüler zugewiesen werden. (Sammelzuweisung Stammdaten)
 
-![Menü Schüler > Merkmale](..\assets\images\Berufsschule\BFS03.png)
+![Menü Schüler > Merkmale](\assets\images\Berufsschule\BFS03.png)

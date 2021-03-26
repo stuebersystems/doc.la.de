@@ -1,6 +1,6 @@
 # BER-IBA-MSA-2019.dws
 
-Innerhalb eines Zeitraums können mit Hilfe des Berechnungsskriptes _BER-IBA-MSA-2019.dws_
+Innerhalb eines Zeitraums können mit Hilfe des Berechnungsskriptes `BER-IBA-MSA-2019.dws`
 Durchschnittsnoten für den Schulversuch "Integrierte Berufsausbildungsvorbereitung" ermittelt werden.
 
 ## Vorbereitungen
@@ -14,7 +14,7 @@ Zur Berechnung des MSA Durchschnittes und der Gesamtnoten für das 1.-3. sowie 4
 
 ### Berechnungsverordnung definieren
 
-Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten.
+Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten.
 
 | Spalte | Wert|
 |---|---|
@@ -23,7 +23,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 | Kategorie    | Versetzung                               |
 | Typ          | leer                                     |
 | Ab Jahrgang  | leer                                     |
-| Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server) hier _BER-IBA-MSA-2019.dws_ |
+| Skript       | `...\Ihre Region\Ihr_Skript.dws` (Pfad zur Skriptdatei auf Ihrem Server) hier _BER-IBA-MSA-2019.dws_ |
 | Notenart 11  | leer                                     |
 | Notenart 12  | leer                                     |
 | Notenart 13  | leer                                     |
@@ -56,7 +56,7 @@ Jedem Fach pro Schüler müssen eine der folgenden Unterrichtsarten auf der Regi
 ### Fachstatus
 
 Der Fachstatus muss unter ``Schüler > Zeugnis > Fachstatus`` zugeordnet sein.
-Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
+Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung       |
 |--------|-----------|-----------------|
@@ -66,7 +66,7 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 | 4PF    | 4PF       | 4. Prüfungsfach |
 | WahlB  | WahlB     | Wahlbereich     |
 
-![JPrüfungsfächer festlegen](/assets/images/MSA.IBA.Prüfungsfächer.png)
+![JPrüfungsfächer festlegen](/assets/images/MSA.IBA.pf.png)
 
 ### Noten zur Berechnung eingeben
 
@@ -83,7 +83,7 @@ Für die automatische Berechnung des Gesamtnote im 1.-3. Prüfungsfach sind die 
 | Schriftl. Note 1 | schriftliche Note 1PF, 2PF, 3PF |
 | Mdl. Note        | schriftliche Note 1PF, 2PF, 3PF |
 
-![Prüfungsergebnisse erfassen](/assets/images/MSA.IBA.Prüfungsfächer.Schrift.Mdl.png)
+![Prüfungsergebnisse erfassen](/assets/images/MSA.IBA.pf.Schrift.Mdl.png)
 
 #### 4. Prüfungsfach
 
