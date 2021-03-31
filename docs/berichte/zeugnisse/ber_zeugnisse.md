@@ -859,7 +859,7 @@ Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeu
 
 Zeugnisbemerkungen, die nur auf dem MSA Zeugnis ausgegeben werden sollen, weisen Sie Menü `Schüler > Zeugnis > Bemerkungen/Formulare` bei der Bemerkung das Merkmal "EBBR" zu.
 
-## (V6) BER-Schul Z 593 (10.20).rpt
+## BER-Schul Z 593 (10.20).rpt
 
 Schul Z 593 – Zeugnis der Integrierten Berufsausbildungsvorbereitung über den mittleren Schulabschluss (Vollzeit) – (4 Seiten) (10.20)
 
@@ -1489,7 +1489,7 @@ Das Zeugnis liest die Teilbereiche Fachtheorie und Fachpraxis (Fächer mit Unter
 
 Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Schüler > Zeugnis > Zeugnisdetails` gezogen.
 
-## (V6) BER-Schul Z 520 (09.19).rpt
+## BER-Schul Z 520 (09.19).rpt
 
 Schul Z 520 – Zeugnis der Berufsfachschule – (2 Seiten) – (09.19)
 
@@ -1602,7 +1602,7 @@ z.B.
 1 Jahrgang: 1. und 2. HJ
 2 Jahrgang: 3. und 4. HJ usw.
 
-## (V6) BER-Schul Z 522 (09.19).rpt
+## BER-Schul Z 522 (09.19).rpt
 
 Schul Z 522 – Abschlusszeugnis der Berufsfachschule mit schulischer Abschlussprüfung – (3 Seiten) – (09.19)
 
@@ -1730,7 +1730,7 @@ BER-BFS-AZ  | beliebig |  beliebig (Bsp. BER-Schul Z 526 (09.19).rpt)
 
 Die Bezeichnungen BER-BFS-AS für das Abschlusszeugnis, BER-BFS-MSA für das Zusatzzeugnis Mittlerer Schulabschluss und BER-BFS-AZ für das Abgangszeugnis sind fest vorgegeben.
 
-## (V6) BER-Schul Z 523 (09.19).rpt
+## BER-Schul Z 523 (09.19).rpt
 
 Schul Z 523 – Abschlusszeugnis der Berufsfachschule mit Kammerprüfung – (3 Seiten) – (09.19)
 
@@ -1866,7 +1866,7 @@ BER-BFS-AZ  | beliebig |  beliebig (Bsp. BER-Schul Z 526 (09.19).rpt)
 
 Die Bezeichnungen BER-BFS-AS für das Abschlusszeugnis, BER-BFS-MSA für das Zusatzzeugnis Mittlerer Schulabschluss und BER-BFS-AZ für das Abgangszeugnis sind fest vorgegeben.
 
-## (V6) BER-Schul Z 526 (09.19).rpt
+## BER-Schul Z 526 (09.19).rpt
 
 Schul Z 526 – Abgangszeugnis der Berufsfachschule – (2 Seiten) – (09.19)
 
@@ -1991,7 +1991,7 @@ BER-BFS-AZ  | beliebig |  beliebig (Bsp. BER-Schul Z 526 (09.19).rpt)
 
 Die Bezeichnungen BER-BFS-AS für das Abschlusszeugnis, BER-BFS-MSA für das Zusatzzeugnis Mittlerer Schulabschluss und BER-BFS-AZ für das Abgangszeugnis sind fest vorgegeben.
 
-## (V6) BER-Schul Z 500 (09.19).rpt
+## BER-Schul Z 500 (09.19).rpt
 
 Schul Z 500 – Zeugnis der Berufsschule – (2 Seiten) – (09.19)
 
@@ -2122,7 +2122,7 @@ z.B.
 1 Jahrgang: 1. und 2. HJ
 2 Jahrgang: 3. und 4. HJ usw.
 
-## (V6) BER-Schul Z 501 (09.19).rpt
+## BER-Schul Z 501 (09.19).rpt
 
 Schul Z 501 – Abschlusszeugnis der Berufsschule – (3 Seiten) – (09.19)
 
@@ -2243,7 +2243,7 @@ In den Feldern "J1 Faktor" bis "J9 Faktor" sind die Wochenstunden der Fächer pr
 
 Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Berufsschule > Matrix` gezogen.
 
-## (V6) BER-Schul Z 502 (09.19).rpt
+## BER-Schul Z 502 (09.19).rpt
 
 Schul Z 502 – Zeugnis der Berufsschule über den mittleren Schulabschluss – (2 Seiten) – (09.19)
 
@@ -2342,7 +2342,7 @@ https://doc.la.stueber.de/03.ber/ber-bbs-matrix-2016dws/
 
 Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Berufsschule > Matrix` gezogen.
 
-## (V6) BER-Schul Z 503 (09.19).rpt
+## BER-Schul Z 503 (09.19).rpt
 
 Schul Z 503 – Abgangszeugnis der Berufsschule – (2 Seiten) – (09.19)
 
