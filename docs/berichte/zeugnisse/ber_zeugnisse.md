@@ -1,6 +1,6 @@
 # Zeugnisse für Berlin
 
-## (V6) BER-Schul Z 590 (12.19).rpt
+## BER-Schul Z 590 (12.19).rpt
 
 Schul Z 590 – Zeugnis der Integrierten Berufsausbildungsvorbereitung (Vollzeit) – (2 Seiten) – (12.19)
 
