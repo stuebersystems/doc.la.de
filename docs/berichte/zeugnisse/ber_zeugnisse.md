@@ -253,7 +253,7 @@ Die berechnete "Endnote" kann jederzeit manuell im Feld "Endnote" geändert werd
 
 Für die Sortierung der Fächer des "Berufsfeldübergreifenden Unterrichts" auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Den Fächern mit Niveau-Stufe (GR-Niveau / ER-Niveau) weisen Sie die Position 1-3 zu, den Fächern "Wirtschafts- und Sozialkunde" und Spoprt/Gesundheitsförderung weisen Sie die Position 4-5 zu.
 
-## (V6) BER-Schul Z 591 (03.20).rpt
+## BER-Schul Z 591 (03.20).rpt
 
 Schul Z 591 – Abschlusszeugnis der Integrierten Berufsausbildungsvorbereitung (Vollzeit) – (4 Seiten) – (03.20)
 
@@ -524,7 +524,7 @@ Die Durchschnittsnote im Abschlusszeugnis des Bildungsgangs Integrierte Berufsau
 
 Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Schüler > Zeugnis > Zeugnisdetails` gezogen.
 
-## (V6) BER-Schul Z 592 (03.20).rpt
+## BER-Schul Z 592 (03.20).rpt
 
 Schul Z 592 – Zeugnis der Integrierten Berufsausbildungsvorbereitung über die erweiterte Berufsbildungsreife (Vollzeit) – (4 Seiten) – (03.20)
 
@@ -706,7 +706,7 @@ Zusatz Note 1 | Gesamtnote
 
 Das Thema der Präsentationsprüfung erfassen Sie im Menü `Schüler > Zeugnis > Leistungen`im Feld "Beurteilungstexte".
 
-## (V6) BER-Schul Z 592 (2019.2020).rpt
+## BER-Schul Z 592 (2019.2020).rpt
 
 Schul Z 592 – Zeugnis der Integrierten Berufsausbildungsvorbereitung über die erweiterte Berufsbildungsreife (Vollzeit) – (4 Seiten) – (2019/2020)
 
@@ -1065,7 +1065,7 @@ Zusatz Note 1 | Gesamtnote
 
 Das Thema der Präsentationsprüfung erfassen Sie im Menü `Schüler > Zeugnis > Leistungen`im Feld "Beurteilungstexte".
 
-## (V6) BER-Schul Z 593 (2019.2020).rpt
+## BER-Schul Z 593 (2019.2020).rpt
 
 Schul Z 593 – Zeugnis der Integrierten Berufsausbildungsvorbereitung über den mittleren Schulabschluss (Vollzeit) – (4 Seiten) (2019/2020)
 
@@ -1239,7 +1239,7 @@ Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeu
 
 Zeugnisbemerkungen, die nur auf dem MSA Zeugnis ausgegeben werden sollen, weisen Sie Menü `Schüler > Zeugnis > Bemerkungen/Formulare` bei der Bemerkung das Merkmal "MSA" zu.
 
-## (V6) BER-Schul Z 594 (12.19).rpt
+## BER-Schul Z 594 (12.19).rpt
 
 Schul Z 594 – Abgangszeugnis der Integrierten Berufsausbildungsvorbereitung (Vollzeit) – (2 Seiten) – (12.19)
 
