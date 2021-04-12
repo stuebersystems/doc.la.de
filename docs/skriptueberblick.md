@@ -110,6 +110,7 @@ APO 2012|[NRW-APO-2012.dws](https://doc.la.stueber.de/08.nrw/nrw-apo-2012)|[NRW-
 APO BK 1999|[NRW-APO-BK-1999.dws](https://doc.la.stueber.de/08.nrw/nrw-apo-bk-1999)|-|-|-|-
 APO BK 2011|[NRW-APO-BK-2011.dws](https://doc.la.stueber.de/08.nrw/nrw-apo-bk-2011)|-|-|-|-
 APO BK 2012|[NRW-APO-BK-2012.dws](https://doc.la.stueber.de/08.nrw/nrw-apo-bk-2012)|[NRW-FW-APO-BK-2012.js](https://doc.la.stueber.de/08.nrw/nrw-fw-apo-bk-2012js) |[NRW-FW-APO-BK-2012.js](https://doc.la.stueber.de/08.nrw/nrw-fw-apo-bk-2012js)|-|-
+APO BK 2018|[NRW-APO-BK-2018.dws](https://doc.la.stueber.de/08.nrw/nrw-apo-bk-2018)|[NRW-FW-APO-BK-2012.js](https://doc.la.stueber.de/08.nrw/nrw-fw-apo-bk-2012js) |[NRW-FW-APO-BK-2012.js](https://doc.la.stueber.de/08.nrw/nrw-fw-apo-bk-2012js)|-|-
 NRW-AS-APO-BK-1999|-|-|-|[NRW-AS-APO-BK-1999](https://doc.la.stueber.de/08.nrw/nrw-as-apo-bk-1999)|-
 
 ## Rheinland-Pfalz
