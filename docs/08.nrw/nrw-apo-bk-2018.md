@@ -2,7 +2,23 @@
 
 ## Unterschied zum NRW-APO-BK-2012
 
-Dieses Skript prüft, ob die Anzahl der eingebrachten Grundkurse 32 nicht übersteigt.
+Dieses Skript berücksichtigt abweichend vom Skript `NRW-APO-BK-2021` die unten fett markierten Passagen der Verordnung.
+
+Auszug aus der APO-BK NRW:
+
+... § 15 (ab 01.08.2018) Zulassung zur Abiturprüfung
+
+(1) Über die Zulassung zur Abiturprüfung entscheidet der allgemeine Prüfungsausschuss in der ersten Konferenz.
+(2) Zugelassen wird, wer am Unterricht der Jahrgangsstufen 12 und 13 gemäß der für den Bildungsgang gültigen Stundentafel teilgenommen hat und im Grund- und Leistungskursbereich der Qualifikationsphase (Block I) folgende Bedingungen erfüllt:
+1. **Es müssen mindestens 32 und höchstens 40 Kurse, darunter die acht Leistungskurse, eingebracht werden.** Werden mehr als 32 Kurse eingebracht, kann ein Kurs durch eine Facharbeit nach Absatz 4 Nummer 3 ersetzt werden.
+
+2. Es müssen mindestens 200 Punkte gemäß § 25 Absatz 3 erreicht werden.
+**3. Von den gemäß Nummer 1 eingebrachten Kursen dürfen**
+**a) bei Einbringung von genau 32 Kursen nicht mehr als sechs,**
+**b) bei Einbringung von 33 bis 37 Kursen nicht mehr als sieben und**
+**c) bei Einbringung von 38 bis 40 Kursen nicht mehr als acht Kurse**
+**mit weniger als fünf Punkten in einfacher Gewichtung bewertet worden sein.**
+**Darunter dürfen nicht mehr als drei Leistungskurse sein.** Kurse, die mit null Punkten bewertet worden sind, können nicht eingebracht werden. ...
 
 ## Verzeichnis Verordnung
 
