@@ -1527,6 +1527,7 @@ GK | GK | Grundkurse
 **(A0111)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0183)** `Mandanten > Daten 1 > Ort`
 
@@ -1536,10 +1537,6 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesamtpunktzahl des schulischen Teils der Fachhochschulreife. D.h. markieren Sie im Menü `Abitur > Qualifikation` die Option
 "Manuelles Markieren", wählen Sie die Option "Kurse einbringen" und klicken Sie die entsprechenden Kurse an. Die eingebrachten Kurse werden gelb markiert.
-
-**(A0239)** `Ausdruck`
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **(A0388)** Abitur > Prüfung > Konferenzdatum
 
