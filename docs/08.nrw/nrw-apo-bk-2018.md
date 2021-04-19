@@ -6,7 +6,6 @@ Dieses Skript berücksichtigt abweichend vom Skript `NRW-APO-BK-2021` die unten 
 
 Auszug aus der APO-BK NRW:
 
-```
 ... § 15 (ab 01.08.2018) Zulassung zur Abiturprüfung
 
 (1) Über die Zulassung zur Abiturprüfung entscheidet der allgemeine Prüfungsausschuss in der ersten Konferenz.
@@ -19,7 +18,6 @@ Auszug aus der APO-BK NRW:
   * c) bei Einbringung von 38 bis 40 Kursen nicht mehr als acht Kurse mit weniger als fünf Punkten in einfacher Gewichtung bewertet worden sein.
 Darunter dürfen nicht mehr als drei Leistungskurse sein.
 Kurse, die mit null Punkten bewertet worden sind, können nicht eingebracht werden. ...
-```
 
 ## Verzeichnis Verordnung
 
