@@ -22,7 +22,7 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Weitere Fächer
 Religion | Weitere Fächer
 
-###Fremdsprache
+### Fremdsprache
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
