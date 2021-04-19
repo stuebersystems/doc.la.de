@@ -1,6 +1,6 @@
 # NRW-APO-BK-2018
 
-## Unterschied zum NRW-APO-BK-2012
+## Unterschied zum Skript NRW-APO-BK-2012
 
 Dieses Skript berücksichtigt abweichend vom Skript `NRW-APO-BK-2021` die unten fett markierten Passagen der Verordnung.
 

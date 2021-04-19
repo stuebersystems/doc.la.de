@@ -1446,7 +1446,7 @@ Platzhalter | Ausgabe im Bericht
 
 ## NRW-BK-ABI (Anlage D33b - 2018).rpt
 
-Dieser Bericht ist passend zum Verordnungsskript `NRW-APO-BK-2018`angepasst an die Änderungen der APO-BK NRW von 2018.
+Dieser Bericht ist passend zum Verordnungsskript [NRW-APO-BK-2018](https://doc.la.stueber.de/08.nrw/nrw-apo-bk-2018/) angepasst an die Änderungen der APO-BK NRW von 2018.
 
 **(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
 
