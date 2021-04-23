@@ -24,7 +24,7 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 | Gültig von | leer |
 | Gültig bis | leer |
 
-![Beispiele für die Fachwahlzeile für G8 oder G9: Tragen Sie im Feld `Typ `G8 ein oder lassen es frei](/images/ber-apo-fw-2017.0.png)
+![Beispiele für die Fachwahlzeile für G8 oder G9: Tragen Sie im Feld `Typ `G8 ein oder lassen es frei](/assets/images/ber-apo-fw-2017.0.png)
 
 ## Verordnung in DAVINCI hinterlegen
 
