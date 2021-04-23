@@ -1287,7 +1287,7 @@ Die Abschlussnoten der abgewählten bzw. abgeschlossenen Fächer (vor Beginn der
 
 ## DAS-HS-MSA-AS (Anlage 8 und 9)(§23).rpt
 
-Zeugnis-Hauptschulabschluss (Anlage 8)(§23)### und Zeugnis Realschule Mittlerer Schulabschluss (Anlage 9)(§23)
+Zeugnis-Hauptschulabschluss (Anlage 8)(§23) und Zeugnis Realschule Mittlerer Schulabschluss (Anlage 9)(§23)
 
 ### Schlüsselverzeichnis Zeiträume
 
