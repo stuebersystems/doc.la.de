@@ -1395,8 +1395,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 `Mandanten > Daten > Name 1`
 
-Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
-1" ein.
+Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name1" ein.
 
 `Mandanten > Daten > Name 2`
 
