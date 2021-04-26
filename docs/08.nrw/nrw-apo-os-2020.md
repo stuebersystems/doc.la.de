@@ -16,6 +16,8 @@ Abiturprüfungsordnung vom 20. Juni 2002 in der letzten Änderung vom 01. Mai 20
 
 Dieses Skript kann die Gesamtqualifikation und die Fachhochschulreife berechnen. Bitte verwenden Sie dabei beim Auslösen des Skriptes unter `Abitur > Qualifikation` im Feld `Status` die Unterpunkte `Gesamtqualifikation berechnen` oder `Fachhochschulreife berechnen`.
 
+Für den Status `Fachhochschulreife` wählen Sie im Feld `HJ eingebracht` bitte den Zeitraum `Q1-Q2` oder `Q3-Q4` aus.
+
 ## Verzeichnis Verordnungen
 
 Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
@@ -127,17 +129,15 @@ Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. 
 
 |Merkmal|Bedeutung|
 |--|--|
-|A| Fremdsprache Anfänger (2 Kurse müssen eingebracht werden)|
+|**A**| Fremdsprache Anfänger|
 
 ## Leistungsarten
 
 Für jedes Fach kann für jedes Kurshalbjahr eine Leistungsart zugewiesen werden. Die Leistungsart kann bereits unter `Schüler > Zeugnis > Leistungen` zugewiesen und auf die Karte `Abitur > Qualifikation` per Synchronisation übertragen werden. Alternativ können Sie die Angabe auch direkt auf der Karte `Abitur > Qualifikation` vornehmen.
 
-Legen Sie in dem Verzeichnis Ihre gewünschten Leistungsarten an, vergeben Sie für jeden Eintrag bitte eine Eingabe in der Spalte `Leistungsart-Art`. Zur Auswahl stehen `mündlich`, `schriftlich` oder `praktisch`. 
+Legen Sie in dem Verzeichnis Ihre gewünschten Leistungsarten an, vergeben Sie für jeden Eintrag bitte eine Eingabe in der Spalte `Leistungsart-Art`. Zur Auswahl stehen `mündlich`, `schriftlich` oder `praktisch`.
 
-!!! danger "Achtung"
-
-    Das Skript erkennt Klausuren am vergebenen Kürzel und der Art.
+Zur Prüfung der Leistungsart "Klausur" wird das Kürzel `Klausur` und die Leistungsart-Art `schriftlich` vorausgesetzt.
 
 Kürzel|Bezeichnung|Leistungsart
 --|--|--
@@ -145,3 +145,11 @@ Kürzel|Bezeichnung|Leistungsart
 
 ![Beispiel für angelegte Leistungsarten](\assets\images\nrw\01.png)
 
+## Besondere Lernleistung und Facharbeit
+
+Im Menü `Abitur > Prüfung` tragen Sie unter „Lernleistung“ das Fach und Thema der Besonderen Lernleistung ein.
+Die Endnote der besonderen Lernleistung weisen Sie im Menü `Abitur > Prüfung` unter „Lernleistung“ im ersten "Punkte" Feld (links) zu.
+
+Soll die Lernleistung vom Skript berücksichtigt werden, setzen Sie bitte das Häkchen vor `Lernleistung einbringen`.
+
+![Beispiel für den Eintrag der besonderen Lernleistung](\assets\images\nrw\03.png)
