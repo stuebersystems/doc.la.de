@@ -7,7 +7,7 @@ Diese Anleitung wird aktuell noch überarbeitet!!!
 Quelle:
 
 ```
-Abiturqualifikationsberechnung Nordrhein-Westfalen                        }
+Abiturqualifikationsberechnung Nordrhein-Westfalen
 Oberstufen-Kolleg an der Universität Bielefeld 
 Abiturprüfungsordnung vom 20. Juni 2002 in der letzten Änderung vom 01. Mai 2020 
 ```
