@@ -12,11 +12,22 @@ Oberstufen-Kolleg an der Universität Bielefeld
 Abiturprüfungsordnung vom 20. Juni 2002 in der letzten Änderung vom 01. Mai 2020 
 ```
 
-## Feld Status
+## Skriptfunktionalität
 
 Dieses Skript kann die Gesamtqualifikation und die Fachhochschulreife berechnen. Bitte verwenden Sie dabei beim Auslösen des Skriptes unter `Abitur > Qualifikation` im Feld `Status` die Unterpunkte `Gesamtqualifikation berechnen` oder `Fachhochschulreife berechnen`.
 
-Für den Status `Fachhochschulreife` wählen Sie im Feld `HJ eingebracht` bitte den Zeitraum `Q1-Q2` oder `Q3-Q4` aus.
+Für den Status `Fachhochschulreife` wählen Sie im Feld `HJ eingebracht` bitte den Zeitraum `Q1-Q2`, `Q2-Q3` oder `Q3-Q4` aus und markieren die gewünschten Kurse.
+
+### Markieren und Berechnen
+
+Um die Gesamtqualifikation und Fachhochschulreife zu berechnen, markieren Sie die gewünschten Kurse. Dafür aktivieren Sie bitte das Häkchen vor `Manuell Markieren` und klicken die gewünschten Kurse an. Die markierten Kurse werden gelb hinterlegt dargestellt.
+
+![Markieren](\assets\images\nrw\04.png)
+
+Klicken Sie auf die Schaltfläche `Berechnen` um Meldung zu erzeugen. Das Meldungsfenster zeigt die Ergebnisse der Prüfungen des Skriptes an, beispielsweise ob die ausreichend Sf-Kurse markiert wurden, ob die Aufgabenbereiche abgedeckt sind, ob genug weitere Kurse markiert wurden, ob mindestens die Hälfte der Leistungen schriftlich erbracht wurden uws.
+Wenn Sie andere Kurse markieren möchten, müssten Sie bitte im Anschluss erneut auf die Schaltfläche `Berechnen` klicken, um eine erneute Prüfung auszulösen.
+
+![Berechnen](\assets\images\nrw\05.png)
 
 ## Verzeichnis Verordnungen
 
