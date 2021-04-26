@@ -156,7 +156,7 @@ Kürzel|Bezeichnung|Leistungsart
 
 ![Beispiel für angelegte Leistungsarten](\assets\images\nrw\01.png)
 
-## Besondere Lernleistung und Facharbeit
+## Besondere Lernleistung
 
 Im Menü `Abitur > Prüfung` tragen Sie unter „Lernleistung“ das Fach und Thema der Besonderen Lernleistung ein.
 Die Endnote der besonderen Lernleistung weisen Sie im Menü `Abitur > Prüfung` unter „Lernleistung“ im ersten "Punkte" Feld (links) zu.
