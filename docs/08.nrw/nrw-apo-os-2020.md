@@ -1,6 +1,6 @@
 # NRW-APO-OS-2020
 
-Diese Anleitung wird aktuell noch überarbeitet!!!
+Nachstehend beschreiben wir die vorausgesetzten Eintragungen in MAGELLAN.
 
 ## Verordnung und Gültigkeit
 
