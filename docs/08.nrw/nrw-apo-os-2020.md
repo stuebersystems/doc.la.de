@@ -12,6 +12,10 @@ Oberstufen-Kolleg an der Universität Bielefeld
 Abiturprüfungsordnung vom 20. Juni 2002 in der letzten Änderung vom 01. Mai 2020 
 ```
 
+## Feld Status
+
+Dieses Skript kann die Gesamtqualifikation und die Fachhochschulreife berechnen. Bitte verwenden Sie dabei beim Auslösen des Skriptes unter `Abitur > Qualifikation` im Feld `Status` die Unterpunkte `Gesamtqualifikation berechnen` oder `Fachhochschulreife berechnen`.
+
 ## Verzeichnis Verordnungen
 
 Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
@@ -32,12 +36,12 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 |Gültig von |leer|
 |Gültig bis|leer|
 
+![Beispiel für Eintrag im Verzeichnis Verordnungen](\assets\images\nrw\02.png)
+
 ## Fachkategorien
 
 Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`. 
 Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werden. Für diese Fächer sind die zu verwendenden Fachkategorien fest vorgeschrieben. Alle anderen Fächer können mit einer der übrigen Fachkategorie gekennzeichnet werden oder ohne Fachkategorie geführt werden.
-
-Noch nicht angepasst!!!
 
 |Fachkategorien|Muss genutzt werden|
 |--|--|
@@ -55,23 +59,23 @@ Noch nicht angepasst!!!
 |Chemie|**Ja**|
 |Biologie|**Ja**|
 |Erdkunde|**Ja**|
-|Sozialkunde|**Ja**|
+|Sozialkunde|Nein|
 |Wirtschaft|**Ja**|
-|Politik|Nein|
+|Politik|**Ja**|
 |Darstellendes Spiel|Nein|
 |Evangelische Religion|Nein|
 |Katholische Religion|Nein|
 |Technik|Nein|
-|Pädagogik|Nein|
+|Pädagogik|**Ja**|
 |Sporttheorie|Nein|
 |BWL/RW|Nein|
 |BWL/VWL|Nein|
 |VWL|Nein|
-|Seminar|Nein|
+|Seminar|**Ja**|
 |Gesundheit|Nein|
-|Psychologie|Nein|
-|Recht|Nein|
-|Literatur|Nein|
+|Psychologie|**Ja**|
+|Recht|**Ja**|
+|Literatur|**Ja**|
 
 ## Aufgabenbereiche
 
@@ -104,26 +108,40 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden.
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
-Die Kürzel und Bezeichnungen sind frei wählbar, das Skript prüft die in der Spalte Schlüssel hierntelegen Werte, hier sollen nur die nachstehenden WErte genutzt werden.
+Die Kürzel und Bezeichnungen sind frei wählbar, das Skript prüft die in der Spalte `Schlüssel` hinterlegten Werte, hier dürfen nur die nachstehenden Werte genutzt werden.
 
 Kürzel|Schlüssel|Bezeichnung
 --|--|--
-Ba|GK|Basiskurs
-Bü|GK|Bü
-Ge|GK|Ge
-Gh|GK|Gh
-GK|GK|GK
-Ges|LK|Ges
-Sf|LK|Sf
-Pr|PR|Pr
+Ba|**GK**|Basiskurs
+Bü|**GK**|Brückenkurs
+Ge|**GK**|Grundkurs der Eingangsphase
+Gh|**GK**|Grundkurs der Hauptphase
+GK|**GK**|Grundkus
+Ges|**LK**|Studienfachbezogneer Grundkurs der Eingangsphase
+Sf|**LK**|Studienfachkurs
+Pr|**PR**|Projekt
 
 ## Merkmal
 
-Noch nicht angepasst!!!
-
 Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
 
-|Merkmal |Bedeutung|
+|Merkmal|Bedeutung|
 |--|--|
 |A| Fremdsprache Anfänger (2 Kurse müssen eingebracht werden)|
-|A12| Fremdsprache, welche erst ab der 12 belegt wird|
+
+## Leistungsarten
+
+Für jedes Fach kann für jedes Kurshalbjahr eine Leistungsart zugewiesen werden. Die Leistungsart kann bereits unter `Schüler > Zeugnis > Leistungen` zugewiesen und auf die Karte `Abitur > Qualifikation` per Synchronisation übertragen werden. Alternativ können Sie die Angabe auch direkt auf der Karte `Abitur > Qualifikation` vornehmen.
+
+Legen Sie in dem Verzeichnis Ihre gewünschten Leistungsarten an, vergeben Sie für jeden Eintrag bitte eine Eingabe in der Spalte `Leistungsart-Art`. Zur Auswahl stehen `mündlich`, `schriftlich` oder `praktisch`. 
+
+!!! danger "Achtung"
+
+    Das Skript erkennt Klausuren am vergebenen Kürzel und der Art.
+
+Kürzel|Bezeichnung|Leistungsart
+--|--|--
+**Klausur**|Klausur|**schriftlich**
+
+![Beispiel für angelegte Leistungsarten](\assets\images\nrw\01.png)
+
