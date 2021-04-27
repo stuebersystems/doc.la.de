@@ -117,8 +117,8 @@ AS APO BK 1999|-|-|-|[NRW-AS-APO-BK-1999](https://doc.la.stueber.de/08.nrw/nrw-a
 
 ## Rheinland-Pfalz
 
-| Verordnung | Abitur | Fachwahl <br/> MAGELLAN | Fachwahl <br/> DAVINCI | Schüler <br/> Leistungskarte | BBS |
-|-----------------------------|------------------------------------------|------------------------------------------|------------------------------------------|-------------------------------|------------------------------------------|
+|Verordnung | Abitur | Fachwahl <br/> MAGELLAN | Fachwahl <br/> DAVINCI | Schüler <br/> Leistungskarte | BBS |
+|--|--|--|--|--|--|
 | APO 1999 | [RLP-APO-1999.dws](https://doc.la.stueber.de/09.rlp/rlp-apo-1999) | - | RLP-FW-APO-1999.dws | - | - |
 | RLP 2006 | [RLP-APO-2006.dws](https://doc.la.stueber.de/09.rlp/rlp-apo-2006) | - | RLP-FW-APO-2006.dws | - | - |
 | APO 2010 | [RLP-APO-2010.dws](https://doc.la.stueber.de/09.rlp/rlp-apo-2010) | [RLP-FW-APO-2010.js](https://doc.la.stueber.de/09.rlp/rlp-fw-apo-2010js) | [RLP-FW-APO-2010.js](https://doc.la.stueber.de/09.rlp/rlp-fw-apo-2010js) | - | - |
