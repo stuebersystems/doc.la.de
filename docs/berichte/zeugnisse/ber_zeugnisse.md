@@ -2525,9 +2525,9 @@ GK | GK | Grundkurse
 Z | Z | Zusatz-/Ergänzungskurs
 ME | ME | Musik Ensemble
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -2642,9 +2642,9 @@ GK | GK | Grundkurse
 Z | Z | Zusatz-/Ergänzungskurs
 ME | ME | Musik Ensemble
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -2729,9 +2729,9 @@ SK | SK | Seminarfach, Seminarkurs
 Z | Z | Zusatz-/Ergänzungskurs
 ME | ME | Musik Ensemble
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -4212,9 +4212,9 @@ GK | GK | Grundkurse
 Z | Z | Zusatz-/Ergänzungskurs
 ME | ME | Musik Ensemble
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -4354,9 +4354,9 @@ GK | GK | Grundkurse
 Z | Z | Zusatz-/Ergänzungskurs
 ME | ME | Musik Ensemble
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -5049,9 +5049,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflicht
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -5136,9 +5136,9 @@ GK | GK | Grundkurse
 Z | Z | Zusatz-/Ergänzungskurs
 ME | ME | Musik Ensemble
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -5775,9 +5775,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflicht
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -5860,9 +5860,9 @@ PK | PK | Profilkurs
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -6742,9 +6742,9 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -6803,9 +6803,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –unterricht
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -7968,9 +7968,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –unterricht
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -8537,9 +8537,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflicht
 Wahl | Wahl | Wahlunterricht
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -8660,9 +8660,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflicht
 Wahl | Wahl | Wahlunterricht
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -8797,9 +8797,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflicht
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -8892,9 +8892,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflicht
 Wahl | Wahl | Wahlunterricht
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -9023,9 +9023,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflicht
 Wahl | Wahl | Wahlunterricht
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -9619,9 +9619,9 @@ GK | GK | Grundkurse
 Z | Z | Zusatz-/Ergänzungskurs
 ME | ME | Musik Ensemble
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -9780,9 +9780,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -9927,9 +9927,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -11344,9 +11344,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurs
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0021)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -11508,9 +11508,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurs
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 

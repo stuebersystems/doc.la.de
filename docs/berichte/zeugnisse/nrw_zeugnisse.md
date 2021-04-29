@@ -1488,9 +1488,9 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesamtpunktzahl des schulischen Teils der Fachhochschulreife. D.h. markieren Sie im Menü `Abitur > Qualifikation` die Option
 "Manuelles Markieren", wählen Sie die Option "Kurse einbringen" und klicken Sie die entsprechenden Kurse an. Die eingebrachten Kurse werden gelb markiert.
 
-**(A0388)** Abitur > Prüfung > Konferenzdatum
+**(A0388)** `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Datum der Zeugniskonferenz im Menü `Abitur > Prüfung` im Feld "Konferenzdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld `Zeugnisdatum` ein.
 
 **(A0555)** `Abitur > Qualifikation > Manuelles Markieren`
 
@@ -1718,9 +1718,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -1817,9 +1817,9 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Weitere Fächer
 Religion | Weitere Fächer
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -2006,9 +2006,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -3183,9 +3183,9 @@ beliebig | Koo | Kooperationsfähigkeit
 3) Zusätzlich erhalten diese Fächer im Menü `Abitur > Qualifikation` im Feld "Fachstatus" den Wert "Kopf" zu (siehe A15.50).
 4) Im Menü `Abitur > Qualifikation` tragen Sie in Spalte "Q4" dem jeweiligen Fach eine Note zwischen 1-4 zu.
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -4162,9 +4162,9 @@ LK | LK | Leistungskurse
 GK | GK | Grundkurse
 Z | Z | Zusatz-/Ergänzungskurs
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 

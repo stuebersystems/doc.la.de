@@ -1560,9 +1560,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 HF | HF | Hauptfach
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -1726,9 +1726,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 GF | GF | Grundfach
 HF | HF | Hauptfach
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0205)** Anstelle der 4. schriftlichen Prüfung ist auch eine "Besondere Lernleistung" möglich.
 Gehen Sie in Magellan wie folgt vor:
@@ -1797,9 +1797,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 GF | GF | Grundfach
 HF | HF | Hauptfach
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0205)** Anstelle der 4. schriftlichen Prüfung ist auch eine "Besondere Lernleistung" möglich.
 Gehen Sie in Magellan wie folgt vor:
@@ -1878,9 +1878,9 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -3595,9 +3595,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 GF | GF | Grundfach
 HF | HF | Hauptfach
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0205)** Anstelle der 4. schriftlichen Prüfung ist auch eine "Besondere Lernleistung" möglich.
 Gehen Sie in Magellan wie folgt vor:
@@ -3666,9 +3666,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 GF | GF | Grundfach
 HF | HF | Hauptfach
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0205)** Anstelle der 4. schriftlichen Prüfung ist auch eine "Besondere Lernleistung" möglich.
 Gehen Sie in Magellan wie folgt vor:

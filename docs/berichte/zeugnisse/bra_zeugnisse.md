@@ -1128,9 +1128,9 @@ Kürzel |  Schlüssel | Bezeichnung
 3 PF  | 3 PF  | 3. Prüfungsfach
 4 PF  | 4 PF  | 4. Prüfungsfach
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0205)** Anstelle der 4. schriftlichen Prüfung ist auch eine "Besondere Lernleistung" möglich.
 Gehen Sie in Magellan wie folgt vor:
@@ -1398,9 +1398,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurs
 
-**(A0020)** `Schüler > Daten 3 > Von/Bis-Datum`
-
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+**(A0020)** `Schüler > Daten 3 > Von/Bis`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
 **(A0217)** Abitur > Qualifikation
 
