@@ -62,6 +62,7 @@ nav:
     - Berechnungsskripte: 
         - Allgemeines: berechnungsskripte.md
         - Auslandsschulen:
+          - DE-DIAP-2018: 01.de/de-diap-2018.md 
           - DE-DIAP-2015: 01.de/de-diap-2015.md
           - DE-DIAP-2005: 01.de/de-diap-2005.md
           - DE-DRP-2005: 01.de/de-drp-2005.md
