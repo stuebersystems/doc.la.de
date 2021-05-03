@@ -186,6 +186,7 @@ APO 1999|[THÜ-APO-1999.dws](https://doc.la.stueber.de/14.thu/thu-apo-1999)|-|TH
 Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
 2017|-|-|-|[DE-MSA-2019.dws](https://doc.la.stueber.de/01.de/de-msa-2019dws)|-
+APO 2018|[DE-DIAP-2018.dws](https://doc.la.stueber.de/01.de/de-diap-2018) |-|-|-|-
 APO 2015|[DE-DIAP-2015.dws](https://doc.la.stueber.de/01.de/de-diap-2015) |-|-|-|-
 APO 2005|[DE-DIAP-2005.dws](https://doc.la.stueber.de/01.de/de-diap-2005) |-|-|-|-
 APO 2004|[DE-DRP-2005.dws](https://doc.la.stueber.de/01.de/de-drp-2005) |-|-|-|-
