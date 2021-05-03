@@ -24,7 +24,7 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 
 Nachfolgend Beispiele für Verordnungszeilen für G8 der G9:
 
-![Anlegen der Verordnung für G8 und G9](/assets/images/DAS/Verordnung.dia.2015.png)
+![Anlegen der Verordnung für G8 und G9](/assets/images/DAS/Verordnung.dia.2018.png)
 
 ## Fachkategorien
 
@@ -109,7 +109,7 @@ Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü „Abitur“ unter 
 
 Ergebnisse tragen Sie bitte im darüberliegenden Bereich `Prüfungen` für das 5.PF ein.
 
-![`Abitur > Prüfung > Lernleistung`](/assets/images/DAS/das.bll01.png)
+![`Abitur > Prüfung > Lernleistung`](/assets/images/DAS/das.bll2018.png)
 
 ## Präsentation oder Streitgespräch
 
@@ -137,5 +137,5 @@ Das Berechnungsskript **DE-DIAP-2015** berücksichtigt auch folgendes:
 
 * Ermittlung einer Schnittverbesserung durch mögliche Einbringung einer mdl. Note in einem Prüfungsfach unter dem Menü ``Abitur > Prüfung`` im Feld "mdl. Note"
   
-![`Abitur > Prüfung > "Neu berechnen`](/assets/images/DAS/ds.schnittverbessernd01.png)
+![`Abitur > Prüfung > "Neu berechnen`](/assets/images/DAS/ds.schnittverbessernd2018.png)
 * Ermittlung der Abiturzulassung am Ende der Q3, wenn unter dem Menü ``Abitur > Qualifikation`` in den Feldern ``Q4`` keine Punktwerte eingetragen sind
