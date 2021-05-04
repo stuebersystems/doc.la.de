@@ -106,7 +106,6 @@ APO FG 2007|[NIE-APO-FG-2007.dws](https://doc.la.stueber.de/07.nie/nie-apo-fg-20
 Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
 APO OS 2020|[NRW-APO-OS-2020](https://doc.la.stueber.de/08.nrw/nrw-apo-os-2020/)|-|-|-|-
-APO OS 2011|[NRW-APO-OS-2011](https://doc.la.stueber.de/08.nrw/nrw-apo-os-2011/)|-|-|-|-
 APO 1998|[NRW-APO-1998.dws](https://doc.la.stueber.de/08.nrw/nrw-apo-1998)|-|NRW-FW-APO-1998.dws|-|-
 APO 2012|[NRW-APO-2012.dws](https://doc.la.stueber.de/08.nrw/nrw-apo-2012)|[NRW-FW-APO-2012.js](https://doc.la.stueber.de/08.nrw/nrw-fw-apo-2012js)|[NRW-FW-APO-2012.js](https://doc.la.stueber.de/08.nrw/nrw-fw-apo-2012js)|-|-
 APO BK 1999|[NRW-APO-BK-1999.dws](https://doc.la.stueber.de/08.nrw/nrw-apo-bk-1999)|-|-|-|-
