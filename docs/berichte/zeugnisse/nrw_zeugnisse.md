@@ -4240,7 +4240,7 @@ B2 | B2 | Selbständige Sprachverwendung
 C1 | C1 | Fachkundige Sprachkenntnisse
 C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
-Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
+Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
 **(A0740)** `Mandanten > Daten > Name 2`
 

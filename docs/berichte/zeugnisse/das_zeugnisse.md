@@ -143,11 +143,22 @@ Beispiel:
 
 `Biologie/Englisch`
 
-### Sprachreferenzen
+`Schlüsselverzeichnisse > Sprachreferenzen`
 
-`Schüler > Daten 3 > Fremdsprachefolge > Sprachreferenzen`
+Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
-Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`. Vom Bericht wird das Kürzel abgefragt. Für das Zuweisen der Referenzen können Sie auch die Sammelzuweisung verwenden.
+Mögliche Werte sind aktuell:
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+A1 | A1 | Anfänger
+A2 | A2 | Grundlegende Kenntnisse
+B1 | B1 | Fortgeschrittene Sprachverwendung
+B2 | B2 | Selbständige Sprachverwendung
+C1 | C1 | Fachkundige Sprachkenntnisse
+C2 | C2 | Annähernd muttersprachliche Kenntnisse
+
+Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
 ### Zeugnisbemerkungen
 
@@ -888,11 +899,22 @@ Spanisch | leer | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
-### Sprachreferenzen
+`Schlüsselverzeichnisse > Sprachreferenzen`
 
-`Schüler > Daten 3 > Fremdsprachefolge > Sprachreferenzen`
+Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
-Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`. Vom Bericht wird das Kürzel abgefragt.
+Mögliche Werte sind aktuell:
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+A1 | A1 | Anfänger
+A2 | A2 | Grundlegende Kenntnisse
+B1 | B1 | Fortgeschrittene Sprachverwendung
+B2 | B2 | Selbständige Sprachverwendung
+C1 | C1 | Fachkundige Sprachkenntnisse
+C2 | C2 | Annähernd muttersprachliche Kenntnisse
+
+Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
 ### Zeugnisbemerkungen
 
@@ -1018,11 +1040,22 @@ Platzhalter | Ausgabe im Bericht
 `<<Anrede4>>` |  ihm/ihr (je nach Geschlecht des Schülers)
 `<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
 
-### Sprachreferenzen
+`Schlüsselverzeichnisse > Sprachreferenzen`
 
-`Schüler > Daten 3 > Fremdsprachefolge > Sprachreferenzen`
+Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
-Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`. Vom Bericht wird das Kürzel abgefragt.
+Mögliche Werte sind aktuell:
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+A1 | A1 | Anfänger
+A2 | A2 | Grundlegende Kenntnisse
+B1 | B1 | Fortgeschrittene Sprachverwendung
+B2 | B2 | Selbständige Sprachverwendung
+C1 | C1 | Fachkundige Sprachkenntnisse
+C2 | C2 | Annähernd muttersprachliche Kenntnisse
+
+Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
 ## DAS-GY-AZ mit FHR (Anlage 9b).rpt
 
@@ -1337,9 +1370,22 @@ Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis"
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-`Schüler > Daten 3 > Fremdsprachefolge > Sprachreferenzen`
+`Schlüsselverzeichnisse > Sprachreferenzen`
 
-Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`. Vom Bericht wird das Kürzel abgefragt.
+Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
+
+Mögliche Werte sind aktuell:
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+A1 | A1 | Anfänger
+A2 | A2 | Grundlegende Kenntnisse
+B1 | B1 | Fortgeschrittene Sprachverwendung
+B2 | B2 | Selbständige Sprachverwendung
+C1 | C1 | Fachkundige Sprachkenntnisse
+C2 | C2 | Annähernd muttersprachliche Kenntnisse
+
+Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
 ### Zeugnisbemerkungen
 
@@ -1606,9 +1652,23 @@ Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis"
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
-`Schüler > Daten 3 > Fremdsprachefolge > Sprachreferenzen`
 
-Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`. Vom Bericht wird das Kürzel abgefragt.
+`Schlüsselverzeichnisse > Sprachreferenzen`
+
+Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
+
+Mögliche Werte sind aktuell:
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+A1 | A1 | Anfänger
+A2 | A2 | Grundlegende Kenntnisse
+B1 | B1 | Fortgeschrittene Sprachverwendung
+B2 | B2 | Selbständige Sprachverwendung
+C1 | C1 | Fachkundige Sprachkenntnisse
+C2 | C2 | Annähernd muttersprachliche Kenntnisse
+
+Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
 ### Fachpositionen
 
@@ -1750,9 +1810,22 @@ Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis"
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-`Schüler > Daten 3 > Fremdsprachefolge > Sprachreferenzen`
+`Schlüsselverzeichnisse > Sprachreferenzen`
 
-Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`. Vom Bericht wird das Kürzel abgefragt.
+Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
+
+Mögliche Werte sind aktuell:
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+A1 | A1 | Anfänger
+A2 | A2 | Grundlegende Kenntnisse
+B1 | B1 | Fortgeschrittene Sprachverwendung
+B2 | B2 | Selbständige Sprachverwendung
+C1 | C1 | Fachkundige Sprachkenntnisse
+C2 | C2 | Annähernd muttersprachliche Kenntnisse
+
+Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
 ### Zeugnisbemerkungen
 
@@ -3148,19 +3221,33 @@ Spanisch | leer | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
-###(A0633)### `Schlüsselverzeichnisse > Fächer > Bezeichnung2`
+`Schlüsselverzeichnisse > Fächer > Bezeichnung2`
 
 Die englische Übersetzung des Faches tragen Sie im `Schlüsselverzeichnis > Fächer` im Feld „Bezeichnung2“ ein.
 
-###(A0759)### `Schüler > Daten 3 > Fremdsprachefolge > Sprachreferenzen`
-       
-Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`. Vom Bericht wird das Kürzel abgefragt.
+`Schlüsselverzeichnisse > Sprachreferenzen`
 
-###(A0776)### `Schlüsselverzeichnisse > Zeugnisbemerkungen`
+Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
+
+Mögliche Werte sind aktuell:
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+A1 | A1 | Anfänger
+A2 | A2 | Grundlegende Kenntnisse
+B1 | B1 | Fortgeschrittene Sprachverwendung
+B2 | B2 | Selbständige Sprachverwendung
+C1 | C1 | Fachkundige Sprachkenntnisse
+C2 | C2 | Annähernd muttersprachliche Kenntnisse
+
+Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
+
+
+`Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
-###(A0777)### 
+
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
