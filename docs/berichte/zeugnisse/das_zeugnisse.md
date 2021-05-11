@@ -31,7 +31,7 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintrages in MAGELLAN unter `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "von" und aus dem Menü `Klassen > Zeiträume` Feld „Jahrgang“.
 
-!!!warning Wichtig
+!!!info Hinweis
 
     Unter `V. Sprachen / Languages` wird nun im Zeugnis textlich unterschieden, ob die Landessprache (z.B. Spanisch) als Erst- oder als Fremdsprache des Schülers unterrichtet wurde. Letzteres ist bei Quereinsteigern z.B. der Fall. *„Deutsch wird als Erstsprache unterrichtet. Die im Unterricht erworbenen und in Prüfungen nachgewiesenen Kompetenzen schließen solche auf dem Niveau C2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER) ein.“* ODER *„Deutsch und Spanisch werden als Erstsprachen unterrichtet. Die im Unterricht erworbenen und in Prüfungen nachgewiesenen Kompetenzen schließen solche auf dem Niveau C2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER) ein.“*
 
