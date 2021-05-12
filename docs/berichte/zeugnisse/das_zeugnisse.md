@@ -96,7 +96,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 `Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
 
-`Schlüsselverzeichnisse > Kurssprachen`
+`Extras > Schlüsselverzeichnisse > Kurssprachen`
 
 !!! info "Hinweis"
 
@@ -125,7 +125,7 @@ Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Men�
 
 **Schlüsselverzeichnis > Fächer**
 
-`Schlüsselverzeichnisse > Fächer > Bezeichnung2`
+`Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung2`
 
 Die Übersetzung des Faches tragen Sie im `Schlüsselverzeichnis > Fächer` im Feld „Bezeichnung2“ ein.
 
@@ -140,7 +140,7 @@ Mathematik | M
 Englisch | 	E
 Landessprache | LS
 
-`Schlüsselverzeichnisse > Fächer > Bezeichnung`
+`Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung`
 
 Um die Unterrichtssprache zum Fach auszugeben, geben Sie die gewünschte Bezeichnung im Feld `Bezeichnung` ein. 
 
@@ -148,7 +148,7 @@ Beispiel:
 
 `Biologie/Englisch`
 
-`Schlüsselverzeichnisse > Sprachreferenzen`
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -171,7 +171,7 @@ Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
@@ -295,7 +295,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 `Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
 
-`Schlüsselverzeichnisse > Kurssprachen`
+`Extras > Schlüsselverzeichnisse > Kurssprachen`
 
 !!! info "Hinweis"
 
@@ -324,7 +324,7 @@ Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Men�
 
 **Schlüsselverzeichnis Fächer**
 
-`Schlüsselverzeichnisse > Fächer > Bezeichnung2`
+`Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung2`
 
 Die Übersetzung des Faches tragen Sie im `Schlüsselverzeichnis > Fächer` im Feld „Bezeichnung2“ ein.
 
@@ -339,7 +339,7 @@ Mathematik | M
 Englisch | 	E
 Landessprache | LS
 
-`Schlüsselverzeichnisse > Fächer > Bezeichnung`
+`Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung`
 
 Um die Unterrichtssprache zum Fach auszugeben, geben Sie die gewünschte Bezeichnung im Feld `Bezeichnung` ein. 
 
@@ -347,7 +347,7 @@ Beispiel:
 
 `Biologie/Englisch`
 
-`Schlüsselverzeichnisse > Sprachreferenzen`
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -370,7 +370,7 @@ Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
@@ -566,7 +566,7 @@ Zeugnis mit Beurteilungstexten
 
 Im Menü `Klassen` muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein, hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
 
-**Extras > Schlüsselverzeichnisse > Zeiträume**
+**Zeiträume**
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
@@ -627,11 +627,11 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**Extras > Schlüsselverzeichnisse > Noten**
+**Noten**
 
-`Schlüsselverzeichnisse > Noten > Füllwerte`
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
-Arbeitsgemeinschaften (AGs) an denen der Schüler teilgenommen hat, müssen mit der Note "teilgenommen" gekennzeichnet werden. Legen Sie dazu unter `Schlüsselverzeichnisse > Noten` eine Note "teilgenommen" an.
+Arbeitsgemeinschaften (AGs) an denen der Schüler teilgenommen hat, müssen mit der Note "teilgenommen" gekennzeichnet werden. Legen Sie dazu unter `Extras > Schlüsselverzeichnisse > Noten` eine Note "teilgenommen" an.
 
 Kürzel | Schlüssel | Bezeichnung | Notenart
 --|--|--|--
@@ -639,19 +639,20 @@ n.b. | n.b. | teilgenommen | Füllwerte
 
 **Zeugnisbeurteilungen**
 
-`Schlüsselverzeichnisse > Zeugnisbeurteilungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbeurteilungen`
 
-Bei der Eingabe des Beurteilungstextes können Sie auf bereits definierte Textbausteine zurückgreifen. Diese müssen Sie zuvor unter `Schlüsselverzeichnisse > Zeugnisbeurteilungen` definiert haben.
+Bei der Eingabe des Beurteilungstextes können Sie auf bereits definierte Textbausteine zurückgreifen. Diese müssen Sie zuvor unter `Extras > Schlüsselverzeichnisse > Zeugnisbeurteilungen` definiert haben.
 
 **Arbeits- und Sozialverhalten**
 
-`Schlüsselverzeichnisse > Fächer > Arbeits- und Sozialverhalten`
+`Extras > Schlüsselverzeichnisse > Fächer > Arbeits- und Sozialverhalten`
 
-Legen Sie Ihre Fächer unter `Schlüsselverzeichnisse > Fächer` an. Bitte definieren Sie auch die Fächer "Arbeits- und Sozialverhalten".
+Legen Sie Ihre Fächer unter `Extras > Schlüsselverzeichnisse > Fächer` an. Bitte definieren Sie auch die Fächer "Arbeits- und Sozialverhalten".
 
 ## DAS-GS-GY (Klasse 3-10).rpt
 
 Jahres/Halbjahreszeugnis der Klassenstufe 3-10, Schulformen: 
+
 * Grundschule
 * Hauptschule
 * Realschule
@@ -665,7 +666,7 @@ Jahres/Halbjahreszeugnis der Klassenstufe 3-10, Schulformen:
 Im Menü `Klassen` muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein,
 hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
 
-**Extras > Schlüsselverzeichnisse > Zeiträume**
+**Zeiträume**
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
@@ -675,7 +676,7 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-`Schlüsselverzeichnisse > Zeiträume > Art`
+`Extras > Schlüsselverzeichnisse > Zeiträume > Art`
 
 Der Versetzungsvermerk wird nur im 2. Halbjahr auf dem Zeugnis ausgegeben. 
 
@@ -705,7 +706,7 @@ beliebig (RS) | leer | Realschule
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Unterrichtsarten**n
+**Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -775,11 +776,11 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**Extras > Schlüsselverzeichnisse > Noten**
+**Noten**
 
-`Schlüsselverzeichnisse > Noten > Füllwerte`
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
-Arbeitsgemeinschaften (AGs) an denen der Schüler teilgenommen hat, müssen mit der Note "teilgenommen" gekennzeichnet werden. Legen Sie dazu unter `Schlüsselverzeichnisse > Noten` eine Note "teilgenommen" an.
+Arbeitsgemeinschaften (AGs) an denen der Schüler teilgenommen hat, müssen mit der Note "teilgenommen" gekennzeichnet werden. Legen Sie dazu unter `Extras > Schlüsselverzeichnisse > Noten` eine Note "teilgenommen" an.
 
 Kürzel | Schlüssel | Bezeichnung | Notenart
 --|--|--|--
@@ -800,7 +801,7 @@ Machen Sie dabei zwischen Unter-  und Hauptfächern keine Unterschiede und posit
 
 **Zeugnisbemerkungen**
 
-`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
@@ -837,7 +838,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 ## DAS-GY (Klasse 11-12).rpt
 
-**Extras > Schlüsselverzeichnisse > Zeiträume**
+**Zeiträume**
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
@@ -859,7 +860,7 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Unterrichtsarten**n
+**Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -930,19 +931,19 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**Extras > Schlüsselverzeichnisse > Noten**
+**Noten**
 
-`Schlüsselverzeichnisse > Noten > Füllwerte`
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
-Arbeitsgemeinschaften (AGs) an denen der Schüler teilgenommen hat, müssen mit der Note "teilgenommen" gekennzeichnet werden. Legen Sie dazu unter `Schlüsselverzeichnisse > Noten` eine Note "teilgenommen" an.
+Arbeitsgemeinschaften (AGs) an denen der Schüler teilgenommen hat, müssen mit der Note "teilgenommen" gekennzeichnet werden. Legen Sie dazu unter `Extras > Schlüsselverzeichnisse > Noten` eine Note "teilgenommen" an.
 
 Kürzel | Schlüssel | Bezeichnung | Notenart
 --|--|--|--
 n.b. | n.b. | teilgenommen | Füllwerte
 
-`Schlüsselverzeichnisse > Noten > Füllwerte`
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
-Arbeitsgemeinschaften (AGs) an denen der Schüler teilgenommen hat, müssen mit der Note "teilgenommen" gekennzeichnet werden. Legen Sie dazu unter `Schlüsselverzeichnisse > Noten` eine Note "teilgenommen" an.
+Arbeitsgemeinschaften (AGs) an denen der Schüler teilgenommen hat, müssen mit der Note "teilgenommen" gekennzeichnet werden. Legen Sie dazu unter `Extras > Schlüsselverzeichnisse > Noten` eine Note "teilgenommen" an.
 
 Kürzel | Schlüssel | Bezeichnung | Notenart
 --|--|--|--
@@ -950,7 +951,7 @@ n.b. | n.b. | teilgenommen | Füllwerte
 
 **Zeugnisbemerkungen**
 
-`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
@@ -1002,7 +1003,7 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Weitere Fächer
 Religion | Weitere Fächer
 
-**Fremdsprache**n
+**Fremdsprachen**
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -1012,7 +1013,7 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintrages in MAGELLAN unter `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "von" und aus dem Menü `Klassen > Zeiträume` Feld „Jahrgang“.
 
-**Verzeichnisse Fächer**
+**Fächer**
 
 `Extras > Schlüsselverzeichnis > Fächer > Merkmale`
 
@@ -1025,7 +1026,7 @@ Mathematik | M
 Englisch | 	E
 Landessprache | LS
 
-`Schlüsselverzeichnisse > Fächer > Bezeichnung2`
+`Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung2`
 
 Die englische Übersetzung des Faches tragen Sie im `Schlüsselverzeichnis > Fächer` im Feld „Bezeichnung2“ ein.
 
@@ -1086,7 +1087,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 `Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
 
-`Schlüsselverzeichnisse > Kurssprachen`
+`Extras > Schlüsselverzeichnisse > Kurssprachen`
 
 Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü `Abitur > Qualifikation` in den Feldern Q1Bilingual-Q4Bilingual ein, die Sie über „Layout anpassen“ einblenden können. Q1 und Q2 umfasst den Zeitraum der 11. Klasse, Q3 und Q4 die 12. Klasse. 
 Grundlage hierzu bildet das `Schlüsselverzeichnis > Kurssprachen`.  Ausgegeben wird die „Bezeichnung“ und „Bezeichnung1“ des `Schlüsselverzeichnis > Kurssprachen`. 
@@ -1103,7 +1104,7 @@ Spanisch | leer | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
-`Schlüsselverzeichnisse > Sprachreferenzen`
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -1122,7 +1123,7 @@ Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `
 
 **Zeugnisbemerkungen**
 
-`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
@@ -1175,7 +1176,7 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Weitere Fächer
 Religion | Weitere Fächer
 
-**Unterrichtsarten**n
+**Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -1188,7 +1189,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-**Fremdsprache**n
+**Fremdsprachen**
 
 `Schüler > Daten 3 > Von/Bis`
 
@@ -1244,7 +1245,7 @@ Platzhalter | Ausgabe im Bericht
 `<<Anrede4>>` |  ihm/ihr (je nach Geschlecht des Schülers)
 `<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
 
-`Schlüsselverzeichnisse > Sprachreferenzen`
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -1303,7 +1304,7 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
@@ -1431,7 +1432,7 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
@@ -1564,7 +1565,7 @@ Kürzel |  Schlüssel | Bezeichnung
 3 PF  | 3 PF  | 3. Prüfungsfach
 4 PF  | 4 PF  | 4. Prüfungsfach
 
-**Fremdsprache**n, Sprachreferenz
+**Fremdsprachen**, Sprachreferenz
 
 `Schüler > Daten 3 > Von/Bis`
 
@@ -1574,7 +1575,7 @@ Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis"
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-`Schlüsselverzeichnisse > Sprachreferenzen`
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -1606,7 +1607,7 @@ Merkmal | Bedeutung
 --|--
 MSA | Zeugnisbemerkung für das MSA Zeugnis
 
-`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
@@ -1776,7 +1777,7 @@ Die 2. Staatsangehörigkeit des Schülers tragen Sie unter `Schüler > Daten 2 >
 
 `Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
 
-`Schlüsselverzeichnisse > Kurssprachen`
+`Extras > Schlüsselverzeichnisse > Kurssprachen`
 
 Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü `Abitur > Qualifikation` in den Feldern Q1Bilingual-Q4Bilingual ein, die Sie über „Layout anpassen“ einblenden können. Q1 und Q2 umfasst den Zeitraum der 11. Klasse, Q3 und Q4 die 12. Klasse. 
 Grundlage hierzu bildet das `Schlüsselverzeichnis > Kurssprachen`.  Ausgegeben wird die „Bezeichnung“ und „Bezeichnung1“ des `Schlüsselverzeichnis > Kurssprachen`. 
@@ -1793,7 +1794,7 @@ Spanisch | leer | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
-**Fremdsprache**n
+**Fremdsprachen**
 
 `Schüler > Daten 3 > Fremdsprachenfolge`
 
@@ -1835,7 +1836,7 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers die Klassenstufe auf der Registerkarte `Zeiträume` im Feld "Klassenstufe" eingetragen sein.
 
-**Unterrichtsarten**n
+**Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -1847,7 +1848,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-**Fremdsprache**n
+**Fremdsprachen**
 
 `Schüler > Daten 3 > Von/Bis`
 
@@ -1857,7 +1858,7 @@ Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis"
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-`Schlüsselverzeichnisse > Sprachreferenzen`
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -1918,7 +1919,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 **Zeugnisbemerkungen**
 
-`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
@@ -2004,7 +2005,7 @@ Kürzel |  Schlüssel | Bezeichnung
 3 PF  | 3 PF  | 3. Prüfungsfach
 4 PF  | 4 PF  | 4. Prüfungsfach
 
-**Fremdsprache**n
+**Fremdsprachen**
 
 `Schüler > Daten 3 > Von/Bis`
 
@@ -2014,7 +2015,7 @@ Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis"
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-`Schlüsselverzeichnisse > Sprachreferenzen`
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -2046,7 +2047,7 @@ Merkmal | Bedeutung
 --|--
 MSA | Zeugnisbemerkung für das MSA Zeugnis
 
-`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
@@ -2211,7 +2212,7 @@ Jahrgang/Zeitraum | Ausgabe im Bericht
 
 **Zeugnisbemerkungen**
 
-`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
@@ -2291,7 +2292,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Unterrichtsarten**n
+**Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -2453,7 +2454,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Unterrichtsarten**n
+**Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -2545,7 +2546,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**Extras > Schlüsselverzeichnisse > Zeiträume**
+**Zeiträume**
 
 `Schlüsselverzeichnis > Zeiträume > Art`
 
@@ -2606,7 +2607,7 @@ Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüle
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Unterrichtsarten**n
+**Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -3009,7 +3010,7 @@ Machen Sie dabei zwischen Unter-  und Hauptfächern keine Unterschiede und posit
 
 **Zeugnisbemerkungen**
 
-`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
@@ -3145,7 +3146,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
- `Schlüsselverzeichnisse > Zeugnisbemerkungen`
+ `Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
@@ -3203,7 +3204,7 @@ Halbjahres-/Jahreszeugnis der Klassenstufe 3-12
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
@@ -3226,7 +3227,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 ASV | ASV | Arbeits- und Sozialverhalten
 WahlPF | WahlPF | Wahlpflichtbereich
 
-`Schlüsselverzeichnisse > Fächer`
+`Extras > Schlüsselverzeichnisse > Fächer`
 
 Bitte legen Sie Ihre Arbeitsgemeinschaften unter ´Schlüsselverzeichnisse > Fächer´ als Fachzeilen an. Verteilen  Sie die Arbeitsgemeinschaften in per Sammelzuweisung der Fachtafeln oder weisen sie direkt dem Schüler unter ´Schüler > Zeungis > Fächer´ zu. Markieren Sie die Fachzeilen bitte mit dem Fachstatus AG. Legen Sie dazu den Fachstatus einmalig wie folgt an:
 ´Schlüsselverzeichnisse > Fachstatus´
@@ -3297,7 +3298,7 @@ Grundschule | Klasse der Grundschule besucht
 Realschule | Klasse der Realschule besucht
 Gymnasium | Klasse des Gymnasium besucht"
 
-`Schlüsselverzeichnisse > Noten > Notenart`
+`Extras > Schlüsselverzeichnisse > Noten > Notenart`
 
 Beim Anlegung Ihrer Noten im `Schlüsselverzeichnis > Noten` weisen Sie Ihrer Note den entsprechenden Notenwert "Punktwert" oder "Notenwert" zu, da die Unterscheidung für Berechnungen benötigt wird.
 
@@ -3397,7 +3398,7 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 `Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
 
-`Schlüsselverzeichnisse > Kurssprachen`
+`Extras > Schlüsselverzeichnisse > Kurssprachen`
 
 Bilingual oder in einer anderen Fremdsprache unterrichtete Fächer tragen Sie im Menü `Abitur > Qualifikation` in den Feldern Q1Bilingual-Q4Bilingual ein, die Sie über „Layout anpassen“ einblenden können. Q1 und Q2 umfasst den Zeitraum der 11. Klasse, Q3 und Q4 die 12. Klasse. 
 Grundlage hierzu bildet das `Schlüsselverzeichnis > Kurssprachen`.  Ausgegeben wird die „Bezeichnung“ und „Bezeichnung1“ des `Schlüsselverzeichnis > Kurssprachen`. 
@@ -3414,11 +3415,11 @@ Spanisch | leer | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
-`Schlüsselverzeichnisse > Fächer > Bezeichnung2`
+`Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung2`
 
 Die englische Übersetzung des Faches tragen Sie im `Schlüsselverzeichnis > Fächer` im Feld „Bezeichnung2“ ein.
 
-`Schlüsselverzeichnisse > Sprachreferenzen`
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -3435,7 +3436,7 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
-`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
@@ -3541,7 +3542,7 @@ Jahrgang/Zeitraum | Ausgabe im Bericht
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-`Schlüsselverzeichnisse > Zeugnisbemerkungen`
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
