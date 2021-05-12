@@ -7493,10 +7493,6 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0088)** `Schüler > Laufbahn > Allgemein > Versetzt`
-
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
-
 **(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
@@ -7641,6 +7637,23 @@ Wahlpflichtfach drei oder Informationstechnischen Grundkurs | 34
 !!! danger "Achtung"
 
   Eine falsche Positionierung der Fächer ordnet den Fächern eine falsche oder keine Note zu. Das Fach wird trotzdem angezeigt.
+
+**A0941** `Schüler > Zeugnis > Bemerkungen / Formulare`
+
+Für Schüler und Schülerinnen der Jahrgangsstufe 7 an Gymnasien werden im SJ 2020/2021 keine Versetzungsentscheidungen getroffen. Aus diesem Grund ist dieses abweichende Zeugnis (**Schul Z 250 Co**) zu verwenden, auf diesem sind gesonderte Zeugnisvermerke einzutragen.
+
+Diese können Sie durch Ausgabe des Vornamen personalisieren.
+
+`<<VornameV>>` vorgegebener Bemerkungstext.
+
+
+Platzhalter in MAGELLAN | Anzeige im Bericht
+--|--
+`<<VornameV>>` | Vorname Vorname2
+
+**A0942** `Sonstiges`
+
+Im 2. HJ des Zeugnisses wird bei allen Schülern der Vermerk "Sie / Er rückt auf in die Jahrgangstufe 8." ausgegeben.
 
 ### BER-Schul Z 250 (11.19).rpt
 
