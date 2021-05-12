@@ -9,7 +9,7 @@ Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an De
 *Die Richtlinien für die Ausweisung der Sprachen auf den Abschlusszeugnissen der Deutschen Schulen im Ausland
 (Zeugnisse über die Allgemeine Hochschulreife) Beschluss der Kultusministerkonferenz vom 25.09.2019 ist in diesem Formular umgesetzt.*
 
-### Aufgabenbereich
+**Aufgabenbereich**
 
 `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
@@ -23,7 +23,7 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Weitere Fächer
 Religion | Weitere Fächer
 
-### Fremdsprache
+**Fremdsprache**
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -35,7 +35,7 @@ Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintr
 
     Unter `V. Sprachen / Languages` wird nun im Zeugnis textlich unterschieden, ob die Landessprache (z.B. Spanisch) als Erst- oder als Fremdsprache des Schülers unterrichtet wurde. Letzteres ist bei Quereinsteigern z.B. der Fall. *„Deutsch wird als Erstsprache unterrichtet. Die im Unterricht erworbenen und in Prüfungen nachgewiesenen Kompetenzen schließen solche auf dem Niveau C2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER) ein.“* ODER *„Deutsch und Spanisch werden als Erstsprachen unterrichtet. Die im Unterricht erworbenen und in Prüfungen nachgewiesenen Kompetenzen schließen solche auf dem Niveau C2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER) ein.“*
 
-### Schulleiter, Klassenleiter, Abteilungsleiter
+**Schulleiter, Klassenleiter, Abteilungsleiter**
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -52,24 +52,24 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-### Drucken
+**Drucken**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" über das Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-### Lernleistung
+**Lernleistung**
 
 `Abitur > Prüfung > Lernleistung`
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
 Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu 
 
-### Zeugnisdatum
+**Zeugnisdatum**
 
 `Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-### Prüfungsfächer
+**Prüfungsfächer**
 
 `Abitur > Prüfung > Prüfungsfächer`
 
@@ -86,13 +86,13 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachs
 | 4PF    | 4PF       | 4. Prüfungsfach |
 | 5PF    | 5PF       | 5. Prüfungsfach |
 
-### Ort
+**Ort**
 
 `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-### Kurssprachen
+**Kurssprachen**
 
 `Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
 
@@ -123,7 +123,7 @@ Spanisch | leer | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
-### Schlüsselverzeichnis > Fächer
+**Schlüsselverzeichnis > Fächer**
 
 `Schlüsselverzeichnisse > Fächer > Bezeichnung2`
 
@@ -165,7 +165,7 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
-### Zeugnisbemerkungen
+**Zeugnisbemerkungen**
 
 `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
@@ -322,7 +322,7 @@ Spanisch | leer | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
-**Schlüsselverzeichnis > Fächer**
+**Schlüsselverzeichnis Fächer**
 
 `Schlüsselverzeichnisse > Fächer > Bezeichnung2`
 
@@ -536,7 +536,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 2PF  |  2PF  |  2. Prüfungsfach
 3PF  |  3PF |  3. Prüfungsfach
 4PF  |  4PF | 4. Prüfungsfach
-5PF | 5PF | 5. Prüfungsfach (nur mündlich)### Pflichtbereich
+5PF | 5PF | 5. Prüfungsfach (nur mündlich) Pflichtbereich
 
 **Drucken**
 
@@ -986,7 +986,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ## DAS-GY-ABI (DIA)(2019).rpt
 
 ZEUGNIS DER Zeugnis der ALLGEMEINEN HOCHSCHULREIFE mit besonderer Lernleistung
-Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland  (Beschluss der Kultusministerkonferenz vom 11.06.2015)### zugrunde.
+Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland  (Beschluss der Kultusministerkonferenz vom 11.06.2015) zugrunde.
 
 **Aufgabenbereich**
 
@@ -1096,7 +1096,7 @@ Bsp:
 
 Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
 --|--|--|--
-bi(de/eng)### | bi | Deutsch / Englisch | English / German
+bi(de/eng) | bi | Deutsch / Englisch | English / German
 Deutsch | leer | Deutsch | German
 Englisch | leer | Englisch | English
 Spanisch | leer | Spanisch | Espanol
@@ -1651,7 +1651,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-### Schulleiter, Beauftragter
+**Schulleiter, Beauftragter**
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -1721,7 +1721,7 @@ nBÜG | - | Berechtigung zum Übergang in die Einführungsphase der gymnasialen 
 ## DAS-Prüfungsbogen (Anlage 7 zu DIA-PO)(2018).rpt
 
 Anlage 7 zu DIA-PO [§ 15 (4), (5); 31 (1); 36 (4)]
-Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland (DIA-PO)### zugrunde.
+Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland (DIA-PO) zugrunde.
 (Beschluss der Kultusministerkonferenz vom 11.06.2015 i.d.F. vom 03.05.2018)
 
 **Schulhalbjahre**
@@ -1772,7 +1772,7 @@ Tragen Sie die Staatsangehörigkeit des Schülers im Menü `Schüler > Daten 1` 
 
 Die 2. Staatsangehörigkeit des Schülers tragen Sie unter `Schüler > Daten 2 > Staatsangehörigkeit`  im Feld "Staatsangeh.2" ein.
 
-### Kursprachen
+**Kursprachen**
 
 `Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
 
@@ -1786,7 +1786,7 @@ Bsp.:
 
 Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
 --|--|--|--
-bi(de/eng)### | bi | Deutsch / Englisch | English / German
+bi(de/eng) | bi | Deutsch / Englisch | English / German
 Deutsch | leer | Deutsch | German
 Englisch | leer | Englisch | English
 Spanisch | leer | Spanisch | Espanol
@@ -1829,7 +1829,7 @@ hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verf
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-### Klassenstufe
+**Klassenstufe**
 
 `Klassen > Zeiträume > Zeitraum > Klassenstufe`
 
@@ -1969,7 +1969,7 @@ nBÜQ |--| Berechtigung zum Übergang in die Qualifikationsphase NICHT erhalten
 ## DAS-Zeugnis Gymnasium - Mittlerer Schulabschluss (Anlage 10)(§23)
 
 Zeugnis Gymnasium - Mittlerer Schulabschluss (Prüfung)
-Dem Zeugnis liegt die „Ordnung für den Abschluss der Sekundarstufe I an Deutschen Schulen im Ausland“ (Beschluss der Kultusministerkonferenz vom 16.03.2017)### zugrunde.
+Dem Zeugnis liegt die „Ordnung für den Abschluss der Sekundarstufe I an Deutschen Schulen im Ausland“ (Beschluss der Kultusministerkonferenz vom 16.03.2017) zugrunde.
 
 **Schulhalbjahre**
 
@@ -1983,7 +1983,7 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-### Zeugniskonferenz
+**Zeugniskonferenzdatum**
 
 `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
@@ -2092,7 +2092,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-### Schulleiter
+**Schulleiter**
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -2398,7 +2398,7 @@ Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberic
 
 `Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
-Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis)### als auch Abgangszeugnis ausgelegt.
+Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis) als auch Abgangszeugnis ausgelegt.
 
 Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
 Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
@@ -2563,7 +2563,7 @@ Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Dat
 
 `Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
-Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis)### als auch Abgangszeugnis ausgelegt.
+Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis) als auch Abgangszeugnis ausgelegt.
 
 Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
 Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
@@ -2716,7 +2716,7 @@ Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Dat
 
 `Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
-Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis)### als auch Abgangszeugnis ausgelegt.
+Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis) als auch Abgangszeugnis ausgelegt.
 
 Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
 Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
@@ -2869,7 +2869,7 @@ Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Dat
 
 `Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
-Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis)### als auch Abgangszeugnis ausgelegt.
+Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis) als auch Abgangszeugnis ausgelegt.
 
 Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
 Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
@@ -2895,7 +2895,7 @@ Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss 
 
 Im Menü `Klassen` muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein, hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
 
-### Zeugniskonferenz
+**Zeugniskonferenz**
 
 `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
@@ -2953,7 +2953,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-### Schuljahr, Schulhalbjahr
+**Schuljahr, Schulhalbjahr**
 
 `Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
@@ -3048,7 +3048,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 `Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
-Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis)### als auch Abgangszeugnis ausgelegt.
+Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis) als auch Abgangszeugnis ausgelegt.
 
 Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
 Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das Schlüsselverzeichnisse > Abschlüsse Intern, der Bericht fragt das "Kürzel" "Abgang" ab.
@@ -3059,7 +3059,7 @@ Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Ei
 
 Tragen Sie die Schulart im aktuellen Zeitraum im Menü `Klassen > Daten` im Feld „Schulart“ ein. Grundlage hierfür bildet das `Schlüsselverzeichnis >Schularten`. Der Bericht fragt die "Bezeichnung" der Schulart ab, Vorgaben sind:
 
-Kürzel (beliebig) ###| Bezeichnung (wie folgt einzutragen)### | Ausgabe im Zeugnis
+Kürzel (beliebig)| Bezeichnung (wie folgt einzutragen) | Ausgabe im Zeugnis
 --|--|--
 GS | Grundschule | der Grundschule
 RS | Realschule | der Realschule
@@ -3199,7 +3199,7 @@ Halbjahres-/Jahreszeugnis der Klassenstufe 3-12
 
 !!! info "Hinweis"
 
-    Bitte verwenden Sie die aktuelleren Formulare ###DAS-GS-GY (Klasse 3-10).rpt### bzw. für die gymnasiale Oberstufe das Formular ###DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6)(ab 2020).rpt###
+    Bitte verwenden Sie die aktuelleren Formulare DAS-GS-GY (Klasse 3-10).rpt bzw. für die gymnasiale Oberstufe das Formular DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6)(ab 2020).rpt
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
@@ -3281,10 +3281,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-
 `Schüler > Laufbahn > Allgemein > Schulart` Oder `Klassen > Daten > Schulart`
 
-Das Zeugnis ist von der 5. bis zur 12. Klasse konzipiert. Die richtige Ausgabe errechnet sich aus dem Jahrgang (siehe ###A0008). Bis einschließlich der 10. Klasse erfolgt die Ausgabe nach Klassenstufe, ab der 11. gemäß Qualifikationsphase. Bis zur 10. Klasse müssen Sie auch die Schulart eintragen.  Sie können dem Schüler seine „Schulart“ individuell oder Klassenweise zuweisen. Vorrang bei der Ausgabe hat die „Schulart“ nach Schüler, falls Sie die „Schulart“ klassenweise ausgeben möchten, lassen Sie das Feld „Schulart“ im Menu `Schüler > Laufbahn> Allgemein` im Feld "Schulart“ beim Schüler leer.
+Das Zeugnis ist von der 5. bis zur 12. Klasse konzipiert. Die richtige Ausgabe errechnet sich aus dem Jahrgang. Bis einschließlich der 10. Klasse erfolgt die Ausgabe nach Klassenstufe, ab der 11. gemäß Qualifikationsphase. Bis zur 10. Klasse müssen Sie auch die Schulart eintragen.  Sie können dem Schüler seine „Schulart“ individuell oder Klassenweise zuweisen. Vorrang bei der Ausgabe hat die „Schulart“ nach Schüler, falls Sie die „Schulart“ klassenweise ausgeben möchten, lassen Sie das Feld „Schulart“ im Menu `Schüler > Laufbahn> Allgemein` im Feld "Schulart“ beim Schüler leer.
 
 1) Schulart Schülerweise: Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` die Schulart im Feld „Schulart“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Schularten.
 
@@ -3408,7 +3407,7 @@ Bsp:
 
 Kürzel | Schlüssel |  Bezeichnung | Bezeichnung 2
 --|--|--|--
-bi(de/eng)### | bi | Deutsch / Englisch | English / German
+bi(de/eng) | bi | Deutsch / Englisch | English / German
 Deutsch | leer | Deutsch | German
 Englisch | leer | Englisch | English
 Spanisch | leer | Spanisch | Espanol
