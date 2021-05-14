@@ -48,11 +48,19 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
+**Fachpositionen**
+
+Der Bericht verwendet für die Anzeigereihenfolge Postionsnummern. Bitte erfassen Sie die Positionsnummern im Abitur unter `Abitur > Qualifikation > Position`. Sie können dieses Feld auch per `Schüler synchronisieren` aus dem Bereich `Schüler > Zeugnis > Fächer` übertragen. Sollte ein Fach mehrfach für einen Schüler vergeben werden, sollten die Positionsnummern aufeinanderfolgend sein.
+Positionsnummern dürfen nicht mehrfach vergeben werden und sollen aufsteigend sein, wobei das aber nicht bedeutet, dass es 1,2,3.. sein muss, auch 17,23,31 ist möglich.
+Fachpositionen können bereits bei der Fachwahl per Fachwahltafel oder per Fachtafel zugewiesen werden.
+
 **Zeugnisbemerkungen**
 
 `Abitur > Zeugnisbemerkungen`
 
-Legen Sie im Menü `Abitur > Zeugnisbemerkungen` oder unter `Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen` Bemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. Platzhalter werden in der Berichtsvorschau für Sie sichtbar mit den Eingaben aus der Datenbank gefüllt. 
+Legen Sie im Menü `Abitur > Zeugnisbemerkungen` oder unter `Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen` Bemerkungen an.
+
+Bitte verwenden Sie Positonsnummern je Bemerkung, die sich nicht überschneiden. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. Platzhalter werden in der Berichtsvorschau für Sie sichtbar mit den Eingaben aus der Datenbank gefüllt. 
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Beispiele für den Einsatz der Platzhalter:
