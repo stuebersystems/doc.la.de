@@ -59,8 +59,11 @@ Fachpositionen können bereits bei der Fachwahl per Fachwahltafel oder per Facht
 `Abitur > Zeugnisbemerkungen`
 
 Legen Sie im Menü `Abitur > Zeugnisbemerkungen` oder unter `Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen` Bemerkungen an.
+ 
+Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-Bitte verwenden Sie Positonsnummern je Bemerkung, die sich nicht überschneiden. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. Platzhalter werden in der Berichtsvorschau für Sie sichtbar mit den Eingaben aus der Datenbank gefüllt. 
+Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. Platzhalter werden in der Berichtsvorschau für Sie sichtbar mit den Eingaben aus der Datenbank gefüllt. 
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Beispiele für den Einsatz der Platzhalter:
