@@ -1565,7 +1565,7 @@ Kürzel |  Schlüssel | Bezeichnung
 3 PF  | 3 PF  | 3. Prüfungsfach
 4 PF  | 4 PF  | 4. Prüfungsfach
 
-**Fremdsprachen**, Sprachreferenz
+**Fremdsprachen, Sprachreferenz**
 
 `Schüler > Daten 3 > Von/Bis`
 
