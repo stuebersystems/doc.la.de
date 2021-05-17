@@ -1,5 +1,16 @@
 # Zeugnisse für Nordrhein-Westfalen
 
+## NRW-BLNW-OS.rpt
+
+**Gültigkeit**
+Für die Verwendung am Oberstufenkolleg Bielefeld. 
+
+Bitte beachten Sie ergänzend die Voraussetzungen für **Unterrichtsarten, Fachstatus, Fachkategorien und Aufgabenbereiche** für das dazugehörige Berechnungsskript unter [https://doc.la.stueber.de/08.nrw/nrw-apo-os-2020/](https://doc.la.stueber.de/08.nrw/nrw-apo-os-2020/).
+
+**Druck**
+
+Bitte markieren Sie die Schüler im Menü `Abitur` und rufen den Bericht über STRG+Z im Unterverzeichnis `Nordrhein-Westfalen` auf.
+
 ## NRW-ABI-OS (2021).rpt
 
 **Gültigkeit**
@@ -109,11 +120,6 @@ Platzhalter|Inhalt
 `<<derSchueler_dieSchuelerin>>`|"die Schülerin"
 `<<DemSchueler_DerSchuelerin>>`|"Der Schülerin"
 `<<demSchueler_derSchuelerin>>`|"der Schülerin"
-
-## NRW-BLNW-OS.rpt
-
-**Gültigkeit**
-Für die Verwendung am Oberstufenkolleg Bielefeld.
 
 ## NRW-ABI-AZ  (Anlage D42).rpt
 
