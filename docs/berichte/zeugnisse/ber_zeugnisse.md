@@ -12350,7 +12350,7 @@ Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefi
 `Abitur > Prüfung > Sprachkenntnisse`
 Bitte vergeben Sie unter `Abitur > Prüfung > Sprachkenntnisse` ein Häkchen für `Latinum` oder `großes Latinum`. 
 
-![Eingabebeispiel](assets/images/berlin/latinum.png)
+![Eingabebeispiel](/assets/images/berlin/latinum.png)
 
 **A0884**	`Schüler > Daten 3 > Fremdsprachenfolge > Von`
 
