@@ -12347,7 +12347,9 @@ Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis >Fächer`, Spalte "Merkmal" = LAT) und Griechisch (Altgriechisch) (Schlüsselverzeichnis > Fächer, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
 
 **Latinum, großes Latinum**
+
 `Abitur > Prüfung > Sprachkenntnisse`
+
 Bitte vergeben Sie unter `Abitur > Prüfung > Sprachkenntnisse` ein Häkchen für `Latinum` oder `großes Latinum`. 
 
 ![Eingabebeispiel](/assets/images/berlin/latinum.png)
