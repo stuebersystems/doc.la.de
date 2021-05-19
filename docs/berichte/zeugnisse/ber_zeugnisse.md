@@ -12290,6 +12290,12 @@ Das Berechnungsskript fügt automatisch im 3. Punktfeld die Gesamtnote für die 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis >Fächer`, Spalte "Merkmal" = LAT) und Griechisch (Altgriechisch) (Schlüsselverzeichnis > Fächer, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
 
+**Latinum, großes Latinum**
+`Abitur > Prüfung > Sprachkenntnisse`
+Bitte vergeben Sie unter `Abitur > Prüfung > Sprachkenntnisse` ein Häkchen für `Latinum` oder `großes Latinum`. 
+
+![Eingabebeispiel](assets/images/berlin/latinum.png)
+
 **A0884**	`Schüler > Daten 3 > Fremdsprachenfolge > Von`
 
 Ausgabe: "Vorkurs".  Damit auf dem Bericht ein Beginn der Fremdsprache im "Vorkurs" ausgegeben wird, tragen Sie im Feld "Von"-Datum die Klassenstufe 10 ein. Der Bericht gibt für den Eintrag "10" auf dem Zeugnis "Vorkurs" aus.
