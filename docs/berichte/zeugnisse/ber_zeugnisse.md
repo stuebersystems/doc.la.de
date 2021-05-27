@@ -6,7 +6,7 @@
 
 Schul Z 590 – Zeugnis der Integrierten Berufsausbildungsvorbereitung (Vollzeit) – (2 Seiten) – (12.19)
 
-#### Fehltage/Fehlstunden/Versäumnisse
+**Fehltage/Fehlstunden/Versäumnisse**
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
@@ -16,7 +16,7 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-#### Fachstatus
+**Fachstatus**
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -27,7 +27,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Wahlb | Wahlb | Wahlfächer bzw. –bereich"
 
-#### Unterrichtsarten
+**Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -40,13 +40,13 @@ BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)
 FachT | FachT | Fachtheoretischer Bereich (Unterricht)
 FachP | FachP | Fachpraktischer Bereich (Unterricht)"
 
-#### Klassen
+**Klassen**
 
 `Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
-#### Mandanten
+**Mandanten**
 
 `Mandanten > Daten > Name 1`
 
@@ -60,7 +60,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-#### Klassenleiter/Schulleiter
+**Klassenleiter/Schulleiter**
 
 `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
@@ -70,7 +70,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld ""Schulleiter"" eingetragen werden."
 
-#### Ausdruck
+**Ausdruck**
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -78,7 +78,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-#### Zeugnisbemerkungen
+**Zeugnisbemerkungen**
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
@@ -97,7 +97,7 @@ Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vorde
 
 Die Zeugnisbemerkung "Dem Zeugnis ist das Zertifikat zur Einschätzung personaler Kompetenzen „Betriebspraktikum“ und „Unterricht“1) beigefügt. " müssen Sie den jeweiligen Schülern individuell oder per Sammelzuweisung hinterlegen.
 
-#### Noten
+**Noten**
 
 `Schüler > Zeugnis > Leistungen > Endnote`
 
@@ -105,7 +105,7 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 ![Zeugnisvorlage](/assets/images/Berlin/ber001.png)
 
-#### Klassen
+**Klassen**
 
  `Klassen > Daten > Abteilung` UND `Schlüsselverzeichnis > Abteilungen`
 
@@ -114,7 +114,7 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-#### Fächer
+**Fächer**
 
 `Schüler > Zeugnis > Fächer > Niveau`
 
@@ -143,7 +143,7 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 
 2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.
 
-**A0875** `Schüler > Zeugnis > Fächer > Merkmal`
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Ob im Zeugnis das Betriebspraktikum 1./2. oder 3. als "bestanden" oder "nicht bestanden" ausgegeben wird, hängt vom Eintrag im Menü Schüler > Zeugnis > Fächer im Feld "Merkmal" ab.
 
@@ -182,7 +182,7 @@ Der Bericht liest den Eintrag aus Feld "Merkmal" aus und setzt dahinter die Fach
 
 Für die Sortierung der Fächer des "Berufsfeldübergreifenden Unterrichts" auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Den Fächern mit Niveau-Stufe (GR-Niveau / ER-Niveau) weisen Sie die Position 1-3 zu, den Fächern "Wirtschafts- und Sozialkunde" und Spoprt/Gesundheitsförderung weisen Sie die Position 4-5 zu.
 
-#### Zeugnisbemerkungen
+**Zeugnisbemerkungen**
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
@@ -213,7 +213,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
 ``<<DemSchueler_DerSchuelerin>> `` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)"
 
-#### Ausbildung
+**Ausbildung**
 
 `Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
 
@@ -262,7 +262,7 @@ Eintrag für | Eingabe wie folgt
 
 Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die auch benotet wird, dem 1./2./3 Betriebspraktikum zuordnen. Zudem wird ein Bezug des Betriebspraktikums zum HJ1 bzw. HJ2 hergestellt.
 
-#### Berechnungsskript
+**Berechnungsskript**
 
 `BER-IBA-HJ-2020.dws`
 
@@ -270,7 +270,7 @@ Um eine halbjahresbezogene Berechnung der Durchschnittsnoten für den Berufsfeld
 
 https://doc.la.stueber.de/03.ber/ber-iba-hj-2020.md"
 
-#### Benotung
+**Benotung**
 
 `Schueler > Zeugnis > Leistungen > Durchschnitt`
 
@@ -286,7 +286,7 @@ Die berechnete "Endnote" kann jederzeit manuell im Feld "Endnote" geändert werd
 
 Schul Z 591 – Abschlusszeugnis der Integrierten Berufsausbildungsvorbereitung (Vollzeit) – (4 Seiten) – (03.20)
 
-#### Klassen
+**Klassen**
 
 `Klassen > Daten > Beurteilungsart > Noten`
 
@@ -296,7 +296,7 @@ Im Menü `Klassen > Daten` muss bei der Klasse des Schülers iim Feld Beurteilun
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
-#### Fächer
+**Fächer**
 
 `Schüler > Zeugnis > Fächer > Faktor`
 
@@ -358,8 +358,7 @@ BLE | leer | beliebig
 
 Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Zeugnis > Fächer` zu. Tragen Sie im Feld "Faktor" die "Gesamtstunden" ein. Die Endnote erfassen Sie für dieses Fach im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote (Gesamt)".
 
-
-#### Fachstatus
+**Fachstatus**
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -370,13 +369,13 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Wahlb | Wahlb | Wahlfächer bzw. –bereich"
 
-#### Zugang/Abgangsdatum
+**Zugang/Abgangsdatum**
 
 `Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-#### Unterrichtsarten
+**Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -389,7 +388,7 @@ BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)
 FachT | FachT | Fachtheoretischer Bereich (Unterricht)
 FachP | FachP | Fachpraktischer Bereich (Unterricht)
 
-#### Ausdruck
+**Ausdruck**
 
 `Ausdruck > DIN A 3 Format, doppelseitig`
 
@@ -397,7 +396,7 @@ Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-#### Mandanten
+**Mandanten**
 
 `Mandanten > Daten > Name 1`
 
@@ -411,7 +410,7 @@ Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Fel
 
 Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
 
-#### Klassenleiter/Schulleiter/Abteilungsleiter
+**Klassenleiter/Schulleiter/Abteilungsleiter**
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -428,7 +427,7 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
    
-#### Zeugnisdatum
+**Zeugnisdatum**
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -438,7 +437,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Schüler > Zeugnis > Zeugnisdetails` gezogen.
 
-#### Zeugnisbemerkungen
+**Zeugnisbemerkungen**
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
@@ -484,7 +483,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
 ``<<DemSchueler_DerSchuelerin>> `` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-#### Ausbildung
+**Ausbildung**
 
 `Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
 
@@ -533,7 +532,7 @@ Eintrag für | Eingabe wie folgt
 
 Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die auch benotet wird, dem 1./2./3 Betriebspraktikum zuordnen. Zudem wird ein Bezug des Betriebspraktikums zum HJ1 bzw. HJ2 hergestellt.
 
-#### Benotung
+**Benotung**
 
 `Schüler > Zeugnis > Leistungen`
 
@@ -560,7 +559,7 @@ Kürzel | Bezeichnung | Notenart
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
 
-#### Sonstiges
+**Sonstiges**
 
 Die Anzahl der Stunden/Schuljahr je Fach haben Sie für das 1.HJ und 2. HJ im Menü `Schüler > Zeugnis > Fächer` im Feld "Faktor" eingetragen. Der Bericht summiert die "Gesamtstunden" der einzelnen Fächer aus dem 1. und 2. Halbjahr und übergibt diesen Wert auf das Zeugnis in das Feld "Gesamtstunden" je Fach.
 
