@@ -1,7 +1,8 @@
 # Zeugnisse "Allgemein"
 
 ## Abi (Ergebnisliste).rpt
-**(A0111)** `Ausdruck`
+
+**(Ausdruck)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -9,7 +10,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten im Menü `Abitur > Prüfung` in den Feldern "schriftliche Note" und "mündliche Note" eingetragen sein.
 
-**(A0239)** `Ausdruck`
+**(Ausdruck)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -31,7 +32,7 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
 
-**(A0111)** `Ausdruck`
+**(Ausdruck)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -43,7 +44,7 @@ Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details 
 
 Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten im Menü `Abitur > Prüfung` in den Feldern "schriftliche Note" und "mündliche Note" eingetragen sein.
 
-**(A0239)** `Ausdruck`
+**(Ausdruck)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -53,15 +54,15 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**(Fehltage und/oder Fehlstunden)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0014)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
+**(Verhalten und/oder Mitarbeit)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
 
 Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
 
-**(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+**(Fremdsprache)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
@@ -71,11 +72,11 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**(Fehltage und/oder Fehlstunden)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0014)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
+**(Verhalten und/oder Mitarbeit)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
 
 Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
 
@@ -85,11 +86,11 @@ Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis >
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**(Fehltage und/oder Fehlstunden)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0014)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
+**(Verhalten und/oder Mitarbeit)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
 
 Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
 
@@ -99,27 +100,27 @@ Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis >
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**(Jahrgang)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+**(Zeugniskonferenz)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+**(Versetzungsvermerk)** `Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**(Fehltage und/oder Fehlstunden)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0014)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
+**(Verhalten und/oder Mitarbeit)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
 
 Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
 
-**(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+**(Fremdsprache)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
@@ -129,27 +130,27 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**(Jahrgang)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+**(Zeugniskonferenz)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+**(Versetzungsvermerk)** `Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**(Fehltage und/oder Fehlstunden)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0014)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
+**(Verhalten und/oder Mitarbeit)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
 
 Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
 
-**(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+**(Fremdsprache)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
@@ -159,41 +160,41 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**(Fehltage und/oder Fehlstunden)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0014)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
+**(Verhalten und/oder Mitarbeit)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
 
 Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
 
 ## ALL-JZ (2-spaltig und mit grauem Hintergrund).rpt
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**(Fehltage und/oder Fehlstunden)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 ## ALL-JZ (2-spaltig).rpt
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**(Fehltage und/oder Fehlstunden)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 ## ALL-JZ (einspaltig und mit grauem Hintergrund).rpt
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**(Fehltage und/oder Fehlstunden)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 ## ALL-JZ (einspaltig).rpt
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**(Fehltage und/oder Fehlstunden)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 ## KMK-Fremdsprachenzertifikat.rpt
 
-**(A0112)** `Ausdruck`
+**(Ausdruck)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -237,21 +238,21 @@ Position | Fach
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
-**(A0077)** `Mandanten > Daten 1 > Schulleiter`
+**(Schulleiter)** `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
 ## Schüler (Wiederholer innerhalb eines Schuljahres).rpt
 
-**(A0112)** `Ausdruck`
+**(Ausdruck)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0239)** `Ausdruck`
+**(Ausdruck)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0589)** `Schüler > Laufbahn > Allgemein > Wiederholer`
+**(Wiederholer)** `Schüler > Laufbahn > Allgemein > Wiederholer`
 
 Beachten Sie bei der Liste mit den Wiederholern innerhalb eines Schuljahres:
 
@@ -268,7 +269,7 @@ Den freiwilligen Rücktritt eines Schülers tragen Sie im Menü `Schüler > Lauf
 
 ## Schüler (Zeitraumübergreifende Notenübersicht).rpt
 
-**(A0239)** `Ausdruck`
+**(Ausdruck)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -276,19 +277,19 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0012)** `Klassen > Zeiträume > Zeitraum > Klassenstufe`
+**(Klassenstufe)** `Klassen > Zeiträume > Zeitraum > Klassenstufe`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers die Klassenstufe auf der Registerkarte `Zeiträume` im Feld "Klassenstufe" eingetragen sein.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**(Fehltage und/oder Fehlstunden)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
+**(Versäumnisse)** `Schüler > Zeugnis > Details > Versäumnisse`
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**(Zugangs- und Abgangsdatum)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -318,15 +319,15 @@ Merkmal | Bedeutung
 Schule | Beurteilung des Verhaltens in der Schule
 Lern | Beurteilung des Lernverhaltens
 
-**(A0023)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+**(Fremdsprache)** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0238)** `Schüler > Daten 2 > Höchster Abschluss > Abschluss`
+**(Abschluss)** `Schüler > Daten 2 > Höchster Abschluss > Abschluss`
 
 Tragen Sie im Menü „Schüler“ im aktuellen Zeitraum auf der Registerkarte „Daten2“ unter „Höchster Abschluss ABS“ die Abschlussbezeichnung im Feld „Abschluss“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis Abschlüsse (Extern).
 
-**(A0239)** `Ausdruck`
+**(Ausdruck)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -334,63 +335,63 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Tragen Sie im Menü „Schüler“ im aktuellen Zeitraum auf der Registerkarte „Daten2“ unter „Höchster Abschluss ABS“ die Abschlussbezeichnung im Feld „Abschluss“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis Abschlüsse (Extern).
 
-**(A0050)** `Schüler > Daten 1 > Familie`
+**(Familie)** `Schüler > Daten 1 > Familie`
 
 Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
 
 ## Schülerliste (Abi Statusanzeige).rpt
 
-**(A0111)** `Ausdruck`
+**(Ausdruck)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0239)** `Ausdruck`
+**(Ausdruck)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0692)** `Abitur > Qualifikation`
+**(Abiturqualifikation)** `Abitur > Qualifikation`
 
 Es werden die Statusmeldungen für die Abiturberechnungen angezeigt. Führen Sie bei jedem Schüler das zugehörige Skript aus.
 
 ## Schülerpersonalbogen (4 Seitig).rpt
 
-**(A0112)** `Ausdruck`
+**(Ausdruck)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0012)** `Klassen > Zeiträume > Zeitraum > Klassenstufe`
+**(Klassenstufe)** `Klassen > Zeiträume > Zeitraum > Klassenstufe`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers die Klassenstufe auf der Registerkarte `Zeiträume` im Feld "Klassenstufe" eingetragen sein.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**(Fehltage und/oder Fehlstunden)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
+**(Versäumnisse)** `Schüler > Zeugnis > Details > Versäumnisse`
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**(Zugangs- und Abgangsdatum)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0238)** `Schüler > Daten 2 > Höchster Abschluss > Abschluss`
+**(Abschluss)** `Schüler > Daten 2 > Höchster Abschluss > Abschluss`
 
 Tragen Sie im Menü „Schüler“ im aktuellen Zeitraum auf der Registerkarte „Daten2“ unter „Höchster Abschluss ABS“ die Abschlussbezeichnung im Feld „Abschluss“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis Abschlüsse (Extern).
 
-**(A0239)** `Ausdruck`
+**(Ausdruck)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**(Ausdruck)** `Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**(A0050)** `Schüler > Daten 1 > Familie`
+**(Familie)** `Schüler > Daten 1 > Familie`
 
 Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie` die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Daten1 > Familie` im Feld "Benachrichtigung""immer" enthalten, relevant.
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**(Jahrgang)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -398,23 +399,23 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Zeugnisliste über zwei Schulhalbjahre
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+**(Zeugniskonferenz)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+**(Versetzungsvermerk)** `Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**(Fehltage und/oder Fehlstunden)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0014)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
+**(Verhalten und/oder Mitarbeit)** `Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
 
 Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
 
-**(A0077)** `Mandanten > Daten 1 > Schulleiter`
+**(Schulleiter)** `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
@@ -430,7 +431,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Tragen Sie im Menü "Schüler" im aktuellen Zeitraum auf der Registerkarte "Laufbahn" unter "Allgemein" im Feld "Empfehlung" die entsprechende Schulform ein.
 
-**(A0112)** `Ausdruck`
+**(Ausdruck)** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -443,7 +444,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0239)** `Ausdruck`
+**(Ausdruck)** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
