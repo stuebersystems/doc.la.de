@@ -23,7 +23,7 @@ gesellschaftswiss.|Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch|Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport|Sport
                                                                                                                                                            **Fremdsprache**
-                                                                                                                                                           Tragen Sie im Menü `Schüler` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum auf der Registerkarte `Daten 3` unter `Fremdsprachenfolge` ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Verzeichnisse > Fächer` den vorhandenen Fremdsprachen in der Spalte `Kategorie` aus dem Pull-Down-Menü `Fremdsprache` zugewiesen haben.
+Tragen Sie im Menü `Schüler` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum auf der Registerkarte `Daten 3` unter `Fremdsprachenfolge` ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Verzeichnisse > Fächer` den vorhandenen Fremdsprachen in der Spalte `Kategorie` aus dem Pull-Down-Menü `Fremdsprache` zugewiesen haben.
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie unter `Abitur`, `Prüfung` die entsprechenden Felder markieren.
 
