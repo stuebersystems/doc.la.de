@@ -20,33 +20,41 @@ Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten
 
 Tragen Sie die Durchschnittsnote und die Gesamtpunktzahl des jeweiligen Schülers im Menü `Abitur > Prüfung` jeweils im Feld "Durchschnitt" und im Feld "Gesamtpunktzahl" ein.
 
-**Schüler Personalnummer** `Schüler > Daten 3 > Verschiedenes > Personalnummer`
+**Schüler Personalnummer** 
+
+`Schüler > Daten 3 > Verschiedenes > Personalnummer`
 
 Die Prüfungsnummer des Schülers für das Abitur tragen Sie im Menü `Schüler > Daten 3` im Bereich „Verschiedenes“ im Feld „Personalnummer“ ein.
 
 ## Abi-Übersicht-Prüfungsergebnisse.rpt
 
-**(Schulhalbjahres)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Schulhalbjahres** 
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0032)** 
+**Berechnungsskript** 
 
 Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
 
-**(Ausdruck)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0131)** `Schüler > Zeugnis > Details > Tutor`
+**Tutor** 
+
+`Schüler > Zeugnis > Details > Tutor`
 
 Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
-**(A0203)** `Abitur > Prüfung > schriftliche / mündliche Note`
+**schriftliche / mündliche Note** 
+
+`Abitur > Prüfung > schriftliche / mündliche Note`
 
 Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten im Menü `Abitur > Prüfung` in den Feldern "schriftliche Note" und "mündliche Note" eingetragen sein.
 
-**(Ausdruck)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -369,7 +377,9 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Versäumnisse** `Schüler > Zeugnis > Details > Versäumnisse`
+**Versäumnisse** 
+
+`Schüler > Zeugnis > Details > Versäumnisse`
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
@@ -496,7 +506,9 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schül
 
 Tragen Sie im Menü „Schüler“ im aktuellen Zeitraum auf der Registerkarte „Daten2“ unter „Höchster Abschluss ABS“ die Abschlussbezeichnung im Feld „Abschluss“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis Abschlüsse (Extern).
 
-**Ausdruck** `Ausdruck`
+**Ausdruck**
+
+ `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
