@@ -54,6 +54,7 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur` auf Registerkarte `Prüfung` im Fe
 Tragen Sie im Menü `Klasse` im aktuellen Zeitraum auf der Registerkarte `Daten` die Schulart im Feld `Schulart` ein. Grundlage hierfür bildet das Schlüsselverzeichnis `Verzeichnisse > Weitere Schlüsselverzeichnisse > Schularten`.
 
 **Druckdatum**
+
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten` auf der Registerkarte `Daten 1` im Feld `Ort`.
 
 **Durchschnitt und Gesamtpunktzahl**
@@ -116,7 +117,6 @@ In allen anderen Fällen erscheint:
 Wohnhaft in: Ort
 
 ### BAW-BG-ABI (DIN A4 doppelseitig 2021).rpt
-
 
 **Fachstatus**
 
