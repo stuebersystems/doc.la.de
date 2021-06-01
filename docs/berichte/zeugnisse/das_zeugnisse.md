@@ -123,7 +123,7 @@ Spanisch | leer | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
-**Schlüsselverzeichnis > Fächer**
+**Fächer**
 
 `Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung2`
 
@@ -322,7 +322,7 @@ Spanisch | leer | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
-**Schlüsselverzeichnis Fächer**
+**Fächer**
 
 `Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung2`
 
@@ -506,7 +506,7 @@ Platzhalter | Ausgabe im Bericht
 
 Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
-**Verzeichnis Fächer**
+**Fächer**
 
 `Schüler > Zeugnis > Fächer > Merkmal (d)`
  
