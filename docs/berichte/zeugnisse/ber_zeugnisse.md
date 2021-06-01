@@ -8442,7 +8442,7 @@ Die Bemerkung "Entsprechend dem Beschluss der Schulkonferenz gemäß § 58 (7) S
 
 Um die korrekte Bemerkung über das Arbeits- und Sozialverhalten zu generieren (siehe auch A0579), legen Sie, falls das Arbeits- und Sozialverhalten beurteilt werden soll, im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` eine Zeugnisbemerkung mit dem Merkmal „ASV1“, „ASV2“ oder „ASV12“ an. Damit wird die entsprechende Bemerkung generiert und ermittelt um welches Schuljahr es sich handelt worauf sich Ihre Informationen über das „Arbeits- und Sozialverhalten“ beziehen, was für andere Zeugnisse relevant sein kann. Beachten Sie dabei: 
 
- Zeugnsimerkmal|Schulhalbjahr
+ Zeugnismerkmal|Schulhalbjahr
 --|--
 ASV1 | 1. HJ
 ASV2 | 2. HJ
@@ -8456,6 +8456,10 @@ Die Ausgabe "Dieses Zeugnis schließt den Nachweis des Latinums gemäß der „V
 Wenn Sie eine Zeugnisbemerkung mit dem Merkmal "LAT" angelegt haben, wenn es den Nachweis gibt. Die Zeugnisbemerkung muss dann genau so definiert werden, wie es auf dem Zeugnis ausgegeben werden soll. (D.h. Dieses Zeugnis schließt den Nachweis des Latinums gemäß der „Vereinbarung über das Latinum und das Graecum“ (Beschluss der KMK vom 22.09.2005) ein). 
 
 Ist eine solche Zeugnisbemerkung mit diesem Merkmal "LAT" beim Schüler nicht eingetragen, wird der andere Fall als Standard ausgegeben. D.h. folgender Satz wird ausgegeben: "Dieses Zeugnis schließt den Nachweis des Latinums gemäß der „Vereinbarung über das Latinum und das Graecum“ (Beschluss der KMK vom 22.09.2005) nicht ein.
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal (PRV)`
+
+Für die Ausgabe von Bemerkungen zu Prüfungsversuchen legen Sie eine Zeugnisbemerkung mit dem Merkmal "PRV" an.
 
 **Fremdsprachen**
 
