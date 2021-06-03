@@ -385,7 +385,9 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -411,17 +413,21 @@ Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Er
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
 und für "GK-Sozialkunde".
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0529)** Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)
 
@@ -483,7 +489,9 @@ FA | FA | Facharbeit
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -509,17 +517,21 @@ Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Er
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
 und für "GK-Sozialkunde".
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0529)** Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)
 
@@ -591,7 +603,9 @@ FA | FA | Facharbeit
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -617,17 +631,21 @@ Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Er
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
 und für "GK-Sozialkunde".
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0529)** Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)
 
@@ -699,7 +717,9 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -725,17 +745,21 @@ Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Er
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
 und für "GK-Sozialkunde".
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0529)** Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)
 
@@ -791,7 +815,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0035)** `Klassen > Daten > Bildungsgang`
+**Bildungsgang der Klasse**
+
+`Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -799,7 +825,9 @@ Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet d
 
 Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis Schwerpunkte.
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -870,7 +898,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0035)** `Klassen > Daten > Bildungsgang`
+**Bildungsgang der Klasse**
+
+`Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -878,7 +908,9 @@ Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet d
 
 Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis Schwerpunkte.
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -949,7 +981,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0035)** `Klassen > Daten > Bildungsgang`
+**Bildungsgang der Klasse**
+
+`Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -957,7 +991,9 @@ Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet d
 
 Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis Schwerpunkte.
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -1036,7 +1072,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0035)** `Klassen > Daten > Bildungsgang`
+**Bildungsgang der Klasse**
+
+`Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -1044,7 +1082,9 @@ Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet d
 
 Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis Schwerpunkte.
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -1115,7 +1155,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0035)** `Klassen > Daten > Bildungsgang`
+**Bildungsgang der Klasse**
+
+`Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -1123,7 +1165,9 @@ Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet d
 
 Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis Schwerpunkte.
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -1194,7 +1238,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0035)** `Klassen > Daten > Bildungsgang`
+**Bildungsgang der Klasse**
+
+`Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -1202,7 +1248,9 @@ Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet d
 
 Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis Schwerpunkte.
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -2540,7 +2588,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -2605,7 +2653,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Zusatz | Zusatz | Zusatzqualifikation
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -2663,7 +2713,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -2799,7 +2849,7 @@ Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Dat
 
 Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -2873,7 +2923,7 @@ sons  | sonstige Bemerkungen
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -4155,7 +4205,9 @@ Auf dem Zeugnis kann wahlweise zwischen einer „Facharbeit“ und einer „Beso
 a)** Zur Ausgabe der „Besonderen Lernleistung“ müssen Sie im Menü Abitur > Prüfung im Bereich „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld "Thema" zu. Die Note für die besondere Lernleistung" im Block1 tragen Sie im 1. Notenfeld ganz links ein. Die Noten für Block2 tragen Sie in den 2 Notenfeldern daneben ein. 
 b)** Zur Ausgabe der „Facharbeit“ müssen Sie im Menü Abitur > Prüfung im Bereich "Projekt“ das entsprechende Fach zuweisen und das Optionsfeld „Projekt einbringen“ markieren. Das Thema des Projektes weisen Sie analog dem entsprechenden Feld im Feld "Thema" zu. Die Note für die Facharbeit" im Block1 tragen Sie im 1. Notenfeld ganz links ein. Die Noten für Block2 tragen Sie in den 2 Notenfeldern daneben ein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -4262,7 +4314,9 @@ FA | FA | Facharbeit
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -4282,17 +4336,21 @@ Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetrag
 Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
 markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Abitur >  Prüfung > Lernleistung, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0458)** Schüler > Zeugnis > Bemerkungen/Formulare
 
@@ -4385,7 +4443,9 @@ FA | FA | Facharbeit
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -4405,17 +4465,21 @@ Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetrag
 Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
 markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Abitur >  Prüfung > Lernleistung, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0458)** Schüler > Zeugnis > Bemerkungen/Formulare
 
@@ -4512,7 +4576,9 @@ FA | FA | Facharbeit
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -4532,17 +4598,21 @@ Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetrag
 Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
 markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Abitur >  Prüfung > Lernleistung, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0458)** Schüler > Zeugnis > Bemerkungen/Formulare
 
@@ -4661,7 +4731,9 @@ FA | FA | Facharbeit
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -4681,17 +4753,21 @@ Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetrag
 Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
 markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Abitur >  Prüfung > Lernleistung, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0458)** Schüler > Zeugnis > Bemerkungen/Formulare
 
@@ -4813,7 +4889,9 @@ FA | FA | Facharbeit
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -4833,17 +4911,21 @@ Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetrag
 Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
 markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Abitur >  Prüfung > Lernleistung, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0458)** Schüler > Zeugnis > Bemerkungen/Formulare
 
@@ -4912,7 +4994,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 ## RLP-GY-ABI (DIN A3 - 2. Seite ohne Wappen)2006.rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -4920,7 +5004,9 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -4995,7 +5081,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## RLP-GY-ABI (DIN A3 - 2. Seite)2006.rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -5003,7 +5091,9 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -5078,7 +5168,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## RLP-GY-ABI (DIN A3 ohne Logo)2006.rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -5086,7 +5178,9 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -5161,7 +5255,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## RLP-GY-ABI (DIN A3 ohne Wappen)2006.rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -5169,7 +5265,9 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -5244,7 +5342,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## RLP-GY-ABI (DIN A3)2006.rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -5252,7 +5352,9 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -5345,7 +5447,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 ## RLP-GY-ABI (DIN A4 - 2. Seite)2006.rp
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -5353,7 +5457,9 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -5428,7 +5534,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## RLP-GY-ABI (DIN A4)2006.rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -5436,7 +5544,9 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -5511,7 +5621,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## RLP-GY-ABI (DIN A4-altsprachlich)2006.rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -5519,7 +5631,9 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -5772,7 +5886,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 BL | BL | Besondere Lernleistung
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -6218,7 +6332,7 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -6283,7 +6397,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflichtfach
 Pflicht | Pflicht | Pflicht
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -6386,7 +6500,7 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -6396,7 +6510,9 @@ Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandan
 
 ## RLP-GY-Punktekreditkarte-2006.rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -6449,7 +6565,9 @@ GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
 LK | LK | Leistungskurse, Leistungsfächer
 FA | FA | Facharbeit
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
@@ -6541,7 +6659,9 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -6567,17 +6687,21 @@ Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Er
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
 und für "GK-Sozialkunde".
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0529)** Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)
 
@@ -7535,7 +7659,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -7553,7 +7679,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -7642,11 +7768,13 @@ Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -7729,11 +7857,13 @@ Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Beme
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -7822,11 +7952,13 @@ Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Beme
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.

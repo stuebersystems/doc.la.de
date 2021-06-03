@@ -32,9 +32,7 @@ PRAXIS | PRAXIS | Praxis
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -95,9 +93,7 @@ Tragen Sie im Menü Schüler > Ausbildung > Ausbildungsbetriebe in den Feldern "
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -174,9 +170,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -257,9 +251,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -333,9 +325,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -390,9 +380,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## BRA-BF-AS (mit Prüfungszulassung).rpt
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -489,9 +477,7 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -597,9 +583,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -808,9 +792,7 @@ Zeugnis der Fachhochschulreife des zweijährigen Bildungsganges in Vollzeitform 
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -1047,9 +1029,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Bescheinigung über die Teilnahme an einem Bildungsgang zur Vertiefung der Allgemeinbildung und Berufsorientierung (Berufsschule)
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -1130,9 +1110,7 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 ## BRA-BV-AS.rpt
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -1195,9 +1173,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 ## BRA-FO-AZ.rpt
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -1397,9 +1373,7 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Formblatt 09-Mitteilung über die Ergebnisse in den Abiturprüfungen
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -1510,9 +1484,7 @@ Tragen Sie die Durchschnittsnote und die Gesamtpunktzahl des jeweiligen Schüler
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -1643,9 +1615,7 @@ Zeugnis Klasse 11/ 2 Halbjahr; Zeugnis Klasse 12 und 13/ 1. und 2. Halbjahr
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -1758,9 +1728,7 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 ## BRA-GY-AZ (Abitur).rpt
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -1833,9 +1801,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## BRA-GY-AZ (Abitur-2010).rpt
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -1919,9 +1885,7 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü Abitur > Qualifikation die Grundlage für die Ausgabe. Es werden die Angaben in den Feldern "Durchschnitt" bzw. "Gesamtpunktzahl" verwendet.
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -2007,9 +1971,7 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -2056,9 +2018,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurs
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -2133,9 +2093,7 @@ Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweise
 
 Halbjahreszeugnis der gymnasialen Oberstufe
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -2259,9 +2217,7 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Zeugnis Klasse 11/1 Halbjahr
 
-**Ausdruck** 
-
-`Ausdruck`
+***Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 

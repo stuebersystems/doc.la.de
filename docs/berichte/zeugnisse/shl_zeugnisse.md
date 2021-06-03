@@ -89,7 +89,9 @@ Projekt | Projekt | Projekt
 WahlPF | WahlPF | Wahlpflichtunterricht
 ZusatzK | ZusatzK | Zusatzunterricht
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -149,7 +151,9 @@ Um auf dem Zeugnis die besondere Lernleistung einzutragen gehen Sie wie folgt vo
 2) Legen Sie unter Schlüsselverzeichnisse > Unterrichtsarten eine Unterrichtsart mit dem Kürzel BL an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
 3) Im Schlüsselverzeichnisse > Fachschwerpunkte geben Sie in der Spalte "Bezeichnung" das Thema der besonderen Lernleistung an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -157,9 +161,11 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0256)** Abitur > Qualifikation > Status (Fachhochschulreife berechnen)
 
@@ -200,7 +206,9 @@ Projekt | Projekt | Projekt
 WahlPF | WahlPF | Wahlpflichtunterricht
 ZusatzK | ZusatzK | Zusatzunterricht
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -264,7 +272,9 @@ Um auf dem Zeugnis die besondere Lernleistung einzutragen gehen Sie wie folgt vo
 
 Das Kleine Latinum wird auf dem Zeugnis ausgegeben, indem Sie unter Abitur > Prüfung > Sprachkenntnisse das Latinum und das Grosse Latinum gleichzeitig markieren.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -272,9 +282,11 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0256)** Abitur > Qualifikation > Status (Fachhochschulreife berechnen)
 
@@ -300,7 +312,9 @@ Für den Zeugnisdruck beachten Sie bitte auch alle Vorgaben/Hinweise gemäß uns
 
 ## SHL-GY-ABI (G9).rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -331,7 +345,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 4PF | 4PF | 4. Prüfungsfach (mündlich)
 5PF | 5PF | 5. Prüfungsfach (schriftlich oder Besondere Lernleistung oder Präsentationsprüfung)
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -380,9 +396,11 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0256)** Abitur > Qualifikation > Status (Fachhochschulreife berechnen)
 
@@ -406,7 +424,9 @@ Für den Fall, dass eine Fremdsprache im 1. Halbjahr eines laufenden Schuljahres
 
 ## SHL-GY-Abi (Leistungskarte 2011).rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -414,7 +434,9 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -440,7 +462,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 
 Weisen Sie die Kursnummer I, II, III usw. als "1", "2", "3" usw. im Menü Schüler > Zeugnis > Fächer  beim jeweiligen Fach im Feld "Kurs" zu.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -483,13 +507,15 @@ PeF | PeF | Profil ergänzendes Fach
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0239)** Ausdruck
+**Ausdruck** Ausdruck
 
 Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0245)** Schüler > Zeugnis > Fächer > Schwerpunkt
 
@@ -556,7 +582,9 @@ Das Kleine Latinum wird auf dem Zeugnis ausgegeben, indem Sie unter Abitur > Pr�
 
 ## SHL-GY-Abi (Leistungskarte).rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -564,7 +592,9 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -601,7 +631,9 @@ Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetrag
 Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
 markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Abitur >  Prüfung > Lernleistung, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -638,13 +670,15 @@ P-Kurs | P | Profil gebende Fach | Fach mit erhöhtem Anforderungsniveau
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0239)** Ausdruck
+**Ausdruck** Ausdruck
 
 Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0245)** Schüler > Zeugnis > Fächer > Schwerpunkt
 
@@ -810,7 +844,7 @@ Position | Fach
 21. | Mathe
 23. | Physik
 
-**(A0239)** Ausdruck
+**Ausdruck** Ausdruck
 
 Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
@@ -930,7 +964,7 @@ Position | Fach
 21. | Mathe
 23. | Physik
 
-**(A0239)** Ausdruck
+**Ausdruck** Ausdruck
 
 Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
@@ -1109,7 +1143,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -1155,7 +1191,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Das Kleine Latinum wird auf dem Zeugnis ausgegeben, indem Sie unter Abitur > Prüfung > Sprachkenntnisse das Latinum und das Grosse Latinum gleichzeitig markieren.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -1169,17 +1207,23 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 ## SHL-GY-AZ (A3).rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -1193,7 +1237,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -1222,9 +1268,11 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 E-Kurs E | E-Kurs | Fach mit erhöhtem Anforderungsniveau
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **Schulname** 
 
@@ -1253,7 +1301,9 @@ Das Kleine Latinum wird auf dem Zeugnis ausgegeben, indem Sie unter Abitur > Pr�
 
 ## SHL-GY-FHReife (2015).rpt
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -1288,7 +1338,9 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -1306,7 +1358,9 @@ Tragen Sie den Zeitraum für die Notenberechnung im Menü Abitur > Qualifikation
 
 ## SHL-GY-FHReife (G9).rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -1314,7 +1368,9 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -1372,7 +1428,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -1430,7 +1488,9 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -1497,7 +1557,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0239)** Ausdruck
+**Ausdruck** Ausdruck
 
 Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
@@ -1570,7 +1630,9 @@ Merkmal | Bedeutung
 Lern  |  Lernverhalten
 Schule |  Sozialverhalten
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -1630,7 +1692,9 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -1678,7 +1742,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 PeF | PeF | Profil ergänzendes Fach
 
-**(A0239)** Ausdruck
+**Ausdruck** Ausdruck
 
 Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
@@ -1699,7 +1763,9 @@ frei | sprach | sprachwissenschaftlich
 frei | sportl | sportwissenschaftlich
 frei | aesthet | ästhetisch
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -1729,7 +1795,9 @@ Um auf dem Zeugnis die besondere Lernleistung einzutragen gehen Sie wie folgt vo
 
 ## SHL-GY-Studienbuch (Qualifikationsphase - zweite Seite).rpt
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
@@ -1753,7 +1821,9 @@ Kürzel |  Schlüssel | Bezeichnung
 3 PF  | 3 PF  | 3. Prüfungsfach
 4 PF  | 4 PF  | 4. Prüfungsfach
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -1777,7 +1847,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-**(A0239)** Ausdruck
+**Ausdruck** Ausdruck
 
 Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 

@@ -10,8 +10,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.2)** 
-
 Kürzel |  Schlüssel | Bezeichnung
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -31,7 +29,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -70,7 +70,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 Weisen Sie unter  Schlüsselverzeichnisse > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis > Schwerpunkte.
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -105,7 +107,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -160,7 +164,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 Weisen Sie unter  Schlüsselverzeichnisse > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis > Schwerpunkte.
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -203,7 +209,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 Weisen Sie unter  Schlüsselverzeichnisse > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis > Schwerpunkte.
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -234,7 +242,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -265,7 +275,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -300,7 +312,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -347,7 +361,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -382,7 +398,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -429,7 +447,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -464,7 +484,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -502,7 +524,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 **(A0037.1)** `Schlüsselverzeichnis > Schwerpunkte UND Schlüsselverzeichnis > Bildungsgänge`
 
 Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` die Fachrichtung im Feld `Fachrichtung` zu. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachrichtungen`.
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -541,7 +565,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 Weisen Sie unter  Schlüsselverzeichnisse > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis > Schwerpunkte.
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -596,7 +622,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 Weisen Sie unter  Schlüsselverzeichnisse > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis > Schwerpunkte.
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -639,7 +667,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 Weisen Sie unter  Schlüsselverzeichnisse > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis > Schwerpunkte.
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 

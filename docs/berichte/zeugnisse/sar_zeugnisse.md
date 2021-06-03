@@ -11,8 +11,6 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**A0015.98** 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 VHZ | VHZ | Betragen, Mitarbeit, Arbeitshaltung, Teamfähigkeit
@@ -27,8 +25,6 @@ Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie könne
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-**(A0021.43)**
 
 Merkmal | Bedeutung
 --|--
@@ -62,7 +58,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -70,7 +66,9 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
 
-**(A0476)** `Mandanten > Daten 2 > Logo 1, Logo 2`
+**Logos der Schule**
+
+`Mandanten > Daten 2 > Logo 1, Logo 2`
 
 Die Landeswappen und/oder Ihr Schullogo können individuell auf dem Zeugnis ausgegeben werden:  
 Im Menü `Mandanten > Daten 2` können Sie ihre Landeswappen oder Ihre Schullogos im "jepg" Format hochladen. Damit es zu keiner Skalierung kommt beachten Sie dabei, dass Ihre Datei nach Möglichkeit 2,8 cm hoch wie breit sein sollte.
@@ -114,8 +112,6 @@ Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Beme
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.43)**
-
 Merkmal | Bedeutung
 --|--
 SchulA | Besondere schulische Aktivitäten
@@ -148,7 +144,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -156,7 +152,9 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandanten > Daten 1`  in den Feldern „Name 1“, „Name 2“ und „Name 3“ ein.
 
-**(A0476)** `Mandanten > Daten 2 > Logo 1, Logo 2`
+**Logos der Schule**
+
+`Mandanten > Daten 2 > Logo 1, Logo 2`
 
 Die Landeswappen und/oder Ihr Schullogo können individuell auf dem Zeugnis ausgegeben werden:  
 Im Menü `Mandanten > Daten 2` können Sie ihre Landeswappen oder Ihre Schullogos im "jepg" Format hochladen. Damit es zu keiner Skalierung kommt beachten Sie dabei, dass Ihre Datei nach Möglichkeit 2,8 cm hoch wie breit sein sollte.
@@ -823,7 +821,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -990,7 +988,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -1002,7 +1000,9 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Der 2ten Fremdsprache muss im Menü Schüler > Zeugnis > Fächer im Feld "Fachstatus" der Wert "WahlPF" zugewiesen werden. Siehe auch A0015. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
 
-**(A0476)** `Mandanten > Daten 2 > Logo 1, Logo 2`
+**Logos der Schule**
+
+`Mandanten > Daten 2 > Logo 1, Logo 2`
 
 Die Landeswappen und/oder Ihr Schullogo können individuell auf dem Zeugnis ausgegeben werden:  
 Im Menü `Mandanten > Daten 2` können Sie ihre Landeswappen oder Ihre Schullogos im "jepg" Format hochladen. Damit es zu keiner Skalierung kommt beachten Sie dabei, dass Ihre Datei nach Möglichkeit 2,8 cm hoch wie breit sein sollte.
@@ -1385,7 +1385,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -1431,7 +1431,9 @@ Diese Fächer weisen Sie bitte Menü `Schüler > Zeugnis > Fächer` zu und kennz
 
 Unter den Zeugnisbemerkungen wird dies automatisch ausgewiesen: „Zeugnisnote aus Klassenstufe…, da Unterricht in diesem Fach laut Stundentafel in Klassenstufe… nicht erteilt wurde.“
 
-**(A0476)** `Mandanten > Daten 2 > Logo 1, Logo 2`
+**Logos der Schule**
+
+`Mandanten > Daten 2 > Logo 1, Logo 2`
 
 Die Landeswappen und/oder Ihr Schullogo können individuell auf dem Zeugnis ausgegeben werden:  
 Im Menü `Mandanten > Daten 2` können Sie ihre Landeswappen oder Ihre Schullogos im "jepg" Format hochladen. Damit es zu keiner Skalierung kommt beachten Sie dabei, dass Ihre Datei nach Möglichkeit 2,8 cm hoch wie breit sein sollte.
@@ -1524,7 +1526,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0099)** `Schlüsselverzeichnis > Zeiträume > Art`
+***Ausgabe des Schulhalbjahres**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Art`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Art". Tragen Sie den von und bis Zeitraum unter "Von" und "Bis" ein.
 
@@ -1536,7 +1540,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0239)** `Ausdruck`
+**Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -1548,7 +1552,9 @@ Das Zeugnis gilt sowohl für das 1. und 2. Halbjahr. Der Versetzungstext wird nu
 
 Tragen Sie im Menü `Schüler > Zeugnis > Details` die Note für die Mitarbeit und Verhalten beim Schüler im aktuellen Zeitraum in den Feldern „Mitarbeit“ und „Verhalten“ ein. Grundlage für das Erfassen von Noten bildet das `Schlüsselverzeichnis > Noten`. Hier gelten die Eintragungen im Feld "alternativen Bezeichnungen".
 
-**(A0476)** `Mandanten > Daten 2 > Logo 1, Logo 2`
+**Logos der Schule**
+
+`Mandanten > Daten 2 > Logo 1, Logo 2`
 
 Die Landeswappen und/oder Ihr Schullogo können individuell auf dem Zeugnis ausgegeben werden:  
 Im Menü `Mandanten > Daten 2` können Sie ihre Landeswappen oder Ihre Schullogos im "jepg" Format hochladen. Damit es zu keiner Skalierung kommt beachten Sie dabei, dass Ihre Datei nach Möglichkeit 2,8 cm hoch wie breit sein sollte.

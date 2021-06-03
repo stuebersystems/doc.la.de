@@ -2145,7 +2145,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
@@ -2185,11 +2187,15 @@ Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0168)** `Schlüsselverzeichnisse > Noten > Füllwerte`
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte``
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach im Menü `Schüler > Zeugnis > Fächer` in der Spalte "Position" vergeben haben.
 
@@ -2199,11 +2205,9 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**(A0777)** `Schüler > Zeugnis > Bemerkungen/Formulare`
+**Platzhalter in Zeugnisbemerkungen** 
 
-`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
-
-`Berufsschule > Zeugnisbemerkungen`
+`Schüler > Zeugnis > Bemerkungen/Formulare`und `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` und `Berufsschule > Zeugnisbemerkungen`
 
 Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
@@ -2271,7 +2275,9 @@ Kürzel | Schlüssel | Bezeichnung
 BU | BU | Fachbezogener / Berufsbezogener Lernbereich (Unterricht)
 BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
@@ -2281,10 +2287,11 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Berufsschule > Matrix` im Feld "Gesamtnote" ein. Diese wird auch automatisch durch das Berufsschulskript berechnet und entsprechend hinterlegt.
 
-**(A0107)** `Berufsschule > Matrix > Gesamtnote`
+**Gesamtnote Berufsschulmatrix**
 
-Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü "Berufsschule" in der Registerkarte "Matrix" im Feld "Gesamtnote" ein. Diese wird auch automatisch durch das Berufsschulskript berechnet und entsprechend
-hinterlegt.
+`Berufsschule > Matrix > Gesamtnote`
+
+Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Berufsschule > Matrix` im Feld "Gesamtnote" ein. Diese wird auch automatisch durch das Berufsschulskript berechnet und entsprechend hinterlegt.
 
 **(A0113)** 
 
@@ -2311,7 +2318,9 @@ Tragen Sie das Datum des Abschlusszeugnisses im Menü `Berufsschule > Matrix` im
 
 Die Noten der Fächer tragen Sie im Menü `Berufsschule > Matrix` in der Spalte "Endnote" ein. Die Gewichtung der Note tragen Sie analog im Feld "Faktor" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0168)** `Schlüsselverzeichnisse > Noten > Füllwerte`
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte``
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -2320,7 +2329,9 @@ Kürzel | Bezeichnung | Notenart
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
 
-**(A0227)** `Schüler > Daten 2 > Zugang am/Abgang am BZW. 2. Zugang am/2. Abgang am`
+**Zugang am/Abgang am bzw. 2. Zugang am/2. Abgang am**
+
+`Schüler > Daten 2 > Zugang am/Abgang am bzw. 2. Zugang am/2. Abgang am`
 
 Ist das Feld "2. Zugang am" im Menü `Schüler > Daten 2` gefüllt, wird auf dem Zeugnis "2. Zugang am" und "2. Abgang am" ausgegeben, ansonsten "Zugang am" und "Abgang am".
 
@@ -2330,11 +2341,9 @@ Ist das Feld "2. Zugang am" im Menü `Schüler > Daten 2` gefüllt, wird auf dem
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**(A0777)* `Schüler > Zeugnis > Bemerkungen/Formulare`
+**Platzhalter in Zeugnisbemerkungen** 
 
-`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
-
-`Berufsschule > Zeugnisbemerkungen`
+`Schüler > Zeugnis > Bemerkungen/Formulare`und `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` und `Berufsschule > Zeugnisbemerkungen`
 
 Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
@@ -2365,11 +2374,15 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
 ``<<DemSchueler_DerSchuelerin>> `` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0851)** `Berufsschule > Matrix > Faktor`
+**Wochenstunden der Fächer pro Halbjahr**
+
+`Berufsschule > Matrix > Faktor`
 
 In den Feldern "J1 Faktor" bis "J9 Faktor" sind die Wochenstunden der Fächer pro Halbjahr eingetragen. Führen Sie über "Neu Berechnen" das Skript aus. Dieses ermittelt die Gesamtstunden der Ausbildungsjahre (der einzelen Halbjahre) durch Aufsummierung der Felder "J1 Faktor" bis "J9 Faktor") und überträgt diesen Wert in Feld "Faktor". Der Bericht fragt diesen Wert ab und überträgt ihn in das Feld "Gesamtstunden" auf dem Zeugnis.
 
-**(A0881) `Berufsschule > Matrix > Zeugnisdatum`
+**Zeugnisdatum**
+
+`Berufsschule > Matrix > Zeugnisdatum`
 
 Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Berufsschule > Matrix` gezogen.
 
@@ -2377,7 +2390,9 @@ Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeu
 
 Schul Z 502 – Zeugnis der Berufsschule über den mittleren Schulabschluss – (2 Seiten) – (09.19)
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe.
 
@@ -2387,7 +2402,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
 
-**(A0107)** `Berufsschule > Matrix > Gesamtnote`
+**Gesamtnote Berufsschulmatrix**
+
+`Berufsschule > Matrix > Gesamtnote`
 
 Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Berufsschule > Matrix` im Feld "Gesamtnote" ein. Diese wird auch automatisch durch das Berufsschulskript berechnet und entsprechend hinterlegt.
 
@@ -2395,12 +2412,12 @@ Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Berufsschule
 
 Das Zeugnis/der Bericht muss aus dem Menü `Berufsschule` gedruckt werden.
 
-**(A00116)** `Berufsschule > Zeugnisbemerkungen`
+**Zeugnisbemerkungen Bereich Berufsschule**
 
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Berufsschule > Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich
-für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
-"2" usw.
+`Berufsschule > Zeugnisbemerkungen`
+
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Berufsschule > Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
 **Schulname** 
 
@@ -2416,7 +2433,9 @@ Tragen Sie das Datum des Abschlusszeugnisses im Menü `Berufsschule > Matrix` im
 
 Tragen Sie das Datum des Abschlusszeugnisses im Menü `Berufsschule > Matrix` im Feld "Zeugnisdatum" ein.
 
-**(A0227)** `Schüler > Daten 2 > Zugang am/Abgang am BZW. 2. Zugang am/2. Abgang am`
+**Zugang am/Abgang am bzw. 2. Zugang am/2. Abgang am**
+
+`Schüler > Daten 2 > Zugang am/Abgang am bzw. 2. Zugang am/2. Abgang am`
 
 Ist das Feld "2. Zugang am" im Menü `Schüler > Daten 2` gefüllt, wird auf dem Zeugnis "2. Zugang am" und "2. Abgang am" ausgegeben, ansonsten "Zugang am" und "Abgang am".
 
@@ -2426,11 +2445,9 @@ Ist das Feld "2. Zugang am" im Menü `Schüler > Daten 2` gefüllt, wird auf dem
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**(A0777)** `Schüler > Zeugnis > Bemerkungen/Formulare`
+**Platzhalter in Zeugnisbemerkungen** 
 
-`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
-
-`Berufsschule > Zeugnisbemerkungen`
+`Schüler > Zeugnis > Bemerkungen/Formulare`und `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` und `Berufsschule > Zeugnisbemerkungen`
 
 Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
@@ -2457,7 +2474,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
 ``<<DemSchueler_DerSchuelerin>> `` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0852)** `Schüler > Laufbahn > Allgemein`
+**Ausreichende Fremdsprachenkenntnisse**
+
+`Schüler > Laufbahn > Allgemein`
 
 Ausreichende Fremdsprachenkenntnisse: Ob ein Schüler bei Berufsschulabschluss ausreichende Fremdsprachenkenntnisse besitzt, richtet sich nach dem Eintrag unter Ansicht `Schüler > Laufbahn > Allgemein` im Feld „Empfehlung“. Da dies ein Schlüsselfeld ist, müssen Sie unter `Schlüsselverzeichnisse > Empfehlungen` folgenden Eintrag definieren:
 
@@ -2467,14 +2486,18 @@ J | beliebig | Ausreichende Fremdsprachenkenntnisse
 
 Bei keinem Eintrag im Feld „Empfehlung“ hat der Schüler nicht ausreichende Fremdsprachenkenntnisse.
 
-**(A0853)** `BER-BBS-Matrix-2016.dws`
+**Berechnungsskript**
+
+`BER-BBS-Matrix-2016.dws`
 
 Um eine zeitraumübergreifenden Endnotenberechnung der Berufsschule in MAGELLAN auszuführen, lesen Sie bitte unsere Onlinedokumentation:
 
-https://doc.la.stueber.de/berufsschule/
-https://doc.la.stueber.de/03.ber/ber-bbs-matrix-2016dws/
+[https://doc.la.stueber.de/berufsschule/](https://doc.la.stueber.de/berufsschule/)
+[https://doc.la.stueber.de/03.ber/ber-bbs-matrix-2016dws/](https://doc.la.stueber.de/03.ber/ber-bbs-matrix-2016dws/)
 
-**(A0881)** `Berufsschule > Matrix > Zeugnisdatum`
+**Zeugnisdatum**
+
+`Berufsschule > Matrix > Zeugnisdatum`
 
 Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Berufsschule > Matrix` gezogen.
 
@@ -2482,7 +2505,9 @@ Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeu
 
 Schul Z 503 – Abgangszeugnis der Berufsschule – (2 Seiten) – (09.19)
 
-**(A0002)** `Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
+**Benotung in Klassen**
+
+`Klassen > Daten > Beurteilungsart > Benotung durch Noten` 
 
 Im Menü `Klassen > Daten` muss bei der Klasse des Schülers iim Feld Beurteilungsart "Noten" angegeben sein. (hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung)
 
@@ -2498,7 +2523,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflichtfach
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -2514,7 +2541,9 @@ Kürzel | Schlüssel | Bezeichnung
 BU | BU | Fachbezogener / Berufsbezogener Lernbereich (Unterricht)
 BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe.
 
@@ -2541,7 +2570,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
 
-**(A0168)** `Schlüsselverzeichnisse > Noten > Füllwerte`
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte``
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -2643,15 +2674,15 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **(A0150)** `Allgemein > Systemdatum`
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -2768,19 +2799,21 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -2879,9 +2912,9 @@ Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
@@ -3011,13 +3044,15 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -3025,7 +3060,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -3143,9 +3180,9 @@ Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum
 
 Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im Feld "schriftliche Note" abändern.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **(A0122. Abitur > Prüfung > Lernleistung
 
@@ -3217,9 +3254,9 @@ Platzhalter | Ausgabe im Bericht
 `<<Anrede4>>` | ihm/ihr (je nach Geschlecht des Schülers)
 `<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **(A0122. Abitur > Prüfung > Lernleistung
 
@@ -3602,7 +3639,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 10PF | 10PF | 10. Prüfungsfach
 11PF | 11PF | 11. Prüfungsfach
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -3613,7 +3652,9 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -3634,15 +3675,21 @@ FachT | FachT | Fachtheoretischer Bereich
 
 Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü `Abitur > Qualifikation` die Grundlage für die Ausgabe. Es werden die Angaben in den Feldern "Durchschnitt" bzw. "Gesamtpunktzahl" verwendet.
 
-**(A0035)** `Klassen > Daten > Bildungsgang`
+**Bildungsgang der Klasse**
+
+`Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0035.1.)** `Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1`
+**Schwerpunkt des Bildungsganges**
+
+`Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1`
 
 Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das `Schlüsselverzeichnis > Schwerpunkte`.
 
-**(A0035.3.)** `Schlüsselverzeichnis > Bildungsgänge > Fachrichtung`
+**Fachrichtung des Bildungsganges**
+
+`Schlüsselverzeichnis > Bildungsgänge > Fachrichtung`
 
 Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Feld "Fachrichtung" zu. Grundlage bildet das `Schlüsselverzeichnis > Fachrichtungen`.
 
@@ -3652,13 +3699,15 @@ Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Fel
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -3667,7 +3716,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
 **(A0201.)**
-`Schüler > Zeugnis > Fächer > Merkmal` bzw. 
+`Schüler > Zeugnis > Fächer > Merkmal` bzw.  
 
 `Abitur > Qualifikation > Merkmal`
 
@@ -3695,7 +3744,9 @@ Schul Z 510 (05.06)
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -3760,22 +3811,25 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0178)** `Klasse > Daten > Schulart`
+**Schulart der Klasse**
+
+`Klasse > Daten > Schulart`
 
 Tragen Sie im aktuellen Zeitraum im Menü Klasse > Daten die Schulfart im Feld "Schulart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`.
 
-**(A0201.)**
-`Schüler > Zeugnis > Fächer > Merkmal` bzw. 
+**Merkmal für Fächer**
 
-`Abitur > Qualifikation > Merkmal`
+`Schüler > Zeugnis > Fächer > Merkmal` bzw. `Abitur > Qualifikation > Merkmal`
 
-Für die richtige Ausgabe der 2. Fremdsprache verwenden Sie bei jedem Schüler im Menü `Schüler > Zeugnis` oder im Menü `Abitur > Qualifikation` in der Spalte "Merkmal" den Wert "2FS" zur Kennzeichnung der 2 Fremdsprache.
+Für die richtige Ausgabe der 2. Fremdsprache verwenden Sie bei jedem Schüler im Menü Schüler > Zeugnis oder im Menü Abitur > Qualifikation in der Spalte "Merkmal" den Wert "2FS" zur Kennzeichnung der 2 Fremdsprache.
 
 Eintrag in Feld "Merkmal" | Bedeutung
 --|--
 2FS | 2. Fremdsprache
 
-**(A0255)** `Klassen > Daten > Organisation`
+**Organisation der Klasse**
+
+`Klassen > Daten > Organisation`
 
 Tragen Sie die Vollzeit- bzw. Teilzeitform unter `Klassen > Daten > Organisation` ein. Grundlage bildet das `Schlüsselverzeichnis > Organisiationen`.
 
@@ -4262,7 +4316,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -4338,7 +4392,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -4429,9 +4483,9 @@ PRS |PRS |5. Prüfungskomponente Präsentationsprüfung
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schriftart** 
 
@@ -4502,9 +4556,9 @@ Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum
 
 Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im Feld "schriftliche Note" abändern.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **(A0122. Abitur > Prüfung > Lernleistung
 
@@ -4557,7 +4611,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 BLL |BLL |5. Prüfungskomponente Besondere Lernleistung 
 PRS |PRS |5. Prüfungskomponente Präsentationsprüfung
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -4613,15 +4669,19 @@ Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum
 
 Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im Feld "schriftliche Note" abändern.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**(A0131.)** `Schüler > Zeugnis > Details > Tutor`
+**TutorIn**
+
+`Schüler > Zeugnis > Details > Tutor`
 
 Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
@@ -4629,9 +4689,11 @@ Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0289)** `Mandaten > Daten 1 > Schulnummer`
 
@@ -4709,7 +4771,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 BLL |BLL |5. Prüfungskomponente Besondere Lernleistung 
 PRS |PRS |5. Prüfungskomponente Präsentationsprüfung
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -4765,15 +4829,19 @@ Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum
 
 Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im Feld "schriftliche Note" abändern.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**(A0131.)** `Schüler > Zeugnis > Details > Tutor`
+**TutorIn**
+
+`Schüler > Zeugnis > Details > Tutor`
 
 Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
@@ -4781,9 +4849,11 @@ Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0289)** `Mandaten > Daten 1 > Schulnummer`
 
@@ -4914,13 +4984,15 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -4928,7 +5000,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -5012,7 +5086,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 BLL |BLL |5. Prüfungskomponente Besondere Lernleistung 
 PRS |PRS |5. Prüfungskomponente Präsentationsprüfung
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -5051,13 +5127,15 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -5065,7 +5143,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -5198,7 +5278,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 BLL |BLL |5. Prüfungskomponente Besondere Lernleistung 
 PRS |PRS |5. Prüfungskomponente Präsentationsprüfung
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -5237,13 +5319,15 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -5251,7 +5335,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -5351,7 +5437,9 @@ Damit die dritte Fremdsprache Latein bei den Bemerkungen angezeigt werden müsse
 
 Schul Z 252 (01.07)
 
-**(A0002.)** `Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
+**Benotung in Klassen**
+
+`Klassen > Daten > Beurteilungsart > Benotung durch Noten` 
 
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein.
 Hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
@@ -5374,7 +5462,9 @@ Kürzel | Schlüssel | Bezeichnung
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -5511,7 +5601,9 @@ Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werde
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -5570,7 +5662,9 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Schul Z 303 (12.07)
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -5615,13 +5709,15 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -5629,7 +5725,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -5639,17 +5737,21 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 **Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0379)** `Abitur > Zeugnisbemerkungen > Merkmal (S_Lauf)`
 
@@ -5726,9 +5828,9 @@ Um das Seminarfach auszugeben, weisen Sie dem jeweiligen Fach im Schlüsselverze
 
 Schul Z 350
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **(A0175)** `Abitur > Qualifikation > Durchschnitt`
 
@@ -5738,7 +5840,9 @@ Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Abitur > Qua
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Qualifikation` im Feld "Zeugnisdatum" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -6106,7 +6210,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –unterricht
 3PF | 3PF | 3. Prüfungsfach
 4PF | 4PF | 4. Prüfungsfach
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -6155,9 +6261,11 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0252.)** `Schüler > Zeugnis > Fächer > Schwerpunkt`
 
@@ -6303,7 +6411,9 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -6426,7 +6536,9 @@ freiw | Text für die Teilnahme an freiwilligen Arbeitsgemeinschaften/Unterricht
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -6527,7 +6639,9 @@ usw. | usw.
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -6571,9 +6685,9 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Schul II 929-11a (01.09)
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schriftart** 
 
@@ -6747,7 +6861,9 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0131.)** `Schüler > Zeugnis > Details > Tutor`
+**TutorIn**
+
+`Schüler > Zeugnis > Details > Tutor`
 
 Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
@@ -6881,9 +6997,9 @@ Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
@@ -6973,7 +7089,9 @@ Kürzel | Schlüssel | Bezeichnung
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -7052,7 +7170,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -7130,7 +7248,9 @@ Kürzel | Schlüssel | Bezeichnung
 4 PF | 4 PF | 4. Prüfungsfach
 WahlPF | WahlPF | Wahlpflichtfach
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -7256,7 +7376,9 @@ Kürzel | Schlüssel | Bezeichnung
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -7317,7 +7439,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -7426,7 +7548,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -7481,7 +7605,9 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Schul Z 256 – Zeugnis des Gymnasiums über den mittleren Schulabschluss (10.18)
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+**Versetzung**
+
+`Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
@@ -7501,7 +7627,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –unterricht
 3PF | 3PF | 3. Prüfungsfach
 4PF | 4PF | 4. Prüfungsfach
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -7552,7 +7680,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0343.)** `Schüler > Zeugnis > Leistungen`
+**Benotung der Prüfungsfächer**
+
+`Schüler > Zeugnis > Leistungen`
 
 Die Noten der Prüfungsfächer tragen Sie wie folgt ein:
 Im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Leistungen`
@@ -7645,7 +7775,9 @@ Schul Z 102 (11.10)
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+**Versetzung**
+
+`Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
@@ -7676,7 +7808,7 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -8009,7 +8141,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -8260,7 +8392,9 @@ Merkmal | Bedeutung
 --|--
 AG | Teilnahme an folgenden Arbeitsgemeinschaften
 
-**(A0021)** `Beiblatt`
+**Bemerkungstext zur Ausgabe eines Beiblattes** 
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
 Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
 
@@ -8364,11 +8498,15 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0815)** `Schüler > Zeugnis > Bemerkungen/Formulare`
+**Zeugnisbemerkungen**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Die Bemerkung "Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten - in der Anlage zu diesem Zeugnis berurteilt - nicht berurteilt-." wird vom Bericht automatisch eingetragen.
 
-**(A0816)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal`
+**Zeugnisbemerkungen für Arbeits- und Sozialverhalten**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal`
 
 Um die korrekte Bemerkung über das Arbeits- und Sozialverhalten zu generieren, legen Sie, falls das Arbeits- und Sozialverhalten beurteilt werden soll, eine Zeugnisbemerkung mit dem Merkmal „ASV1“, „ASV2“ oder „ASV12“ an. Damit wird die entsprechende Bemerkung generiert und ermittelt um welches Schuljahr es sich handelt, worauf sich Ihre Informationen über das „Arbeits- und Sozialverhalten“ beziehen, was für andere Zeugnisse relevant sein kann. Beachten Sie dabei: 
 
@@ -8380,7 +8518,9 @@ ASV12 | 1. und 2. HJ
 
 Wird das Arbeits- und Sozialverhalten des Schülers nicht beurteilt, weisen Sie dem Schüler keine Bemerkung mit dem Merkmal „ASV1“, „ASV2“ oder „ASV12“ zu. Der entsprechende Vermerk wird auch dann ausgegeben.
 
-**(A0817)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Um Noten den jeweiligen Fächer zuzuordnen, verwenden Sie für die Fächer folgende Positionen:
 
@@ -8406,7 +8546,9 @@ Sport | 17
 Wahlpflichtfach eins oder Informationstechnischen Grundkurs | 30
 Wahlpflichtfach zwei7drei oder Informationstechnischen Grundkurs | 31 
 
-**A0839** `Schüler > Zeugnis > Leistungen > Deutsch`
+**Benotung im Fach "Deutsch"**
+
+`Schüler > Zeugnis > Leistungen`
 
 Deutsch erhält eine Note für den "allgemeinen Teil", "schriftliche Leistungen" und eine "Gesamtnote". Tragen Sie daher im Menü `Schüler > Zeugnis > Leistungen` für das Fach "Deutsch" die Noten in folgende Felder: 
 
@@ -8416,7 +8558,9 @@ Gesamtnote | Spalte "Endote"
 allgemeiner Teil | Spalte "Schriftl. Note 4"
 Mündliche Note | Spalte "Mündl. Note"
 
-**A0840** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Um Noten den jeweiligen Fächer zuzuordnen, verwenden Sie für die Fächer folgende Positionen:
 
@@ -8448,7 +8592,9 @@ Wahlpflichtfach drei oder Informationstechnischen Grundkurs | 34
 
   Eine falsche Positionierung der Fächer ordnet den Fächern eine falsche oder keine Note zu. Das Fach wird trotzdem angezeigt.
 
-**A0941** `Schüler > Zeugnis > Bemerkungen / Formulare`
+**Zeugnisbemerkungen**
+
+`Schüler > Zeugnis > Bemerkungen / Formulare`
 
 Für Schüler und Schülerinnen der Jahrgangsstufe 7 an Gymnasien werden im SJ 2020/2021 keine Versetzungsentscheidungen getroffen. Aus diesem Grund ist dieses abweichende Zeugnis (**Schul Z 250 Co**) zu verwenden, auf diesem sind gesonderte Zeugnisvermerke einzutragen.
 
@@ -8461,7 +8607,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
 `<<VornameV>>` | Vorname Vorname2
 
-**A0942** `Sonstiges`
+**Verkmerk**
 
 Im 2. HJ des Zeugnisses wird bei allen Schülern der Vermerk "Sie / Er rückt auf in die Jahrgangstufe 8." ausgegeben.
 
@@ -8493,7 +8639,9 @@ Merkmal | Bedeutung
 --|--
 AG | Teilnahme an folgenden Arbeitsgemeinschaften
 
-**(A0021)** `Beiblatt`
+**Bemerkungstext zur Ausgabe eines Beiblattes** 
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
 Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
 
@@ -8603,11 +8751,15 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0815)** `Schüler > Zeugnis > Bemerkungen/Formulare`
+**Zeugnisbemerkungen**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Die Bemerkung "Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten - in der Anlage zu diesem Zeugnis berurteilt - nicht berurteilt-." wird vom Bericht automatisch eingetragen.
 
-**(A0816)** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal`
+**Zeugnisbemerkungen für Arbeits- und Sozialverhalten**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal`
 
 Um die korrekte Bemerkung über das Arbeits- und Sozialverhalten zu generieren, legen Sie, falls das Arbeits- und Sozialverhalten beurteilt werden soll, eine Zeugnisbemerkung mit dem Merkmal „ASV1“, „ASV2“ oder „ASV12“ an. Damit wird die entsprechende Bemerkung generiert und ermittelt um welches Schuljahr es sich handelt, worauf sich Ihre Informationen über das „Arbeits- und Sozialverhalten“ beziehen, was für andere Zeugnisse relevant sein kann. Beachten Sie dabei: 
 
@@ -8619,7 +8771,9 @@ ASV12 | 1. und 2. HJ
 
 Wird das Arbeits- und Sozialverhalten des Schülers nicht beurteilt, weisen Sie dem Schüler keine Bemerkung mit dem Merkmal „ASV1“, „ASV2“ oder „ASV12“ zu. Der entsprechende Vermerk wird auch dann ausgegeben.
 
-**(A0817)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Um Noten den jeweiligen Fächer zuzuordnen, verwenden Sie für die Fächer folgende Positionen:
 
@@ -8645,7 +8799,9 @@ Sport | 17
 Wahlpflichtfach eins oder Informationstechnischen Grundkurs | 30
 Wahlpflichtfach zwei7drei oder Informationstechnischen Grundkurs | 31 
 
-**(A0839)** `Schüler > Zeugnis > Leistungen > Deutsch`
+**Benotung im Fach "Deutsch"**
+
+`Schüler > Zeugnis > Leistungen`
 
 Deutsch erhält eine Note für den "allgemeinen Teil", "schriftliche Leistungen" und eine "Gesamtnote". Tragen Sie daher im Menü `Schüler > Zeugnis > Leistungen` für das Fach "Deutsch" die Noten in folgende Felder: 
 
@@ -8655,7 +8811,9 @@ Gesamtnote | Spalte "Endote"
 allgemeiner Teil | Spalte "Schriftl. Note 4"
 Mündliche Note | Spalte "Mündl. Note"
 
-**(A0840)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Um Noten den jeweiligen Fächer zuzuordnen, verwenden Sie für die Fächer folgende Positionen:
 
@@ -8691,7 +8849,9 @@ Wahlpflichtfach drei oder Informationstechnischen Grundkurs | 34
 
 Schul Z 251b – Zeugnis des Gymnasiums über den mittleren Schulabschluss – (05.16)
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+**Versetzung**
+
+`Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
@@ -8711,7 +8871,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –unterricht
 3PF | 3PF | 3. Prüfungsfach
 4PF | 4PF | 4. Prüfungsfach
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -8749,13 +8911,17 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
 
-**(A0241)** `Abitur > Prüfung`
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+**Sprachkenntnisse** 
+
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0318)** `Schüler > Zeugnis > Leistungen`
 
@@ -8820,7 +8986,9 @@ Platzhalter | Ausgabe im Bericht
 `<<Anrede4>>` | ihm/ihr (je nach Geschlecht des Schülers)
 `<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
 
-**(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
+**vorgegebene Sprachreferenzen**
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -8837,7 +9005,9 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 
-**(A0739)** `Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+**Fremdsprachennachweise**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
@@ -8884,7 +9054,9 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers die Klassenstufe auf der Registerkarte **Zeiträume > Zeitraum** im Feld "Klassenstufe" eingetragen sein.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -8963,7 +9135,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -9028,7 +9200,9 @@ Freie Fächer müssen positioniert werden, vergeben Sie dazu im Feld "Position" 
 
 Schul Z 255 – Zeugnis des Gymnasiums über die erweiterte Berufsbildungsreife (10.18)
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+**Versetzung**
+
+`Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
@@ -9048,7 +9222,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –unterricht
 3PF | 3PF | 3. Prüfungsfach
 4PF | 4PF | 4. Prüfungsfach
 
-**(A0018)**` Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am**
+
+` Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -9100,7 +9276,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0343.)** `Schüler > Zeugnis > Leistungen`
+**Benotung der Prüfungsfächer**
+
+`Schüler > Zeugnis > Leistungen`
 
 Die Noten der Prüfungsfächer tragen Sie wie folgt ein:
 Im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Leistungen`
@@ -9179,7 +9357,7 @@ Ist eine solche Zeugnisbemerkung mit diesem Merkmal "LAT" beim Schüler nicht ei
 
 Schul Z 255 – Zeugnis des Gymnasiums über die erweiterte Berufsbildungsreife (2019/2020) / (2020/2021)
 
-**Schülerlaufbahn**
+**Versetzung**
 
 `Schueler > Laufbahn > Allgemein > Versetzt`
 
@@ -9610,7 +9788,7 @@ Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuelle
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -9650,7 +9828,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0812.)** `Schüler > Zeugnis > Fächer`
+**Gliederung der Fächer** 
+
+`Schüler > Zeugnis > Fächer`
 
 Gliederung Pflichtunterricht, Wahlpflichtunterricht und Wahlunterricht (BER):
 Im Zeugnis werden die Fächer wie folgt ausgegeben:
@@ -9697,7 +9877,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021)** `Beiblatt`
+**Bemerkungstext zur Ausgabe eines Beiblattes** 
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
 Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
 
@@ -9782,7 +9964,7 @@ Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuelle
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -9792,13 +9974,9 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**(A0777)** 
+**Platzhalter in Zeugnisbemerkungen** 
 
-`Schüler > Zeugnis > Bemerkungen/Formulare`
-
-`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
-
-`Berufsschule > Zeugnisbemerkungen`
+`Schüler > Zeugnis > Bemerkungen/Formulare`und `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` und `Berufsschule > Zeugnisbemerkungen`
 
 Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
 Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B. So `<<hier steht Ihr Platzhalter>>`. 
@@ -9825,7 +10003,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0812.)** `Schüler > Zeugnis > Fächer`
+**Gliederung der Fächer** 
+
+`Schüler > Zeugnis > Fächer`
 
 Gliederung Pflichtunterricht, Wahlpflichtunterricht und Wahlunterricht (BER):
 Im Zeugnis werden die Fächer wie folgt ausgegeben:
@@ -9873,7 +10053,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0104)** `Schüler > Daten 2 > Abgang > Abgang am`
+**Abgang am**
+
+`Schüler > Daten 2 > Abgang > Abgang am`
 
 Tragen Sie das Abgangsdatum im Menü "Schüler" im aktuellen Zeitraum auf der Registerkarte "Zugang/Abgang" im Feld "Abgang am" ein.
 Unterschieden werden 3 Fälle:
@@ -9907,11 +10089,13 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 **Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
+**vorgegebene Sprachreferenzen**
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -9928,7 +10112,9 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 
-**(A0739)** `Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+**Fremdsprachennachweise**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
@@ -9939,7 +10125,9 @@ Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefi
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**(A0744)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung** 
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Nummieren Sie die Positionen der Fächer fortlaufend. 
 Der Bericht setzt die Fächer entsprechend dieser Nummerierung auf zwei Spalten unter Berücksichtigung der max. Anzahl von Fächern pro Spalte laut Senatsvorlage.
@@ -9986,7 +10174,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0104)** `Schüler > Daten 2 > Abgang > Abgang am`
+**Abgang am**
+
+`Schüler > Daten 2 > Abgang > Abgang am`
 
 Tragen Sie das Abgangsdatum im Menü "Schüler" im aktuellen Zeitraum auf der Registerkarte "Zugang/Abgang" im Feld "Abgang am" ein.
 Unterschieden werden 3 Fälle:
@@ -10022,11 +10212,13 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
+**vorgegebene Sprachreferenzen**
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -10043,7 +10235,9 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 
-**(A0739)** `Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+**Fremdsprachennachweise**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
@@ -10084,7 +10278,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0812.)** `Schüler > Zeugnis > Fächer`
+**Gliederung der Fächer** 
+
+`Schüler > Zeugnis > Fächer`
 
 Gliederung Pflichtunterricht, Wahlpflichtunterricht und Wahlunterricht (BER):
 Im Zeugnis werden die Fächer wie folgt ausgegeben:
@@ -10122,7 +10318,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021)** `Beiblatt`
+**Bemerkungstext zur Ausgabe eines Beiblattes** 
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
 Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
 
@@ -10155,7 +10353,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0104)** `Schüler > Daten 2 > Abgang > Abgang am`
+**Abgang am**
+
+`Schüler > Daten 2 > Abgang > Abgang am`
 
 Tragen Sie das Abgangsdatum im Menü "Schüler" im aktuellen Zeitraum auf der Registerkarte "Zugang/Abgang" im Feld "Abgang am" ein.
 Unterschieden werden 3 Fälle:
@@ -10190,13 +10390,23 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0382)**
+**Freiwillige Unterrichtsveranstaltungen**
 
-**(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
+
+Für die Ausgabe freiwilliger Unterrichtsveranstaltungen tragen Sie im Menü `Schüler > Zeugnis` eine Zeugnisbemerkung ein. Entscheidend ist die Eingabe in der Spalte „Merkmal“. Hier müssen Sie "freiw" eintragen.
+
+Merkmal | Bedeutung
+--|--
+freiw | Freiwillige Unterrichtsveranstaltungen
+
+**vorgegebene Sprachreferenzen**
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -10213,7 +10423,9 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 
-**(A0739)** `Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+**Fremdsprachennachweise**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
@@ -10254,7 +10466,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 `<<DemSchueler_DerSchuelerin>>` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0812.)** `Schüler > Zeugnis > Fächer`
+**Gliederung der Fächer** 
+
+`Schüler > Zeugnis > Fächer`
 
 Gliederung Pflichtunterricht, Wahlpflichtunterricht und Wahlunterricht (BER):
 Im Zeugnis werden die Fächer wie folgt ausgegeben:
@@ -10271,7 +10485,9 @@ Schul Z 302 – Zeugnis der Qualifikationsphase der gymnasialen Oberstufe (Gymna
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -10352,7 +10568,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -10442,7 +10658,9 @@ Schul Z 302 - Zeugnis der Qualifikationsphase der gymnasialen Oberstufe (Gymnasi
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -10475,7 +10693,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021)** `Beiblatt`
+**Bemerkungstext zur Ausgabe eines Beiblattes** 
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
 Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
 
@@ -10546,7 +10766,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -10590,13 +10810,9 @@ Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Fel
 
 Bitte versehen Sie Ihre Fächer im Schlüsselverzeichnis > Fächer in Spalte "Kategorie" mit den dafür vorgesehenen Kategorien. Fremdsprachen weisen Sie aus dem Pull-Down-Menü „Fremdsprache“ zu.
 
-**(A0777)** 
+**Platzhalter in Zeugnisbemerkungen** 
 
-`Schüler > Zeugnis > Bemerkungen/Formulare`
-
-`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
-
-`Berufsschule > Zeugnisbemerkungen`
+`Schüler > Zeugnis > Bemerkungen/Formulare`und `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` und `Berufsschule > Zeugnisbemerkungen`
 
 Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
 Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B. So `<<hier steht Ihr Platzhalter>>`. 
@@ -10648,7 +10864,9 @@ Schul Z 302 (12.07)
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -10722,7 +10940,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -10750,7 +10968,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 303 - Abgangszeugnis Qualifikationsphase (GymnasiumISSberufliches Gymnasium) - 05.16
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -10795,13 +11015,15 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -10809,19 +11031,23 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0379)** ``Abitur > Zeugnisbemerkungen > Merkmal (S_Lauf)``
 
@@ -10865,7 +11091,9 @@ Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kate
 
 Um das Seminarfach auszugeben, weisen Sie dem jeweiligen Fach im Schlüsselverzeichnis > Fächer im Feld "Kategorie" den Eintrag "Seminar" zu. 
 
-**(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
+**vorgegebene Sprachreferenzen**
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -10890,7 +11118,9 @@ Sie müssen für jeden Schüler die Abiturordnung angeben, die für ihn relevant
 Integrierter Sekundarschule tragen bitte in Spalte "Ab Jahrgang" eine 11 ein.
 Gymnasien tragen bitte in Spalte "Ab Jahrgang" eine 10 ein.
 
-**(A0739)** `Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+**Fremdsprachennachweise**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
@@ -10901,7 +11131,9 @@ Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefi
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**(A0742)** `Schüler > Daten 3 > Fremdsprachenfolge > von / bis `
+**Fremdsprachenfolge** 
+
+`Schüler > Daten 3 > Fremdsprachenfolge > von/bis`
 
 Teilnahme am Unterricht in Fremdsprachen in der gesamten Schullaufbahn: 
 Tragen Sie die Klassenstufe Von/Bis- der belegten Fremdsprachen im Menü `Schüler > Daten 3 > Fremdsprachenfolge` in den Feldern „von" und "bis“ ein. 
@@ -10916,7 +11148,9 @@ Eingaben | Ausgabe im Bericht
 131 | ausgegeben wird 13/1
 132 | ausgegeben wird 13/2
 
-**(A0744)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung** 
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Nummieren Sie die Positionen der Fächer fortlaufend. 
 Der Bericht setzt die Fächer entsprechend dieser Nummerierung auf zwei Spalten unter Berücksichtigung der max. Anzahl von Fächern pro Spalte laut Senatsvorlage.
@@ -10925,7 +11159,9 @@ Der Bericht setzt die Fächer entsprechend dieser Nummerierung auf zwei Spalten 
 
 Schul Z 303 - Abgangszeugnis der Qualifikationsphase (Gymnasium, ISS, Gemeinschaftsschule, berufliches Gymnasium) – (10.18)
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -10968,13 +11204,15 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
@@ -10987,19 +11225,23 @@ Fach eine Position in der Spalte "Position" angegeben werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 **Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0379)** `Abitur > Zeugnisbemerkungen > Merkmal (S_Lauf)`
 
@@ -11039,7 +11281,9 @@ Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kate
 |SportTheorie|
 |Seminar|
 
-**(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
+**vorgegebene Sprachreferenzen**
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -11064,7 +11308,9 @@ Sie müssen für jeden Schüler die Abiturordnung angeben, die für ihn relevant
 Integrierter Sekundarschule tragen bitte in Spalte "Ab Jahrgang" eine 11 ein.
 Gymnasien tragen bitte in Spalte "Ab Jahrgang" eine 10 ein.
 
-**(A0739)** `Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+**Fremdsprachennachweise**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
@@ -11075,7 +11321,9 @@ Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefi
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**(A0744)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung** 
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Nummieren Sie die Positionen der Fächer fortlaufend. 
 Der Bericht setzt die Fächer entsprechend dieser Nummerierung auf zwei Spalten unter Berücksichtigung der max. Anzahl von Fächern pro Spalte laut Senatsvorlage.
@@ -11084,7 +11332,9 @@ Der Bericht setzt die Fächer entsprechend dieser Nummerierung auf zwei Spalten 
 
 Schul Z 303 - Abgangszeugnis der Qualifikationsphase (Gymnasium, ISS, Gemeinschaftsschule, berufliches Gymnasium) – (11.19)
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -11122,7 +11372,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021)** `Beiblatt`
+**Bemerkungstext zur Ausgabe eines Beiblattes** 
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
 Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
 
@@ -11149,13 +11401,15 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
@@ -11168,7 +11422,9 @@ Fach eine Position in der Spalte "Position" angegeben werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -11176,13 +11432,15 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" 
 
 Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0379)** `Abitur > Zeugnisbemerkungen > Merkmal (S_Lauf)`
 
@@ -11222,7 +11480,9 @@ Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kate
 |SportTheorie|
 |Seminar|
 
-**(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
+**vorgegebene Sprachreferenzen**
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -11250,7 +11510,9 @@ Wer|eintrag in der Spalte `Jahrgang`
 Gymnasien (Abi nach JG 12, G8) |10
 Integrierter Sekundarschule (Abi nach JG 13, G9)|11
 
-**(A0739)** `Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+**Fremdsprachennachweise**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. 
@@ -11265,7 +11527,9 @@ Diese werden nicht ausgegeben.
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**(A0744)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung** 
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Nummieren Sie die Positionen der Fächer fortlaufend. 
 Der Bericht setzt die Fächer entsprechend dieser Nummerierung auf zwei Spalten unter Berücksichtigung der max. Anzahl von Fächern pro Spalte laut Senatsvorlage.
@@ -11295,7 +11559,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 BLL |BLL |5. Prüfungskomponente Besondere Lernleistung 
 PRS |PRS |5. Prüfungskomponente Präsentationsprüfung
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -11334,14 +11600,15 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0081)** `Abitur > Zeugnis > Zeugnisbemerkungen > Position`
+**Positionierung der Zeugnisbemerkungen** 
 
-Zum Eintragen einer Zeugnisbemerkung muss im Abitur > Zeugnis > Zeugnisbemerkungen im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
-eine "1", für die zweite eine "2" usw.
+`Abitur > Zeugnis > Zeugnisbemerkungen > Position`
 
-**(A0111)** 
+Zum Eintragen einer Zeugnisbemerkung muss im Bereich `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung eine "1", für die zweite eine "2" usw.
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+`Ausdruck`
+
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -11349,13 +11616,17 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0459)** `Schlüsselverzeichnisse > Fächer > Kategorie`
 
@@ -11408,7 +11679,9 @@ Damit die dritte Fremdsprache Latein bei den Bemerkungen angezeigt werden müsse
 2. Latein muss zwischen der 7. Klasse und der 10. Klasse belegt worden sein. Tragen Sie die entsprechenden Schuljahre in den Feldern „von“ und „bis“ im Menü Schüler > Daten 3 ein. 
 3. „Latinum“ darf im Menü >Abitur im Bereich "Sprachkenntnisse" NICHT markiert sein.
 
-**(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
+**vorgegebene Sprachreferenzen**
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -11465,7 +11738,9 @@ beliebig | 25 | ** | * | -
 ** Bitte beachten Sie bei der Zuwesiung des Aufgabenbereiches (Schlüsselverzeichnis > Fächer, Spalte "Aufgabenbereich")** die Anmerkung **A0017.5**
  Bitte füllen Sie bei den Fremdsprachen im Schlüsselverzeichnis > Fächer, die Spalte "Merkmal" wie vorgegeben.
 
-**(A0739)** `Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+**Fremdsprachennachweise**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
@@ -11495,7 +11770,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 BLL |BLL |5. Prüfungskomponente Besondere Lernleistung 
 PRS |PRS |5. Prüfungskomponente Präsentationsprüfung
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -11539,9 +11816,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 Zum Eintragen einer Zeugnisbemerkung muss im `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -11549,7 +11826,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -11608,7 +11887,9 @@ Damit die dritte Fremdsprache Latein bei den Bemerkungen angezeigt werden müsse
 2. Latein muss zwischen der 7. Klasse und der 10. Klasse belegt worden sein. Tragen Sie die entsprechenden Schuljahre in den Feldern „von“ und „bis“ im Menü Schüler > Daten 3 ein. 
 3. „Latinum“ darf im Menü >Abitur im Bereich "Sprachkenntnisse" NICHT markiert sein.
 
-**(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
+**vorgegebene Sprachreferenzen**
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -11665,7 +11946,9 @@ beliebig | 25 | ** | * | -
 ** Bitte beachten Sie bei der Zuwesiung des Aufgabenbereiches (Schlüsselverzeichnis > Fächer, Spalte "Aufgabenbereich")** die Anmerkung A0017.5
 *** Bitte füllen Sie bei den Fremdsprachen im Schlüsselverzeichnis >Fächer, die Spalte "Merkmal" wie vorgegeben.
 
-**(A0739)** `Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+**Fremdsprachennachweise**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
@@ -11924,7 +12207,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 BLL |BLL |5. Prüfungskomponente Besondere Lernleistung 
 PRS |PRS |5. Prüfungskomponente Präsentationsprüfung
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -11951,7 +12236,9 @@ Z | Z | Zusatz-/Ergänzungskurs
 ME | ME | Musik Ensemble
 
 
-**(A0021)** `Beiblatt`
+**Bemerkungstext zur Ausgabe eines Beiblattes** 
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
 Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
 
@@ -11966,7 +12253,9 @@ Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt 
 Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
 
 
-**(A0021)** `Beiblatt`
+**Bemerkungstext zur Ausgabe eines Beiblattes** 
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
 Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
 
@@ -11998,13 +12287,15 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 Zum Eintragen einer Zeugnisbemerkung muss im Abitur > Zeugnis > Zeugnisbemerkungen im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
@@ -12017,13 +12308,17 @@ Fach eine Position in der Spalte "Position" angegeben werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0459)** `Schlüsselverzeichnisse > Fächer > Kategorie`
 
@@ -12068,7 +12363,9 @@ Die "besondere Lernleistung" kann auch eines der ersten 4 Prüfungsfächer sein.
 
 Falls die Besondere Lernleistung nicht eines der Prüfungsfächer 1.-4. ist, weisen Sie dem Fach den Fachstatus "BLL" zu und führen das entsprechende Skript aus. Im Menü Abitur > Prüfung im Feld „5. PF“ das jeweilige Fach automatisch eingetragen. Sie müssen nun nur noch die Gesamtnote im Feld "mündliche Note" eintragen.
 
-**(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
+**vorgegebene Sprachreferenzen**
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -12085,7 +12382,9 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 
-**(A0739)** `Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+**Fremdsprachennachweise**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
@@ -12302,7 +12601,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 BLL |BLL |5. Prüfungskomponente Besondere Lernleistung 
 PRS |PRS |5. Prüfungskomponente Präsentationsprüfung
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -12328,7 +12629,9 @@ GK | GK | Grundkurse
 Z | Z | Zusatz-/Ergänzungskurs
 ME | ME | Musik Ensemble
 
-**(A0021)** `Beiblatt`
+**Bemerkungstext zur Ausgabe eines Beiblattes** 
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
 Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
 
@@ -12360,13 +12663,15 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 Zum Eintragen einer Zeugnisbemerkung muss im Abitur > Zeugnis > Zeugnisbemerkungen im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
@@ -12379,13 +12684,17 @@ Fach eine Position in der Spalte "Position" angegeben werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0459)** `Schlüsselverzeichnisse > Fächer > Kategorie`
 
@@ -12430,7 +12739,9 @@ Die "besondere Lernleistung" kann auch eines der ersten 4 Prüfungsfächer sein.
 
 Falls die Besondere Lernleistung nicht eines der Prüfungsfächer 1.-4. ist, weisen Sie dem Fach den Fachstatus "BLL" zu und führen das entsprechende Skript aus. Im Menü Abitur > Prüfung im Feld „5. PF“ das jeweilige Fach automatisch eingetragen. Sie müssen nun nur noch die Gesamtnote im Feld "mündliche Note" eintragen.
 
-**(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
+**vorgegebene Sprachreferenzen**
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -12447,7 +12758,9 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 
-**(A0739)** `Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+**Fremdsprachennachweise**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
@@ -12456,7 +12769,9 @@ Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefi
 
 Schul Z 350 (10.07)
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -12476,9 +12791,9 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -12510,7 +12825,9 @@ Setzen Sie im Menü Abitur > Qualifikation den Eintrag unter "Status"auf "Fachho
 
 Schul Z 351 – Bescheinigung über den schulischen Teil der Fachhochschulreife - gymnasiale Oberstufe, Kollegs und Abendgymnasien (10.18)
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -12525,9 +12842,9 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -12561,7 +12878,9 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Qualifikation` im Feld "Zeugnisda
 
 Schul Z 351 – Bescheinigung über den schulischen Teil der Fachhochschulreife - gymnasiale Oberstufe, Kollegs und Abendgymnasien (10.18)
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -12576,9 +12895,9 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -12612,7 +12931,9 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Qualifikation` im Feld "Zeugnisda
 
 Schul Z 351 – Bescheinigung über den schulischen Teil der Fachhochschulreife - gymnasiale Oberstufe, Kollegs und Abendgymnasien (11.19)** / Kollegs
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -12627,9 +12948,9 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -12663,7 +12984,9 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Qualifikation` im Feld "Zeugnisda
 
 Schul Z 351 – Bescheinigung über den schulischen Teil der Fachhochschulreife - gymnasiale Oberstufe, Kollegs und Abendgymnasien (11.19)** / Oberstufe
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -12678,9 +13001,9 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -12784,7 +13107,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -12834,7 +13157,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 534 (12.13)
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -12851,9 +13176,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflicht
 FachT | FachT | Fachtheoretischer Bereich
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **(A0217)** Abitur > Qualifikation
 
@@ -12924,7 +13249,7 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -12950,7 +13275,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0021)** `Beiblatt`
+**Bemerkungstext zur Ausgabe eines Beiblattes** 
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
 Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
 
@@ -12966,11 +13293,13 @@ Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt
 
 ### Schülerliste Berufsschulmatrix BS-BER mit Meldungen.rpt
 
-**(A0113)** 
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Berufsschule" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Berufsschule` gedruckt werden.
 
-**(A0148)**` Berufsschule > Matrix > Zeugnisdatum`
+**Zeugnisdatum**
+
+`Berufsschule > Matrix > Zeugnisdatum`
 
 Tragen Sie das Datum des Abschlusszeugnisses im Menü `Berufsschule > Matrix` im Feld "Zeugnisdatum" ein.
 
@@ -12990,7 +13319,9 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Schul Z 323 (03.11)
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -13037,7 +13368,9 @@ freiw | Text für die Teilnahme an freiwilligen Arbeitsgemeinschaften/Unterricht
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -13063,19 +13396,22 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
 
-**(A0436)** Sonstiges > Ausgabe Schullaufbahn (KO, AbdGy)Ausgabe Schullaufbahn
-1. Das Schuljahr wird im Schlüsselverzeichnis > Zeiträume in der Spalte“Ausdruck1“ hinterlegt.
-2. Das Schulhalbjahr wird im Schlüsselverzeichnis > Zeiträume in der Spalte „Art“ hinterlegt
-3. Die Ausgabe Vorkurs/E-Phase/Kurshalbjahr ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im Schlüsselverzeichnis > Zeiträume im Feld "Art" und aufgrund der Eintragungen im Menü Klassen > Zeiträume im Feld „Jahrgang“
-4. Im Menü Klassen müssen den Klassen im Feld "Klassenart" in den entsprechenden Zeiträumen entweder "Oberstufenjahrgang (Nur Kurse)" (für Vorkurs / E-Phase)** bzw. "Oberstufenjahrgang (Grund- und Leistungskurse)" (für Kurshalbjahre)** hinterlegt sein.
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
+
+**Schullaufbagn (KO, AbdGY)**
+
+1. Das Schuljahr wird unter `Extras > Schlüsselverzeichnisse > Zeiträume` im Feld “Ausdruck1“ hinterlegt.
+2. Das Schulhalbjahr wird unter `Extras > Schlüsselverzeichnisse > Zeiträume` im Feld „Art“ hinterlegt
+3. Die Ausgabe Vorkurs/E-Phase/Kurshalbjahr ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume` im Feld "Art" und aufgrund der Eintragungen im Menü `Klassen > Zeiträume` im Feld „Jahrgang“
+4. Im Menü `Klassen > Klassenart` muss in den entsprechenden Zeiträumen entweder "Oberstufenjahrgang (Nur Kurse)" (für Vorkurs / E-Phase)** bzw. "Oberstufenjahrgang (Grund- und Leistungskurse)" (für Kurshalbjahre)** hinterlegt sein.
 
 Jahrgange/Halbjahr | Ausgabe im Bericht/Zeugnis
 --|--
@@ -13112,23 +13448,27 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 323
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0140)** Allgemein > Ausgabe Laufbahn
+**Schullaufbahn (KO, AbdGY)**
 
-Die Ausgabe der Laufbahn ergibt sich wie folgt:
-1. Das Schuljahr wird im Schlüsselverzeichnis > Zeiträume in der Spalte"Ausdruck1" hinterlegt.
-2. Das Schulhalbjahr wird im Schlüsselverzeichnis > Zeiträume Spalte "Art" hinterlegt
-3. Die Ausgabe der/des E-Phase/Kurshalbjahr ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter " Schlüsselverzeichnis > Zeiträume > Art und aufgrund der Eintragungen im Menü Klassen > Zeiträume im Feld "Jahrgang"
+1. Das Schuljahr wird unter `Extras > Schlüsselverzeichnisse > Zeiträume` im Feld “Ausdruck1“ hinterlegt.
+2. Das Schulhalbjahr wird unter `Extras > Schlüsselverzeichnisse > Zeiträume` im Feld „Art“ hinterlegt
+3. Die Ausgabe Vorkurs/E-Phase/Kurshalbjahr ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume` im Feld "Art" und aufgrund der Eintragungen im Menü `Klassen > Zeiträume` im Feld „Jahrgang“
+4. Im Menü `Klassen > Klassenart` muss in den entsprechenden Zeiträumen entweder "Oberstufenjahrgang (Nur Kurse)" (für Vorkurs / E-Phase)** bzw. "Oberstufenjahrgang (Grund- und Leistungskurse)" (für Kurshalbjahre)** hinterlegt sein.
 
-Jahrgänge/Halbjahr | Ausgabe im Bericht/Zeugnis
+Jahrgange/Halbjahr | Ausgabe im Bericht/Zeugnis
 --|--
+10/1 | Vorkurs
+10/2 | Vorkurs
 11/1 | E1
 11/2 | E2
 12/1 | 1. KS
@@ -13140,7 +13480,9 @@ Jahrgänge/Halbjahr | Ausgabe im Bericht/Zeugnis
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0149)** `Klassen > Zeiträume > Jahrgang`
+**Klassenjahrgang**
+
+`Klassen > Zeiträume > Jahrgang`
 
 Beim Abgang können 2 Abschlüsse erworben werden. Es wird unterschieden:
 
@@ -13155,7 +13497,9 @@ Den Jahrgang tragen Sie im entsprechenden Zeitraum bei der Klasse des Schülers 
 
 Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
-**(A0161.)** `Abitur > Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Abitur > Zeugnisbemerkungen`
 
 Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" im `Schlüsselverzeichnis > Zeugnisbemerkungen`, falls es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Abitur > Zeugnisbemerkungen. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
@@ -13165,7 +13509,9 @@ Merkmal | Bedeutung
 --| --
 Freiw | Text für die Teilnahme an freiwilligen Arbeitsgemeinschaften
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -13199,7 +13545,9 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0168)** `Schlüsselverzeichnisse > Noten > Füllwerte`
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte``
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -13217,7 +13565,9 @@ Beim Anlegen von Punkten im `Schlüsselverzeichnis > Noten` (Notenart: Punkte) m
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte `Zeugnis > Fächer` bzw. im Menü `Abitur` bei jedem Schüler auf der Registerkarte "Qualifikation" pro Fach eine Position in der Spalte "Position" angegeben werden.
 
-**(A0131.)** `Schüler > Zeugnis > Details > Tutor`
+**TutorIn**
+
+`Schüler > Zeugnis > Details > Tutor`
 
 Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
@@ -13233,7 +13583,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Abgew | Abgew | Fächer die nicht auf Zeugnis gedruckt werden sollen
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -13426,7 +13778,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 4PF | 4PF | 4. Prüfungsfach
 5PF | 5PF | 5. Prüfungsfach (wenn Präsentationsprüfung)
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -13456,11 +13810,13 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Zum Eintragen einer Zeugnisbemerkung muss im Abitur > Zeugnis > Zeugnisbemerkungen im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -13490,7 +13846,9 @@ Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kate
 |SportTheorie|
 |Seminar|
 
-**(A0729)** `Schlüsselverzeichnisse > Sprachreferenzen`
+**vorgegebene Sprachreferenzen**
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
@@ -13523,7 +13881,9 @@ Die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besonde
 Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 Das Berechnungsskript (BER-APO-KO-2011.dws)** fügt automatisch im 3. Punktfeld die Gesamtnote für die Besondere Lernleistung ein.
 
-**(A0739)** `Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+**Fremdsprachennachweise**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
@@ -13623,13 +13983,15 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -13637,7 +13999,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -13716,15 +14080,19 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 324
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -13846,11 +14214,13 @@ Kürzel | Schlüssel | Bezeichnung
 WahlPF | WahlPF | Wahlpflichtfach
 VU | VU | Verstärkungsunterricht
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -13960,11 +14330,13 @@ Kürzel | Schlüssel | Bezeichnung
 WahlPF | WahlPF | Wahlpflichtfach
 VU | VU | Verstärkungsunterricht
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -14265,7 +14637,9 @@ usw. | usw.
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0168)** `Schlüsselverzeichnisse > Noten > Füllwerte`
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte``
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -14274,7 +14648,9 @@ Kürzel | Bezeichnung | Notenart
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -14337,7 +14713,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -14345,7 +14723,9 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schül
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -14363,7 +14743,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0104)** `Schüler > Daten 2 > Abgang > Abgang am`
+**Abgang am**
+
+`Schüler > Daten 2 > Abgang > Abgang am`
 
 Tragen Sie das Abgangsdatum im Menü "Schüler" im aktuellen Zeitraum auf der Registerkarte "Zugang/Abgang" im Feld "Abgang am" ein.
 Unterschieden werden 3 Fälle:
@@ -14464,7 +14846,9 @@ WahlPF | WahlPF | Wahlpflichtfach
 ZusatzK | ZusatzK | Zusatzunterricht (weitere Fächer)
 PK | PK | Profilkurs
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -14484,7 +14868,9 @@ freiw | Text für die Teilnahme an freiwilligen Arbeitsgemeinschaften/Unterricht
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -14515,7 +14901,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 371 (02.12)
 
-**(A0002.)** `Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
+**Benotung in Klassen**
+
+`Klassen > Daten > Beurteilungsart > Benotung durch Noten` 
 
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein.
 Hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
@@ -14526,7 +14914,9 @@ Hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verf
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -14569,7 +14959,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -14623,7 +15013,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 BU | BU | Fachbezogener / Berufsbezogener Lernbereich
 GK | GK | Grundkurse
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
@@ -14631,7 +15023,7 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 Die ausgegebenen Fächer entsprechen der bei der jeweiligen Klasse im Menü Klassen > Zeiträume hinterlegten Fachtafeln im Feld "Fachtafel". Die Fächer der dort hinterlegten Fachtafeln müssen Positionen enthalten.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -14649,7 +15041,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 PF | PF | Prüfungsfach
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -14702,7 +15096,9 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -14739,7 +15135,9 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -14786,11 +15184,15 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 522c (05.06)
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -14822,15 +15224,19 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0128)** Schüler > Zeugnis > Leistungen > Durchschnitt 1
+**Durchschnittsnote**
 
-Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
+´Schüler > Zeugnis > Leistungen > Durchschnitt 1´
 
-**(A0144)** `Schüler > Ausbildung > Ausbildungsbetriebe > Beruf`
+Tragen Sie die Durchschnittsnote im Menü ´Schüler > Zeugnis > Leistungen´ im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
-Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Zeitraum den Beruf des Schülers im Feld "Beruf" ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet das Schlüsselverzeichnis Berufe. Anschließend tragen Sie im Feld "Ausbildung von" den Beginn der Berufsausbildung ein.
+**Ausbildungsberuf Schüler**
 
-**(A0239)** 
+`Schüler > Ausbildung > Ausbildungsbetriebe > Beruf`
+
+Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Zeitraum den Beruf des Schülers im Feld "Beruf" ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. Anschließend tragen Sie im Feld "Ausbildung von" den Beginn der Berufsausbildung ein.
+
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -14874,7 +15280,9 @@ Kürzel | Schlüssel | Bezeichnung
 4 PF | 4 PF | 4. Prüfungsfach
 AG | AG | Arbeitsgemeinschaften
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -14909,7 +15317,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -14980,12 +15388,16 @@ Kürzel | Schlüssel | Zeugnisbereich
 BerufS | BerufS | Berufsbezogener /Fachrichtungsbezogner Lernbereich
 Pflicht | Pflicht | Allgemeiner / Berufsübergreifender / Fachrichtungsübergreifender Lernbereich
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -15037,11 +15449,15 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -15125,7 +15541,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 BerufS | BerufS | Berufsbezogener /Fachrichtungsbezogner Lernbereich
 Pflicht | Pflicht | Allgemeiner / Berufsübergreifender / Fachrichtungsübergreifender Lernbereich
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -15192,7 +15610,9 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 Die Ausgabe des "von" - "bis" Datums des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben werden hierbei die Einträge in den Spalten "Von" und "Bis".
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -15215,7 +15635,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0099)** `Schlüsselverzeichnis > Zeiträume > Art`
+***Ausgabe des Schulhalbjahres**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Art`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Art". Tragen Sie den von und bis Zeitraum unter "Von" und "Bis" ein.
 
@@ -15281,7 +15703,9 @@ WahlPF | WahlPF | Wahlpflichtfach
 
 Die Ausgabe des "von" - "bis" Datums des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben werden hierbei die Einträge in den Spalten "Von" und "Bis".
 
-**(A0002.)** `Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
+**Benotung in Klassen**
+
+`Klassen > Daten > Beurteilungsart > Benotung durch Noten` 
 
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein.
 Hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
@@ -15290,20 +15714,26 @@ Hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verf
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das Schlüsselverzeichnis > Dienstbezeichnungen.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0035)** `Klassen > Daten > Bildungsgang`
+**Bildungsgang der Klasse**
+
+`Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
@@ -15381,12 +15811,16 @@ Bkomp| Bkomp | Berufsfachliche Kompetenz
 WahlPF | WahlPF | Wahlpflichtfächer
 FachT | FachT | Fachtheoretischer Bereich
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
@@ -15451,7 +15885,9 @@ AG | AG | Arbeitsgemeinschaft
 2 PF | 2 PF | 2. Prüfungsfach
 3 PF | 3 PF | 3. Prüfungsfach - Fremdsprache
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -15549,7 +15985,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|---
 AG | AG | Arbeitsgemeinschaft
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -15596,7 +16034,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Für die korrekte Ausgabe der Fächernoten im Fachrichtungsübergreifenden und Fachrichtungsbezogenen Unterricht tragen Sie die Noten im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Leistungen` in der Notenspalte "Endnote" ein. Die Ausgabe der Fächernoten in den Prüfungsfächern tragen Sie in der Notenspalte "Endnote(Gesamt)" ein.
 
-**(A0239)** 
+**Ausdruck** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -15699,7 +16137,9 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -15707,7 +16147,9 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schül
 
 Tragen Sie die Anzahl der Stunden/Schuljahr im Menü `Schüler > Zeugnis > Fächer` im Feld "Faktor" ein.
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -15757,7 +16199,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -15770,7 +16214,9 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -15780,7 +16226,9 @@ sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfel
 gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -15797,12 +16245,11 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflicht
 FachT | FachT | Fachtheoretischer Bereich
 
-**(A0201.)**
-`Schüler > Zeugnis > Fächer > Merkmal` bzw. 
+**Merkmal für Fächer**
 
-`Abitur > Qualifikation > Merkmal`
+`Schüler > Zeugnis > Fächer > Merkmal` bzw. `Abitur > Qualifikation > Merkmal`
 
-Für die richtige Ausgabe der 2. Fremdsprache verwenden Sie bei jedem Schüler im Menü `Schüler > Zeugnis` oder im Menü `Abitur > Qualifikation` in der Spalte "Merkmal" den Wert "2FS" zur Kennzeichnung der 2 Fremdsprache.
+Für die richtige Ausgabe der 2. Fremdsprache verwenden Sie bei jedem Schüler im Menü Schüler > Zeugnis oder im Menü Abitur > Qualifikation in der Spalte "Merkmal" den Wert "2FS" zur Kennzeichnung der 2 Fremdsprache.
 
 Eintrag in Feld "Merkmal" | Bedeutung
 --|--
@@ -15857,13 +16304,15 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 531 (09.05)
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -15886,7 +16335,9 @@ Kürzel | Schlüssel | Bezeichnung
 3 PF | 3 PF | 3. Prüfungsfach
 4 PF | 4 PF | 4. Prüfungsfach
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -15896,7 +16347,9 @@ sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfel
 gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -15913,12 +16366,11 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflicht
 FachT | FachT | Fachtheoretischer Bereich
 
-**(A0201.)**
-`Schüler > Zeugnis > Fächer > Merkmal` bzw. 
+**Merkmal für Fächer**
 
-`Abitur > Qualifikation > Merkmal`
+`Schüler > Zeugnis > Fächer > Merkmal` bzw. `Abitur > Qualifikation > Merkmal`
 
-Für die richtige Ausgabe der 2. Fremdsprache verwenden Sie bei jedem Schüler im Menü `Schüler > Zeugnis` oder im Menü `Abitur > Qualifikation` in der Spalte "Merkmal" den Wert "2FS" zur Kennzeichnung der 2 Fremdsprache.
+Für die richtige Ausgabe der 2. Fremdsprache verwenden Sie bei jedem Schüler im Menü Schüler > Zeugnis oder im Menü Abitur > Qualifikation in der Spalte "Merkmal" den Wert "2FS" zur Kennzeichnung der 2 Fremdsprache.
 
 Eintrag in Feld "Merkmal" | Bedeutung
 --|--
@@ -15944,9 +16396,11 @@ Merkmal | Bedeutung
 --|--
 FA | Facharbeit
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0272.)** `Abitur > Qualifikation > Unterrichtsart (FA)`
 
@@ -15960,11 +16414,15 @@ Zur Ausgabe der "Facharbeit" gehen Sie wie folgt vor:
 
 Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü `Abitur > Qualifikation` die Grundlage für die Ausgabe. Es werden die Angaben in den Feldern "Durchschnitt" bzw. "Gesamtpunktzahl" verwendet.
 
-**(A0035)** `Klassen > Daten > Bildungsgang`
+**Bildungsgang der Klasse**
+
+`Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0035.1.)** `Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1`
+**Schwerpunkt des Bildungsganges**
+
+`Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1`
 
 Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das `Schlüsselverzeichnis > Schwerpunkte`.
 
@@ -16013,7 +16471,9 @@ Kürzel | Schlüssel | Bezeichnung
 3 PF | 3 PF | 3. Prüfungsfach
 4 PF | 4 PF | 4. Prüfungsfach
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -16023,7 +16483,9 @@ sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfel
 gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -16056,15 +16518,21 @@ FA | Facharbeit
 
 Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü `Abitur > Qualifikation` die Grundlage für die Ausgabe. Es werden die Angaben in den Feldern "Durchschnitt" bzw. "Gesamtpunktzahl" verwendet.
 
-**(A0035)** `Klassen > Daten > Bildungsgang`
+**Bildungsgang der Klasse**
+
+`Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0035.1.)** `Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1`
+**Schwerpunkt des Bildungsganges**
+
+`Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1`
 
 Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das `Schlüsselverzeichnis > Schwerpunkte`.
 
-**(A0035.3.)** `Schlüsselverzeichnis > Bildungsgänge > Fachrichtung`
+**Fachrichtung des Bildungsganges**
+
+`Schlüsselverzeichnis > Bildungsgänge > Fachrichtung`
 
 Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Feld "Fachrichtung" zu. Grundlage bildet das Schlüsselverzeichnis Fachrichtungen.
 
@@ -16074,13 +16542,15 @@ Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Fel
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -16088,12 +16558,11 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0201.)**
-`Schüler > Zeugnis > Fächer > Merkmal` bzw. 
+**Merkmal für Fächer**
 
-`Abitur > Qualifikation > Merkmal`
+`Schüler > Zeugnis > Fächer > Merkmal` bzw. `Abitur > Qualifikation > Merkmal`
 
-Für die richtige Ausgabe der 2. Fremdsprache verwenden Sie bei jedem Schüler im Menü `Schüler > Zeugnis` oder im Menü `Abitur > Qualifikation` in der Spalte "Merkmal" den Wert "2FS" zur Kennzeichnung der 2 Fremdsprache.
+Für die richtige Ausgabe der 2. Fremdsprache verwenden Sie bei jedem Schüler im Menü Schüler > Zeugnis oder im Menü Abitur > Qualifikation in der Spalte "Merkmal" den Wert "2FS" zur Kennzeichnung der 2 Fremdsprache.
 
 Eintrag in Feld "Merkmal" | Bedeutung
 --|--
@@ -16107,9 +16576,11 @@ Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Abitur > Qua
 
 Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten im Menü `Abitur > Prüfung` in den Feldern "schriftliche Note" und "mündliche Note" eingetragen sein.
 
-**(A0241)** `Abitur > Prüfung`
+**Sprachkenntnisse** 
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 **(A0272.)** `Abitur > Qualifikation > Unterrichtsart (FA)`
 
@@ -16191,7 +16662,9 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -16214,12 +16687,11 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflicht
 FachT | FachT | Fachtheoretischer Bereich
 
-**(A0201.)**
-`Schüler > Zeugnis > Fächer > Merkmal` bzw. 
+**Merkmal für Fächer**
 
-`Abitur > Qualifikation > Merkmal`
+`Schüler > Zeugnis > Fächer > Merkmal` bzw. `Abitur > Qualifikation > Merkmal`
 
-Für die richtige Ausgabe der 2. Fremdsprache verwenden Sie bei jedem Schüler im Menü `Schüler > Zeugnis` oder im Menü `Abitur > Qualifikation` in der Spalte "Merkmal" den Wert "2FS" zur Kennzeichnung der 2 Fremdsprache.
+Für die richtige Ausgabe der 2. Fremdsprache verwenden Sie bei jedem Schüler im Menü Schüler > Zeugnis oder im Menü Abitur > Qualifikation in der Spalte "Merkmal" den Wert "2FS" zur Kennzeichnung der 2 Fremdsprache.
 
 Eintrag in Feld "Merkmal" | Bedeutung
 --|--
@@ -16231,11 +16703,15 @@ Eintrag in Feld "Merkmal" | Bedeutung
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0255)** `Klassen > Daten > Organisation`
+**Organisation der Klasse**
+
+`Klassen > Daten > Organisation`
 
 Tragen Sie die Vollzeit- bzw. Teilzeitform unter `Klassen > Daten > Organisation` ein. Grundlage bildet das `Schlüsselverzeichnis > Organisiationen`.
 
-**(A0035)** `Klassen > Daten > Bildungsgang`
+**Bildungsgang der Klasse**
+
+`Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -16288,7 +16764,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 507 c (BQL TZ)
 
-**(A0002.)** `Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
+**Benotung in Klassen**
+
+`Klassen > Daten > Beurteilungsart > Benotung durch Noten` 
 
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein.
 Hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
@@ -16308,11 +16786,15 @@ Pflicht | Pflicht | Allgemeiner / Berufsübergreifender / Fachrichtungsübergrei
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 WahlPF | WahlPF | Wahlpflichtfach
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -16374,7 +16856,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 505 a-b-c
 
-**(A0002.)** `Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
+**Benotung in Klassen**
+
+`Klassen > Daten > Beurteilungsart > Benotung durch Noten` 
 
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein.
 Hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
@@ -16401,7 +16885,9 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 FachT | FachT | Fachtheoretischer Bereich
 FachP | FachP | Fachpraxis im Berufsfeld
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -16445,12 +16931,16 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0476)** `Mandanten > Daten 2 > Logo 1, Logo 2`
+**Logos der Schule**
+
+`Mandanten > Daten 2 > Logo 1, Logo 2`
 
 Die Landeswappen und/oder Ihr Schullogo können individuell auf dem Zeugnis ausgegeben werden: 
 Im Menü `Mandanten > Daten 2` können Sie ihre Landeswappen oder Ihre Schullogos im "jpg" Format hochladen. Damit es zu keiner Skalierung kommt beachten Sie dabei, dass Ihre Datei nach Möglichkeit 2,8 cm hoch wie breit sein sollte.
 
-**(A0484)** `Schlüsselverzeichnisse > Bildungsgänge > Kürzel`
+**Kürzel der Bildungsgänge**
+
+`Schlüsselverzeichnisse > Bildungsgänge > Kürzel`
 
 Das Zeugnis ist für folgende Lehrgänge gültig:
 
@@ -16468,7 +16958,9 @@ BQL | Berufsqualifizierenden Lehrgang (BQL VZ), Schul Z 505 a
 BQL_FL | Berufsqualifizierenden Lehrgang (BQL FL), Schul Z 505 b
 BQL_TZ | Berufsqualifizierenden Lehrgang (BQL TZ)** , Schul Z 505 c
 
-**(A0488)** `Schlüsselverzeichnisse > Berufsfelder`
+**Berufsfelder**
+
+`Extras > Schlüsselverzeichnisse > Berufsfelder`
 
 Weisen Sie im Menü `Klasse > Daten` das Berufsfeld im Feld „Berufsfeld“ zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -16496,7 +16988,9 @@ Platzhalter | Ausgabe im Bericht
 
 Nicht mehr verwenden! Nutzen Sie BER-BQL TZ-HJZ (Schul Z 505 a-b-c).rpt
 
-**(A0002.)** `Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
+**Benotung in Klassen**
+
+`Klassen > Daten > Beurteilungsart > Benotung durch Noten` 
 
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein.
 Hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
@@ -16521,11 +17015,15 @@ BerufS | BerufS | Berufsbezogener /Fachrichtungsbezogner Lernbereich
 Pflicht | Pflicht | Allgemeiner / Berufsübergreifender / Fachrichtungsübergreifender Lernbereich
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -16619,7 +17117,9 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -16631,12 +17131,16 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -16659,7 +17163,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0099)** `Schlüsselverzeichnis > Zeiträume > Art`
+***Ausgabe des Schulhalbjahres**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Art`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Art". Tragen Sie den von und bis Zeitraum unter "Von" und "Bis" ein.
 
@@ -16685,14 +17191,15 @@ Platzhalter | Ausgabe im Bericht
 `<<Anrede4>>` | ihm/ihr (je nach Geschlecht des Schülers)
 `<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
 
-**(A0107)** `Berufsschule > Matrix > Gesamtnote`
+**Gesamtnote Berufsschulmatrix**
 
-Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü "Berufsschule" in der Registerkarte "Matrix" im Feld "Gesamtnote" ein. Diese wird auch automatisch durch das Berufsschulskript berechnet und entsprechend
-hinterlegt.
+`Berufsschule > Matrix > Gesamtnote`
 
-**(A0113)** 
+Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Berufsschule > Matrix` im Feld "Gesamtnote" ein. Diese wird auch automatisch durch das Berufsschulskript berechnet und entsprechend hinterlegt.
 
-Das Zeugnis/der Bericht muss aus dem Menü "Berufsschule" gedruckt werden.
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Berufsschule` gedruckt werden.
 
 **Schulname** 
 
@@ -16700,24 +17207,32 @@ Das Zeugnis/der Bericht muss aus dem Menü "Berufsschule" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0144)** `Schüler > Ausbildung > Ausbildungsbetriebe > Beruf`
+**Ausbildungsberuf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Zeitraum den Beruf des Schülers im Feld "Beruf" ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet das Schlüsselverzeichnis Berufe. Anschließend tragen Sie im Feld "Ausbildung von" den Beginn der Berufsausbildung ein.
+`Schüler > Ausbildung > Ausbildungsbetriebe > Beruf`
+
+Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Zeitraum den Beruf des Schülers im Feld "Beruf" ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. Anschließend tragen Sie im Feld "Ausbildung von" den Beginn der Berufsausbildung ein.
 
 **Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0144)** `Schüler > Ausbildung > Ausbildungsbetriebe > Beruf`
+**Ausbildungsberuf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Zeitraum den Beruf des Schülers im Feld "Beruf" ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet das Schlüsselverzeichnis Berufe. Anschließend tragen Sie im Feld "Ausbildung von" den Beginn der Berufsausbildung ein.
+`Schüler > Ausbildung > Ausbildungsbetriebe > Beruf`
 
-**(A0147)** `Berufsschule > Zeugnisbemerkungen`
+Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Zeitraum den Beruf des Schülers im Feld "Beruf" ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. Anschließend tragen Sie im Feld "Ausbildung von" den Beginn der Berufsausbildung ein.
+
+**Zeugnisbemerkungen**
+
+`Berufsschule > Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Berufsschule > Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "+" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0148)**` Berufsschule > Matrix > Zeugnisdatum`
+**Zeugnisdatum**
+
+`Berufsschule > Matrix > Zeugnisdatum`
 
 Tragen Sie das Datum des Abschlusszeugnisses im Menü `Berufsschule > Matrix` im Feld "Zeugnisdatum" ein.
 
@@ -16726,11 +17241,15 @@ Tragen Sie das Datum des Abschlusszeugnisses im Menü `Berufsschule > Matrix` im
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0227)** `Schüler > Daten 2 > Zugang am/Abgang am BZW. 2. Zugang am/2. Abgang am`
+**Zugang am/Abgang am bzw. 2. Zugang am/2. Abgang am**
+
+`Schüler > Daten 2 > Zugang am/Abgang am bzw. 2. Zugang am/2. Abgang am`
 
 Ist das Feld "2. Zugang am" im Menü `Schüler > Daten 2` gefüllt, wird auf dem Zeugnis "2. Zugang am" und "2. Abgang am" ausgegeben, ansonsten "Zugang am" und "Abgang am".
 
@@ -16738,7 +17257,9 @@ Ist das Feld "2. Zugang am" im Menü `Schüler > Daten 2` gefüllt, wird auf dem
 
 Tragen Sie im Menü `Schüler > Ausbildung > Beruf` im Feld "Ausbildung" den Beruf des Schülers ein.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
@@ -16758,14 +17279,15 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Schul Z 502
 
-**(A0107)** `Berufsschule > Matrix > Gesamtnote`
+**Gesamtnote Berufsschulmatrix**
 
-Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü "Berufsschule" in der Registerkarte "Matrix" im Feld "Gesamtnote" ein. Diese wird auch automatisch durch das Berufsschulskript berechnet und entsprechend
-hinterlegt.
+`Berufsschule > Matrix > Gesamtnote`
 
-**(A0113)** 
+Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Berufsschule > Matrix` im Feld "Gesamtnote" ein. Diese wird auch automatisch durch das Berufsschulskript berechnet und entsprechend hinterlegt.
 
-Das Zeugnis/der Bericht muss aus dem Menü "Berufsschule" gedruckt werden.
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Berufsschule` gedruckt werden.
 
 **(A0120)** `Schüler > Merkmale > Merkmal A6`
 
@@ -16786,24 +17308,32 @@ Ansonsten wird auf dem Zeugnis "Entfällt" ausgegeben.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0144)** `Schüler > Ausbildung > Ausbildungsbetriebe > Beruf`
+**Ausbildungsberuf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Zeitraum den Beruf des Schülers im Feld "Beruf" ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet das Schlüsselverzeichnis Berufe. Anschließend tragen Sie im Feld "Ausbildung von" den Beginn der Berufsausbildung ein.
+`Schüler > Ausbildung > Ausbildungsbetriebe > Beruf`
+
+Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Zeitraum den Beruf des Schülers im Feld "Beruf" ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. Anschließend tragen Sie im Feld "Ausbildung von" den Beginn der Berufsausbildung ein.
 
 **Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0144)** `Schüler > Ausbildung > Ausbildungsbetriebe > Beruf`
+**Ausbildungsberuf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Zeitraum den Beruf des Schülers im Feld "Beruf" ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet das Schlüsselverzeichnis Berufe. Anschließend tragen Sie im Feld "Ausbildung von" den Beginn der Berufsausbildung ein.
+`Schüler > Ausbildung > Ausbildungsbetriebe > Beruf`
 
-**(A0147)** `Berufsschule > Zeugnisbemerkungen`
+Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Zeitraum den Beruf des Schülers im Feld "Beruf" ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. Anschließend tragen Sie im Feld "Ausbildung von" den Beginn der Berufsausbildung ein.
+
+**Zeugnisbemerkungen**
+
+`Berufsschule > Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Berufsschule > Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "+" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0148)**` Berufsschule > Matrix > Zeugnisdatum`
+**Zeugnisdatum**
+
+`Berufsschule > Matrix > Zeugnisdatum`
 
 Tragen Sie das Datum des Abschlusszeugnisses im Menü `Berufsschule > Matrix` im Feld "Zeugnisdatum" ein.
 
@@ -16812,7 +17342,9 @@ Tragen Sie das Datum des Abschlusszeugnisses im Menü `Berufsschule > Matrix` im
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -16820,7 +17352,9 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schül
 
 Tragen Sie im Menü `Schüler > Ausbildung > Beruf` im Feld "Ausbildung" den Beruf des Schülers ein.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
@@ -16876,7 +17410,9 @@ BerufS | BerufS | Berufsbezogener Unterricht
 Pflicht | Pflicht | Pflichtfächer
 FörderK | FörderK | Förderunterricht
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -16891,7 +17427,9 @@ Für die Ausgabe des Berufsfeldes müssen Sie entweder das Berufsfeld einer Klas
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0099)** `Schlüsselverzeichnis > Zeiträume > Art`
+***Ausgabe des Schulhalbjahres**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Art`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Art". Tragen Sie den von und bis Zeitraum unter "Von" und "Bis" ein.
 
@@ -16914,7 +17452,9 @@ Pflicht | Pflicht | Allgemeiner / Berufsübergreifender / Fachrichtungsübergrei
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 WahlPF | WahlPF | Wahlpflichtfach
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
@@ -16925,13 +17465,15 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0113)** 
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Berufsschule" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Berufsschule` gedruckt werden.
 
-**(A0116)** `Berufsschule > Zeugnisbemerkungen`
+**Zegnisbemerkungen Bereich Berufsschule**
 
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü "Berufsschule" auf der Registerkarte "Zeugnisbemerkungen". Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+`Berufsschule > Zeugnisbemerkungen`
+
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Berufsschule > Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
 **Schulname** 
@@ -16944,15 +17486,21 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0148)**` Berufsschule > Matrix > Zeugnisdatum`
+**Zeugnisdatum**
+
+`Berufsschule > Matrix > Zeugnisdatum`
 
 Tragen Sie das Datum des Abschlusszeugnisses im Menü `Berufsschule > Matrix` im Feld "Zeugnisdatum" ein.
 
-**(A0159)** `Berufsschule > Matrix > Endnote`
+**Endnoten**
 
-Die Noten der Fächer tragen Sie im Menü `Berufsschule` in der Spalte "Endnote" ein. Die Gewichtung der Note tragen Sie analog im Feld "Faktor" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+`Berufsschule > Matrix > Endnote`
 
-**(A0168)** `Schlüsselverzeichnisse > Noten > Füllwerte`
+Die Noten der Fächer tragen Sie im Menü `Berufsschule > Matrix` in der Spalte "Endnote" ein. Die Gewichtung der Note tragen Sie analog im Feld "Faktor" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte``
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -16961,11 +17509,15 @@ Kürzel | Bezeichnung | Notenart
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
 
- **(A0190)** `Schüler > Zeugnis > Fächer > Position`
+ **Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0227)** `Schüler > Daten 2 > Zugang am/Abgang am BZW. 2. Zugang am/2. Abgang am`
+**Zugang am/Abgang am bzw. 2. Zugang am/2. Abgang am**
+
+`Schüler > Daten 2 > Zugang am/Abgang am bzw. 2. Zugang am/2. Abgang am`
 
 Ist das Feld "2. Zugang am" im Menü `Schüler > Daten 2` gefüllt, wird auf dem Zeugnis "2. Zugang am" und "2. Abgang am" ausgegeben, ansonsten "Zugang am" und "Abgang am".
 
@@ -16997,7 +17549,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 504
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -17007,7 +17561,9 @@ sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfel
 gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 
-**(A0035)** `Klassen > Daten > Bildungsgang`
+**Bildungsgang der Klasse**
+
+`Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -17017,13 +17573,15 @@ Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet d
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Benotung** 
 
@@ -17121,12 +17679,16 @@ Bkomp| Bkomp | Berufsfachliche Kompetenz
 WahlPF | WahlPF | Wahlpflichtfächer
 FachT | FachT | Fachtheoretischer Bereich
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
@@ -17134,7 +17696,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0099)** `Schlüsselverzeichnis > Zeiträume > Art`
+***Ausgabe des Schulhalbjahres**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Art`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Art". Tragen Sie den von und bis Zeitraum unter "Von" und "Bis" ein.
 
@@ -17190,12 +17754,16 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
@@ -17282,12 +17850,16 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
@@ -17297,7 +17869,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 Schul Z 508
 
-**(A0002.)** `Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
+**Benotung in Klassen**
+
+`Klassen > Daten > Beurteilungsart > Benotung durch Noten` 
 
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein.
 Hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
@@ -17315,11 +17889,15 @@ Kürzel | Schlüssel | Zeugnisbereich
 BerufS | BerufS | Berufsbezogener /Fachrichtungsbezogner Lernbereich
 Pflicht | Pflicht | Allgemeiner / Berufsübergreifender / Fachrichtungsübergreifender Lernbereich
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -17426,16 +18004,22 @@ Kürzel | Schlüssel | Bezeichnung
 beliebig | HS | Hauptschulabschluss
 beliebig | EHS | Erweiterter Hauptschulabschluss
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -17513,7 +18097,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 BerufS | BerufS | Berufsbezogener /Fachrichtungsbezogner Lernbereich
 Pflicht | Pflicht | Allgemeiner / Berufsübergreifender / Fachrichtungsübergreifender Lernbereich
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
@@ -17563,16 +18149,22 @@ Wahlb | Wahlb | Wahlbereich
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -17663,16 +18255,22 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0028)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0039)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld der Klasse**
+
+`Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -17695,7 +18293,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0099)** `Schlüsselverzeichnis > Zeiträume > Art`
+***Ausgabe des Schulhalbjahres**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Art`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Art". Tragen Sie den von und bis Zeitraum unter "Von" und "Bis" ein.
 
@@ -17725,7 +18325,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 350 (10.07)
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -17740,9 +18342,9 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -17766,7 +18368,9 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Qualifikation` im Feld "Zeugnisda
 
 Schul Z 513 (05.06)
 
-**(A0017)** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -17777,7 +18381,9 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -17807,13 +18413,15 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0110)** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** 
+`Ausdruck`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Schulname** 
 
@@ -17833,7 +18441,9 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0139)** `Abitur > Prüfung > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
@@ -17841,22 +18451,25 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0178)** `Klasse > Daten > Schulart`
+**Schulart der Klasse**
+
+`Klasse > Daten > Schulart`
 
 Tragen Sie im aktuellen Zeitraum im Menü Klasse > Daten die Schulfart im Feld "Schulart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`.
 
-**(A0201.)**
-`Schüler > Zeugnis > Fächer > Merkmal` bzw. 
+**Merkmal für Fächer**
 
-`Abitur > Qualifikation > Merkmal`
+`Schüler > Zeugnis > Fächer > Merkmal` bzw. `Abitur > Qualifikation > Merkmal`
 
-Für die richtige Ausgabe der 2. Fremdsprache verwenden Sie bei jedem Schüler im Menü `Schüler > Zeugnis` oder im Menü `Abitur > Qualifikation` in der Spalte "Merkmal" den Wert "2FS" zur Kennzeichnung der 2 Fremdsprache.
+Für die richtige Ausgabe der 2. Fremdsprache verwenden Sie bei jedem Schüler im Menü Schüler > Zeugnis oder im Menü Abitur > Qualifikation in der Spalte "Merkmal" den Wert "2FS" zur Kennzeichnung der 2 Fremdsprache.
 
 Eintrag in Feld "Merkmal" | Bedeutung
 --|--
 2FS | 2. Fremdsprache
 
-**(A0255)** `Klassen > Daten > Organisation`
+**Organisation der Klasse**
+
+`Klassen > Daten > Organisation`
 
 Tragen Sie die Vollzeit- bzw. Teilzeitform unter `Klassen > Daten > Organisation` ein. Grundlage bildet das `Schlüsselverzeichnis > Organisiationen`.
 
