@@ -78,7 +78,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**Zeugnisbemerkungen**
+Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
@@ -182,7 +182,7 @@ Der Bericht liest den Eintrag aus Feld "Merkmal" aus und setzt dahinter die Fach
 
 Für die Sortierung der Fächer des "Berufsfeldübergreifenden Unterrichts" auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Den Fächern mit Niveau-Stufe (GR-Niveau / ER-Niveau) weisen Sie die Position 1-3 zu, den Fächern "Wirtschafts- und Sozialkunde" und Spoprt/Gesundheitsförderung weisen Sie die Position 4-5 zu.
 
-**Zeugnisbemerkungen**
+Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
@@ -268,7 +268,7 @@ Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die a
 
 Um eine halbjahresbezogene Berechnung der Durchschnittsnoten für den Berufsfeldbezogenen Unterricht in Fachtherie und Fachpraxis für den Bildungsgang der Integrierten Berufsausbildungsvorbereitung (IBA) in MAGELLAN auszuführen, lesen Sie bitte unsere Onlinedokumentation:
 
-https://doc.la.stueber.de/03.ber/ber-iba-hj-2020.md"
+[https://doc.la.stueber.de/03.ber/ber-iba-hj-2020dws/](https://doc.la.stueber.de/03.ber/ber-iba-hj-2020dws/)
 
 **Benotung**
 
@@ -437,7 +437,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Schüler > Zeugnis > Zeugnisdetails` gezogen.
 
-**Zeugnisbemerkungen**
+Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
@@ -618,28 +618,36 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 **Ausdruck** 
 
-`Ausdruck`
+
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**A0121** `Mandanten > Daten 1 > Name 3`
+**Schuldaten**
+
+`Mandanten > Daten 1 > Name 3`
 
 Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
 
-**(A0158)** `Klassen > Daten > Abteilung UND Schlüsselverzeichnis > Abteilungen`Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
+`Mandanten > Daten > Name 2`
+
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
+
+**AbteilungsleiterIn**
+
+`Klassen > Daten > Abteilung` UND `Extras > Schlüsselverzeichnis > Abteilungen` Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
 
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**A0392** `Schüler > Zeugnis > Fächer > Niveau`
+**Fächer**
 
-Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im `Schlüsselverzeichnis > Fachniveaus` ein.
+`Schüler > Zeugnis > Fächer`
 
-**A0740** `Mandanten > Daten > Name 2`
+Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im `Extras > Schlüsselverzeichnis > Fachniveaus` ein.
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
+Zeugnisbemerkungen
 
-**A0777** `Schüler > Zeugnis > Bemerkungen/Formulare` ODER
+`Schüler > Zeugnis > Bemerkungen/Formulare` ODER
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
 `Berufsschule > Zeugnisbemerkungen`
 
@@ -798,7 +806,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
 
-**A0112** `Ausdruck`
+**A0112** 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
@@ -819,7 +827,9 @@ Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "N
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**A0777** `Schüler > Zeugnis > Bemerkungen/Formulare` ODER
+Zeugnisbemerkungen
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` ODER
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
 `Berufsschule > Zeugnisbemerkungen`
 
@@ -956,7 +966,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
 
-**A0112** `Ausdruck`
+**A0112** 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
@@ -977,7 +987,9 @@ Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "N
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**A0777** `Schüler > Zeugnis > Bemerkungen/Formulare` ODER
+Zeugnisbemerkungen
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` ODER
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
 `Berufsschule > Zeugnisbemerkungen`
 
@@ -1162,7 +1174,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
 
-**A0112** `Ausdruck`
+**A0112** 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
@@ -1183,7 +1195,9 @@ Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "N
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**A0777** `Schüler > Zeugnis > Bemerkungen/Formulare` ODER
+Zeugnisbemerkungen
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` ODER
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
 `Berufsschule > Zeugnisbemerkungen`
 
@@ -1341,7 +1355,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
 
-**A0112** `Ausdruck`
+**A0112** 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
@@ -1369,7 +1383,9 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**A0777** `Schüler > Zeugnis > Bemerkungen/Formulare` ODER
+Zeugnisbemerkungen
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` ODER
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
 `Berufsschule > Zeugnisbemerkungen`
 
@@ -1551,7 +1567,9 @@ Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeu
 
 Schul Z 520 – Zeugnis der Berufsfachschule – (2 Seiten) – (09.19)
 
-**A0013** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -1587,7 +1605,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
 
-**A0112** `Ausdruck`
+**A0112** 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
@@ -1621,7 +1639,9 @@ Den Beruf des Schülers tragen Sie entweder im Menü `Schüler > Ausbildung > Au
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**A0777** `Schüler > Zeugnis > Bemerkungen/Formulare` ODER
+Zeugnisbemerkungen
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` ODER
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
 `Berufsschule > Zeugnisbemerkungen`
 
@@ -1700,7 +1720,7 @@ BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**A0113** `Ausdruck`
+**A0113** 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Berufsschule` gedruckt werden.
 
@@ -1719,7 +1739,9 @@ Tragen Sie das Datum des Abschlusszeugnisses im Menü `Berufsschule > Matrix` im
 
 Den Beruf des Schülers tragen Sie entweder im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im Feld „Beruf“ ein oder im Menü `Klasse > Daten`. Falls alle Schüler Ihrer Klasse den gleichen Beruf haben, lassen Sie den Beruf im Menu Schüler leer und weisen diesen lediglich einmal im Menu Klasse zu, ansonsten individuell im Menu Schüler. Falls Sie den Beruf sowohl im Menu `Schüler` als auch im Menu Klasse zuweisen, wird der Beruf aus dem Menu`Schüler` priorisiert.
 
-**A0777** `Schüler > Zeugnis > Bemerkungen/Formulare` ODER
+**Zeugnisbemerkungen**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` ODER
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
 `Berufsschule > Zeugnisbemerkungen`
 
@@ -1822,7 +1844,7 @@ Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeu
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
 
-**A0113** `Ausdruck`
+**A0113** 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Berufsschule` gedruckt werden.
 
@@ -1849,7 +1871,9 @@ Den Beruf des Schülers tragen Sie entweder im Menü `Schüler > Ausbildung > Au
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**A0777** `Schüler > Zeugnis > Bemerkungen/Formulare` ODER
+**Zeugnisbemerkungen**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` ODER
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
 `Berufsschule > Zeugnisbemerkungen`
 
@@ -1963,7 +1987,7 @@ Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeu
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld Name 1 ein.
 
-**A0113** `Ausdruck`
+**A0113** 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Berufsschule` gedruckt werden.
 
@@ -1990,7 +2014,9 @@ Den Beruf des Schülers tragen Sie entweder im Menü `Schüler > Ausbildung > Au
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld Name 2 ein.
 
-**A0777** `Schüler > Zeugnis > Bemerkungen/Formulare` ODER
+**Zeugnisbemerkungen**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` ODER
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
 `Berufsschule > Zeugnisbemerkungen`
 
@@ -2053,11 +2079,15 @@ Die Bezeichnungen BER-BFS-AS für das Abschlusszeugnis, BER-BFS-MSA für das Zus
 
 Schul Z 500 – Zeugnis der Berufsschule – (2 Seiten) – (09.19)
 
-(A0008) `Klassen > Zeiträume > Zeitraum > Jahrgang`
+Klassenjahrgang 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -2100,17 +2130,21 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Mandanten > Daten 1 > Name 3`
+**Ausdruck** `Mandanten > Daten 1 > Name 3`
 
 Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -2218,7 +2252,7 @@ Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Berufsschule
 Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü "Berufsschule" in der Registerkarte "Matrix" im Feld "Gesamtnote" ein. Diese wird auch automatisch durch das Berufsschulskript berechnet und entsprechend
 hinterlegt.
 
-**(A0113)** `Ausdruck`
+**(A0113)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Berufsschule` gedruckt werden.
 
@@ -2317,7 +2351,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "
 
 Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Berufsschule > Matrix` im Feld "Gesamtnote" ein. Diese wird auch automatisch durch das Berufsschulskript berechnet und entsprechend hinterlegt.
 
-**(A0013)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Berufsschule` gedruckt werden.
 
@@ -2440,7 +2474,7 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
 
-**(A0113)** `Ausdruck`
+**(A0113)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Berufsschule` gedruckt werden.
 
@@ -2547,7 +2581,7 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -2555,7 +2589,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -2664,11 +2698,11 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -2676,7 +2710,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -2763,11 +2797,11 @@ Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0157)** `Eintrittsjahr Einführungsphase`Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
+**Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
 **(A0163.)** `Abitur > Qualifikation`
 
@@ -2890,7 +2924,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -2902,7 +2936,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -3009,7 +3043,7 @@ Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum
 
 Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im Feld "schriftliche Note" abändern.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -3085,7 +3119,7 @@ Platzhalter | Ausgabe im Bericht
 `<<Anrede4>>` | ihm/ihr (je nach Geschlecht des Schülers)
 `<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -3144,7 +3178,7 @@ Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "sch
 
 Abi-8 – Mitteilung der Noten und Punkte des 4. Kurshalbjahres (VO-GO) – (05.20)
 
-#### Fehlstunden / Verspätungen
+**Fehltage und/oder Fehlstunden**
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
@@ -3293,7 +3327,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 ### BER-Abi 8 (01.12).rpt
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -3327,15 +3363,19 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -3352,7 +3392,7 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -3491,7 +3531,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -3522,7 +3562,9 @@ Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten
 
 Schul Z 510 (05.06)
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -3557,7 +3599,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
@@ -3569,7 +3613,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -3664,15 +3708,19 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -3681,7 +3729,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -3724,20 +3772,26 @@ G | n.b. | G
 E | n.b. | E
 F | n.b. | F
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -3745,7 +3799,7 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -3802,7 +3856,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -3841,20 +3897,25 @@ G | n.b. | G
 E | n.b. | E
 F | n.b. | F
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -3862,7 +3923,7 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -3918,7 +3979,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -3938,11 +4001,15 @@ Schul Z 103(11.05)** (französ. Gymn)
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -3978,20 +4045,24 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisebemerkungen**
+
+ `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -4020,11 +4091,15 @@ Schul Z 103 (11.05)
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -4040,20 +4115,24 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -4084,7 +4163,7 @@ PRS | PRS   |  5. Prüfungskomponente Präsentationsprüfung"
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**A0111** `Ausdruck`
+**A0111** 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
@@ -4138,11 +4217,11 @@ PRS |PRS |5. Prüfungskomponente Präsentationsprüfung
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -4205,7 +4284,7 @@ Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum
 
 Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im Feld "schriftliche Note" abändern.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -4310,7 +4389,7 @@ Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "sch
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -4318,7 +4397,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -4432,7 +4511,7 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0071.)** `Ausdruck`
+**(A0071.)** 
 
 Wird ein Schüler "Gem. § 42 (1. und (2. VO-GO von der mündlichen Prüfung ausgeschlossen", muss dies nach Druckfertigstellung manuell in dem vorgesehenen Feld angekreuzt werden.
 
@@ -4452,7 +4531,7 @@ Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "sch
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -4460,7 +4539,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -4591,7 +4670,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -4603,7 +4682,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -4716,7 +4795,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -4728,7 +4807,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -4891,7 +4970,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -4903,7 +4982,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -5002,7 +5081,9 @@ Schul Z 252 (01.07)
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein.
 Hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -5039,11 +5120,13 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -5051,7 +5134,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -5151,7 +5234,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
@@ -5163,20 +5248,22 @@ Unterschieden werden 3 Fälle:
 2. Ist das Abgangsdatum größergleich als das Datum des aktuellen Zeitraums in Magellan (Schlüsselverzeichnis Zeiträume (Von), dann wird "am Ende" ausgegeben.
 3. Wird kein Abgangsdatum angegeben, wird "im Verlauf / am Ende" ausgegeben.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0157)** `Eintrittsjahr Einführungsphase`Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
+**Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
 ### BER-GY-AZ (Schul Z 303)(12.07).rpt
 
@@ -5223,7 +5310,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -5235,17 +5322,17 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0157)** `Eintrittsjahr Einführungsphase`Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
+**Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
  **(A0190)** `Schüler > Zeugnis > Fächer > Position`
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -5328,7 +5415,7 @@ Um das Seminarfach auszugeben, weisen Sie dem jeweiligen Fach im Schlüsselverze
 
 Schul Z 350
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -5361,11 +5448,15 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Schul Z 250 (05.08)
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -5396,20 +5487,24 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -5512,7 +5607,9 @@ Schul Z 251 – Zeugnis des Gymnasiums, Jahrgangsstufen 5 und 6 – (11.19)
 
 Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
-**A0013**	`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -5557,7 +5654,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
 
-**A0112**	`Ausdruck`
+**A0112**	
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
@@ -5701,20 +5798,24 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -5831,7 +5932,9 @@ Wird das Arbeits- und Sozialverhalten des Schülers nicht beurteilt, weisen Sie 
 
 Schul Z 300 (11.11)
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -5875,20 +5978,24 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -5900,19 +6007,23 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 Schul Z 300
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -5970,7 +6081,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -5990,20 +6103,26 @@ Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüle
 
 Schul Z 302
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -6027,7 +6146,7 @@ Jahrgang | Ausgabe
 13 | 3. und 4. HJ
 usw. | usw.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -6067,11 +6186,11 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Schul II 929-11a (01.09)
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -6114,16 +6233,20 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Schul II 929-9 (09.07)
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -6159,7 +6282,9 @@ Kürzel | Schlüssel | Bezeichnung
 3 PF | 3 PF | 3. Prüfungsfach
 4 PF | 4 PF | 4. Prüfungsfach
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
@@ -6190,20 +6315,26 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Schul II 929-9 (12.08)
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -6265,7 +6396,7 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Schul II 929-12 (12.08)
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -6273,7 +6404,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -6323,11 +6454,11 @@ Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0157)** `Eintrittsjahr Einführungsphase`Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
+**Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
 **(A0163.)** `Abitur > Qualifikation`
 
@@ -6391,7 +6522,9 @@ Wird ein Schüler "Gem. § 43 (1. und (2. VO-KA von der mündlichen Prüfung aus
 
 Schul Z 240 (03.08)
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -6452,11 +6585,13 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum**
+
+ `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -6464,7 +6599,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -6472,7 +6607,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -6571,15 +6706,19 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -6588,7 +6727,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -6638,7 +6777,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 242 (06.08)
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -6687,11 +6828,13 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -6699,11 +6842,11 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -6787,11 +6930,15 @@ Platzhalter | Ausgabe im Bericht
 `<<Anrede4>>` | ihm/ihr (je nach Geschlecht des Schülers)
 `<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum**
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -6804,7 +6951,7 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers di
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -6896,11 +7043,13 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -6997,15 +7146,19 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -7018,7 +7171,7 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -7108,7 +7261,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 202 (07.10)
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -7150,15 +7305,19 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -7167,7 +7326,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -7247,7 +7406,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 240 (07.19)
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -7292,11 +7453,12 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -7304,7 +7466,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -7312,7 +7474,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -7381,11 +7543,15 @@ Das Zeugnis ist variabel sowohl als Halbjahreszeugnis als Jahreszeugnis ausgeleg
 
 Schul Z 250 – Zeugnis des GymnasiumsJahrgangsstufen 5 bis 10 – (02.15)
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang**
+
+ `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -7416,20 +7582,24 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum**
+
+ `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -7518,11 +7688,15 @@ Wahlpflichtfach zwei | 31
 
 Schul Z 250 Co – Zeugnis des Gymnasiums, Jahrgangsstufe 7 im Schuljahr 2020/2021 - (04.21)
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -7563,15 +7737,19 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -7729,11 +7907,15 @@ Im 2. HJ des Zeugnisses wird bei allen Schülern der Vermerk "Sie / Er rückt au
 
 Schul Z 250 – Zeugnis des Gymnasiums, Jahrgangsstufen 7 bis 10, optional Jahrgangsstufen 5 und 6 – (11.19)
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -7778,15 +7960,19 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -7967,11 +8153,13 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -8095,7 +8283,9 @@ Wahlpflichtfach zwei | 31
 
 Schul Z 255 (09.17)
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -8144,11 +8334,13 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -8156,7 +8348,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -8164,7 +8356,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -8275,11 +8467,13 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -8419,7 +8613,7 @@ schriftliche Leistungen |  Spalte "Schriftl. Note 4"
 
 **Zeugnisbemerkungen**
 
-**A0021** `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
 Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter `Schlüsselverzeichnis > Zeugnisbemerkungen`, falls es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
@@ -8694,7 +8888,9 @@ Um Noten den jeweiligen Fächer zuzuordnen, verwenden Sie für die Fächer folge
 
 Schul Z 300 – Zeugnis der Einführungsphase der gymnasialen Oberstufe (ISS, Gemeinschaftsschule, berufliches Gymnasium) - (10.18)
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -8730,19 +8926,23 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum**
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0114)** `Schüler > Zeugnis > Fächer (Position)** bzw. Abitur > Qualifikation (Position)`
+**Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position)** bzw. Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte `Zeugnis > Fächer` bzw. im Menü `Abitur` bei jedem Schüler auf der Registerkarte "Qualifikation" pro Fach eine Position in der Spalte "Position" angegeben werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -8763,7 +8963,7 @@ Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuelle
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -8817,7 +9017,9 @@ Spalte 2 (rechts)| hier erscheinen untereinander zunächst die Fächer des „Wa
 
 Schul Z 300 – Zeugnis der Einführungsphase der gymnasialen Oberstufe (ISS, Gemeinschaftsschule, berufliches Gymnasium) - (11.19)
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -8873,20 +9075,24 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0114)** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
+**Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
 Fach eine Position in der Spalte "Position" angegeben werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -8907,7 +9113,7 @@ Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuelle
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -8982,7 +9188,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
@@ -8995,11 +9203,13 @@ Unterschieden werden 3 Fälle:
 2. Ist das Abgangsdatum größergleich als das Datum des aktuellen Zeitraums in Magellan (Schlüsselverzeichnis Zeiträume (Von), dann wird "am Ende" ausgegeben.
 3. Wird kein Abgangsdatum angegeben, wird "im Verlauf / am Ende" ausgegeben.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -9012,9 +9222,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0157)** `Eintrittsjahr Einführungsphase`Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
+**Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -9077,7 +9287,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
@@ -9090,15 +9302,17 @@ Unterschieden werden 3 Fälle:
 2. Ist das Abgangsdatum größergleich als das Datum des aktuellen Zeitraums in Magellan (Schlüsselverzeichnis Zeiträume (Von), dann wird "am Ende" ausgegeben.
 3. Wird kein Abgangsdatum angegeben, wird "im Verlauf / am Ende" ausgegeben.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0114)** `Schüler > Zeugnis > Fächer (Position)** bzw. Abitur > Qualifikation (Position)`
+**Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position)** bzw. Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte `Zeugnis > Fächer` bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro Fach eine Position in der Spalte "Position" angegeben werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -9111,7 +9325,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -9228,7 +9442,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
@@ -9240,15 +9456,17 @@ Unterschieden werden 3 Fälle:
 2. Ist das Abgangsdatum größergleich als das Datum des aktuellen Zeitraums in Magellan (Schlüsselverzeichnis Zeiträume (Von), dann wird "am Ende" ausgegeben.
 3. Wird kein Abgangsdatum angegeben, wird "im Verlauf / am Ende" ausgegeben.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0114)** `Schüler > Zeugnis > Fächer (Position)** bzw. Abitur > Qualifikation (Position)`
+**Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position)** bzw. Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte `Zeugnis > Fächer` bzw. im Menü `Abitur` bei jedem Schüler auf der Registerkarte "Qualifikation" pro Fach eine Position in der Spalte "Position" angegeben werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -9261,7 +9479,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -9336,7 +9554,9 @@ Spalte 2 (rechts)** - hier erscheinen untereinander zunächst die Fächer des �
 
 Schul Z 302 – Zeugnis der Qualifikationsphase der gymnasialen Oberstufe (Gymnasium, ISS, Gemeinschaftsschule, berufliches Gymnasium) – (10.18)
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -9372,20 +9592,23 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0114)** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
+**Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
 Fach eine Position in der Spalte "Position" angegeben werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -9398,7 +9621,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -9406,7 +9629,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -9490,7 +9713,9 @@ Grundlage hierfür bildet das `Schlüsselverzeichnis > Klassenmerkmale`. Ergänz
 
 Schul Z 302 - Zeugnis der Qualifikationsphase der gymnasialen Oberstufe (Gymnasium, ISS, Gemeinschaftsschule, berufliches Gymnasium) – (11.19)
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -9546,20 +9771,24 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0114)** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
+**Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
 Fach eine Position in der Spalte "Position" angegeben werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -9572,7 +9801,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -9580,7 +9809,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -9674,7 +9903,9 @@ G9|G9|G9|MerkmalS4
 
 Schul Z 302 (12.07)
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -9708,20 +9939,24 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0114)** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
+**Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
 Fach eine Position in der Spalte "Position" angegeben werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -9730,7 +9965,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -9738,7 +9973,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -9808,7 +10043,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -9820,9 +10055,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0157)** `Eintrittsjahr Einführungsphase`Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
+**Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -9969,11 +10204,11 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0114)** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
+**Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
 Fach eine Position in der Spalte "Position" angegeben werden.
@@ -9986,9 +10221,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0157)** `Eintrittsjahr Einführungsphase`Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
+**Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -10136,11 +10371,11 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0114)** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
+**Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
 Fach eine Position in der Spalte "Position" angegeben werden.
@@ -10153,11 +10388,11 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0157)** `Eintrittsjahr Einführungsphase`
+**Eintrittsjahr Einführungsphase** 
 
 Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -10310,7 +10545,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 Zum Eintragen einer Zeugnisbemerkung muss im Abitur > Zeugnis > Zeugnisbemerkungen im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -10500,7 +10735,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 Zum Eintragen einer Zeugnisbemerkung muss im `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -10658,7 +10893,7 @@ PRS | PRS   |  5. Prüfungskomponente Präsentationsprüfung
 
 Fächerwahl - Zeilen Nr. - Für die Ausgabe der Fächerwahl (Zeile Nr.) gemäß Tabelle der Wahlmöglichkeiten tragen Sie im aktuellen Zeitraum  im Menu `Schüler > Zeugnis > Details` im Feld "Fachkombination" ein (Zahlenwert).
 
-**A0111** `Ausdruck`
+**A0111** 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
@@ -10765,7 +11000,7 @@ Für den Fall, dass eine Fremdsprache im 1. Halbjahr eines laufenden Schuljahres
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü `Abitur > Zeugnis` im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**A0111**	`Ausdruck`
+**A0111**	
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
@@ -10950,11 +11185,11 @@ eine "1", für die zweite eine "2" usw.
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0114)** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
+**Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
 Fach eine Position in der Spalte "Position" angegeben werden.
@@ -11131,7 +11366,7 @@ Für den Fall, dass eine Fremdsprache im 1. Halbjahr eines laufenden Schuljahres
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü `Abitur > Zeugnis` im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**A0111**	`Ausdruck`
+**A0111**	
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
@@ -11300,11 +11535,11 @@ eine "1", für die zweite eine "2" usw.
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0114)** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
+**Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
 Fach eine Position in der Spalte "Position" angegeben werden.
@@ -11395,6 +11630,8 @@ Schul Z 350 (10.07)
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
 **Zeugnisdatum**
+
+`Abitur > Qualifikation`
 Das Zeugnisdatum geben Sie bitte unter `Abitur > Qualifikation` auf der rechten Seite im Feld `Zeugnisdatum` ein. Sie können das Feld auch für mehrere Schüler in einem Arbeitsgang mit dem Datum versehen, nutzen Sie dafür bitte den Aufruf zur `Sammelzuweisung` auf der Karte `Prüfungen`.
 
 **(A0030)** `Abitur > Qualifikation`
@@ -11406,7 +11643,7 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -11414,7 +11651,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -11451,7 +11688,7 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -11496,7 +11733,7 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -11541,7 +11778,7 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -11586,7 +11823,7 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -11618,7 +11855,9 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Qualifikation` im Feld "Zeugnisda
 
 Schul Z 510 (12.13)
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -11646,11 +11885,13 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -11662,7 +11903,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -11670,7 +11911,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -11736,7 +11977,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflicht
 FachT | FachT | Fachtheoretischer Bereich
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -11794,7 +12035,9 @@ Beachten Sie beim Fachrichtungsbezogenen und Wahlpflicht Unterricht, je nach gew
 
 Schul Z 600 (06.08)
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -11802,11 +12045,11 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -11820,11 +12063,13 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -11844,7 +12089,7 @@ Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt
 
 ### Schülerliste Berufsschulmatrix BS-BER mit Meldungen.rpt
 
-**(A0113)** `Ausdruck`
+**(A0113)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Berufsschule" gedruckt werden.
 
@@ -11915,19 +12160,21 @@ Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweise
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -11977,7 +12224,7 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 323
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -12001,7 +12248,7 @@ Jahrgänge/Halbjahr | Ausgabe im Bericht/Zeugnis
 13/1 | 3. KS
 13/2 | 4. KS
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -12016,7 +12263,7 @@ Variante 2 | schulischer Teil der Fachhochschulreife | Jahrgang 12 (2.HJ); Jahrg
 
 Den Jahrgang tragen Sie im entsprechenden Zeitraum bei der Klasse des Schülers im Menü `Klassen > Zeiträume > Jahrgang` ein. Das jeweilige Halbjahr ergibt sich automatisch aus dem Druckzeitraum, entsprechend wird auf dem Zeugnis Variante 1 oder 2 ausgegeben. 
 
-**(A0157)** `Eintrittsjahr Einführungsphase`
+**Eintrittsjahr Einführungsphase** 
 
 Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
@@ -12067,12 +12314,12 @@ Kürzel | Bezeichnung | Notenart
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
 
-**(A0300)** `Schlüsselverzeichnisse > Noten`
+**Noten** `Extras > Schlüsselverzeichnisse > Noten`
 
 Die Kürzel der Punkte müssen zweistellig (einstellig und eine Führungsnull) sein. 
 Beim Anlegen von Punkten im `Schlüsselverzeichnis > Noten` (Notenart: Punkte) mit einem Notenwert kleiner 10 (0-9) weisen Sie im Feld "Notenkürzel" dem Notenwert eine "0" voran (z.B. "00", "03" usw.).
 
-**(A0114)** `Schüler > Zeugnis > Fächer (Position)** bzw. Abitur > Qualifikation (Position)`
+**Fächerpositionierung** `Schüler > Zeugnis > Fächer (Position)** bzw. Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte `Zeugnis > Fächer` bzw. im Menü `Abitur` bei jedem Schüler auf der Registerkarte "Qualifikation" pro Fach eine Position in der Spalte "Position" angegeben werden.
 
@@ -12171,7 +12418,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "
 Zum Eintragen einer Zeugnisbemerkung muss im `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
-**A0111**	`Ausdruck`
+**A0111**	
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
@@ -12305,7 +12552,7 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Zum Eintragen einer Zeugnisbemerkung muss im Abitur > Zeugnis > Zeugnisbemerkungen im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -12466,7 +12713,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -12478,7 +12725,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -12556,7 +12803,7 @@ Schul Z 324
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -12564,7 +12811,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -12623,25 +12870,31 @@ Die Schule wurde NICHT durchgehend besucht | "Von1" tragen Sie unter `Schüler >
 
 Schul Z 320 (06.07)
 
-**(A0300)** `Schlüsselverzeichnisse > Noten`
+**Noten** `Schlüsselverzeichnisse > Noten`
 
 Die Kürzel der Punkte müssen zweistellig (einstellig und eine Führungsnull) sein. 
 Beim Anlegen von Punkten im `Schlüsselverzeichnis > Noten` (Notenart: Punkte) mit einem Notenwert kleiner 10 (0-9) weisen Sie im Feld "Notenkürzel" dem Notenwert eine "0" voran (z.B. "00", "03" usw.).
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -12649,7 +12902,7 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -12664,7 +12917,7 @@ Kürzel | Schlüssel | Bezeichnung
 WahlPF | WahlPF | Wahlpflichtfach
 VU | VU | Verstärkungsunterricht
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -12681,7 +12934,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -12718,25 +12973,31 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 320a-b (03.11)
 
-**(A0300)** `Schlüsselverzeichnisse > Noten`
+**Noten** `Schlüsselverzeichnisse > Noten`
 
 Die Kürzel der Punkte müssen zweistellig (einstellig und eine Führungsnull) sein. 
 Beim Anlegen von Punkten im `Schlüsselverzeichnis > Noten` (Notenart: Punkte) mit einem Notenwert kleiner 10 (0-9) weisen Sie im Feld "Notenkürzel" dem Notenwert eine "0" voran (z.B. "00", "03" usw.).
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -12744,7 +13005,7 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -12759,7 +13020,7 @@ Kürzel | Schlüssel | Bezeichnung
 WahlPF | WahlPF | Wahlpflichtfach
 VU | VU | Verstärkungsunterricht
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -12776,7 +13037,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -12813,7 +13076,7 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 322 (03.11)
 
-**Fehlzeiten**
+**Fehltage und/oder Fehlstunden**
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
@@ -13017,20 +13280,26 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 322
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum**
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -13045,7 +13314,7 @@ Jahrgang | Ausgabe
 13 | 3. und 4. HJ
 usw. | usw.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -13131,7 +13400,9 @@ Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweise
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
@@ -13143,32 +13414,37 @@ Unterschieden werden 3 Fälle:
 2. Ist das Abgangsdatum größergleich als das Datum des aktuellen Zeitraums in Magellan (Schlüsselverzeichnis Zeiträume (Von), dann wird "am Ende" ausgegeben.
 3. Wird kein Abgangsdatum angegeben, wird "im Verlauf / am Ende" ausgegeben.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0157)** `Eintrittsjahr Einführungsphase`Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
+**Eintrittsjahr Einführungsphase**  
 
-**(A0300)** `Schlüsselverzeichnisse > Noten`
+Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
+
+**Noten** 
+
+`Extras > Schlüsselverzeichnisse > Noten`
 
 Die Kürzel der Punkte müssen zweistellig (einstellig und eine Führungsnull) sein. 
 Beim Anlegen von Punkten im `Schlüsselverzeichnis > Noten` (Notenart: Punkte) mit einem Notenwert kleiner 10 (0-9) weisen Sie im Feld "Notenkürzel" dem Notenwert eine "0" voran (z.B. "00", "03" usw.).
 
-**(A0602)** 
-`Abitur > Zeugnisbemerkungen`
+**Zeugnisbemerkungen**
 
-`Schüler > Zeugnis > Bemerkungen/Formulare`
+`Abitur > Zeugnisbemerkungen` oder `Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü `Abitur > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
+Bemerkungen legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü `Abitur > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
 Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B. So `<<hier steht Ihr Platzhalter>>`. 
 
 Möglich sind:
@@ -13188,7 +13464,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 321
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
@@ -13200,16 +13478,18 @@ Unterschieden werden 3 Fälle:
 2. Ist das Abgangsdatum größergleich als das Datum des aktuellen Zeitraums in Magellan (Schlüsselverzeichnis Zeiträume (Von), dann wird "am Ende" ausgegeben.
 3. Wird kein Abgangsdatum angegeben, wird "im Verlauf / am Ende" ausgegeben.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -13248,7 +13528,7 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgan
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**(A0157)** `Eintrittsjahr Einführungsphase`Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
+**Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
@@ -13280,7 +13560,9 @@ Schul Z 371 (02.12)
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein.
 Hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -13296,15 +13578,19 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -13313,11 +13599,11 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -13355,7 +13641,7 @@ Platzhalter | Ausgabe im Bericht
 
 ### BER-BBS (Zeugniskarte).rpt
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -13378,7 +13664,7 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 Die ausgegebenen Fächer entsprechen der bei der jeweiligen Klasse im Menü Klassen > Zeiträume hinterlegten Fachtafeln im Feld "Fachtafel". Die Fächer der dort hinterlegten Fachtafeln müssen Positionen enthalten.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -13425,11 +13711,13 @@ Platzhalter | Ausgabe im Bericht
 
 ### BER-BF-AS (einjährig).rpt
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -13437,7 +13725,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -13537,15 +13825,18 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -13558,7 +13849,7 @@ Tragen Sie die Durchschnittsnote im Menü Schüler > Zeugnis > Leistungen im Fel
 
 Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Zeitraum den Beruf des Schülers im Feld "Beruf" ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet das Schlüsselverzeichnis Berufe. Anschließend tragen Sie im Feld "Ausbildung von" den Beginn der Berufsausbildung ein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -13613,15 +13904,19 @@ Tragen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" die Jahr
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -13630,7 +13925,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -13712,15 +14007,19 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ### BER-BF-AZ (einjährig).rpt
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -13729,7 +14028,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -13841,20 +14140,26 @@ Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweise
 
 ### BER-BF-HJZ (einjährig).rpt
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -13862,7 +14167,7 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -13937,11 +14242,13 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 520b (07.09)
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -13949,7 +14256,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -13976,7 +14285,7 @@ Hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verf
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das Schlüsselverzeichnis > Dienstbezeichnungen.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -14001,7 +14310,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -14093,20 +14404,24 @@ Platzhalter | Ausgabe im Bericht
 `<<Anrede4>>` | ihm/ihr (je nach Geschlecht des Schülers)
 `<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -14236,16 +14551,18 @@ Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Fächer` im Feld
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -14253,7 +14570,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Für die korrekte Ausgabe der Fächernoten im Fachrichtungsübergreifenden und Fachrichtungsbezogenen Unterricht tragen Sie die Noten im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Leistungen` in der Notenspalte "Endnote" ein. Die Ausgabe der Fächernoten in den Prüfungsfächern tragen Sie in der Notenspalte "Endnote(Gesamt)" ein.
 
-**(A0239)** `Ausdruck`
+**(A0239)** 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -14326,15 +14643,19 @@ Platzhalter | Ausgabe im Bericht
 `<<Anrede4>>` | ihm/ihr (je nach Geschlecht des Schülers)
 `<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -14343,7 +14664,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -14404,7 +14725,7 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -14495,7 +14816,7 @@ Schul Z 531 (09.05)
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -14695,7 +15016,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -14758,7 +15079,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 530 (03.05)
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
@@ -14766,7 +15089,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -14784,7 +15109,7 @@ Jahrgang | Ausgabe im Bericht/Zeugnis
 11 | 1. und 2. HJ
 12 | 3. und 4. HJ
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -14854,7 +15179,9 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -14914,15 +15241,19 @@ Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Fel
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -14931,7 +15262,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -14965,7 +15296,9 @@ Schul Z 505 a-b-c
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein.
 Hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -14992,15 +15325,19 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schül
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -15009,7 +15346,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -15074,7 +15411,9 @@ Nicht mehr verwenden! Nutzen Sie BER-BQL TZ-HJZ (Schul Z 505 a-b-c).rpt
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein.
 Hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -15103,15 +15442,19 @@ Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Fel
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -15120,7 +15463,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -15132,19 +15475,23 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 Nicht mehr verwenden! Nutzen Sie BER-BQL TZ-HJZ (Schul Z 505 a-b-c).rpt
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -15234,7 +15581,7 @@ Platzhalter | Ausgabe im Bericht
 Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü "Berufsschule" in der Registerkarte "Matrix" im Feld "Gesamtnote" ein. Diese wird auch automatisch durch das Berufsschulskript berechnet und entsprechend
 hinterlegt.
 
-**(A0113)** `Ausdruck`
+**(A0113)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Berufsschule" gedruckt werden.
 
@@ -15246,7 +15593,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Zeitraum den Beruf des Schülers im Feld "Beruf" ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet das Schlüsselverzeichnis Berufe. Anschließend tragen Sie im Feld "Ausbildung von" den Beginn der Berufsausbildung ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -15301,7 +15648,7 @@ Schul Z 502
 Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü "Berufsschule" in der Registerkarte "Matrix" im Feld "Gesamtnote" ein. Diese wird auch automatisch durch das Berufsschulskript berechnet und entsprechend
 hinterlegt.
 
-**(A0113)** `Ausdruck`
+**(A0113)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Berufsschule" gedruckt werden.
 
@@ -15326,7 +15673,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Zeitraum den Beruf des Schülers im Feld "Beruf" ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet das Schlüsselverzeichnis Berufe. Anschließend tragen Sie im Feld "Ausbildung von" den Beginn der Berufsausbildung ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -15416,7 +15763,9 @@ Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweise
 
 Für die Ausgabe des Berufsfeldes müssen Sie entweder das Berufsfeld einer Klasse definieren (folgen Sie hierbei den Anmerkungen in A37/37.3. oder das des Schülers (folgen Sie hierbei den Anmerkungen in A39).
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Klassenjahrgang** 
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -15450,7 +15799,7 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0113)** `Ausdruck`
+**(A0113)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Berufsschule" gedruckt werden.
 
@@ -15463,7 +15812,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -15543,7 +15892,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -15660,7 +16009,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 ### BER-BS-HJZ (2006).rpt
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
@@ -15671,11 +16022,13 @@ z.B.
 1 Jahrgang = 1. und 2. HJ
 2 Jahrgang = 3. und 4. HJ usw.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -15742,11 +16095,13 @@ Platzhalter | Ausgabe im Bericht
 `<<Anrede4>>` | ihm/ihr (je nach Geschlecht des Schülers)
 `<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
@@ -15757,11 +16112,13 @@ z.B.
 1 Jahrgang = 1. und 2. HJ
 2 Jahrgang = 3. und 4. HJ usw.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -15828,15 +16185,19 @@ Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweise
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -15845,7 +16206,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -15874,15 +16235,17 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 506 a (BQL VZ)
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -16004,20 +16367,24 @@ Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweise
 
 Schul Z 507 a (BGL VZ)
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -16086,24 +16453,28 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 505 b (BQL FL)
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum** 
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**(A0112)** `Ausdruck`
+**Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+Zeugnisbemerkungen `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage und/oder Fehlstunden** 
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -16198,7 +16569,7 @@ Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -16206,7 +16577,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 3" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -16261,7 +16632,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**(A0111)** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -16281,7 +16652,7 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0145)** `Schriftart`
+**Schriftart** 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 

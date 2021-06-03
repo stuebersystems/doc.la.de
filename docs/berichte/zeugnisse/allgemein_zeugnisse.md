@@ -38,7 +38,7 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
 
-**Ausdruck** `Ausdruck`
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -54,7 +54,7 @@ Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details 
 
 Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten im Menü `Abitur > Prüfung` in den Feldern "schriftliche Note" und "mündliche Note" eingetragen sein.
 
-**Ausdruck** `Ausdruck`
+**Ausdruck**
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
