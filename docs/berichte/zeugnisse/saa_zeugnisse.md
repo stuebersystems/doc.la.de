@@ -2,7 +2,9 @@
 
 ## SAA-AG-ABI (DIN A3).rpt
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
+
+`Ausdruck > DIN A 3 Format, doppelseitig
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -12,7 +14,9 @@ Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage.
 
 ## SAA-AG-AZ (Einführungsphase).rpt
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
@@ -39,7 +43,9 @@ Projekt | Projekt | Fach für das Kolloquium oder Projekt
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+**Unterrichtsarten**
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
@@ -58,7 +64,9 @@ WPU3 | WPU3 | Fächer des Wahlplfichbereichs III
 
 ## SAA-AG-AZ (Qualifikationsphase).rpt
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
@@ -93,7 +101,9 @@ Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 
 ## SAA-GES-AZ (Einführungsphase).rpt
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
@@ -120,7 +130,9 @@ Projekt | Projekt | Fach für das Kolloquium oder Projekt
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+**Unterrichtsarten**
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
@@ -145,7 +157,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 ## SAA-GES-AZ (Qualifikationsphase).rpt
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
@@ -185,11 +199,15 @@ Schüler auf der Registerkarte "Zeugnis" unter "Fächer" dieses Fach zu. Die Def
 Kürzel > Schlüssel > Bezeichnung
 GESAMTB 	> GESAMTB >Gesamtbeurteilung
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage, Fehlstunden**
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -206,11 +224,15 @@ Schüler auf der Registerkarte "Zeugnis" unter "Fächer" dieses Fach zu. Die Def
 Kürzel > Schlüssel > Bezeichnung
 GESAMTB 	> GESAMTB >Gesamtbeurteilung
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage, Fehlstunden**
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -251,7 +273,9 @@ MSPRACHE |  MSPRACHE  |  Mündlicher Sprachgebrach
 RECHTS  | RECHTS  |  Rechtschreibung/Sprachgebrauch
 SSPRACHE |  SSPRACHE  |  Schriftlicher Sprachgebrauch
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
@@ -259,15 +283,21 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+**Zeugniskonferenzdatum**
 
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+`Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+
+**Versetzung**
+
+`Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage, Fehlstunden**
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -308,7 +338,9 @@ MSPRACHE |  MSPRACHE  |  Mündlicher Sprachgebrach
 RECHTS  | RECHTS  |  Rechtschreibung/Sprachgebrauch
 SSPRACHE |  SSPRACHE  |  Schriftlicher Sprachgebrauch
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
@@ -316,15 +348,21 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+**Zeugniskonferenzdatum**
 
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+`Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+
+**Versetzung**
+
+`Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage, Fehlstunden**
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -347,7 +385,9 @@ ZusatzK  |  Allgemeine Beurteilung
 
 ## SAA-GY-ABI (DIN A3).rpt
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
+
+`Ausdruck > DIN A 3 Format, doppelseitig
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -361,7 +401,9 @@ Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage.
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
@@ -388,7 +430,9 @@ Projekt | Projekt | Fach für das Kolloquium oder Projekt
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+**Unterrichtsarten**
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
@@ -413,7 +457,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 ## SAA-GY-AZ (Modellversuch 13).rpt
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
@@ -448,7 +494,9 @@ Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 
 ## SAA-GY-AZ (Qualifikationsphase).rpt
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
@@ -504,7 +552,9 @@ Projekt | Projekt | Fach für das Kolloquium oder Projekt
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+**Unterrichtsarten**
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
@@ -529,7 +579,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 ## SAA-GY-HJZ (Schuljahrgänge (5) 7-10).rpt
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
@@ -537,15 +589,21 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+**Zeugniskonferenzdatum**
 
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+`Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+
+**Versetzung**
+
+`Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage, Fehlstunden**
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -572,7 +630,9 @@ Projekt | Projekt | Fach für das Kolloquium oder Projekt
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+**Unterrichtsarten**
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
@@ -597,7 +657,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 ## SAA-GY-JZ (Schuljahrgänge (5) 7-10).rpt
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
@@ -605,15 +667,21 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+**Zeugniskonferenzdatum**
 
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+`Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+
+**Versetzung**
+
+`Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage, Fehlstunden**
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -640,7 +708,9 @@ Projekt | Projekt | Fach für das Kolloquium oder Projekt
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+**Unterrichtsarten**
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
@@ -665,7 +735,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 ## SAA-KO-ABI (DIN A3).rpt
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
+
+`Ausdruck > DIN A 3 Format, doppelseitig
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -675,7 +747,9 @@ Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage.
 
 ## SAA-KO-AZ (Einführungsphase).rpt
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
@@ -702,7 +776,9 @@ Projekt | Projekt | Fach für das Kolloquium oder Projekt
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+**Unterrichtsarten**
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
@@ -727,7 +803,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 ## SAA-KO-AZ (Qualifikationsphase).rpt
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 

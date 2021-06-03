@@ -821,9 +821,11 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0210)** Schüler > Zeugnis > Leistungen
+**Fächer ohne Benotung**
 
-Fächer, denen keine Note zugewiesen wurde, werden auf dem Zeugnis nicht angezeigt.
+`Schüler > Zeugnis > Leistungen`
+
+Fächer, denen keine Note unter `Schüler > Zeugnis > Leistungen` zugewiesen wurde, werden auf dem Zeugnis nicht angezeigt.
 
 **Sortierung der Fächer** 
 

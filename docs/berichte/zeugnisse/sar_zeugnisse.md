@@ -50,7 +50,9 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
-**(A0183)** `Mandanten > Daten 1 > Ort`
+**Ort des Druckdatums**
+
+`Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
@@ -86,7 +88,9 @@ V4 = nicht befriedigend
 
 ## SAR-AZ-Verhaltenszeugnis.rpt
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage, Fehlstunden**
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -136,7 +140,9 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
-**(A0183)** `Mandanten > Daten 1 > Ort`
+**Ort des Druckdatums**
+
+`Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
@@ -776,13 +782,17 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0025)** `Schüler > Laufbahn > Abschluss`
+**Abschlussdatum**
+
+`Schüler > Laufbahn > Abschluss`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0027)** `Schüler > Laufbahn > Allgemein > Abgang`
+**Zugangs- bzw. Abgangsdatum**
 
-Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+`Schüler > Laufbahn > Allgemein`
+
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster..
 
 **Schulname** 
 
@@ -803,13 +813,15 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum**
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
-**(A0112)** `Ausdruck`
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **Benotung** 
 
@@ -817,7 +829,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0183)** `Mandanten > Daten 1 > Ort`
+**Ort des Druckdatums**
+
+`Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
@@ -915,9 +929,11 @@ Platzhalter | Ausgabe im Bericht
 ``<<Herrn>>`` | Herrn
 ``<<Er>>`` | Er
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+**Zeugniskonferenzdatum**
 
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+`Schueler > Zeugnis > Details > Zeugniskonferenz am`
+
+Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
 **Fachstatus** 
 
@@ -943,13 +959,17 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0025)** `Schüler > Laufbahn > Abschluss`
+**Abschlussdatum**
+
+`Schüler > Laufbahn > Abschluss`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0027)** `Schüler > Laufbahn > Allgemein > Abgang`
+**Zugangs- bzw. Abgangsdatum**
 
-Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+`Schüler > Laufbahn > Allgemein`
+
+Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster..
 
 **Schulname** 
 
@@ -970,13 +990,15 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum**
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
-**(A0112)** `Ausdruck`
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **Benotung** 
 
@@ -984,7 +1006,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0183)** `Mandanten > Daten 1 > Ort`
+**Ort des Druckdatums**
+
+`Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
@@ -1320,15 +1344,21 @@ Ein Handout zu den Zeugnissen finden Sie auf den BSCW Server des Ministeriums f�
 
 ## SAR-GY-HJZ-JZ (Klasse 5-9).rpt
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+**Zeugniskonferenzdatum**
 
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+`Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+
+**Fehltage, Fehlstunden**
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+**Unterrichtsarten**
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
@@ -1364,13 +1394,15 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0100)** `Schüler > Zeugnis > Details > Zeugnisdatum`
+**Zeugnisdatum**
 
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
-**(A0112)** `Ausdruck`
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
@@ -1381,7 +1413,9 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Im Menü `Klassen > Daten` muss bei der Klasse des Schülers im Feld "Beurteilungsart" "Benotung durch Noten" angegeben sein.
 
-**(A0183)** `Mandanten > Daten 1 > Ort`
+**Ort des Druckdatums**
+
+`Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
@@ -1462,7 +1496,9 @@ Ein Handout zu den Zeugnisformularen Klassenstufen 5-10 (Gymnasium)** ist auf de
 
 ## SAR-GY-HJZ-JZ (Klassenstufen 5-9).rpt
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
@@ -1470,15 +1506,21 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+**Zeugniskonferenzdatum**
 
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+`Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
-**(A0010)** `Schueler > Laufbahn > Allgemein > Versetzt`
+Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+
+**Versetzung**
+
+`Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage, Fehlstunden**
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -1490,7 +1532,9 @@ Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis >
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0019)** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+**Unterrichtsarten**
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
@@ -1536,9 +1580,9 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Art". Tragen Sie den von und bis Zeitraum unter "Von" und "Bis" ein.
 
-**(A0112)** `Ausdruck`
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **(A0134)** `Schüler > Zeugnis > Leistungen > Endnote`
 

@@ -2391,7 +2391,9 @@ Kürzel | Schlüssel | Bezeichnung
 BU | BU | Fachbezogener / Berufsbezogener Lernbereich (Unterricht)
 BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)
 
-**(A0026)** `Schüler > Laufbahn > Allgemein > Schulformeintritt`
+**Schulformeintritt**
+
+`Schüler > Laufbahn > Allgemein`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
@@ -3164,9 +3166,11 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Fächerwahl - Zeilen Nr. - Für die Ausgabe der Fächerwahl (Zeile Nr.) gemäß Tabelle der Wahlmöglichkeiten tragen Sie im aktuellen Zeitraum im Menu `Schüler > Zeugnis > Details` im Feld "Fachkombination" ein (Zahlenwert).
 
-**(A0073.)** `Schüler > Laufbahn > Allgemein > Wiederholer`
+**Wiederholer**
 
-Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden. 
+`Schüler > Laufbahn > Allgemein > Wiederholer`
+
+Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum  im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden.
 
 **Zeiträume** 
 
@@ -3338,15 +3342,19 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" 
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0163.)** `Abitur > Qualifikation`
+**Unterscheidung Präsentation / Besonderen Lernleistung**
 
-Bei der 5. Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
+`Abitur > Qualifikation`
+
+Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
 
 5. Prüfungskomponente | Vorgehensweise in MAGELLAN
 --|--
-Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü` Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.<br/><br/> Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
-Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren. <br/><br/>Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu (`Abitur > Prüfung > Lernleistung`), die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
+Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.
+Des Weiteren wird im Menü `Abitur > Prüfung` im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
+Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
+markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. `Abitur >  Prüfung > Lernleistung`, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 **Fächerpositionierung**
 
 `Schüler > Zeugnis > Fächer > Position`
@@ -3440,32 +3448,42 @@ Wird ein Schüler "Gem. § 42 (1. und (2. VO-GO von der mündlichen Prüfung aus
 
 Fächerwahl - Zeilen Nr. - Für die Ausgabe der Fächerwahl (Zeile Nr.) gemäß Tabelle der Wahlmöglichkeiten tragen Sie im aktuellen Zeitraum im Menu `Schüler > Zeugnis > Details` im Feld "Fachkombination" ein (Zahlenwert).
 
-**(A0073.)** `Schüler > Laufbahn > Allgemein > Wiederholer`
+**Wiederholer**
 
-Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden. 
+`Schüler > Laufbahn > Allgemein > Wiederholer`
 
-**(A0074)** Abitur > Prüfung > schriftliche Note
+Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum  im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden.
 
-Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im Feld "schriftliche Note" abändern.
+**schriftliche Note**
+
+`Abitur > Prüfung > schriftliche Note`
+
+Die Punkte des "1. Gutachten" tragen Sie im Menü `Abitur > Prüfung` im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank  abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü `Abitur > Prüfung` im  Feld "schriftliche Note" abändern.
 
 `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**(A0122. Abitur > Prüfung > Lernleistung
+**besondere Lernleistung**
 
-Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
-Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. 
+´Abitur > Prüfung > Lernleistung´
 
-**(A0163.)** `Abitur > Qualifikation`
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü ´Abitur > Prüfung´ im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
+Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
 
-Bei der 5. Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
+**Unterscheidung Präsentation / Besonderen Lernleistung**
+
+`Abitur > Qualifikation`
+
+Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
 
 5. Prüfungskomponente | Vorgehensweise in MAGELLAN
 --|--
-Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü` Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.<br/><br/> Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
-Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren. <br/><br/>Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu (`Abitur > Prüfung > Lernleistung`), die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
+Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.
+Des Weiteren wird im Menü `Abitur > Prüfung` im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
+Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
+markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. `Abitur >  Prüfung > Lernleistung`, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 **(A0164)** Schlüsselverzeichnis > Fächer
 
 Um den Seminarkurs auszugeben, legen Sie unter Schlüsselverzeichnis > Fächer ein Fach mit dem Schlüssel "SK" an. Wichtig ist, dass diesem Fach kein Aufgabenbereich zugeordnet wird. Die Benotung erfolgt analog zu den anderen Fächern.
@@ -3528,10 +3546,12 @@ Platzhalter | Ausgabe im Bericht
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**(A0122. Abitur > Prüfung > Lernleistung
+**besondere Lernleistung**
 
-Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
-Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. 
+´Abitur > Prüfung > Lernleistung´
+
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü ´Abitur > Prüfung´ im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
+Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
 
 **Fachstatus** 
 
@@ -3548,15 +3568,19 @@ Kürzel | Schlüssel | Bezeichnung
 3 PF | 3 PF | 3. Prüfungsfach
 4 PF | 4 PF | 4. Prüfungsfach
 
-**(A0163.)** `Abitur > Qualifikation`
+**Unterscheidung Präsentation / Besonderen Lernleistung**
 
-Bei der 5. Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
+`Abitur > Qualifikation`
+
+Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
 
 5. Prüfungskomponente | Vorgehensweise in MAGELLAN
 --|--
-Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü` Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.<br/><br/> Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
-Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren. <br/><br/>Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu (`Abitur > Prüfung > Lernleistung`), die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
+Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.
+Des Weiteren wird im Menü `Abitur > Prüfung` im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
+Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
+markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. `Abitur >  Prüfung > Lernleistung`, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 **(A0164)** Schlüsselverzeichnis > Fächer
 
 Um den Seminarkurs auszugeben, legen Sie unter Schlüsselverzeichnis > Fächer ein Fach mit dem Schlüssel "SK" an. Wichtig ist, dass diesem Fach kein Aufgabenbereich zugeordnet wird. Die Benotung erfolgt analog zu den anderen Fächern.
@@ -3577,13 +3601,17 @@ Wird ein Schüler "Gem. § 42 (1. und (2. VO-GO von der mündlichen Prüfung aus
 
 Fächerwahl - Zeilen Nr. - Für die Ausgabe der Fächerwahl (Zeile Nr.) gemäß Tabelle der Wahlmöglichkeiten tragen Sie im aktuellen Zeitraum im Menu `Schüler > Zeugnis > Details` im Feld "Fachkombination" ein (Zahlenwert).
 
-**(A0073.)** `Schüler > Laufbahn > Allgemein > Wiederholer`
+**Wiederholer**
 
-Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden. 
+`Schüler > Laufbahn > Allgemein > Wiederholer`
 
-**(A0074)** Abitur > Prüfung > schriftliche Note
+Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum  im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden.
 
-Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im Feld "schriftliche Note" abändern.
+**schriftliche Note**
+
+`Abitur > Prüfung > schriftliche Note`
+
+Die Punkte des "1. Gutachten" tragen Sie im Menü `Abitur > Prüfung` im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank  abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü `Abitur > Prüfung` im  Feld "schriftliche Note" abändern.
 
 ### BER-Abi-8 (05.20).rpt
 
@@ -4684,7 +4712,6 @@ Abi-18a – Ausschließlich für Prüfungsjahr 2020/2021 - Mitteilungen zu den s
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**A0015.97**
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 1PF         |  1PF | 1. Prüfungsfach
@@ -4706,15 +4733,19 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**A0145**	`Sonstiges`
+**Schriftart SenBJS**
 
-Schriftart: Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
+Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**A0172** `Abitur > Prüfung > Konferenzdatum`
+**Konferenzdatum**
 
-Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Konferenzdatum" ein."
+`Abitur > Prüfung > Konferenzdatum`
 
-**A0503** `Abitur > Qualifikation`
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Konferenzdatum" ein.
+
+**Unterscheidung „Präsentationprüfung“ und  „Besondere Lernleistung“**
+
+`Abitur > Qualifikation`
 
 Bei der 5. Prüfungskomponente wird zwischen einer „Präsentationprüfung“ und der „Besonderen Lernleistung“ unterschieden. Gehen Sie jeweils wie folgt vor:
 
@@ -4768,9 +4799,11 @@ Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-**(A0172. Abitur > Prüfung > Konferenzdatum
+**Konferenzdatum**
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Konferenzdatum" ein. 
+`Abitur > Prüfung > Konferenzdatum`
+
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Konferenzdatum" ein.
 
 **Unterscheidung Präsentationprüfung“ und der „Besonderen Lernleistung**
 
@@ -4817,7 +4850,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0071. Ausdruck
+**Ausdruck**
 
 Wird ein Schüler "Gem. § 42 (1. und (2. VO-GO von der mündlichen Prüfung ausgeschlossen", muss dies nach Druckfertigstellung manuell in dem vorgesehenen Feld angekreuzt werden.
 
@@ -4827,32 +4860,42 @@ Wird ein Schüler "Gem. § 42 (1. und (2. VO-GO von der mündlichen Prüfung aus
 
 Fächerwahl - Zeilen Nr. - Für die Ausgabe der Fächerwahl (Zeile Nr.) gemäß Tabelle der Wahlmöglichkeiten tragen Sie im aktuellen Zeitraum im Menu `Schüler > Zeugnis > Details` im Feld "Fachkombination" ein (Zahlenwert).
 
-**(A0073.)** `Schüler > Laufbahn > Allgemein > Wiederholer`
+**Wiederholer**
 
-Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden. 
+`Schüler > Laufbahn > Allgemein > Wiederholer`
 
-**(A0074)** Abitur > Prüfung > schriftliche Note
+Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum  im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden.
 
-Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im Feld "schriftliche Note" abändern.
+**schriftliche Note**
+
+`Abitur > Prüfung > schriftliche Note`
+
+Die Punkte des "1. Gutachten" tragen Sie im Menü `Abitur > Prüfung` im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank  abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü `Abitur > Prüfung` im  Feld "schriftliche Note" abändern.
 
 `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**(A0122. Abitur > Prüfung > Lernleistung
+**besondere Lernleistung**
 
-Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
-Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. 
+´Abitur > Prüfung > Lernleistung´
 
-**(A0163.)** `Abitur > Qualifikation`
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü ´Abitur > Prüfung´ im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
+Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
 
-Bei der 5. Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
+**Unterscheidung Präsentation / Besonderen Lernleistung**
+
+`Abitur > Qualifikation`
+
+Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
 
 5. Prüfungskomponente | Vorgehensweise in MAGELLAN
 --|--
-Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü` Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.<br/><br/> Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
-Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren. <br/><br/>Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu (`Abitur > Prüfung > Lernleistung`), die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
+Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.
+Des Weiteren wird im Menü `Abitur > Prüfung` im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
+Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
+markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. `Abitur >  Prüfung > Lernleistung`, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 **(A0164)** Schlüsselverzeichnis > Fächer
 
 Um den Seminarkurs auszugeben, legen Sie unter Schlüsselverzeichnis > Fächer ein Fach mit dem Schlüssel "SK" an. Wichtig ist, dass diesem Fach kein Aufgabenbereich zugeordnet wird. Die Benotung erfolgt analog zu den anderen Fächern.
@@ -4942,13 +4985,17 @@ Wird ein Schüler "Gem. § 42 (1. und (2. VO-GO von der mündlichen Prüfung aus
 
 Fächerwahl - Zeilen Nr. - Für die Ausgabe der Fächerwahl (Zeile Nr.) gemäß Tabelle der Wahlmöglichkeiten tragen Sie im aktuellen Zeitraum im Menu `Schüler > Zeugnis > Details` im Feld "Fachkombination" ein (Zahlenwert).
 
-**(A0073.)** `Schüler > Laufbahn > Allgemein > Wiederholer`
+**Wiederholer**
 
-Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden. 
+`Schüler > Laufbahn > Allgemein > Wiederholer`
 
-**(A0074)** Abitur > Prüfung > schriftliche Note
+Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum  im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden.
 
-Die Punkte des "1. Gutachten" tragen Sie im Menü Abitur > Prüfung im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im Feld "schriftliche Note" abändern.
+**schriftliche Note**
+
+`Abitur > Prüfung > schriftliche Note`
+
+Die Punkte des "1. Gutachten" tragen Sie im Menü `Abitur > Prüfung` im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank  abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü `Abitur > Prüfung` im  Feld "schriftliche Note" abändern.
 
 **Zeugnisbemerkungen Abitur**
 
@@ -5108,9 +5155,11 @@ Wird ein Schüler "Gem. § 42 (1. und (2. VO-GO von der mündlichen Prüfung aus
 
 Fächerwahl - Zeilen Nr. - Für die Ausgabe der Fächerwahl (Zeile Nr.) gemäß Tabelle der Wahlmöglichkeiten tragen Sie im aktuellen Zeitraum im Menu `Schüler > Zeugnis > Details` im Feld "Fachkombination" ein (Zahlenwert).
 
-**(A0073.)** `Schüler > Laufbahn > Allgemein > Wiederholer`
+**Wiederholer**
 
-Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden. 
+`Schüler > Laufbahn > Allgemein > Wiederholer`
+
+Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum  im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden.
 
 **(A0074)** `Abitur > Prüfung > schriftliche Note`
 
@@ -5305,15 +5354,19 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Um den Seminarkurs auszugeben, legen Sie unter `Schlüsselverzeichnis > Fächer` ein Fach mit dem Schlüssel "SK" an. Wichtig ist, dass diesem Fach kein Aufgabenbereich zugeordnet wird. Die Benotung erfolgt analog zu den anderen Fächern.
 
-**(A0163.)** `Abitur > Qualifikation`
+**Unterscheidung Präsentation / Besonderen Lernleistung**
 
-Bei der 5. Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
+`Abitur > Qualifikation`
+
+Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
 
 5. Prüfungskomponente | Vorgehensweise in MAGELLAN
 --|--
-Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü` Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.<br/><br/> Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
-Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren. <br/><br/>Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu (`Abitur > Prüfung > Lernleistung`), die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
+Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.
+Des Weiteren wird im Menü `Abitur > Prüfung` im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
+Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
+markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. `Abitur >  Prüfung > Lernleistung`, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
 **Fächerpositionierung**
 
@@ -6901,9 +6954,11 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-**(A0009)** `Schueler > Zeugnis > Details > Zeugniskonferenz am`
+**Zeugniskonferenzdatum**
 
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+`Schueler > Zeugnis > Details > Zeugniskonferenz am`
+
+Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
 ### BER-GY-JZ (Schul Z 302).rpt
 
@@ -7304,9 +7359,11 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Fächerwahl - Zeilen Nr. - Für die Ausgabe der Fächerwahl (Zeile Nr.) gemäß Tabelle der Wahlmöglichkeiten tragen Sie im aktuellen Zeitraum im Menu `Schüler > Zeugnis > Details` im Feld "Fachkombination" ein (Zahlenwert).
 
-**(A0073.)** `Schüler > Laufbahn > Allgemein > Wiederholer`
+**Wiederholer**
 
-Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden. 
+`Schüler > Laufbahn > Allgemein > Wiederholer`
+
+Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum  im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden.
 
 **Zeiträume** 
 
@@ -7320,15 +7377,19 @@ Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Eintrittsjahr Einführungsphase** Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
 
-**(A0163.)** `Abitur > Qualifikation`
+**Unterscheidung Präsentation / Besonderen Lernleistung**
 
-Bei der 5. Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
+`Abitur > Qualifikation`
+
+Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
 
 5. Prüfungskomponente | Vorgehensweise in MAGELLAN
 --|--
-Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü` Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.<br/><br/> Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
-Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren. <br/><br/>Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu (`Abitur > Prüfung > Lernleistung`), die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
+Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.
+Des Weiteren wird im Menü `Abitur > Prüfung` im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
+Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
+markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. `Abitur >  Prüfung > Lernleistung`, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
 **Schulnummer**
 
@@ -13030,12 +13091,7 @@ ME | ME | Musik Ensemble
 
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
-
-☐ ja
-
-☐ nein
-
+Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses: ☐ ja / ☐ nein 
 1)." wird wie folgt gesteuert:
 
 Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
@@ -14053,8 +14109,6 @@ Kürzel | Schlüssel |  Zeugnisbereich
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
-**A0017.5**
-
 Aufgabenbereich | Zeugnisbereich
 --|--
 sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfeld
@@ -14062,7 +14116,9 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport |  Sport
 
-**A0018**	`Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -14087,8 +14143,6 @@ ME |  ME| Musik Ensemble
 Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter `Schlüsselverzeichnis > Zeugnisbemerkungen`, falls es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis >Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**A0021.61**
-
 Merkmal | Bedeutung
 --|--
 Beiblatt | Beiblatt ist Bestandteil des Zeugnisses
@@ -14111,6 +14165,10 @@ angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "K
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
 
+`Mandanten > Daten 1 > Name 3`
+
+Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
+
 **Positionierung der Zeugnisbemerkungen** 
 
 `Abitur > Zeugnis > Zeugnisbemerkungen > Position`
@@ -14121,10 +14179,6 @@ eine "1", für die zweite eine "2" usw.
 **Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
-
-**A0121**	`Mandanten > Daten 1 > Name 3`
-
-Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
 
 **Zeugnisdatum**
 
@@ -14183,10 +14237,11 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 
-**A0730**	`Abitur > Qualifikation`
+**Unterscheidung 5. Prüfungskomponente an Kollegschulen Berlin (Präsentationprüfung /  Besondere Lernleistung)**
 
-5. Prüfungskomponente Kollegschulen Berlin:
-Bei der 5 Prüfungskomponente wird zwischen einer „Präsentation“ und der „Besonderen Lernleistung“ unterschieden. Gehen Sie jeweils wie folgt vor:
+`Abitur > Qualifikation`
+
+Bei der 5. Prüfungskomponente wird zwischen einer „Präsentation“ und der „Besonderen Lernleistung“ unterschieden. Gehen Sie jeweils wie folgt vor:
 1. Präsentationprüfung
 Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte „Fachstatus“ den Wert „5 PF“ zu und führen das entsprechende Skript aus. 
 Durch das Berechnungskriptwird im Menü `Abitur > Prüfung` im Feld „5. PF“ das Fach eingetragen.  Dort tragen die mündliche Note im Feld "Mündliche Note" ein.
@@ -14195,9 +14250,13 @@ Durch das Berechnungskriptwird im Menü `Abitur > Prüfung` im Feld „5. PF“ 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` in der Registerkarte „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren.
 Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
 
-Die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. 
+Die schriftl. Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. 
 Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 Das Berechnungsskript fügt automatisch im 3. Punktfeld die Gesamtnote für die Besondere Lernleistung ein.
+
+**Berechnungsskript**
+
+Bitte beachten Sie di Anleitung unter [https://doc.la.stueber.de/03.ber/ber-apo-ko-2017/](https://doc.la.stueber.de/03.ber/ber-apo-ko-2017/)
 
 **vorgegebene Sprachreferenzen**
 
@@ -14211,17 +14270,19 @@ Kürzel | Schlüssel | Bezeichnung
 --|--|--
 A1 | A1 | Anfänger
 A2 | A2 | Grundlegende Kenntnisse
-B1 | B1 | Fortgeschrittene Sprachverwendung**Fremdsprachennachweise**
-
-`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
-
-Hinweis zur Ausgabe der Fremdsprachennachweise:
-Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = LAT) und Griechisch (Altgriechisch) (Schlüsselverzeichnis > Fächer, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
+B1 | B1 | Fortgeschrittene Sprachverwendung
 B2 | B2 | Selbständige Sprachverwendung
 C1 | C1 | Fachkundige Sprachkenntnisse
 C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
+
+**Fremdsprachennachweise**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+
+Hinweis zur Ausgabe der Fremdsprachennachweise:
+Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = LAT) und Griechisch (Altgriechisch) (Schlüsselverzeichnis > Fächer, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
 
 **Latinum, großes Latinum**
 
@@ -14231,9 +14292,11 @@ Bitte vergeben Sie unter `Abitur > Prüfung > Sprachkenntnisse` ein Häkchen fü
 
 ![Eingabebeispiel](/assets/images/berlin/latinum.png)
 
-**A0884**	`Schüler > Daten 3 > Fremdsprachenfolge > Von`
+**Ausgabe "Vorkurs" bei den Fremdsprachen**
 
-Ausgabe: "Vorkurs".  Damit auf dem Bericht ein Beginn der Fremdsprache im "Vorkurs" ausgegeben wird, tragen Sie im Feld "Von"-Datum die Klassenstufe 10 ein. Der Bericht gibt für den Eintrag "10" auf dem Zeugnis "Vorkurs" aus.
+`Schüler > Daten 3 > Fremdsprachenfolge > Von`
+
+Damit auf dem Bericht ein Beginn der Fremdsprache im "Vorkurs" ausgegeben wird, tragen Sie im Feld "Von"-Datum die Klassenstufe 10 ein. Der Bericht gibt für den Eintrag "10" auf dem Zeugnis "Vorkurs" aus.
 
 ### BER-Schul Z 324 (03.16).rpt
 
@@ -14346,21 +14409,22 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 
-**(A0730)** Abitur > Qualifikation
+**Unterscheidung 5. Prüfungskomponente an Kollegschulen Berlin (Präsentationprüfung /  Besondere Lernleistung)**
 
-5. Prüfungskomponente Kollegschulen Berlin:
+`Abitur > Qualifikation`
+
 Bei der 5 Prüfungskomponente wird zwischen einer „Präsentation“ und der „Besonderen Lernleistung“ unterschieden. Gehen Sie jeweils wie folgt vor:
 1. Präsentationprüfung
-Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü Abitur > Qualifikation in der Spalte „Fachstatus“ den Wert „5 PF“ zu und führen das entsprechende Skript aus. 
-Durch das Berechnungskript (BER-APO-KO-2011.dws)** wird im Menü Abitur > Prüfung im Feld „5. PF“ das Fach eingetragen. Dort tragen die mündliche Note im Feld "Mündliche Note" ein.
+Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte „Fachstatus“ den Wert „5 PF“ zu und führen das entsprechende Skript aus. 
+Durch das Berechnungskriptwird im Menü `Abitur > Prüfung` im Feld „5. PF“ das Fach eingetragen.  Dort tragen die mündliche Note im Feld "Mündliche Note" ein.
 
 2. Besondere Lernleistung
-Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Menü Abitur > Prüfung in der Registerkarte „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren.
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` in der Registerkarte „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren.
 Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
 
 Die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. 
 Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
-Das Berechnungsskript (BER-APO-KO-2011.dws)** fügt automatisch im 3. Punktfeld die Gesamtnote für die Besondere Lernleistung ein.
+Das Berechnungsskript fügt automatisch im 3. Punktfeld die Gesamtnote für die Besondere Lernleistung ein.
 
 **Fremdsprachennachweise**
 
@@ -14369,44 +14433,46 @@ Das Berechnungsskript (BER-APO-KO-2011.dws)** fügt automatisch im 3. Punktfeld 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" =LAT) und Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
 
-**(A0741. Schlüsselverzeichnisse > Fächer > Aufgabenbereich / Kategorie / Merkmal
+**Sortierung der Fächer auf dem Zeugnis**
+
+`Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Die Zuweisung eines Faches erfolgt aus der Kombination folgender Eingaben: 
-1. Aufgabenbereich (Schlüsselverzeichnis > Fächer, Eintrag in Spalte "Aufgabenbereich")
-2. Kategorie (Schlüsselverzeichnis > Fächer, Eintrag in Spalte "Kategorie"), wenn das Fach an fixer Stelle ausgegeben werden muss 
-3. Merkmal (Schlüsselverzeichnis > Fächer, Eintrag in Spalte "Merkmal"), wenn das Fach an fixer Stelle ausgegeben werden muss 
-4. Positionsnummer (Menü Schüler > Zeugnis > Fächer, Eintrag in Spalte "Position"), wenn es an einer freien Stelle stehen soll
+1. Aufgabenbereich (`Schlüsselverzeichnis > Fächer`, Eintrag in Spalte "Aufgabenbereich")
+2. Kategorie (`Schlüsselverzeichnis > Fächer`, Eintrag in Spalte "Kategorie"),  wenn das Fach an fixer Stelle ausgegeben werden muss 
+3. Merkmal (`Schlüsselverzeichnis > Fächer`, Eintrag in Spalte "Merkmal"), wenn das Fach an fixer Stelle ausgegeben werden muss 
+4. Positionsnummer (Menü `Schüler > Zeugnis > Fächer`, Eintrag in Spalte "Position"), wenn es an einer freien Stelle stehen soll
 
 Fach | Position | Aufgabenbereich | Kategorie | Merkmal
 --|--|--|--|--
 Deutsch | 1 | sprachl.-lit.-künstl. | Deutsch | -
-Englisch | 2 | sprachl.-lit.-künstl. | Fremdsprache | ENG
-Französisch | 3 | sprachl.-lit.-künstl. | Fremdsprache | FRA
-Russisch | 4 | sprachl.-lit.-künstl. | Fremdsprache | RUS
-Spanisch | 5 | sprachl.-lit.-künstl. | Fremdsprache | SPA 
-Latein | 6 | sprachl.-lit.-künstl. | Fremdsprache | LAT 
-Bildende Kunst | 7 | sprachl.-lit.-künstl. | Kunst | -
-Musik | 8 | sprachl.-lit.-künstl. | Musik | -
-beliebig | 9 | sprachl.-lit.-künstl. | * | - | 
-Politikwissenschaft | 10 | gesellschaftl. | Politik | -
-Geschichte | 11 | gesellschaftl. | Geschichte | -
-Wirtschaftswissenschaft | 12 | gesellschaftl. | * | - 
-Psychologie | 13 | gesellschaftl. | Psychologie | - 
-beliebig | 14 | gesellschaftl. | * | - 
-beliebig | 15 | gesellschaftl. | * | - 
-beliebig | 16 | gesellschaftl. | * | - 
-Mathematik | 17 | math.-natur.-wissenschaftl. | Mathematik | -
-beliebig | 18 | math.-natur.-wissenschaftl. | * | - 
-beliebig | 19 | math.-natur.-wissenschaftl. | * | - 
-beliebig | 20 | math.-natur.-wissenschaftl. | * | - 
-beliebig | 21 | math.-natur.-wissenschaftl. | * | - 
-beliebig | 22 | math.-natur.-wissenschaftl. | * | - 
-Sport | 23 | Sport | Sport | -
-beliebig | 24 | ** | * | - 
-beliebig | 25 | ** | * | - 
+Englisch | 2 | sprachl.-lit.-künstl. | Fremdsprache | ENG|
+Französisch | 3 | sprachl.-lit.-künstl. | Fremdsprache | Frau|
+Russisch | 4 | sprachl.-lit.-künstl. | Fremdsprache | RUS|
+Spanisch | 5 | sprachl.-lit.-künstl. | Fremdsprache | SPA    |        
+Latein | 6 | sprachl.-lit.-künstl. | Fremdsprache | LAT     |                    
+Bildende Kunst | 7 | sprachl.-lit.-künstl. | Kunst | -|
+Musik | 8 | sprachl.-lit.-künstl. | Musik | -|
+beliebig | 9 | sprachl.-lit.-künstl. | * | - |         
+Politikwissenschaft | 10 | gesellschaftl. | Politik | -|
+Geschichte | 11 | gesellschaftl. | Geschichte | -|
+Wirtschaftswissenschaft | 12 | gesellschaftl. | * | -                        |   
+Psychologie | 13 | gesellschaftl. | Psychologie | - |  
+beliebig | 14 | gesellschaftl. | * | -  |   
+beliebig | 15 | gesellschaftl. | * | - |    
+beliebig | 16 | gesellschaftl. | * | - |    
+Mathematik | 17 | math.-natur.-wissenschaftl. | Mathematik | -|
+beliebig | 18 | math.-natur.-wissenschaftl. | * | - |  
+beliebig | 19 | math.-natur.-wissenschaftl. | * | - |  |   
+beliebig | 20 | math.-natur.-wissenschaftl. | * | -|  
+beliebig | 21 | math.-natur.-wissenschaftl. | * | -|    
+beliebig | 22 | math.-natur.-wissenschaftl. | * | -|   |                  
+Sport | 23 | Sport | Sport | -|
+beliebig | 24 | ** | * | -  |
+beliebig | 25 | ** | * | -   |  
 
-* Bitte beachten Sie bei der Zuweisung der Kategorie (Schlüsselverzeichnis > Fächer, Spalte "Kategorie")** die Anmerkung A0459
-** Bitte beachten Sie bei der Zuwesiung des Aufgabenbereiches (Schlüsselverzeichnis > Fächer, Spalte "Aufgabenbereich")** die Anmerkung A0017.5
+*   Bitte beachten Sie bei der Zuweisung der Kategorie (Schlüsselverzeichnis > Fächer, Spalte "Kategorie") die Anmerkung A0459
+**  Bitte beachten Sie bei der Zuwesiung des Aufgabenbereiches (Schlüsselverzeichnis > Fächer, Spalte "Aufgabenbereich") die Anmerkung A0017.5
 *** Bitte füllen Sie bei den Fremdsprachen im Schlüsselverzeichnis >Fächer, die Spalte "Merkmal" wie vorgegeben.
 
 ### BER-KO-ABI (Schul Z 324)(02.11).rpt
@@ -14470,7 +14536,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-`Ausdruck`
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
@@ -14527,15 +14593,19 @@ frei | Sport
 
 HINWEIS: Weitere Sportfächer (Sport Theorie, Sport) vergeben Sie bitte die Positionsnummer 24 oder 25.
 
-**(A0163.)** `Abitur > Qualifikation`
+**Unterscheidung Präsentation / Besonderen Lernleistung**
 
-Bei der 5. Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
+`Abitur > Qualifikation`
+
+Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
 
 5. Prüfungskomponente | Vorgehensweise in MAGELLAN
 --|--
-Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü` Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.<br/><br/> Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
-Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren. <br/><br/>Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu (`Abitur > Prüfung > Lernleistung`), die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
+Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.
+Des Weiteren wird im Menü `Abitur > Prüfung` im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
+Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
+markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. `Abitur >  Prüfung > Lernleistung`, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
 **Zeugnisbemerkungen**
  
@@ -14616,29 +14686,35 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0082.)** `Schüler > Daten 3 > Fremdsprachenfolge > Bis`
+**Fremdsprachenfolge**
 
-Für den Fall, dass eine Fremdsprache im 1. Halbjahr eines laufenden Schuljahres abgewählt wird, tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "bis" z.B. für 1. Halbjahr 12 "121" ein, für 1. Halbjahr 13 "131" usw. ein.
+`Schüler > Daten 3 > Fremdsprachenfolge > Bis`
 
-**(A0089)** `Schlüsselverzeichnis > Einschulmerkmale`
+Für den Fall, dass eine Fremdsprache im 1. Halbjahr eines laufenden Schuljahres abgewählt wird, tragen Sie im Menü  `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "bis" z.B. für 1. Halbjahr 12 "121" ein, für 1. Halbjahr 13 "131" usw. ein.
+
+**Einschulmerkmal**
+
+`Extras > Schlüsselverzeichnisse > Einschulmerkmale`
 
 Um die Art der Aufnahme eines Schülers festzuhalten, weisen Sie unter `Schlüsselverzeichnis > Einschulmerkmale` die entsprechenden Merkmale zu. Es gelten folgende Kürzel und Schlüssel:
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
-VK | VK | Vorkurs
+VK | VK  | Vorkurs
 Q | Q | Qualifikationsphase
 E1 | E1 | Einführungsphase 1 HJ
 E2 | E2 | Einführungsphase 2 HJ
 
-**(A0090)** `Schüler > Daten 2`
+**Unterscheidung Schule durchgehend/nicht durchgehend besucht**
+
+`Schüler > Daten 2`
 
 Bei der Erfassung der Besuchszeit einer Schule können 2 Fälle unterschieden werden:
 
 Fall | Eintragung wie folgt
 --|-- 
-Die Schule wurde durchgehend besucht | "Von" tragen Sie unter `Schüler > Daten 2` im Feld "Zugang am" ein, "Bis" tragen Sie unter `Abitur > Prüfung > Zeugnisdatum` ein
-Die Schule wurde NICHT durchgehend besucht | "Von1" tragen Sie unter `Schüler > Daten 2` im Feld "Zugang am" ein , "Bis1" tragen Sie unter `Schüler > Daten 2` im Feld "Abgang am" ein, "Von2" tragen Sie unter `Schüler > Daten 2` im Feld "2. Zugang am" ein, "Bis2" tragen Sie unter `Abitur > Prüfung > Zeugnisdatum` ein
+Die Schule wurde durchgehend besucht | "Von" tragen Sie unter Schüler > Daten 2 im Feld "Zugang am" ein, "Bis" tragen Sie unter Abitur > Prüfung > Zeugnisdatum ein
+Die Schule wurde NICHT durchgehend besucht | "Von1" tragen Sie unter Schüler > Daten 2 im Feld "|Zugang am" ein , "Bis1" tragen Sie unter Schüler > Daten 2 im Feld "Abgang am" ein, "Von2" tragen Sie unter  Schüler > Daten 2 im Feld "2. Zugang am" ein, "Bis2" tragen Sie unter Abitur > Prüfung > Zeugnisdatum ein.
 
 ### BER-KO-AS (Schul Z 320)(06.07).rpt
 
