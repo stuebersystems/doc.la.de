@@ -4762,6 +4762,12 @@ Die "besondere Lernleistung" kann auch eines der ersten 4 Prüfungsfächer sein.
 
 Falls die Besondere Lernleistung nicht eines der Prüfungsfächer 1.-4. ist, weisen Sie dem Fach den Fachstatus "BLL" zu und führen das entsprechende Skript aus. Im Menü `Abitur > Prüfung` im Feld „5. PF“ das jeweilige Fach automatisch eingetragen. Sie müssen nun nur noch die Gesamtnote im Feld "mündliche Note" eintragen.
 
+**Daten manuell erfassen**
+
+Daten unter Punkt 2-7 müssen Sie nach Ausdruck aus MAGELLAN manuell im Zeugnis erfassen/eintragen.
+
+![Daten nach Ausdruck manuell erfassen](/assets/images/Berlin/ber01.png)
+
 ### BER-GY (Abi-18a - Mitteilungen zu den schriftlichen und mündlichen Prüfungen)(03.12).rpt
 
 **Fachstatus**
