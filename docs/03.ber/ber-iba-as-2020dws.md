@@ -20,17 +20,23 @@ Zur Berechnung der Endnoten der Teilbereiche Fachtheorie und Fachpraxis sowie de
 
 ### 1. Schlüsselverzeichnisse
 
-Bitte pflegen Sie in den Schlüsselverzeichnissen `Schulform`und `Schulart` folgendes Kürzel ein:
+Bitte legen Sie in den beiden Schlüsselverzeichnissen:
+* `Extras > Schlüsselverzeichnisse > Schulform` und 
+* `Extras > Schlüsselverzeichnisse > Schulart` 
+
+folgendes Kürzel an:
 
 | Spalte | Wert|
 |---|---|
 | Kürzel| IBA 
 
-Tragen Sie die Werte bitte für die IBA Klassen im Menü `Klassen > Daten bei Schulform und Schulart`ein.
+Tragen Sie die Werte bitte für die IBA Klassen im Menü `Klassen > Daten > Schulform` und `Klassen > Daten > Schulart` ein.
+
+![Noteneingabe der Besonderen Lernleistung](/assets/images/Berlin/iba01.png)
 
 ### 2. Berechnungsverordnung definieren
 
-Bitte legen Sie unter `Schlüsselverzeichnisse > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten.
+Bitte legen Sie unter `Extras > Schlüsselverzeichnisse > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten.
 
 | Spalte | Wert|
 |---|---|
@@ -51,7 +57,7 @@ Bitte legen Sie unter `Schlüsselverzeichnisse > Verordnungen` eine neue Zeile a
 
     Das Skript `BER-IBA-AS-2020.dws` wird im Menü `Schüler > Zeugnis > Leistungen` ausgeführt und muss im `Schlüsselverzeichnis > Verordnung` mit der Kategorie „Versetzung“ angelegt werden.
 
-![Geben Sie hier die Berechnungsverordnung mit der Kategorie „Versetzung“ ein.](/assets/images/IBA/IBA15.png)
+![Geben Sie hier die Berechnungsverordnung mit der Kategorie „Versetzung“ ein.](/assets/images/Berlin/iba02.png)
 
 ### 3. Fächer der Schüler eingeben
 
@@ -69,6 +75,8 @@ Fächern des berufsfeldübergreifenden bzw. berufsfeldbezogenen Unterricht weise
 |FachT| FachT |Berufsbezogener Lernbereich / Fachtheorie|
 |FachP| FachP |Berufsbezogener Lernbereich / Fachpraxis|
 
+![`Schüler > Zeugnis > Fächer` Unterrichtsart "BÜ", "FachT" und "FachP"](/assets/images/Berlin/iba03.png)
+
 #### Wahlunterricht
 
 Fächer des Wahlunterrichtes weisen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Fachstatus" den Eintrag "WahlB" zu. Prüfen Sie bitte unter `Schlüsselverzeichnisse > Fachstatus`, dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
@@ -76,6 +84,8 @@ Fächer des Wahlunterrichtes weisen Sie im Menü `Schüler > Zeugnis > Fächer` 
 | Kürzel | Schlüssel | Bedeutung       |
 |--------|-----------|-----------------|
 | WahlB  | WahlB     | Wahlbereich     |
+
+![`Schüler > Zeugnis > Fächer` Fachstatus "WahlB"](/assets/images/Berlin/iba04.png)
 
 #### Betriebliche Lernaufgaben
 
@@ -91,9 +101,15 @@ Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betriebli
 
 Weisen Sie diese Fächer ebenfalls im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.  
 
+![`Schlüsselverzeichnisse > Fächer`](/assets/images/Berlin/iba05.png)
+
+![`Schüler > Zeugnis > Fächer`](/assets/images/Berlin/iba06.png)
+
 #### 4. Noten der Fächer eingeben
 
-Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt". Dieses Feld ermöglicht Noten als Kommawert (Beispiel 1,4) zu erfassen. Fächer, für die es keine Bewertung gibt, also *ohne Bewertung* sind, weisen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" den Füllwert "o.B." zu.
+Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt". Dieses Feld ermöglicht Noten als Kommawert (Beispiel 1,4) zu erfassen. Fächer, für die es keine Bewertung gibt, also *ohne Bewertung*, weisen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" den Füllwert "o.B." zu. Grundlage bildet das `Schlüsselverzeichnis > Noten`, hier müssen Sie "o.B" mit der Notenart "Füllwert" erfasst haben. 
+
+![`Schlüsselverzeichnis > Noten`](/assets/images/Berlin/iba07.png)
 
 ![`Schüler > Zeugnis > Leistungen` Voreinstellungen](/assets/images/IBA/IBA18.png)
 
@@ -101,11 +117,6 @@ Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler >
 
     Das Berechnungsskript kann auch Füllwerte verarbeiten. Dazu zählt Folgendes: o.B. + o.B. = o.B., o.B. + Note = Note.
     Ist der gebildete Durchschnitt bei Fachtheorie bzw. Fachpraxis des berufsfeldbezogenen Unterrichts im Ergebnis "o.B.", so wird im Durchschnitt eine "0" gespeichert.
-
-**Füllwerte**:
-Sollten Ihnen die gewünschten Füllwerte nicht zur Verfügung stehen, legen Sie diese bitte unter `Extras > Schlüsselverzeichnisse > Noten` an.
-
-![Füllwerte anlegen](/assets/images/IBA/IBA20.png)
 
 !!! warning "Wichtig"
 

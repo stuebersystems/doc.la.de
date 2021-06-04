@@ -117,8 +117,8 @@ Bei der 5. Prüfungskomponente wird zwischen einer **Präsentationprüfung** und
 
 #### Präsentationprüfung
 
-Bei der **Präsentationsprüfung** weisen Sie dem entsprechenden Fach im Menü ``Abitur > Qualifikation > Fachstatus`` den Wert „PRS“ zu und führen das entsprechende Skript aus.
-Im Menü ``Abitur`` wird auf der Registerkarte ``Prüfung`` im Feld ``5. PF`` das jeweilige Fach automatisch eingetragen. Die Noten für die schriftl. Ausarbeitung, Präsentation und das Prüfungsgespräch der Präsenationsprüfung tragen Sie bitte unter ```Abitur > Prüfung`` wie folgt ein:
+Bei der **Präsentationsprüfung** weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation > Fachstatus` den Wert „PRS“ zu und führen das entsprechende Skript aus.
+Im Menü `Abitur` wird auf der Registerkarte `Prüfung` im Feld `5. PF` das jeweilige Fach automatisch eingetragen. Die Noten für die schriftl. Ausarbeitung, Präsentation und das Prüfungsgespräch der Präsenationsprüfung tragen Sie bitte unter ```Abitur > Prüfung`` wie folgt ein:
 
 |Feld | Note|
 |--|--|
@@ -126,7 +126,7 @@ Im Menü ``Abitur`` wird auf der Registerkarte ``Prüfung`` im Feld ``5. PF`` da
 |mündliche Note|Note der **Präsentation**|
 |2. mündl. Note| Note des **Prüfungsgespräches**|
 
-![Noteneingabe der Präsentationsprüfung](assets/images/ber-apo-2017.01.png)
+![Noteneingabe der Präsentationsprüfung](/assets/images/Berlin/vogo02.png)
 
 #### Besondere Lernleistung
 
@@ -144,7 +144,7 @@ Falls die Besondere Lernleistung nicht eines der Prüfungsfächer 1.-4. ist, wei
 |schriftliche Note|Note der **schriftliche Ausarbeitung**|
 |2. mündl. Note| Note des **Prüfungsgespräches**|
 
-![Noteneingabe der Besonderen Lernleistung](assets/images/ber-apo-2017.02.png)
+![Noteneingabe der Besonderen Lernleistung](/assets/images/Berlin/Vogo_01.png)
 
 ## Merkmal
 
@@ -154,7 +154,7 @@ Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. 
 |--|--|
 |A| Fremdsprache Anfänger|
 
-## Sport als 4.Prüfungsfach
+## Sport als 4. Prüfungsfach
 
 Der Schüler belegt die folgenden Fächer:
 
