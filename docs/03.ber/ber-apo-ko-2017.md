@@ -113,15 +113,19 @@ Bei der 5 Prüfungskomponente wird zwischen einer „Präsentation“ und der �
 
 ### Präsentationprüfung
 
-Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte „Fachstatus“ den Wert „5 PF“ zu und führen das entsprechende Skript aus.
+Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte „Fachstatus“ den Wert „5PF“ zu und führen das entsprechende Skript aus.
 Durch das Berechnungskript wird im Menü `Abitur > Prüfung` im Feld „5. PF“ das Fach eingetragen.  Dort tragen die mündliche Note im Feld "Mündliche Note" ein.
 
-![Menü Abitur > Qualifikation](/assets/images/berlin/ber-apo-ko-2017.02.png)
+![Menü `Abitur > Qualifikation`](/assets/images/Berlin/VoKa_01.png)
+
+![Menü `Abitur > Prüfung`](/assets/images/Berlin/VoKa_02.png)
 
 ### Besondere Lernleistung
 
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` in der Registerkarte „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld `„Lernleistung einbringen“` markieren.
 
-Die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein.
+Die schriftliche Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein.
 Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 Das Berechnungsskript fügt automatisch im 3. Punktfeld die Gesamtnote für die Besondere Lernleistung ein.
+
+![Menü `Abitur > Prüfung`](/assets/images/Berlin/VoKa_03.png)
