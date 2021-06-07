@@ -34,7 +34,7 @@ Bitte legen Sie unter `Extras > Schlüsselverzeichnisse > Verordnungen` eine neu
 
 ## Fachkategorien
 
-Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`. 
+Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer` im Feld "Fachkategorie".
 Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werden. Für diese Fächer sind die zu verwendenden Fachkategorien fest vorgeschrieben. Alle anderen Fächer können mit einer der übrigen Fachkategorie gekennzeichnet werden oder ohne Fachkategorie geführt werden.
 
 |Fachkategorien|Muss genutzt werden|
@@ -73,7 +73,7 @@ Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werd
 
 ## Aufgabenbereiche
 
-Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Extras > Schlüsselverzeichnisse > Fächer` in Spalet `Aufgabenbereich` verwendet werden:
+Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Extras > Schlüsselverzeichnisse > Fächer` in Spalte `Aufgabenbereich` verwendet werden:
 
 | Aufgabenbereich            |
 |----------------------------|
