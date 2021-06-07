@@ -136,6 +136,7 @@ AS APO BK 1999|-|-|-|[NRW-AS-APO-BK-1999](https://doc.la.stueber.de/08.nrw/nrw-a
 
 Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
 ----------|------|----------------- |-------------- |------------------------ |------------
+APO BGY 2021|[SAC-APO-BGY-2021](https://doc.la.stueber.de/11.sac/sac-apo-bgy-2021)|-|-|-|-
 APO BGY 2017|[SAC-APO-BGY-2017](https://doc.la.stueber.de/11.sac/sac-apo-bgy-2017)|-|-|-|-
 APO 1996|[SAC-APO-1996.dws](https://doc.la.stueber.de/11.sac/sac-apo-1996)|-|SAC-FW-APO-1996.dws |-|-
 APO BGY 2004|[SAC-APO-BGY-2004.dws](https://doc.la.stueber.de/11.sac/sac-apo-bgy-2004)|-|-|-|-
