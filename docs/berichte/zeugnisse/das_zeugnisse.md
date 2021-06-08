@@ -1266,7 +1266,12 @@ Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `
 
 *Abgangszeugnis mit Fachhochschulreife-PO /Abgangszeugnis ohne Fachhochschulreife-PO*
 
-**Aufgabenbereich**
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
+
+**Aufgabenbereich der Fächer**
 
 `Extras > Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
@@ -1286,17 +1291,19 @@ Religion | Weitere Fächer
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**Abschluss**
-
-`Schüler > Laufbahn > Abschluss`
-
-Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-**Schulformeintritt**
+**Vom/Bis Datum des Schulbesuchs**
 
 `Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie das entsprechende **Vom**-Datum im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+
+![`Schüler > Laufbahn > Allgemein`](/assets/images/DAS/das04.png)
+
+`Schüler > Laufbahn > Abschluss`
+
+Tragen Sie das entsprechende **Bis**-Datum im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+
+![`Schüler > Laufbahn > Abschluss`](/assets/images/DAS/das05.png)
 
 **Zeugnisbemerkungen**
 
@@ -1336,11 +1343,6 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
-
-**Ausdruck**
-
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **Zeugnisdatum**
 
@@ -1403,6 +1405,13 @@ Zudem stellen Sie nun unter „Eingebrachte HJ“ die entsprechenden Halbjahre e
 Führen Sie das entsprechende Berechnungsskript aus.
 
 ![`Abitur > Qualifikation`](/assets/images/DAS/das03.png)
+
+**besondere Lernleistungen**
+
+`Abitur > Prüfung > Lernleistung`
+
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
+Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
 
 ## DAS-HS-MSA-AS (Anlage 8 und 9)(§23).rpt
 
