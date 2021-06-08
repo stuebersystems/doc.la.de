@@ -1703,16 +1703,24 @@ Mathematik | M
 Englisch | 	E
 Landessprache | LS
 
-## DAS-Versetzungszeugnis-GY-MSA (ZKA)(Anlage 11)(§23).rpt
+## DAS-Versetzungszeugnis-GY-MSA (ZKA)(Anlage 11)(§23).rpt / DAS-Versetzungszeugnis-GY-MSA (ZKA)(Anlage 11)(§23)_Pandemie.rpt
 
 Versetzungszeugnis Gymnasium - Mittlerer Schulabschluss (ZKA)
 
+!!! info "Hinweis"
+
+    Es gibt auch ein Zeugnis für die Pandemie. Folgende Zeugnisbemerkung erscheint hier zusätzlich: "Die Versetzung in das Schuljahr 2021 erfolgt auf der Grundlage der vom Bund-Länder-Ausschuss für schulische Arbeit im Ausland in der Kultusministerkonferenz genehmigten Versetzungsordnung sowie der Sonderbestimmungen der Kultusministerkonferenz in der Corona-Pandemie."
+
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+
 **Beurteilungsart**
 
-`Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
+`Klassen > Daten > Beurteilungsart`
 
-Im Menü `Klassen` muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein,
-hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
+Im Menü `Klassen > Daten > Beurteilungsart` muss bei der Klasse des Schülers "Benotung durch Noten" angegeben sein. Hier steht dann auch ein
+Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
 
 **Schulhalbjahre**
 
@@ -1763,7 +1771,7 @@ B2 | B2 | Selbständige Sprachverwendung
 C1 | C1 | Fachkundige Sprachkenntnisse
 C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
-Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
+Der Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
 **Fachpositionen**
 
@@ -1803,20 +1811,14 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Drucken**
-
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
-
 **Zeugnisbemerkungen**
 
 `Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
-`Schüler > Zeugnis > Bemerkungen/Formulare`
-
-`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
-
+`Schüler > Zeugnis > Bemerkungen/Formulare` oder 
+`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`oder
 `Berufsschule > Zeugnisbemerkungen`
 
 Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
