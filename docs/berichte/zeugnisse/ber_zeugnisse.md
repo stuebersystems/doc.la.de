@@ -3627,7 +3627,7 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-#### Aufgabenbereich
+**Aufgabenbereich**
 
 `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
@@ -3641,7 +3641,7 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport			 | Weitere Fächer
 Religion| Weitere Fächer
 
-#### Unterrichtsarten
+**Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -3653,7 +3653,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse (LK) / Leistungsfächer (LF)
 GK | GK | Grundkurse
 
-#### Mandanten
+**Mandanten**
 
 `Mandanten > Daten > Name 1`
 
@@ -3667,13 +3667,13 @@ Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-#### Zeiträume
+**Zeiträume**
 
 `Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-#### Ausdruck
+**Ausdruck**
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -3683,7 +3683,7 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-#### Fächer
+**Fächer**
 
 `Schlüsselverzeichnisse > Fächer > Kategorie`
 
@@ -3715,13 +3715,13 @@ Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis >  Fächer` in Spalte "Kat
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü´Schüler > Zeugnis > Fächer´ bzw. im Menü ´Abitur > Qualifikation´ pro Fach eine Position in der Spalte "Position" angegeben werden.
 
-#### Klassen
+**Klassen**
 
 `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
 Im Menü`Klassen > Daten` muss bei der Klasse des Schülers im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-#### **Zeugnisbemerkungen**
+**Zeugnisbemerkungen**
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
@@ -3839,7 +3839,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü "Mandanten" auf der Registerkarte "D
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**(A0134)** `Schüler > Zeugnis > Leistungen > Endnote`
+`Schüler > Zeugnis > Leistungen > Endnote`
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
