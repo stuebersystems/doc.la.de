@@ -1817,11 +1817,15 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
 
-**A0156** `Schüler > Zeugnis > Details > Versäumnisse`
+**Versäumnisse** 
+
+`Schüler > Zeugnis > Details > Versäumnisse`
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**A0168** `Schlüsselverzeichnisse > Noten > Füllwerte`
+**Benotung**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -3822,13 +3826,15 @@ FA | Facharbeit
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
-**(A0272.)** `Abitur > Qualifikation > Unterrichtsart (FA)`
+**Unterrichtsart für Facharbeit** 
+
+`Abitur > Qualifikation > Unterrichtsart (FA)`
 
 Zur Ausgabe der "Facharbeit" gehen Sie wie folgt vor:
 
-1. Dem Fach in dem die Facharbeit erfolgt, weisen Sie im Menü Abitur > Qualifikation die "Unterrichtsart" "FA" zu (siehe A19 und A19.29). 
+1. Dem Fach in dem die Facharbeit erfolgt, weisen Sie im Menü `Abitur > Qualifikation` die "Unterrichtsart" "FA". 
 2. Die Note tragen Sie in dem Schulhalbjahr "Q4" ein
-3. Das Thema der Facharbeit tragen Sie im Menü Abitur > Zeugnisbemerkungen im Feld "Text" ein. Zudem fügen Sie dem Feld "Merkmal" das Kürzel "FA" zu (siehe A0021 und A0021.30)
+3. Das Thema der Facharbeit tragen Sie im Menü `Abitur > Zeugnisbemerkungen` im Feld "Text" ein. Zudem fügen Sie dem Feld "Merkmal" das Kürzel "FA" zu.
 
 **Abitur**
 
@@ -3998,7 +4004,9 @@ Eintrag in Feld "Merkmal" | Bedeutung
 
 Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Abitur > Qualifikation` im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist. Der Durchschnitt wird auch automatisch durch das Fachoberschulschulskript berechnet und entsprechend hinterlegt.
 
-****(A0203.)** `Abitur > Prüfung > schriftliche/mündliche Note`
+**schriftliche/mdl. Noten der Prüfungsfächer** 
+
+`Abitur > Prüfung > schriftliche/mündliche Note`
 
 Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten im Menü `Abitur > Prüfung` in den Feldern "schriftliche Note" und "mündliche Note" eingetragen sein.
 
@@ -4008,12 +4016,15 @@ Zur Ausgabe der schriftlichen und mündlichen Noten müssen die jeweiligen Noten
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
-**(A0272.)** `Abitur > Qualifikation > Unterrichtsart (FA)`
+**Unterrichtsart für Facharbeit** 
+
+`Abitur > Qualifikation > Unterrichtsart (FA)`
 
 Zur Ausgabe der "Facharbeit" gehen Sie wie folgt vor:
-1. Dem Fach in dem die Facharbeit erfolgt, weisen Sie im Menü Abitur > Qualifikation die "Unterrichtsart" "FA" zu (siehe A19 und A19.29). 
+
+1. Dem Fach in dem die Facharbeit erfolgt, weisen Sie im Menü `Abitur > Qualifikation` die "Unterrichtsart" "FA". 
 2. Die Note tragen Sie in dem Schulhalbjahr "Q4" ein
-3. Das Thema der Facharbeit tragen Sie im Menü Abitur > Zeugnisbemerkungen im Feld "Text" ein. Zudem fügen Sie dem Feld "Merkmal" das Kürzel "FA" zu (siehe A0021 und A0021.30)
+3. Das Thema der Facharbeit tragen Sie im Menü `Abitur > Zeugnisbemerkungen` im Feld "Text" ein. Zudem fügen Sie dem Feld "Merkmal" das Kürzel "FA" zu.
 
 **Zeugnisbemerkungen**
  
@@ -4092,7 +4103,9 @@ Platzhalter | Ausgabe im Bericht
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**(A0615)** Schlüsselverzeichnisse > Fächer > Bezeichnung
+**Fachbezeichnung** 
+
+`Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung`
 
 Damit die Fächer gemäß der Zeugnisvorlage ausgegeben werden, müssen die Fächer des Schülers die folgenden Fachbezeichnungen und Positionen erhalten: 
 
@@ -4107,11 +4120,13 @@ beliebig | Mathematik
 3 | Zweite Naturwissenschaft
 3 | Dritte Naturwissenschaft
 
-Bei nicht vergebenen Fächern, werden nur die jeweiligen Fächer angezeigt, die Notenfelder auf dem Zeugnis werden jedoch entwertet. Damit Noten und Fächer korrekt ausgegeben werden achten Sie bitte darauf, dass die Fächer die richtigen Fachbezeichnungen erhalten, da den Fächern sonst falsche oder keine Noten zugeordnet werden können. Die Fremdsprachen tragen Sie bitte zusätzlich im Menü Schüler beim entsprechenden Schüler> Daten 3 im Bereich „Fremdsprachenfolge“ ein. Beachten Sie bitte zudem, dass bei den naturwissenschaftlichen Fächern auch der korrekte Aufgabenbereich "mathem.-nat.-technisch" zugewiesen wurde. Diesen können Sie unter „Verzeichnisse|Fächer“ für jedes Fach in der Spalte „Aufgabenbereich“ auswählen.
+Bei nicht vergebenen Fächern, werden nur die jeweiligen Fächer angezeigt, die Notenfelder auf dem Zeugnis werden jedoch entwertet. Damit Noten und Fächer korrekt ausgegeben werden achten Sie bitte darauf, dass die Fächer die richtigen Fachbezeichnungen erhalten, da den Fächern sonst falsche oder keine Noten zugeordnet werden können. Die Fremdsprachen tragen Sie bitte zusätzlich im Menü Schüler beim entsprechenden `Schüler > Daten 3` im Bereich „Fremdsprachenfolge“ ein. Beachten Sie bitte zudem, dass bei den naturwissenschaftlichen Fächern auch der korrekte Aufgabenbereich "mathem.-nat.-technisch" zugewiesen wurde. Diesen können Sie unter `Extras > Schlüsselverzeichnisse > Fächer` für jedes Fach in der Spalte „Aufgabenbereich“ auswählen.
 
-**(A0616)** Schüler > Zeugnis > Fächer > Position
+**Fächerpositionierung** 
 
-Beachten Sie beim Fachrichtungsbezogenen und Wahlpflicht Unterricht, je nach gewünschter Chronologie die Positionen 1-3 zu vergeben. Siehe auch A0019 und A0019.30.
+`Schüler > Zeugnis > Fächer > Position`
+
+Beachten Sie beim Fachrichtungsbezogenen und Wahlpflicht Unterricht, je nach gewünschter Chronologie die Positionen 1-3 zu vergeben. 
 
 ## Zeugnisse der allgemeinbildenden Schulen
 
@@ -4171,7 +4186,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**(A0150)** `Allgemein > Systemdatum`
+**Zeugnisdatum** 
+
+`Allgemein > Systemdatum`
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
@@ -4179,11 +4196,21 @@ Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0426)** `Abitur > Fachwahl > Rücktritt`Das Datum des "Rücktritts" tragen Sie im Menü `Abitur > Fachwahl` im Feld "Rücktritt" ein.
+**Rücktritt** 
 
-**(A0427)** `Abitur > Fachwahl > Pflichtkurse`Die Anzahl der Pflichtkurse weisen Sie dem jeweiligen Fach im Menü `Abitur > Fachwahl` in Spalte "Pflichtkurse" zu.
+`Abitur > Fachwahl > Rücktritt`Das Datum des "Rücktritts" tragen Sie im Menü `Abitur > Fachwahl` im Feld "Rücktritt" ein.
 
-**(A0428)** `Abitur > Fachwahlen`Anlegen der Fachwahlen - beachten Sie dazu folgende Punkte:
+**Anzahl der Pflichkurse**
+
+`Abitur > Fachwahl > Pflichtkurse`
+
+Die Anzahl der Pflichtkurse weisen Sie dem jeweiligen Fach im Menü `Abitur > Fachwahl` in Spalte "Pflichtkurse" zu.
+
+**Fachwahlen** 
+
+`Abitur > Fachwahlen`
+
+Beim Anlegen der Fachwahlen beachten Sie bitte folgende Punkte:
 
 1) Wechseln Sie in das Menü `Abitur > Fachwahlen`
 2) Tragen Sie jetzt das Fach und optional folgende Daten ein:
@@ -4318,7 +4345,11 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 **(A0426)** `Abitur > Fachwahl > Rücktritt`Das Datum des "Rücktritts" tragen Sie im Menü `Abitur > Fachwahl` im Feld "Rücktritt" ein.
 
-**(A0428)** `Abitur > Fachwahlen`Anlegen der Fachwahlen - beachten Sie dazu folgende Punkte:
+**Fachwahlen** 
+
+`Abitur > Fachwahlen`
+
+Beim Anlegen der Fachwahlen beachten Sie bitte folgende Punkte:
 
 1) Wechseln Sie in das Menü `Abitur > Fachwahlen`
 2) Tragen Sie jetzt das Fach und optional folgende Daten ein:
@@ -4328,7 +4359,7 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 3) Legen Sie pro Fach fest, in welchen Halbjahren das Fach belegt wird. Dazu markieren Sie die Fächer in dem entsprechenden Halbjahren. 
 4) Den Prüfungsfächern weisen Sie in der Spalte "Fachstatus" das entsprechende Kürzel "1PF", "2PF", "3PF", "4PF" oder "5PF" zu. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`.
-5) Für die korrekte Ausgabe der Aufgabenbereiche wählen Sie im `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte „Aufgabenbereich“ aus. Beachten Sie dabei:
+5) Für die korrekte Ausgabe der Aufgabenbereiche wählen Sie im `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte „Aufgabenbereich“ aus. Beachten Sie dabei: 
 
 Aufgabenbereich | Zeugnisbereich
 --|--
@@ -7371,7 +7402,9 @@ Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 
 
 Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume` im Feld "Art".
 
-**A0156**	`Schüler > Zeugnis > Details > Versäumnisse`
+**Versäumnisse**
+
+`Schüler > Zeugnis > Details > Versäumnisse`
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
@@ -7980,7 +8013,9 @@ Kürzel | Schlüssel | Bezeichnung
 3 PF | 3 PF | 3. Prüfungsfach
 4 PF | 4 PF | 4. Prüfungsfach
 
-**(A0150)** `Allgemein > Systemdatum`
+**Systemdatum**
+
+`Allgemein > Systemdatum`
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
@@ -9043,7 +9078,7 @@ Ist eine solche Zeugnisbemerkung mit diesem Merkmal "LAT" beim Schüler nicht ei
 
 `Schüler > Laufbahn > Versetzungsart`
 
-Ausgabe " Versetzungstext Oberstufe": Den Versetzungstext in Bezug auf die Berechtigung zum Übergang an die gymnasiale Oberstufe, tragen Sie im Menu `Schüler > Laufbahn > Versetzungsart` ein. Grundlage bildet das `Schlüsselverzeichnis > Versetzungsarten`.
+Ausgabe "Versetzungstext Oberstufe": Den Versetzungstext in Bezug auf die Berechtigung zum Übergang an die gymnasiale Oberstufe, tragen Sie im Menu `Schüler > Laufbahn > Versetzungsart` ein. Grundlage bildet das `Schlüsselverzeichnis > Versetzungsarten`.
 
 Kürzel | Schlüssel | Bedeutung
 --|--|--
@@ -9086,7 +9121,9 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0134)** `Schüler > Zeugnis > Leistungen > Endnote`
+**Benotung** 
+
+`Schüler > Zeugnis > Leistungen > Endnote`
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
@@ -9100,7 +9137,9 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0576)** `Schüler > Zeugnis > Fächer > Position`
+**Fächerposition**
+
+`Schüler > Zeugnis > Fächer > Position`
 
 Damit die Fächer gemäß der Zeugnisvorlage ausgegeben werden, müssen die Fächer des Schülers die folgenden Fachbezeichnungen und Positionen erhalten: 
 
@@ -9121,7 +9160,9 @@ Position | Fachbezeichnung
 
 Bei nicht vergebenen Fächern, werden nur die jeweiligen Fächer angezeigt, die Notenfelder auf dem Zeugnis werden jedoch entwertet. Damit Noten und Fächer korrekt ausgegeben werden achten Sie bitte darauf, dass die Fächer die richtigen Fachbezeichnungen erhalten, da den Fächern sonst falsche oder keine Noten zugeordnet werden können. Die Fremdsprachen tragen Sie bitte zusätzlich im Menü Schüler beim entsprechenden Schüler im Menü `Schüler > Daten 3` im Bereich „Fremdsprachenfolge“ ein.
 
-**(A0577)** `Schüler > Zeugnis > Fächer`
+**Fächer** 
+
+`Schüler > Zeugnis > Fächer`
 
 Die Fächer des „Arbeits- und Sozialverhalten“ legen Sie im Menü `Schüler > Zeugnis > Fächer` an und weisen diesen in der Spalte "Unterrichtsart" „ASV“ zu. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Anschließend benoten Sie Ihre „Arbeits- und Sozialverhalten“-Fächer Menü `Schüler > Zeugnis > Leistungen` im Feld „Endnote“ mit den Noten 1, 2, 3 und 4. Beachten Sie, dass der Notenwert der Note abgefragt wird. Folgende Notenwerte sollten Sie vorab im `Schlüsselverzeichnis > Noten` angelegt haben:
 
@@ -9142,9 +9183,11 @@ ASV12 | 1. und 2. HJ
 
 Falls Ihr Schüler keine Bemerkung mit dem Merkmal „ASV1“, „ASV2“ oder „ASV12“ zugewiesen wurde, wird die 2. Seite nicht ausgedruckt.
 
-**(A0578)** `Schüler > Zeugnis > Bemerkungen/Formulare > Mermal (FS)`
+**Bemerkungen für Fremdsprachen** 
 
-Bemerkungen zu den Fremdsprachen legen Sie im Menü Schüler > Zeugnis > Bemerkungen/Formulare an. Weisen die zudem im Feld "Merkmal" der Zeugnisbemerkung das Kürzel "FS" zu. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B. So `<<hier steht Ihr Platzhalter>>`. 
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal (FS)`
+
+Bemerkungen zu den Fremdsprachen legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` an. Weisen die zudem im Feld "Merkmal" der Zeugnisbemerkung das Kürzel "FS" zu. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B. So `<<hier steht Ihr Platzhalter>>`. 
 
 Möglich ist:
 
@@ -9274,7 +9317,9 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**(A0165)** `Schüler > Zeugnis > Leistungen`
+**Benotung**
+
+`Schüler > Zeugnis > Leistungen`
 
 Manche Fächer werden mit einer Note für mündliche Leistungen, einer Note für schriftliche Leistungen und einer Gesamtnote versehen. Tragen Sie daher im Menü `Schüler > Zeugnis > Leistungen` die Noten wie folgt ein:
 
