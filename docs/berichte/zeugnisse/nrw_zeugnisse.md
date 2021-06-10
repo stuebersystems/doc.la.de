@@ -3,6 +3,7 @@
 ## NRW-BLNW-OS.rpt
 
 **Gültigkeit**
+
 Für die Verwendung am Oberstufenkolleg Bielefeld. 
 
 Bitte beachten Sie ergänzend die Voraussetzungen für **Unterrichtsarten, Fachstatus, Fachkategorien und Aufgabenbereiche** für das dazugehörige Berechnungsskript unter [https://doc.la.stueber.de/08.nrw/nrw-apo-os-2020/](https://doc.la.stueber.de/08.nrw/nrw-apo-os-2020/).
