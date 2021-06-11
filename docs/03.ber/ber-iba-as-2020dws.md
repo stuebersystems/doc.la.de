@@ -107,7 +107,26 @@ Weisen Sie diese Fächer ebenfalls im Menü `Schüler > Zeugnis > Fächer` dem S
 
 #### 4. Noten der Fächer eingeben
 
-Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt". Dieses Feld ermöglicht Noten als Kommawert (Beispiel 1,4) zu erfassen. Fächer, für die es keine Bewertung gibt, also *ohne Bewertung*, weisen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" den Füllwert "o.B." zu. Grundlage bildet das `Schlüsselverzeichnis > Noten`, hier müssen Sie "o.B" mit der Notenart "Füllwert" erfasst haben. 
+Die Durchschnitte der Halbjahresnoten pro Fach erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt". Dieses Feld ermöglicht Noten als Kommawert (Beispiel 1,4) zu erfassen. 
+
+##### ohne Bewertung oder befreit
+
+`Extras > Schlüsselverzeichnisse > Noten`
+
+Bitte prüfen Sie, ob im Schlüsselverzeichnis `Noten` die beiden nachfolgenden Füllwerte angelegt wurden.
+
+Kürzel|Bezeichnung|Notenart
+--|--|--
+o.B.|ohne Bewertung|Füllwert
+bf|befreit|Füllwert
+
+`o.B.`:
+Fächern, für die es keine Bewertung gibt, also *ohne Bewertung*, weisen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld `Endnote` den Füllwert "o.B." zu. Grundlage bildet das `Schlüsselverzeichnis > Noten`, hier müssen Sie "o.B" mit der Notenart "Füllwert" erfasst haben.
+Mit `o.B.` benotete Fächer werden in den Faktor (nicht in die Notensumme) der Gesamtnotenberechnung einbezogen.
+
+`bf`:
+Für Schüler, die vom Fach Sport befreit sind weisen Sie bitte im Feld `Endnote` den Füllwert`bf`zu. Mit `bf` benotete Fächer haben weder als Faktor, noch als Note Einfluss auf die Gesamtnotenberechnung.
+
 
 ![`Schlüsselverzeichnis > Noten`](/assets/images/Berlin/iba07.png)
 
@@ -148,6 +167,11 @@ Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsga
 
     Die eingetragenen Noten in Feld "Durchschnitt" können jederzeit geändert werden. Durch erneutes Ausführen des Berechnungsskriptes wird die Berechnung neu durchgeführt.
     Die berechnete "Endnote (Gesamt)" kann manuell im Feld "Endnote (Gesamt)" geändert werden. Die Endnoten (gesamt) werden in das Abschlusszeugnis IBA, IBA mit MSA und IBA mit EBBR übergeben.
+
+#### Besonderheit Durchschnitt 1
+
+Wenn im Feld `Durchschnitt 1` ein eigenes, vom Gesamtdurchschnitt abweichendes Ergebnis erfasst wird, wird dieser selbstgewählte `Durchschnitt 1` auch beim erneuten Auslösen des Skriptes berücksichtigt und nicht überschrieben. 
+Möchten Sie das Skriptergebnis vollständig neu berechnen, leeren Sie bitte zuvor manuell das Feld `Durchschnitt 1`.
 
 ## Sonstiges für den Zeugnisdruck
 
