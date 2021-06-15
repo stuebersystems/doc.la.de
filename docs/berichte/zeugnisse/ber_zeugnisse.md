@@ -13490,7 +13490,7 @@ Das kleine, mittlere bzw. große Latinum etc. wird auf dem Zeugnis ausgegeben, w
 Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis >  Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
 
 |Kategorie|
----
+|--|
 |Fremdsprache|
 |Religion|
 |Deutsch|
@@ -13913,7 +13913,7 @@ Das kleine, mittlere bzw. große Latinum etc. wird auf dem Zeugnis ausgegeben, w
 Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis >  Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
 
 |Kategorie|
----
+|--|
 |Fremdsprache|
 |Religion|
 |Deutsch|
