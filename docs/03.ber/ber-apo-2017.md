@@ -69,6 +69,9 @@ Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werd
 |Recht|Nein|Nein|
 |Literatur|Nein|
 
+
+
+
 ## Aufgabenbereiche
 
 Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnisse > Fächer > Spalte Aufgabenbereich``` verwendet werden:
