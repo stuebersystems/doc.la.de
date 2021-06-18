@@ -31,7 +31,10 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 
 ## Profil
 
-Geben Sie den Schulzweig (Profil) beim jeweiligen Schüler auf der Registerkarte ```Daten3 > Verschiedenes > Profil``` ein. Beim Synchronisieren ins Menü „Abitur“ wird das Profil mit übernommen.
+Geben Sie den Schulzweig (Profil) beim jeweiligen Schüler auf der Registerkarte ```Daten3 > Verschiedenes > Profil``` ein. 
+
+**Beim Synchronisieren ins Menü „Abitur“ wird das Profil mit übernommen, ein nachträgliches Eintragen des Wertes genügt nicht. Ob das Profil für den Schüler synchronisiert wurde, können Sie unter `Abitur > Auswahl > Profil` je Schüler sehen.** 
+
 Bitte geben Sie im Schlüsselverzeichnis „Profile (Schüler)“ folgende Werte ein:
 
 |Schlüssel |Bedeutung|
