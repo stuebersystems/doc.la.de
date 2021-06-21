@@ -143,9 +143,13 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 
 2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.
 
+**Bestehen oder nicht Bestehen des Betriebspraktikums**
+
 `Schüler > Zeugnis > Fächer > Merkmal`
 
-Ob im Zeugnis das Betriebspraktikum 1./2. oder 3. als "bestanden" oder "nicht bestanden" ausgegeben wird, hängt vom Eintrag im Menü Schüler > Zeugnis > Fächer im Feld "Merkmal" ab.
+Ob im Zeugnis das Betriebspraktikum 1./2. oder 3. als "bestanden" oder "nicht bestanden" ausgegeben wird, hängt vom Eintrag im Menü `Schüler > Zeugnis > Fächer` im Feld "Merkmal" ab.
+
+Gehen Sie bitte wie folgt vor:
 
 1. Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betrieblichen Lernaufgaben an, entscheidend ist der Eintrag im Feld "Schlüssel", dieser muss wie folgt hinterlegt sein:
 
@@ -154,9 +158,12 @@ Ob im Zeugnis das Betriebspraktikum 1./2. oder 3. als "bestanden" oder "nicht be
 LA1 (beliebig)| LA1 | Betriebliche Lernaufgabe 1 (beliebig)
 LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 2 (beliebig)
 LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
+
 2. Weisen Sie diese Fächer im Menü Schüler > Zeugnis > Fächer dem Schüler zu.
 
 3. Die Betriebliche Lernaufgabe 1,/2./3. bezieht sich auf das jeweilige Praktikum 1./2./3. Ein Eintrag "N" im Feld "Merkmal" bei der entsprechenden Lernaufgabe steuert die Ausgabe "nicht bestanden". Bleibt das Feld "Merkmal" leer, wird das Praktikum als "bestanden" ausgegeben.
+
+**Ersetzung eines Lernfeldes durch Qualifizierungsbaustein**
 
 `Schüler > Zeugnis > Fächer`
 
@@ -168,6 +175,8 @@ Weisen Sie dieses Fach im Menü `Schüler > Zeugnis > Fächer` anstelle des zuge
 
 Anstelle des Lernfeldes wird nun der Qualifizierungsbaustein auf dem Zeugnis ausgegeben.
 
+**Lernfeldnummer je Lernfeld**
+
 `Extras > Schlüsselverzeichnisse > Fächer > Merkmal`
 
 Ihre Lernfelder erfassen Sie im `Schlüsselverzeichnisse > Fächer`. Im Feld "Bezeichnung" tragen Sie die Lernfeldbezeichnung ein. Die Lernfeldnummer geben Sie bitte im Feld "Zeugnismerkmal" (Merkmal) ein.
@@ -177,6 +186,8 @@ Kürzel | Schlüssel | Bezeichnung | Merkmal
 beliebig | beliebig | Sich im Berufsfeld orientieren | LF1
 
 Der Bericht liest den Eintrag aus Feld "Merkmal" aus und setzt dahinter die Fachbezeichnung aus Feld "Bezeichnung".
+
+**Fächerpositionierung**
 
 `Schüler > Zeugnis > Fächer > Position`
 
@@ -286,11 +297,13 @@ Die berechnete "Endnote" kann jederzeit manuell im Feld "Endnote" geändert werd
 
 Schul Z 591 – Abschlusszeugnis der Integrierten Berufsausbildungsvorbereitung (Vollzeit) – (4 Seiten) – (03.20)
 
-**Klassen**
+**Beurteilungsart der Klasse**
 
 `Klassen > Daten > Beurteilungsart > Noten`
 
 Im Menü `Klassen > Daten` muss bei der Klasse des Schülers iim Feld Beurteilungsart "Noten" angegeben sein. (hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung).
+
+**Berufsfeld der Klasse**
 
 `Klassen > Daten > Berufsfeld`
 
@@ -306,6 +319,8 @@ Tragen Sie die Anzahl der Stunden/Schuljahr im Menü `Schüler > Zeugnis > Fäch
 
 Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im `Schlüsselverzeichnis > Fachniveaus` ein.
 
+**Betriebliche Lernaufgabe**
+
 `Schüler > Zeugnis > Fächer`
 
 Neben dem Wahlunterricht und den berufsfeldübergreifenden bzw. berufsfeldbezogenen Unterricht muss auch die Betriebliche Lernaufgabe benotet werden. Gehen Sie dafür wie folgt vor:
@@ -319,11 +334,16 @@ LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 2 (beliebig)
 LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 
 2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.
-A0873 `Schüler > Zeugnis > Bemerkungen/Formulare`
+
+**vordefinierte Zeugnisbemerkung**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
 Die Zeugnisbemerkung "Die Schülerin/Der Schüler1) hat am Pflichtunterricht „Planung des beruflichen Anschlusses“ teilgenommen. ist im Bericht bereits personalisiert (Die Schülerin bzw. Der Schüler) hinterlegt.
+
+**Lernfeldersetzung durch Qualifizierungsbaustein**
 
 `Schüler > Zeugnis > Fächer`
 
@@ -334,7 +354,10 @@ Sollte dies beim Schüler zutreffen, legen Sie im `Schlüsselverzeichnis > Fäch
 Weisen Sie dieses Fach im Menü `Schüler > Zeugnis > Fächer` anstelle des zugewiesenen Lernfeldes zu. Beachten Sie, dass Sie diesem Qualifizierungsbaustein im Feld "Unterrichtart" entweder "FachT" oder "FachP" zuweisen.
 
 Anstelle des Lernfeldes wird nun der Qualifizierungsbaustein auf dem Zeugnis ausgegeben.
-A0885 `Extras > Schlüsselverzeichnisse > Fächer > Merkmal`
+
+**Lernfeldnummer des Lernfeldes**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal`
 
 Ihre Lernfelder erfassen Sie im `Schlüsselverzeichnisse > Fächer`. Im Feld "Bezeichnung" tragen Sie die Lernfeldbezeichnung ein. Die Lernfeldnummer geben Sie bitte im Feld "Zeugnismerkmal" (Merkmal) ein.
 
@@ -344,9 +367,13 @@ beliebig | beliebig | Sich im Berufsfeld orientieren | LF1
 
 Der Bericht liest den Eintrag aus Feld "Merkmal" aus und setzt dahinter die Fachbezeichnung aus Feld "Bezeichnung".
 
+**Fächerpositionierung**
+
 `Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer des "Berufsfeldübergreifenden Unterrichts" auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Den Fächern mit Niveau-Stufe (GR-Niveau / ER-Niveau) weisen Sie die Position 1-3 zu, den Fächern "Wirtschafts- und Sozialkunde" und Spoprt/Gesundheitsförderung weisen Sie die Position 4-5 zu.
+
+**Benotung betriebliche Lernaufgabe**
 
 `Schüler > Zeugnis > Fächer`
 
@@ -437,7 +464,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Schüler > Zeugnis > Zeugnisdetails` gezogen.
 
-**Zeugnisbemerkungen**
+**vordefinierte Zeugnisbemerkung**
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
@@ -445,11 +472,15 @@ Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vorde
 
 Die Zeugnisbemerkung "Der erfolgreiche Abschluss des Bildungsganges ist im Deutschen und Europäischen Qualifikationsrahmen dem Niveau 2 zugeordnet. ist im Bericht standardmäßig hinterlegt.
 
+**vordefinierte Zeugnisbemerkung**
+
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
 Die Zeugnisbemerkung "Dem Zeugnis ist das Zertifikat zur Einschätzung personaler Kompetenzen „Betriebspraktikum“ und „Unterricht“1) beigefügt. müssen Sie den Schülern manuell zuweisen.
+
+**Positionierung der Zeugnisbemerkungen**
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
@@ -1598,7 +1629,9 @@ ER | ER | Er-Niveau
 
 Weisen Sie den Fächern im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" das entsprechende Bewertungsniveau zu"
 
-**A0864** `Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
+**Praktikum**
+
+ `Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
 
 Tragen Sie den Betrieb des Praktikums im Menü `Schüler > Ausbildung` im Bereich „Praxibetrieb“ ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Praxisbetrieb zuweisen bzw. bearbeiten. Im Feld "Praxisbetrieb" hinterlegen Sie den Betrieb. 
 Erfassen Sie im Feld "Bildungsgang" den Bildungsgang. 
@@ -1625,7 +1658,7 @@ Agrarwirt (beliebig)| 13 (beliebig) | Agrarwirtschaft
 SozPflege (beliebig)| 14 (beliebig) | Sozialpäd. Pflegerischer Dienst 
 Sonstige (beliebig) | 15 (beliebig)| Sonstige/ mehrere Berufsfelder 
 
-Definieren Sie danach im Schlüsselverzeichnis > Bildungsänge Ihre Bildungsgänge, weisen Sie hier je Bildungsgang im Feld "Berufsfeld" ein Berufsfeld zu, folgende Bsp.:
+Definieren Sie danach im `Schlüsselverzeichnis > Bildungsänge` Ihre Bildungsgänge, weisen Sie hier je Bildungsgang im Feld "Berufsfeld" ein Berufsfeld zu, folgende Bsp.:
 
 Kürzel | Schlüssel | Bezeichnung | Berufsfeld
 --|--|--|--
@@ -1641,11 +1674,15 @@ Eintrag für | Eingabe wie folgt
 --|--
 1. Praktikum | LA1HJ1 
 2. Praktikum | LA2HJ1 oder LA2HJ2
-3. Praktikum | LA3HJ2
+3. Praktikum | LA3
 
 Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die auch benotet wird, dem 1./2./3 Betriebspraktikum zuordnen. Zudem wird ein Bezug des Betriebspraktikums zum HJ1 bzw. HJ2 hergestellt.
 
-**A0872 `Schüler > Zeugnis > Fächer`
+![Betriebspraktikum](/assets/images/Berlin/iba08.png)
+
+**Betriebliche Lernaufgaben**
+
+`Schüler > Zeugnis > Fächer`
 
 Neben dem Wahlunterricht und den berufsfeldübergreifenden bzw. berufsfeldbezogenen Unterricht muss auch die Betriebliche Lernaufgabe benotet werden. Gehen Sie dafür wie folgt vor:
 
@@ -1659,21 +1696,29 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 
 2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.
 
-**A0873** `Schüler > Zeugnis > Bemerkungen/Formulare`
+**vordefinierte Zeugnisbemerkung**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
-Die Zeugnisbemerkung "Die Schülerin/Der Schüler1) hat am Pflichtunterricht „Planung des beruflichen Anschlusses“ teilgenommen. ist im Bericht bereits personalisiert (Die Schülerin bzw. Der Schüler) hinterlegt.
+Die Zeugnisbemerkung "Die Schülerin/Der Schüler 1) hat am Pflichtunterricht „Planung des beruflichen Anschlusses“ teilgenommen. ist im Bericht bereits personalisiert (Die Schülerin bzw. Der Schüler) hinterlegt.
 
-**A0874** `Schüler > Zeugnis > Bemerkungen/Formulare`
+**vordefinierte Zeugnisbemerkung**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
-Die Zeugnisbemerkung "Dem Zeugnis ist das Zertifikat zur Einschätzung personaler Kompetenzen „Betriebspraktikum“ und „Unterricht“1) beigefügt. " müssen Sie den jeweiligen Schülern individuell oder per Sammelzuweisung hinterlegen.
+Die Zeugnisbemerkung "Dem Zeugnis ist das Zertifikat zur Einschätzung personaler Kompetenzen „Betriebspraktikum“ und „Unterricht“ 1) beigefügt. " müssen Sie den jeweiligen Schülern individuell oder per Sammelzuweisung hinterlegen.
 
-**A0875** `Schüler > Zeugnis > Fächer > Merkmal`
+**Bestehen oder nicht Bestehen des Betriebspraktikums**
 
-Ob im Zeugnis das Betriebspraktikum 1./2. oder 3. als "bestanden" oder "nicht bestanden" ausgegeben wird, hängt vom Eintrag im Menü Schüler > Zeugnis > Fächer im Feld "Merkmal" ab.
+`Schüler > Zeugnis > Fächer > Merkmal`
+
+Ob im Zeugnis das Betriebspraktikum 1./2. oder 3. als "bestanden" oder "nicht bestanden" ausgegeben wird, hängt vom Eintrag im Menü `Schüler > Zeugnis > Fächer` im Feld "Merkmal" ab.
+
+Gehen Sie bitte wie folgt vor:
 
 1. Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betrieblichen Lernaufgaben an, entscheidend ist der Eintrag im Feld "Schlüssel", dieser muss wie folgt hinterlegt sein:
 
@@ -1682,6 +1727,7 @@ Ob im Zeugnis das Betriebspraktikum 1./2. oder 3. als "bestanden" oder "nicht be
 LA1 (beliebig)| LA1 | Betriebliche Lernaufgabe 1 (beliebig)
 LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 2 (beliebig)
 LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
+
 2. Weisen Sie diese Fächer im Menü Schüler > Zeugnis > Fächer dem Schüler zu.
 
 3. Die Betriebliche Lernaufgabe 1,/2./3. bezieht sich auf das jeweilige Praktikum 1./2./3. Ein Eintrag "N" im Feld "Merkmal" bei der entsprechenden Lernaufgabe steuert die Ausgabe "nicht bestanden". Bleibt das Feld "Merkmal" leer, wird das Praktikum als "bestanden" ausgegeben.
