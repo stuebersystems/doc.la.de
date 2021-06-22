@@ -168,10 +168,10 @@ Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsga
     Die eingetragenen Noten in Feld "Durchschnitt" können jederzeit geändert werden. Durch erneutes Ausführen des Berechnungsskriptes wird die Berechnung neu durchgeführt.
     Die berechnete "Endnote (Gesamt)" kann manuell im Feld "Endnote (Gesamt)" geändert werden. Die Endnoten (gesamt) werden in das Abschlusszeugnis IBA, IBA mit MSA und IBA mit EBBR übergeben.
 
-#### Besonderheit Durchschnitt 1
+#### Besonderheit Durchschnitt 1 und 2
 
-Wenn im Feld `Durchschnitt 1` ein eigenes, vom Gesamtdurchschnitt abweichendes Ergebnis erfasst wird, wird dieser selbstgewählte `Durchschnitt 1` auch beim erneuten Auslösen des Skriptes berücksichtigt und nicht überschrieben. 
-Möchten Sie das Skriptergebnis vollständig neu berechnen, leeren Sie bitte zuvor manuell das Feld `Durchschnitt 1`.
+Wenn im Feld `Durchschnitt 1` und/oder `Durchschnitt 2` ein eigenes, vom Gesamtdurchschnitt abweichendes Ergebnis erfasst wird, wird dieser selbstgewählte `Durchschnitt 1` auch beim erneuten Auslösen des Skriptes berücksichtigt und nicht überschrieben. 
+Möchten Sie das Skriptergebnis vollständig neu berechnen, leeren Sie bitte zuvor manuell das Feld `Durchschnitt 1` und/oder `Durchschnitt 2`.
 
 ## Sonstiges für den Zeugnisdruck
 
