@@ -3139,7 +3139,7 @@ SuAV | Arbeits- und Sozialverhalten
 DBF | Differenzierende Bemerkungen zu den Fächern
 CiU | Computer im Unterricht
 
-Beachten Sie, dass die Bereiche nur bei bestimmten Jahrgängen ausgegeben werden. (siehe A0618)
+Beachten Sie, dass die Bereiche nur bei bestimmten Jahrgängen ausgegeben werden. 
 
 `Schüler > Zeugnis > Fächer > Position`
 

@@ -596,17 +596,22 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 `Mandanten > Daten 1 > Ort`
 
-Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“."
-A0242	"`Klassen > Merkmale`
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
+
+**Differenzierung Berufsbereiche**
+
+`Klassen > Merkmale > Merkmal A1/Merkmal A2`
 
 Auf dem Zeugnis sind 2 Berufsbereiche zu differenzieren:
-Den ersten Berufsbereich weisen Sie im Menü `Klassen > Merkmale > Merkmal A1`, den zweiten Berufsbereich weisen Sie analog  im Menü `Klassen > Merkmale > Merkmal A2`zu. Grundlage bildet das Schlüsselverzeichnis `Klassenmerkmale`.
+Den ersten Berufsbereich weisen Sie unter `Klassen > Merkmale > Merkmal A1`, den zweiten Berufsbereich weisen Sie analog unter `Klassen > Merkmale > Merkmal A2` zu. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`.
 
 ![Zeugnisvorlage A.01.09 Deckblatt](/assets/images/Sachsen/a.01.08_Bild01.png)
 
 ![Eingabe in MAGELLAN 7](/assets/images/Sachsen/a.01.08_Bild02.png)
 
-**A0341** `Schüler > Zeugnis > Fächer`
+**Dauer Praktikum/Berufspraktische/Praktische Ausbildung** 
+
+`Schüler > Zeugnis > Fächer`
 
 Die Anzahl der Wochen für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach "Praktikum" bzw. "Berufspraktische/Praktische Ausbildung" im Menü `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu.
 
@@ -744,7 +749,9 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0242)** `Klassen > Merkmale > Merkmal A1/Merkmal A2`
+**Differenzierung Berufsbereiche**
+
+`Klassen > Merkmale > Merkmal A1/Merkmal A2`
 
 Auf dem Zeugnis sind 2 Berufsbereiche zu differenzieren:
 Den ersten Berufsbereich weisen Sie unter `Klassen > Merkmale > Merkmal A1`, den zweiten Berufsbereich weisen Sie analog unter `Klassen > Merkmale > Merkmal A2` zu. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`.
@@ -769,7 +776,9 @@ HS (frei definierbar)** | leer | Hauptschulabschluss
 EHS (frei definierbar)** | leer | Erweiterter Hauptschulabschluss
 MSA (frei definierbar)** | leer | Mittlerer Schulabschluss
 
-**(A0580)** `Schüler > Zeugnis > Bemerkungen/Formulare` > Mermal (Thema)
+**Ausgabe der komplexen Arbeitsaufgabe inklusive Note unter Bemerkungen**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Zum Anlegen der „komplexe Arbeitsaufgabe“ inklusive Note unter Bemerkungen gehen Sie wie folgt vor:
 
@@ -905,16 +914,18 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**A0242**`Klassen > Merkmale`
+**Differenzierung Berufsbereiche**
+
+`Klassen > Merkmale > Merkmal A1/Merkmal A2`
 
 Auf dem Zeugnis sind 2 Berufsbereiche zu differenzieren:
-Den ersten Berufsbereich weisen Sie im Menü `Klassen > Merkmale > Merkmal A1`, den zweiten Berufsbereich weisen Sie analog  im Menü `Klassen > Merkmale > Merkmal A2`zu. Grundlage bildet das Schlüsselverzeichnis `Klassenmerkmale`.
+Den ersten Berufsbereich weisen Sie unter `Klassen > Merkmale > Merkmal A1`, den zweiten Berufsbereich weisen Sie analog unter `Klassen > Merkmale > Merkmal A2` zu. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`.
 
 ![Zeugnisvorlage A.01.09 Deckblatt](/assets/images/Sachsen/a.01.08_Bild01.png)
 
 ![Eingabe in MAGELLAN 7](/assets/images/Sachsen/a.01.08_Bild02.png)
 
-**A0341** `Schüler > Zeugnis > Fächer`
+**A*0341* `Schüler > Zeugnis > Fächer`
 
 Die Anzahl der Wochen für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach "Praktikum" bzw. "Berufspraktische/Praktische Ausbildung" im Menü `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu.
 
@@ -1061,12 +1072,13 @@ Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Z
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**A0239**	`Ausdruck`
+**Ausdruck**
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **Zeugnisbemerkungen**
-	`Schüler > Zeugnis > Bemerkungen/Formulare` / `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` / `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` /
 `Berufsschule > Zeugnisbemerkungen`
 
 Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
@@ -1194,12 +1206,13 @@ Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Z
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**A0239**	`Ausdruck`
+**Ausdruck**
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **Zeugnisbemerkungen**
-	`Schüler > Zeugnis > Bemerkungen/Formulare` / `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` / `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`/
 `Berufsschule > Zeugnisbemerkungen`
 
 Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
@@ -1674,7 +1687,7 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 **Text für Ausgabe Hauptschulabschluss**
 
- `Schüler > Laufbahn > Abschluss > Abschluss 2`
+`Schüler > Laufbahn > Abschluss > Abschluss 2`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Abschluss` die Abschlussbezeichnung unter "Abschluss 2" im Feld "Abschluss" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Abschlüsse (Intern)`.
 
@@ -1731,15 +1744,19 @@ Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet da
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0378)** `Schüler > Laufbahn > Abschluss > Abschluss 2`
+**Text für Ausgabe Hauptschulabschluss**
 
-Falls bei dem Schüler der Erwerb des Hauptschulabschlusses ausgegeben werden soll, tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im Feld „Abschluss2“ die Abschlussbezeichnung "Hauptschulabschluss" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Abschlüsse (Intern)`. Der Bericht fragt das Feld "Bezeichnung" ab.
+`Schüler > Laufbahn > Abschluss > Abschluss 2`
 
-**(A0602)** 
+Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Abschluss` die Abschlussbezeichnung unter "Abschluss 2" im Feld "Abschluss" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Abschlüsse (Intern)`.
 
-`Abitur > Zeugnisbemerkungen`
+Kürzel | Schlüssel |Bezeichnung
+--|--|--
+beliebig | HS | Hauptschulabschluss
 
-`Schüler > Zeugnis > Bemerkungen/Formulare`
+**Platzhalter Zeugnisbemerkungen** 
+
+`Abitur > Zeugnisbemerkungen` /`Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Bemerkungen legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü `Abitur > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B. So ``<<hier steht Ihr Platzhalter>>``. 
@@ -1850,10 +1867,9 @@ Tragen Sie im Menü `Schüler > Ausbildung > Ausbildungsbetriebe` im aktuellen Z
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0602)** 
-Abitur > Zeugnisbemerkungen
+**Platzhalter Zeugnisbemerkungen** 
 
-`Schüler > Zeugnis > Bemerkungen/Formulare`
+`Abitur > Zeugnisbemerkungen` /`Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Bemerkungen Legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü `Abitur > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.
 
@@ -2891,13 +2907,15 @@ Bsp. für mögliche Fächer:
 * Berufspraktische Ausbildung in der Apotheke
 * Praktische Ausbildung
 
-**(A0386)** Schlüsselverzeichnisse > Fächer UND
-Schlüsselverzeichnisse > Fachstatus > Praktikum
+**Berufspraktische Ausbildung** 
+
+`Extras > Schlüsselverzeichnisse > Fächer` UND
+`Extras > Schlüsselverzeichnisse > Fachstatus` 
 
 Die Berufspraktische Ausbildung tragen Sie wie folgt ein:
 
-1)** Legen Sie im Schlüsselverzeichnis > Fächer die Fächer in denen die Berufspraktische Ausbildung erfolgte an und weisen Sie diesen den "Fachstatus" "Praktikum" zu. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
-2)** Damit die Berufspraktische Ausbildung sowie die Teilbereiche in der gewünschten Reihenfolge auf dem Zeugnis ausgegeben wird, weisen Sie die Fächer im Menü `Schüler > Zeugnis > Fächer` zu und tragen Sie im Feld "Position" eine Nummer ein. Positionen Sie die Fächer in der gewünschten Reihenfolge chronologisch aufsteigend.
+1. Legen Sie im Schlüsselverzeichnis > Fächer die Fächer in denen die Berufspraktische Ausbildung erfolgte an und weisen Sie diesen den "Fachstatus" "Praktikum" zu. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
+2. Damit die Berufspraktische Ausbildung sowie die Teilbereiche in der gewünschten Reihenfolge auf dem Zeugnis ausgegeben wird, weisen Sie die Fächer im Menü `Schüler > Zeugnis > Fächer` zu und tragen Sie im Feld "Position" eine Nummer ein. Positionen Sie die Fächer in der gewünschten Reihenfolge chronologisch aufsteigend.
 3)** Beachten Sie, dass Sie dem Fach mit der niedrigsten Position eine Note zuweisen und bei den anderen Fächern das Feld Note leer lassen und dafür im Feld Merkmal die jeweilige Wochenzahl eintragen.
 
 **Platzhalter für Zeugnisbemerkungen**
@@ -3017,9 +3035,11 @@ Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugni
 
 Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, Ethik und Sport nicht mit einfliessen, ist es zwingend erforderlich den jeweiligen Fächern im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" die Werte "Religion" oder "Sport" zuzuweisen.
 
-**(A0384)** Schlüsselverzeichnisse > Fächer
+**Fachgespräch**
 
-Im Schlüsselverzeichnis > Fächer legen Sie ein beliebiges Fach an (z.B. Fachgespräch). Dieses Fach weisen Sie dem Schüler im Menü `Schüler > Zeugnis > Fächer` zu, zusätzlich erhält dieses Fach im Feld "Fachstatus" den Eintrag "Praktikum". Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
+`Extras > Schlüsselverzeichnisse > Fächer`
+
+Im `Schlüsselverzeichnis > Fächer` legen Sie ein beliebiges Fach an (z.B. Fachgespräch). Dieses Fach weisen Sie dem Schüler im Menü `Schüler > Zeugnis > Fächer` zu, zusätzlich erhält dieses Fach im Feld "Fachstatus" den Eintrag "Praktikum". Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
 
 **Platzhalter f. Zeugnisbemerkungen** 
 
@@ -3157,9 +3177,10 @@ Bsp. für mögliche Fächer:
 * Berufspraktische Ausbildung in der Apotheke
 * Praktische Ausbildung
 
-**(A0420)** `Schüler > Zeugnis > Fächer > Merkmal`
+**Dauer Praktikum/Berufspraktische/Praktische Ausbildung** 
 
-Dauer Praktikum/ erufspraktische/Praktische Ausbildung: 
+`Schüler > Zeugnis > Fächer > Merkmal`
+
 Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:
 
 1) Das erste Zeichen des Terms bestimmt, ob die Praktikumszeit in Monate, Wochen, Tage oder Stunden ausgegeben werden soll. Für Monat(e) geben Sie ein "m", für Woche(n) geben Sie ein "w", für Tag(e) ein "t" und für Stunde(n) ein "h" an
@@ -3173,11 +3194,15 @@ w12 | 12 Wochen
 t90 | 90 Tage
 h3600 | 3600 Stunden
 
-**(A0421)** Zur Ausgabe der Note für die "Berufspraktische Ausbildung" legen Sie ein Fach mit der selben Bezeichnung an und weisen diesem den Fachstatus "Praktikum" zu. Diesem Fach weisen Sie die jeweilige Note im Feld "Endnote" zu. Beachten Sie, dass das Fach "Berufspraktische Ausbildung" in Bezug zu den "Einsatzgebieten" die chronologisch niedrigste Position haben muss. Beachten Sie dazu auch A0420.
+**Note für Berufspraktische Ausbildung** 
 
-Berufspraktische Ausbildung --> Position 1
-Einsatzgebiet 1 --> Position 2
-Einsatzgebiet 2 --> Position 3
+`Extras > Schlüsselverzeichnisse > Fächer`
+
+Zur Ausgabe der Note für die "Berufspraktische Ausbildung" legen Sie ein Fach mit der selben Bezeichnung an und weisen diesem den Fachstatus "Praktikum" zu. Diesem Fach weisen Sie die jeweilige Note im Feld "Endnote" zu. Beachten Sie, dass das Fach "Berufspraktische Ausbildung" in Bezug zu den "Einsatzgebieten" die chronologisch niedrigste Position haben muss.
+
+Berufspraktische Ausbildung: Position 1
+Einsatzgebiet 1: Position 2
+Einsatzgebiet 2: Position 3
 
 **Platzhalter für Zeugnisbemerkungen**
  
@@ -3315,12 +3340,13 @@ Bsp. für mögliche Fächer:
 * Berufspraktische Ausbildung in der Apotheke
 * Praktische Ausbildung
 
-**(A0420)** `Schüler > Zeugnis > Fächer > Merkmal`
+**Dauer Praktikum/Berufspraktische/Praktische Ausbildung**
 
-Dauer Praktikum/ erufspraktische/Praktische Ausbildung: 
-Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:
+`Schüler > Zeugnis > Fächer > Merkmal`
 
-1) Das erste Zeichen des Terms bestimmt, ob die Praktikumszeit in Monate, Wochen, Tage oder Stunden ausgegeben werden soll. Für Monat(e) geben Sie ein "m", für Woche(n) geben Sie ein "w", für Tag(e) ein "t" und für Stunde(n) ein "h" an
+Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die  Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum" , "Berufspraktische/Praktische Ausbildung")  unter`Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:
+
+1) Das erste Zeichen des Terms bestimmt ob die Praktikumszeit in Monate, Wochen, Tage oder Stunden ausgegeben werden soll. Für Monat(e) geben Sie ein "m", für Woche(n) geben Sie ein "w", für Tag(e) ein "t" und für Stunde(n) ein "h" an
 
 2) Bei den nachfolgenden Zeichen geben Sie die Dauer der Praktikumszeit als Zahlenwert an.
 
@@ -3331,11 +3357,15 @@ w12 | 12 Wochen
 t90 | 90 Tage
 h3600 | 3600 Stunden
 
-**(A0421)** Zur Ausgabe der Note für die "Berufspraktische Ausbildung" legen Sie ein Fach mit der selben Bezeichnung an und weisen diesem den Fachstatus "Praktikum" zu. Diesem Fach weisen Sie die jeweilige Note im Feld "Endnote" zu. Beachten Sie, dass das Fach "Berufspraktische Ausbildung" in Bezug zu den "Einsatzgebieten" die chronologisch niedrigste Position haben muss. Beachten Sie dazu auch A0420.
+**Note für Berufspraktische Ausbildung** 
 
-Berufspraktische Ausbildung --> Position 1
-Einsatzgebiet 1 --> Position 2
-Einsatzgebiet 2 --> Position 3
+`Extras > Schlüsselverzeichnisse > Fächer`
+
+Zur Ausgabe der Note für die "Berufspraktische Ausbildung" legen Sie ein Fach mit der selben Bezeichnung an und weisen diesem den Fachstatus "Praktikum" zu. Diesem Fach weisen Sie die jeweilige Note im Feld "Endnote" zu. Beachten Sie, dass das Fach "Berufspraktische Ausbildung" in Bezug zu den "Einsatzgebieten" die chronologisch niedrigste Position haben muss.
+
+Berufspraktische Ausbildung: Position 1
+Einsatzgebiet 1: Position 2
+Einsatzgebiet 2: Position 3
 
 **Platzhalter für Zeugnisbemerkungen**
  
@@ -3440,7 +3470,9 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0367)** `Schüler > Zeugnis > Fächer`
+**Vorgegebene Fächerkürzel** 
+
+`Schüler > Zeugnis > Fächer`
 
 Um Text und Noten den jeweiligen Fächer zuzuordnen, verwenden Sie für die Fächer folgende Kürzel:
 
@@ -3599,13 +3631,13 @@ Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugni
 
 Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, Ethik und Sport nicht mit einfliessen, ist es zwingend erforderlich den jeweiligen Fächern im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" die Werte "Religion" oder "Sport" zuzuweisen.
 
-**(A0420)** `Schüler > Zeugnis > Fächer > Merkmal`
+**Dauer Praktikum/Berufspraktische/Praktische Ausbildung**
 
-Dauer Praktikum/ erufspraktische/Praktische Ausbildung: 
+`Schüler > Zeugnis > Fächer > Merkmal`
 
-Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:
+Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die  Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum" , "Berufspraktische/Praktische Ausbildung")  unter`Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:
 
-1) Das erste Zeichen des Terms bestimmt, ob die Praktikumszeit in Monate, Wochen, Tage oder Stunden ausgegeben werden soll. Für Monat(e) geben Sie ein "m", für Woche(n) geben Sie ein "w", für Tag(e) ein "t" und für Stunde(n) ein "h" an
+1) Das erste Zeichen des Terms bestimmt ob die Praktikumszeit in Monate, Wochen, Tage oder Stunden ausgegeben werden soll. Für Monat(e) geben Sie ein "m", für Woche(n) geben Sie ein "w", für Tag(e) ein "t" und für Stunde(n) ein "h" an
 
 2) Bei den nachfolgenden Zeichen geben Sie die Dauer der Praktikumszeit als Zahlenwert an.
 
@@ -3616,11 +3648,15 @@ w12 | 12 Wochen
 t90 | 90 Tage
 h3600 | 3600 Stunden
 
-**(A0421)** Zur Ausgabe der Note für die "Berufspraktische Ausbildung" legen Sie ein Fach mit der selben Bezeichnung an und weisen diesem den Fachstatus "Praktikum" zu. Diesem Fach weisen Sie die jeweilige Note im Feld "Endnote" zu. Beachten Sie, dass das Fach "Berufspraktische Ausbildung" in Bezug zu den "Einsatzgebieten" die chronologisch niedrigste Position haben muss. Beachten Sie dazu auch A0420.
+**Note für Berufspraktische Ausbildung** 
 
-Berufspraktische Ausbildung --> Position 1
-Einsatzgebiet 1 --> Position 2
-Einsatzgebiet 2 --> Position 3
+`Extras > Schlüsselverzeichnisse > Fächer`
+
+Zur Ausgabe der Note für die "Berufspraktische Ausbildung" legen Sie ein Fach mit der selben Bezeichnung an und weisen diesem den Fachstatus "Praktikum" zu. Diesem Fach weisen Sie die jeweilige Note im Feld "Endnote" zu. Beachten Sie, dass das Fach "Berufspraktische Ausbildung" in Bezug zu den "Einsatzgebieten" die chronologisch niedrigste Position haben muss.
+
+Berufspraktische Ausbildung: Position 1
+Einsatzgebiet 1: Position 2
+Einsatzgebiet 2: Position 3
 
 **Platzhalter für Zeugnisbemerkungen**
  
@@ -3642,9 +3678,10 @@ Platzhalter | Ausgabe im Bericht
 ``<<Anrede4>>`` | ihm/ihr (je nach Geschlecht des Schülers)
 ``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
-**A0420** `Schüler > Zeugnis > Fächer > Merkmal`
+**Dauer Praktikum/Berufspraktische/Praktische Ausbildung**
 
-Dauer Praktikum / Berufspraktische/Praktische Ausbildung: 
+`Schüler > Zeugnis > Fächer > Merkmal`
+
 Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die  Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum" , "Berufspraktische/Praktische Ausbildung")  unter`Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:
 
 1) Das erste Zeichen des Terms bestimmt ob die Praktikumszeit in Monate, Wochen, Tage oder Stunden ausgegeben werden soll. Für Monat(e) geben Sie ein "m", für Woche(n) geben Sie ein "w", für Tag(e) ein "t" und für Stunde(n) ein "h" an
@@ -3885,9 +3922,11 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Die Anzahl der Wochen für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach "Praktikum" bzw. "Berufspraktische/Praktische Ausbildung" im Menü `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu.
 
-**(A0365)** `Klassen > Merkmale > Merkmal A5`
+**Fachbereich Klasse**
 
-Den Fachbereich der Klasse tragen Sie im Menü Klassen > Merkmale im Feld "Merkmal A5" ein. Grundlage bildet das Schlüsselverzeichnis > Merkmale (Klassen). Hier ist in der Spalte „Bereich“ der Wert „Merkmal A5“ zuzuweisen. Bleibt das Feld "A5" leer wird der "Fachbereich" ausgeblendet.
+`Klassen > Merkmale > Merkmal A5`
+
+Den Fachbereich der Klasse tragen Sie im Menü `Klassen > Merkmale` im Feld "Merkmal A5" ein. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`. Hier ist in der Spalte „Bereich“ der Wert „Merkmal A5“ zuzuweisen. Bleibt das Feld "A5" leer wird der "Fachbereich" ausgeblendet.
 
 **Platzhalter für Zeugnisbemerkungen**
  
@@ -4134,12 +4173,13 @@ Bsp. für mögliche Fächer:
 * Berufspraktische Ausbildung in der Apotheke
 * Praktische Ausbildung
 
-**(A0420)** `Schüler > Zeugnis > Fächer > Merkmal`
+**Dauer Praktikum/Berufspraktische/Praktische Ausbildung**
 
-Dauer Praktikum/ erufspraktische/Praktische Ausbildung: 
-Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum", "Berufspraktische/Praktische Ausbildung")** unter `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:
+`Schüler > Zeugnis > Fächer > Merkmal`
 
-1) Das erste Zeichen des Terms bestimmt, ob die Praktikumszeit in Monate, Wochen, Tage oder Stunden ausgegeben werden soll. Für Monat(e) geben Sie ein "m", für Woche(n) geben Sie ein "w", für Tag(e) ein "t" und für Stunde(n) ein "h" an
+Die Anzahl der Monate, Wochen, Tage oder Stunden für das Praktikum bzw. für die  Berufspraktische/Praktische Ausbildung weisen Sie einem Fach (Bsp. "Praktikum" , "Berufspraktische/Praktische Ausbildung")  unter`Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu. Um zu unterscheiden, ob die Praktikumsdauer in Monate, Wochen, Tage oder Stunden ausgegeben werden soll gehen Sie wie folgt vor:
+
+1) Das erste Zeichen des Terms bestimmt ob die Praktikumszeit in Monate, Wochen, Tage oder Stunden ausgegeben werden soll. Für Monat(e) geben Sie ein "m", für Woche(n) geben Sie ein "w", für Tag(e) ein "t" und für Stunde(n) ein "h" an
 
 2) Bei den nachfolgenden Zeichen geben Sie die Dauer der Praktikumszeit als Zahlenwert an.
 
@@ -4154,7 +4194,7 @@ h3600 | 3600 Stunden
 
 `Schüler > Laufbahn > Wiederholungsart`
 
-Die "Wiederholungsart" tragen Sie im Menü Schüler > Laufbahn im Feld "Wiederholungsart" ein. Grundlage bildet das Schlüsselverzeichnis > Wiederholungsarten. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
+Die "Wiederholungsart" tragen Sie im Menü `Schüler > Laufbahn` im Feld "Wiederholungsart" ein. Grundlage bildet das `Schlüsselverzeichnis > Wiederholungsarten`. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
@@ -4237,11 +4277,15 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü Lehrer zurück.
 
-**(A0422)** `Mandanten > Merkmale > Merkmal A6`
+**Regionalstelle** 
 
-Die Regionalstelle tragen Sie im Menü Mandanten >Merkmale im Feld "Merkmal A6" ein. Grundlage bildet das Schlüsselverzeichnis > Merkmale (Mandaten). Hier ist in der Spalte „Bereich“ der Wert „Merkmal A6“ zuzuweisen. Bleibt das Feld "A6" leer wird die "Regionalstelle" ausgeblendet.
+`Mandanten > Merkmale > Merkmal A6`
 
-**(A0423)** `Schüler > Zeugnis > Leistungen`
+Die Regionalstelle tragen Sie im Menü `Mandanten > Merkmale` im Feld "Merkmal A6" ein. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Mandaten)`. Hier ist in der Spalte „Bereich“ der Wert „Merkmal A6“ zuzuweisen. Bleibt das Feld "A6" leer wird die "Regionalstelle" ausgeblendet.
+
+**Prüfungsnoten**
+
+ `Schüler > Zeugnis > Leistungen`
 
 Die Prüfungsnoten geben Sie wie folgt aus:
 
@@ -4686,13 +4730,17 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` die Schulfart im Feld
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0365)** `Klassen > Merkmale > Merkmal A5`
+**Fachbereich Klasse**
 
-Den Fachbereich der Klasse tragen Sie im Menü Klassen > Merkmale im Feld "Merkmal A5" ein. Grundlage bildet das Schlüsselverzeichnis > Merkmale (Klassen). Hier ist in der Spalte „Bereich“ der Wert „Merkmal A5“ zuzuweisen. Bleibt das Feld "A5" leer wird der "Fachbereich" ausgeblendet.
+`Klassen > Merkmale > Merkmal A5`
 
-**(A0366)** `Klassen > Merkmale > Merkmal A6`
+Den Fachbereich der Klasse tragen Sie im Menü `Klassen > Merkmale` im Feld "Merkmal A5" ein. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`. Hier ist in der Spalte „Bereich“ der Wert „Merkmal A5“ zuzuweisen. Bleibt das Feld "A5" leer wird der "Fachbereich" ausgeblendet.
 
-Den Schwerpunkt der Klasse tragen Sie im Menü Klassen > Merkmale tragen Sie den Schwerpunkt im Feld "Merkmal A6" ein. Grundlage bildet das Schlüsselverzeichnis > Merkmale (Klassen). Hier ist in der Spalte „Bereich“ der Wert „Merkmal A6“ zuzuweisen. Bleibt das Feld "A6" leer wird der "Schwerpunkt" ausgeblendet.
+**Schwerpunkt Klasse**
+
+`Klassen > Merkmale > Merkmal A6`
+
+Den Schwerpunkt der Klasse tragen Sie im Menü `Klassen > Merkmale` tragen Sie den Schwerpunkt im Feld "Merkmal A6" ein. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`. Hier ist in der Spalte „Bereich“ der Wert „Merkmal A6“ zuzuweisen. Bleibt das Feld "A6" leer wird der "Schwerpunkt" ausgeblendet.
 
 ### SAC-FS-AZ (C.01.04).rpt
 
@@ -4879,7 +4927,9 @@ Das Thema der Facharbeit tragen Sie im Menü `Schüler > Leistungem` im Feld "Be
 
 ![`Schlüsselverzeichnis > Fächer`](/assets/images/Sachsen/Bild03.png)
 
-**A0915** `Schüler > Zeugnis > Fächer> Merkmal (1)`
+**Fach mit Fußnote 1** 
+
+`Schüler > Zeugnis > Fächer> Merkmal (1)`
 
 Um ein Fach mit der Fußnote "1)" zu kennzeichnen (Das Fach war Gegenstand des Erwerbs der Fachhochschulreife) tragen Sie im Menü `Schüler > Fächer` im Feld "Merkmal" eine "1" ein. Die Zahl "1)" wird im Zeugnis hinter der Fachbezeichnung ausgegegen.
 
@@ -4967,9 +5017,11 @@ Tragen Sie die Vollzeit-  bzw. Teilzeitform unter `Klassen > Daten > Organisatio
 
 Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
 
-**A0740**  `Mandanten > Daten > Name 2`
+**Namenszusätze der Schule**
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld   Name 2   ein. 
+`Mandanten > Daten > Name 2`
+
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein. 
 
 **Zeugnisbemerkungen**
 
@@ -5440,9 +5492,11 @@ Tragen Sie die Vollzeit- bzw. Teilzeitform unter `Klassen > Daten > Organisation
 
 Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, Ethik und Sport nicht mit einfliessen, ist es zwingend erforderlich den jeweiligen Fächern im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" die Werte "Religion" oder "Sport" zuzuweisen.
 
-**(A0486)** Schlüsselverzeichnisse > Fächer > KOMPLEXPRÜFUNG 1, 2, 3 und 4
+**KOMPLEXPRÜFUNG 1, 2, 3 und 4** 
 
-Um die schriftlichen Komplexprüfungen 1-4 zu benonten, legen Sie im `Schlüsselverzeichnis > Fächer` jeweils 4 Fächer mit folgenden Fachbezeichnungen an:
+`Extras > Schlüsselverzeichnisse > Fächer`
+
+Um die schriftlichen Komplexprüfungen 1-4 zu benoten, legen Sie im `Schlüsselverzeichnis > Fächer` jeweils 4 Fächer mit folgenden Fachbezeichnungen an:
 - "KOMPLEXPRÜFUNG 1"
 - "KOMPLEXPRÜFUNG 2"
 - "KOMPLEXPRÜFUNG 3" und
@@ -5793,9 +5847,11 @@ Weisen Sie im Menü `Klassen > Daten` den Beruf im Feld "Beruf" zu. Grundlage bi
 
 Tragen Sie die Vollzeit- bzw. Teilzeitform unter `Klassen > Daten > Organisation` ein. Grundlage bildet das `Schlüsselverzeichnis > Organisiationen`.
 
-**(A0486)** Schlüsselverzeichnisse > Fächer > KOMPLEXPRÜFUNG 1, 2, 3 und 4
+**KOMPLEXPRÜFUNG 1, 2, 3 und 4** 
 
-Um die schriftlichen Komplexprüfungen 1-4 zu benonten, legen Sie im Schlüsselverzeichnis > Fächer jeweils 4 Fächer mit folgenden Fachbezeichnungen an:
+`Extras > Schlüsselverzeichnisse > Fächer`
+
+Um die schriftlichen Komplexprüfungen 1-4 zu benoten, legen Sie im `Schlüsselverzeichnis > Fächer` jeweils 4 Fächer mit folgenden Fachbezeichnungen an:
 - "KOMPLEXPRÜFUNG 1"
 - "KOMPLEXPRÜFUNG 2"
 - "KOMPLEXPRÜFUNG 3" und
@@ -5976,7 +6032,7 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 `Schüler > Laufbahn > Wiederholungsart`
 
-Die "Wiederholungsart" tragen Sie im Menü Schüler > Laufbahn im Feld "Wiederholungsart" ein. Grundlage bildet das Schlüsselverzeichnis > Wiederholungsarten. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
+Die "Wiederholungsart" tragen Sie im Menü `Schüler > Laufbahn` im Feld "Wiederholungsart" ein. Grundlage bildet das `Schlüsselverzeichnis > Wiederholungsarten`. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
@@ -5995,10 +6051,9 @@ Die Klassenstufe 11 bzw. 12 muss im entsprechenden Zeitraum im Menü `Klassen > 
 Für die Klassenstufe 11 gilt:
 Versetzungsvermerk: Der Versetzungsvermerk „…wird versetzt / wird nicht versetzt“ wird nur in der Klassenstufe 11 ausgegeben.
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld „Versetzt“ eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster. 
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld „Versetzt“ eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster. 
 
-Beachten Sie dazu das auch Merkmal A0429:
-Die "Wiederholungsart" tragen Sie im Menü Schüler > Laufbahn im Feld "Wiederholungsart" ein. Grundlage bildet das Schlüsselverzeichnis > Wiederholungsarten. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar. (siehe A0429)
+Die "Wiederholungsart" tragen Sie im Menü `Schüler > Laufbahn` im Feld "Wiederholungsart" ein. Grundlage bildet das `Schlüsselverzeichnis > Wiederholungsarten`. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar. 
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
@@ -6008,8 +6063,7 @@ Whnmögl| leer | Wiederholung nicht möglich
 Für die Klassenstufe 12 gilt:
 Versetzungsvermerk: „…Abschlussprüfung nicht bestanden“ und „…nicht zugelassen“ wird nur in der Klassenstufe 12 ausgegeben.
 
-Beachten Sie dazu das Merkmal A0429:
-Die "Wiederholungsart" tragen Sie im Menü Schüler > Laufbahn im Feld "Wiederholungsart" ein. Grundlage bildet das Schlüsselverzeichnis > Wiederholungsarten. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar. (siehe A0429)
+Die "Wiederholungsart" tragen Sie im Menü `Schüler > Laufbahn` im Feld "Wiederholungsart" ein. Grundlage bildet das `Schlüsselverzeichnis > Wiederholungsarten`. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
@@ -6051,7 +6105,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>>`` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 ``<<DemSchueler_DerSchuelerin>>`` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**A0913** `Schüler > Zeugnis > Leistungen > Endnote (bestanden/nicht bestanden)`
+**Fachpraktischer Unterricht bestanden/nicht bestanden** 
+
+`Schüler > Zeugnis > Leistungen > Endnote (bestanden/nicht bestanden)`
 
 Damit auf dem Zeugnis der 'Fachpraktischer Unterricht' (Fach mit Fachstatus "FachP") mit einem Ergebnis: bestanden/nicht bestanden ausgegeben wird, weisen Sie Menü `Schüler > Zeugnis > Leistungen` dem Fach "Fachpraktischer Unterricht" im Feld "Endnote" den Füllwert "bestanden" oder "nicht bestanden" zu. Grundlage bildet das `Schlüsselverzeichnis > Noten`. Achten Sie bitte darauf, dass Sie im Feld "Notenart" über das DropDown Menü "Füllwert" hinterlegt haben.
 Auf dem Zeugnis wird die "Bezeichnung" des Füllwertes ausgegeben.
@@ -6167,7 +6223,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>>`` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 ``<<DemSchueler_DerSchuelerin>>`` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0799)** Schlüsselverzeichnis > Fächer
+**Facharbeit**
+
+`Schlüsselverzeichnis > Fächer`
 
 Facharbeit (Thema und Note der Facharbeit): Unter Schlüsselverzeichnisse > Fächer muss ein beliebiges Fach angelegt werden (z.B. Facharbeit). Ordnen Sie dem Schüler dieses Fach unter Zeugnis > Fächer zu und tragen Sie im Feld "Fachstatus" den Wert "FA" zu. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
 
@@ -6254,7 +6312,9 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0198)** Schüler > Zeugnis > Leistungen > Durchschnitt einblenden
+**Notendurchschnitt**
+
+`Schüler > Zeugnis > Leistungen > Durchschnitt einblenden`
 
 Der Gesamtdurchschnitt wird wie folgt ermittelt.
 
@@ -6294,15 +6354,19 @@ FOS 12L(v)** | 14 | Fachoberschule 12L
 FOS 12L(t)| 15 | Fachoberschule 12L
 FOS/FOS | 140 | Fachoberschule
 
-**(A0802)** Schüler > Drucken > Zeugnisse drucken...
+**Berechnung Durchschnittsnote FHR** 
 
 Die Durchschnittsnote, die im Zeugnis der Fachhochschulreife ausgewiesen wird, wird automatisch berechnet. Sie ist das arithmetische Mittel sämtlicher Noten dieses Zeugnisses. Sie wird auf eine Dezimalstelle ohne Rundung berechnet. Die Note für die Facharbeit (Fachstatus "FA") und die Note im Fach Sport (Verzeichnis "Fächer", Aufgabenbereich "Sport) bleiben bei der Berechnung der Durchschnittsnote unberücksichtigt.
 
-**(A0856)** `Schlüsselverzeichnisse > Fächer > Fachpraktischer Teil der Ausbildung`
+**Fachpraktischen Teil der Ausbildung bestanden/nicht bestanden**
 
-Um den " Fachpraktischen Teil der Ausbildung" als bestanden oder nicht bestanden auszugeben, legen Sie im Schlüsselverzeichnis > Fächer ein Fach mit der Fachbezeichnung "Fachpraktischer Teil der Ausbildung" an. Weisen Sie dieses Fach dem Schüler im Menü Schüler > Fächer zu, zusätzlich tragen Sie im Feld "Fachstatus" den Wert "FachP" ein. Grundlage bildet das Schlüsselverzeichnis "Fachstatus". Die Benotung erfolgt im Feld "Note".
+`Schlüsselverzeichnisse > Fächer > Fachpraktischer Teil der Ausbildung`
 
-**(A0857)** `Schlüsselverzeichnisse > Noten > Füllwerte`
+Um den " Fachpraktischen Teil der Ausbildung" als bestanden oder nicht bestanden auszugeben, legen Sie im `Schlüsselverzeichnis > Fächer` ein Fach mit der Fachbezeichnung "Fachpraktischer Teil der Ausbildung" an. Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Fächer` zu, zusätzlich tragen Sie im Feld "Fachstatus" den Wert "FachP" ein. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`. Die Benotung erfolgt im Feld "Note".
+
+**Füllwerte für Benotung**
+
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B.bestanden, nicht bestanden)** auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird die Bezeichnung ausgegeben.
 
@@ -6312,12 +6376,12 @@ nb | nicht bestanden | Füllwerte
 oB | ohne Bewertung | Füllwerte
 b | bestanden | Füllwerte
 
-**(A0858)** `Schlüsselverzeichnisse > Fächer > Facharbeit`
+**Ausgaben Facharbeit**
 
-Für die Ausgabe der Facharbeit legen Sie im Schlüsselverzeichnis > Fächer ein Fach mit der Fachbezeichnung "Facharbeit" an. Weisen Sie dieses Fach dem Schüler im Menü Schüler > Fächer zu, zusätzlich tragen Sie im Feld "Fachstatus" den Wert FA" ein. Grundlage bildet das Schlüsselverzeichnis "Fachstatus". 
-Das Thema der Facharbeit tragen Sie im Menü Schüler > Leistungem im Feld "Beurteilung" an. Die Note der Facharbeit erfolgt im Feld "Note".
+`Extras > Schlüsselverzeichnisse > Fächer`
 
-
+Für die Ausgabe der Facharbeit legen Sie im `Schlüsselverzeichnis > Fächer` ein Fach mit der Fachbezeichnung "Facharbeit" an. Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Fächer` zu, zusätzlich tragen Sie im Feld "Fachstatus" den Wert FA" ein. Grundlage bildet das `Schlüsselverzeichnis >  Fachstatus`. 
+Das Thema der Facharbeit tragen Sie im Menü `Schüler > Leistungem` im Feld "Beurteilung" an. Die Note der Facharbeit erfolgt im Feld "Note".
 
 ## E-Zeugnisse (Berufliche Gymnasium)
 
@@ -6571,22 +6635,20 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers de
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers die Klassenstufe auf der Registerkarte `Zeiträume > Zeitraum` im Feld "Klassenstufe" eingetragen sein.
 
-**(A0917)** `Schlüsselverzeichnisse > Fachrichtungen` UND
-`Schlüsselverzeichnisse > Bildungsänge` 
+**Fachrichtung Klasse / Schüler**
+
+`Extras > Schlüsselverzeichnisse > Fachrichtungen` UND
+`Extras > Schlüsselverzeichnisse > Bildungsänge` 
 
 Um die Fachrichtung der Klasse bzw. die Fachrichtung des Schüler zu bestimmen, gehen Sie bitte wie folgt vor:
 
-1) Fachrichtung:
-1a) Definieren Sie die Fachrichtungen zunächst im `Schlüsselverzeichnis > Fachrichtungen`
-1b) Weisen Sie nun den Bildungsgang im `Schlüsselverzeichnis > Bildungsgänge` im Feld „Fachrichtung“ die entsprechende Fachrichtung zu. 
+1. Fachrichtung: Definieren Sie die Fachrichtungen zunächst im `Schlüsselverzeichnis > Fachrichtungen`. Weisen Sie nun den Bildungsgang im `Schlüsselverzeichnis > Bildungsgänge` im Feld „Fachrichtung“ die entsprechende Fachrichtung zu. 
 
 Die Fachrichtung kann entweder am Bildungsgang der Klasse oder am Bildungsgang des Schülers hängen: 
 
-1) Fachrichtung, Bildungsgang der Klasse
-2a) Weisen Sie im Menü `Klassen > Daten` im Feld "Bildungsgang" den Bildungsgang mit der entsprechend zugewiesenen Fachrichtung zu.
+1. Fachrichtung, Bildungsgang der Klasse: Weisen Sie im Menü `Klassen > Daten` im Feld "Bildungsgang" den Bildungsgang mit der entsprechend zugewiesenen Fachrichtung zu.
 
-3) Fachrichtung, Bildungsgang des Schülers
-3a) Weisen Sie im Menü `Schüler > Ausbildung` im Feld "Bildungsgang" den Bildungsgang mit der entsprechend zugewiesenen Fachrichtung dem Schüler zu.
+3. Fachrichtung, Bildungsgang des Schülers: Weisen Sie im Menü `Schüler > Ausbildung` im Feld "Bildungsgang" den Bildungsgang mit der entsprechend zugewiesenen Fachrichtung dem Schüler zu.
 
 ### SAC-BG-ABI (E.01.08).rpt
 
@@ -6668,9 +6730,11 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**(A0114)** `Schüler > Zeugnis > Fächer` (Position)** bzw. Abitur > Qualifikation (Position)
+**Fächerpositionierung**
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
+`Schüler > Zeugnis > Fächer` bzw. `Abitur > Qualifikation`
+
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` bzw. im Menü `Abitur > Qualifikation` bei jedem Schüler pro
 Fach eine Position in der Spalte "Position" angegeben werden.
 
 **Besondere Lernleistung**
@@ -6776,9 +6840,11 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0131)** `Schüler > Zeugnis > Details > Tutor`
+**TutorIn**
 
-Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
+`Schüler > Zeugnis > Details > Tutor`
+
+Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
 **Mandanten / Ort**
 
@@ -6786,12 +6852,11 @@ Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details 
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0364)** 
-`Schlüsselverzeichnis > Zeiträume > Art` UND
+**Ausgabe des Kurshalbjahres** 
 
-`Klassen > Zeiträume > Jahrgang`
+`Schlüsselverzeichnis > Zeiträume > Art` / `Klassen > Zeiträume > Jahrgang`
 
-Die Ausgabe des Kurshalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums im `Schlüsselverzeichnis > Zeiträume` >Art und aus dem Menü Klassen > Zeiträume > Jahrgang.
+Die Ausgabe des Kurshalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums im `Schlüsselverzeichnis > Zeiträume > Art` und aus dem Menü `Klassen > Zeiträume > Jahrgang`.
 
 Klassenstufe | Ausgabe im Bericht
 --|--
@@ -6947,10 +7012,11 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0364)** `Schlüsselverzeichnis > Zeiträume` > Art UND
-Klassen > Zeiträume > Jahrgang
+**Ausgabe des Kurshalbjahres** 
 
-Die Ausgabe des Kurshalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums im `Schlüsselverzeichnis > Zeiträume` >Art und aus dem Menü Klassen > Zeiträume > Jahrgang.
+`Schlüsselverzeichnis > Zeiträume > Art` / `Klassen > Zeiträume > Jahrgang`
+
+Die Ausgabe des Kurshalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums im `Schlüsselverzeichnis > Zeiträume > Art` und aus dem Menü `Klassen > Zeiträume > Jahrgang`.
 
 Klassenstufe | Ausgabe im Bericht
 --|--
@@ -7270,17 +7336,23 @@ Der Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugni
 
 Im Falle einer zusätzlichen mündliche Prüfungen tragen Sie diese Noze im Menü `Abitur > Prüfung` in den entsprechenden Feldern unter "2. mündl. Note" ein. Eine Zusätzliche mündliche Prüfung ist in den Prüfungsfächern 1 bis 5 möglich.
 
-**A0759** `Schüler > Daten 3 > Fremdsprachenfolge > Sprachreferenzen`
+**Sprachreferenzen** 
+
+`Schüler > Daten 3 > Fremdsprachenfolge > Sprachreferenzen`
 
 Bitte tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachefolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
 
 Vom Bericht wird das Kürzel abgefragt.
 
-**A0776** `Schlüsselverzeichnisse > Zeugnisbemerkungen`
+**vordefinierte Zeugnisbemerkungen**
+
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
-**A0777	`Schüler > Zeugnis > Bemerkungen/Formulare` / `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
+**Platzhalter Zeugnisbemerkungen**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` / `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`/
 `Berufsschule > Zeugnisbemerkungen`
 
 Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
@@ -7307,25 +7379,30 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin  (je nach Geschlecht des Schülers) 
 ``<<DemSchueler_DerSchuelerin>> `` |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)"
 
-**A0803** SACHSEN | Bemerkungstest Feststellungsprüfung in der Herkunftssprache
+**Ausgabe Feststellungsprüfung in der Herkunftssprache** 
 
-Für die Ausgabe des Satzes "<Der Schüler hat die Belegungsverpflichtung in der zweiten Fremdsprache durch Bestehen einer
-Feststellungsprüfung in der Herkunftssprache ersetzt.>" unter Bemerkungen gehen Sie wie folgt vor.
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
-Definieren Sie im Schlüsselverzeichnis "Zeugnisbemerkungen" folgende Bemerkung:
+Für die Ausgabe des Satzes "<Der Schüler hat die Belegungsverpflichtung in der zweiten Fremdsprache durch Bestehen einer Feststellungsprüfung in der Herkunftssprache ersetzt.>" unter Bemerkungen, gehen Sie wie folgt vor.
+
+Definieren Sie im `Schlüsselverzeichnis > Zeugnisbemerkungen` folgende Bemerkung:
 
 <<DerSchueler_DieSchuelerin>> hat die Belegungsverpflichtung in der zweiten Fremdsprache durch Bestehen einer
 Feststellungsprüfung in der Herkunftssprache ersetzt.
 
 Weisen Sie danach dem Schüler individuell diese Zeugnisbemerkung zu. Aufgrund der Platzhalter in der Bemerkung wird in Abhängig vom Geschlecht des Schülers "Die Schülerin" oder "Der Schüler"… ausgegeben,"
 
-**A0898** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+**automatisierte Zeugnisbemerkung wenn keine 2. Fremdsprache eingetragen ist**
+
+`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Haben Sie im Menü `Schüler > Daten 3` keine 2 Fremdsprache hinterlegt, wird folgender Satz unter den Bemerkungen auf dem Zeugnis unterdrückt:
 
 <Das in <ZWEITE FREMDSPRACHE> erreichte Sprachniveau entspricht der Stufe <B1/B2> des Gemeinsamen europäischen Referenzrahmens.>"
 
-**A0935**	`Sonstiges`
+**Fächer des Berufsbezogenen Bereiches**	
+
+`Schüler > Zeugnis > Fächer`
 
 Die Fächer des Berufsbezogenen Bereiches erfassen Sie in 11/2 im Menü  `Schüler > Zeugnis > Fächer` und weisen diesen den Fachstatus "BerufS" zu. Die Endnoten, die auf dem Abiturzeugnis ausgegeben werden, tragen Sie unter  `Schüler > Zeugnis > Leistungen` im Feld "Endnote" ein. Diese Fächer inkl. Noten werden durch die Synchronisation des Schülers in das Menü `Abitur` übergeben. Das Zeugnis gibt diese Fächer entsprechend aus.
 
@@ -7589,7 +7666,9 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0372)** Schlüsselverzeichnisse > Fächer
+**Schreibleistungen des Schülers**
+
+`Extras > Schlüsselverzeichnisse > Fächer`
 
 Um die Schreibleistungen des Schülers zu erfassen gehen Sie wie folgt vor:
 
@@ -7645,11 +7724,13 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0424)** `Schüler > Daten 3 > Fremdsprachenfolge > Profil`
+**Niveaustufe der Fremdsprache**
 
-Die Niveaustufe der Fremdsprache des Schülers tragen Sie im Menü Schüler > Daten 3 > Fremdsprachenfolge im Feld "Profil" ein. Grundlage bildet das Schlüsselverzeichnis > Profile (Schüler)“. Ausgegeben wird der Eintrag aus dem Feld "Bezeichnung".
+`Schüler > Daten 3 > Fremdsprachenfolge > Profil`
 
-Kürzel | Schlüssel > Bezeichnung
+Die Niveaustufe der Fremdsprache des Schülers tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Profil" ein. Grundlage bildet das `Schlüsselverzeichnis > Profile (Schüler)`. Ausgegeben wird der Eintrag aus dem Feld "Bezeichnung".
+
+Kürzel | Schlüssel | Bezeichnung
 --|--|--
 beliebig | leer | Stufe I
 beliebig | leer | Stufe II
@@ -7754,11 +7835,13 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0424)** `Schüler > Daten 3 > Fremdsprachenfolge > Profil`
+**Niveaustufe der Fremdsprache**
 
-Die Niveaustufe der Fremdsprache des Schülers tragen Sie im Menü Schüler > Daten 3 > Fremdsprachenfolge im Feld "Profil" ein. Grundlage bildet das Schlüsselverzeichnis > Profile (Schüler)“. Ausgegeben wird der Eintrag aus dem Feld "Bezeichnung".
+`Schüler > Daten 3 > Fremdsprachenfolge > Profil`
 
-Kürzel | Schlüssel > Bezeichnung
+Die Niveaustufe der Fremdsprache des Schülers tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Profil" ein. Grundlage bildet das `Schlüsselverzeichnis > Profile (Schüler)`. Ausgegeben wird der Eintrag aus dem Feld "Bezeichnung".
+
+Kürzel | Schlüssel | Bezeichnung
 --|--|--
 beliebig | leer | Stufe I
 beliebig | leer | Stufe II
@@ -7863,9 +7946,11 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0424)** `Schüler > Daten 3 > Fremdsprachenfolge > Profil`
+**Niveaustufe der Fremdsprache**
 
-Die Niveaustufe der Fremdsprache des Schülers tragen Sie im Menü Schüler > Daten 3 > Fremdsprachenfolge im Feld "Profil" ein. Grundlage bildet das Schlüsselverzeichnis > Profile (Schüler)“. Ausgegeben wird der Eintrag aus dem Feld "Bezeichnung".
+`Schüler > Daten 3 > Fremdsprachenfolge > Profil`
+
+Die Niveaustufe der Fremdsprache des Schülers tragen Sie im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Profil" ein. Grundlage bildet das `Schlüsselverzeichnis > Profile (Schüler)`. Ausgegeben wird der Eintrag aus dem Feld "Bezeichnung".
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
@@ -8033,7 +8118,7 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 `Schüler > Laufbahn > Wiederholungsart`
 
-Die "Wiederholungsart" tragen Sie im Menü Schüler > Laufbahn im Feld "Wiederholungsart" ein. Grundlage bildet das Schlüsselverzeichnis > Wiederholungsarten. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
+Die "Wiederholungsart" tragen Sie im Menü `Schüler > Laufbahn` im Feld "Wiederholungsart" ein. Grundlage bildet das `Schlüsselverzeichnis > Wiederholungsarten`. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
@@ -8156,16 +8241,20 @@ Bsp. für mögliche Fächer:
 * Berufspraktische Ausbildung in der Apotheke
 * Praktische Ausbildung
 
-**(A0386)** Schlüsselverzeichnisse > Fächer UND
-Schlüsselverzeichnisse > Fachstatus > Praktikum
+**Berufspraktische Ausbildung** 
+
+`Extras > Schlüsselverzeichnisse > Fächer` /
+`Extras > Schlüsselverzeichnisse > Fachstatus`
 
 Die Berufspraktische Ausbildung tragen Sie wie folgt ein:
 
-1) Legen Sie im Schlüsselverzeichnis > Fächer die Fächer in denen die Berufspraktische Ausbildung erfolgte an und weisen Sie diesen den "Fachstatus" "Praktikum" zu. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
+1) Legen Sie im `Schlüsselverzeichnis > Fächer` die Fächer in denen die Berufspraktische Ausbildung erfolgte an und weisen Sie diesen den "Fachstatus" "Praktikum" zu. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
 2) Damit die Berufspraktische Ausbildung sowie die Teilbereiche in der gewünschten Reihenfolge auf dem Zeugnis ausgegeben wird, weisen Sie die Fächer im Menü `Schüler > Zeugnis > Fächer` zu und tragen Sie im Feld "Position" eine Nummer ein. Positionen Sie die Fächer in der gewünschten Reihenfolge chronologisch aufsteigend.
 3) Beachten Sie, dass Sie dem Fach mit der niedrigsten Position eine Note zuweisen und bei den anderen Fächern das Feld Note leer lassen und dafür im Feld Merkmal die jeweilige Wochenzahl eintragen.
 
-**(A0580)** `Schüler > Zeugnis > Bemerkungen/Formulare > Mermal (Thema)`
+**Ausgabe der komplexen Arbeitsaufgabe inklusive Note unter Bemerkungen**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Zum Anlegen der „komplexe Arbeitsaufgabe“ inklusive Note unter Bemerkungen gehen Sie wie folgt vor:
 
@@ -8520,10 +8609,11 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**(A0114)** `Schüler > Zeugnis > Fächer` (Position)** bzw. Abitur > Qualifikation (Position)
+**Fächerpositionierung**
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
-Fach eine Position in der Spalte "Position" angegeben werden.
+`Schüler > Zeugnis > Fächer` / `Abitur > Qualifikation`
+
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` bzw. im Menü `Abitur > Qualifikation` bei jedem Schüler pro Fach eine Position in der Spalte "Position" angegeben werden.
 
 **Zeugnisdatum** 
 
@@ -8684,7 +8774,7 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 `Schüler > Laufbahn > Wiederholungsart`
 
-Die "Wiederholungsart" tragen Sie im Menü Schüler > Laufbahn im Feld "Wiederholungsart" ein. Grundlage bildet das Schlüsselverzeichnis > Wiederholungsarten. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
+Die "Wiederholungsart" tragen Sie im Menü `Schüler > Laufbahn` im Feld "Wiederholungsart" ein. Grundlage bildet das `Schlüsselverzeichnis > Wiederholungsarten`. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
@@ -8699,7 +8789,6 @@ Whnmögl | leer | Wiederholung nicht möglich
 
 Für den Fall, dass keine Wiederholung der Abschlussprüfung gewünscht wird, weisen Sie dem Schüler im Menü `Schüler > Laufbahn` im Feld "Wiederholungsart" den Wert "Whnmögl" zu. Ist eine Wiederholung der Abschlussprüfung möglich, weisen Sie "Whmögl" zu.
 
-Beachten Sie dazu das Merkmal A0329:
 Die "Wiederholungsart" tragen Sie im Menü `Schüler > Laufbahn` im Feld "Wiederholungsart" ein. Grundlage bildet das Schlüsselverzeichnis > Wiederholungsarten. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
 
 Kürzel | Schlüssel | Bezeichnung
@@ -8772,7 +8861,9 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0198)** Schüler > Zeugnis > Leistungen > Durchschnitt einblenden
+**Notendurchschnitt**
+
+`Schüler > Zeugnis > Leistungen > Durchschnitt einblenden`
 
 Der Gesamtdurchschnitt wird wie folgt ermittelt.
 
@@ -9091,7 +9182,7 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 `Schüler > Laufbahn > Wiederholungsart`
  
-Die "Wiederholungsart" tragen Sie im Menü Schüler > Laufbahn im Feld "Wiederholungsart" ein. Grundlage bildet das Schlüsselverzeichnis > Wiederholungsarten. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
+Die "Wiederholungsart" tragen Sie im Menü `Schüler > Laufbahn` im Feld "Wiederholungsart" ein. Grundlage bildet das `Schlüsselverzeichnis > Wiederholungsarten`. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
@@ -9110,9 +9201,9 @@ Die Klassenstufe 11 bzw. 12 muss im entsprechenden Zeitraum im Menü `Klassen > 
 Für die Klassenstufe 11 gilt:
 Versetzungsvermerk: Der Versetzungsvermerk „…wird versetzt / wird nicht versetzt“ wird nur in der Klassenstufe 11 ausgegeben.
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld „Versetzt“ eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster. 
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld „Versetzt“ eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster. 
 
-Die "Wiederholungsart" tragen Sie im Menü Schüler > Laufbahn im Feld "Wiederholungsart" ein. Grundlage bildet das Schlüsselverzeichnis > Wiederholungsarten. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar. (siehe A0429)
+Die "Wiederholungsart" tragen Sie im Menü `Schüler > Laufbahn` im Feld "Wiederholungsart" ein. Grundlage bildet das `Schlüsselverzeichnis > Wiederholungsarten`. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
@@ -9122,8 +9213,7 @@ Whnmögl| leer | Wiederholung nicht möglich
 Für die Klassenstufe 12 gilt:
 Versetzungsvermerk: „…Abschlussprüfung nicht bestanden“ und „…nicht zugelassen“ wird nur in der Klassenstufe 12 ausgegeben.
 
-Beachten Sie dazu das Merkmal A0429:
-Die "Wiederholungsart" tragen Sie im Menü Schüler > Laufbahn im Feld "Wiederholungsart" ein. Grundlage bildet das Schlüsselverzeichnis > Wiederholungsarten. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar. (siehe A0429)
+Die "Wiederholungsart" tragen Sie im Menü `Schüler > Laufbahn` im Feld "Wiederholungsart" ein. Grundlage bildet das `Schlüsselverzeichnis > Wiederholungsarten`. Entscheidend ist der Eintrag in Spalte "Kürzel", die "Bezeichnung" ist frei definierbar.
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
@@ -9855,13 +9945,17 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0365)** `Klassen > Merkmale > Merkmal A5`
+**Fachbereich Klasse**
 
-Den Fachbereich der Klasse tragen Sie im Menü Klassen > Merkmale im Feld "Merkmal A5" ein. Grundlage bildet das Schlüsselverzeichnis > Merkmale (Klassen). Hier ist in der Spalte „Bereich“ der Wert „Merkmal A5“ zuzuweisen. Bleibt das Feld "A5" leer wird der "Fachbereich" ausgeblendet.
+`Klassen > Merkmale > Merkmal A5`
 
-**(A0366)** `Klassen > Merkmale > Merkmal A6`
+Den Fachbereich der Klasse tragen Sie im Menü `Klassen > Merkmale` im Feld "Merkmal A5" ein. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`. Hier ist in der Spalte „Bereich“ der Wert „Merkmal A5“ zuzuweisen. Bleibt das Feld "A5" leer wird der "Fachbereich" ausgeblendet.
 
-Den Schwerpunkt der Klasse tragen Sie im Menü Klassen > Merkmale tragen Sie den Schwerpunkt im Feld "Merkmal A6" ein. Grundlage bildet das Schlüsselverzeichnis > Merkmale (Klassen). Hier ist in der Spalte „Bereich“ der Wert „Merkmal A6“ zuzuweisen. Bleibt das Feld "A6" leer wird der "Schwerpunkt" ausgeblendet.
+**Schwerpunkt Klasse**
+
+`Klassen > Merkmale > Merkmal A6`
+
+Den Schwerpunkt der Klasse tragen Sie im Menü `Klassen > Merkmale` tragen Sie den Schwerpunkt im Feld "Merkmal A6" ein. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`. Hier ist in der Spalte „Bereich“ der Wert „Merkmal A6“ zuzuweisen. Bleibt das Feld "A6" leer wird der "Schwerpunkt" ausgeblendet.
 
 ### Alt SAC-BG-ABI (2010).rpt
 
@@ -10139,12 +10233,9 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**(A0242)** `Klassen > Merkmale > Merkmal A1/Merkmal A2`
+**Differenzierung Berufsbereiche**
 
-Auf dem Zeugnis sind 2 Berufsbereiche zu differenzieren:
-Den ersten Berufsbereich weisen Sie unter `Klassen > Merkmale > Merkmal A1`, den zweiten Berufsbereich weisen Sie analog unter `Klassen > Merkmale > Merkmal A2` zu. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`.
-
-**(A0242)** `Klassen > Merkmale > Merkmal A1/Merkmal A2`
+`Klassen > Merkmale > Merkmal A1/Merkmal A2`
 
 Auf dem Zeugnis sind 2 Berufsbereiche zu differenzieren:
 Den ersten Berufsbereich weisen Sie unter `Klassen > Merkmale > Merkmal A1`, den zweiten Berufsbereich weisen Sie analog unter `Klassen > Merkmale > Merkmal A2` zu. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`.
@@ -10169,12 +10260,14 @@ HS (frei definierbar)** | leer | Hauptschulabschluss
 EHS (frei definierbar)** | leer | Erweiterter Hauptschulabschluss
 MSA (frei definierbar)** | leer | Mittlerer Schulabschluss
 
-**(A0580)** `Schüler > Zeugnis > Bemerkungen/Formulare` > Mermal (Thema)
+**Ausgabe der komplexen Arbeitsaufgabe inklusive Note unter Bemerkungen**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Zum Anlegen der „komplexe Arbeitsaufgabe“ inklusive Note unter Bemerkungen gehen Sie wie folgt vor:
 
-1)** Legen ein beliebiges Fach (Bsp. „komplexe Arbeitsaufgabe“) im Schlüsselverzeichnis > Fächer an und weisen dieses im Menü `Schüler > Zeugnis > Fächer` dem Schule zu. Dieses Fach erhält im Feld "Fachstatus" „Thema“. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`. Die Note erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld „Endnote“.
-2)** Legen Sie eine Bemerkung im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` an. Weisen Sie zudem im Feld "Merkmal" das Kürzel "Thema" zu und das definieren Sie das Thema der Arbeitsaufgabe im Feld "Text".
+1) Legen ein beliebiges Fach (Bsp. „komplexe Arbeitsaufgabe“) im Schlüsselverzeichnis > Fächer an und weisen dieses im Menü `Schüler > Zeugnis > Fächer` dem Schule zu. Dieses Fach erhält im Feld "Fachstatus" „Thema“. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`. Die Note erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld „Endnote“.
+2) Legen Sie eine Bemerkung im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` an. Weisen Sie zudem im Feld "Merkmal" das Kürzel "Thema" zu und das definieren Sie das Thema der Arbeitsaufgabe im Feld "Text".
 Der vorgegebene Standardtext inklusive dem Thema der Arbeitsaufgabe und der Note werden nun ausgegeben.
 
 ### ALT SAC-BVJ-JZ (A.01.08)(2 jähriges BVJ).rpt
@@ -10239,7 +10332,9 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0242)** `Klassen > Merkmale > Merkmal A1/Merkmal A2`
+**Differenzierung Berufsbereiche**
+
+`Klassen > Merkmale > Merkmal A1/Merkmal A2`
 
 Auf dem Zeugnis sind 2 Berufsbereiche zu differenzieren:
 Den ersten Berufsbereich weisen Sie unter `Klassen > Merkmale > Merkmal A1`, den zweiten Berufsbereich weisen Sie analog unter `Klassen > Merkmale > Merkmal A2` zu. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`.
@@ -10352,7 +10447,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>>`` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 ``<<DemSchueler_DerSchuelerin>>`` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**(A0820)** `Schüler > Zeugnis > Bemerkungen/Formulare`
+**vordefinierte Zeugnisebemerkungen** 
+
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Die Bemerkung "Die Beendigung der Berufsschulpflicht gemäß § 28 Absatz 5 Satz 2 SächsSchulG bleibt unberührt." wird standardmäßig auf den Zeugnissen ausgegeben.
 
@@ -10577,7 +10674,7 @@ Das "Berufsfeld" der Klasse tragen Sie im `Klassen > Merkmale` im Feld "Merkmal 
 
 **Ausgabe der komplexen Arbeitsaufgabe inklusive Note unter Bemerkungen**
 
-`Schüler > Zeugnis > Bemerkungen/Formulare` > Merkmal (Thema)`
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Zum Anlegen der „komplexe Arbeitsaufgabe“ inklusive Note unter Bemerkungen gehen Sie wie folgt vor:
 
