@@ -3022,7 +3022,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 FachS | FachS  | Schwerpunktbezogene Fächer
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am / Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -6134,7 +6136,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
 Ersatz | Ersatz | Ersatz
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am / Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -6789,7 +6793,9 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
 ## RLP-GY-JZ (G8-2013).rpt
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am / Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 

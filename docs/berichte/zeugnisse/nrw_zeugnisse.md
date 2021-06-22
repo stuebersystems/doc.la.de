@@ -284,7 +284,9 @@ Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüle
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am / Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -467,7 +469,9 @@ Platzhalter | Ausgabe im Bericht
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am / Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -637,7 +641,9 @@ Platzhalter | Ausgabe im Bericht
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am / Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -1153,7 +1159,9 @@ FP | FP | Fachpraxis im Berufsfeld
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am / Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -2556,7 +2564,9 @@ Pflicht | Plicht | Pflichfächer
 BerufS | BerufS | Berufsbezogener Lernbereich
 Diff  | Diff  | Differenzierungsbereich
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am / Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -2639,7 +2649,9 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am / Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -2895,7 +2907,9 @@ sprachl.-lit.-künstlerisch > 1. Aufgabenfeld
 gesellschaftswiss. > 2. Aufgabenfeld
 mathem.-nat.-technisch > 3. Aufgabenfeld
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am / Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -2995,7 +3009,9 @@ Platzhalter | Ausgabe im Bericht
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am / Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -3956,7 +3972,9 @@ beliebig | Koo | Kooperationsfähigkeit
 3) Zusätzlich erhalten diese Fächer im Menü `Abitur > Qualifikation` im Feld "Fachstatus" den Wert "Kopf" zu (siehe A15.50).
 4)** Im Menü `Abitur > Qualifikation` tragen Sie in Spalte "Q4" dem jeweiligen Fach eine Note zwischen 1-4 zu.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am / Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
