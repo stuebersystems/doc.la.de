@@ -22,7 +22,7 @@ sprachl.-lit.-künstlerisch|Sprachlich-literarisch-künstlerisches Aufgabenfeld
 gesellschaftswiss.|Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch|Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport|Sport
-                                                                                                                                                           **Fremdsprache**
+                                                                                                                 **Fremdsprache**
 Tragen Sie im Menü `Schüler` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum auf der Registerkarte `Daten 3` unter `Fremdsprachenfolge` ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Verzeichnisse > Fächer` den vorhandenen Fremdsprachen in der Spalte `Kategorie` aus dem Pull-Down-Menü `Fremdsprache` zugewiesen haben.
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie unter `Abitur`, `Prüfung` die entsprechenden Felder markieren.
@@ -128,7 +128,8 @@ Kürzel|Schlüssel|Zeugnisbereich
 Wahlb|Wahlb|Wahlfächer bzw. –bereich
 
 **Aufgabenbereich**
-                                                                                                                                                          Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Verzeichnisse > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte `Aufgabenbereich` aus. Diese Fächer müssen im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+
+ Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Verzeichnisse > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte `Aufgabenbereich` aus. Diese Fächer müssen im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 Aufgabenbereich|Zeugnisbereich
 --|--
@@ -136,8 +137,8 @@ sprachl.-lit.-künstlerisch|Sprachlich-literarisch-künstlerisches Aufgabenfeld
 gesellschaftswiss.|Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch|Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport|Sport
-                                                                                                                                                           **Fremdsprache**
-                                                                                                                                                           Tragen Sie im Menü `Schüler` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum auf der Registerkarte `Daten 3` unter `Fremdsprachenfolge` ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Verzeichnisse > Fächer` den vorhandenen Fremdsprachen in der Spalte `Kategorie` aus dem Pull-Down-Menü `Fremdsprache` zugewiesen haben.
+                                                                                                                  **Fremdsprache**
+Tragen Sie im Menü `Schüler` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum auf der Registerkarte `Daten 3` unter `Fremdsprachenfolge` ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Verzeichnisse > Fächer` den vorhandenen Fremdsprachen in der Spalte `Kategorie` aus dem Pull-Down-Menü `Fremdsprache` zugewiesen haben.
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie unter `Abitur`, `Prüfung` die entsprechenden Felder markieren.
 
@@ -250,8 +251,9 @@ sprachl.-lit.-künstlerisch|Sprachlich-literarisch-künstlerisches Aufgabenfeld
 gesellschaftswiss.|Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch|Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport|Sport
-                                                                                                                                                           **Fremdsprache**
-                                                                                                                                                           Tragen Sie im Menü `Schüler` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum auf der Registerkarte `Daten 3` unter `Fremdsprachenfolge` ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Verzeichnisse > Fächer` den vorhandenen Fremdsprachen in der Spalte `Kategorie` aus dem Pull-Down-Menü `Fremdsprache` zugewiesen haben.
+                                                                                                                  **Fremdsprache**
+
+ Tragen Sie im Menü `Schüler` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum auf der Registerkarte `Daten 3` unter `Fremdsprachenfolge` ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Verzeichnisse > Fächer` den vorhandenen Fremdsprachen in der Spalte `Kategorie` aus dem Pull-Down-Menü `Fremdsprache` zugewiesen haben.
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie unter `Abitur`, `Prüfung` die entsprechenden Felder markieren.
 
@@ -345,7 +347,6 @@ Wohnhaft in: Ort
 
 ### BAW-BG-ABI (DIN A4 doppelseitig 2021 - Abschrift).rpt
 
-
 **Fachstatus**
 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der Fachtafeln unter `Verzeichnisse > Fachtafeln` den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis `Verzeichnisse > Weitere Schlüsselverzeichnisse > Fachstati`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
@@ -356,7 +357,8 @@ Kürzel|Schlüssel|Zeugnisbereich
 Wahlb|Wahlb|Wahlfächer bzw. –bereich
 
 **Aufgabenbereich**
-                                                                                                                                                          Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Verzeichnisse > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte `Aufgabenbereich` aus. Diese Fächer müssen im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Verzeichnisse > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte `Aufgabenbereich` aus. Diese Fächer müssen im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 Aufgabenbereich|Zeugnisbereich
 --|--
@@ -364,8 +366,9 @@ sprachl.-lit.-künstlerisch|Sprachlich-literarisch-künstlerisches Aufgabenfeld
 gesellschaftswiss.|Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch|Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport|Sport
-                                                                                                                                                           **Fremdsprache**
-                                                                                                                                                           Tragen Sie im Menü `Schüler` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum auf der Registerkarte `Daten 3` unter `Fremdsprachenfolge` ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Verzeichnisse > Fächer` den vorhandenen Fremdsprachen in der Spalte `Kategorie` aus dem Pull-Down-Menü `Fremdsprache` zugewiesen haben.
+                                                                                                                 **Fremdsprache**
+
+Tragen Sie im Menü `Schüler` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum auf der Registerkarte `Daten 3` unter `Fremdsprachenfolge` ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Verzeichnisse > Fächer` den vorhandenen Fremdsprachen in der Spalte `Kategorie` aus dem Pull-Down-Menü `Fremdsprache` zugewiesen haben.
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie unter `Abitur`, `Prüfung` die entsprechenden Felder markieren.
 
@@ -470,7 +473,8 @@ Kürzel|Schlüssel|Zeugnisbereich
 Wahlb|Wahlb|Wahlfächer bzw. –bereich
 
 **Aufgabenbereich**
-                                                                                                                                                          Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Verzeichnisse > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte `Aufgabenbereich` aus. Diese Fächer müssen im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Verzeichnisse > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte `Aufgabenbereich` aus. Diese Fächer müssen im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 Aufgabenbereich|Zeugnisbereich
 --|--
@@ -478,8 +482,10 @@ sprachl.-lit.-künstlerisch|Sprachlich-literarisch-künstlerisches Aufgabenfeld
 gesellschaftswiss.|Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch|Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport|Sport
-                                                                                                                                                           **Fremdsprache**
-                                                                                                                                                           Tragen Sie im Menü `Schüler` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum auf der Registerkarte `Daten 3` unter `Fremdsprachenfolge` ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Verzeichnisse > Fächer` den vorhandenen Fremdsprachen in der Spalte `Kategorie` aus dem Pull-Down-Menü `Fremdsprache` zugewiesen haben.
+
+**Fremdsprache**
+
+Tragen Sie im Menü `Schüler` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum auf der Registerkarte `Daten 3` unter `Fremdsprachenfolge` ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Verzeichnisse > Fächer` den vorhandenen Fremdsprachen in der Spalte `Kategorie` aus dem Pull-Down-Menü `Fremdsprache` zugewiesen haben.
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie unter `Abitur`, `Prüfung` die entsprechenden Felder markieren.
 
@@ -573,7 +579,6 @@ Wohnhaft in: Ort
 
 ### BAW-BG-ABI (DIN A4 doppelseitig 2018 - Neuausstellung).rpt
 
-
 **Fachstatus**
 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der Fachtafeln unter `Verzeichnisse > Fachtafeln` den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis `Verzeichnisse > Weitere Schlüsselverzeichnisse > Fachstati`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
@@ -584,7 +589,7 @@ Kürzel|Schlüssel|Zeugnisbereich
 Wahlb|Wahlb|Wahlfächer bzw. –bereich
 
 **Aufgabenbereich**
-                                                                                                                                                          Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Verzeichnisse > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte `Aufgabenbereich` aus. Diese Fächer müssen im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Verzeichnisse > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte `Aufgabenbereich` aus. Diese Fächer müssen im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 Aufgabenbereich|Zeugnisbereich
 --|--
@@ -592,8 +597,10 @@ sprachl.-lit.-künstlerisch|Sprachlich-literarisch-künstlerisches Aufgabenfeld
 gesellschaftswiss.|Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch|Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport|Sport
-                                                                                                                                                           **Fremdsprache**
-                                                                                                                                                           Tragen Sie im Menü `Schüler` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum auf der Registerkarte `Daten 3` unter `Fremdsprachenfolge` ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Verzeichnisse > Fächer` den vorhandenen Fremdsprachen in der Spalte `Kategorie` aus dem Pull-Down-Menü `Fremdsprache` zugewiesen haben.
+
+**Fremdsprache**
+
+Tragen Sie im Menü `Schüler` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum auf der Registerkarte `Daten 3` unter `Fremdsprachenfolge` ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Verzeichnisse > Fächer` den vorhandenen Fremdsprachen in der Spalte `Kategorie` aus dem Pull-Down-Menü `Fremdsprache` zugewiesen haben.
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie unter `Abitur`, `Prüfung` die entsprechenden Felder markieren.
 
