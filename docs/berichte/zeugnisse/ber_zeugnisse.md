@@ -4948,17 +4948,33 @@ Die Punkte des "1. Gutachten" tragen Sie im Menü `Abitur > Prüfung` im Feld "s
 
 Abi-8 – Mitteilung der Noten und Punkte des 4. Kurshalbjahres (VO-GO) – (05.20)
 
-**Fehltage und/oder Fehlstunden**
+![Abi-8 – Mitteilung der Noten und Punkte des 4. Kurshalbjahres (VO-GO) – (05.20)](/assets/images/Berlin/Abi8_05.20.bmp)
 
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Schulname**
 
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+`Mandanten > Daten > Name 1`
 
-`Schüler > Zeugnis > Details > Versäumnisse`
+Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
 
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
+**Bezirk der Schule**
 
-**Aufgabenbereich**
+`Mandanten > Daten 1 > Name 3`
+
+Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
+
+**Namensuzusätze der Schule**
+
+`Mandanten > Daten > Name 2`
+
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
+
+**Ausgabe des Schuljahres**
+
+`Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+
+**Aufgabenbereich der Fächer**
 
 `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
@@ -4972,6 +4988,16 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport			 | Weitere Fächer
 Religion| Weitere Fächer
 
+**Fehltage und/oder Fehlstunden**
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
+
+`Schüler > Zeugnis > Details > Versäumnisse`
+
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
+
 **Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
@@ -4984,31 +5010,13 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse (LK) / Leistungsfächer (LF)
 GK | GK | Grundkurse
 
-**Mandanten**
-
-`Mandanten > Daten > Name 1`
-
-Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
-
-`Mandanten > Daten 1 > Name 3`
-
-Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
-
-`Mandanten > Daten > Name 2`
-
-Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
-
-**Zeiträume**
-
-`Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
-
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
-
-**Ausdruck**
+**Zeugnisdatum**
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
+
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
@@ -5018,41 +5026,41 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 `Schlüsselverzeichnisse > Fächer > Kategorie`
 
-Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis >  Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
+Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
 
-|Kategorie|
--
-|Fremdsprache|
-|Religion|
-|Deutsch|
-|Mathematil|
-|Kunst|
-|Musik|
-|Sport|
-|Informatik|
-|Geschichte|
-|Physik|
-|Chemie|
-|Biologie|
-|Erdkunde|
-|Sozialkunde|
-|Wirtschaft|
-|Politik|
-|Spiel|
-|SportTheorie|
-|Seminar|
+* Fremdsprache
+* Religion
+* Deutsch
+* Mathematik
+* Kunst
+* Musik
+* Sport
+* Informatik
+* Geschichte
+* Physik
+* Chemie
+* Biologie
+* Erdkunde
+* Sozialkunde
+* Wirtschaft
+* Politik
+* Spiel
+* SportTheorie
+* Seminar
 
-`Schüler > Zeugnis > Fächer (Position)` bzw. `Abitur > Qualifikation (Position)´`
+**Fächerpositionierung auf dem Zeugnis**
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü´Schüler > Zeugnis > Fächer´ bzw. im Menü ´Abitur > Qualifikation´ pro Fach eine Position in der Spalte "Position" angegeben werden.
+`Schüler > Zeugnis > Fächer (Position)` bzw. `Abitur > Qualifikation (Position)`
+
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` bzw. im Menü `Abitur > Qualifikation` pro Fach eine Position in der Spalte "Position" angegeben werden.
 
 **Klassen**
 
 `Klassen > Daten > Beurteilungsart > Benotung durch Punkte`
 
-Im Menü`Klassen > Daten` muss bei der Klasse des Schülers im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
+Im Menü `Klassen > Daten` muss bei der Klasse des Schülers im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-**Zeugnisbemerkungen**
+**Zeugnisbemerkung - Freiwillige Unterrichtsveranstaltungen**
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
@@ -5062,16 +5070,20 @@ Merkmal | Bedeutung
 -|-
 freiw | Freiwillige Unterrichtsveranstaltungen
 
+**Sortierung der Zeugnisbemerkungen**
+
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-`Schüler > Zeugnis > Bemerkungen/Formulare` ODER
-`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
+**Platzhalter für Zeugnisbemerkungen**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` /
+`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` /
 `Berufsschule > Zeugnisbemerkungen`
 
-Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` oder `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
 
 Möglich sind:
@@ -7131,18 +7143,19 @@ Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `A
 
 Für die Ausgabe weiterer Bemerkungen zur Schullaufbahn tragen Sie im Menü Abitur > Zeugnisbemerkungen eine Zeugnisbemerkung ein. Entscheidend ist die Eingabe in der Spalte „Merkmal“. Hier müssen Sie "S_Lauf" eintragen.
 
-**(A0380)** `Abitur > Zeugnisbemerkungen`
+**Zeugnisbemerkungen**
 
-Für die Ausgabe weiterer Bemerkungen tragen Sie im Menü Abitur > Zeugnisbemerkungen den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
+`Abitur > Zeugnisbemerkungen`
+
+Für die Ausgabe weiterer Bemerkungen tragen Sie im Menü `Abitur > Zeugnisbemerkungen` den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
 **(A0381)** Abitur > Zeugnisbemerkungen > Merkmal (freiw)
 
 Für die Ausgabe freiwilliger Unterrichtsveranstaltungen tragen Sie im Menü Abitur > Zeugnisbemerkungen eine Zeugnisbemerkung ein. Entscheidend ist die Eingabe in der Spalte „Merkmal“. Hier müssen Sie "freiw" eintragen.
 
-**(A0394)** 
-`Schlüsselverzeichnis > Zeiträume > Art` UND
+**Ausgabe des Kurshalbjahres** 
 
-`Klassen > Zeiträume > Jahrgang`
+`Schlüsselverzeichnis > Zeiträume > Art` und `Klassen > Zeiträume > Jahrgang`
 
 Die Ausgabe des Kurshalbjahres (Q-Phase G9) errechnet sich aufgrund der Definition des aktuellen Zeitraums im `Schlüsselverzeichnis > Zeiträume > Art` und aus dem Menü `Klassen > Zeiträume > Jahrgang`.
 
@@ -7153,13 +7166,14 @@ Jahrgang/Zeitraum | Ausgabe im Bericht
 13.1 (Q3. | 3. Kurshalbjahr
 13.2 (Q4) | 4. Kurshalbjahr
 
-**(A0437)** Sonstiges > Ausgabe Schullaufbahn (GY, GEMS, BGY)Ausgabe Schullaufbahn
-1. Das Schuljahr wird im Schlüsselverzeichnis > Zeiträume in der Spalte“Ausdruck1“ hinterlegt.
-2. Das Schulhalbjahr wird im Schlüsselverzeichnis > Zeiträume in der Spalte „Art“ hinterlegt
-3. Die Ausgabe Vorkurs/E-Phase/Kurshalbjahr ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im Schlüsselverzeichnis > Zeiträume im Feld "Art" und aufgrund der Eintragungen im Menü Klassen > Zeiträume im Feld „Jahrgang“
+**Ausgabe Schullaufbahn GY, GEMS, BGY** 
+
+1. Das Schuljahr wird im `Schlüsselverzeichnis > Zeiträume` in der Spalte “Ausdruck1“ hinterlegt.
+2. Das Schulhalbjahr wird im `Schlüsselverzeichnis > Zeiträume` in der Spalte „Art“ hinterlegt
+3. Die Ausgabe Vorkurs/E-Phase/Kurshalbjahr ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume` im Feld "Art" und aufgrund der Eintragungen im Menü `Klassen > Zeiträume` im Feld „Jahrgang“
 4. Im Menü Klassen müssen den Klassen im Feld "Klassenart" in den entsprechenden Zeiträumen entweder "Oberstufenjahrgang (Nur Kurse)" (für Vorkurs / E-Phase)** bzw. "Oberstufenjahrgang (Grund- und Leistungskurse)" (für Kurshalbjahre)** hinterlegt sein.
 
-Jahrgange/Halbjahr | Ausgabe im Bericht/Zeugnis
+Jahrgang/Halbjahr | Ausgabe im Bericht/Zeugnis
 --|--
 11/1 | E-Phase
 11/2 | E-Phase
