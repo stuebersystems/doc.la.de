@@ -9320,19 +9320,21 @@ Wenn Sie eine Zeugnisbemerkung mit dem Merkmal "LAT" angelegt haben, wenn es den
 
 Ist eine solche Zeugnisbemerkung mit diesem Merkmal "LAT" beim Schüler nicht eingetragen, wird der andere Fall als Standard ausgegeben. D.h. folgender Satz wird ausgegeben: "Dieses Zeugnis schließt den Nachweis des Latinums gemäß der „Vereinbarung über das Latinum und das Graecum“ (Beschluss der KMK vom 22.09.2005)** nicht ein."
 
-**Schülerlaufbahn**
+**Ausgabe Versetzungstext Oberstufe**
 
 `Schüler > Laufbahn > Versetzungsart`
 
-Ausgabe "Versetzungstext Oberstufe": Den Versetzungstext in Bezug auf die Berechtigung zum Übergang an die gymnasiale Oberstufe, tragen Sie im Menu `Schüler > Laufbahn > Versetzungsart` ein. Grundlage bildet das `Schlüsselverzeichnis > Versetzungsarten`.
+Den Versetzungstext in Bezug auf die Berechtigung zum Übergang an die gymnasiale Oberstufe, tragen Sie im Menu Schüler > Laufbahn > Versetzungsart ein. Grundlage bildet das `Schlüsselverzeichnis > Versetzungsarten`.
 
 Kürzel | Schlüssel | Bedeutung
 --|--|--
 leer | leer | Wird nicht versetzt in Oberstufe
 E | E | Versetzung in Einführungsphase
-Q | Q | Versetzung in Qualifikationsphase
+Q  | Q  | Versetzung in Qualifikationsphase
 
-Hier wird die Versetzungsart.Schlüssel ausgewertet.
+Hier wird der "Versetzungsart.Schlüssel" ausgewertet.
+
+Ob der Schüler für die gymnasiale Oberstufe zugelassen wird oder nicht regeln Sie über das Feld „Versetzt“ im Menü `Schüler > Laufbahn > Allgemein`. Nehmen Sie keinen Eintrag vor oder weisen Sie den Status „Schüler wurde versetzt“ zu, wird auf dem Zeugnis „Das Zeugnis berechtigt zum Übergang in die gymnasiale Oberstufe“ markiert. Weisen Sie hingegen den Status „Schüler wurde NICHT versetzt“ zu, wird auf dem Zeugnis „Das Zeugnis berechtigt nicht zum Übergang in die gymnasiale Oberstufe“ markiert.
 
 ### BER-Schul Z 102 (11.10).rpt
 
@@ -10976,9 +10978,11 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 Ob der Schüler für die gymnasiale Oberstufe zugelassen wird oder nicht regeln Sie über das Feld „Versetzt“ im Menü `Schüler > Laufbahn > Allgemein`. Nehmen Sie keinen Eintrag vor oder weisen Sie den Status „Schüler wurde versetzt“ zu, wird auf dem Zeugnis „Das Zeugnis berechtigt zum Übergang in die gymnasiale Oberstufe“ markiert. Weisen Sie hingegen den Status „Schüler wurde NICHT versetzt“ zu, wird wird auf dem Zeugnis „Das Zeugnis berechtigt nicht zum Übergang in die gymnasiale Oberstufe“ markiert.
 
+**Ausgabe Versetzungstext Oberstufe**
+
 `Schüler > Laufbahn > Versetzungsart`
 
-Ausgabe "Versetzungstext Oberstufe": Den Versetzungstext in Bezug auf die Berechtigung zum Übergang an die gymnasiale Oberstufe, tragen Sie im Menü `Schüler > Laufbahn > Versetzungsart` ein. Grundlage bildet das `Schlüsselverzeichnis > Versetzungsarten`.
+Den Versetzungstext in Bezug auf die Berechtigung zum Übergang an die gymnasiale Oberstufe, tragen Sie im Menu Schüler > Laufbahn > Versetzungsart ein. Grundlage bildet das `Schlüsselverzeichnis > Versetzungsarten`.
 
 Kürzel | Schlüssel | Bedeutung
 --|--|--
@@ -10986,7 +10990,9 @@ leer | leer | Wird nicht versetzt in Oberstufe
 E | E | Versetzung in Einführungsphase
 Q  | Q  | Versetzung in Qualifikationsphase
 
-Hier wird der Versetzungsart.Schlüssel ausgewertet.
+Hier wird der "Versetzungsart.Schlüssel" ausgewertet.
+
+Ob der Schüler für die gymnasiale Oberstufe zugelassen wird oder nicht regeln Sie über das Feld „Versetzt“ im Menü `Schüler > Laufbahn > Allgemein`. Nehmen Sie keinen Eintrag vor oder weisen Sie den Status „Schüler wurde versetzt“ zu, wird auf dem Zeugnis „Das Zeugnis berechtigt zum Übergang in die gymnasiale Oberstufe“ markiert. Weisen Sie hingegen den Status „Schüler wurde NICHT versetzt“ zu, wird auf dem Zeugnis „Das Zeugnis berechtigt nicht zum Übergang in die gymnasiale Oberstufe“ markiert.
 
 **Fachstatus**
 
@@ -11144,9 +11150,11 @@ Schul Z 256 – Zeugnis des Gymnasiums über den mittleren Schulabschluss (2019/
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld Versetzt eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
+**Ausgabe Versetzungstext Oberstufe**
+
 `Schüler > Laufbahn > Versetzungsart`
 
-Ausgabe Versetzungstext Oberstufe: Den Versetzungstext in Bezug auf die Berechtigung zum Übergang an die gymnasiale Oberstufe, tragen Sie im Menu Schüler > Laufbahn > Versetzungsart ein. Grundlage bildet das `Schlüsselverzeichnis >Versetzungsarten`.
+Den Versetzungstext in Bezug auf die Berechtigung zum Übergang an die gymnasiale Oberstufe, tragen Sie im Menu Schüler > Laufbahn > Versetzungsart ein. Grundlage bildet das `Schlüsselverzeichnis > Versetzungsarten`.
 
 Kürzel | Schlüssel | Bedeutung
 --|--|--
@@ -11154,9 +11162,9 @@ leer | leer | Wird nicht versetzt in Oberstufe
 E | E | Versetzung in Einführungsphase
 Q  | Q  | Versetzung in Qualifikationsphase
 
-Hier wird der Versetzungsart.Schlüssel ausgewertet.
+Hier wird der "Versetzungsart.Schlüssel" ausgewertet.
 
-Ob der Schüler für die gymnasiale Oberstufe zugelassen wird oder nicht regeln Sie über das Feld „Versetzt“ im Menü `Schüler > Laufbahn > Allgemein`. Nehmen Sie keinen Eintrag vor oder weisen Sie den Status „Schüler wurde versetzt“ zu, wird auf dem Zeugnis „Das Zeugnis berechtigt zum Übergang in die gymnasiale Oberstufe“ markiert. Weisen Sie hingegen den Status „Schüler wurde NICHT versetzt“ zu, wird wird auf dem Zeugnis „Das Zeugnis berechtigt nicht zum Übergang in die gymnasiale Oberstufe“ markiert.
+Ob der Schüler für die gymnasiale Oberstufe zugelassen wird oder nicht regeln Sie über das Feld „Versetzt“ im Menü `Schüler > Laufbahn > Allgemein`. Nehmen Sie keinen Eintrag vor oder weisen Sie den Status „Schüler wurde versetzt“ zu, wird auf dem Zeugnis „Das Zeugnis berechtigt zum Übergang in die gymnasiale Oberstufe“ markiert. Weisen Sie hingegen den Status „Schüler wurde NICHT versetzt“ zu, wird auf dem Zeugnis „Das Zeugnis berechtigt nicht zum Übergang in die gymnasiale Oberstufe“ markiert.
 
 **Fachstatus**
 
