@@ -10,8 +10,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.2)** 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich

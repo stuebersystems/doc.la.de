@@ -32,21 +32,19 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0046)** Schüler > Zeugnis > Leistungen
+**Notenvergabe Berufsbezogenen Lernbereichen**
 
-Für den Druck der Noten für "Theorie" und "Praxis" bei den Berufsbezogenen Lernbereichen muss im Menü Schüler > Zeugnis > Leistungen die Theorienote in der Notenspalte "Endnote" angegeben
-werden und die Praxisnote in der Notenspalte "Endnote (Gesamt)".
+`Schüler > Zeugnis > Leistungen`
+
+Für den Druck der Noten für "Theorie" und "Praxis" bei den Berufsbezogenen Lernbereichen muss im Menü `Schüler > Zeugnis > Leistungen` die Theorienote in der Notenspalte "Endnote" angegeben werden und die Praxisnote in der Notenspalte "Endnote (Gesamt)".
 
 ## MVP-BF-AZ (DINA3).rpt
-
-**(A0016)** Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
 **Unterrichtsarten**
 
@@ -80,7 +78,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster..
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -118,7 +118,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster..
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -160,10 +162,11 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgan
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
-**(A0046)** Schüler > Zeugnis > Leistungen
+**Notenvergabe Berufsbezogenen Lernbereichen**
 
-Für den Druck der Noten für "Theorie" und "Praxis" bei den Berufsbezogenen Lernbereichen muss im Menü Schüler > Zeugnis > Leistungen die Theorienote in der Notenspalte "Endnote" angegeben
-werden und die Praxisnote in der Notenspalte "Endnote (Gesamt)".
+`Schüler > Zeugnis > Leistungen`
+
+Für den Druck der Noten für "Theorie" und "Praxis" bei den Berufsbezogenen Lernbereichen muss im Menü `Schüler > Zeugnis > Leistungen` die Theorienote in der Notenspalte "Endnote" angegeben werden und die Praxisnote in der Notenspalte "Endnote (Gesamt)".
 
 ## MVP-BF-HJZ.rpt
 
@@ -216,14 +219,17 @@ Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0046)** Schüler > Zeugnis > Leistungen
+**Notenvergabe Berufsbezogenen Lernbereichen**
 
-Für den Druck der Noten für "Theorie" und "Praxis" bei den Berufsbezogenen Lernbereichen muss im Menü Schüler > Zeugnis > Leistungen die Theorienote in der Notenspalte "Endnote" angegeben
-werden und die Praxisnote in der Notenspalte "Endnote (Gesamt)".
+`Schüler > Zeugnis > Leistungen`
+
+Für den Druck der Noten für "Theorie" und "Praxis" bei den Berufsbezogenen Lernbereichen muss im Menü `Schüler > Zeugnis > Leistungen` die Theorienote in der Notenspalte "Endnote" angegeben werden und die Praxisnote in der Notenspalte "Endnote (Gesamt)".
 
 ## MVP-BF-JZ.rpt
 
@@ -294,14 +300,17 @@ Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0046)** Schüler > Zeugnis > Leistungen
+**Notenvergabe Berufsbezogenen Lernbereichen**
 
-Für den Druck der Noten für "Theorie" und "Praxis" bei den Berufsbezogenen Lernbereichen muss im Menü Schüler > Zeugnis > Leistungen die Theorienote in der Notenspalte "Endnote" angegeben
-werden und die Praxisnote in der Notenspalte "Endnote (Gesamt)".
+`Schüler > Zeugnis > Leistungen`
+
+Für den Druck der Noten für "Theorie" und "Praxis" bei den Berufsbezogenen Lernbereichen muss im Menü `Schüler > Zeugnis > Leistungen` die Theorienote in der Notenspalte "Endnote" angegeben werden und die Praxisnote in der Notenspalte "Endnote (Gesamt)".
 
 ## MVP-BF-ÜZ.rpt
 
@@ -337,14 +346,17 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster..
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0046)** Schüler > Zeugnis > Leistungen
+**Notenvergabe Berufsbezogenen Lernbereichen**
 
-Für den Druck der Noten für "Theorie" und "Praxis" bei den Berufsbezogenen Lernbereichen muss im Menü Schüler > Zeugnis > Leistungen die Theorienote in der Notenspalte "Endnote" angegeben
-werden und die Praxisnote in der Notenspalte "Endnote (Gesamt)".
+`Schüler > Zeugnis > Leistungen`
+
+Für den Druck der Noten für "Theorie" und "Praxis" bei den Berufsbezogenen Lernbereichen muss im Menü `Schüler > Zeugnis > Leistungen` die Theorienote in der Notenspalte "Endnote" angegeben werden und die Praxisnote in der Notenspalte "Endnote (Gesamt)".
 
 ## MVP-BS (Individuelle Lebensbewältigung).rpt
 
@@ -382,16 +394,13 @@ Neig | Neigungsunterricht
 
 ## MVP-BS (Prüfungsakte).rpt
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage. 
 
 ## MVP-BS-AS (Variante 1).rpt
-
-**(A0016)** Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
 **Abschlussdatum**
 
@@ -512,8 +521,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0019.16)** 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 BU | BU | Fachbezogener / Berufsbezogener Lernbereich
@@ -564,11 +571,6 @@ Platzhalter | Ausgabe im Bericht
 ``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
 ## MVP-BS-AZ.rpt
-
-**(A0016)** Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
 **Schulformeintritt**
 
@@ -710,7 +712,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster..
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -761,9 +765,11 @@ Tragen Sie den Namen des Zeugnisses im Menü Schüler > Zeugnis > Bemerkungen/Fo
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0216)** Mandanten >Daten 1 > Ort
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
+
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
 `Mandanten > Daten > Name 1`
 
@@ -807,23 +813,31 @@ Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis"
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-`(Landesanpassungen)[https://doc.la.stueber.de/]`
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs/Hauptphase bildet die Online Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. https://doc.la.stueber.de/
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage. 
+
+**Schulname**
 
 `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
 
+**SchulleiterIn**
+
 `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
+
+**Zeugnisbemerkungen**
 
 `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü `Abitur > Zeugnis` im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-`Ausdruck`
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
@@ -835,7 +849,9 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" 
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-`Schlüsselverzeichnisse > Sprachreferenzen`
+**Sprachreferenzen**
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
 Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis >Sprachreferenzen`.
 
@@ -851,6 +867,8 @@ C1 | C1 | Fachkundige Sprachkenntnisse
 C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Der Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
+
+**Platzhalter Zeugnisbemerkungen**
 
 `Schüler > Zeugnis > Bemerkungen/Formulare` ODER
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
@@ -926,17 +944,21 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
 
-**A0111** `Ausdruck`
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-**A0131** `Schüler > Zeugnis > Details > Tutor`
+**TutorIn**
+
+`Schüler > Zeugnis > Details > Tutor`
 
 Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
-**A0175** `Abitur > Qualifikation > Durchschnitt`
+**Durchschnitt Fachhochschulreife**
 
-Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Abitur > Qualifikation` im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist.
+`Abitur > Qualifikation > Durchschnitt`
+
+Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Abitur > Qualifikation` im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist. Der Durchschnitt wird auch automatisch durch das Fachoberschulschulskript berechnet und entsprechend hinterlegt.
 
 **A0176** `Abitur > Qualifikation > Zeugnisdatum`
 
@@ -946,11 +968,15 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Qualifikation` im Feld "Zeugnisda
 
 Wählen Sie die eingebrachten Halbjahre für die Notenberechnung im Menü `Abitur > Qualifikation` im Feld "Eingebrachte Halbjahre" aus. Beachten Sie bitte, dass Sie im Menü `Abitur > Qualifikation` im Feld "Status" "Fachhochschulreife berechnen" ausgewählt haben.
 
-**A0216** `Mandanten > Daten 1 > Ort`
+**Mandanten / Ort**
+
+`Mandanten > Daten 1 > Ort`
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**A0218** `Abitur > Qualifikation > Manuelles Markieren`
+**manuelles Markieren von eingebrachten Kursen**
+
+`Abitur > Qualifikation > Manuelles Markieren`
 
 Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesamtpunktzahl des schulischen Teils der Fachhochschulreife. D.h. markieren Sie im Menü `Abitur > Qualifikation` die Option "Manuelles Markieren", wählen Sie die Option "Kurse einbringen" und klicken Sie die entsprechenden Kurse an. Die eingebrachten Kurse werden gelb markiert.
 
@@ -960,9 +986,11 @@ Ergebnisse außerhalb der Gesamtpunktzahl: Je nachdem, welche Halbjahre Sie im B
 
 ## MVP-FG (Bescheinigung über den schulischen Teil).rpt
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage. 
 
 **Schulname** 
 
@@ -1027,9 +1055,11 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster..
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage. 
 
 ## MVP-FG-AZ (Vorstufe DINA4).rpt
 
@@ -1070,18 +1100,23 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgan
 
 ## MVP-FG-FHReife (Bescheinigung 2013).rpt
 
-**(A0175)** Abitur > Qualifikation > Durchschnitt
+**Durchschnitt Fachhochschulreife**
 
-Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü Abitur > Qualifikation im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist.
+`Abitur > Qualifikation > Durchschnitt`
 
-**(A0217)** Abitur > Qualifikation
+Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Abitur > Qualifikation` im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist. Der Durchschnitt wird auch automatisch durch das Fachoberschulschulskript berechnet und entsprechend hinterlegt.
 
-Bei den Zeugnissen der Fachhochschulreife tragen Sie im Menü Abitur > Qualifikation das Zeugnisdatum im Feld "Zeugnisdatum" ein.
+**Zeugnisdatum** 
 
-**(A0218)** Abitur > Qualifikation > Manuelles Markieren
+`Abitur > Qualifikation> Zeugnisdatum`
 
-Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesamtpunktzahl des schulischen Teils der Fachhochschulreife. D.h. markieren Sie im Menü Abitur > Qualifikation > die Option
-"Manuelles Markieren", wählen Sie die Option "Kurse einbringen" und klicken Sie die entsprechenden Kurse an. Die eingebrachten Kurse werden gelb markiert.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Qualifikation` im Feld "Zeugnisdatum" ein.
+
+**manuelles Markieren von eingebrachten Kursen**
+
+`Abitur > Qualifikation > Manuelles Markieren`
+
+Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesamtpunktzahl des schulischen Teils der Fachhochschulreife. D.h. markieren Sie im Menü `Abitur > Qualifikation` die Option "Manuelles Markieren", wählen Sie die Option "Kurse einbringen" und klicken Sie die entsprechenden Kurse an. Die eingebrachten Kurse werden gelb markiert.
 
 **(A0680)** Abitur > Qualifikation > Status > Fachhochschulreife berechnen > Eingebrachte HJ
 
@@ -1135,9 +1170,11 @@ HF | HF | Hauptfach
 
 Tragen Sie den Zeitraum für die Notenberechnung im Menü Abitur > Qualifikation im Feld "Eingebrachte Halbjahre" ein. Beachten Sie bitte, dass Sie im Menü Abitur > Qualifikation im Feld "Status" "Fachhochschulreife berechnen" ausgewählt haben
 
-**(A0216)** Mandanten >Daten 1 > Ort
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
+
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
 **Schulform der Klasse**
 
@@ -1177,7 +1214,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -1278,13 +1317,17 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0037.3)** Schlüsselverzeichnisse > Bildungsgänge UND Schlüsselverzeichnisse > Berufsfelder
+**Berufsfeld des Bildungsganges**
 
-Weisen Sie unter  Schlüsselverzeichnisse > Bildungsgänge das Berufsfeld im Feld "Berufsfeld" zu. Grundlage das Schlüsselverzeichnis > Berufsfelder.
+`Schlüsselverzeichnisse > Bildungsgänge` UND `Schlüsselverzeichnisse > Berufsfelder`
+
+Weisen Sie unter  `Schlüsselverzeichnisse > Bildungsgänge` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage das `Schlüsselverzeichnis > Berufsfelder`.
 
 ## MVP-FS-AZ.rpt
 
@@ -1309,13 +1352,17 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgan
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0037.3)** Schlüsselverzeichnisse > Bildungsgänge UND Schlüsselverzeichnisse > Berufsfelder
+**Berufsfeld des Bildungsganges**
 
-Weisen Sie unter  Schlüsselverzeichnisse > Bildungsgänge das Berufsfeld im Feld "Berufsfeld" zu. Grundlage das Schlüsselverzeichnis > Berufsfelder.
+`Schlüsselverzeichnisse > Bildungsgänge` UND `Schlüsselverzeichnisse > Berufsfelder`
+
+Weisen Sie unter  `Schlüsselverzeichnisse > Bildungsgänge` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage das `Schlüsselverzeichnis > Berufsfelder`.
 
 ## MVP-FS-JZ.rpt
 
@@ -1355,13 +1402,17 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster..
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0037.3)** Schlüsselverzeichnisse > Bildungsgänge UND Schlüsselverzeichnisse > Berufsfelder
+**Berufsfeld des Bildungsganges**
 
-Weisen Sie unter  Schlüsselverzeichnisse > Bildungsgänge das Berufsfeld im Feld "Berufsfeld" zu. Grundlage das Schlüsselverzeichnis > Berufsfelder.
+`Schlüsselverzeichnisse > Bildungsgänge` UND `Schlüsselverzeichnisse > Berufsfelder`
+
+Weisen Sie unter  `Schlüsselverzeichnisse > Bildungsgänge` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage das `Schlüsselverzeichnis > Berufsfelder`.
 
 ## MVP-GES-HJZ (nicht versetzt).rpt
 
@@ -1996,9 +2047,11 @@ keine schriftliche Note unter "Prüfungsfächer" im 4. PF zugewiesen (Feld bleib
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage. 
 
 **SchulleiterIn** 
 
@@ -2079,9 +2132,11 @@ keine schriftliche Note unter "Prüfungsfächer" im 4. PF zugewiesen (Feld bleib
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage. 
 
 **SchulleiterIn** 
 
@@ -2166,9 +2221,11 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage. 
 
 **SchulleiterIn** 
 
@@ -2189,9 +2246,11 @@ eine "1", für die zweite eine "2" usw.
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage. 
 
 **Fachstatus** 
 
@@ -3284,7 +3343,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster..
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -4243,9 +4304,11 @@ keine schriftliche Note unter "Prüfungsfächer" im 4. PF zugewiesen (Feld bleib
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage. 
 
 **SchulleiterIn** 
 
@@ -4326,9 +4389,11 @@ keine schriftliche Note unter "Prüfungsfächer" im 4. PF zugewiesen (Feld bleib
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage. 
 
 **SchulleiterIn** 
 
