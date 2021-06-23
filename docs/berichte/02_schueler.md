@@ -24,11 +24,11 @@ Kürzel | Schlüssel | Bezeichnung
 100 | 100 | Sonstige (einschl. I-Schüler)
 110 | 110 |keine Schulübergangsempfehlung bei Wechsel in Gemeinschaftsschule aus dazugehöriger Grundschule
 
-**(A0050)** `Schüler > Daten 1 > Familie`
+**Sorgeberechtigten des Schülers**
 
-Tragen Sie im aktuellen Zeitraum im Schüler > Daten 1 > Familie  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter Schüler > Familie im Feld "Benachrichtigung"
-"immer" enthalten, relevant.
+`Schüler > Daten 1 > Familie`
+
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
 
 ## Ausländerliste (nach Staatsangehörigkeiten).rpt
 
@@ -42,9 +42,11 @@ Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü
 
 ## Bescheinigung über Schulbesuch.rpt
 
-**(A0085)** `Schüler > Merkmale > Bemerkung`
+**Merkmale Schüler**
 
-Um der Bescheinigung eine Bemerkung zuzuordnen, tragen Sie im Menü Schüler > Merkmale  im Feld "Bemerkung" den entsprechenden Text ein.
+`Schüler > Merkmale > Bemerkung`
+
+Um der Bescheinigung eine Bemerkung zuzuordnen, tragen Sie im Menü `Schüler > Merkmale`  im Feld "Bemerkung" den entsprechenden Text ein.
 
 ## Bescheinigung über Schülerübergabe.rpt
 
@@ -89,24 +91,29 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0336)** `Schüler > Daten 1 > Gemeinde`
+**Gemeinde des Schüler Wohnortes**
 
-Tragen Sie die Gemeinde des Schüler-Wohnortes im Menü Schüler > Daten 1 im Feld "Gemeinde" ein.
+`Schüler > Daten 1 > Gemeinde`
 
+Tragen Sie die Gemeinde des Schüler-Wohnortes im Menü `Schüler > Daten 1` im Feld "Gemeinde" ein.
 
-**(A0630)** `Klassen > Daten > Organisation`
+**Vollzeit/Teilzeit Klassen**
+
+`Klassen > Daten > Organisation`
 
 Um zu differenzieren, ob es sich um einen Teilzeit- oder Vollzeitschüler handelt, gehen Sie wie folgt vor:
-Tragen Sie die Vollzeit-  bzw. Teilzeitform im Menü Klassen > Daten im Feld „Organisation“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis> Organisationen. Das Kürzel und der Schlüssel im Schlüsselverzeichnis sind frei wählbar (z.B. "VZ", "TZ"), die Bezeichnung muss entsprechend  "Vollzeit" oder  "Teillzeit" lauten.
+Tragen Sie die Vollzeit-  bzw. Teilzeitform im Menü` Klassen > Daten`im Feld „Organisation“ ein. Grundlage hierfür bildet das `Schlüsselverzeichnis> Organisationen`. Das Kürzel und der Schlüssel im Schlüsselverzeichnis sind frei wählbar (z.B. "VZ", "TZ"), die Bezeichnung muss entsprechend  "Vollzeit" oder  "Teillzeit" lauten.
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
-beliebig (VZ)**| leer | Vollzeit
-beliebig (TZ)**| leer | Teilzeit
+beliebig (VZ) | leer | Vollzeit
+beliebig (TZ) | leer | Teilzeit
 
-**(A0631)** `Schüler > Auswahl > Drucken > Berichte drucken > Mecklenburg Vorpommern`
+**Ausdruck nur für bestimmte Schüler**
 
-Es werden nur die Schüler ausgegeben, die ungleich der ersten 5 Ziffern "13071" der Gemeindekennziffer sind. (siehe auch A0336)
+`Schüler > Auswahl > Drucken > Berichte drucken > Mecklenburg Vorpommern`
+
+Es werden nur die Schüler ausgegeben, die ungleich der ersten 5 Ziffern "13071" der Gemeindekennziffer sind. 
 
 ## MVP-Schullastenausgleich-Vollzeit (nicht im Landkreis Mecklenburgische Seenplatte).rpt
 
@@ -118,31 +125,37 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
+**Gemeinde des Schüler Wohnortes**
 
-**(A0336)** `Schüler > Daten 1 > Gemeinde`
+`Schüler > Daten 1 > Gemeinde`
 
-Tragen Sie die Gemeinde des Schüler-Wohnortes im Menü Schüler > Daten 1 im Feld "Gemeinde" ein.
+Tragen Sie die Gemeinde des Schüler-Wohnortes im Menü `Schüler > Daten 1` im Feld "Gemeinde" ein.
 
-**(A0630)** `Klassen > Daten > Organisation`
+**Vollzeit/Teilzeit Klassen**
+
+`Klassen > Daten > Organisation`
 
 Um zu differenzieren, ob es sich um einen Teilzeit- oder Vollzeitschüler handelt, gehen Sie wie folgt vor:
-Tragen Sie die Vollzeit-  bzw. Teilzeitform im Menü Klassen > Daten im Feld „Organisation“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis> Organisationen. Das Kürzel und der Schlüssel im Schlüsselverzeichnis sind frei wählbar (z.B. "VZ", "TZ"), die Bezeichnung muss entsprechend  "Vollzeit" oder  "Teillzeit" lauten.
+Tragen Sie die Vollzeit-  bzw. Teilzeitform im Menü` Klassen > Daten`im Feld „Organisation“ ein. Grundlage hierfür bildet das `Schlüsselverzeichnis> Organisationen`. Das Kürzel und der Schlüssel im Schlüsselverzeichnis sind frei wählbar (z.B. "VZ", "TZ"), die Bezeichnung muss entsprechend  "Vollzeit" oder  "Teillzeit" lauten.
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
-beliebig (VZ)**| leer | Vollzeit
-beliebig (TZ)**| leer | Teilzeit
+beliebig (VZ) | leer | Vollzeit
+beliebig (TZ) | leer | Teilzeit
 
-**(A0631)** `Schüler > Auswahl > Drucken > Berichte drucken > Mecklenburg Vorpommern`
+**Ausdruck nur für bestimmte Schüler**
 
-Es werden nur die Schüler ausgegeben, die ungleich der ersten 5 Ziffern "13071" der Gemeindekennziffer sind. (siehe auch A0336)
+`Schüler > Auswahl > Drucken > Berichte drucken > Mecklenburg Vorpommern`
+
+Es werden nur die Schüler ausgegeben, die ungleich der ersten 5 Ziffern "13071" der Gemeindekennziffer sind.
 
 ## NRW-Schülerstammblatt.rpt
 
-**(A0021)** `Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale`
+**Zeugnisbemerkungen Merkmal**
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
-es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
+
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter `Schlüsselverzeichnis > Zeugnisbemerkungen`, falls es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis >Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
 **Fremdsprachen**
@@ -162,15 +175,17 @@ Weisen Sie unter `Klassen > Daten im Feld "Bildungsgang"` zu. Grundlage bildet d
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`.
 
-**(A0050)** `Schüler > Daten 1 > Familie`
+**Sorgeberechtigten des Schülers**
 
-Tragen Sie im aktuellen Zeitraum im Schüler > Daten 1 > Familie  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter Schüler > Familie im Feld "Benachrichtigung"
-"immer" enthalten, relevant.
+`Schüler > Daten 1 > Familie`
 
-**(A0080)** `Schüler > Daten 2 > Bereits besuchte Schulen`
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
 
-Tragen Sie im Menü Schüler > Daten 2  im Bereich "Bereits besuchte Schulen" die jeweilige Schule ein.
+**bereits besuchte Schulen**
+
+`Schüler > Daten 2 > Bereits besuchte Schulen`
+
+Tragen Sie im Menü `Schüler > Daten 2`  im Bereich "Bereits besuchte Schulen" die jeweilige Schule ein.
 
 **Ausdruck**
 
@@ -270,7 +285,9 @@ Der Bericht muss aus über `Drucken > Bericht Drucken` (Strg + P) gedruckt werde
 
 Weisen Sie unter Klassen > Daten im Feld "Bildungsgang" zu. Grundlage bildet das Schlüsselverzeichnis "Bildungsgänge".
 
-**(A0077)** `Mandanten > Daten 1 > Schulleiter`
+**SchulleiterIn**
+
+`Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
 
@@ -300,15 +317,17 @@ Tipp: Ist die Niveaustufe bei den meisten Schülern einer Klasse gleich, dann we
 
 Tragen Sie im Menü "Schüler" im aktuellen Zeitraum auf der Registerkarte "Laufbahn" unter "Allgemein" im Feld "Empfehlung" die entsprechende Schulform ein.
 
-**(A0050)** `Schüler > Daten 1 > Familie`
+**Sorgeberechtigten des Schülers**
 
-Tragen Sie im aktuellen Zeitraum im Schüler > Daten 1 > Familie  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter Schüler > Familie im Feld "Benachrichtigung"
-"immer" enthalten, relevant.
+`Schüler > Daten 1 > Familie`
 
-**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
 
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü Klassen > Zeiträume bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+**KlassenleiterIn**
+
+`Klassen > Zeiträume > Zeitraum > Klassenleiter`
+
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
 ## Schulbescheinigung (Elternwunsch Schulform).rpt
 
@@ -413,9 +432,11 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
 
-Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Schulformen.
+`Klassen > Daten > Schulform`
+
+Tragen Sie im aktuellen Zeitraum im  Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
 **(A0075)** `Klassen > Daten > Kürzel`
 
@@ -443,9 +464,11 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0054)** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
 
-Tragen Sie im aktuellen Zeitraum im Menü Klassen > Daten die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Schulformen.
+`Klassen > Daten > Schulform`
+
+Tragen Sie im aktuellen Zeitraum im  Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
 **(A0075)** `Klassen > Daten > Kürzel`
 
@@ -497,7 +520,7 @@ Tragen Sie im Menü "Schüler" im aktuellen Zeitraum auf der Registerkarte "Lauf
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0150)** `Allgemein > Systemdatum`
+**Systemdatum**
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
@@ -505,15 +528,17 @@ Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken` (Strg + P) gedruckt werden.
 
-**(A0050)** `Schüler > Daten 1 > Familie`
+**Sorgeberechtigten des Schülers**
 
-Tragen Sie im aktuellen Zeitraum im Schüler > Daten 1 > Familie  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter Schüler > Familie im Feld "Benachrichtigung"
-"immer" enthalten, relevant.
+`Schüler > Daten 1 > Familie`
 
-**(A0077)** `Mandanten > Daten 1 > Schulleiter`
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+**SchulleiterIn**
+
+`Mandanten > Daten 1 > Schulleiter`
+
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
 
 **(A0276)** `Schüler > Laufbahn > Allgemein > Empfehlung`
 
@@ -538,7 +563,7 @@ Dieser Bericht enthält spezielle Textfelder, die Sie über Microsoft Word ausf�
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0150)** `Allgemein > Systemdatum`
+**Systemdatum**
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
@@ -556,7 +581,7 @@ Der Bericht muss aus über `Drucken > Bericht Drucken` (Strg + P) gedruckt werde
 
 ## Schulzeitenbescheinigung.rpt
 
-**(A0150)** `Allgemein > Systemdatum`
+**Systemdatum**
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
@@ -580,7 +605,9 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Aufsummierung der Schüler nach Herkunftsschule
 
-**(A0080)** `Schüler > Daten 2 > Bereits besuchte Schulen`
+**bereits besuchte Schulen**
+
+`Schüler > Daten 2 > Bereits besuchte Schulen`
 
 Tragen Sie im Menü `Schüler > Daten 2`  im Bereich "Bereits besuchte Schulen" die jeweilige Schule ein.
 
@@ -606,17 +633,21 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0050)** `Schüler > Daten 1 > Familie`
+**Sorgeberechtigten des Schülers**
 
-Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Daten1 > Familie` im Feld "Benachrichtigung"
-"immer" enthalten, relevant.
+`Schüler > Daten 1 > Familie`
 
-**(A0077)** `Mandanten > Daten 1 > Schulleiter`
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
 
-Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden.
+**SchulleiterIn**
 
-**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
+`Mandanten > Daten 1 > Schulleiter`
+
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
+
+**KlassenleiterIn**
+
+`Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
@@ -644,21 +675,25 @@ SVA | Bemerkung für Schulpflichtverletzung
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0054)**` Klassen > Daten > Schulform
-`
-Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
+
+Tragen Sie im aktuellen Zeitraum im  Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
 **Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0150)** `Allgemein > Systemdatum`
+**Systemdatum**
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
-**(A0216)** `Mandanten >Daten 1 > Ort`
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
+
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
 **Ausdruck**
 
@@ -668,15 +703,19 @@ Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werde
 
 Tragen Sie im Menü Schüler > Daten 2 im Bereich "Abgang" das Datum für das voraussichtliche Ende im Feld "Voraus. Ende" ein.
 
-**(A0370)** `Schlüsselverzeichnis > Zeiträume > Ausdruck 2`
+**Ausgabe Schuljahr**
+
+`Schlüsselverzeichnis > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck 2".
 
 ## Schüler (gruppiert nach Herkunftsschulen).rpt
 
-**(A0080)** `Schüler > Daten 2 > Bereits besuchte Schulen`
+**bereits besuchte Schulen**
 
-Tragen Sie im Menü `Schüler > Daten 2 ` im Bereich "Bereits besuchte Schulen" die jeweilige Schule ein.
+`Schüler > Daten 2 > Bereits besuchte Schulen`
+
+Tragen Sie im Menü `Schüler > Daten 2`  im Bereich "Bereits besuchte Schulen" die jeweilige Schule ein.
 
 **Ausdruck**
 
@@ -698,7 +737,9 @@ Tragen Sie im Menü `Schüler > Daten 2`  im Bereich "Bereits besuchte Schulen" 
 
 Die "Entlassklasse" tragen Sie im Menü `Schüler > Daten 2` im Bereich "bereits besuchte Schulen" im Feld "letzte Klasse" ein.
 
-**(A0566)** `Schüler > Daten 2 > Bereits besuchte Schule > Klassenleiter(in)`
+**KlassenleherIn der Entlassklasse des Schüler**
+
+`Schüler > Daten 2 > Bereits besuchte Schule > Klassenleiter(in)`
 
 Den Klassenlehrer der "Entlassklasse" tragen Sie im Menü `Schüler > Daten 2`  im Bereich "Bereits besuchte Schule" Feld "Klassenleiter(in)" ein.
 Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie die Eingabe im Feld "Klassenleiter(in)" vornehmen.
@@ -711,17 +752,21 @@ Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
 
-**(A0050)** `Schüler > Daten 1 > Familie`
+**Sorgeberechtigten des Schülers**
 
-Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Daten1 > Familie` im Feld "Benachrichtigung"
-"immer" enthalten, relevant.
+`Schüler > Daten 1 > Familie`
 
-***(A0077)** `Mandanten > Daten 1 > Schulleiter`
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
+
+**SchulleiterIn**
+
+`Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
 
-**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
+**KlassenleiterIn**
+
+`Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
@@ -729,19 +774,23 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0150)** `Allgemein > Systemdatum`
+**Systemdatum**
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
-**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
+**Dienstbezeichnung LehrerIn / SchulleiterIn**
 
-Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü Lehrer > Daten 2 im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das Schlüsselverzeichnis > Dienstbezeichnungen.
+`Lehrer > Daten 2 > Dienstbez.`
+
+Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
 **Ausdruck**
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0362)** `Lehrer > Daten 1 > Anrede`
+**Anrede LehrerIn**
+
+`Lehrer > Daten 1 > Anrede`
 
 Weisen Sie die Anrede des Lehrers im Menü `Lehrer > Daten 1` im Feld "Anrede" zu.
 
@@ -910,11 +959,11 @@ Die Gültigkeit des Schülerausweises tragen Sie im Menü `Schüler > Daten 4 > 
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0050)** `Schüler > Daten 1 > Familie`
+**Sorgeberechtigten des Schülers**
 
-Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung"
-"immer" enthalten, relevant.
+`Schüler > Daten 1 > Familie`
+
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
 
 **(A0075)** `Klassen > Daten > Kürzel`
 
@@ -925,11 +974,11 @@ Im entsprechenden Zeitraum muss im Menü Klassen > Daten im Feld "Kürzel" die K
 * Sorgeberechtigte/r  muss unter Benachrichtigung „immer“ haben. 
 * Zug Nr. unter Merkmal A1 auf der Registerkarte Schüler in  Magellan eintragen.
 
-**(A0050)** `Schüler > Daten 1 > Familie`
+**Sorgeberechtigten des Schülers**
 
-Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung"
-"immer" enthalten, relevant.
+`Schüler > Daten 1 > Familie`
+
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
 
 ## Schülerliste ( Klasse, Geburtsdaten, Adresse, Telefon).rpt
 
@@ -1236,7 +1285,7 @@ Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0150)** `Allgemein > Systemdatum`
+**Systemdatum**
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
@@ -1255,7 +1304,7 @@ Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0150)** `Allgemein > Systemdatum`
+**Systemdatum**
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
@@ -1275,7 +1324,7 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
-**(A0150)** `Allgemein > Systemdatum`
+***Systemdatum**
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
@@ -1283,11 +1332,11 @@ Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0050)** `Schüler > Daten 1 > Familie`
+**Sorgeberechtigten des Schülers**
 
-Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Daten1 > Familie` im Feld "Benachrichtigung"
-"immer" enthalten, relevant.
+`Schüler > Daten 1 > Familie`
+
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
 
 ## Schülerliste (Nachprüflinge).rpt
 
@@ -1323,7 +1372,9 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0156)** `Schüler > Zeugnis > Details > Versäumnisse`
+**Verspätungen**
+
+`Schüler > Zeugnis > Details > Versäumnisse`
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
@@ -1378,17 +1429,21 @@ angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "K
 
 ## Schülerpersonalblatt (mit Vorbildung und Herkunftsschule).rpt
 
-**(A0050)** `Schüler > Daten 1 > Familie`
+**Sorgeberechtigten des Schülers**
 
-Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie` die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung"
-"immer" enthalten, relevant.
+`Schüler > Daten 1 > Familie`
 
-**(A0054)** `Klassen > Daten > Schulform`
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
 
-Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
+**Schulform der Klasse**
 
-**(A0078)** `Klassen > Zeiträume > Zeitraum > Klassenleiter`
+`Klassen > Daten > Schulform`
+
+Tragen Sie im aktuellen Zeitraum im  Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
+
+**KlassenleiterIn**
+
+`Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
@@ -1396,7 +1451,9 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
+**Dienstbezeichnung LehrerIn / SchulleiterIn**
+
+`Lehrer > Daten 2 > Dienstbez.`
 
 Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
@@ -1523,12 +1580,12 @@ Tragen Sie den Ausbilder im Menü `Schüler > Ausbildung` beim zugewiesenen Ausb
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0015)** `Extras > Schlüsselverzeichnisse > Fachstatus`
+**Fachstatus** 
+
+`Extras > Schlüsselverzeichnisse > Fachstatus`
 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-**(A0015.39)** Arbeitsgemeinschaften
 
 Bitte legen Sie Ihre Arbeitsgemeinschaften unter `Schüsselverzeichnisse > Fächer` als Fachzeilen an. Verteilen Sie die Arbeitsgemeinschaften per Sammelzuweisung der Fachtafeln oder weisen sie direkt dem Schüler unter `Schüler > Zeugnis > Fächer` die entsprechenden Fächer der AGs zu. Weisen Sie die Fachzeilen bitte den Fachstatus AG. Legen Sie dazu den Fachstatus einmalig wie folgt an:
 
@@ -1554,9 +1611,11 @@ AG | AG | Arbeitsgemeinschaft
 
 ## Unfallanzeige (in Word ausfüllbar).rpt
 
-**(A0281)** `Mandanten > Daten 1 > Schulträger`
+**Schülträger der Schule**
 
-Tragen Sie im Menü `Mandanten > Daten 1` den Schulträger im Feld „Schulträger“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis >Schulträger.
+`Mandanten > Daten 1 > Schulträger`
+
+Tragen Sie im Menü `Mandanten > Daten 1` den Schulträger im Feld „Schulträger“ ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulträger`.
 
 **(A0282)** `Adressen`
 
@@ -1573,9 +1632,11 @@ Dieser Bericht enthält spezielle Textfelder, die Sie über Microsoft Word ausf�
 
 ## Unfallanzeige (mit Erläuterungen).rpt
 
-**(A0050)** `Schüler > Daten 1 > Familie`
+**Sorgeberechtigten des Schülers**
 
-Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
+`Schüler > Daten 1 > Familie`
+
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
 
 **(A0281)** `Mandanten > Daten 1 > Schulträger`
 
