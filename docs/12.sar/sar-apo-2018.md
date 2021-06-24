@@ -160,3 +160,15 @@ bL14|sehr gut|14|Punktwert
 bL15|sehr gut|15|Punktwert
 
 Führen Sie danach das Berechnungsskript erneut aus.
+
+## Abweichungsprüfungen
+
+Laut (§46 (3) GOS-VO werden Abweichungsprüfungen bei 4 und mehr als 4 Punkten angesetzt
+
+*(3) Unabhängig von Absatz 2 wird der Schüler/die Schülerin in einem Fach, in dem er/sie bereits schriftlich geprüft wurde, auch mündlich geprüft, wenn sich das Ergebnis der schriftlichen Prüfung um vier oder mehr Punkte der einfachen Wertung von dem Durchschnitt der Punkte unterscheidet, die er/sie in den für die Gesamtqualifikation anzurechnenden Kursen des jeweiligen Prüfungsfaches in den vier Halbjahren der Hauptphase erreicht hat.*
+
+Das Berechnnungsskript zum saarländischen Abitur gibt Ihnen eine entsprechende Meldung dazu. Im Fall einer Abweichungsprüfung tragen Sie bitte die mündliche Prüfung im Feld "(Mündliche Note) ein, diese Punktzahl der mündlichen Prüfung wird mit eingerechnet.
+
+[![Meldefenster neu berechnen][1]][1]
+
+[1]: /assets/images/Saarland/sar006.png "Meldefenster neu berechnen"

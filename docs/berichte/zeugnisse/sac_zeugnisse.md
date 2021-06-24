@@ -61,7 +61,6 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
 
-
 **Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
@@ -87,7 +86,7 @@ Gehen Sie bitte wie folgt vor:
 
 1) Definieren Sie ein Fach im `Schlüsselverzeichnis > Fächer`, weisen Sie dieses im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu. Zusätzlich erhält dieses Fach im Feld "Fachstatus" „Praktikum“ zu.
 2) Diesem Fach weisen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Zusatzklasse" die Klasse zu, wo der erfolgte „Bildungsgang“ hinterlegt ist.
-3) Die Anzahl der Wochen für  die „Integration in der Berufsschule“  weisen Sie im Menü Schüler > Zeugnis > Fächer im Feld "Merkmal" z.
+3) Die Anzahl der Wochen für  die „Integration in der Berufsschule“  weisen Sie im Menü Schüler > Zeugnis > Fächer im Feld "Merkmal" zu.
 
 ![`Schüler > Zeugnis > Fächer` ](/assets/images/Sachsen/a.01.02_Bild01.png)
 

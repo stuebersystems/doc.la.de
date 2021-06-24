@@ -8,9 +8,11 @@
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
 
 ## SAA-AG-AZ (Einführungsphase).rpt
 
@@ -89,11 +91,13 @@ keine > Außerhalb der Aufgabenfelder
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
 
-**(A0033)** `Ausdruck > DIN A 4 Format, doppelseitig`
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
+
+**Ausdruck**
 
 Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 
@@ -165,8 +169,6 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
-**(A0017.3)** 
-
 Aufgabenbereich|  Zeugnisbereich
 --|--
 sprachl.-lit.-künstlerisch > Sprachlich-literarisch-künstlerisches Aufgabenfeld
@@ -174,11 +176,15 @@ gesellschaftswiss. > Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch > Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 keine > Außerhalb der Aufgabenfelder
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
 
-**(A0033)** `Ausdruck > DIN A 4 Format, doppelseitig`
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
+
+**Ausdruck**
+
+`Ausdruck > DIN A 4 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 
@@ -387,9 +393,11 @@ ZusatzK  |  Allgemeine Beurteilung
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
 
 ## SAA-GY-AZ (Einführungsphase).rpt
 
@@ -478,9 +486,11 @@ keine > Außerhalb der Aufgabenfelder
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
 
 **(A0033)** `Ausdruck > DIN A 4 Format, doppelseitig`
 
@@ -500,8 +510,6 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
-**(A0017.3)** 
-
 Aufgabenbereich|  Zeugnisbereich
 --|--
 sprachl.-lit.-künstlerisch > Sprachlich-literarisch-künstlerisches Aufgabenfeld
@@ -509,11 +517,15 @@ gesellschaftswiss. > Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch > Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 keine > Außerhalb der Aufgabenfelder
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
 
-**(A0033)** `Ausdruck > DIN A 4 Format, doppelseitig`
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
+
+**Ausdruck**
+
+`Ausdruck > DIN A 4 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 
@@ -539,11 +551,6 @@ WahlPF | WahlPF | Wahlpflichtbereich Profil
 ZusatzK | ZusatzK | Fach für das Betriebsparktikum oder für die berufspraktische Asbildung, Fach für eine Abschlussarbeit, Fach für Zusatzausbildung , 
 Projekt | Projekt | Fach für das Kolloquium oder Projekt
 
-**(A0016)** Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
-
 **Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
@@ -551,8 +558,6 @@ so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dür
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-**(A0019.12)** 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -577,7 +582,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -615,11 +622,6 @@ WahlPF | WahlPF | Wahlpflichtbereich Profil
 ZusatzK | ZusatzK | Fach für das Betriebsparktikum oder für die berufspraktische Asbildung, Fach für eine Abschlussarbeit, Fach für Zusatzausbildung , 
 Projekt | Projekt | Fach für das Kolloquium oder Projekt
 
-**(A0016)** Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
-
 **Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
@@ -627,8 +629,6 @@ so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dür
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-**(A0019.12)** 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -653,7 +653,9 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
@@ -683,8 +685,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.8)** 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Pflicht | Pflicht| Pflichtbereich/-fächer
@@ -693,11 +693,6 @@ WahlPF | WahlPF | Wahlpflichtbereich Profil
 ZusatzK | ZusatzK | Fach für das Betriebsparktikum oder für die berufspraktische Asbildung, Fach für eine Abschlussarbeit, Fach für Zusatzausbildung , 
 Projekt | Projekt | Fach für das Kolloquium oder Projekt
 
-**(A0016)** Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
-
 **Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
@@ -705,8 +700,6 @@ so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dür
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-**(A0019.12)** 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -731,9 +724,11 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
 
 ## SAA-KO-AZ (Einführungsphase).rpt
 
@@ -751,8 +746,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.8)** 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Pflicht | Pflicht| Pflichtbereich/-fächer
@@ -761,11 +754,6 @@ WahlPF | WahlPF | Wahlpflichtbereich Profil
 ZusatzK | ZusatzK | Fach für das Betriebsparktikum oder für die berufspraktische Asbildung, Fach für eine Abschlussarbeit, Fach für Zusatzausbildung , 
 Projekt | Projekt | Fach für das Kolloquium oder Projekt
 
-**(A0016)** Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
-
 **Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
@@ -773,8 +761,6 @@ so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dür
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-**(A0019.12)** 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -805,8 +791,6 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
-**(A0017.3)** 
-
 Aufgabenbereich|  Zeugnisbereich
 --|--
 sprachl.-lit.-künstlerisch > Sprachlich-literarisch-künstlerisches Aufgabenfeld
@@ -814,11 +798,13 @@ gesellschaftswiss. > Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch > Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 keine > Außerhalb der Aufgabenfelder
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
 
-**(A0033)** `Ausdruck > DIN A 4 Format, doppelseitig`
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
+
+**Ausdruck**
 
 Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 
