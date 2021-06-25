@@ -1,5 +1,8 @@
 # SAC-APO-BGY-2021
 
+[1]:/assets/images/sachsen/sac01.png
+[2]:/assets/images/Sachsen/apo2017.01.png
+
 Abiturqualifikationsberechnung gemäß Verordnung des Sächsischen Staatsministeriums für Kultus über Berufliche Gymnasien im Freistaat Sachsen (Schulordnung Berufliche Gymnasien – BGySO).
 
 //// Verordnung Fachrichtungen Biotechnologie, Technik-, Agrar-, Ernährungs-, Informations- u. Kommunikationswissenschaft. ////
@@ -9,7 +12,6 @@ Abiturqualifikationsberechnung gemäß Verordnung des Sächsischen Staatsministe
 *Der Schüler ist zur Teilnahme am Unterricht in den Kursen, die gemäß § 38 der Schulordnung Berufliche Gymnasien zur Erfüllung der Belegungspflicht notwendig sind, verpflichtet. Die Be-legpflicht in der Jahrgangsstufe 13 für eines der in Absatz 1 Satz 1 Nummer 3, 5 oder Nummer 6 der Schulordnung Berufliche Gymnasien genannten Fächer kann entfallen, wenn das nicht fort-geführte Grundkursfach kein Prüfungsfach ist und die Voraussetzung für die Zuerkennung der allgemeinen Hochschulreife in der Fremdsprache nicht gefährdet ist.
 Darüber hinaus kann der Schüler an weiteren Kursen aus dem Unterrichtsangebot der Nichtprü-fungsfächer teilnehmen. In diesem Fall nimmt er an den Leistungsermittlungen dieser Kurse teil. Diese fließen in das Kurshalbjahresergebnis 13/II in diesem Fach ein. Der Schüler teilt seinem Tutor/Oberstufenberater bis spätestens zum 27. April 2021 mit, ob und an welchen weiteren Fächern er am Unterricht teilnimmt. Unterricht in den Prüfungsfächern findet nicht statt.
 Einzubringen sind mindestens 34 und höchstens 36 Kurshalbjahresergebnisse.*
-
 
 ## Verzeichnis Verordnung
 
@@ -30,7 +32,7 @@ Bitte legen Sie unter `Extras > Schlüsselverzeichnisse > Verordnungen` eine neu
 | Gültig von   | leer                                     |
 | Gültig bis   | leer                                     |
 
-![Schlüsselverzeichnis > Verordnungen](/assets/images/sachsen/sac01.png)
+[![Schlüsselverzeichnis > Verordnungen][1]][1]
 
 ## Fachkategorien
 
@@ -118,9 +120,10 @@ Das Merkmal muss im Menü `Abitur > Qualifikation > Merkmal` eingetragen sein. E
 |---------|------------------------------------------|
 | A       | Neu einsetzende Fremdsprache, 2 Kurse müssen eingebracht werden (entspricht dem Niveau A) |
 
-## Sonstiges
+## Zusätzlich mdl. Prüfung
 
 Das Berechnungsskript weist Sie darauf hin, wenn gemäß § 52 Absatz 2 eine zusätzliche mündliche Prüfung durchzuführen ist (wenn die Leistung des Prüfungsteilnehmers in diesem Fach mit null Punkten bewertet wurde).
 
-![`Abitur > Prüfung`](/assets/images/Sachsen/apo2017.01.png)
+Tragen Sie die Punktzahl der zusätzlichen mündlichen Prüfung im Feld "Mündliche Note" ein. Diese Punktzahl wird durch erneutes `Neu Berechnen` mit eingerechnet.
 
+[![Abitur > Prüfung][2]][2]
