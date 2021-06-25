@@ -1,5 +1,9 @@
 # SHL-APO-2018
 
+[1]:/assets/images/SHL/shl03.png
+[2]:/assets/images/SHL/shl01.png
+[3]:/assets/images/SHL/shl02.png
+
 Gemäß Landesverordnung über die Gestaltung der Oberstufe und der Abiturprüfung in den Gymnasien und Gemeinschaftsschulen [(OAPVO) vom 2. Juli 2018](http://www.gesetze-rechtsprechung.sh.juris.de/jportal/;jsessionid=449BEADD591E4B730538EA0AD58846A3.jp10?quelle=jlink&query=GymOAbiPrO+SH&psml=bsshoprod.psml&max=true&aiz=true#jlr-GymOAbiPrOSH2018rahmen).
 
 ## Verzeichnis Verordnung
@@ -134,7 +138,7 @@ Bei der mdl. Note im 4. Prüfungsfach Sport geben Sie bitte die Note der mdl. Pr
 
 Das Berechnungsskript **SHL-APO-2018** ermittelt das GER-Niveau der belegten Fremdsprachen. Dafür müssen folgende Voraussetzungen erfüllt sein:
 
-* Legen Sie unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Sprachreferenzen` folgenden Werte an:
+Legen Sie unter `Extras > Schlüsselverzeichnisse > Sprachreferenzen` folgende Werte an:
 
 | Kürzel | Schlüssel | Bezeichnung  |
 | ------ | --------- | ------------ |
@@ -144,9 +148,9 @@ Das Berechnungsskript **SHL-APO-2018** ermittelt das GER-Niveau der belegten Fre
 | B1+    | B1+       | frei wählbar |
 | B2/C1  | B2/C1     | frei wählbar |
 
-![Verzeichnis Sprachreferenzen](/assets/images/SHL/SHL_APO_2018_Sprachreferenzen.png)
+[![Schlüsselverzeichnis > Sprachreferenzen][1]][1]
 
-* Ihre Fremdsprachen müssen im Verzeichnis der Fächer mit den statitistikrelevanten Schlüsseln befüllt sein. Aktuell werden folgende Schlüssel verwendet:
+Ihre Fremdsprachen müssen im `Schlüsselverzeichnis > Fächer` mit den statitistikrelevanten Schlüsseln befüllt sein. Aktuell werden folgende Schlüssel verwendet:
 
 | Fachschlüssel | Bezeichnung                                              |
 | ------------- | -------------------------------------------------------- |
@@ -183,8 +187,8 @@ Das Berechnungsskript **SHL-APO-2018** ermittelt das GER-Niveau der belegten Fre
 | 445F          | Russisch - 4. Fremdsprache (Fach)                        |
 | 445           | Chinesisch                                               |
 
-Wenn diese Bedingungen erfüllt sind, wird über Ausführen des Berechnungsskriptes ``NEU BERECHNEN`` das erreichte GER-Niveau angezeigt und unter ``Daten 3`` im Menü ``Schüler`` befüllt.
+Wenn diese Bedingungen erfüllt sind, wird über Ausführen des Berechnungsskriptes `Neu berechnen` das erreichte GER-Niveau angezeigt und im Menü `Schüler > Daten 3` im befüllt.
 
-![Meldefenster](/assets/images/SHL/SHL_01.png)
+[![Meldefenster][2]][2]
 
-![Menü Schüler > Daten 3](/assets/images/SHL/SHL_02.png)
+[![Schüler > Daten 3][3]][3]
