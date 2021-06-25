@@ -1,5 +1,12 @@
 # DE-DIAP-2015
 
+[1]:/assets/images/DAS/Verordnung.dia.2015.png
+[2]:/assets/images/DAS/verordnung.dia.2015.fachmerkmale01.png
+[3]:/assets/images/DAS/das.bll01.png
+[4]:/assets/images/DAS/5.pf.png
+[5]:/assets/images/DAS/ds.schnittverbessernd01.png
+
+
 Abiturqualifikationsberechnung für Deutsche Auslandsschulen  nach der Ordnung der Deutschen Internationalen Abiturprüfung an deutschen Auslandsschulen nach Beschluss der Kultusministerkonferenz vom 11.06.2015.
 
 ## Verzeichnis Verordnung
@@ -24,7 +31,7 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 
 Nachfolgend Beispiele für Verordnungszeilen für G8 der G9:
 
-![Anlegen der Verordnung für G8 und G9](/assets/images/DAS/Verordnung.dia.2015.png)
+[![Anlegen der Verordnung für G8 und G9][1]][1]
 
 ## Fachkategorien
 
@@ -88,7 +95,7 @@ Bitte tragen Sie im Verzeichnis `Fächer` in der Spalte `Merkmal` für die Fäch
 
 Nachstehend ein Beispiel für die Eintragung mit der Landessprache Italienisch:
 
-![Fachmerkmale festlegen](/assets/images/DAS/verordnung.dia.2015.fachmerkmale01.png)
+[![Fachmerkmale festlegen][2]][2]
 
 ## Fachstatus
 
@@ -109,14 +116,14 @@ Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü „Abitur“ unter 
 
 Ergebnisse tragen Sie bitte im darüberliegenden Bereich `Prüfungen` für das 5.PF ein.
 
-![`Abitur > Prüfung > Lernleistung`](/assets/images/DAS/das.bll01.png)
+[![`Abitur > Prüfung > Lernleistung`][3]][3]
 
 ## Präsentation oder Streitgespräch
 
 Das jeweilige Ergebnis ist bitte als mündliche Note des 5. Prüfungsfachs auf der Karte `Prüfung` zu erfassen. 
 Bitte verwenden Sie hierfür **nicht** die Unterkarte "Präsentation".
 
-![Note erfassen](/assets/images/DAS/5.pf.png)
+[![`Note erfassen`][4]][4]
 
 ## Merkmal
 
@@ -137,5 +144,6 @@ Das Berechnungsskript **DE-DIAP-2015** berücksichtigt auch folgendes:
 
 * Ermittlung einer Schnittverbesserung durch mögliche Einbringung einer mdl. Note in einem Prüfungsfach unter dem Menü ``Abitur > Prüfung`` im Feld "mdl. Note"
   
-![`Abitur > Prüfung > "Neu berechnen`](/assets/images/DAS/ds.schnittverbessernd01.png)
+[![`Abitur > Prüfung > "Neu berechnen`][5]][5]
+
 * Ermittlung der Abiturzulassung am Ende der Q3, wenn unter dem Menü ``Abitur > Qualifikation`` in den Feldern ``Q4`` keine Punktwerte eingetragen sind

@@ -1,5 +1,7 @@
 # DE-MSA-2019.dws
 
+[1]:/assets/images/6.5.33_04.png
+
 Innerhalb eines Zeitraums kann mit Hilfe des Berechnungsskriptes _DE-MSA-2019.dws_ der Notendurchschnitt für Auslandsschulen gemäß Ordnung für den Abschluss der Sekundarstufe I an Deutschen Schulen im Ausland vom 16.03.2017 ermittelt werden.
 
 ## Vorbereitungen
@@ -41,7 +43,7 @@ Um die Berechnung durchführen zu können, müssen Sie zunächst die Noten der S
 |--|--|
 |Endnote |Jahrgangsnoten der Fächer|
 
-![Leistungen im Feld `Endnote` erfassen](/assets/images/6.5.33_04.png)
+[![Leistungen im Feld `Endnote` erfassen][1]][1]
 
 #### 3. Berechnung ausführen
 
