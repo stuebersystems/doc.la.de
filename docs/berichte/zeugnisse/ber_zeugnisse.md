@@ -1,5 +1,9 @@
 # Zeugnisse für Berlin
 
+[1]:/assets/images/Berlin/zeugnis01.png "SchulZ591"
+[2]:/assets/images/Berlin/zeugnis02.png "SchulZ591"
+[3]:/assets/images/Berlin/zeugnis02.png "Schüler>Zeugnis>Leistungen"
+
 ## Berufsschulzeugnisse / IBA
 
 ### BER-Schul Z 590 (12.19).rpt
@@ -103,7 +107,7 @@ Die Zeugnisbemerkung "Dem Zeugnis ist das Zertifikat zur Einschätzung personale
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-![Zeugnisvorlage](/assets/images/Berlin/ber001.png)
+[![Schüler > Zeugnis > Leistungen][3]][3]
 
 **Klassen**
 
@@ -297,9 +301,8 @@ Die berechnete "Endnote" kann jederzeit manuell im Feld "Endnote" geändert werd
 
 Schul Z 591 – Abschlusszeugnis der Integrierten Berufsausbildungsvorbereitung (Vollzeit) – (4 Seiten) – (03.20)
 
-![Schul Z 591 – (03.20)](/assets/images/Berlin/SchulZ591.03.20.01.png)
-
-![Schul Z 591 – (03.20)](/assets/images/Berlin/SchulZ591.03.20.02.png)
+[![Schul Z 591 – (03.20)][1]][1]
+[![Schul Z 591 – (03.20)][2]][2]
 
 **Ausdruck**
 
