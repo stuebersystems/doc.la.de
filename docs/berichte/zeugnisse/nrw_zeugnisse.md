@@ -172,9 +172,11 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Konferenzdatum" ein.
 
-**(A0216)** Mandanten >Daten 1 > Ort
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten > Daten 1 im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
+
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
 ## NRW-Abitur (Prüfungsergebnisse 1).rpt
 
@@ -453,7 +455,9 @@ Um Fächern mit der Fussnote "2)"zu versehen (zur Kennzeichnung der Note mit dem
 
 Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern „Fehlstunden“ und „davon unentschuldigt“ erfolgen.
 
-**(A0451)** `Schlüsselverzeichnisse > Zeiträume > Von / Bis`
+**von / bis-Datum**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Von / Bis`
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
@@ -567,17 +571,21 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0216)** `Mandanten > Daten 1 > Ort`
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
+
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
 **Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0392)** `Schüler > Zeugnis > Fächer > Niveau`
+**Leistungsstufen der Fächer**
 
-Die Leistungsstufe tragen Sie im `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im `Schlüsselverzeichnis > Fachniveaus` ein.
+`Schüler > Zeugnis > Fächer > Niveau`
+
+Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im `Schlüsselverzeichnis > Fachniveaus` ein.
 
 **(A0410)** `Ausdruck > NRW Zeugnisse`
 
@@ -635,9 +643,11 @@ Um Fächern mit der Fussnote "2)"zu versehen (zur Kennzeichnung der Note mit dem
 
 Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern „Fehlstunden“ und „davon unentschuldigt“ erfolgen.
 
-**(A0451)** `Schlüsselverzeichnisse > Zeiträume > Von / Bis`
+**von / bis-Datum**
 
-Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im Schlüsselverzeichnis > Zeiträume. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Von / Bis`
+
+Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
@@ -743,17 +753,21 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0216)** `Mandanten >Daten 1 > Ort`
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
+
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
 **Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0392)** `Schüler > Zeugnis > Fächer > Niveau`
+**Leistungsstufen der Fächer**
 
-Die Leistungsstufe tragen Sie im `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im `Schlüsselverzeichnis > Fachniveaus` ein.
+`Schüler > Zeugnis > Fächer > Niveau`
+
+Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im `Schlüsselverzeichnis > Fachniveaus` ein.
 
 **(A0411)** `Ausdruck > NRW Zeugnisse`
 
@@ -791,9 +805,11 @@ Um Fächern mit der Fussnote "2)"zu versehen (zur Kennzeichnung der Note mit dem
 
 Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern „Fehlstunden“ und „davon unentschuldigt“ erfolgen.
 
-**(A0451)** `Schlüsselverzeichnisse > Zeiträume > Von / Bis`
+**von / bis-Datum**
 
-Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im Schlüsselverzeichnis > Zeiträume. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Von / Bis`
+
+Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
 **(A0602)** 
 `Abitur > Zeugnisbemerkungen`
@@ -1088,7 +1104,9 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` eine Zeugnisbemerkung an und tragen Sie im Feld  „Zeugnisbemerkungen“ die Anzahl der Praktikums-Stunden als Zahl ein. Zusätzlich müssen Sie dieser Zeugnisbemerkung im Feld "Merkmal" den Begriff "Praktika" zuweisen.
 
-**(A0451)** `Schlüsselverzeichnisse > Zeiträume > Von / Bis`
+**von / bis-Datum**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Von / Bis`
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
@@ -1375,9 +1393,11 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0216)** `Mandanten > Daten 1 > Ort`
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten> Daten 1` im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
+
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
 **Ausdruck** `Ausdruck`
 
@@ -1387,7 +1407,9 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Um den Satz "Sie können die Jahrgangsstufe … wiederholen" auf dem Zeugnis auszugeben, muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld „Versetzt“ mit "Schüler wurde NICHT versetzt" eingetragen sein und das Optionsfeld "Wiederholder" darf nicht markiert sein.
 
-**(A0451)** `Schlüsselverzeichnisse > Zeiträume > Von / Bis`
+**von / bis-Datum**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Von / Bis`
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
@@ -1834,7 +1856,9 @@ Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnumme
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0216)** `Mandanten > Daten 1 > Ort`
+**Mandanten / Ort**
+
+`Mandanten > Daten 1 > Ort`
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
@@ -2266,10 +2290,11 @@ Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld 
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0216)** `Mandanten > Daten 1 > Ort`
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
 
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 **Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
@@ -2381,7 +2406,9 @@ Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld 
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**(A0216)** `Mandanten > Daten 1 > Ort`
+**Mandanten / Ort**
+
+`Mandanten > Daten 1 > Ort`
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
@@ -2596,9 +2623,11 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" 
 
 Die Endnote der besonderen Lernleistung weisen Sie im Menü `Abitur > Prüfung > Lernleistung` im ersten "Punkte" Feld (links) zu.
 
-**(A0216)** `Mandanten > Daten 1 > Ort`
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
+
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
 **Ausdruck** `Ausdruck`
 
@@ -2957,11 +2986,15 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0451)** `Schlüsselverzeichnisse > Zeiträume > Von / Bis`
+**von / bis-Datum**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Von / Bis`
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
-**(A0451)** `Schlüsselverzeichnisse > Zeiträume > Von / Bis`
+**von / bis-Datum**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Von / Bis`
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
@@ -3195,11 +3228,9 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0451)** `Schlüsselverzeichnisse > Zeiträume > Von / Bis`
+**von / bis-Datum**
 
-Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
-
-**(A0451)** `Schlüsselverzeichnisse > Zeiträume > Von / Bis`
+`Extras > Schlüsselverzeichnisse > Zeiträume > Von / Bis`
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
@@ -4433,19 +4464,25 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0216)** `Mandanten >Daten 1 > Ort`
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
+
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
 **Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0392)** `Schüler > Zeugnis > Fächer > Niveau`
+**Leistungsstufen der Fächer**
 
-Die Leistungsstufe tragen Sie im `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im `Schlüsselverzeichnis > Fachniveaus` ein.
+`Schüler > Zeugnis > Fächer > Niveau`
 
-**(A0451)** `Schlüsselverzeichnisse > Zeiträume > Von / Bis`
+Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im `Schlüsselverzeichnis > Fachniveaus` ein.
+
+**von / bis-Datum**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Von / Bis`
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
