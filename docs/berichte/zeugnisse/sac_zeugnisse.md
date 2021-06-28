@@ -402,6 +402,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
+
 **Mandanten / Ort**
 
 `Mandanten > Daten 1 > Ort`
@@ -591,6 +602,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
+
 **Schulort / Ausstellungsort des Zeugnisses** 
 
 `Mandanten > Daten 1 > Ort`
@@ -741,6 +763,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 `Schüler > Zeugnis > Leistungen > Endnote`
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
 
 **Ort des Druckdatums**
 
@@ -906,6 +939,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 `Schüler > Zeugnis > Leistungen > Endnote`
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
 
 **Schulort / Ausstellungsort des Zeugnisses** 
 
@@ -1516,6 +1560,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
+
 **Ausbildungsberuf Schüler**
 
 `Schüler > Ausbildung > Ausbildungsbetriebe > Beruf`
@@ -1612,6 +1667,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 `Schüler > Zeugnis > Leistungen > Endnote`
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
 
 **Ausbildungsberuf Schüler**
 
@@ -1728,7 +1794,18 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 `Schüler > Zeugnis > Leistungen > Endnote`
 
-Die Noten der Fächer tragen Sie im `Menü `Schüler > Zeugnis > Leistungen`` in der Spalte "Endnote" ein. Grundlage bildet das Schlüsselverzeichnis `Noten`.
+Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
 
 **Ausbildungsberuf Schüler**
 
@@ -1742,16 +1819,6 @@ Hier weisen Sie im Feld "Beruf" den entsprechendes Beruf zu. Grundlage bildet da
 `Mandanten > Daten 1 > Ort`
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
-
-**Text für Ausgabe Hauptschulabschluss**
-
-`Schüler > Laufbahn > Abschluss > Abschluss 2`
-
-Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Abschluss` die Abschlussbezeichnung unter "Abschluss 2" im Feld "Abschluss" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Abschlüsse (Intern)`.
-
-Kürzel | Schlüssel |Bezeichnung
---|--|--
-beliebig | HS | Hauptschulabschluss
 
 **Platzhalter Zeugnisbemerkungen** 
 
@@ -1852,7 +1919,18 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 `Schüler > Zeugnis > Leistungen > Endnote`
 
-Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das ``Schlüsselverzeichnis > Noten``.
+Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
 
 **Ausbildungsberuf Schüler**
 
@@ -1967,6 +2045,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 `Schüler > Zeugnis > Leistungen > Endnote`
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
 
 **Beruf der Klasse** 
 
@@ -2153,6 +2242,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
+
 **Fachstatus** 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
@@ -2317,6 +2417,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
+
 **Anzahl der Wochen für Praktikum/ Berufspraktische/Praktische Ausbildung**
 
 `Schüler > Zeugnis > Fächer`
@@ -2445,6 +2556,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 `Schüler > Zeugnis > Leistungen > Endnote`
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
 
 **Ort des Druckdatums**
 
@@ -2867,6 +2989,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
+
 **Mandanten / Ort**
 
 `Mandanten > Daten 1 > Ort`
@@ -3015,6 +3148,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 `Schüler > Zeugnis > Leistungen > Endnote`
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
 
 **Mandanten / Ort**
 
@@ -3611,6 +3755,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 `Schüler > Zeugnis > Leistungen > Endnote`
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
 
 **Mandanten / Ort**
 
@@ -8207,6 +8362,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
+
 **Schulart der Klasse**
 
 `Klasse > Daten > Schulart`
@@ -10226,6 +10392,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
+
 **Mandanten / Ort**
 
 `Mandanten > Daten 1 > Ort`
@@ -10483,6 +10660,17 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
+
 **Ausbildungsberuf Schüler**
 
 `Schüler > Ausbildung > Ausbildungsbetriebe > Beruf`
@@ -10653,6 +10841,17 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 `Schüler > Zeugnis > Leistungen > Endnote`
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
 
 **Ort der Schule**
 

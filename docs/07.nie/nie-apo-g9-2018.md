@@ -29,13 +29,15 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 |Gültig von |leer|
 |Gültig bis|leer|
 
-## Profil
+## Schulzweig (Profil) der Schüler
 
-Geben Sie den Schulzweig (Profil) beim jeweiligen Schüler auf der Registerkarte ```Daten3 > Verschiedenes > Profil``` ein. 
+Geben Sie den Schulzweig (Profil) beim jeweiligen Schüler auf der Registerkarte `Daten3 > Verschiedenes > Profil` ein. 
 
-**Beim Synchronisieren ins Menü „Abitur“ wird das Profil mit übernommen, ein nachträgliches Eintragen des Wertes genügt nicht. Ob das Profil für den Schüler synchronisiert wurde, können Sie unter `Abitur > Auswahl > Profil` je Schüler sehen.** 
+!!! warning "Sehr wichtig!"
 
-Bitte geben Sie im Schlüsselverzeichnis „Profile (Schüler)“ folgende Werte ein:
+    Beim Synchronisieren ins Menü `Abitur` wird das Profil mit übernommen, ein nachträgliches Eintragen des Wertes genügt nicht. Ob das Profil für den Schüler synchronisiert wurde, können Sie unter `Abitur > Auswahl > Profil` je Schüler sehen. 
+
+Bitte geben Sie unter `Extras > Schlüsselverzeichnisse >  „Profile (Schüler)` folgende Werte ein:
 
 |Schlüssel |Bedeutung|
 |--|--|
@@ -86,7 +88,7 @@ Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werd
 
 ## Aufgabenbereiche
 
-Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnisse > Fächer > Spalte Aufgabenbereich``` verwendet werden:
+Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Schlüsselvereichnisse > Fächer` in Spalte "Aufgabenbereich" verwendet werden:
 
 |Aufgabenbereich|
 |--|
@@ -98,7 +100,7 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnis
 
 ## Seminarfach
 
-Bitte benutzen Sie für das Seminarfach unter ```Verzeichnisse > Fächer``` in der Spalte "Kategorie" den Wert „Seminar“.
+Bitte benutzen Sie für das Seminarfach unter `Extras > Schlüsselverzeichnisse > Fächer` in der Spalte "Kategorie" den Wert „Seminar“.
 
 ## Unterrichtsart
 
@@ -112,8 +114,9 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unt
 
 ## Fachstatus
 
-Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden.
-Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
+Der Fachstatus muss im Menü `Abitur > Qualifikation > Fachstatus` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus dem Menü `Schüler > Zeugnis > Fächer > Fachstatus` übernommen werden.
+
+Prüfen Sie bitte unter `Extras > Schüsselverzeichnisse > Fachstatus`, dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 |Kürzel |Schlüssel |Bedeutung|
 |--|--|--|
@@ -123,9 +126,9 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 |4PF |4PF |4. Prüfungsfach|
 |5PF |5PF |5. Prüfungsfach|
 
-## Merkmal
+## Fachmerkmal für die Fremdsprache Anfänger
 
-Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
+Das Merkmal muss im Menü `Abitur > Qualifikation > Merkmal` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus dem Menü `Schüler > Zeugnis > Fächer > Merkmal` übernommen werden.
 
 |Merkmal |Bedeutung|
 |--|--|
@@ -135,7 +138,7 @@ Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. 
 
 Ist Sport 1. Prüfungsfach, dann wird auf Prüfungsregisterkarte bei "Schriftliche Note" die Punktzahl SP (siehe unten) aus schriftlicher und mündlicher Note eingetragen und in der Spalte "mündliche Note" die Sport-Praxis-Note. Die mündliche Note erscheint nämlich nicht im Zeugnis.
 
-Verordnungstext:
+*Verordnungstext:*
 
 EB-AVO-GOFAK 16.3 Im Fach Sport sind die Prüfungsergebnisse in einfacher Wertung einzutragen. Ist Sport Schwerpunktfach, so wird das Ergebnis der sportpraktischen Prüfung in die Spalte „mündliche Prüfungsergebnisse” der Zeugnisformulare eingetragen.
 
@@ -153,4 +156,17 @@ s = Punktzahl der schriftlichen Prüfung.
 
 ## Präsentationsprüfung
 
-Auf der Registerkarte `Abitur > Qualifikation` weisen Sie dem Fach den Fachstatus 4. PF oder 5.PF (je nach Verordnung) zu. Im Menü `Abitur > Prüfung` tragen Sie unter Präsentation das Fach, die Punktanzahl im linken Kästchen und das Thema der Präsentation ein. Bitte haken Sie Präsentationsprüfung einbringen an.
+Im Bereich `Abitur > Qualifikation` weisen Sie dem Fach den Fachstatus 4. PF oder 5.PF (je nach Verordnung) zu. Im Menü `Abitur > Prüfung` tragen Sie unter Präsentation das Fach, die Punktanzahl im linken Kästchen und das Thema der Präsentation ein. Bitte haken Sie `Präsentationsprüfung einbringen` an.
+
+**Pflichtfremdsprachen / Wahlsprachen**
+
+`Schüler > Daten 3 > Fremdsprachenfolge`
+
+Die Fremdsprachen des Schülers tragen Sie wie folgt ein:
+
+Fremdsprachen | Eintragung in MAGELLAN wie folgt
+--|-- 
+Pflichtfremdsprachen | Diese tragen Sie im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" ein. Im Feld "Zusatz" markieren Sie die entsprechenden Sprachen mit "Pflichtfach". Sie können max. 4 Pflichtfremdsprachen auswählen, beachten Sie aber bitte, dass bei der Auswahl von 4 Fremdsprachen keine "Wahlsprachen" mehr ausgewählt werden können.
+Wahlsprachen | Diese tragen Sie im im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" ein. Beachten Sie bitte, dass nur die 3. und/oder 4. Fremdsprache eine Wahlsprache sein kann. Im Feld "Zusatz" markieren Sie die entsprechenden Sprachen mit "Wahlfach (fakultative FS)".
+
+Beachten Sie bitte zudem, dass zuerst die Pflichtfremdsprachen und im Anschluss die Wahlsprachen angelegt werden müssen.

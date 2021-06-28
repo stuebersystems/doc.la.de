@@ -1417,22 +1417,21 @@ Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld 
 
 Zeugnis-Hauptschulabschluss (Anlage 8)(§23) und Zeugnis Realschule Mittlerer Schulabschluss (Anlage 9)(§23)
 
-**Verzeichnis Zeiträume**
+!!! warning "Sehr wichtig!"
+
+    Beachten Sie, dass dieser Bericht ein Abschlusszeugnis der Jahrgangsstufe 9 und 10 ist. Dies hängt vom Eintrag des Jahrganges im Menü `Klassen > Zeiträume > Zeitraum` im Feld "Jahrgang" ab. Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume > Zeitraum` der Jahrgang im Feld „Jahrgang“ angegeben sein.
+
+**Ausgabe Schulhalbjahr**
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Klassenjahrgang**
+**Jahrgang Klasse**
 
- `Klassen > Zeiträume > Zeitraum > Jahrgang`
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
-
-Beachten Sie, dass der Report ein Abschlusszeugnis der Jahrgangsstufe 9 und 10 ist. 
-Dies hängt vom Eintrag des Jahrganges im Menü `Klassen > Zeiträume > Zeitraum` im Feld "Jahrgang" ab. Siehe A-Merkmal 008.
-
-Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume > Zeitraum` der Jahrgang im Feld „Jahrgang“ angegeben sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Zeugniskonferenzdatum**
 
@@ -1501,11 +1500,9 @@ MSA | Zeugnisbemerkung für das MSA Zeugnis
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
-`Schüler > Zeugnis > Bemerkungen/Formulare`
+**Platzhalter für Zeugnisbemerkungen**
 
-`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
-
-`Berufsschule > Zeugnisbemerkungen`
+`Schüler > Zeugnis > Bemerkungen/Formulare` / `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` / `Berufsschule > Zeugnisbemerkungen`
 
 Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B.  So `<<hier steht Ihr Platzhalter>>`.  
@@ -1542,7 +1539,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**Schulleiter, Beauftragter**
+**SchulleiterIn, Beauftragter**
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -1558,7 +1555,7 @@ Den Beauftragten der Ständigen Konferenz der Kultusminister der Länder in der 
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Drucken**
+**Ausdruck**
 
 `Schüler > Drucken > Zeugnisse drucken...`
 
@@ -1570,7 +1567,10 @@ Der Bericht muss aus dem Menü `Start > Drucken > Zeugnisse Drucken...` (Strg + 
 
 `Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
-Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
+Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden.
+
+Alternativ kann diese Durchschnittsnote auch berechnet werden. Lesen Sie dazu bitte die Anleitung unter:
+[Berechnungsgrundlage Durchschnittsnote](https://doc.la.stueber.de/01.de/de-msa-2019dws/)
 
 **schriftl./mdl. Prüfungsnoten**
 
@@ -1599,8 +1599,9 @@ nBÜR |--|Berechtigung zum Übergang in die in die 10. Jahrgangsstufe des Bildun
 
 `Schüler > Laufbahn > Abschluss`
 
-"Die Berechtigung zum Übergang in die Einführungsphase der gymnasialen Oberstufe (Zeugnis Anlage 9 [§23])"
-Ob ein SchülerIn die Berechtigung zum Übergang in die Einführungsphase der gymnasialen Oberstufe erhalten hat oder nicht hängt wie folgt ab:
+*Die Berechtigung zum Übergang in die Einführungsphase der gymnasialen Oberstufe (Zeugnis Anlage 9 [§23])*
+
+Ob ein SchülerIn die Berechtigung zum Übergang in die Einführungsphase der gymnasialen Oberstufe erhalten hat oder nicht, hängt wie folgt ab:
 
 Bei `Schüler > Laufbahn > Abschluss` tragen im Bereich „Abschluss1“ im Feld „Abschlussart“ die jeweilige Abschlussart. Grundlage bildet das `Schlüsselverzeichnis > Abschlussarten`. Maßgeblich ist immer das Kürzel:
 

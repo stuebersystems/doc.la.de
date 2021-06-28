@@ -250,12 +250,18 @@ Abgangszeugnis Qualifikationsphase erste Seite und zweite Seite - in Planung
 
 Abiturzeugnis ab Abitur 2021 gemäß Verordnung vom 04. September 2018, Anlage 1b
 
-**A0015** `Extras > Schlüsselverzeichnisse > Fachstatus`
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
+
+Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
+
+**Fachstatus**
+
+`Extras > Schlüsselverzeichnisse > Fachstatus`
 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-**A0015.52** 
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -265,11 +271,11 @@ Kürzel | Schlüssel | Zeugnisbereich
 4PF | 4PF | 4. Prüfungsfach
 5PF | 5PF | 5. Prüfungsfach (nur mündlich) Pflichtbereich"
 
-**A0017** `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+**Aufgabenbereich der Fächer**
 
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+`Extras > Schlüsselverzeichnis > Fächer`
 
-**A0017.1**	
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Extras > Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
 Aufgabenbereich | Zeugnisbereich
 --|--
@@ -277,60 +283,70 @@ sprachl.-lit.-künstlerisch |  Sprachlich-literarisch-künstlerisches Aufgabenfe
 gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld"
 
-**A0019** `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+**Unterrichtsarten der Fächer**
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im `Schlüsselverzeichnis > Fachtafeln` die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:"
-
-**A0019.17**
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse (LK) / Leistungsfächer (LF)
 GK | GK | Grundkurse
 
-**A0020** `Schüler > Daten 3 > Von/Bis-Datum`
+**Fremdsprachen**
 
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+`Schüler > Daten 3 > Von/Bis`
 
-**A0023** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
+
+**Fremdsprachen** 
+
+`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**A0031** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Berechnungsgrundlage**
 
-Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
+[Landesanpassungen](https://doc.la.stueber.de)
 
-**A0032** `(Landesanpassungen)[https://doc.la.stueber.de/]`
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
 
-Für den Zeugnisdruck des Abiturs bildet die Online Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. https://doc.la.stueber.de/"
+**Schuldaten**
 
-**A0045** `Mandanten > Daten > Name 1`
+`Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
 
-**A0054** `Klassen > Daten > Schulform`
+**Schulform der Klasse**
+
+`Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im  Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
-**A0077** `Mandanten > Daten 1 > Schulleiter`
+**SchulleiterIn**
+
+`Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
 
-**A0110** `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü `Abitur > Zeugnis` im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**A0111** `Ausdruck`
+**Zeugnisdatum**
 
-Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
-
-**A0139** `Abitur > Prüfung > Zeugnisdatum`
+`Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**A0168** `Schlüsselverzeichnisse > Noten > Füllwerte`
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -339,7 +355,9 @@ Kürzel | Bezeichnung | Notenart
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
 
-**A0205** `Sonstiges`
+**Besondere Lernleistung anstelle 4. schriftl. Prüfung** 
+
+`Abitur > Prüfung`
 
 Anstelle der 4. schriftlichen Prüfung ist auch eine „Besondere Lernleistung“ möglich.
 Gehen Sie in MAGELLAN wie folgt vor:
@@ -347,23 +365,33 @@ Gehen Sie in MAGELLAN wie folgt vor:
 Wählt der Schüler anstelle der 4. schriftlichen Prüfung die Einbringung einer „Besonderen Lernleistung“, müssen Sie im Menü `Abitur > Prüfung` im Feld „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
 Die schriftliche Note für die „Besondere Lernleistung" tragen Sie im 1. Notenfeld ganz links ein. Folglich ist keine schriftliche Note unter „Prüfungsfächer“ im 4. PF zugewiesen (Feld bleibt leer).
 
-**A211** `Lehrer > Daten 2 > Dienstbez.`
+**Dienstbezeichnung LehrerIn / SchulleiterIn**
+
+`Lehrer > Daten 2 > Dienstbez.`
 
 Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**A0216** `Mandanten > Daten 1 > Ort`
+**Mandanten / Ort**
+
+`Mandanten > Daten 1 > Ort`
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**A0348** `Schüler > Zeugnis > Details > Prüfungsvorsitz`
+**Prüfungsvorsitz**
+
+`Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
 Der Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
 
-**A0373** `Schlüsselverzeichnisse > Fächer > Aufgabenbereich (Seminar)`
+**Seminarfach**
 
-Weisen Sie dem Fach "Seminarfach" im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" der Wert "Seminar" zu.
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
-**A0374** `Schüler > Daten 3 > Fremdsprachenfolge`
+Bitte benutzen Sie für das Seminarfach unter `Extras > Schlüsselverzeichnisse > Fächer` in der Spalte "Kategorie" den Wert „Seminar“.
+
+**Pflichtfremdsprachen / Wahlsprachen**
+
+`Schüler > Daten 3 > Fremdsprachenfolge`
 
 Die Fremdsprachen des Schülers tragen Sie wie folgt ein:
 
@@ -374,8 +402,10 @@ Wahlsprachen | Diese tragen Sie im im Menü `Schüler > Daten 3` im Bereich "Fre
 
 Beachten Sie bitte zudem, dass zuerst die Pflichtfremdsprachen und im Anschluss die Wahlsprachen angelegt werden müssen.
 
-**A0777** `Schüler > Zeugnis > Bemerkungen/Formulare` ODER
-`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
+**Platzhalter Zeugnisbemerkungen**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` /
+`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` /
 `Berufsschule > Zeugnisbemerkungen`
 
 Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
@@ -400,13 +430,17 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers) 
 ``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin  (je nach Geschlecht des Schülers) 
-``<<DemSchueler_DerSchuelerin>> `` |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)"
+``<<DemSchueler_DerSchuelerin>> `` |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**A0932** `Mandanten > Daten 1 > Schulform`
+**Schulform**
 
-Hinterlegen Sie bitte im Menü  `Mandanten > Daten 1` die Schulform Ihrer Schule. Grundlage bildet das `Schlüsselverzeichnis > Schulformen`, abgefragt wird hier der "Schlüssel" Ihrer Schulforn. Der Artikel der Schulform des Mandanten ergibt sich aufgrund des zugewiesenen Schlüssels im Menü `Mandanten > Daten 1` im Feld "Schulform".
+`Mandanten > Daten 1 > Schulform`
 
-**A0933** `Abitur > Prüfung > Sprachkenntnisse`
+Hinterlegen Sie bitte im Menü  `Mandanten > Daten 1` die Schulform Ihrer Schule. Grundlage bildet das Schlüsselverzeichnis "Schulformen", abgefragt wird hier der "Schlüssel" Ihrer Schulforn. Der Artikel der Schulform des Mandanten ergibt sich aufgrund des zugewiesenen Schlüssels im Menü `Mandanten > Daten 1` im Feld "Schulform".
+
+**Sprachkenntnisse**
+
+`Abitur > Prüfung > Sprachkenntnisse`
 
 Das kleine, mittlere bzw. große Latinum etc. wird auf dem Zeugnis ausgegeben, wenn Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` das dafür vorgesehene Feld markieren.
 
