@@ -162,13 +162,15 @@ Platzhalter|Inhalt
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0111)** `Ausdruck`
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0172)** Abitur > Prüfung > Konferenzdatum
+**Konferenzdatum**
 
-Tragen Sie das Zeugnisdatum im Menü Abitur > Prüfung im Feld "Konferenzdatum" ein. 
+`Abitur > Prüfung > Konferenzdatum`
+
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Konferenzdatum" ein.
 
 **(A0216)** Mandanten >Daten 1 > Ort
 
@@ -178,9 +180,11 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 Dokument zugehörig zu Anlage D
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
 
 **(A0111)** `Ausdruck`
 
@@ -214,9 +218,11 @@ Tragen Sie die Durchschnittsnote und die Gesamtpunktzahl des jeweiligen Schüler
 
 Information zu den Prüfungsergebnissen (Dokument zugehörig zu Anlage D)
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
 
 **(A0111)** `Ausdruck`
 
@@ -310,7 +316,9 @@ DB | DB | Differenzierungsbereich
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -346,7 +354,9 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Fächer` bzw. im Menü `Abitur > Qualifikation` pro Fach eine Position in der Spalte "Position" angegeben werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -355,23 +365,23 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0216)** Mandanten >Daten 1 > Ort
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
+
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
 **Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0392)** `Schüler > Zeugnis > Fächer > Niveau`
+**Leistungsstufen der Fächer**
 
-Die Leistungsstufe tragen Sie im Schüler > Zeugnis > Fächer im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im Schlüsselverzeichnis >Fachniveaus ein.
+`Schüler > Zeugnis > Fächer > Niveau`
 
-**(A0392)** `Schüler > Zeugnis > Fächer > Niveau`
+Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im `Schlüsselverzeichnis > Fachniveaus` ein.
 
-Die Leistungsstufe tragen Sie im Schüler > Zeugnis > Fächer im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im Schlüsselverzeichnis >Fachniveaus ein.
-
-**(A0408)** `Ausdruck > NRW Zeugnisse`
+**Ausdruck Zeugnis für die Auszubildenden**
 
 Beim Druck des Zeugnis für die Auszubildenden beachten Sie bitte folgende Punkte:
 
@@ -398,7 +408,7 @@ AS  für Abschlusszeugnis
 
 4) Weisen Sie nun die jeweilige Verordnung dem Schüler je nach Art des Zeugnisses im Menü Schüler > Zeugnis >Leistungen zu.
 
-5) Beim Abschlusszeugnis können Sie unterscheiden, ob neben dem Berufsschulabschluss auch eine Fachoberschulreife erreicht wurde oder nicht. Tragen Sie dazu im Menü `Schüler > Laufbahn > Abschlüsse > Abschluss1` den Abschluss wie folgt ein (Grundlage dazu ist das `Schlüsselverzeichnis > Abschlüsse Intern`):
+5) Beim Abschlusszeugnis können Sie unterscheiden, ob neben dem Berufsschulabschluss auch eine Fachoberschulreife erreicht wurde oder nicht. Tragen Sie dazu im Menü Schüler > Laufbahn > Abschlüsse > Abschluss1 den Abschluss wie folgt ein (Grundlage dazu ist das Schlüsselverzeichnis > Abschlüsse Intern):
 
 Kürzel | Bezeichnung	
 --|-- 
@@ -410,29 +420,36 @@ Kürzel | Bezeichnung
 
 6) Lernfelder: Wahlweise können dem Zeugnis Lernfelder zugewiesen werden. Gehen sie hier wie folgt vor:
 
-6a) Legen Sie im Schlüsselverzeichnis > Fachtafeln eine Fachtafel an. Fächern, denen Lernfelder zugeordnet werden sollen, weisen Sie im Feld „Unterrichtsart“  „BU“ zu.
-6b) Weisen Sie der Klasse des Schülers im Menü Klassen > Zeiträume die Fachtafel im Feld "Fachtafel" zu.  
-6c) Anlegen der Lernfelder: Im Schlüsselverzeichnis > Fachthemen legen Sie nun die Lernfelder an. Beachten Sie dabei, dass die ersten beiden Buchstaben der Klasse mit den ersten beiden Buchstaben des Kürzels der Lernfelder identisch sein müssen. Heißt Ihre Klasse zum Beispiel „EB-8R1“ benennen Sie das Kürzel Ihrer Lernfelder zum Beispiel „EB-LF08“, „EB-LF07“ usw. Im Feld „Fach“ weisen Sie dem angelegten „Lernfeld“ das Fach, zu dem es zugeordnet werden soll. Im Feld „Statistik-ID“ weisen Sie das Ausbildungsjahr zu.
+a) Legen Sie im Schlüsselverzeichnis > Fachtafeln eine Fachtafel an. Fächern, denen Lernfelder zugeordnet werden sollen, weisen Sie im Feld „Unterrichtsart“  „BU“ zu.
+b) Weisen Sie der Klasse des Schülers im Menü Klassen > Zeiträume die Fachtafel im Feld "Fachtafel" zu.  
+c) Anlegen der Lernfelder: Im Schlüsselverzeichnis > Fachthemen legen Sie nun die Lernfelder an. Beachten Sie dabei, dass die ersten beiden Buchstaben der Klasse mit den ersten beiden Buchstaben des Kürzels der Lernfelder identisch sein müssen. Heißt Ihre Klasse zum Beispiel „EB-8R1“ benennen Sie das Kürzel Ihrer Lernfelder zum Beispiel „EB-LF08“, „EB-LF07“ usw. Im Feld „Fach“ weisen Sie dem angelegten „Lernfeld“ das Fach, zu dem es zugeordnet werden soll. Im Feld „Statistik-ID“ weisen Sie das Ausbildungsjahr zu.
 
 **(A0409)** `Schüler > Zeugnis > Leistungen > Durchschnitt 1/Durchschnitt 2`
 
 Die Abschlusssnote des Berufschulabschluss tragen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld „Durchschnitt 1“ ein.
 Die Abschlusssnote der Fachhochschulreife tragen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld „Durchschnitt 2“ ein.
 
+**Ausbildungsjahr**
 
-**(A0414)** `Schüler > Zeugnis > Details > Ausbildungsjahr`
+`Schüler > Zeugnis > Details > Ausbildungsjahr`
 
 Das Ausbildungsjahr wird im Menü `Schüler > Zeugnis > Details` im Feld „Ausbildungsjahr“ eingetragen.
 
-**(A0415)** `Lehrer > Daten 2 > Amtsbez.`
+**Amtsbezeichnung LehrerIn**
+
+`Lehrer > Daten 2 > Amtsbez.`
 
 Die Amtsbezeichnung des Schulleiters / Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld „Amtsbez.“ ein. Grundlage für das Zuweisen einer Amtsbezeichnung bildet das `Schlüsselverzeichnis > Amtsbezeichnungen`.
 
-**(A0416)** `Schüler > Zeugnis > Fächer > Faktor`
+**Kennzeichnung der Note mit dem Gewichtungsfaktor 2**
 
-Um Fächern mit der Fussnote "2)"zu versehen (zur Kennzeichnung der Note mit dem Gewichtungsfaktor 2 ), weisen Sie dem Fach unter `Schüler > Zeugnis > Fächer` im Feld "Faktor" den Wert "2" zu.
+`Schüler > Zeugnis > Fächer > Faktor`
 
-**(A0417)** `Schüler > Zeugnis > Details > Fehlstunden / davon unentschuldigt`
+Um Fächern mit der Fussnote "2)"zu versehen (zur Kennzeichnung der Note mit dem Gewichtungsfaktor 2 ), weisen Sie dem Fach unter`Schüler > Zeugnis > Fächer` im Feld "Faktor" den Wert "2" zu.
+
+**Fehlstunden / davon unentschuldigt**
+
+`Schüler > Zeugnis > Details`
 
 Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern „Fehlstunden“ und „davon unentschuldigt“ erfolgen.
 
@@ -495,7 +512,9 @@ DB | DB | Differenzierungsbereich
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -537,7 +556,9 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` bzw. im Menü `Abitur > Qualifikation` pro Fach eine Position in der Spalte "Position" angegeben werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -596,15 +617,21 @@ Kürzel | Bezeichnung
 2F | Berufsgrundbildung u. Sekundarabschluss I (Hauptschulabschl. Nach Klasse 10)
 2D | Berufsgrundbildung u. Sekundarabschluss I (Hauptschulabschl. Nach Klasse 10)
 
-**(A0415)** `Lehrer > Daten 2 > Amtsbez.`
+**Amtsbezeichnung LehrerIn**
+
+`Lehrer > Daten 2 > Amtsbez.`
 
 Die Amtsbezeichnung des Schulleiters / Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld „Amtsbez.“ ein. Grundlage für das Zuweisen einer Amtsbezeichnung bildet das `Schlüsselverzeichnis > Amtsbezeichnungen`.
 
-**(A0416)** `Schüler > Zeugnis > Fächer > Faktor`
+**Kennzeichnung der Note mit dem Gewichtungsfaktor 2**
 
-Um Fächern mit der Fussnote "2)"zu versehen (zur Kennzeichnung der Note mit dem Gewichtungsfaktor 2 ), weisen Sie dem Fach unter `Schüler > Zeugnis > Fächer` im Feld "Faktor" den Wert "2" zu.
+`Schüler > Zeugnis > Fächer > Faktor`
 
-**(A0417)** `Schüler > Zeugnis > Details > Fehlstunden / davon unentschuldigt`
+Um Fächern mit der Fussnote "2)"zu versehen (zur Kennzeichnung der Note mit dem Gewichtungsfaktor 2 ), weisen Sie dem Fach unter`Schüler > Zeugnis > Fächer` im Feld "Faktor" den Wert "2" zu.
+
+**Fehlstunden / davon unentschuldigt**
+
+`Schüler > Zeugnis > Details`
 
 Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern „Fehlstunden“ und „davon unentschuldigt“ erfolgen.
 
@@ -667,7 +694,9 @@ DB | DB | Differenzierungsbereich
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -703,7 +732,9 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` bzw. im Menü `Abitur > Qualifikation` pro Fach eine Position in der Spalte "Position" angegeben werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -736,19 +767,27 @@ Kürzel | Bezeichnung
 2F | Abschlusszeugnis
 2G | Abschlusszeugnis und Hauptschulabschluss
 
-**(A0414)** `Schüler > Zeugnis > Details > Ausbildungsjahr`
+**Ausbildungsjahr**
 
-Das Ausbildungsjahr wird im Menü `chüler > Zeugnis > Details` im Feld „Ausbildungsjahr“ eingetragen.
+`Schüler > Zeugnis > Details > Ausbildungsjahr`
 
-**(A0415)** `Lehrer > Daten 2 > Amtsbez.`
+Das Ausbildungsjahr wird im Menü `Schüler > Zeugnis > Details` im Feld „Ausbildungsjahr“ eingetragen.
+
+**Amtsbezeichnung LehrerIn**
+
+`Lehrer > Daten 2 > Amtsbez.`
 
 Die Amtsbezeichnung des Schulleiters / Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld „Amtsbez.“ ein. Grundlage für das Zuweisen einer Amtsbezeichnung bildet das `Schlüsselverzeichnis > Amtsbezeichnungen`.
 
-**(A0416)** `Schüler > Zeugnis > Fächer > Faktor`
+**Kennzeichnung der Note mit dem Gewichtungsfaktor 2**
 
-Um Fächern mit der Fussnote "2)"zu versehen (zur Kennzeichnung der Note mit dem Gewichtungsfaktor 2 ), weisen Sie dem Fach unter `Schüler > Zeugnis > Fächer` im Feld "Faktor" den Wert "2" zu.
+`Schüler > Zeugnis > Fächer > Faktor`
 
-**(A0417)** `Schüler > Zeugnis > Details > Fehlstunden / davon unentschuldigt`
+Um Fächern mit der Fussnote "2)"zu versehen (zur Kennzeichnung der Note mit dem Gewichtungsfaktor 2 ), weisen Sie dem Fach unter`Schüler > Zeugnis > Fächer` im Feld "Faktor" den Wert "2" zu.
+
+**Fehlstunden / davon unentschuldigt**
+
+`Schüler > Zeugnis > Details`
 
 Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern „Fehlstunden“ und „davon unentschuldigt“ erfolgen.
 
@@ -853,11 +892,15 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
+
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -934,11 +977,15 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster..
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
+
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -989,13 +1036,18 @@ Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet d
 
 Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis Schwerpunkte.
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0037.1)** `Schlüsselverzeichnis > Schwerpunkte UND Schlüsselverzeichnis > Bildungsgänge`
+**Fachrichtung**
 
-Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` die Fachrichtung im Feld `Fachrichtung` zu. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachrichtungen`.
+`Schlüsselverzeichnis > Schwerpunkte` UND 
+`Schlüsselverzeichnis > Bildungsgänge`
+
+Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` die Fachrichtung im Feld "Fachrichtung" zu. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachrichtungen`.
 
 **SchulleiterIn** 
 
@@ -1013,7 +1065,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -1061,9 +1115,11 @@ Platzhalter | Ausgabe im Bericht
 
 ## NRW-BF-HJZ.rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **Zeiträume**
 
@@ -1106,7 +1162,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 AG | AG | Teilnahme an Arbeitsgemeinschaften
 FP | FP | Fachpraxis im Berufsfeld
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -1116,9 +1174,11 @@ Weisen Sie unter  `Schlüsselverzeichnisse > Bildungsgänge` das Berufsfeld im F
 
 ## NRW-BF-JZ (Einjährige Berufsfachschule).rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **Zeiträume**
 
@@ -1181,7 +1241,9 @@ Diff | Diff | Differenzierungsbereich
 FachPP | FachPP | Fachpraktische Prüfung
 leer | leer | weitere Unterrichtsveranstaltungen
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -1234,9 +1296,11 @@ Platzhalter | Ausgabe im Bericht
 
 ## NRW-BG-HJZ VZ Jahrgangsstufe 11 (Anlage D32).rpt
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Zeugniskonferenzdatum**
 
@@ -1304,7 +1368,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -1425,7 +1491,9 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgan
 
 Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -1464,7 +1532,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 AG | AG | Teilnahme an Arbeitsgemeinschaften
 FP | FP | Fachpraxis im Berufsfeld
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -1503,7 +1573,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 AG | AG | Teilnahme an Arbeitsgemeinschaften
 FP | FP | Fachpraxis im Berufsfeld
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -1540,9 +1612,11 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgan
 
 ## NRW-BGJ-HJZ (Vorklasse).rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **Zeiträume**
 
@@ -1585,7 +1659,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 AG | AG | Teilnahme an Arbeitsgemeinschaften
 FP | FP | Fachpraxis im Berufsfeld
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -1595,9 +1671,11 @@ Weisen Sie unter  `Schlüsselverzeichnisse > Bildungsgänge` das Berufsfeld im F
 
 ## NRW-BGJ-HJZ.rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **Zeiträume**
 
@@ -1640,7 +1718,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 AG | AG | Teilnahme an Arbeitsgemeinschaften
 FP | FP | Fachpraxis im Berufsfeld
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -1650,13 +1730,17 @@ Weisen Sie unter  `Schlüsselverzeichnisse > Bildungsgänge` das Berufsfeld im F
 
 ## NRW-BK-ABI (Anlage D33a).rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+**Jahrgang Klasse**
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Zeugniskonferenzdatum**
 
@@ -1697,7 +1781,7 @@ sprachl.-lit.-künstlerisch > 1. Aufgabenfeld
 gesellschaftswiss. > 2. Aufgabenfeld
 mathem.-nat.-technisch > 3. Aufgabenfeld
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -1729,7 +1813,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -1830,7 +1916,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-**(A0111)** `Ausdruck`
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
@@ -1841,18 +1927,21 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0218)** `Abitur > Qualifikation > Manuelles Markieren`
+**manuelles Markieren von eingebrachten Kursen**
 
-Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesamtpunktzahl des schulischen Teils der Fachhochschulreife. D.h. markieren Sie im Menü `Abitur > Qualifikation` die Option
-"Manuelles Markieren", wählen Sie die Option "Kurse einbringen" und klicken Sie die entsprechenden Kurse an. Die eingebrachten Kurse werden gelb markiert.
+`Abitur > Qualifikation > Manuelles Markieren`
+
+Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesamtpunktzahl des schulischen Teils der Fachhochschulreife. D.h. markieren Sie im Menü `Abitur > Qualifikation` die Option "Manuelles Markieren", wählen Sie die Option "Kurse einbringen" und klicken Sie die entsprechenden Kurse an. Die eingebrachten Kurse werden gelb markiert.
 
 **(A0388)** `Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld `Zeugnisdatum` ein.
 
-**(A0555)** `Abitur > Qualifikation > Manuelles Markieren`
+**Eingebrachte und belegende Kurse im Bereich `Abitur`**
 
-Eingebrachte und belegende Kurse unterscheiden Sie, in dem Sie bei eingebrachten Kursen im Menü `Abitur > Qualifikation` die Option „Manuelles Markieren“ wählen und die einzubringenden Noten der Fächer markieren. Die eingebrachten Kurse werden dann gelb oder rot markiert. Belegende Kurse markieren Sie nicht, diese bleiben weiß. Siehe auch A0218.
+ `Abitur > Qualifikation `
+
+Eingebrachte und belegende Kurse unterscheiden Sie, in dem Sie bei eingebrachten Kursen im Menü  `Abitur > Qualifikation ` die Option `Manuelles Markieren ` wählen und die einzubringenden Noten der Fächer markieren. Die eingebrachten Kurse werden dann gelb oder rot markiert. Belegende Kurse markieren Sie nicht, diese bleiben weiß.
 
 ## NRW-BK-ABI (Anlage D33b - 2014).rpt
 
@@ -1879,14 +1968,12 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0019.17)** 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-**(A0111)** `Ausdruck`
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
@@ -1897,20 +1984,27 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**(A0218)** `Abitur > Qualifikation > Manuelles Markieren`
+**manuelles Markieren von eingebrachten Kursen**
 
-Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesamtpunktzahl des schulischen Teils der Fachhochschulreife. D.h. markieren Sie im Menü `Abitur > Qualifikation` die Option
-"Manuelles Markieren", wählen Sie die Option "Kurse einbringen" und klicken Sie die entsprechenden Kurse an. Die eingebrachten Kurse werden gelb markiert.
+`Abitur > Qualifikation > Manuelles Markieren`
 
-**(A0388)** Abitur > Prüfung > Konferenzdatum
+Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesamtpunktzahl des schulischen Teils der Fachhochschulreife. D.h. markieren Sie im Menü `Abitur > Qualifikation` die Option "Manuelles Markieren", wählen Sie die Option "Kurse einbringen" und klicken Sie die entsprechenden Kurse an. Die eingebrachten Kurse werden gelb markiert.
+
+**Konferenzdatum Bereich `Abitur`**
+
+`Abitur > Prüfung` 
 
 Tragen Sie das Datum der Zeugniskonferenz im Menü `Abitur > Prüfung` im Feld "Konferenzdatum" ein.
 
-**(A0555)** `Abitur > Qualifikation > Manuelles Markieren`
+**Eingebrachte und belegende Kurse im Bereich `Abitur`**
 
-Eingebrachte und belegende Kurse unterscheiden Sie, in dem Sie bei eingebrachten Kursen im Menü `Abitur > Qualifikation` die Option „Manuelles Markieren“ wählen und die einzubringenden Noten der Fächer markieren. Die eingebrachten Kurse werden dann gelb oder rot markiert. Belegende Kurse markieren Sie nicht, diese bleiben weiß. Siehe auch A0218.
+ `Abitur > Qualifikation `
 
-**(A0565)** `Abitur > Qualifikation > Merkmal (N)`
+Eingebrachte und belegende Kurse unterscheiden Sie, in dem Sie bei eingebrachten Kursen im Menü  `Abitur > Qualifikation ` die Option `Manuelles Markieren ` wählen und die einzubringenden Noten der Fächer markieren. Die eingebrachten Kurse werden dann gelb oder rot markiert. Belegende Kurse markieren Sie nicht, diese bleiben weiß.
+
+**Kennzeichnung Kurse des Differenzierungsbereich mit Null Punkten**
+
+`Abitur > Qualifikation > Merkmal (N)`
 
 Eine Zulassung zum Abitur ist bei Kursen des Differenzierungsbereich auch mit Null Punkten möglich, wenn  diese nicht eingebracht werden. Kennzeichnen Sie diese Kurse im Menü `Abitur > Qualifikation` in der Spalte „Merkmal“ mit einem „N“.
 
@@ -1945,15 +2039,19 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0388)** `Abitur > Prüfung > Konferenzdatum`
+**Konferenzdatum Bereich `Abitur`**
+
+`Abitur > Prüfung` 
 
 Tragen Sie das Datum der Zeugniskonferenz im Menü `Abitur > Prüfung` im Feld "Konferenzdatum" ein.
 
 ## NRW-BK-ABI (Anlage D34).rpt
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Zeugniskonferenzdatum**
 
@@ -1993,7 +2091,9 @@ Diff  | Diff  | Differenzierungsbereich
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -2026,7 +2126,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -2120,7 +2222,7 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -2235,7 +2337,7 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -2446,7 +2548,7 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -2570,13 +2672,19 @@ Diff  | Diff  | Differenzierungsbereich
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0037.1)** `Schlüsselverzeichnis > Schwerpunkte UND Schlüsselverzeichnis > Bildungsgänge`
+**Fachrichtung**
 
-Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` die Fachrichtung im Feld `Fachrichtung` zu. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachrichtungen`.
+`Schlüsselverzeichnis > Schwerpunkte` UND 
+`Schlüsselverzeichnis > Bildungsgänge`
+
+Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` die Fachrichtung im Feld "Fachrichtung" zu. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachrichtungen`.
+
 **SchulleiterIn** 
 
 `Mandanten > Daten 1 > Schulleiter`
@@ -2599,7 +2707,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -2639,9 +2749,11 @@ Platzhalter | Ausgabe im Bericht
 
 ## NRW-BK-AZ (Anlage D 31).rpt
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Zeugniskonferenzdatum**
 
@@ -2675,13 +2787,18 @@ DB | DB | Differenzierungsbereich
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0041)** `Klasse > Bildungsgang` ODER `Schüler > Ausbildung > Bildungsgang`
+**Ausgabe Bildungsganges**
 
-Für die Ausgabe des Bildungsganges müssen Sie entweder den Bildungsgang einer Klasse definieren (folgen Sie hierbei den Anmerkungen in A35)** oder den des Schülers (folgen Sie hierbei den Anmerkungen in A37).
+`Klasse > Bildungsgang` ODER 
+`Schüler > Ausbildung > Bildungsgang`
+
+Für die Ausgabe des Bildungsganges müssen Sie entweder den Bildungsgang einer Klasse definieren oder den des Schülers.
 
 **SchulleiterIn** 
 
@@ -2705,7 +2822,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -2755,9 +2874,11 @@ Platzhalter | Ausgabe im Bericht
 
 ## NRW-BK-AZ (Anlage D30).rpt
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Zeugniskonferenzdatum**
 
@@ -2815,7 +2936,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -2824,9 +2947,11 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**(A0216)** Mandanten >Daten 1 > Ort
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
+
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
 **Ausdruck** `Ausdruck`
 
@@ -2891,9 +3016,11 @@ Platzhalter | Ausgabe im Bericht
 
 ## NRW-BK-AZ (Anlage D35).rpt
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Aufgabenbereich**
 
@@ -3023,7 +3150,9 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -3049,14 +3178,18 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0216)** Mandanten >Daten 1 > Ort
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
+
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
 **Ausdruck** `Ausdruck`
 
@@ -3114,9 +3247,11 @@ Platzhalter | Ausgabe im Bericht
 
 ## NRW-BK-JZ (Anlage C14 - 1 Seitig).rpt
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Zeugniskonferenzdatum**
 
@@ -3156,7 +3291,9 @@ Diff  | Diff  | Differenzierungsbereich
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -3189,7 +3326,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -3229,9 +3368,11 @@ Platzhalter | Ausgabe im Bericht
 
 ## NRW-BK-JZ (Anlage C14 - 2 Seitig).rpt
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Zeugniskonferenzdatum**
 
@@ -3287,13 +3428,19 @@ Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet d
 
 Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das `Schlüsselverzeichnis > Schwerpunkte`.
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0037.1)** `Schlüsselverzeichnis > Schwerpunkte UND Schlüsselverzeichnis > Bildungsgänge`
+**Fachrichtung**
 
-Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` die Fachrichtung im Feld `Fachrichtung` zu. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachrichtungen`.
+`Schlüsselverzeichnis > Schwerpunkte` UND 
+`Schlüsselverzeichnis > Bildungsgänge`
+
+Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` die Fachrichtung im Feld "Fachrichtung" zu. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachrichtungen`.
+
 **SchulleiterIn** 
 
 `Mandanten > Daten 1 > Schulleiter`
@@ -3316,7 +3463,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -3373,13 +3522,17 @@ Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü
 
 Dieser Bericht gibt die Zeugnisbemerkungen aus dem Bereich `Schüler > Zeugnis > Zeugnis > Zeugnisbemerkungen` für das beim Druck gewählte Halbjahr aus.
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+**Jahrgang Klasse**
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Fehltage, Fehlstunden**
 
@@ -3415,7 +3568,7 @@ sprachl.-lit.-künstlerisch > 1. Aufgabenfeld
 gesellschaftswiss. > 2. Aufgabenfeld
 mathem.-nat.-technisch > 3. Aufgabenfeld
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -3437,9 +3590,11 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0172)** `Abitur > Prüfung > Konferenzdatum`
+**Konferenzdatum**
 
-Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Konferenzdatum" ein. 
+`Abitur > Prüfung > Konferenzdatum`
+
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Konferenzdatum" ein.
 
  **Fächerpositionierung**
 
@@ -3580,13 +3735,17 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-**(A0081)** `Abitur > Zeugnis > Zeugnisbemerkungen > Position`
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
-Zum Eintragen einer Zeugnisbemerkung muss im `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
+**Positionierung der Zeugnisbemerkungen** 
+
+`Abitur > Zeugnis > Zeugnisbemerkungen > Position`
+
+Zum Eintragen einer Zeugnisbemerkung muss im Bereich `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
 ## NRW-BKO-ABI (Bescheinigung Schullaufbahn4).rpt
@@ -3650,9 +3809,11 @@ sprachl.-lit.-künstlerisch > 1. Aufgabenfeld
 gesellschaftswiss. > 2. Aufgabenfeld
 mathem.-nat.-technisch > 3. Aufgabenfeld
 
-**(A0172)** `Abitur > Prüfung > Konferenzdatum`
+**Konferenzdatum**
 
-Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Konferenzdatum" ein. 
+`Abitur > Prüfung > Konferenzdatum`
+
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Konferenzdatum" ein.
 
  **Fächerpositionierung**
 
@@ -3660,7 +3821,7 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Konferenzdatum
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck** 
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -3670,9 +3831,11 @@ Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **SchulleiterIn** 
 
@@ -3686,13 +3849,17 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-**(A0081)** `Abitur > Zeugnis > Zeugnisbemerkungen > Position`
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
-Zum Eintragen einer Zeugnisbemerkung muss im `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
+**Positionierung der Zeugnisbemerkungen** 
+
+`Abitur > Zeugnis > Zeugnisbemerkungen > Position`
+
+Zum Eintragen einer Zeugnisbemerkung muss im Bereich `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
 ## NRW-BKO-ABI.rpt
@@ -3805,13 +3972,15 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
 
 **SchulleiterIn** 
 
@@ -3825,9 +3994,11 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0081)** `Abitur > Zeugnis > Zeugnisbemerkungen > Position`
+**Positionierung der Zeugnisbemerkungen** 
 
-Zum Eintragen einer Zeugnisbemerkung muss im `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
+`Abitur > Zeugnis > Zeugnisbemerkungen > Position`
+
+Zum Eintragen einer Zeugnisbemerkung muss im Bereich `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
 ## NRW-BKO-AS (Technik).rpt
@@ -3875,26 +4046,34 @@ FP | FP | Fachpraktische Prüfung
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-**(A0038)** `Klasse > Bildungsgang > Fachrichtung` ODER `Schüler > Ausbildung > Bildungsgang > Fachrichtung`
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
 
-Für die Ausgabe der Fachrichtung müssen Sie entweder der Klasse einen Bildungsgang mit Fachrichtung zuweisen oder dem Schüler unter `Schüler > Ausbildung >  Editieren oder neuzuweisen > Bildungsgang` einen BIldungsgang mit hinterlegter Fachrichtung. 
-Bereiten Sie dazu unter `Extras > Schlüsselverzeichnisse` die gewünschten Fachrichtungen im gleichnamigen Verzeichnis vor. Die angelegten Fachrichtungen weisen Sie im Schlüsselverzeichnis `Bildungsgänge` den jeweiligen Bildungsgängen zu.
+**Fachrichtung**
 
-**(A0041)** `Klasse > Bildungsgang` ODER `Schüler > Ausbildung > Bildungsgang`
+`Klasse > Fachrichtung` oder `Schüler > Ausbildung > Bildungsgang`
 
-Für die Ausgabe des Bildungsganges müssen Sie entweder den Bildungsgang einer Klasse definieren (folgen Sie hierbei den Anmerkungen in A35)** oder den des Schülers (folgen Sie hierbei den Anmerkungen in A37).
+Für die Ausgabe der Fachrichtung müssen Sie entweder die Fachrichtung einer Klasse definieren oder die des Schülerbildunganges definieren.
 
-**(A0066)** `Schüler > Laufbahn > Abschluss > Abschlussart`
+**Ausgabe Bildungsganges**
 
-Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` die Abschussart im Feld "Abschlussart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Abschlussarten`. Entscheidend für die Eintragung ist die Markierung des Zeitraumes im linken Bereich.
+`Klasse > Bildungsgang` ODER 
+`Schüler > Ausbildung > Bildungsgang`
+
+Für die Ausgabe des Bildungsganges müssen Sie entweder den Bildungsgang einer Klasse definieren oder den des Schülers.
+
+**Abschlussart Schüler**
+
+`Schüler > Laufbahn > Abschluss > Abschlussart`
+
+Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` die Abschussart im Feld "Abschlussart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Abschlussart`. Entscheidend für die Eintragung ist die Markierung des Zeitraumes im linken Bereich.
 
 ## NRW-BKO-AS.rpt
 
@@ -3921,16 +4100,21 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-**(A0048)** `Schüler > Laufbahn > Abschluss`
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
+
+**Abschlussnote Schüler**
+
+`Schüler > Laufbahn > Abschluss`
+
 Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Abschluss` die Abschussnote unter "Abschluss 1" im Feld "Abschlussnote" ein.
 
 ## NRW-BKO-AZ (2007).rpt
 
-**(A0111)** `Ausdruck`
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
@@ -4005,13 +4189,17 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-**(A0081)** `Abitur > Zeugnis > Zeugnisbemerkungen > Position`
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
-Zum Eintragen einer Zeugnisbemerkung muss im `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
+**Positionierung der Zeugnisbemerkungen** 
+
+`Abitur > Zeugnis > Zeugnisbemerkungen > Position`
+
+Zum Eintragen einer Zeugnisbemerkung muss im Bereich `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
 **(A0602)** 
@@ -4082,31 +4270,41 @@ FP | FP | Fachpraktische Prüfung
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-**(A0038)** `Klasse > Bildungsgang > Fachrichtung` ODER `Schüler > Ausbildung > Bildungsgang > Fachrichtung`
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
 
-Für die Ausgabe der Fachrichtung müssen Sie entweder der Klasse einen Bildungsgang mit Fachrichtung zuweisen oder dem Schüler unter `Schüler > Ausbildung >  Editieren oder neuzuweisen > Bildungsgang` einen BIldungsgang mit hinterlegter Fachrichtung. 
-Bereiten Sie dazu unter `Extras > Schlüsselverzeichnisse` die gewünschten Fachrichtungen im gleichnamigen Verzeichnis vor. Die angelegten Fachrichtungen weisen Sie im Schlüsselverzeichnis `Bildungsgänge` den jeweiligen Bildungsgängen zu.
-**(A0041)** `Klasse > Bildungsgang` ODER `Schüler > Ausbildung > Bildungsgang`
+**Fachrichtung**
 
-Für die Ausgabe des Bildungsganges müssen Sie entweder den Bildungsgang einer Klasse definieren (folgen Sie hierbei den Anmerkungen in A35)** oder den des Schülers (folgen Sie hierbei den Anmerkungen in A37).
+`Klasse > Fachrichtung` oder `Schüler > Ausbildung > Bildungsgang`
 
-**(A0066)** `Schüler > Laufbahn > Abschluss > Abschlussart`
+Für die Ausgabe der Fachrichtung müssen Sie entweder die Fachrichtung einer Klasse definieren oder die des Schülerbildunganges definieren.
+**Ausgabe Bildungsganges**
 
-Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` die Abschussart im Feld "Abschlussart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Abschlussarten`. Entscheidend für die Eintragung ist die Markierung des Zeitraumes im linken Bereich.
+`Klasse > Bildungsgang` ODER 
+`Schüler > Ausbildung > Bildungsgang`
+
+Für die Ausgabe des Bildungsganges müssen Sie entweder den Bildungsgang einer Klasse definieren oder den des Schülers.
+
+**Abschlussart Schüler**
+
+`Schüler > Laufbahn > Abschluss > Abschlussart`
+
+Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` die Abschussart im Feld "Abschlussart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Abschlussart`. Entscheidend für die Eintragung ist die Markierung des Zeitraumes im linken Bereich.
 
 ## NRW-BKO-JZ.rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **Zeiträume**
 
@@ -4145,9 +4343,11 @@ Kürzel |  Schlüssel | Zeugnisbereich
 AG | AG | Teilnahme an Arbeitsgemeinschaften
 FP | FP | Fachpraxis im Berufsfeld
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
 
 ## NRW-BS-AS (A01).rpt
 
@@ -4183,7 +4383,9 @@ DB | DB | Differenzierungsbereich
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
@@ -4220,7 +4422,9 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
 Fach eine Position in der Spalte "Position" angegeben werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -4278,7 +4482,7 @@ Platzhalter | Ausgabe im Bericht
 
 ## NRW-BS-AS (duales System).rpt
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -4289,11 +4493,6 @@ Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
-
-**(A0016)** `Schüler > Zeugnis > Fächer > Merkmal`
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter `Schüler > Zeugnis > Fächer` in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
 **Unterrichtsarten**
 
@@ -4320,9 +4519,11 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
 
 ## NRW-BS-AZ.rpt
 
@@ -4351,9 +4552,11 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster..
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
 
 ## NRW-BS-FHReife.rpt
 
@@ -4400,24 +4603,34 @@ FP | FP | Fachpraktische Prüfung
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-**(A0041)** `Klasse > Bildungsgang` ODER `Schüler > Ausbildung > Bildungsgang`
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
 
-Für die Ausgabe des Bildungsganges müssen Sie entweder den Bildungsgang einer Klasse definieren (folgen Sie hierbei den Anmerkungen in A35)** oder den des Schülers (folgen Sie hierbei den Anmerkungen in A37).
+**Ausgabe Bildungsganges**
 
-**(A0048)** `Schüler > Laufbahn > Abschluss`
+`Klasse > Bildungsgang` ODER 
+`Schüler > Ausbildung > Bildungsgang`
+
+Für die Ausgabe des Bildungsganges müssen Sie entweder den Bildungsgang einer Klasse definieren oder den des Schülers.
+
+**Abschlussnote Schüler**
+
+`Schüler > Laufbahn > Abschluss`
+
 Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Abschluss` die Abschussnote unter "Abschluss 1" im Feld "Abschlussnote" ein.
 
-**(A0066)** `Schüler > Laufbahn > Abschluss > Abschlussart`
+**Abschlussart Schüler**
 
-Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` die Abschussart im Feld "Abschlussart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Abschlussarten`. Entscheidend für die Eintragung ist die Markierung des Zeitraumes im linken Bereich.
+`Schüler > Laufbahn > Abschluss > Abschlussart`
+
+Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` die Abschussart im Feld "Abschlussart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Abschlussart`. Entscheidend für die Eintragung ist die Markierung des Zeitraumes im linken Bereich.
 
 ## NRW-BS-HJZ.rpt
 
@@ -4462,33 +4675,38 @@ Merkmal | Bedeutung
 Kopf  |  Allgemeine Beurteilung
 FS  |  Verbale Beurteilung bzw. Aussagen zum Kompetenzerwerb der Fremdsprache
 
-**(A0029)** `Schüler > Zeugnis > Details > Schulbesuchsjahr`
+**Schulbesuchsjahr**
+
+`Schüler > Zeugnis > Details > Schulbesuchsjahr`
 
 Im entsprechenden Zeitraum muss das Berufsschuljahr im Menü `Schüler > Zeugnis` im Feld "Schulbesuchsjahr" eingetragen sein.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-**(A0037)** `Schüler > Ausbildung > Ausbildungbetriebe > Bildungsgang`
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
+
+**Bildungsgang Schüler**
+
+`Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
 ## NRW-BS-JZ.rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-**Zeiträume**
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+**Jahrgang Klasse**
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Zeugniskonferenzdatum**
 
@@ -4537,13 +4755,17 @@ Merkmal | Bedeutung
 Kopf  |  Allgemeine Beurteilung
 FS  |  Verbale Beurteilung bzw. Aussagen zum Kompetenzerwerb der Fremdsprache
 
-**(A0029)** `Schüler > Zeugnis > Details > Schulbesuchsjahr`
+**Schulbesuchsjahr**
+
+`Schüler > Zeugnis > Details > Schulbesuchsjahr`
 
 Im entsprechenden Zeitraum muss das Berufsschuljahr im Menü `Schüler > Zeugnis` im Feld "Schulbesuchsjahr" eingetragen sein.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
 
 ## NRW-E01-6A-J (Fachschulabschluss +- FHR).rpt
 
@@ -4570,9 +4792,11 @@ DB | DB | Differenzierungsbereich
 FE | FE | Fachschulexamen
 FH-P | FH-P | Leistung Fachhochschulreife (falls belegt siehe auch A0404)
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
 
 **Schulform der Klasse**
 
@@ -4667,22 +4891,27 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0029)** `Schüler > Zeugnis > Details > Schulbesuchsjahr`
+**Schulbesuchsjahr**
+
+`Schüler > Zeugnis > Details > Schulbesuchsjahr`
 
 Im entsprechenden Zeitraum muss das Berufsschuljahr im Menü `Schüler > Zeugnis` im Feld "Schulbesuchsjahr" eingetragen sein.
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-**(A0038)** `Klasse > Bildungsgang > Fachrichtung` ODER `Schüler > Ausbildung > Bildungsgang > Fachrichtung`
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
 
-Für die Ausgabe der Fachrichtung müssen Sie entweder der Klasse einen Bildungsgang mit Fachrichtung zuweisen oder dem Schüler unter `Schüler > Ausbildung >  Editieren oder neuzuweisen > Bildungsgang` einen BIldungsgang mit hinterlegter Fachrichtung. 
-Bereiten Sie dazu unter `Extras > Schlüsselverzeichnisse` die gewünschten Fachrichtungen im gleichnamigen Verzeichnis vor. Die angelegten Fachrichtungen weisen Sie im Schlüsselverzeichnis `Bildungsgänge` den jeweiligen Bildungsgängen zu.
+**Fachrichtung**
+
+`Klasse > Fachrichtung` oder `Schüler > Ausbildung > Bildungsgang`
+
+Für die Ausgabe der Fachrichtung müssen Sie entweder die Fachrichtung einer Klasse definieren oder die des Schülerbildunganges definieren.
 **(A0048)** Schüler > Laufbahn > Abschluss
 
 Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Abschluss` die Abschussnote unter "Abschluss 1" im Feld "Abschlussnote" ein.
@@ -4722,19 +4951,27 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
+`Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
-**(A0041)** `Klasse > Bildungsgang` ODER `Schüler > Ausbildung > Bildungsgang`
+Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
 
-Für die Ausgabe des Bildungsganges müssen Sie entweder den Bildungsgang einer Klasse definieren (folgen Sie hierbei den Anmerkungen in A35)** oder den des Schülers (folgen Sie hierbei den Anmerkungen in A37).
+**Ausgabe Bildungsganges**
 
-**(A0048)** `Schüler > Laufbahn > Abschluss`
+`Klasse > Bildungsgang` ODER 
+`Schüler > Ausbildung > Bildungsgang`
+
+Für die Ausgabe des Bildungsganges müssen Sie entweder den Bildungsgang einer Klasse definieren oder den des Schülers.
+
+**Abschlussnote Schüler**
+
+`Schüler > Laufbahn > Abschluss`
+
 Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Abschluss` die Abschussnote unter "Abschluss 1" im Feld "Abschlussnote" ein.
 
 ## NRW-Gems-JZ-HJZ (5-8).rpt
@@ -4781,7 +5018,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -4794,7 +5033,9 @@ Im Menü `Klassen > Daten` muss im Feld "Beurteilungsart" "Benotung durch Noten"
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck 2".
 
-**(A0417)** `Schüler > Zeugnis > Details > Fehlstunden / davon unentschuldigt`
+**Fehlstunden / davon unentschuldigt**
+
+`Schüler > Zeugnis > Details`
 
 Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern „Fehlstunden“ und „davon unentschuldigt“ erfolgen.
 
@@ -4855,15 +5096,19 @@ Kürzel | Schlüssel | Zeugnisbereich
 FOERDER | FOERDER | Forderunterricht
 FOERDERLRS | FOERDERLRS | Forderunterricht LRS
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 ## NRW-GY (Laufbahnbescheinigung).rpt
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
 
 **(A0033)** `Ausdruck > DIN A 4 Format, doppelseitig`
 
@@ -4938,7 +5183,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -5019,7 +5266,7 @@ Für den Zeugnisdruck des Abiturs bildet die Online Dokumentation die Grundlage.
 
 ## NRW-GY-ABI.rpt
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -5234,9 +5481,11 @@ Die Punkte des "1. Gutachten" tragen Sie im Menü `Abitur > Prüfung` im Feld "s
 
 ## NRW-GY-AZ (Klasse 9-10).rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **Zeiträume**
 
@@ -5308,9 +5557,11 @@ Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweise
 
 ## NRW-GY-HJZ (Klasse 5-8).rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **Zeiträume**
 
@@ -5380,9 +5631,11 @@ Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweise
 
 ## NRW-GY-HJZ (Klasse 9-10).rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **Zeiträume**
 
@@ -5452,9 +5705,11 @@ Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweise
 
 ## NRW-GY-JZ (Hauptschulabschluss).rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **Zeiträume**
 
@@ -5462,9 +5717,11 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Zeugniskonferenzdatum**
 
@@ -5540,9 +5797,11 @@ Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweise
 
 ## NRW-GY-JZ (Jahrgangsstufe 11).rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **Zeiträume**
 
@@ -5550,9 +5809,11 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Fehltage, Fehlstunden**
 
@@ -5712,9 +5973,11 @@ in A37/37.2).
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Zeugniskonferenzdatum**
 
@@ -5901,7 +6164,9 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -5967,9 +6232,11 @@ Kürzel | Schlüssel | Zeugnisbereich
 FOERDER | FOERDER | Forderunterricht
 FOERDERLRS | FOERDERLRS | Forderunterricht LRS
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 ## NRW-GY-ÜZ (Klasse 5-8).rpt
 
@@ -6661,9 +6928,11 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 ## NRW-WG-JZ.rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **Zeiträume**
 
@@ -6671,9 +6940,11 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Zeugniskonferenzdatum**
 

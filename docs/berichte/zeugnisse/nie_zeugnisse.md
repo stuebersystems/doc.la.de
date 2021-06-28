@@ -6,9 +6,11 @@
 
 Halbjahreszeugnis der Grundschule Klasse 1-2
 
-**(A0001)** `Klassen > Daten > Beurteilungsart > Beurteilungstexte`
+**Klassen**
 
-Im `Menü > Klassen > Daten` muss bei der Klasse des Schülers im Feld Beurteilungsart "Beurteilungstexte" zugewiesen sein.
+`Klassen > Daten > Beurteilungsart > Beurteilungstexte`
+
+`Menü > Klassen > Daten` muss bei der Klasse des Schülers im Feld Beurteilungsart "Beurteilungstexte" zugewiesen sein.
 
 **Fach Gesamtbeurteilung anlegen**
 
@@ -61,13 +63,17 @@ wahlb | Wahlbereich
 
 Halbjahreszeugnis der Grundschule Klasse 3-4
 
-**A0002** `Klassen > Daten > Beurteilungsart > Benotung durch Noten` 
+**Benotung in Klassen**
+
+`Klassen > Daten > Beurteilungsart > Benotung durch Noten` 
 
 Im Menü `Klassen > Daten` muss bei der Klasse des Schülers im Feld Beurteilungsart `Benotung durch Noten` angegeben sein. (hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung)
 
-**A0007** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter  `Extras > Schlüsselverzeichnisse > Zeiträume`.  Ausgegeben wird hierbei der Eintrag in der Spalte „Ausdruck2“.
 
 **Fehltage, Fehlstunden**
 
@@ -89,9 +95,11 @@ Abschlusszeugnis der Grundschule Klasse 3-4
 
 Studienbuch, Einführungsphase - zweite Seite
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Fachstatus** 
 
@@ -101,16 +109,9 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.15)** 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
-
-**(A0015.38)** 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
 **Aufgabenbereich**
@@ -118,8 +119,6 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 `Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
-
-**(A0017.9)** 
 
 Aufgabenbereich|  Zeugnisbereich
 --|--
@@ -159,27 +158,30 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Positionierung**
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0216)** Mandanten >Daten 1 > Ort
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
 
-**(A0777)** Schüler > Zeugnis > Bemerkungen/Formulare
-Abitur > Abitur > Zeugnis > Zeugnisbemerkungen
-Berufsschule > Zeugnisbemerkungen
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-Bemerkungen legen Sie entweder im Menü Schüler > Zeugnis > Bemerkungen/Formulare ODER im Menü Abitur > Zeugnis > Zeugnisbemerkungen ODER Abitur > Zeugnis > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
+**Platzhalter in Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis > Bemerkungen/Formulare`und `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` und `Berufsschule > Zeugnisbemerkungen`
+
+Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
 
 Möglich sind:
-
 Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-``<<VornameV>>`` | Vorname Vorname2
+``<<Vorname>>`` | Vorname Vorname2
 ``<<Nachname>>`` | Nachname
 ``<<NachnameV>>`` | Namenszusatz Nachname
 ``<<Name>>`` | Vorname Vorname2 Namenszusatz Nachname
@@ -187,23 +189,27 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<Nachname>>``  |  Nachname des Schülers
 ``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
 ``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
-``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)**     
-``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers)** 
-``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers)** 
-``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers)** 
-``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers)** 
-``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers)** 
-``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)** 
-``<<derSchueler_dieSchuelerin>>``  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)** 
-``<<DemSchueler_DerSchuelerin>>``  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers) 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers) 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers) 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers) 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers) 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)
+``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin  (je nach Geschlecht des Schülers) 
+``<<DemSchueler_DerSchuelerin>> `` |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**A0784** `Schlüsselverzeichnisse > Zeiträume > Art`
+**Zeugnis variabel Halbjahreszeugnis/Jahreszeugnis**
 
-Das Zeugnis ist variabel sowohl als Halbjahreszeugnis als Jahreszeugnis ausgelegt. Entscheidend für die Ausgabe "1. Schulhalbjahr" oder "Schuljahr" ist  der Eintrag unter Schlüsselverzeichnisse > Zeiträume > Art der Eintrag 1. oder 2. Halbjahr.
+`Extras > Schlüsselverzeichnisse > Zeiträume > Art`
 
-**A0818** `Schüler > Auswahl > SchülerID = Kenn.-Nr`
+Das Zeugnis ist variabel sowohl als Halbjahreszeugnis als Jahreszeugnis ausgelegt. Entscheidend für die Ausgabe "1. Schulhalbjahr" oder "Schuljahr" ist  der Eintrag unter `Schlüsselverzeichnisse > Zeiträume > Art` der Eintrag 1. oder 2. Halbjahr.
 
-Als Kenn-Nr. liest der Bericht die SchülerID des Schüler aus.
+**Kenn-Nr. des Schülers**
+
+`Schüler > Auswahl`
+
+Als Kenn-Nr. liest der Bericht die "SchülerID" des Schüler aus.
 
 ### NIE-GY (Studienbuch-Deckblatt).rpt
 
@@ -213,9 +219,11 @@ Als Kenn-Nr. liest der Bericht die SchülerID des Schüler aus.
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0032)** 
+**Berechnungsgrundlage**
 
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
 
 **Schulname** 
 
@@ -224,19 +232,23 @@ Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage.
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**(A0050)** `Schüler > Daten 1 > Familie`
+**Sorgeberechtigten des Schülers**
 
-Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie` die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung"
-"immer" enthalten, relevant.
+`Schüler > Daten 1 > Familie`
 
-**(A0062)** `Schüler > Daten 3 > Verschiedenes > Personalnummer`
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
+
+**Personalnummer**
+
+`Schüler > Daten 3 > Verschiedenes > Personalnummer`
 
 Tragen Sie die Personalnummer im Menü `Schüler > Daten 3` im Bereich "Verschiedenes" im Feld "Personalnummer" ein.
 
-**(A0063)** `Schüler > Daten 2 > Bereits besuchte Schule > letzte Klasse`
+**bereits besuchte Schulen**
 
-Tragen Sie im Menü `Schüler > Daten 2` im Bereich "Bereits besuchte Schule" die zuletzt besuchte Klasse ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie die Eingabe im Feld "Letzte Klasse" vornehmen.
+`Schüler > Daten 2 > Bereits besuchte Schule > letzte Klasse`
+
+Tragen Sie im Menü `Schüler > Daten 2` im Bereich "Bereits besuchte Schule" die zuletzt besuchte Klasse ein. Wenn Sie die Schaltfläche`Hinzufügen` oder`Editieren` anklicken, können Sie die Eingabe im Feld "Letzte Klasse" vornehmen.
 
 ### NIE-GY-AZ (E-Phase) G9.rpt
 
@@ -501,7 +513,9 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0031)** `Ausdruck > DIN A 3 Format, doppelseitig`
+**Ausdruck**
+
+`Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
@@ -530,7 +544,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**(A0111)** `Ausdruck`
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -551,17 +565,21 @@ Kürzel | Bezeichnung | Notenart
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
 
-**(A0205)** `Sonstiges`
+**Besondere Lernleistung anstelle 4. schriftl. Prüfung** 
+
+`Abitur > Prüfung`
 
 Anstelle der 4. schriftlichen Prüfung ist auch eine „Besondere Lernleistung“ möglich.
 Gehen Sie in MAGELLAN wie folgt vor:
 
-Wählt der Schüler anstelle der 4. schriftlichen Prüfung die Einbringung einer „Besonderen Lernleistung“, müssen Sie im `Menü > Abitur > Prüfung` im Feld „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
+Wählt der Schüler anstelle der 4. schriftlichen Prüfung die Einbringung einer „Besonderen Lernleistung“, müssen Sie im Menü `Abitur > Prüfung` im Feld „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
 Die schriftliche Note für die „Besondere Lernleistung" tragen Sie im 1. Notenfeld ganz links ein. Folglich ist keine schriftliche Note unter „Prüfungsfächer“ im 4. PF zugewiesen (Feld bleibt leer).
 
-**(A0216)** `Mandanten >Daten 1 > Ort`
+**Mandanten / Ort**
 
-Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
+`Mandanten > Daten 1 > Ort`
+
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
 **Prüfungsvorsitz** 
 
@@ -569,33 +587,42 @@ Der Schulort (bzw. Ausstellungsort)** ergibt sich aufgrund der Eintragung im Men
 
 Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
 
-**(A0373)** `Schlüsselverzeichnisse > Fächer > Aufgabenbereich (Seminar)`
+**Seminarfach**
 
-Weisen Sie dem Fach "Seminarfach" im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" der Wert "Seminar" zu.
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
-**(A0374)** `Schüler > Daten 3 > Fremdsprachenfolge`
+Bitte benutzen Sie für das Seminarfach unter `Extras > Schlüsselverzeichnisse > Fächer` in der Spalte "Kategorie" den Wert „Seminar“.
+
+**Pflichtfremdsprachen / Wahlsprachen**
+
+`Schüler > Daten 3 > Fremdsprachenfolge`
 
 Die Fremdsprachen des Schülers tragen Sie wie folgt ein:
 
-1) Pflichtfremdsprachen: Diese tragen Sie im Menü Schüler > Daten 3 im Bereich "Fremdsprachenfolge" ein. Im Feld "Zusatz" markieren Sie die entsprechenden Sprachen mit "Pflichtfach". Sie können max. 4 Pflichtfremdsprachen auswählen, beachten Sie aber bitte, dass bei der Auswahl von 4 Fremdsprachen keine "Wahlsprachen" mehr ausgewählt werden können.
+Fremdsprachen | Eintragung in MAGELLAN wie folgt
+--|-- 
+Pflichtfremdsprachen | Diese tragen Sie im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" ein. Im Feld "Zusatz" markieren Sie die entsprechenden Sprachen mit "Pflichtfach". Sie können max. 4 Pflichtfremdsprachen auswählen, beachten Sie aber bitte, dass bei der Auswahl von 4 Fremdsprachen keine "Wahlsprachen" mehr ausgewählt werden können.
+Wahlsprachen | Diese tragen Sie im im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" ein. Beachten Sie bitte, dass nur die 3. und/oder 4. Fremdsprache eine Wahlsprache sein kann. Im Feld "Zusatz" markieren Sie die entsprechenden Sprachen mit "Wahlfach (fakultative FS)".
 
-2) Wahlsprachen: Diese tragen Sie im im Menü Schüler > Daten 3 im Bereich "Fremdsprachenfolge" ein. Beachten Sie bitte, dass nur die 3. und/oder 4. Fremdsprache eine Wahlsprache sein kann. Im Feld "Zusatz" markieren Sie die entsprechenden Sprachen mit "Wahlfach (fakultative FS)".
-
-Beachten Sie bitte zudem, dass zuerst die Pflichtfremdsprachen und im Anschluss die  Wahlsprachen angelegt werden müssen.
+Beachten Sie bitte zudem, dass zuerst die Pflichtfremdsprachen und im Anschluss die Wahlsprachen angelegt werden müssen.
 
 ### NIE-GY-FHReife (Bescheinigung).rpt
 
-**(A0111)** `Ausdruck`
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-**(A0131)** `Schüler > Zeugnis > Details > Tutor`
+**TutorIn**
 
-Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
+`Schüler > Zeugnis > Details > Tutor`
 
-**(A0175)** `Abitur > Qualifikation > Durchschnitt`
+Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
-Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü Abitur > Qualifikation im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist.
+**Durchschnitt Fachhochschulreife**
+
+`Abitur > Qualifikation > Durchschnitt`
+
+Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Abitur > Qualifikation` im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist. Der Durchschnitt wird auch automatisch durch das Fachoberschulschulskript berechnet und entsprechend hinterlegt.
 
 **Schulart der Klasse**
 
@@ -621,12 +648,15 @@ FA | FA | Facharbeit
 
 Tragen Sie den Zeitraum für die Notenberechnung im Menü `Abitur > Qualifikation` im Feld "Eingebrachte Halbjahre" ein. Beachten Sie bitte, dass Sie im Menü `Abitur > Qualifikation` im Feld "Status" "Fachhochschulreife berechnen" ausgewählt haben
 
-**(A0218)** `Abitur > Qualifikation > Manuelles Markieren`
+**manuelles Markieren von eingebrachten Kursen**
 
-Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesamtpunktzahl des schulischen Teils der Fachhochschulreife. D.h. markieren Sie im Menü Abitur > Qualifikation > die Option
-"Manuelles Markieren", wählen Sie die Option "Kurse einbringen" und klicken Sie die entsprechenden Kurse an. Die eingebrachten Kurse werden gelb markiert.
+`Abitur > Qualifikation > Manuelles Markieren`
 
-**(A0030)** `Abitur > Qualifikation`
+Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesamtpunktzahl des schulischen Teils der Fachhochschulreife. D.h. markieren Sie im Menü `Abitur > Qualifikation` die Option "Manuelles Markieren", wählen Sie die Option "Kurse einbringen" und klicken Sie die entsprechenden Kurse an. Die eingebrachten Kurse werden gelb markiert.
+
+**Abitur**
+
+`Abitur > Qualifikation`
 
 Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü `Abitur > Qualifikation` die Grundlage für die Ausgabe. Es werden die Angaben in den Feldern "Durchschnitt" bzw. "Gesamtpunktzahl" verwendet.
 
@@ -765,8 +795,6 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-**(A0015.9)** 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
