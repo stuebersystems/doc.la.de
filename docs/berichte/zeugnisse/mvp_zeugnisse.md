@@ -825,9 +825,13 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü `Abitur > Zeugnis`
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
+**Zeugnisdatum**
+
 `Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
+
+**Ort des Druckdatums**
 
 `Mandanten > Daten 1 > Ort`
 
@@ -882,21 +886,31 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin  (je nach Geschlecht des Schülers) 
 ``<<DemSchueler_DerSchuelerin>> `` |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)"
 
+**Sprachkenntnisse**
+
 `Abitur > Prüfung > Sprachkenntnisse`
 
 Das kleine, mittlere bzw. große Latinum etc. wird auf dem Zeugnis ausgegeben, wenn Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` das dafür vorgesehene Feld markieren.
 
-`Sonstiges`
+**Ausgabe der in der Einführungsphase neu beginnenden Fremdsprache**
 
 Die Ausgabe der "In der Einführungsphase neu beginnende Fremdsprache" erfolgt aufgrund der eingetragenen Jahrgangsstufe der Fremdsprachen im Menü `Schüler > Daten 3`. Sprachen, die ab JG 11 beginnen, werden hier als neu beginnende Fremdsprache erkannt.
+
+**Facharbeit / Besondere Lernleistung**
 
 `Abitur > Prüfung`
 
 Auf dem Zeugnis kann eine „Facharbeit“ und eine "besondere Lernleistung“ ausgegeben werden. 
 
-**Besonderen Lernleistung**: Hier müssen Sie im Menü `Abitur > Prüfung` im Bereich „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld "Thema" zu. Das Gesamtergebnis in einfacher Wertung tragen Sie im 1. Notenfeld ganz links ein.
+|Besonderen Lernleistung| 
+|:--|
+|Hier müssen Sie im Menü `Abitur > Prüfung` im Bereich „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld "Thema" zu. Das Gesamtergebnis in einfacher Wertung tragen Sie im 1. Notenfeld ganz links ein.|
 
-**Facharbeit**: Zur Ausgabe der „Facharbeit“ müssen Sie im Menü `Abitur > Prüfung` im Bereich "Projekt“ das entsprechende Fach zuweisen und das Optionsfeld „Projekt einbringen“ markieren. Das Thema des Projektes weisen Sie analog dem entsprechenden Feld im Feld "Thema" zu. Das Gesamtergebnis in einfacher Wertung tragen Sie im 1. Notenfeld ganz links ein.
+|Facharbeit|
+|:--|
+|Zur Ausgabe der „Facharbeit“ müssen Sie im Menü `Abitur > Prüfung` im Bereich "Projekt“ das entsprechende Fach zuweisen und das Optionsfeld „Projekt einbringen“ markieren. Das Thema des Projektes weisen Sie analog dem entsprechenden Feld im Feld "Thema" zu. Das Gesamtergebnis in einfacher Wertung tragen Sie im 1. Notenfeld ganz links ein.|
+
+**Kennzeichnung berufliches Schwerpunktfach/berufliche Fach**
 
 `Extras > Schlüsselverzeichnisse > Fächer > Zeugnismerkmal`
 
@@ -911,6 +925,8 @@ BF | berufliche Fach
 
 *Anlage 09 / FG (Mitteilungsblatt Nr. 5/2019)*
 
+**Unterrichtsarten**
+
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im `Schlüsselverzeichnis > Fachtafeln` die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
@@ -921,10 +937,15 @@ Kürzel | Schlüssel | Zeugnisbereich
 L-Kurs | L  | Leistungskurse (L-Kurse), Kurse auf erhöhtem Anforderungsniveau"
 G-Kurs | G | Grundkurse (G-Kurse), Kurs auf grundlegendem Anforderungsniveau"
 
-**A0045** `Mandanten > Daten > Name 1`
+**Schuldaten**
+
+`Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
-**A0077** `Mandanten > Daten 1 > Schulleiter`
+
+**SchulleiterIn**
+
+`Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
 
@@ -944,11 +965,15 @@ Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details
 
 Tragen Sie die Durchschnittsnote des jeweiligen Schülers im Menü `Abitur > Qualifikation` im Feld "Durchschnitt" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist. Der Durchschnitt wird auch automatisch durch das Fachoberschulschulskript berechnet und entsprechend hinterlegt.
 
-**A0176** `Abitur > Qualifikation > Zeugnisdatum`
+**Zeugnisdatum FHR**
+
+`Abitur > Qualifikation > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Qualifikation` im Feld "Zeugnisdatum" ein. Beachten Sie bitte, dass unter "Status" "Fachhochschulreife berechnen" ausgewählt ist.
 
-**A0213** `Abitur > Qualifikation > Status > Fachhochschulreife berechnen`
+**eingebrachte Halbjahres f. Berechnung der FHR**
+
+`Abitur > Qualifikation > Status > Fachhochschulreife berechnen`
 
 Wählen Sie die eingebrachten Halbjahre für die Notenberechnung im Menü `Abitur > Qualifikation` im Feld "Eingebrachte Halbjahre" aus. Beachten Sie bitte, dass Sie im Menü `Abitur > Qualifikation` im Feld "Status" "Fachhochschulreife berechnen" ausgewählt haben.
 
@@ -964,9 +989,11 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesamtpunktzahl des schulischen Teils der Fachhochschulreife. D.h. markieren Sie im Menü `Abitur > Qualifikation` die Option "Manuelles Markieren", wählen Sie die Option "Kurse einbringen" und klicken Sie die entsprechenden Kurse an. Die eingebrachten Kurse werden gelb markiert.
 
-**A0681** `Abitur > Qualifikation > Status > Fachhochschulreife berechnen`
+**Ergebnisse außerhalb der Gesamtpunktzahl**
 
-Ergebnisse außerhalb der Gesamtpunktzahl: Je nachdem, welche Halbjahre Sie im Bereich "Fachhochschulreife" im "Feld" „Eingebrachte Halbjahre“ ausgewählt haben, erscheinen in „Ergebnisse außerhalb der Gesamtpunktzahl“ die Fächer, die nicht eingebracht wurden.
+`Abitur > Qualifikation > Status > Fachhochschulreife berechnen`
+
+Je nachdem, welche Halbjahre Sie im Bereich "Fachhochschulreife" im "Feld" „Eingebrachte Halbjahre“ ausgewählt haben, erscheinen in „Ergebnisse außerhalb der Gesamtpunktzahl“ die Fächer, die nicht eingebracht wurden.
 
 ## MVP-FG (Bescheinigung über den schulischen Teil).rpt
 
@@ -974,7 +1001,7 @@ Ergebnisse außerhalb der Gesamtpunktzahl: Je nachdem, welche Halbjahre Sie im B
 
 [Landesanpassungen](https://doc.la.stueber.de)
 
-Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage. 
+Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
 
 **Schulname** 
 
@@ -982,8 +1009,6 @@ Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesl
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
-
-
 
 ## MVP-FG-AZ (Qualifikationsphase DINA4).rpt
 
@@ -1018,8 +1043,6 @@ Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie könne
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-**(A0021.11)** 
 
 Merkmal | Bedeutung
 --|--
@@ -1098,9 +1121,11 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Qualifikation` im Feld "Zeugnisda
 
 Markieren Sie die eingebrachten Kurse des Schülers für die Ermittlung der Gesamtpunktzahl des schulischen Teils der Fachhochschulreife. D.h. markieren Sie im Menü `Abitur > Qualifikation` die Option "Manuelles Markieren", wählen Sie die Option "Kurse einbringen" und klicken Sie die entsprechenden Kurse an. Die eingebrachten Kurse werden gelb markiert.
 
-**(A0680)** Abitur > Qualifikation > Status > Fachhochschulreife berechnen > Eingebrachte HJ
+**eingebrachte Halbjahre f. Berechnung der FHR**
 
-Stellen Sie im Menü Abitur > Qualifikation unter „Eingebrachte Halbjahre“ die entsprechenden Halbjahre ein, wo die Voraussetzungen für die Zuerkennung des schulischen Teils der Fachhochschulreife erfüllt wurden. Es gilt:
+`Abitur > Qualifikation > Status > Fachhochschulreife berechnen > Eingebrachte HJ`
+
+Stellen Sie im Menü `Abitur > Qualifikation` unter „Eingebrachte Halbjahre“ die entsprechenden Halbjahre ein, wo die Voraussetzungen für die Zuerkennung des schulischen Teils der Fachhochschulreife erfüllt wurden. Es gilt:
 
 Eingebrachte HJ | Kurshalbjahr
 --|--
@@ -1110,13 +1135,15 @@ Q1-Q2 | 12.1-12.2
 Q2-Q3 | 12.2-13.1
 Q3-Q4 | 13.1-13.2
 
-**(A0681)** Abitur > Qualifikation > Status > Fachhochschulreife berechnen
+**Ergebnisse außerhalb der Gesamtpunktzahl**
 
-Je nachdem Halbjahre Sie im Bereich "Fachhochschulreife" im "Feld" „Eingebrachte HJ“ (siehe A0680)** ausgewählt haben, erscheinen in „Ergebnisse außerhalb der Gesamtpunktzahl“ die Fächer, die nicht eingebracht wurden.
+`Abitur > Qualifikation > Status > Fachhochschulreife berechnen`
 
-**(A0111)** `Ausdruck`
+Je nachdem, welche Halbjahre Sie im Bereich "Fachhochschulreife" im "Feld" „Eingebrachte Halbjahre“ ausgewählt haben, erscheinen in „Ergebnisse außerhalb der Gesamtpunktzahl“ die Fächer, die nicht eingebracht wurden.
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **(A0131)** `Schüler > Zeugnis > Details > Tutor`
 
@@ -1961,9 +1988,9 @@ Für die Angabe des Durchgangs des Schülers müssen Sie im entsprechenden Zeitr
 
 ## MVP-GY-ABI (2006).rpt
 
-**(A0111)** `Ausdruck`
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Zeugnisdatum** 
 
@@ -2044,9 +2071,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 
 ## MVP-GY-ABI (2010).rpt
 
-**(A0111)** `Ausdruck`
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Zeugnisdatum** 
 
@@ -2157,10 +2184,9 @@ Auf dem Zeugnis kann wahlweise zwischen einer „Facharbeit“ und einer „Beso
 a)** Zur Ausgabe der „Besonderen Lernleistung“ müssen Sie im Menü Abitur > Prüfung im Bereich „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld "Thema" zu. Die Note für die besondere Lernleistung" im Block1 tragen Sie im 1. Notenfeld ganz links ein. Die Noten für Block2 tragen Sie in den 2 Notenfeldern daneben ein. 
 b)** Zur Ausgabe der „Facharbeit“ müssen Sie im Menü Abitur > Prüfung im Bereich "Projekt“ das entsprechende Fach zuweisen und das Optionsfeld „Projekt einbringen“ markieren. Das Thema des Projektes weisen Sie analog dem entsprechenden Feld im Feld "Thema" zu. Die Note für die Facharbeit" im Block1 tragen Sie im 1. Notenfeld ganz links ein. Die Noten für Block2 tragen Sie in den 2 Notenfeldern daneben ein.
 
-**(A0111)** `Ausdruck`
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
-
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 **Zeugnisdatum** 
 
 `Abitur > Prüfung > Zeugnisdatum`
@@ -2604,9 +2630,9 @@ Um den Ort des Druckdatums anzuzeigen, tragen Sie den Ort Ihrer Schule im Menü 
 
 ## MVP-GY-AZ (2013 2 Seiten).rpt
 
-**(A0111)** `Ausdruck`
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **(A0131)** `Schüler > Zeugnis > Details > Tutor`
 
@@ -4173,9 +4199,9 @@ Platzhalter | Ausgabe im Bericht
 ``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
 ``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
-**(A0111)** `Ausdruck`
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Zeugnisdatum** 
 
@@ -4264,9 +4290,9 @@ Kürzel |  Schlüssel | Zeugnisbereich
 4PF  |  4PF | 4. Prüfungsfach
 5PF | 5PF | 5. Prüfungsfach (nur mündlich)** Pflichtbereich
 
-**(A0111)** `Ausdruck`
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 **Zeugnisdatum** 
 
