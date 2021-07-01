@@ -27,8 +27,7 @@ Bitte legen Sie unter `Extras > Schlüsselverzeichnisse > Verordnungen` eine neu
 
 ## Fachkategorien
 
-Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`. 
-Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werden. Für diese Fächer sind die zu verwendenden Fachkategorien fest vorgeschrieben. Alle anderen Fächer können mit einer der übrigen Fachkategorie gekennzeichnet werden oder ohne Fachkategorie geführt werden.
+Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`. Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werden. Für diese Fächer sind die zu verwendenden Fachkategorien fest vorgeschrieben. Alle anderen Fächer können mit einer der übrigen Fachkategorie gekennzeichnet werden oder ohne Fachkategorie geführt werden.
 
 |Fachkategorien|Muss genutzt werden|
 |--|--|
@@ -78,8 +77,10 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Extras > Schl
 
 ## Unterrichtsart
 
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+
 Die Unterrichtsart muss im Menü `Abitur > Qualifikation` im Feld "Unterrichtsart" zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus dem Menü `Schüler > Zeugnis > Fächer > Unterrichtsart` übernommen werden.
-Prüfen Sie bitte unter ```Extras > Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
+Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Unterrichtsarten`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung     |
 |--------|-----------|---------------|
@@ -87,6 +88,8 @@ Prüfen Sie bitte unter ```Extras > Schlüsselverzeichnisse > Unterrichtsarten``
 | GK     | GK        | Grundkurs     |
 
 ## Fachstatus
+
+`Extras > Schlüsselverzeichnisse > Fachstatus`
 
 Die Abiturprüfung findet nur in 4 Prüfungsfächern P1 bis P4 statt. Die Prüfungsfächer werden über den zugewiesenen Fachstatus erkannt.
 
@@ -105,9 +108,13 @@ Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass i
 Wird eine besondere Lernleistung erbracht, wird deren Ergebnis als fünftes Prüfungsfach gewertet. Die Abrechnung erfolgt dann wie beim normalen BGy als
 fünftes Prüfungsfach.
 
+`Abitur > Prüfung > Lernleistung`
+
 Die „Besondere Lernleistung“ muss mit schriftlicher und mündlicher Note auf der Prüfungsregisterkarte (Menü `Abitur > Prüfung > Lernleistung`) eingegeben werden. Bitte tragen Sie die schriftliche Note links in das erste Feld und die mündliche Note in das zweite Feld ein. Soll die Leistung mit eingebracht werden, aktivieren Sie bitte das Häkchen `Lernleistung einbringen`.
 
-## Merkmal
+## Neu einsetzende Fremdsprache
+
+`Abitur > Qualifikation > Merkmal`
 
 Das Merkmal muss im Menü `Abitur > Qualifikation > Merkmal` eingetragen sein. Es kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus dem Menü `Schüler > Zeugnis > Fächer > Merkmal` übernommen werden.
 
@@ -121,3 +128,8 @@ Das Berechnungsskript weist Sie darauf hin, wenn gemäß § 52 Absatz 2 eine zus
 
 ![`Abitur > Prüfung`](/assets/images/Sachsen/apo2017.01.png)
 
+## Hinweis zu Fächern des Berufsbezogenen Bereiches für den Zeugnisdruck (E.01.06a)
+
+`Schüler > Zeugnis > Fächer`
+
+Die Fächer des Berufsbezogenen Bereiches erfassen Sie in 11/2 im Menü `Schüler > Zeugnis > Fächer` und weisen diesen den Fachstatus "BerufS" zu. Die Endnoten, die auf dem Abiturzeugnis ausgegeben werden, tragen Sie unter `Schüler > Zeugnis > Leistungen` im Feld "Endnote" ein. Diese Fächer inkl. Noten werden durch die Synchronisation des Schülers in das Menü `Abitur` übergeben. Das Zeugnis gibt diese Fächer entsprechend aus.

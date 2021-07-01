@@ -7407,14 +7407,10 @@ GK | GK | Grundkurse"
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-`Extras > Schlüsselverzeichnisse > Bildungsgänge` UND 
-`Extras > Schlüsselverzeichnisse > Berufsfelder`
-
-Weisen Sie unter  `Schlüsselverzeichnisse > Bildungsgänge` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage das `Schlüsselverzeichnis > Berufsfelder`.
-
 **Berufsfeld Klassen**
 
-`Klassen > Daten > Berufsfeld`
+`Extras > Schlüsselverzeichnisse > Bildungsgänge` UND 
+`Extras > Schlüsselverzeichnisse > Berufsfelder`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
@@ -7460,12 +7456,10 @@ Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Beson
 
 Gehen Sie jeweils wie folgt vor:
 
-5. Prüfungskomponente | Vorgehensweise in MAGELLAN
+Prüfungskomponente | Vorgehensweise in MAGELLAN
 --|--
-Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.
-Des Weiteren wird im Menü `Abitur > Prüfung` im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
-Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
-markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. `Abitur >  Prüfung > Lernleistung`, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
+Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus. Des Weiteren wird im Menü `Abitur > Prüfung` im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
+Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. `Abitur >  Prüfung > Lernleistung`, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.|
 
 **Benotung der Fächer in Klasse 11**
 
@@ -7488,7 +7482,7 @@ Der Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugni
 
 `Abitur > Prüfung > 2. mündl. Note`
 
-Im Falle einer zusätzlichen mündliche Prüfungen tragen Sie diese Noze im Menü `Abitur > Prüfung` in den entsprechenden Feldern unter "2. mündl. Note" ein. Eine Zusätzliche mündliche Prüfung ist in den Prüfungsfächern 1 bis 5 möglich.
+Im Falle einer zusätzlichen mündliche Prüfungen tragen Sie diese Note im Menü `Abitur > Prüfung` in den entsprechenden Feldern unter "2. mündl. Note" ein. Eine Zusätzliche mündliche Prüfung ist in den Prüfungsfächern 1 bis 5 möglich.
 
 **Sprachreferenzen** 
 
@@ -7537,12 +7531,11 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 `Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
-Für die Ausgabe des Satzes "<Der Schüler hat die Belegungsverpflichtung in der zweiten Fremdsprache durch Bestehen einer Feststellungsprüfung in der Herkunftssprache ersetzt.>" unter Bemerkungen, gehen Sie wie folgt vor.
+Für die Ausgabe des Satzes *Der Schüler hat die Belegungsverpflichtung in der zweiten Fremdsprache durch Bestehen einer Feststellungsprüfung in der Herkunftssprache ersetzt.* unter Bemerkungen, gehen Sie wie folgt vor.
 
-Definieren Sie im `Schlüsselverzeichnis > Zeugnisbemerkungen` folgende Bemerkung:
+Definieren Sie unter `Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen` folgende Bemerkung:
 
-<<DerSchueler_DieSchuelerin>> hat die Belegungsverpflichtung in der zweiten Fremdsprache durch Bestehen einer
-Feststellungsprüfung in der Herkunftssprache ersetzt.
+<<DerSchueler_DieSchuelerin>> hat die Belegungsverpflichtung in der zweiten Fremdsprache durch Bestehen einer Feststellungsprüfung in der Herkunftssprache ersetzt.
 
 Weisen Sie danach dem Schüler individuell diese Zeugnisbemerkung zu. Aufgrund der Platzhalter in der Bemerkung wird in Abhängig vom Geschlecht des Schülers "Die Schülerin" oder "Der Schüler"… ausgegeben,"
 
@@ -7558,7 +7551,7 @@ Haben Sie im Menü `Schüler > Daten 3` keine 2 Fremdsprache hinterlegt, wird fo
 
 `Schüler > Zeugnis > Fächer`
 
-Die Fächer des Berufsbezogenen Bereiches erfassen Sie in 11/2 im Menü  `Schüler > Zeugnis > Fächer` und weisen diesen den Fachstatus "BerufS" zu. Die Endnoten, die auf dem Abiturzeugnis ausgegeben werden, tragen Sie unter  `Schüler > Zeugnis > Leistungen` im Feld "Endnote" ein. Diese Fächer inkl. Noten werden durch die Synchronisation des Schülers in das Menü `Abitur` übergeben. Das Zeugnis gibt diese Fächer entsprechend aus.
+Die Fächer des Berufsbezogenen Bereiches erfassen Sie in 11/2 im Menü `Schüler > Zeugnis > Fächer` und weisen diesen den Fachstatus "BerufS" zu. Die Endnoten, die auf dem Abiturzeugnis ausgegeben werden, tragen Sie unter `Schüler > Zeugnis > Leistungen` im Feld "Endnote" ein. Diese Fächer inkl. Noten werden durch die Synchronisation des Schülers in das Menü `Abitur` übergeben. Das Zeugnis gibt diese Fächer entsprechend aus.
 
 ### SAC-BG-ABI (E.01.06).rpt
 
