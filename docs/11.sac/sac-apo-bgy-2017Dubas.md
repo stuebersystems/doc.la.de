@@ -5,7 +5,7 @@ Berufsausbildung mit Abitur
 //// Verordnung Fachrichtungen Biotechnologie, Technik-, Agrar-, Ernährungs-, Informations- u. Kommunikationswissenschaft. ////
 
 Letzte Änderung: 24.02.2021
-
+Letzte Änderung: 24.02.2021
 ## Verzeichnis Verordnung
 
 Bitte legen Sie unter `Extras > Schlüsselverzeichnisse > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Menü `Abitur` weisen Sie den Schülern die Verordnung zu.
@@ -122,9 +122,9 @@ Das Merkmal muss im Menü `Abitur > Qualifikation > Merkmal` eingetragen sein. E
 |---------|------------------------------------------|
 | A       | Neu einsetzende Fremdsprache, 2 Kurse müssen eingebracht werden (entspricht dem Niveau A) |
 
-## Sonstiges
+## § 52 Zusätzliche mündliche Prüfung 
 
-Das Berechnungsskript weist Sie darauf hin, wenn gemäß § 52 Absatz 2 eine zusätzliche mündliche Prüfung durchzuführen ist (wenn die Leistung des Prüfungsteilnehmers in diesem Fach mit null Punkten bewertet wurde).
+Das Berechnungsskript weist Sie darauf hin, wenn gemäß § 52 Absatz 2 eine zusätzliche mündliche Prüfung durchzuführen ist.
 
 ![`Abitur > Prüfung`](/assets/images/Sachsen/apo2017.01.png)
 

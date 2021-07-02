@@ -112,7 +112,7 @@ Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass i
 
 Die „Besondere Lernleistung“ muss mit schriftlicher und mündlicher Note auf der Prüfungsregisterkarte (Menü `Abitur > Prüfung > Lernleistung`) eingegeben werden. Bitte tragen Sie die schriftliche Note links in das erste Feld und die mündliche Note in das zweite Feld ein. Soll die Leistung mit eingebracht werden, aktivieren Sie bitte das Häkchen `Lernleistung einbringen`.
 
-## Merkmal
+## Neu einsetzende Fremdsprache
 
 Das Merkmal muss im Menü `Abitur > Qualifikation > Merkmal` eingetragen sein. Es kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus dem Menü `Schüler > Zeugnis > Fächer > Merkmal` übernommen werden.
 
@@ -120,9 +120,9 @@ Das Merkmal muss im Menü `Abitur > Qualifikation > Merkmal` eingetragen sein. E
 |---------|------------------------------------------|
 | A       | Neu einsetzende Fremdsprache, 2 Kurse müssen eingebracht werden (entspricht dem Niveau A) |
 
-## Zusätzlich mdl. Prüfung
+## § 52 Zusätzliche mündliche Prüfung 
 
-Das Berechnungsskript weist Sie darauf hin, wenn gemäß § 52 Absatz 2 eine zusätzliche mündliche Prüfung durchzuführen ist (wenn die Leistung des Prüfungsteilnehmers in diesem Fach mit null Punkten bewertet wurde).
+Das Berechnungsskript weist Sie darauf hin, wenn gemäß § 52 Absatz 2 eine zusätzliche mündliche Prüfung durchzuführen ist.
 
 Tragen Sie die Punktzahl der zusätzlichen mündlichen Prüfung im Feld "Mündliche Note" ein. Diese Punktzahl wird durch erneutes `Neu Berechnen` mit eingerechnet.
 
