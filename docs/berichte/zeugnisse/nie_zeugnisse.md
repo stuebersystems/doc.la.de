@@ -313,8 +313,6 @@ GK | GK | Grundkurse
 
 Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
-**Fremdsprachen** 
-
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
@@ -349,6 +347,8 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü `Abitur > Zeugnis` im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
+
+Der Satz *Die Allgemeine Hochschulreife ist im Deutschen Qualitätsrahmen (DQR) dem Niveau 4 zugeordnet.* wird standardmäßig auf dem Zeugnis unter Bemerkungen ausgegeben.
 
 **Zeugnisdatum**
 
