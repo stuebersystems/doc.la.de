@@ -7567,7 +7567,6 @@ Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
-
 1PF | 1PF | 1. Prüfungsfach
 2PF | 2PF | 2. Prüfungsfach
 3PF | 3PF | 3. Prüfungsfach
@@ -7647,10 +7646,11 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 **Fächerpositionierung** 
 
-`Schüler > Zeugnis > Fächer` bzw. `Abitur > Qualifikation` Eintrag im Feld "Position"
+`Schüler > Zeugnis > Fächer` bzw. `Abitur > Qualifikation` 
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
-Fach eine Position in der Spalte "Position" angegeben werden.
+Eintrag im Feld "Position"
+
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte `Zeugnis > Fächer` bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro Fach eine Position in der Spalte "Position" angegeben werden.
 
 **Zeugnisdatum** 
 
