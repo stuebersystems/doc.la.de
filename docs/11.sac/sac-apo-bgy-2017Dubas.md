@@ -6,6 +6,7 @@ Berufsausbildung mit Abitur
 
 Letzte Änderung: 24.02.2021
 Letzte Änderung: 24.02.2021
+
 ## Verzeichnis Verordnung
 
 Bitte legen Sie unter `Extras > Schlüsselverzeichnisse > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Menü `Abitur` weisen Sie den Schülern die Verordnung zu.
@@ -111,6 +112,14 @@ fünftes Prüfungsfach.
 `Abitur > Prüfung > Lernleistung`
 
 Die „Besondere Lernleistung“ muss mit schriftlicher und mündlicher Note auf der Prüfungsregisterkarte (Menü `Abitur > Prüfung > Lernleistung`) eingegeben werden. Bitte tragen Sie die schriftliche Note links in das erste Feld und die mündliche Note in das zweite Feld ein. Soll die Leistung mit eingebracht werden, aktivieren Sie bitte das Häkchen `Lernleistung einbringen`.
+
+## Fach Englisch
+
+Das Fach Englisch muss unter `Extras > Schlüsselverzeichnisse > Fächer` in der Spalte "Zeugnismerkmal" den Wert "EN" bekommen, damit das Skript das Fach Englisch korrekt erkennt.
+
+Kürzel|Bezeichnung|Kategorie|Aufgabenbereich|Zeugnismerkmal
+--|--|--|--|--
+beliebig|Englisch|Fremdsprache|sprach.lit.künstl.|**EN**
 
 ## Neu einsetzende Fremdsprache
 
