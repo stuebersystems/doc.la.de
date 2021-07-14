@@ -4762,6 +4762,8 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 **Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
+
 
 **Zeugnisbemerkungen Positionierung**
 
@@ -4770,10 +4772,6 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren,die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
 "2" usw.
-
-**Ausdruck** `Ausdruck`
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis drucken` (Strg + Z) gedruckt werden.
 
 **Wiederholungsart** 
 
