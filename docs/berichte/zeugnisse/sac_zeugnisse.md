@@ -8186,9 +8186,9 @@ Position | Fach
 
 3) Die erreichte Punktzahl tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Merkmal" ein.
 
-**Fächer und Unterrichtsart** 
+**Fächer, Unterrichtsart, Merkmal** 
 
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+`Extras > Schlüsselverzeichnisse > **Unterrichtsarten**`
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann
 den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
@@ -8198,7 +8198,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 KMK | KMK | KMK Fremdsprachenzertifikat
 
-`Schüler > Zeugnis > Fächer`
+`Schüler > Zeugnis > **Fächer**`
 
 Damit die Fächer gemäß Vorlage des KMK-Fremdsprachenzertifikats korrekt ausgegeben werden, beachten Sie bitte folgendes:
 
@@ -8213,14 +8213,16 @@ beliebig | beliebig | Interaktion
 
 2) Die entsprechenden Fächer müssen im Menü `Schüler > Zeugnis > Fächer` im Feld "Position" gemäß Vorlage chronologisch in folgender Reihenfolge positioniert werden:
 
-Position | Fach|Unterrichtsart
+Position | Fach | Unterrichtsart
 --|--|--
 1 | Rezeption| KMK
 2 | Produktion| KMK
 3 | Mediation| KMK
 4 | Interaktion| KMK
 
-3) Die erreichte Punktzahl tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Merkmal" ein.
+`Schüler > Zeugnis > Fächer > **Merkmal**`
+
+3) Die **erreichte Punktzahl** tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Merkmal" ein.
 
 ### SAC-BS-Bescheinigung (F.01.01).rpt
 
