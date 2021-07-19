@@ -7285,6 +7285,10 @@ Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers de
 
 E.01.05
 
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
+
 **Fachstatus** 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
@@ -7336,16 +7340,12 @@ GK | GK | Grundkurse
 `Extras > Schlüsselverzeichnis > Schwerpunkte` UND `Extras > Schlüsselverzeichnis > Bildungsgänge`
 
 Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` die Fachrichtung im Feld `Fachrichtung` zu. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachrichtungen`.
+
 **Schulname** 
 
 `Mandanten > Daten > Name 1`
 
-Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
-1" ein.
-
-**Ausdruck**
-
-Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
+Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 1" ein.
 
 **Besondere Lernleistung**
 
@@ -7384,25 +7384,48 @@ Beachten Sie bitte, dass Sie Fächern, die in der Klasse 11 abgeschlossen wurden
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**Platzhalter für Zeugnisbemerkungen**
- 
-`Abitur > Zeugnisbemerkungen`/ `Schüler > Zeugnis > Bemerkungen/Formulare`
+**SchulleiterIn**
 
-Bemerkungen Legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
-Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B. So ``<<hier steht Ihr Platzhalter>>``. 
+`Mandanten > Daten 1 > Schulleiter`
+
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
+
+**TutorIn**
+
+`Schüler > Zeugnis > Details > Tutor`
+
+Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
+
+**Zeugnisbemerkungen**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare`
+`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
+`Berufsschule > Zeugnisbemerkungen`
+
+Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
+Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
 
 Möglich sind:
 
-Platzhalter | Ausgabe im Bericht
+Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
+``<<Vorname>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+``<<Name>>`` | Vorname Vorname2 Namenszusatz Nachname
 ``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
 ``<<Nachname>>`` | Nachname des Schülers
 ``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
-``<<Anrede1>>`` | Er/Sie (je nach Geschlecht des Schülers)
-``<<Anrede2>>`` | er/sie (je nach Geschlecht des Schülers)
-``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
-``<<Anrede4>>`` | ihm/ihr (je nach Geschlecht des Schülers)
-``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
+``<<Er_Sie>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)   
+``<<seine_ihre>>`` | seine/ihre (je nach Geschlecht des Schülers) 
+``<<Ihm_Ihr>>`` | Ihm/Ihr (je nach Geschlecht des Schülers) 
+``<<ihm_ihr>>`` | ihm/ihr (je nach Geschlecht des Schülers) 
+``<<Seinen_Ihren>>`` | Seinen/Ihnen (je nach Geschlecht des Schülers) 
+``<<seinen_ihren>>`` | seinen/ihnen (je nach Geschlecht des Schülers) 
+``<<DerSchueler_DieSchuelerin>>`` | Der Schüler/Die Schülerin je nach Geschlecht des Schülers) ``
+``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
+``<<DemSchueler_DerSchuelerin>> `` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 **Fachrichtung Schüler** 
 
