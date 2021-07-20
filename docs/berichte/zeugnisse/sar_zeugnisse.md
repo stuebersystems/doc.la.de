@@ -2113,6 +2113,8 @@ Zusätzlich zu den von uns gelieferten Berichten liefern wir vom Ministerium fü
 
 Vorlage: Anlage 9a [§ 54 (1)] - mit GeR, Abiturzeugnis
 
+Bitte beachten Sie ergänzend die Voraussetzungen für Unterrichtsarten, Fachstatus, Fachkategorien und Aufgabenbereiche für das dazugehörige Berechnungsskript unter https://doc.la.stueber.de/12.sar/sar-apo-2018/.
+
 **Fachstatus**
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`

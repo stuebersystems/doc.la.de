@@ -13676,6 +13676,8 @@ Im Menü `Klassen > Daten` muss in den entsprechenden Zeiträumen entweder "Ober
 
 Schul Z 306 – Zeugnis der allgemeinen Hochschulreife (Gymnasium, ISS, berufliches Gymnasium) im Schuljahr 2020/2021 – (04.21)
 
+Bitte beachten Sie ergänzend die Voraussetzungen für Unterrichtsarten, Fachstatus, Fachkategorien und Aufgabenbereiche für das dazugehörige Berechnungsskript unter https://doc.la.stueber.de/03.ber/ber-apo-2017/.
+
 **Fachstatus**	
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
@@ -13881,6 +13883,8 @@ Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 ### BER-Schul Z 306 (11.19)(FG).rpt
 
 Schul Z 306 – Zeugnis der allgemeinen Hochschulreife (Gymnasium, ISS, berufliches Gymnasium) – (11.19)** / Französisches Gymnasium
+
+Bitte beachten Sie ergänzend die Voraussetzungen für Unterrichtsarten, Fachstatus, Fachkategorien und Aufgabenbereiche für das dazugehörige Berechnungsskript unter https://doc.la.stueber.de/03.ber/ber-apo-2017/.
 
 **Fachstatus**
 
@@ -14093,9 +14097,9 @@ Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefi
 
 ### BER-Schul Z 306 (04.21).rpt
 
-*in Bearbeitung*
-
 Schul Z 306 – Zeugnis der allgemeinen Hochschulreife (Gymnasium, ISS, berufliches Gymnasium) im Schuljahr 2020/2021 – (04.21)
+
+Bitte beachten Sie ergänzend die Voraussetzungen für Unterrichtsarten, Fachstatus, Fachkategorien und Aufgabenbereiche für das dazugehörige Berechnungsskript unter https://doc.la.stueber.de/03.ber/ber-apo-2017/.
 
 **Fachstatus**	
 
@@ -14302,6 +14306,8 @@ Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 ### BER-Schul Z 306 (11.19).rpt
 
 Schul Z 306 – Zeugnis der allgemeinen Hochschulreife (Gymnasium, ISS, berufliches Gymnasium) – (11.19)
+
+Bitte beachten Sie ergänzend die Voraussetzungen für Unterrichtsarten, Fachstatus, Fachkategorien und Aufgabenbereiche für das dazugehörige Berechnungsskript unter https://doc.la.stueber.de/03.ber/ber-apo-2017/.
 
 **Fachstatus** 
 
