@@ -503,7 +503,9 @@ Platzhalter | Ausgabe im Bericht
 ``<<Herrn>> ``| Herrn
 ``<<Er>> ``| Er
 
-**A0882**	`Schüler > Zeugnis > Leistungen > Durchschnitt 1`
+**Durchschnittsnote des Hauptschulabschlusses**
+
+`Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
 Die Durchschnittsnote des Hauptschulabschlusses errechnen Sie selbst. Das Ergebnis tragen Sie als Punktwert (natürliche Zahlen von 0 bis 15) im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden"
 
@@ -870,7 +872,9 @@ Platzhalter | Ausgabe im Bericht
 ``<<Herrn>> ``| Herrn
 ``<<Er>> ``| Er
 
-**A0882**	`Schüler > Zeugnis > Leistungen > Durchschnitt 1`
+**Durchschnittsnote des Hauptschulabschlusses**
+
+`Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
 Die Durchschnittsnote des Hauptschulabschlusses errechnen Sie selbst. Das Ergebnis tragen Sie als Punktwert (natürliche Zahlen von 0 bis 15) im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden"
 
