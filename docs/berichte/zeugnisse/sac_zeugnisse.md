@@ -6598,7 +6598,7 @@ Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugni
 
 **automatischen Berechnung der Durchschnittsnote** 
 
-`Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, Ethik und Sport nicht mit einfliessen, ist es zwingend erforderlich den jeweiligen Fächern im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" die Werte "Religion" oder "Sport" zuzuweisen.
 
