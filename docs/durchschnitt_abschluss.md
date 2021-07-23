@@ -25,4 +25,4 @@ Die derzeit in MAGELLAN verfügbaren Berechnungsverordnungen können Sie der Tab
 
 !!! warning "Wichtig"
 
-    Achten Sie in den folgenden Abschnitten immer auf die speziellen Hinweise für das von Ihnen gewählte Skript
+    Achten Sie in den folgenden Abschnitten immer auf die speziellen Hinweise für das von Ihnen gewählte Skript.
