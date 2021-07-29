@@ -1,8 +1,14 @@
 # Grundlegende Einstellungen
 
+[1]:/assets/images/Berufsschule/01_berufsschule.png
+[2]:/assets/images/Berufsschule/02_berufsschule.png
+[3]:/assets/images/Berufsschule/03_berufsschule.png
+[4]:/assets/images/Berufsschule/04_berufsschule.png
+[5]:/assets/images/Berufsschule/05_berufsschule.png
+
 !!! info "Hinweis"
 
-    Die nachstehenden Punkte sind eine kurze Zusammenfassung des Vorgehens, die ausführliche Dokumentation finden Sie in der [Magellan-Dokumentation](https://doc.magellan.stueber.de/).
+    Die nachstehenden Punkte sind eine kurze Zusammenfassung des Vorgehens, die ausführliche Dokumentation finden Sie in der [MAGELLAN Dokumentation](https://doc.magellan.stueber.de/).
 
 ## Notenberechnung in der Berufsschule
 
@@ -10,7 +16,7 @@ In der Berufsschule in Deutschland besuchen die Schüler eine Klasse im Rahmen d
 
 Verlässt der Schüler die Klasse vorzeitig, so erhält er ein Abgangszeugnis. Verlässt er die Klasse erfolgreich zum Abschluss seiner Ausbildung, so erhält er ein Abschlusszeugnis.
 
-Die Halbjahres-,  Zwischen- und Jahreszeugnisse des Schülers zum Ende eines Halbjahres beziehen fast ausschließlich auf die Noten des aktuellen Zeitraums. In diesem Fall greift ein Zeugnisbericht immer auf die Noten des aktuellen Zeitraums zu. Die Noten der Schüler werden dann in MAGELLAN unter den Zeugnisdaten eingefügt.
+Die Halbjahres-,  Zwischen- und Jahreszeugnisse des Schülers zum Ende eines Halbjahres beziehen sich fast ausschließlich auf die Noten des aktuellen Zeitraums. In diesem Fall greift ein Zeugnisbericht immer auf die Noten des aktuellen Zeitraums zu. Die Noten der Schüler werden dann in MAGELLAN unter den Zeugnisdaten eingefügt.
 Bei den meisten Abgangs- bzw. Abschlusszeugnissen werden die Noten auf der Basis der Noten der einzelnen Schuljahre festgelegt. Dies erfolgt durch ein vorgegebenes Berechnungsschema, bei denen Noten sowohl innerhalb eines Schuljahres als auch im Verhältnis der Schuljahre zueinander berechnet werden.
 
 Ein typisches Beispiel ist hierbei die Note des berufsbezogenen Unterrichts. Pro Schuljahr wird die Note des berufsbezogenen Unterrichts aufgrund der Stundenfaktoren der berufsbezogenen Fächer berechnet. In den Abgangs- bzw. Abschlusszeugnissen werden sowohl die Gesamtnote im berufsbezogenen Unterricht als auch die Abschlussnoten der einzelnen Fächer in bestimmten Verhältnissen der Schuljahre berechnet. Z.B. kann das letzte Schuljahr einen höheren Einfluss auf die Endnoten haben, als die vorangegangenen Schuljahre.
@@ -30,14 +36,16 @@ Zur zeitraumübergreifenden Endnotenberechnung der Berufsschule und dem anschlie
 * Fächer und Noten der Schüler pro Zeitraum einer Zeugnisausgabe eingeben
 * Endnoten für Abgangs- bzw. Abschlusszeugnisse berechnen
 * Zeugnisbemerkungen eingeben und Zeugnisse drucken
+
 Alle Schritte werden in MAGELLAN ausgeführt.  
 
 ## Berufsschulklassen einrichten
 
-Eine Klasse in der Berufsschule besteht aus den Jahrgängen 1 (=Grundstufe), 2 (Fachstufe 1), 3 (Fachstufe 2) bzw. 4 (Fachstufe 3).
+Eine Klasse in der Berufsschule besteht aus den Jahrgängen 1 (= Grundstufe), 2 (Fachstufe 1), 3 (Fachstufe 2) bzw. 4 (Fachstufe 3).
 
 In MAGELLAN werden die Daten halbjahresbezogen abgelegt. Sie definieren also eine Klasse mit je zwei Zeiträumen bzw. Halbjahren für die Grundstufe, Fachstufe 1 und evtl. Fachstufe 2 bzw. Fachstufe 3.
-Eine zweijährige Klasse besteht demnach aus 4 Halbjahren mit dem Jahrgang 1 für die ersten beiden Halbjahr und dem Jahrgang 2 für die letzten beiden Halbjahre.
+Eine 2-jährige Klasse besteht demnach aus 4 Halbjahren mit dem Jahrgang 1 für die ersten beiden Halbjahre und dem Jahrgang 2 für die letzten beiden Halbjahre.
+
 Folgende Angaben sind bei der Eingabe der Berufsschulklasse neben den Halbjahren wichtig:
 
 |Eingabefeld |Eingabe|
@@ -52,11 +60,11 @@ Voraussetzung für die Abgangs- bzw. Abschlussnotenberechnung ist, dass Sie bei 
 
 Generell verwenden Sie die gleichen Unterrichtsarten, Fachstatus und Faktoren, die Sie auch in den sonstigen Zeugnissen (z.B. Jahreszeugnis) nutzen.
 
-Bei den einzelnen Berechnungsskripten werden bestimmten Unterscheidungen in den Unterrichtsarten bzw. Fachstatus vorausgesetzt d.h. die entsprechenden Schlüssel müssen vorhanden sein (die Kürzel werden nur zur Anzeige verwendet). Teilweise müssen Sie auch Angaben zum Stundenfaktor des Fachs machen. Diese Informationen werden nachfolgend aufgelistet.
+Bei den einzelnen Berechnungsskripten werden bestimmte Unterscheidungen in den Unterrichtsarten bzw. Fachstatus vorausgesetzt d.h. die entsprechenden Schlüssel müssen vorhanden sein (die Kürzel werden nur zur Anzeige verwendet). Teilweise müssen Sie auch Angaben zum Stundenfaktor des Fachs machen. Diese Informationen werden nachfolgend aufgelistet.
 
 ## Endnotenberechnung vorbereiten
 
-![Berufschulmatrix](/assets/images/bbsmatrix.png)
+[![Berufsschulmatrix][1]][1]
 
 ### Berechnungsverordnung definieren
 
@@ -68,22 +76,26 @@ In den nachfolgenden Abschnitten erfahren Sie mehr zu den einzelnen Punkten.
 
 ## Abschlussjahrgang definieren
 
-![Verzeichnis Abschlussjahrgänge](/assets/images/abschlussjahrgaenge.png)
+[![Verzeichnis Abschlussjahrgänge][2]][2]
 
-Sie können in MAGELLAN unter ```Verzeichnisse > Abschlussjahrgänge``` Abschlussjahrgänge definieren. Damit können Sie jedem Schüler in der Rubrik „Berufsschule“ den entsprechenden Abschlussjahrgang zuordnen.
+Sie können in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Abschlussjahrgänge` Abschlussjahrgänge definieren. Damit können Sie jedem Schüler in der Rubrik „Berufsschule“ den entsprechenden Abschlussjahrgang zuordnen.
 
 Dieser Vermerk hat keinen Einfluss auf Abschlussnotenberechnungen, sondern dient dazu, später alle Schüler eines bestimmten Abschlussgangs z.B. für Ausdrucke herausfiltern zu können und die Art der zu synchronisierenden Noten festzulegen.
 
-Die Art der zu synchronisierenden Noten des Abschlussjahrsganges legen Sie über die Kategorie fest:
+!!! "Wichtig!"
 
-Wählen Sie die Kategorie „Berufsschule (Jahresnoten)“ um später beim Synchronisieren der Schüler nur die Noten des jeweils 2. Halbjahres in die Ansicht „Berufschule“ zu übertragen.
+    Die Art der zu synchronisierenden Noten des Abschlussjahrsganges legen Sie über das Feld "Kategorie" fest:
 
-Wählen Sie die Kategorie „Berufsschule (Halbjahresnoten)“ um später beim Synchronisieren der Schüler die Noten des jeweils 1. und 2. Halbjahres in die Ansicht „Berufschule“ zu übertragen.
+Kategorie | Bedeutung
+--|--
+Berufsschule (Jahresnoten) | Beim Synchronisieren der Schüler werden nur die Noten des jeweils 2. Halbjahres in die Ansicht „Berufschule“ zu übertragen.
+Berufsschule (Halbjahresnoten) | Beim Synchronisieren der Schüler werden die Noten des jeweils 1. und 2. Halbjahres in die Ansicht „Berufschule“ zu übertragen.
 
 ## Berechnungsverordnung nochmals definieren
 
- ![Definieren der Berechnungsordnung](/assets/images/berechnungsordung.png)
-Sie müssen für jeden Schüler die Berechnungsverordnung angeben, die für ihn relevant ist. Dazu müssen Sie im Schlüsselverzeichnis „Verordnungen“ die jeweilige Berechnungsverordnung definieren. Klicken Sie dazu auf ```Verzeichnisse > Verordnungen``` und geben dort die Verordnung wie folgt an:
+[![Definieren der Berechnungsordnung][3]][3]
+
+Sie müssen für jeden Schüler die Berechnungsverordnung angeben, die für ihn relevant ist. Dazu müssen Sie im Schlüsselverzeichnis „Verordnungen“ die jeweilige Berechnungsverordnung definieren. Klicken Sie dazu auf `Extras > Schlüsselverzeichnisse > Verordnungen` und geben dort die Verordnung wie folgt an:
 
 |Spalte |Bedeutung|
 |--|--|
@@ -97,15 +109,15 @@ Sie müssen für jeden Schüler die Berechnungsverordnung angeben, die für ihn 
 
 ## Berufsschuldaten synchronisieren
 
- ![Beschriftung](/assets/images/bbs_sync.png)
+[![Synchronisation][4]][4]
 
-Bevor Sie die Endnotenberechnung durchführen können, müssen Sie die Daten der Schüler synchronisieren, indem Sie in MAGELLAN auf „Berufsschule“ klicken und dann auf die Schaltfläche „Synchronisieren“ oben im MAGELLANfenster klicken.
+Bevor Sie die Endnotenberechnung durchführen können, müssen Sie die Daten der Schüler synchronisieren, indem Sie in MAGELLAN auf „Berufsschule“ klicken und dann auf die Schaltfläche „Synchronisieren“ oben im MAGELLAN-Fenster klicken.
 
-|Beim Synchronisieren geschieht Folgendes: |
-|--|
-|MAGELLAN extrahiert für die markierten Schüler die Fachdaten der Noten der Grundstufe, Fachstufe 1, Fachstufe 2 bzw. Fachstufe 3. |
-|Besitzt der ausgewählt Abschlussjahrgang die Kategorie „Berufschule (Jahresnoten)“, werden nur die Noten der jeweiligen 2. Halbjahre  (=Jahresnoten) extrahiert. |
-|Besitzt der ausgewählt Abschlussjahrgang die Kategorie „Berufschule (Halbjahresnoten)“, werden die Noten des 1. und 2. Halbjahres extrahiert. |
+Beim Synchronisieren geschieht Folgendes: 
+
+* MAGELLAN extrahiert für die markierten Schüler die Fachdaten der Noten der Grundstufe, Fachstufe 1, Fachstufe 2 bzw. Fachstufe 3. 
+* besitzt der ausgewählt Abschlussjahrgang die Kategorie „Berufschule (Jahresnoten)“, werden nur die Noten der jeweiligen 2. Halbjahre  (=Jahresnoten) extrahiert
+* besitzt der ausgewählt Abschlussjahrgang die Kategorie „Berufschule (Halbjahresnoten)“, werden die Noten des 1. und 2. Halbjahres extrahiert
 
 Dies ist die Voraussetzung dafür, dass die Abschlussberechnungen der Berufschule durchgeführt werden können. Auch wenn Sie zuvor keine Fächer bzw. Noten in den Halbjahren des Schülers angegeben haben, müssen Sie diese Synchronisation einmal ausführen.
 
@@ -114,7 +126,7 @@ Damit die Schüler mit allen Fächern, Noten und Faktoren aus den einzelnen Halb
 |Feld |Wert|
 |--|--|
 |Zeiträume: |Im Verzeichnis der Zeiträume muss das Feld „Art“ mit dem Wert „1. Halbjahr“ bzw. „2. Halbjahr“ gefüllt sein.|
-|Jahrgang: |Bei jeder Klasse der Berufschule muss auf der Registerkarte „Zeiträume“ für jeden Zeitraum  das Feld „Jahrgang“ mit dem Wert „1“ (=Grundstufe), „2“ (=Fachstufe 1), „3“ (=Fachstufe 2) oder „4“ (=Fachstufe 3) angegeben werden.|
+|Jahrgang: |Bei jeder Klasse der Berufschule muss auf der Registerkarte „Zeiträume“ für jeden Zeitraum  das Feld „Jahrgang“ mit dem Wert „1“ (= Grundstufe), „2“ (= Fachstufe 1), „3“ (= Fachstufe 2) oder „4“ (= Fachstufe 3) angegeben werden.|
 
 Ohne diese Angaben werden nur die Schüler ohne Fächer und Noten übernommen.
 
@@ -133,21 +145,25 @@ Wie evtl. die Fächer für Sport, Religion/Ethik und fakultative Fächer speziel
 
 ## Fächer und Punkte eingeben
 
-Sollten Sie die Fächer nicht schon unter ```Zeugnis > Leistungen``` eingegeben haben, so dass sie beim Synchronisieren übernommen wurden, können Sie das auch direkt auf der Registerkarte „Matrix“ machen. Mit der Einfg-Taste oder durch Klick auf das Einfügen-Symbol rechts oben erzeugen Sie eine neue Zeile. Geben Sie das Fach, Unterrichtsart, Fachstatus und die Noten mit dem jeweiligen Faktor für die einzelnen Schuljahre ein.
+Sollten Sie die Fächer nicht schon unter `Zeugnis > Leistungen` eingegeben haben, so dass sie beim Synchronisieren übernommen wurden, können Sie das auch direkt auf der Registerkarte „Matrix“ machen. Mit der Einfg-Taste oder durch Klick auf das Einfügen-Symbol rechts oben erzeugen Sie eine neue Zeile. Geben Sie das Fach, Unterrichtsart, Fachstatus und die Noten mit dem jeweiligen Faktor für die einzelnen Schuljahre ein.
 
 ## Sammelzuweisung für Fächer, Faktoren, Positionen, Merkmale, Konferenz- und Zeugnisdaten
 
-Auf der Karte Matrix haben Sie die Möglichkeit Fachdaten eines Schülers auch auf andere Schüler zu kopieren. Sie gehen dazu wie folgt vor:
-Wählen Sie den Schüler aus dessen Fächer Sie kopieren möchten und gehen Sie dann auf die Karte „Matrix“.
-Starten Sie den Assistenten mit dem  Punkt „Sammelzuweisung“.
-Markieren Sie die  Schüler, denen die kopierten Angaben zugewiesen werden sollen.
+Unter `Berufsschule > Matrix` haben Sie die Möglichkeit, Fachdaten eines Schülers auch auf andere Schüler zu kopieren. 
+
+Sie gehen dazu wie folgt vor:
+
+Wählen Sie unter `Berufsschule > Auswahl` den Schüler aus, dessen Fächer Sie kopieren möchten und wechseln  Sie dann auf die Registerkarte „Matrix“.
+
+Starten Sie den Assistenten über den Befehl „Sammelzuweisung“.
+Markieren Sie die Schüler, denen die kopierten Angaben zugewiesen werden sollen.
 Wählen Sie auf der folgenden Karte aus welche Daten übernommen werden sollen und ob bereits vorhandene Daten überschrieben werden sollen.
 
- ![Beschriftung](/assets/images/sammelzuweisung_bbs.png)
+[![Sammelzuweisung][5]][5]
 
 ## Die Spalte „Position“
 
-Die Position kann als Merkmal für die Reihenfolge der Fächer auf der Registerkarte „Notenmatrix“ und auf den Abschluss-/Abgangszeugnis verwendet werden, welche die Berufschulmatrix nutzen. Die in MAGELLAN mitgelie-ferten Skripte und Zeugnisformulare für die Berufschulmatrix verwenden diese Positionsangaben.
+Die Position kann als Merkmal für die Reihenfolge der Fächer auf der Registerkarte „Notenmatrix“ und auf den Abschluss-/Abgangszeugnis verwendet werden, welche die Berufschulmatrix nutzen. Die in MAGELLAN mitgelieferten Skripte und Zeugnisformulare für die Berufschulmatrix verwenden diese Positionsangaben.
 Klicken Sie auf den Titel „Position“, um die Fächerliste entsprechend zu sortieren.
 
 ## Unterrichtsarten eingeben
@@ -184,15 +200,11 @@ Insbesondere können Sie die manuelle Eingabe aber im Sinne der Korrektur einer 
 
 Abschluss- bzw. Abgangsdaten der Berufschule sind sensible Daten. Über die Benutzerverwaltung des MAGELLAN-Administrators wird festgelegt, wer Zugang zu welchen Daten hat. Wie aber können Sie feststellen, dass Daten unter „Berufschule“ geändert worden sind und sei es versehentlich durch Sie selbst?
 
-Bei Änderungen auf den Berufsschule-Registerkarten vermerkt MAGELLAN automatisch das aktuelle Datum und die Kennung des aktuellen Benutzers.  Auf der Registerkarte „Auswahl“ werden für jeden Schüler das Datum und die Kennung desjenigen angezeigt, der diese Angaben bestätigt hat. So ist überprüfbar, wer wann Daten auf der Registerkarte „Berufsschule“ eines Schülers geändert hat.
+Bei Änderungen auf den Registerkarten des Menüs `Berufsschule` vermerkt MAGELLAN automatisch das aktuelle Datum und die Kennung des aktuellen Benutzers.  Unter `Berufsschule > Auswahl` werden für jeden Schüler das Datum und die Kennung desjenigen angezeigt, der diese Angaben bestätigt hat. So ist überprüfbar, wer wann Daten im Menü `Berufsschule` eines Schülers geändert hat.
 
 ## Drucken
 
 Sollten für Ihr Bundesland keine zeitraumübergreifenden Zeugnisse verfügbar sein, können Sie diese selbst mit Crystal Reports erstellen, indem Sie das Zeugnis eines anderen Bundeslandes als Vorlage nehmen oder Sie geben STÜBER SYSTEMS den Auftrag, das Zeugnis für Sie zu erstellen.
 
 Alle zeitraumübergreifenden Zeugnisse der Berufsschule basieren auf den Eintragungen unter Berufschule.
-Klicken Sie bei den Berufsschuldaten des Schülers auf die Registerkarte „Zeugnis“, um die Zeugnisbemerkungen anzugeben. Zusammen mit den Angaben auf der Registerkarte „Notenmatrix“ und den allgemeine Daten zum Schüler verfügen Sie dann über alle Daten, um das zeitraumübergreifende Abschluss- bzw. Abgangszeugnis auszudrucken.
-
-## Zeugnisformulare
-
-Um die beim Schüler unter ```Zeugnis > Zeugnis > Zeugnisformulare``` hinterlegten Zeugnisformulare (```Schüler > Zeugnis > Zeugnisformulare```) automatisiert zu drucken, müssen Sie den bzw. die entsprechenden Schüler in der „Auswahlliste Berufsschule“ markieren und dann mit der rechten Maustaste den Befehl ```Drucken > Zeugnisformulare drucken``` wählen.
+Wechseln Sie in das Menü `Berufsschule > Zeugnis`, um Zeugnisbemerkungen anzugeben. Zusammen mit den Angaben auf der Registerkarte „Notenmatrix“ und den allgemeine Daten zum Schüler verfügen Sie dann über alle Daten, um das zeitraumübergreifende Abschluss- bzw. Abgangszeugnis auszudrucken.
