@@ -12,9 +12,11 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0332)** `Schüler > Laufbahn > Empfehlung`
+**Übergangsempfehlung Schüler**
 
-Tragen Sie die Schulübergangsempfehlung im Menü Schüler > Laufbahn im Feld "Empfehlung" wie folgt ein:
+`Schüler > Laufbahn > Empfehlung`
+
+Tragen Sie die Schulübergangsempfehlung im Menü `Schüler > Laufbahn` im Feld "Empfehlung" wie folgt ein:
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
@@ -165,9 +167,11 @@ Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werde
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**(A0035)** `Klassen > Daten > Bildungsgang`
+**Bildungsgang der Klasse**
 
-Weisen Sie unter `Klassen > Daten im Feld "Bildungsgang"` zu. Grundlage bildet das Schlüsselverzeichnis "Bildungsgänge".
+`Klassen > Daten > Bildungsgang`
+
+Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
 **Beruf Schüler**
 
@@ -191,9 +195,11 @@ Tragen Sie im Menü `Schüler > Daten 2`  im Bereich "Bereits besuchte Schulen" 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0170)** `Klassen > Daten > Berufsfeld`
+**Berufsfeld Klasse**
 
-Die Fachrichtung weisen Sie im Menü Klassen > Daten im Feld "Berufsfeld" zu. Grundlage bildet das Schlüsselverzeichnis > Berufsfelder.
+`Klassen > Daten > Berufsfeld`
+
+Die Fachrichtung weisen Sie im Menü `Klassen > Daten` im Feld "Berufsfeld" zu. Grundlage bildet das`Schlüsselverzeichnis > Berufsfelder`.
 
 **Schulart der Klasse**
 
@@ -211,9 +217,11 @@ Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werde
 
 Tragen Sie die Staatsangehörigkeit des Schülers im Menü `Schüler > Daten 1` im Feld "Staatsangeh. 1" ein.
 
-**(A0434)** `Schüler > Ausbildung > Ausbildungsbetriebe`
+**Ausbildungsbetriebe**
 
-Tragen Sie den Betrieb im Menü Schüler > Ausbildung unter Ausbildungsbetriebe ein.
+`Schüler > Ausbildung > Ausbildungsbetriebe`
+
+Tragen Sie den Betrieb im Menü `Schüler > Ausbildung` unter Ausbildungsbetriebe ein.
 
 **(A0435)** `Schüler > Ausbildung > Ausbildungsbetriebe > Ausbilderkontakt`
 
@@ -223,21 +231,29 @@ Tragen Sie den Ausbilder im Menü Schüler > Ausbildung beim zugewiesenen Ausbil
 
 Tragen Sie im Menü Schüler> Daten 1 im Feld "Konfession" die Konfession des Schülers ein. Grundlage bildet das Schlüsselverzeichnis > Konfessionen.
 
-**(A0440)** `Schüler > Daten 1 > Aussiedler seit`
+**Aussiedler seit**
 
-Tragen Sie im Menü "Schüler" beim entsprechenden Schüler den Status "Ausländer" unter der Registerkarte "Daten 1" im Feld "Aussiedler seit" ein.
+`Schüler > Daten 1 > Aussiedler seit`
 
-**(A0441)** `Schüler > Daten 4 > Beförderung > Fahrkarte`
+Tragen Sie im Menü` Schüler > Daten 1> den Status "Ausländer"  im Feld "Aussiedler seit" ein.
 
-Falls der/die Schüler/in eine "Fahrkarte" erhält, tragen Sie die jeweilige Bemerkung im Menü Schüler > Daten 4 > Beförderung im Feld "Fahrkarte" ein.  Grundlage für das Zuweisen bildet das Schlüsselverzeichnis > Fahrkarten.
+**Fahrkarte**
 
-**(A0442)** `Schüler > Daten 4 > Finanzielle Förderung > erhält Bafög bis`
+`Schüler > Daten 4 > Beförderung > Fahrkarte`
 
-Falls der/die Schüler/in Bafög erhält, markieren Sie im Menü Schüler > Daten 4 im Bereich "Finanzielle Förderung" das Options-Feld "erhält Bafög bis".
+Falls der/die Schüler/in eine "Fahrkarte" erhält, tragen Sie die jeweilige Bemerkung im Menü `Schüler > Daten 4 > Beförderung` im Feld "Fahrkarte" ein.  Grundlage für das Zuweisen bildet das `Schlüsselverzeichnis > Fahrkarten`.
 
-**(A0443)** `Schüler > Daten 2 > bereits besuchte Schulen > Schulform`
+**Bafäg**
 
-Die "letzte Schulform" tragen Sie im Menü Schüler > Daten 2 im Bereich "bereits besuchte Schulen" bei der zugewiesenen Schule im Feld "Schulform" ein. Grundlage bildet das Schlüsselverzeichnis > Schulformen (Herkunft)“.
+`Schüler > Daten 4 > Finanzielle Förderung > erhält Bafög bis`
+
+Falls der/die Schüler/in Bafög erhält, markieren Sie im Menü `Schüler > Daten 4` im Bereich "Finanzielle Förderung" das Options-Feld "erhält Bafög bis".
+
+**zuletzt besuchte Schulform des Schülers**
+
+`Schüler > Daten 2 > bereits besuchte Schulen > Schulform`
+
+Die "letzte Schulform" tragen Sie im Menü `Schüler > Daten 2` im Bereich "bereits besuchte Schulen" bei der zugewiesenen Schule im Feld "Schulform" ein. Grundlage bildet das `Schlüsselverzeichnis > Schulformen (Herkunft)`.
 
 **letzte schulische Qualifikation Schüler**
 
@@ -251,9 +267,11 @@ Die "letzte schulische Qualif." tragen Sie im Menü `Schüler > Daten 2` im Bere
 
 Die "Entlassklasse" tragen Sie im Menü `Schüler > Daten 2` im Bereich "bereits besuchte Schulen" im Feld "letzte Klasse" ein.
 
-**(A0446)** `Schüler > Daten 2 > Zugang > Zugang am`
+**erste Einschulung**
 
-Die "erste Einschulung" tragen Sie  im Menü Schüler > Daten 2 im Bereich "Zugang" im Feld „Zugang am“ ein.
+`Schüler > Daten 2 > Zugang > Zugang am`
+
+Die "erste Einschulung" tragen Sie  im Menü `Schüler > Daten 2` im Bereich "Zugang" im Feld „Zugang am“ ein.
 
 ## Rentenbescheid.rpt
 
@@ -275,15 +293,17 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0224)** Ausdruck
+**Ausdruck** 
 
 Der Bericht muss aus über `Drucken > Bericht Drucken` (Strg + P) gedruckt werden.
 
 ## RLP-BBS (Bescheinigung Niveaustufen).rpt
 
-**(A0035)** `Klassen > Daten > Bildungsgang`
+**Bildungsgang der Klasse**
 
-Weisen Sie unter Klassen > Daten im Feld "Bildungsgang" zu. Grundlage bildet das Schlüsselverzeichnis "Bildungsgänge".
+`Klassen > Daten > Bildungsgang`
+
+Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
 **SchulleiterIn**
 
@@ -339,9 +359,11 @@ Tragen Sie im Menü "Schüler" im aktuellen Zeitraum auf der Registerkarte "Lauf
 
 ## Schulbescheinigung (mit Klasse und Ausbildungsdauer).rpt
 
-**(A0018)** `Schueler >Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
 
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
+
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
 **Ausdruck**
 
@@ -359,9 +381,11 @@ Tragen Sie die Dauer der Ausbildung im Menü Schüler > Ausbildung im aktuellen 
 
 Schulbescheinigung Typ B 
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
 
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
+
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
 **Ausdruck**
 
@@ -371,7 +395,9 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0284)** `Schüler > Daten 2 > Abgang > Voraus. Ende`
+**voraussichtliches Ende**
+
+`Schüler > Daten 2 > Abgang > Voraus. Ende`
 
 Tragen Sie im Menü `Schüler > Daten 2` im Bereich "Abgang" das Datum für das voraussichtliche Ende im Feld "Voraus. Ende" ein.
 
@@ -389,38 +415,43 @@ Schulbescheinigung Typ C
 
 Tragen Sie im Menü "Schüler" im aktuellen Zeitraum auf der Registerkarte "Laufbahn" unter "Allgemein" im Feld "Empfehlung" die entsprechende Schulform ein.
 
-**(A0021)** `Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale`
+**Merkmale Zeugnisbemerkungen** 
+
+`Schüler > Zeugnis >Bemerkungen/Formulare > Merkmale`
 
 Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls
 es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü Schüler > Zeugnis >Bemerkungen/Formulare. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-**(A0021.25)** `Merkmal > Bedeutung`
-
 Merkmal | Bedeutung
 --|--
 gut  | Gutachten
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Extras > Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter  `Extras > Schlüsselverzeichnisse > Zeiträume`.  Ausgegeben wird hierbei der Eintrag in der Spalte „Ausdruck2“.
 
 ## Schulbescheinigung (SHL - in Word ausfüllbar).rpt
 
-**(A0292)** `Sonstiges > Word`
+**Sonstiges > Word**
 
-Dieser Bericht enthält spezielle Textfelder, die Sie über Microsoft Word ausfüllen können. Gehen Sie dafür folgendermaßen vor:
-
-1. Markieren Sie den zu druckenden Datensatz aus, gehen auf Drucken > Berichte drucken > Bericht auswählen > Vorschau. 
+Dieser Bericht enthält spezielle Textfelder, die Sie über Microsoft Word ausfüllen können. Gehen Sie dafür folgendermaßen vor: 
+1. Markieren Sie den zu druckenden Datensatz aus, gehen auf `Drucken > Berichte drucken > Bericht auswählen > Vorschau`. 
 2. Wählen  Sie im folgenden Programmfenster die Schaltfläche „Bericht exportieren“
 3. Wählen Sie  im Fenster „Format“ bitte  „MS Word“ und im Fenster „Ziel“ bitte „Anwendung“. Bestätigen Sie mit OK.
 4. Der Bericht öffnet sich mit MS Word und Sie können die auszufüllenden Felder per Mausklick aktivieren und füllen.
 
-**(A0284)** `Schüler > Daten 2 > Abgang > Voraus. Ende`
+**voraussichtliches Ende**
 
-Tragen Sie im Menü Schüler > Daten 2 im Bereich "Abgang" das Datum für das voraussichtliche Ende im Feld "Voraus. Ende" ein.
+`Schüler > Daten 2 > Abgang > Voraus. Ende`
 
-**(A0274)** `Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+Tragen Sie im Menü `Schüler > Daten 2` im Bereich "Abgang" das Datum für das voraussichtliche Ende im Feld "Voraus. Ende" ein.
+
+**Zeitraum**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe in der Spalte "Zeitraum" erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte „Ausdruck1“.
 
@@ -438,23 +469,31 @@ Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werde
 
 Tragen Sie im aktuellen Zeitraum im  Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
-**(A0075)** `Klassen > Daten > Kürzel`
+**Klassenkürzel**
 
-Im entsprechenden Zeitraum muss im Menü Klassen > Daten im Feld "Kürzel" die Klasse angeben.
+`Klassen > Daten > Kürzel`
 
-**(A0084)** `Mandanten > Daten 1 > Name 3`
+Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` im Feld "Kürzel" die Klasse angeben.
+
+**Schuldaten**
+
+`Mandanten > Daten 1 > Name 3`
 
 Um den Ort des Druckdatums anzuzeigen, tragen Sie den Ort Ihrer Schule im Menü `Mandanten > Daten 1 > Name 3` ein.
 
 ## Schulbescheinigung (SHL).rpt
 
-**(A0284)** `Schüler > Daten 2 > Abgang > Voraus. Ende`
+**voraussichtliches Ende**
 
-Tragen Sie im Menü Schüler > Daten 2 im Bereich "Abgang" das Datum für das voraussichtliche Ende im Feld "Voraus. Ende" ein.
+`Schüler > Daten 2 > Abgang > Voraus. Ende`
 
-**(A0274)** `Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+Tragen Sie im Menü `Schüler > Daten 2` im Bereich "Abgang" das Datum für das voraussichtliche Ende im Feld "Voraus. Ende" ein.
 
-Die Ausgabe in der Spalte "Zeitraum" erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im Schlüsselverzeichnisse > Zeiträume. Ausgegeben wird hierbei der Eintrag in der Spalte „Ausdruck1“.
+**Zeitraum**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe in der Spalte "Zeitraum" erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte „Ausdruck1“.
 
 **Ausdruck**
 
@@ -470,11 +509,14 @@ Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werde
 
 Tragen Sie im aktuellen Zeitraum im  Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
-**(A0075)** `Klassen > Daten > Kürzel`
+**Klassenkürzel**
 
-Im entsprechenden Zeitraum muss im Menü Klassen > Daten im Feld "Kürzel" die Klasse angeben.
+`Klassen > Daten > Kürzel`
 
-**(A0084)** `Mandanten > Daten 1 > Name 3`
+Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` im Feld "Kürzel" die Klasse angeben.
+**Schuldaten**
+
+`Mandanten > Daten 1 > Name 3`
 
 Um den Ort des Druckdatums anzuzeigen, tragen Sie den Ort Ihrer Schule im Menü `Mandanten > Daten 1 > Name 3` ein.
 
@@ -490,9 +532,11 @@ Schulbescheinigung Typ D (2 DIN A5 Bescheinigungen auf einer DIN A4 Seite)
 
 Tragen Sie im Menü "Schüler" im aktuellen Zeitraum auf der Registerkarte "Laufbahn" unter "Allgemein" im Feld "Empfehlung" die entsprechende Schulform ein.
 
-**(A0007)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+**Zeiträume**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter  `Extras > Schlüsselverzeichnisse > Zeiträume`.  Ausgegeben wird hierbei der Eintrag in der Spalte „Ausdruck2“.
 
 ## Schulbescheinigung BBS (mit Zugang-Abgang der Klasse).rpt
 
@@ -550,10 +594,9 @@ GY ---> GY und IGS
 
 ## Schulzeitenbescheinigung (in Word ausfüllbar).rpt
 
-**(A0292)** `Sonstiges > Word`
+**Sonstiges > Word**
 
 Dieser Bericht enthält spezielle Textfelder, die Sie über Microsoft Word ausfüllen können. Gehen Sie dafür folgendermaßen vor: 
-
 1. Markieren Sie den zu druckenden Datensatz aus, gehen auf `Drucken > Berichte drucken > Bericht auswählen > Vorschau`. 
 2. Wählen  Sie im folgenden Programmfenster die Schaltfläche „Bericht exportieren“
 3. Wählen Sie  im Fenster „Format“ bitte  „MS Word“ und im Fenster „Ziel“ bitte „Anwendung“. Bestätigen Sie mit OK.
@@ -567,9 +610,11 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
 
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
+
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
 **(A0183)** `Mandanten > Daten 1 > Ort`
 
@@ -585,7 +630,9 @@ Der Bericht muss aus über `Drucken > Bericht Drucken` (Strg + P) gedruckt werde
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -671,7 +718,9 @@ SVA | Bemerkung für Schulpflichtverletzung
 
 ## Schüler (Bescheinigung-Laufbahn).rpt
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+***Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -699,9 +748,11 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0284)** `Schüler > Daten 2 > Abgang > Voraus. Ende`
+**voraussichtliches Ende**
 
-Tragen Sie im Menü Schüler > Daten 2 im Bereich "Abgang" das Datum für das voraussichtliche Ende im Feld "Voraus. Ende" ein.
+`Schüler > Daten 2 > Abgang > Voraus. Ende`
+
+Tragen Sie im Menü `Schüler > Daten 2` im Bereich "Abgang" das Datum für das voraussichtliche Ende im Feld "Voraus. Ende" ein.
 
 **Ausgabe Schuljahr**
 
@@ -883,7 +934,9 @@ Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werde
 
 ## Schüler-Abschlussbericht(Schulabgänger).rpt
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -907,14 +960,17 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0463)** `Schüler > Laufbahn > Abschluss > Abschluss 1`
+**Abschluss Schüler**
 
-Den Abschluss des Schülers tragen Sie im Menü Schüler > Laufbahn > Abschluss im Feld  „Abschluss1“ ein. Grundlage bildet das `Schlüsselverzeichnis > Abschlüsse (intern)`.
+`Schüler > Laufbahn > Abschluss > Abschluss 1`
 
-**(A0464)** `Schüler > Zeugnis > Fächer`
+Den Abschluss des Schülers tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im Feld  „Abschluss1“ ein. Grundlage bildet das `Schlüsselverzeichnis > Abschlüsse (intern)`.
 
-Der Abschlussbericht für Schulabgänger gibt aus dem Menü `Schüler > Zeugnis > Fächer` folgende Daten aus, die entsprechend in MAGELLAN eingetragen werden müssen:
+**Abschlussbericht für Schulabgänger**
 
+`Schüler > Zeugnis > Fächer`
+
+Der Abschlussbericht für Schulabgänger gibt aus dem Menü `Schüler > Zeugnis > Fäche`r folgende Daten aus, die entsprechend in MAGELLAN eingetragen werden müssen:
 * Klasse
 * Schuljahr und Halbjahr
 * Fachkürzel
@@ -949,15 +1005,19 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0723)** `Schüler > Daten 4 > Sonstige Daten > Schülerausweis > gültig bis`
+**Gültigkeit Schülerausweis**
+
+`Schüler > Daten 4 > Sonstige Daten > Schülerausweis > gültig bis`
 
 Die Gültigkeit des Schülerausweises tragen Sie im Menü `Schüler > Daten 4 > Sonstige Daten` im Bereich "Schülerausweis" im Feld "gültig bis" ein.
 
 ## Schülerkarteikarte (DIN A5).rpt
 
-**(A0018)** `Schueler >Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
 
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
+
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
 **Sorgeberechtigten des Schülers**
 
@@ -965,9 +1025,11 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüle
 
 Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
 
-**(A0075)** `Klassen > Daten > Kürzel`
+**Klassenkürzel**
 
-Im entsprechenden Zeitraum muss im Menü Klassen > Daten im Feld "Kürzel" die Klasse angeben.
+`Klassen > Daten > Kürzel`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` im Feld "Kürzel" die Klasse angeben.
 
 ## Schülerkarteikarte.rpt
 
@@ -1006,7 +1068,7 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0019.33)** Unterrichtsart Werte
+**Unterrichtsart**
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -1030,9 +1092,11 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0442)** `Schüler > Daten 4 > Finanzielle Förderung > erhält Bafög bis`
+**Bafäg**
 
-Falls der/die Schüler/in Bafög erhält, markieren Sie im Menü Schüler > Daten 4 im Bereich "Finanzielle Förderung" das Options-Feld "erhält Bafög bis".
+`Schüler > Daten 4 > Finanzielle Förderung > erhält Bafög bis`
+
+Falls der/die Schüler/in Bafög erhält, markieren Sie im Menü `Schüler > Daten 4` im Bereich "Finanzielle Förderung" das Options-Feld "erhält Bafög bis".
 
 ## Schülerliste (Einschulmerkmal1 sortiert nach Bewerber-Gesamtnote, Punkte, HF-Note).rpt
 
@@ -1134,7 +1198,9 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0434)** `Schüler > Ausbildung > Ausbildungsbetriebe`
+**Ausbildungsbetriebe**
+
+`Schüler > Ausbildung > Ausbildungsbetriebe`
 
 Tragen Sie den Betrieb im Menü `Schüler > Ausbildung` unter Ausbildungsbetriebe ein.
 
@@ -1190,7 +1256,9 @@ Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werde
 
 Tragen Sie im Menü Schüler > Ausbildung > Beruf  im Feld "Ausbildung" den Beruf des Schülers ein.
 
-**(A0434)** `Schüler > Ausbildung > Ausbildungsbetriebe`
+**Ausbildungsbetriebe**
+
+`Schüler > Ausbildung > Ausbildungsbetriebe`
 
 Tragen Sie den Betrieb im Menü `Schüler > Ausbildung` unter Ausbildungsbetriebe ein.
 
@@ -1220,7 +1288,9 @@ Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werde
 
 Tragen Sie im Menü `Schüler > Ausbildung > Beruf` im Feld "Ausbildung" den Beruf des Schülers ein.
 
-**(A0434)** `Schüler > Ausbildung > Ausbildungsbetriebe`
+**Ausbildungsbetriebe**
+
+`Schüler > Ausbildung > Ausbildungsbetriebe`
 
 Tragen Sie den Betrieb im Menü `Schüler > Ausbildung` unter Ausbildungsbetriebe ein.
 
@@ -1238,11 +1308,15 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0525)** `Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
+**Praxisbetrieb**
+
+`Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
 
 Tragen Sie den Praxisbetrieb im Menü `Schüler > Ausbildung` im Bereich „Ausbildungsbetriebe“ ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Im Feld "Praxisbetrieb" hinterlegen Sie den Betrieb.
 
-**(A0543)** `Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
+**Praxisbetrieb von/bis, Kontakt**
+
+`Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
 
 Tragen Sie den Betrieb des Praktikums im Menü `Schüler > Ausbildung` im Bereich „Ausbildungsbetriebe“ ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Im Feld "Praxisbetrieb" hinterlegen Sie den Betrieb. Erfassen Sie ebenso die "Praktikumsdauer", die "Praxis von" und die "Praxis bis" sowie den "Praxis Kontakt".
 
@@ -1276,10 +1350,11 @@ Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werde
 
 ## Schülerliste (mit Sorgeberechtigten deutsch).rpt
 
-**(A0542)** `Schüler > Daten 1 > Familie`
+**Sorgeberechtigte**
 
-Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. 
+`Schüler > Daten 1 > Familie`
+
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`.
 
 **Ausdruck**
 
@@ -1295,10 +1370,11 @@ Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werde
 
 ## Schülerliste (mit Sorgeberechtigten französisch).rpt
 
-**(A0542)** `Schüler > Daten 1 > Familie`
+**Sorgeberechtigte**
 
-Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen
-Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü Sorgeberechtigte. 
+`Schüler > Daten 1 > Familie`
+
+Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`.
 
 **Ausdruck**
 
@@ -1320,9 +1396,11 @@ Menü `Schüler > Daten1 > Familie`
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0131)** `Schüler > Zeugnis > Details > Tutor`
+**TutorIn**
 
-Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
+`Schüler > Zeugnis > Details > Tutor`
+
+Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` beim jeweiligen Schüler im Feld "Tutor" hinterlegt werden.
 
 ***Systemdatum**
 
@@ -1352,19 +1430,25 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0463)** `Schüler > Laufbahn > Abschluss > Abschluss 1`
+**Abschluss Schüler**
+
+`Schüler > Laufbahn > Abschluss > Abschluss 1`
 
 Den Abschluss des Schülers tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im Feld  „Abschluss1“ ein. Grundlage bildet das `Schlüsselverzeichnis > Abschlüsse (intern)`.
 
 ## Schülerliste (Tagebuch mit Betrieben).rpt
 
-**(A0228)** `Schüler > Ausbildung > Ausbildungsbetriebe > Beruf`
+**Beruf Schüler**
 
-Tragen Sie im Menü `Schüler > Ausbildung > Beruf` im Feld "Ausbildung" den Beruf des Schülers ein.
+`Schüler > Ausbildung > Ausbildungsbetriebe > Beruf `
+
+Tragen Sie im Menü `Schüler > Ausbildung > Beruf`  im Feld "Ausbildung" den Beruf des Schülers ein.
 
 ## Schülerliste (zeitraumübergreifende Fehlzeiten).rpt
 
-**(A0013)** `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage, Fehlstunden**
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -1396,13 +1480,17 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0322)** `Schüler > Daten 2 > Abgang > Abgangsart`
+**Abgangsart**
 
-Tragen Sie die Abgangsart im Schüler > Daten 2 im Bereich "Abgang" im Feld "Abgangsart" ein. Grundlage für das Zuweisen einer  Abgangsart bildet das `Schlüsselverzeichnis > Abgangsarten (Schüler)`.
+`Schüler > Daten 2 > Abgang > Abgangsart`
+
+Tragen Sie die Abgangsart im `Schüler > Daten 2` im Bereich "Abgang" im Feld "Abgangsart" ein. Grundlage für das Zuweisen einer  Abgangsart bildet das `Schlüsselverzeichnis >Abgangsarten (Schüler)`.
 
 ## Schülerpersonalblatt (mit Fremdsprachen)**A5.rpt
 
-**(A0018)** `Schueler > Daten 2 > Zugang am und/oder Abgang am`
+**Zugang am und/oder Abgang am** 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
@@ -1529,13 +1617,17 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0434)** `Schüler > Ausbildung > Ausbildungsbetriebe`
+**Ausbildungsbetriebe**
+
+`Schüler > Ausbildung > Ausbildungsbetriebe`
 
 Tragen Sie den Betrieb im Menü `Schüler > Ausbildung` unter Ausbildungsbetriebe ein.
 
-**(A0525)** `Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
+**Praxisbetrieb**
 
-Tragen Sie den Praxisbetrieb im Menü Schüler > Ausbildung im Bereich „Ausbildungsbetriebe“ ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Im Feld "Praxisbetrieb" hinterlegen Sie den Betrieb.
+`Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
+
+Tragen Sie den Praxisbetrieb im Menü `Schüler > Ausbildung` im Bereich „Ausbildungsbetriebe“ ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Ausbildungsbetrieb zuweisen bzw. bearbeiten. Im Feld "Praxisbetrieb" hinterlegen Sie den Betrieb.
 
 ## Schülerpersonalblatt incl. Schuleintritt (mit Vorbildung).rpt
 
@@ -1557,11 +1649,15 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0273)** `Schlüsselverzeichnisse > Zeiträume`
+**Von/Bis Datum des Zeitraumes**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume`
 
 Die Ausgabe des "von" - "bis" Datums des Zeitraumes ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben werden hierbei die Einträge in den Spalten „Von“ und "Bis".
 
-**(A0274)** `Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Zeitraum**
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe in der Spalte "Zeitraum" erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte „Ausdruck1“.
 
@@ -1611,20 +1707,18 @@ AG | AG | Arbeitsgemeinschaft
 
 ## Unfallanzeige (in Word ausfüllbar).rpt
 
-**Schülträger der Schule**
+**Schulträger der Schule**
 
 `Mandanten > Daten 1 > Schulträger`
 
 Tragen Sie im Menü `Mandanten > Daten 1` den Schulträger im Feld „Schulträger“ ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulträger`.
-
 **(A0282)** `Adressen`
 
 Um die Ausgabe des Empfängers zu gewährleisten, legen Sie die Adresse Ihrer Unfallkasse im Menü Adressen an. Weisen Sie der Unfallkasse das "Kürzel" "unfall" zu.
 
-**(A0292)** `Sonstiges > Word`
+**Sonstiges > Word**
 
-Dieser Bericht enthält spezielle Textfelder, die Sie über Microsoft Word ausfüllen können. Gehen Sie dafür folgendermaßen vor:
-
+Dieser Bericht enthält spezielle Textfelder, die Sie über Microsoft Word ausfüllen können. Gehen Sie dafür folgendermaßen vor: 
 1. Markieren Sie den zu druckenden Datensatz aus, gehen auf `Drucken > Berichte drucken > Bericht auswählen > Vorschau`. 
 2. Wählen  Sie im folgenden Programmfenster die Schaltfläche „Bericht exportieren“
 3. Wählen Sie  im Fenster „Format“ bitte  „MS Word“ und im Fenster „Ziel“ bitte „Anwendung“. Bestätigen Sie mit OK.
@@ -1638,18 +1732,20 @@ Dieser Bericht enthält spezielle Textfelder, die Sie über Microsoft Word ausf�
 
 Tragen Sie im aktuellen Zeitraum im `Schüler > Daten 1 > Familie`  die Sorgeberechtigten des Schülers ein. Wenn Sie die Schaltfläche "Hinzufügen" oder "Editieren" anklicken, können Sie einen Sorgeberechtigten zuweisen, neu anlegen oder ändern. Grundlage bildet das Menü `Sorgeberechtigte`. Für den Zeugnisdruck sind nur die Sorgeberechtigten, die unter `Schüler > Familie` im Feld "Benachrichtigung" "immer" enthalten, relevant.
 
-**(A0281)** `Mandanten > Daten 1 > Schulträger`
+**Schulträger der Schule**
+
+`Mandanten > Daten 1 > Schulträger`
 
 Tragen Sie im Menü `Mandanten > Daten 1` den Schulträger im Feld „Schulträger“ ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulträger`.
 
 ## Unfallanzeige.rpt
 
-**(A0281)** `Mandanten > Daten 1 > Schulträger`
+**Schulträger der Schule**
 
-Tragen Sie im Menü Mandanten > Daten 1 den Schulträger im Feld „Schulträger“ ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulträger`.
+`Mandanten > Daten 1 > Schulträger`
+
+Tragen Sie im Menü `Mandanten > Daten 1` den Schulträger im Feld „Schulträger“ ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulträger`.
 
 **(A0282)** `Adressen`
 
 Um die Ausgabe des Empfängers zu gewährleisten, legen Sie die Adresse Ihrer Unfallkasse im Menü Adressen an. Weisen Sie der Unfallkasse das "Kürzel" "unfall" zu.
-
-## Unfallbericht.rpt
