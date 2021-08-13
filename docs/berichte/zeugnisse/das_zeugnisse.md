@@ -9,7 +9,9 @@
 [12]:/assets/images/DAS/das12.png
 [13]:/assets/images/DAS/das13.png
 [14]:/assets/images/DAS/das14.png
-
+[15]:/assets/images/DAS/das15.png
+[16]:/assets/images/DAS/das16.png
+[17]:/assets/images/DAS/das17.png
 
 ## DAS-GY-ABI (DIA)(2021).rpt
 
@@ -1977,20 +1979,20 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
-Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
+Bitte verwenden Sie im Feld "Merkmal" folgendes Kürzel:
 
 Merkmal | Bedeutung
 --|--
 MSA | Zeugnisbemerkung für das MSA Zeugnis
+
+[![Zeugnisbemerkung mit Merkmal "MSA"][17]][17]
 
 `Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
-
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
-
 `Berufsschule > Zeugnisbemerkungen`
 
 Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
@@ -2018,7 +2020,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**Mandanten**
+**Schulname**
 
 `Mandanten > Daten > Name 1`
 
@@ -2047,11 +2049,17 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 Der Bericht muss aus dem Menü `Start > Drucken > Zeugnisse Drucken...` (Strg + Z) gedruckt werden.
 
-**Durchschnittsnote**
+**Gesamtbewertung**
+
+Innerhalb eines Zeitraums kann mit Hilfe des Berechnungsskriptes DE-MSA-2019.dws der Notendurchschnitt gemäß Ordnung für den Abschluss der Sekundarstufe I an Deutschen Schulen im Ausland vom 16.03.2017 ermittelt werden. Lesen Sie dazu bitte folgende Anleitung zum Skript [DE-MSA-2019.dws](https://doc.la.stueber.de/01.de/de-msa-2019dws/)
+
+Sie können die Durchschnittsnote auch manuell erfassen.
 
 `Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
 Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
+
+[![`Schüler > Zeugnis > Leistungen`][15]][15]
 
 **schriftl./mdl. Prüfungsnoten**
 
@@ -2063,6 +2071,8 @@ Spalte | Note
 --|--
 Spalte "Schriftl. Note 1"| schriftliche Note
 Spalte "Mündl. Note" | mündliche Note
+
+[![mdl./schriftl. Noten der Prüfungsfächer][16]][16]
 
 ## DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6)(ab2020).rpt
 
