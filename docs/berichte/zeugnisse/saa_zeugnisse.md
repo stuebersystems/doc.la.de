@@ -38,11 +38,6 @@ WahlPF | WahlPF | Wahlpflichtbereich Profil
 ZusatzK | ZusatzK | Fach für das Betriebsparktikum oder für die berufspraktische Asbildung, Fach für eine Abschlussarbeit, Fach für Zusatzausbildung , 
 Projekt | Projekt | Fach für das Kolloquium oder Projekt
 
-**(A0016)** Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
-
 **Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
@@ -50,8 +45,6 @@ so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dür
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-**(A0019.12)** 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -75,8 +68,6 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 `Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
-
-**(A0017.3)** 
 
 Aufgabenbereich|  Zeugnisbereich
 --|--
@@ -125,11 +116,6 @@ WahlPF | WahlPF | Wahlpflichtbereich Profil
 ZusatzK | ZusatzK | Fach für das Betriebsparktikum oder für die berufspraktische Asbildung, Fach für eine Abschlussarbeit, Fach für Zusatzausbildung , 
 Projekt | Projekt | Fach für das Kolloquium oder Projekt
 
-**(A0016)** Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
-
 **Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
@@ -137,8 +123,6 @@ so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dür
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-**(A0019.12)** 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -190,16 +174,21 @@ Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 
 ## SAA-GS (Entwicklungsbericht der Vorklasse).rpt
 
-**(A0001)** Klassen > Daten > Beurteilungsart > Beurteilungstexte
+**Klassen**
 
-Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Beurteilungstexte" zugewiesen sein.
+`Klassen > Daten > Beurteilungsart > Beurteilungstexte`
 
-**(A0005)** Extras > Schlüsselverzeichnisse > Fächer > GESAMTB
+`Menü > Klassen > Daten` muss bei der Klasse des Schülers im Feld Beurteilungsart "Beurteilungstexte" zugewiesen sein.
 
-Im Schlüsselverzeichnis Fächer muss ein Fach angelegt werden, das "Gesamtbeurteilung" o. ä. heißt. Der Schlüssel des Fachs muss "GESAMTB" lauten, das Kürzel kann beliebig benannt werden. Ordnen Sie dem
-Schüler auf der Registerkarte "Zeugnis" unter "Fächer" dieses Fach zu. Die Definition des Faches sollte folgendermaßen lauten:
-Kürzel > Schlüssel > Bezeichnung
-GESAMTB 	> GESAMTB >Gesamtbeurteilung
+**Fach Gesamtbeurteilung anlegen**
+
+`Extras > Schlüsselverzeichnisse > Fächer`
+
+Im `Schlüsselverzeichnis > Fächer` muss ein Fach angelegt werden, das "Gesamtbeurteilung" o. ä. heißt. Der Schlüssel des Fachs muss "GESAMTB" lauten, das Kürzel kann beliebig benannt werden. Ordnen Sie dem Schüler im Menü `Schüler > Zeugnis > Fächer` dieses Fach zu. Die Definition des Faches sollte folgendermaßen lauten:
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+GESAMTB | GESAMTB | Gesamtbeurteilung
 
 **Zeiträume**
 
@@ -215,16 +204,21 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 ## SAA-GS-HJZ (Klasse 1-2).rpt
 
-**(A0001)** Klassen > Daten > Beurteilungsart > Beurteilungstexte
+**Klassen**
 
-Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Beurteilungstexte" zugewiesen sein.
+`Klassen > Daten > Beurteilungsart > Beurteilungstexte`
 
-**(A0005)** Extras > Schlüsselverzeichnisse > Fächer > GESAMTB
+`Menü > Klassen > Daten` muss bei der Klasse des Schülers im Feld Beurteilungsart "Beurteilungstexte" zugewiesen sein.
 
-Im Schlüsselverzeichnis Fächer muss ein Fach angelegt werden, das "Gesamtbeurteilung" o. ä. heißt. Der Schlüssel des Fachs muss "GESAMTB" lauten, das Kürzel kann beliebig benannt werden. Ordnen Sie dem
-Schüler auf der Registerkarte "Zeugnis" unter "Fächer" dieses Fach zu. Die Definition des Faches sollte folgendermaßen lauten:
-Kürzel > Schlüssel > Bezeichnung
-GESAMTB 	> GESAMTB >Gesamtbeurteilung
+**Fach Gesamtbeurteilung anlegen**
+
+`Extras > Schlüsselverzeichnisse > Fächer`
+
+Im `Schlüsselverzeichnis > Fächer` muss ein Fach angelegt werden, das "Gesamtbeurteilung" o. ä. heißt. Der Schlüssel des Fachs muss "GESAMTB" lauten, das Kürzel kann beliebig benannt werden. Ordnen Sie dem Schüler im Menü `Schüler > Zeugnis > Fächer` dieses Fach zu. Die Definition des Faches sollte folgendermaßen lauten:
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+GESAMTB | GESAMTB | Gesamtbeurteilung
 
 **Zeiträume**
 
@@ -248,8 +242,6 @@ Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie könne
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-**(A0021.4)** 
 
 Merkmal | Bedeutung
 --|--
@@ -257,17 +249,20 @@ beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahm
 
 ## SAA-GS-JZ (Klasse 2-3).rpt
 
-**(A0002)** Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten
+**Benotung in Klassen**
 
-Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Noten" angegeben sein.
-(hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung)
+`Klassen > Daten > Beurteilungsart > Benotung durch Noten` 
 
-**(A0003)** Extras > Schlüsselverzeichnisse > Fächer
+Im Menü `Klassen > Daten` muss bei der Klasse des Schülers im Feld Beurteilungsart `Benotung durch Noten` angegeben sein. (hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung)
 
-Unter Extras > Schlüsselverzeichnisse > Fächer müssen bestimmte Fächer eingetragen sein. Für den Zeugnisdruck ist nur der Wert in der Spalte "Schlüssel" des Faches relevant, das Kürzel kann beliebig gewählt werden. Diese Fächer müssen im Menü "Schüler > Zeugnis > Fächer" als Fächer zugewiesen sein.
+**Fächer**
+
+`Extras > Schlüsselverzeichnisse > Fächer`
+
+Unter `Extras > Schlüsselverzeichnisse > Fächer` müssen bestimmte Fächer eingetragen sein. Für den Zeugnisdruck ist nur der Wert in der Spalte "Schlüssel" des Faches relevant, das Kürzel kann beliebig gewählt werden. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` als Fächer zugewiesen sein.
 Folgende Fächer dürfen im Zeugnisdruck verwendet werden:
 
-**(A0003.6)** Kürzel  |  Schlüssel  |  Bezeichnung
+Kürzel  |  Schlüssel  |  Bezeichnung
 --|--|--
 DE  |  DE  |  Deutsch
 LESEN  |  LESEN  |  Lesen
@@ -281,9 +276,11 @@ SSPRACHE |  SSPRACHE  |  Schriftlicher Sprachgebrauch
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Zeugniskonferenzdatum**
 
@@ -313,8 +310,6 @@ Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie könne
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-**(A0021.6)** 
 
 Merkmal | Bedeutung
 --|--
@@ -322,23 +317,18 @@ ZusatzK  |  Allgemeine Beurteilung
 
 ## SAA-GS-JZ (Klasse 4).rpt
 
-**(A0002)** Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten
+**Benotung in Klassen**
 
-Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Noten" angegeben sein.
-(hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung)
+`Klassen > Daten > Beurteilungsart > Benotung durch Noten` 
 
-**(A0003)** Extras > Schlüsselverzeichnisse > Fächer
+Im Menü `Klassen > Daten` muss bei der Klasse des Schülers im Feld Beurteilungsart `Benotung durch Noten` angegeben sein. (hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung)
 
-Unter Extras > Schlüsselverzeichnisse > Fächer müssen bestimmte Fächer eingetragen sein. Für den Zeugnisdruck ist nur der Wert in der Spalte "Schlüssel" des Faches relevant, das Kürzel kann beliebig gewählt werden. Diese Fächer müssen im Menü "Schüler > Zeugnis > Fächer" als Fächer zugewiesen sein.
+**Fächer**
+
+`Extras > Schlüsselverzeichnisse > Fächer`
+
+Unter `Extras > Schlüsselverzeichnisse > Fächer` müssen bestimmte Fächer eingetragen sein. Für den Zeugnisdruck ist nur der Wert in der Spalte "Schlüssel" des Faches relevant, das Kürzel kann beliebig gewählt werden. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` als Fächer zugewiesen sein.
 Folgende Fächer dürfen im Zeugnisdruck verwendet werden:
-
-**(A0003.6)** Kürzel  |  Schlüssel  |  Bezeichnung
---|--|--
-DE  |  DE  |  Deutsch
-LESEN  |  LESEN  |  Lesen
-MSPRACHE |  MSPRACHE  |  Mündlicher Sprachgebrach
-RECHTS  | RECHTS  |  Rechtschreibung/Sprachgebrauch
-SSPRACHE |  SSPRACHE  |  Schriftlicher Sprachgebrauch
 
 **Zeiträume**
 
@@ -346,9 +336,11 @@ SSPRACHE |  SSPRACHE  |  Schriftlicher Sprachgebrauch
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Zeugniskonferenzdatum**
 
@@ -378,8 +370,6 @@ Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie könne
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-**(A0021.6)** 
 
 Merkmal | Bedeutung
 --|--
@@ -401,9 +391,11 @@ Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesl
 
 ## SAA-GY-AZ (Einführungsphase).rpt
 
-**(A0006)** `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+**Ausgabe Schulhalbjahr**
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **Zeiträume**
 
@@ -427,11 +419,6 @@ WahlPF | WahlPF | Wahlpflichtbereich Profil
 ZusatzK | ZusatzK | Fach für das Betriebsparktikum oder für die berufspraktische Asbildung, Fach für eine Abschlussarbeit, Fach für Zusatzausbildung , 
 Projekt | Projekt | Fach für das Kolloquium oder Projekt
 
-**(A0016)** Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
-
 **Unterrichtsarten**
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
@@ -439,8 +426,6 @@ so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dür
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-**(A0019.12)** 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -471,8 +456,6 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
-**(A0017.3)** 
-
 Aufgabenbereich|  Zeugnisbereich
 --|--
 sprachl.-lit.-künstlerisch > Sprachlich-literarisch-künstlerisches Aufgabenfeld
@@ -492,7 +475,7 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Für den Zeugnisdruck des Abiturs lesen Sie bitte die Anleitung zu Ihrem Bundesland in unserer Online Dokumentation, die bildet die Grundlage.
 
-**(A0033)** `Ausdruck > DIN A 4 Format, doppelseitig`
+**Ausdruck**
 
 Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 
@@ -531,9 +514,11 @@ Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
 
 ## SAA-GY-AZ (Sekundarstufe I).rpt
 
-**(A0008)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
 **Fachstatus** 
 
