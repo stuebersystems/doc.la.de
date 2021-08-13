@@ -12,6 +12,10 @@
 [15]:/assets/images/DAS/das15.png
 [16]:/assets/images/DAS/das16.png
 [17]:/assets/images/DAS/das17.png
+[18]:/assets/images/DAS/das18.png
+[19]:/assets/images/DAS/das19.png
+[20]:/assets/images/DAS/das20.png
+[21]:/assets/images/DAS/das21.png
 
 ## DAS-GY-ABI (DIA)(2021).rpt
 
@@ -22,9 +26,13 @@ Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an De
 *Die Richtlinien für die Ausweisung der Sprachen auf den Abschlusszeugnissen der Deutschen Schulen im Ausland
 (Zeugnisse über die Allgemeine Hochschulreife) Beschluss der Kultusministerkonferenz vom 25.09.2019 ist in diesem Formular umgesetzt.*
 
+!!! info "Hinweis"
+
+    Die Abiturqualifikationsberechnung in MAGELLAN können Sie mit Hilfe eines Berechnungsskriptes durchführen. Lesen Sie dazu bitte die Anleitung zum entsprchenden Berechnungsskript [DE-DIAP-2018](https://doc.la.stueber.de/01.de/de-diap-2018/) 
+
 **Aufgabenbereich**
 
-`Schlüsselverzeichnis > Fächer > Aufgabenbereich`
+`Extras > Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
 Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
 
@@ -58,23 +66,25 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-`Klassen > Daten > Abteilung UND Schlüsselverzeichnis > Abteilungen`
+`Klassen > Daten > Abteilung` UND `Extras > Schlüsselverzeichnis > Abteilungen`
  
 Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
 
-1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
-2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
+1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
+2. Unter `Extras > Schlüsselverzeichnisse > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**Drucken**
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" über das Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` über `Start > Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**Lernleistung**
+**Besondere Lernleistung**
 
 `Abitur > Prüfung > Lernleistung`
 
-Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü "Abitur" unter der Registerkarte "Prüfung" im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
-Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu 
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
+Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
+
+[![Erfassen der besonderen Lernleistung][20]][20]
 
 **Zeugnisdatum**
 
@@ -89,7 +99,7 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" 
 Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein. Die Fächer werden beim Starten des Verordnungsskriptes auf der Unterkarte `Qualifikation` automatisch eingetragen.
 
 Der Fachstatus muss unter `Abitur > Qualifikation > Fachstatus` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Fachstatus` übernommen werden.  
-Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
+Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung       |
 |--------|-----------|-----------------|
@@ -197,9 +207,7 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
-
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`
-
 `Berufsschule > Zeugnisbemerkungen`
 
 Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
@@ -233,6 +241,10 @@ ZEUGNIS DER Zeugnis der ALLGEMEINEN HOCHSCHULREIFE mit besonderer Lernleistung
 Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland  (Beschluss der Kultusministerkonferenz vom 11.06.2015 i.d.F. vom 03.05.2018) zugrunde.
 (Anlage 8a zu DIA-PO [§ 37])
 
+!!! info "Hinweis"
+
+    Die Abiturqualifikationsberechnung in MAGELLAN können Sie mit Hilfe eines Berechnungsskriptes durchführen. Lesen Sie dazu bitte die Anleitung zum entsprchenden Berechnungsskript [DE-DIAP-2018](https://doc.la.stueber.de/01.de/de-diap-2018/) 
+
 **Aufgabenbereich**
 
 `Extras > Schlüsselverzeichnis > Fächer > Aufgabenbereich`
@@ -265,14 +277,14 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-`Klassen > Daten > Abteilung UND Schlüsselverzeichnis > Abteilungen`
+`Klassen > Daten > Abteilung` UND `Extras > Schlüsselverzeichnisse > Abteilungen`
  
 Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
 
 1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**Drucken**
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" über das Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -436,13 +448,29 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 ## DAS (Zwischenzeugnis) Variante 2.rpt
 
-Dieser Bericht gibt die Arbeitsgemeinschaften untereinander aus, die Arbeitsgemeinschaften werden individuell beurteilt.
+**Arbeitsgemeinschaften**
+
+Bitte legen Sie Ihre Arbeitsgemeinschaften unter `Extras > Schüsselverzeichnisse > Fächer` als Fachzeilen an. Verteilen Sie die Arbeitsgemeinschaften per Sammelzuweisung der Fachtafeln oder weisen sie direkt dem Schüler unter `Schüler > Zeugnis > Fächer` die entsprechenden Fächer der AGs zu. Weisen Sie die Fachzeilen bitte den Fachstatus "AG". 
+ 
+Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
+
+Kürzel | Schlüssel | Zeugnisbereich
+--|--|---
+AG | AG | Arbeitsgemeinschaft
+SozialV | SozialV | Sozialverhalten
+
+Der Bericht gibt die Arbeitsgemeinschaften untereinander aus, die Arbeitsgemeinschaften werden individuell beurteilt.
+
 Mögliche Beurteilungen:
 
 - Mit sehr gutem Erfolg teilgenommen
 - Mit gutem Erfolg teilgenommen
 - Mit Erfolg teilgenommen
 - Teilgenommen
+
+Damit Ihnen diese Beurteilungen unter `Schüler > Zeugnis > Leistungen` im Feld "Endnote" zur Auswahl stehen, legen Sie diese Einträge im `Schlüsselverzeichnis > Noten` an. Achten Sie darauf, dass Sie im Feld "Notenart" Füllwert hinterlegen.
+
+[![Notenverzeichnis][21]][21]
 
 **Zeiträume**
 
@@ -455,17 +483,6 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-**Arbeitsgemeinschaften**
-
- Bitte legen Sie Ihre Arbeitsgemeinschaften unter `Schüsselverzeichnisse > Fächer` als Fachzeilen an. Verteilen Sie die Arbeitsgemeinschaften per Sammelzuweisung der Fachtafeln oder weisen sie direkt dem Schüler unter `Schüler > Zeugnis > Fächer` die entsprechenden Fächer der AGs zu. Weisen Sie die Fachzeilen bitte den Fachstatus AG. 
- 
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|---
-AG | AG | Arbeitsgemeinschaft
-SozialV | SozialV | Sozialverhalten
 
 **Fachpostitionen**
 
@@ -497,9 +514,9 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Drucken**
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 Der Bericht muss aus über `Drucken > Bericht Drucken` (Strg + P) gedruckt werden.
 
 **Zeugnisbemerkungen**
@@ -567,7 +584,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 4PF  |  4PF | 4. Prüfungsfach
 5PF | 5PF | 5. Prüfungsfach (nur mündlich) Pflichtbereich
 
-**Drucken**
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -1073,7 +1090,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-`Klassen > Daten > Abteilung UND Schlüsselverzeichnis > Abteilungen`
+`Klassen > Daten > Abteilung` UND `Extras > Schlüsselverzeichnisse > Abteilungen`
 
 Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
 
@@ -1087,7 +1104,7 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**Drucken**
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -1241,7 +1258,7 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**Drucken**
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
@@ -1598,7 +1615,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 `Schüler > Drucken > Zeugnisse drucken...`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus dem Menü `Start > Drucken > Zeugnisse Drucken...` (Strg + Z) gedruckt werden.
 
@@ -1681,7 +1698,7 @@ Religion | Weitere Fächer
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**Drucken**
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -1926,7 +1943,7 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**Fachstatus**
+**Prüfungsfächer - Fächer der Abschlussprüfung**
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -1940,6 +1957,9 @@ Kürzel |  Schlüssel | Bezeichnung
 2 PF  | 2 PF  | 2. Prüfungsfach
 3 PF  | 3 PF  | 3. Prüfungsfach
 4 PF  | 4 PF  | 4. Prüfungsfach
+5 PF  | 5 PF  | 5. Prüfungsfach
+
+[![Prüfungsfächer][19]][19]
 
 **Fremdsprachen**
 
@@ -1970,6 +1990,8 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
+[![Sprachreferenzen][18]][18]
+
 **Zeugnisbemerkungen**
 
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
@@ -1986,6 +2008,8 @@ Merkmal | Bedeutung
 MSA | Zeugnisbemerkung für das MSA Zeugnis
 
 [![Zeugnisbemerkung mit Merkmal "MSA"][17]][17]
+
+**Platzhalter in Zeugnisbemerkungen** 
 
 `Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
@@ -2043,11 +2067,13 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Drucken**
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus dem Menü `Start > Drucken > Zeugnisse Drucken...` (Strg + Z) gedruckt werden.
+
+Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
 **Gesamtbewertung**
 
@@ -2120,9 +2146,9 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Drucken**
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **Zeugnisbemerkungen**
 
@@ -2259,13 +2285,13 @@ AG | AG | Arbeitsgemeinschaft
 
 [![Eintragungen in MAGELLAN][7]][7]
 
-**Drucken**
+**Ausdruck**
 
 `Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **Schule**
 
@@ -2425,12 +2451,12 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-**Drucken**
+**Ausdruck**
 
 `Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **Schule**
 
@@ -2580,12 +2606,12 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-**Drucken**
+**Ausdruck**
 
 `Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **Schule**
 
@@ -2754,12 +2780,12 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-**Drucken**
+**Ausdruck**
 
 `Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **Schule**
 
@@ -2941,10 +2967,10 @@ Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuelle
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Drucken**
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **Zeugnisbemerkungen**
 
@@ -3108,9 +3134,9 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Drucken**
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **Zeugnisbemerkungen**
 
@@ -3204,12 +3230,15 @@ WahlPF | WahlPF | Wahlpflichtbereich
 
 `Extras > Schlüsselverzeichnisse > Fächer`
 
-Bitte legen Sie Ihre Arbeitsgemeinschaften unter ´Schlüsselverzeichnisse > Fächer´ als Fachzeilen an. Verteilen  Sie die Arbeitsgemeinschaften in per Sammelzuweisung der Fachtafeln oder weisen sie direkt dem Schüler unter ´Schüler > Zeungis > Fächer´ zu. Markieren Sie die Fachzeilen bitte mit dem Fachstatus AG. Legen Sie dazu den Fachstatus einmalig wie folgt an:
-´Schlüsselverzeichnisse > Fachstatus´
+Bitte legen Sie Ihre Arbeitsgemeinschaften unter `Schlüsselverzeichnisse > Fächer` als Fachzeilen an. Verteilen Sie die Arbeitsgemeinschaften per Sammelzuweisung der Fachtafeln oder weisen sie direkt dem Schüler unter `Schüler > Zeungis > Fächer` zu. Markieren Sie die Fachzeilen bitte mit dem Fachstatus AG. Legen Sie dazu den Fachstatus einmalig wie folgt an:
+
+`Extras > Schlüsselverzeichnisse > Fachstatus`
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
 AG | AG  | Arbeitsgemeinschaft
+
+**Zeugnisbemerkungen**
 
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -3224,9 +3253,13 @@ CiU | Computer im Unterricht
 
 Beachten Sie, dass die Bereiche nur bei bestimmten Jahrgängen ausgegeben werden. 
 
+**Fächerpositionierung**
+
 `Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+
+**SchulleiterIn / KlassenleiterIn** 
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -3236,50 +3269,74 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
+**Zeitraum**
+
 `Schlüsselverzeichnis > Zeiträume > Art`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Art". Tragen Sie den von und bis Zeitraum unter "Von" und "Bis" ein.
+
+**Zeugnisdatum**
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
 
-`Ausdruck`
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+**Zeugnisbemerkungen**
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-`Ausdruck`
+**Ausdruck**
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
+Der Bericht muss aus dem Menü `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+
+**Schulart**
 
 `Schüler > Laufbahn > Allgemein > Schulart` Oder `Klassen > Daten > Schulart`
 
-Das Zeugnis ist von der 5. bis zur 12. Klasse konzipiert. Die richtige Ausgabe errechnet sich aus dem Jahrgang. Bis einschließlich der 10. Klasse erfolgt die Ausgabe nach Klassenstufe, ab der 11. gemäß Qualifikationsphase. Bis zur 10. Klasse müssen Sie auch die Schulart eintragen.  Sie können dem Schüler seine „Schulart“ individuell oder Klassenweise zuweisen. Vorrang bei der Ausgabe hat die „Schulart“ nach Schüler, falls Sie die „Schulart“ klassenweise ausgeben möchten, lassen Sie das Feld „Schulart“ im Menu `Schüler > Laufbahn> Allgemein` im Feld "Schulart“ beim Schüler leer.
+Das Zeugnis ist von der 5. bis zur 12. Klasse konzipiert. Die richtige Ausgabe errechnet sich aus dem Jahrgang. Bis einschließlich der 10. Klasse erfolgt die Ausgabe nach Klassenstufe, ab der 11. gemäß Qualifikationsphase. Bis zur 10. Klasse müssen Sie auch die Schulart eintragen.  Sie können dem Schüler seine „Schulart“ individuell oder Klassenweise zuweisen. Vorrang bei der Ausgabe hat die „Schulart“ nach Schüler, falls Sie die „Schulart“ klassenweise ausgeben möchten, lassen Sie das Feld „Schulart“ im Menü `Schüler > Laufbahn> Allgemein` im Feld "Schulart“ beim Schüler leer.
 
 1) Schulart Schülerweise: Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` die Schulart im Feld „Schulart“ ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Schularten.
 
 2) Schulart Klassenweise:  Tragen Sie im Menü `Klassen > Daten` die Schulart im Feld „Schulart“ ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`.
 
-Beachten Sie die Bezeichnungen der Schulart im `Schlüsselverzeichnis > Schularten`:
+Beachten Sie die Bezeichnungen der Schulart unter `Extras > Schlüsselverzeichnisse > Schularten`:
 
 Bezeichnung | Ausgabe im Bericht
 --|--
 Grundschule | Klasse der Grundschule besucht
 Realschule | Klasse der Realschule besucht
-Gymnasium | Klasse des Gymnasium besucht"
+Gymnasium | Klasse des Gymnasium besucht
 
-`Extras > Schlüsselverzeichnisse > Noten > Notenart`
+`Schüler > Laufbahn > Allgemein > Schulart` oder `Klasse > Daten > Schulart` 
+
+Die Schulart des Schülers tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Allgemein > Schulart` oder im `Klasse > Daten` die Schulfart im Feld "Schulart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`. Das Zeugnis fragt die "Bezeichnung" aus dem `Schlüsselverzeichnis > Schularten` ab, diese müssen wie folgt erfasst werden: 
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+beliebig (GS) | leer | Grundschule
+beliebig (GYM) | leer | Gymnasium
+beliebig (HS) | leer | Hauptschule
+beliebig (OS) | leer | Orientierungsstufe
+beliebig (RS) | leer | Realschule
+
+**Benotung**
+
+`Extras > Schlüsselverzeichnisse > Noten`
 
 Beim Anlegung Ihrer Noten im `Schlüsselverzeichnis > Noten` weisen Sie Ihrer Note den entsprechenden Notenwert "Punktwert" oder "Notenwert" zu, da die Unterscheidung für Berechnungen benötigt wird.
+
+**Ausdruck**
 
 `Schüler > Drucken > Zeugnisse drucken...`
 
 Das Zeugnis ist von der 3. bis zur 12. Klasse konzipiert.
+
+**Zeugnisbemerkungen**
 
 `Schüler > Zeugnis > Bemerkungen/Formulare` ODER
 `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
@@ -3310,18 +3367,6 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin  (je nach Geschlecht des Schülers) 
 ``<<DemSchueler_DerSchuelerin>> `` |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)"
 
-`Schüler > Laufbahn > Allgemein > Schulart` oder `Klasse > Daten > Schulart` 
-
-Die Schulart des Schülers tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Allgemein > Schulart` oder im `Klasse > Daten` die Schulfart im Feld "Schulart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`. Das Zeugnis fragt die "Bezeichnung" aus dem `Schlüsselverzeichnis > Schularten` ab, diese müssen wie folgt erfasst werden: 
-
-Kürzel | Schlüssel | Bezeichnung
---|--|--
-beliebig (GS) | leer | Grundschule
-beliebig (GYM) | leer | Gymnasium
-beliebig (HS) | leer | Hauptschule
-beliebig (OS) | leer | Orientierungsstufe
-beliebig (RS) | leer | Realschule"
-
 ## Archiv DAS-GY-ABI (Anlage 7).rpt
 
 ALT: Bitte verwenden Sie den Bericht DAS-GY-ABI (DIA)(2019).rpt
@@ -3346,7 +3391,7 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-`Ausdruck`
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -3367,7 +3412,7 @@ Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüf
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-`Ausdruck`
+**Ausdruck**
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
@@ -3491,9 +3536,11 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-`Ausdruck`
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+
+**Zeugnisbemerkungen**
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
