@@ -31,7 +31,7 @@ Zur Berechnung der Abschlussprüfung existieren eine feste Anzahl Fächer, die d
 |beliebig|BERA |Warenpräsentation und Ladengestaltung|
 |beliebig|VERK |Sortimentsgestaltung|
 
-Um die Fächer für die Abschlussprüfung zu kennzeichnen, muss das Feld „Schwerpunkt“ unter ```Schüler > Zeugnis > Fächer```mit folgendem Schlüssel angegeben werden.
+Um die Fächer für die Abschlussprüfung zu kennzeichnen, muss das Feld „Schwerpunkt“ unter `Schüler > Zeugnis > Fächer`mit folgendem Schlüssel angegeben werden.
 
 |Kürzel |Schlüssel |Bezeichnung|
 |--|--|--|
