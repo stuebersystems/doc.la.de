@@ -1,17 +1,21 @@
 
 # Quittungen
 
-Den gewünschten Quittungsbericht hinterlegen Sie in den Optionen, genutzt wird er im Bereich Ausleihe. Nachstehend beschreiben wir die notwendigen Einstellungen.
+Den gewünschten Quittungsbericht hinterlegen Sie in den MAGELLAN Optionen (MAGELLAN BIBLIOTHEK unter `Datenbank > Optionen > Quittungen` ), genutzt wird er im Bereich `Ausleihe`. Nachstehend beschreiben wir die notwendigen Einstellungen.
 
 ## Quittung (Leihvertrag Taschenrechner).rpt
 
-Leihvertrag GTR Stadt Dresdengrafikfähiger Taschenrechner
+Leihvertrag GTR Stadt Dresden - grafikfähiger Taschenrechner
+
+![MAGELLAN Optionen](/assets/images/bib001.png)
 
 **Adresse Schulträger**
 
-`Adressen > Daten > Kategorie (ST)`
+`MAGELLAN > Adressen > Daten > Kategorie (ST)`
 
-Die Adresse des Schulträger legen Sie im Menu `Adressen > Daten` an. Wichtig ist, dass Sie in dem Feld „Kategorie“ das Kürzel „ST“ zuweisen. Grundlage hierfür bildet das `Schlüsselverzeichnis > Kategorien (Adressen)`.
+Die Adresse des Schulträger legen Sie in MAGELLAN im Menü `Adressen > Daten` an. Wichtig ist, dass Sie in dem Feld „Kategorie“ das Kürzel „ST“ zuweisen. Grundlage hierfür bildet das `Schlüsselverzeichnis > Kategorien (Adressen)`.
+
+![Adressen](/assets/images/bib002.png)
 
 **Sorgeberichtige der Schüler**
 
@@ -23,7 +27,9 @@ Falls der Schüler nicht volljährig ist, tragen Sie im Menü `Schüler > Daten 
 
 `MAGELLAN BIBLIOTHEK > Bücher/Medien > Daten 1`
 
-Die Taschenrechner legen Sie im Menü `Bücher/Medien > Daten 1` an. Wichtig ist, dass in dem Feld „Medienkategorie“ das Kürzel „Vertrag“ zugewiesen wird. Grundlage bildet das `Schlüsselverzeichnis > Kategorien (Medien)`.
+Die Taschenrechner legen Sie in der MAGELLAN BIBLIOTHEK im Menü `Bücher/Medien > Daten 1` an. Wichtig ist, dass in dem Feld „Medienkategorie“ das Kürzel „Vertrag“ zugewiesen wird. Grundlage bildet das `Schlüsselverzeichnis > Kategorien (Medien)`.
+
+![`Bücker/Medien > Daten 1`](/assets/images/bib003.png)
 
 **Zubehör Taschenrechner**
 
@@ -31,3 +37,10 @@ Die Taschenrechner legen Sie im Menü `Bücher/Medien > Daten 1` an. Wichtig ist
 
 Das Zubehör für den Taschenrechner legen Sie im Menü `Bücher/Medien > Daten 2` im Feld "Bemerkungen" an.
 
+![`Bücker/Medien > Daten 2`](/assets/images/bib004.png)
+
+**Ausdruck**
+
+Der Ausdruck erfolgt in der MAGELLAN BIBLIOTHEK über den Bereich `Ausleihe`.
+
+![Ausdruck](/assets/images/bib005.png)
