@@ -85,8 +85,8 @@ Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Unterrichtsarten`,  
 | Kürzel | Schlüssel | Bedeutung                   |
 | ------ | --------- | --------------------------- |
 | PeF    | PeF       | Profil ergänzendes Fach     |
-| P      | P         | Profil                      |
-| E      | E         | Fach mit erweitertem Niveau |
+| P-Kurs | P         | Profil gebendes Fach |
+| E-Kurs | E         | Fach mit erhöhtem Anforderungsniveau / Kernfach |
 | BL     | BL        | Besondere Lernleistung      |
 
 ## Fachstatus
@@ -101,7 +101,6 @@ Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass i
 | 3PF     | 3PF       | 3. Prüfungsfach                                         |
 | 4PF     | 4PF       | 4. Prüfungsfach                                         |
 | 5PF     | 5PF       | 5. Prüfungsfach                                         |
-| Pflicht | Pflicht   | Pflichtbereich (kein Eintrag wird wie Pflicht gewertet) |
 
 ## Kennzeichnung Fremdsprache Anfänger
 

@@ -194,6 +194,10 @@ Besonderen Lernleistung im Block 2 | Markieren Sie das Optionsfeld „Besondere 
 
 ab 2018
 
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
+
 **Fachstatus** 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
@@ -236,7 +240,10 @@ Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
-eA | eA | E-Kurs | Fach mit erhöhtem Anforderungsniveau
+E-Kurs | E | Fach mit erhöhtem Anforderungsniveau / Kernfach
+PeF| PeF | Profil ergänzendes Fach
+P-Kurs | P | Profil gebendes Fach
+BL | BL | Besondere Lernleistung
 
 **Fremdsprachenfolge** 
 
@@ -272,8 +279,9 @@ Für den Fall, dass eine Fremdsprache im 1. Halbjahr eines laufenden Schuljahres
 **Besondere Lernleistung**
 
 Um auf dem Zeugnis die besondere Lernleistung einzutragen gehen Sie wie folgt vor:
+
 1) Definieren Sie ein entsprechendes Fach
-2) Legen Sie unter `Schlüsselverzeichnisse > Unterrichtsarten` eine Unterrichtsart mit dem Kürzel BL an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
+2) Legen Sie unter `Extras > Schlüsselverzeichnisse > Unterrichtsarten` eine Unterrichtsart mit dem Kürzel BL an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
 3) Im `Schlüsselverzeichnisse > Fachschwerpunkte` geben Sie in der Spalte "Bezeichnung" das Thema der besonderen Lernleistung an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu.
 
 **Sprachkenntnisse**
@@ -286,11 +294,7 @@ Das Kleine Latinum wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur >
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
-Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
-
-**Ausdruck**
-
-Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
+Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü `Abitur > Zeugnis` im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
 **Sprachkenntnisse** 
 
