@@ -1088,9 +1088,9 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
-**(A0702)** `Schüler > Daten 4 > Beeinträchtigung und Fördermaßnahmen`
+**(A0702)** `Schüler > Daten 4 > Finanzielle Förderungen > Fördernummer`
 
-Falls der/die Schüler/in eine Förderung erhält, tragen Sie im Menü `Schüler > Daten 4` im Bereich "Beeinträchtigung und Fördermaßnahmen" im Feld „Förderung“ die entsprechende Förderung ein. Grundlage bildet das `Schlüsselverzeichnis > Förderungen`.
+Falls der/die Schüler/in eine Förderung erhält, tragen Sie im Menü `Schüler > Daten 4` im Bereich "Finanzielle Förderungen" im Feld „Fördernummer“ die entsprechende Fördernummer ein.
 
 ## Schülerliste (gruppiert nach Berufen mit Wohnort).rpt
 
