@@ -7,39 +7,49 @@ Nachfolgend sind erforderliche Eintragungen für die Berichte unter `MAGELLAN > 
 
 Gesamtliste aller Ausländer
 
-**(A0117)** Schüler > Daten 1 > Ausländer seit
+**Ausländer seit**
 
-Tragen Sie im Menü "Schüler" beim entsprechenden Schüler den Status "Ausländer" unter der Registerkarte "Daten 1" im Feld "Ausländer seit" ein. 
+`Schüler > Daten 1 > Ausländer seit`
+
+Tragen Sie im Menü `Schüler > Daten 1` "beim entsprechenden Schüler den Status "Ausländer"  im Feld "Ausländer seit" ein.
 
 ## Ausländerliste (mit Betrieben).rpt
 
-**(A0117)** Schüler > Daten 1 > Ausländer seit
+**Ausländer seit**
 
-Tragen Sie im Menü "Schüler" beim entsprechenden Schüler den Status "Ausländer" unter der Registerkarte "Daten 1" im Feld "Ausländer seit" ein. 
+`Schüler > Daten 1 > Ausländer seit`
+
+Tragen Sie im Menü `Schüler > Daten 1` "beim entsprechenden Schüler den Status "Ausländer"  im Feld "Ausländer seit" ein.
 
 ## Ausländerliste (nur Minderjährige).rpt
 
 Gesamtliste aller minderjährigen Ausländer
 
-**(A0117)** Schüler > Daten 1 > Ausländer seit
+**Ausländer seit**
 
-Tragen Sie im Menü "Schüler" beim entsprechenden Schüler den Status "Ausländer" unter der Registerkarte "Daten 1" im Feld "Ausländer seit" ein. 
+`Schüler > Daten 1 > Ausländer seit`
+
+Tragen Sie im Menü `Schüler > Daten 1` "beim entsprechenden Schüler den Status "Ausländer"  im Feld "Ausländer seit" ein.
 
 ## Aussiedlerliste (alle).rpt
 
 Gesamtliste aller Aussiedler
 
-**(A0118)** Schüler > Daten 1 > Aussiedler seit
+**Aussiedler seit**
 
-Tragen Sie im Menü "Schüler" beim entsprechenden Schüler den Status "Ausländer" unter der Registerkarte "Daten 1" im Feld "Aussiedler seit" ein.
+`Schüler > Daten 1 > Aussiedler seit`
+
+Tragen Sie im Menü`Schüler > Daten1`  beim entsprechenden Schüler den Status "Ausländer" iim Feld "Aussiedler seit" ein.
 
 ## Aussiedlerliste (nur Minderjährige).rpt
 
 Gesamtliste aller minderjährigen Aussiedler
 
-**(A0118)** Schüler > Daten 1 > Aussiedler seit
+**Aussiedler seit**
 
-Tragen Sie im Menü "Schüler" beim entsprechenden Schüler den Status "Ausländer" unter der Registerkarte "Daten 1" im Feld "Aussiedler seit" ein.
+`Schüler > Daten 1 > Aussiedler seit`
+
+Tragen Sie im Menü`Schüler > Daten1`  beim entsprechenden Schüler den Status "Ausländer" iim Feld "Aussiedler seit" ein.
 
 ## Bewerberrangliste (Anmeldedatum-Name).rpt
 
@@ -101,98 +111,125 @@ Gastschulgeldliste (Wahlschulen exkl. Koblenz und Mayen)
 
 ## Mandant (Ausgabe Schueler ohne Gemeindekennziffer).rpt
 
-**(A0186)** Ausdruck
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Mandanten" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
 
 ## Mandant (Berufe und Fachrichtungen).rpt
 
-**(A0186)** Ausdruck
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Mandanten" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
 
-**(A0208)** Klassen > Daten > Beruf
+**Beruf Klasse**
 
-Weisen Sie im Menü Klassen > Daten den Beruf im Feld "Beruf" zu. Grundlage bildet das Schlüsselverzeichnis >Berufe. Für den Zeugnisdruck ist nur der Wert in der Spalte "Schlüssel" relevant, das Kürzel kann beliebig gewählt werden.
+`Klassen > Daten > Beruf`
 
-**(A0708)** Schlüsselverzeichnisse > Berufe > Fachrichtung
-------
-Die Fachrichtung des Berufs weisen Sie im Schlüsselverzeichnis > Berufe im Feld „Fachrichtung“ zu. Grundlage bildet das Schlüsselverzeichnis > Fachrichtungen.
+Weisen Sie im Menü `Klassen > Daten` den Beruf im Feld "Beruf" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. Für den Zeugnisdruck ist nur der Wert in der Spalte "Schlüssel" relevant, das Kürzel kann beliebig gewählt werden.
+
+**Fachrichtung Beruf**
+
+`Extras > 	Schlüsselverzeichnisse > Berufe > Fachrichtung`
+
+Die Fachrichtung des Berufs weisen Sie im `Schlüsselverzeichnis > Berufe` im Feld „Fachrichtung“ zu. Grundlage bildet das `Schlüsselverzeichnis > Fachrichtungen`.
 
 ## Mandant (Prüfbericht Schüler unter 18 ausgeschult und keinen Eintrag unter ZugangAbgang An Schule).rpt
 
-**(A0186)** Ausdruck
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Mandanten" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
 
-**(A0643)** Mandanten > Auswahl > Berichte drucken > Mandant (Prüfbericht Schüler unter 18 ausgeschult und keinen Eintrag unter ZugangAbgang An Schule).rpt
+**Ausdruck**
 
-Der Report gibt alle Schüler aus dem ausgewählten Zeitraum aus, die noch nicht 18 (volljährig)** sind, inaktiv (ausgeschult)** und keinen Eintrag im Menu Schüler > Daten 2 im Bereich "Übergang" im Feld "An Schule" besitzen.
+`Mandanten > Auswahl > Berichte drucken > Mandant`
+
+Prüfbericht Schüler unter 18 ausgeschult und keinen Eintrag unter ZugangAbgang An Schule).rpt
+
+Der Report gibt alle Schüler aus dem ausgewählten Zeitraum aus, die noch nicht 18 (volljährig) sind, inaktiv (ausgeschult) und keinen Eintrag im Menu `Schüler > Daten 2` im Bereich "Übergang" im Feld "An Schule" besitzen.
 
 ## Mandant (Schüler des aktuellen Halbjahres ohne Fächer).rpt
 
-**(A0186)** Ausdruck
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Mandanten" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
 
 ## Mandant (SchülerAbgang).rpt
 
-**(A0018)** Schueler >Daten 2 > Zugang am und/oder Abgang am
+**Zugang am und/oder Abgang am** 
 
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
-**(A0070)** Schüler > Daten 2 > An Schulform/An Schule
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-Tragen Sie im Menü Schüler > Daten 2 im aktuellen Zeitraum die Schulform im Feld "An Schulform" ein. Grundlage hierfür bildet das Schlüsselverzeichnis > Schulformen(Übergang). Optional tragen Sie im Menü Schüler > Daten 2 im aktuellen Zeitraum die Schule im Feld "an Schule" ein. 
+**Übergang an Schule / Schulform**
 
-**(A0186)** Ausdruck
+`Schüler > Daten 2 > Übergang > An Schulform/An Schule`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Mandanten" gedruckt werden.
+Tragen Sie im Menü `Schüler > Daten 2 > Übergang` im aktuellen Zeitraum die Schulform im Feld "An Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen(Übergang)`. Optional tragen Sie im Menü `Schüler > Daten 2` im aktuellen Zeitraum die Schule im Feld "an Schule" ein.
+
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
 
 ## Mandant (SchülerNachprüfung).rpt
 
-**(A0186)** Ausdruck
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Mandanten" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
 
-**(A0592)** Ob ein Schüler zur Nachprüfung zugelassen ist und diese bestanden hat oder nicht tragen Sie im entsprechenden Zeitraum im Menü „Schüler“ auf der Registerkarte „Laufbahn“ unter „Allgemein“ im Feld „Nachprüfung“ ein.  Grundlage hierfür bildet das Schlüsselverzeichnis „Verzeichnisse|Weitere Schlüsselverzeichnisse| Nachprüfung“. Auf dem Bericht wird die frei wählbare „Bezeichnung“ im Feld „Nachprüfung“ ausgegeben und Schüler ohne Eintrag werden auf dem Report ausgefiltert.
+**Nachprüfung**
+
+Ob ein Schüler zur Nachprüfung zugelassen ist und diese bestanden hat oder nicht tragen Sie im entsprechenden Zeitraum im Menü`Schüler > Laufbahn > Allgemein` im Feld „Nachprüfung“ ein.  Grundlage hierfür bildet das `Schlüsselverzeichnis > Nachprüfung`. Auf dem Bericht wird die frei wählbare „Bezeichnung“ im Feld „Nachprüfung“ ausgegeben und Schüler ohne Eintrag werden auf dem Report ausgefiltert.
 
 ## Mandant (Statistik Abschlüsse).rpt
 
-**(A0008)** Klassen > Zeiträume > Zeitraum > Jahrgang
+**Jahrgang Klasse**
 
-Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers der Jahrgang auf der Registerkarte Zeiträume > Zeitraum im Feld "Jahrgang" eingetragen sein.
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
-**(A0045)** Mandanten > Daten >Name 1
+Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
-Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
-1" ein.
+**Schuldaten**
 
-**(A0186)** Ausdruck
+`Mandanten > Daten > Name 1`
 
-Das Zeugnis/der Bericht muss aus dem Menü "Mandanten" gedruckt werden.
+Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
 
-**(A0463)** Schüler > Laufbahn > Abschluss > Abschluss 1
+**Ausdruck**
 
-Den Abschluss des Schülers tragen Sie im Menü Schüler > Laufbahn > Abschluss im Feld  „Abschluss1“ ein. Grundlage bildet das Schlüsselverzeichnis > Abschlüsse (intern).
+Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
+
+**Abschluss Schüler**
+
+`Schüler > Laufbahn > Abschluss > Abschluss 1`
+
+Den Abschluss des Schülers tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im Feld  „Abschluss1“ ein. Grundlage bildet das `Schlüsselverzeichnis > Abschlüsse (intern)`.
 
 ## Mandant (Wiederholer innerhalb eines Schuljahres).rpt
 
-**(A0112)** Ausdruck
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0239)** Ausdruck
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
+**Widerholer**
 
-**(A0589)** Schüler > Laufbahn > Allgemein > Wiederholer
+`Schüler > Laufbahn > Allgemein > Wiederholer`
 
 Beachten Sie bei der Liste mit den Wiederholern innerhalb eines Schuljahres:
 
-1)Das Schuljahr wiederholende Schüler müssen im entsprechenden Zeitraum im Menü Schüler > Laufbahn im Bereich „Allgemein“ im Feld „Wiederholer“ angehakt werden. Es werden nur die Schüler mit einen Haken in diesem Feld ausgegeben. 
-2) Markieren Sie nun alle Schüler aus dem Menü Schüler und betätigen Drucken > Zeugnis drucken (siehe auch A112, A239)
+1) Das Schuljahr wiederholende Schüler müssen im entsprechenden Zeitraum im Menü `Schüler > Laufbah` im Bereich „Allgemein“ im Feld „Wiederholer“ angehakt werden. Es werden nur die Schüler mit einen Haken in diesem Feld ausgegeben. 
+2) Markieren Sie nun alle Schüler aus dem Menü `Schüler` und betätigen `Drucken > Zeugnis drucken`
 3) Beim Berichtdruck gilt:
+3a) abgebende Klasse: Die Klasse vor der Versetzung
+3b) aufnehmende Klasse:  Die Klasse nach der Versetzung
+
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.)
+
+1) Beim Berichtdruck gilt:
 3a) abgebende Klasse: Die Klasse vor der Versetzung
 3b) aufnehmende Klasse:  Die Klasse nach der Versetzung
 
@@ -200,11 +237,15 @@ Beachten Sie bei der Liste mit den Wiederholern innerhalb eines Schuljahres:
 
 Dieser Bericht listet alle offenen Medienvorgänge aufdessen Ausleihedatum vor dem Druckdatum liegen. Es werden Informationen zum MediumExemplar und Ausleiher ausgegeben.
 
-**(A0726)** BIBILIOTHEK > Mandanten > Berichte drucken
+**Ausdruck**
 
-Der Bericht muss aus dem Modul MAGELLAN BIBLIOTHEK und LERNMITTEL aus dem Menü > Mandanten gedruckt werden.
+`BIBILIOTHEK > Mandanten > Berichte drucken`
 
-**(A0727)** BIBILIOTHEK > Vorgänge > Berichte drucken
+Der Bericht muss aus dem Modul MAGELLAN BIBLIOTHEK und LERNMITTEL aus dem Menü `Mandanten` gedruckt werden.
+
+**Ausdruck**
+
+`BIBILIOTHEK > Vorgänge > Berichte drucken`
 
 Dieser Bericht listet alle offenen Medienvorgänge auf, dessen Ausleihedatum vor dem Druckdatum liegen. Es werden Informationen zum Medium, Exemplar und Ausleiher ausgegeben.
 
@@ -214,7 +255,6 @@ Dieser Bericht listet alle offenen Medienvorgänge auf, dessen Ausleihedatum vor
 
 Dieser Bericht listet alle ausgeschulten Schüler auffür die es noch nicht abgeschlossene Medienvorgänge in der MAGELLAN BIBLIOTHEK gibt.
 
-**(A0186)** Ausdruck
+**Ausdruck**
 
-Das Zeugnis/der Bericht muss aus dem Menü "Mandanten" gedruckt werden.
-
+Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.

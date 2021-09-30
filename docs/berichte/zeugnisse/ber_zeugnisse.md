@@ -2,7 +2,40 @@
 
 [1]:/assets/images/Berlin/zeugnis01.png "SchulZ591"
 [2]:/assets/images/Berlin/zeugnis02.png "SchulZ591"
-[3]:/assets/images/Berlin/zeugnis02.png "Schüler>Zeugnis>Leistungen"
+[3]:/assets/images/Berlin/zeugnis03.png "Schüler>Zeugnis>Leistungen"
+
+## Allgemein BBS
+
+### BER-BBS (Zeugniskarte).rpt
+
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+
+Der Bericht muss aus dem Start `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
+
+**Unterrichtsarten**
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im `Schlüsselverzeichnis > Fachtafeln` die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
+
+Kürzel | Schlüssel | Zeugnisbereich
+--|--|--
+BU | BU | Fachbezogener / Berufsbezogener Lernbereich
+
+**Fächerpositionierung**
+
+`Schüler > Zeugnis > Fächer > Position`
+
+Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach im Menü `Schüler > Zeugnis > Fächer` in der Spalte "Position" vergeben haben.
+
+**Fachtafel Klassen**
+
+`Klassen > Zeiträume > Fachtafel`
+
+Die ausgegebenen Fächer entsprechen der bei der jeweiligen Klasse im Menü `Klassen > Zeiträume` hinterlegten Fachtafeln im Feld "Fachtafel". Die Fächer der dort hinterlegten Fachtafeln müssen Positionen enthalten.
 
 ## Berufsschulzeugnisse / IBA
 
@@ -25,7 +58,7 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:"
+Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -82,7 +115,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-Zeugnisbemerkungen
+**Zeugnisbemerkungen**
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
@@ -105,20 +138,20 @@ Die Zeugnisbemerkung "Dem Zeugnis ist das Zertifikat zur Einschätzung personale
 
 `Schüler > Zeugnis > Leistungen > Endnote`
 
-Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Extras > Schlüsselverzeichnis > Noten`.
 
 [![Schüler > Zeugnis > Leistungen][3]][3]
 
 **Klassen**
 
- `Klassen > Daten > Abteilung` UND `Schlüsselverzeichnis > Abteilungen`
+`Klassen > Daten > Abteilung` UND `Schlüsselverzeichnis > Abteilungen`
 
 Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
 
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**Fächer**
+**Leistungsstufen der Fächer**
 
 `Schüler > Zeugnis > Fächer > Niveau`
 
@@ -128,10 +161,12 @@ Die Bewertung der Leistungen kann auf unterschiedlichen Niveaus erfolgen. Legen 
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
-GR | GR | GR- Niveau
+GR | GR | GR-Niveau
 ER | ER | Er-Niveau
 
 Weisen Sie den Fächern im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" das entsprechende Bewertungsniveau zu.
+
+**betriebliche Lernaufgaben**
 
 `Schüler > Zeugnis > Fächer`
 
@@ -454,7 +489,6 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich"
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-
 **Klassenleiter/Schulleiter/Abteilungsleiter**
 
 `Mandanten > Daten 1 > Schulleiter`
@@ -601,7 +635,7 @@ Durchschnitt 3 | Durchschnittsnote aller Leistungen im Bildungsgang
 
 Sie können die Felder "Durchschnitt 1", "Durchschnitt 2" und "Durchschnitt 3" auch händisch befüllen.
 
-`Schlüsselverzeichnisse > Noten > Füllerwerte`
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -1847,14 +1881,16 @@ Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:"
 
 Kürzel | Schlüssel | Bezeichnung 
 --|--|--
-BU | BU | Fachbezogener / Berufsbezogener Lernbereich (Unterricht)"
-BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)"
+BU | BU | Fachbezogener / Berufsbezogener Lernbereich (Unterricht)
+BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)
 
-***Fächerpositionierung**
+![Unterrichtsarten "BU" und "BÜ"](/assets/images/Berlin/zeugnis04.png)
+
+**Fächerpositionierung**
 
 `Schüler > Zeugnis > Fächer > Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der Fachtafeln unter `Extras > Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
 **Schuldaten**
 
@@ -1895,7 +1931,7 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 **Benotung**
 
-`Schlüsselverzeichnisse > Noten > Füllwerte`
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -1995,12 +2031,13 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schül
 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im `Schlüsselverzeichnis > Fachtafeln` die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
+
 Kürzel | Schlüssel | Bezeichnung 
 --|--|--
-BU | BU | Fachbezogener / Berufsbezogener Lernbereich (Unterricht)"
-BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)"
+BU | BU | Fachbezogener / Berufsbezogener Lernbereich (Unterricht)
+BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)
 
-***Fächerpositionierung**
+**Fächerpositionierung**
 
 `Schüler > Zeugnis > Fächer > Position`
 
@@ -2125,6 +2162,7 @@ Im Menü `Klassen > Daten` muss bei der Klasse des Schülers im Feld Beurteilung
 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
+
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Wahlb | Wahlb | Wahlfächer bzw. –bereich"
@@ -2141,7 +2179,7 @@ Kürzel | Schlüssel | Bezeichnung
 BU | BU | Fachbezogener / Berufsbezogener Lernbereich (Unterricht)"
 BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)"
 
-***Fächerpositionierung**
+**Fächerpositionierung**
 
 `Schüler > Zeugnis > Fächer > Position`
 
@@ -2310,7 +2348,7 @@ Kürzel | Schlüssel | Bezeichnung
 BU | BU | Fachbezogener / Berufsbezogener Lernbereich (Unterricht)
 BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)
 
-***Fächerpositionierung**
+**Fächerpositionierung**
 
 `Schüler > Zeugnis > Fächer > Position`
 
@@ -2529,11 +2567,11 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 **Noten wie o.B., n.B. oder sonstiges**
 
-`Schlüsselverzeichnisse > Noten > Füllwerte``
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
- **Fächerpositionierung**
+**Fächerpositionierung**
 
 `Schüler > Zeugnis > Fächer > Position``
 
@@ -2666,7 +2704,7 @@ Die Noten der Fächer tragen Sie im Menü `Berufsschule > Matrix` in der Spalte 
 
 **Noten wie o.B., n.B. oder sonstiges**
 
-`Schlüsselverzeichnisse > Noten > Füllwerte``
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -2922,7 +2960,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 
 
 **Noten wie o.B., n.B. oder sonstiges**
 
-`Schlüsselverzeichnisse > Noten > Füllwerte``
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -13792,7 +13830,7 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" 
 
 **Noten wie o.B., n.B. oder sonstiges**
 
-`Schlüsselverzeichnisse > Noten > Füllwerte`
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -14215,7 +14253,7 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" 
 
 **Noten wie o.B., n.B. oder sonstiges**
 
-`Schlüsselverzeichnisse > Noten > Füllwerte`
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -15123,7 +15161,7 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 **Noten wie o.B., n.B. oder sonstiges**
 
-`Schlüsselverzeichnisse > Noten > Füllwerte``
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -15132,7 +15170,9 @@ Kürzel | Bezeichnung | Notenart
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
 
-**Noten** `Extras > Schlüsselverzeichnisse > Noten`
+**Noten** 
+
+`Extras > Schlüsselverzeichnisse > Noten`
 
 Die Kürzel der Punkte müssen zweistellig (einstellig und eine Führungsnull) sein. 
 Beim Anlegen von Punkten im `Schlüsselverzeichnis > Noten` (Notenart: Punkte) mit einem Notenwert kleiner 10 (0-9) weisen Sie im Feld "Notenkürzel" dem Notenwert eine "0" voran (z.B. "00", "03" usw.).
@@ -15801,7 +15841,9 @@ Die Schule wurde NICHT durchgehend besucht | "Von1" tragen Sie unter Schüler > 
 
 Schul Z 320 (06.07)
 
-**Noten** `Schlüsselverzeichnisse > Noten`
+**Noten** 
+
+`Extras > Schlüsselverzeichnisse > Noten`
 
 Die Kürzel der Punkte müssen zweistellig (einstellig und eine Führungsnull) sein. 
 Beim Anlegen von Punkten im `Schlüsselverzeichnis > Noten` (Notenart: Punkte) mit einem Notenwert kleiner 10 (0-9) weisen Sie im Feld "Notenkürzel" dem Notenwert eine "0" voran (z.B. "00", "03" usw.).
@@ -15917,7 +15959,9 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 320a-b (03.11)
 
-**Noten** `Schlüsselverzeichnisse > Noten`
+**Noten** 
+
+`Extras > Schlüsselverzeichnisse > Noten`
 
 Die Kürzel der Punkte müssen zweistellig (einstellig und eine Führungsnull) sein. 
 Beim Anlegen von Punkten im `Schlüsselverzeichnis > Noten` (Notenart: Punkte) mit einem Notenwert kleiner 10 (0-9) weisen Sie im Feld "Notenkürzel" dem Notenwert eine "0" voran (z.B. "00", "03" usw.).
@@ -16145,7 +16189,7 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 **Noten und Füllwerte**
 
-`Schlüsselverzeichnisse > Noten > Füllwerte`
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -16154,7 +16198,7 @@ Kürzel | Bezeichnung | Notenart
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
 
-`Schlüsselverzeichnisse > Noten`
+`Extras > Schlüsselverzeichnisse > Noten`
 
 Die Kürzel der Punkte müssen zweistellig (einstellig und eine Führungsnull) sein. 
 Beim Anlegen von Punkten im `Schlüsselverzeichnis > Noten` (Notenart: Punkte) mit einem Notenwert kleiner 10 (0-9) weisen Sie im Feld "Notenkürzel" dem Notenwert eine "0" voran (z.B. "00", "03" usw.).
@@ -16279,7 +16323,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 **Noten wie o.B., n.B. oder sonstiges**
 
-`Schlüsselverzeichnisse > Noten > Füllwerte``
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -18768,7 +18812,7 @@ Die Noten der Fächer tragen Sie im Menü `Berufsschule > Matrix` in der Spalte 
 
 **Noten wie o.B., n.B. oder sonstiges**
 
-`Schlüsselverzeichnisse > Noten > Füllwerte``
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -18777,7 +18821,7 @@ Kürzel | Bezeichnung | Notenart
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
 
- **Fächerpositionierung**
+**Fächerpositionierung**
 
 `Schüler > Zeugnis > Fächer > Position``
 

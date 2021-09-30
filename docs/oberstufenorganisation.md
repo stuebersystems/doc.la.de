@@ -1,6 +1,11 @@
 
 # Oberstufenorganisation
 
+[1]:/assets/images/abiturmenue.png
+[2]:/assets/images/abi_sync.jpg
+[3]:/assets/images/abi_sync2.png
+[4]:/assets/images/g8_verordnung.png
+
 Die jeweiligen Verordnungen spiegeln sich über die Landesanpassung von MAGELLAN bzw. DAVINCI in der Fachwahlüberprüfung und der Abiturqualifikationsberechnung wider.
 Die Oberstufe stellt den schwierigsten Teil der Schulorganisation dar. MAGELLAN und DAVINCI stellen Funktionen für die gesamte Oberstufenorganisation zur Verfügung. Damit die Berechnungen korrekt durchgeführt werden können und Sie auch die Abiturzeugnisse richtig ausgedruckt bekommen, müssen Sie allerdings einige wenige aber wichtige Details beachten. Diese Details werden in diesem Kapitel erklärt. Lesen Sie es bitte sorgfältig.
 Der Vollständigkeit halber sei an dieser Stelle erwähnt: Fachwahlüberprüfung und Abiturqualifikationsberechnung basieren auf offengelegten (Open Source) MAGELLAN-Skripten, die Sie mit Hilfe des MAGELLAN-Skripteditors bearbeiten können.
@@ -62,15 +67,15 @@ Folgende Angaben sind bei der Eingabe der Oberstufenjahrgänge neben den Halbjah
 Beim neuen Abitur Ende 12 anstatt Ende 13, dem sog. G8 Abitur, das aktuell in verschiedenen Bundesländern eingeführt wird, beginnt die Orientierungsstufe ein Jahr früher, also in der Jahrgangsstufe 10.
 
 Die Oberstufenjahrgänge sind also (10), 11 und 12. In MAGELLAN besteht die Registerkarte Qualifikation in der Ansicht Abitur standardmäßig aus den Jahrgängen 11, 12 und 13. Damit das Abiturskript und Anzeige korrekt sind, sollten Sie auf Folgendes beachten:
-Stellen Sie in MAGELLAN in der Ansicht Klassen auf der Registerkarte ```Daten``` bei ```Klassenart``` unbedingt Oberstufenjahrgang bei den Klassen  11 und 12 ein, damit die Noten beim Synchronisieren (in der Ansicht Abitur) auch in den Abiturbereich übernommen werden.
+Stellen Sie in MAGELLAN in der Ansicht `Klassen > Daten` im Feld "Klassenart" unbedingt Oberstufenjahrgang bei den Klassen 11 und 12 ein, damit die Noten beim Synchronisieren (in der Ansicht Abitur) auch in den Abiturbereich übernommen werden.
 
-Für die Klasse 10 können Sie optional die Klassenart ```"Standard mit Oberstufensynchronisation"``` wählen. Bei dieser Auswahl würden in der Klasse 10 die Schüler ohne Fach- und Notendaten in den Bereich ```Abitur``` synchronisiert werden, um die Fachwahl  für 11, 12 ggfs. 13 unter ```Abitur > Fachwahl``` vorbereiten zu können.
+Für die Klasse 10 können Sie optional die Klassenart "Standard mit Oberstufensynchronisation" wählen. Bei dieser Auswahl würden in der Klasse 10 die Schüler ohne Fach- und Notendaten in den Bereich `Abitur` synchronisiert werden, um die Fachwahl  für 11, 12 ggf. 13 unter `Abitur > Fachwahl` vorbereiten zu können.
 
-Klicken Sie in der MAGELLAN Ansicht Abitur in der Registerkarte Qualifikation auf Layout anpassen und verändern Sie die Spaltenüberschriften z.B. in 1., 2., …, 6.
+Klicken Sie in der MAGELLAN Ansicht `Abitur > Qualifikation` auf die Schaltfläche `Layout anpassen` und verändern Sie die Spaltenüberschriften z.B. in 1., 2., …, 6.
 
 !!! info "Hinweis"
 
-    Damit die Fachdaten und Noten bei G8- oder G9-Schülern in die korrekten Spalten auf der Qualifikati-onskarte übernommen werden, muss unter MAGELLAN|Verzeichnisse|Verordnungen|Jahrgang eine 10 (für G8) oder eine 11 oder nichts (für G9) angegeben werden
+    Damit die Fachdaten und Noten bei G8- oder G9-Schülern in die korrekten Spalten auf der Qualifikationskarte übernommen werden, muss unter `Extras > Schlüssleverzeichnisse > Verordnungen` im Feld "Jahrgang" eine 10 (für G8) oder eine 11 oder nichts (für G9) angegeben werden
 
 ## Grundlegende Einstellungen
 
@@ -80,21 +85,21 @@ In einigen Bundesländern muss bei der Berechnung der Gesamtqualifikation der Ku
 
 !!! info "Hinweis"
 
-    Damit Sportarten vom Skript korrekt erkannt werden können, muss die korrekte Fachkategorie (Sport) im MAGELLAN Schlüsselverzeichnis Fächer eingegeben werden und Sie müssendie korrekten Sportartenkürzel unter Merkmal auf der Registerkarte Abitur|Qualifikation eingeben 
+    Damit Sportarten vom Skript korrekt erkannt werden können, muss die korrekte Fachkategorie (Sport) unter `Extras > Schlüsselverzeichnisse > Fächer` im Feld "Fachkategorie" eingegeben werden und Sie müssen die korrekten Sportartenkürzel unter `Abitur > Qualifikation` im Feld "Merkmal" eingeben. 
 
 !!! warning "Wichtig"
 
-    In einigen Abiturverordnungen muss Sport in Theorie und Praxis unterschieden werden. Auch dies geschieht durch entsprechende Angaben in der Spalte Merkmale.
+    In einigen Abiturverordnungen muss Sport in Theorie und Praxis unterschieden werden. Auch dies geschieht durch entsprechende Angaben in der Spalte "Merkmale".
 
 Welche Fachkürzel und welche Sportarten-Kürzel Sie genau pro Verordnung verwenden müssen, können Sie in den jeweiligen Abschnitten pro Skript nachlesen.
 
 ### Sport
 
-In einigen Bundesländern muss bei der Berechnung der Gesamtqualifikation der Kursinhalt bzw. die Sportart beachtet werden. Dazu können Sie in MAGELLAN unter Abitur auf der Registerkarte Qualifikation in der Spalte Merkmal bei Sport durch entsprechende Kürzel für jedes Qualifikationshalbjahr angeben, um welche Sportart es sich handelt.
+In einigen Bundesländern muss bei der Berechnung der Gesamtqualifikation der Kursinhalt bzw. die Sportart beachtet werden. Dazu können Sie in MAGELLAN unter `Abitur > Qualifikation` in der Spalte "Merkmal" bei Sport durch entsprechende Kürzel für jedes Qualifikationshalbjahr angeben, um welche Sportart es sich handelt.
 
 !!! info "Hinweis"
 
-    Damit Sportarten vom Skript korrekt erkannt werden können, muss die korrekte Fachkategorie (Sport) im MAGELLAN Schlüsselverzeichnis Fächer eingegeben werden und Sie müssendie korrekten Sportartenkürzel unter Merkmal auf der Registerkarte Abitur|Qualifikation eingeben 
+    Damit Sportarten vom Skript korrekt erkannt werden können, muss die korrekte Fachkategorie (Sport) unter `Extras > Schlüsselverzeichnisse > Fächer` im Feld "Fachkategorie" eingegeben werden und Sie müssen die korrekten Sportartenkürzel unter `Abitur > Qualifikation` im Feld "Merkmal" eingeben. 
 
 !!! info "Hinweis"
 
@@ -104,7 +109,7 @@ Welche Fachkürzel und welche Sportarten-Kürzel Sie genau pro Verordnung verwen
 
 ### Fachkürzel
 
-Das Fachkürzel dient in MAGELLAN und DAVINCI in der Regel nur der schulinternen Bezeichnung. Für jedes Fach können Sie unter Schlüssel den für etwaige landesspezifische Statistiken relevanten Statistikschlüssel eintragen.
+Das Fachkürzel dient in MAGELLAN und DAVINCI in der Regel nur der schulinternen Bezeichnung. Für jedes Fach können Sie unter `Extras > Schlüsselverzeichnisse > Fächer` im Feld "Schlüssel" den für etwaige landesspezifische Statistiken relevanten Statistikschlüssel eintragen.
 
 !!! info "Hinweis"
 
@@ -112,7 +117,7 @@ Das Fachkürzel dient in MAGELLAN und DAVINCI in der Regel nur der schulinternen
 
 ### Fachkategorien
 
-Erst durch den Eintrag einer Fachkategorie unter ```Verzeichnisse > Fächer > Kategorie``` erkennt das Verordnungsskript das jeweilige Fach. Ein Fach ohne Kategorie kann nicht verarbeitet werden. Stellen Sie fest, dass einem Fach keine Kategorie zugewiesen wurde oder eine verkehrte verwendet wurde, genügt es die Kategorie im Verzeichnis Fächer abzuändern und das Verordnungsskript neu auszulösen.
+Erst durch den Eintrag einer Fachkategorie unter `Extras > Schlüsselverzeichnisse > Fächer` im Feld "Fachkategorie" erkennt das Verordnungsskript das jeweilige Fach. Ein Fach ohne Kategorie kann nicht verarbeitet werden. Stellen Sie fest, dass einem Fach keine Kategorie zugewiesen wurde oder eine verkehrte verwendet wurde, genügt es die Kategorie im Verzeichnis Fächer abzuändern und das Verordnungsskript neu auszulösen.
 Die Menge der Fachkategorien ist fest vorgegeben und kann nicht von Ihnen erweitert werden. Mit welcher Kategorie Ihr Verordnungsskript arbeitet, erfahren Sie im Abschnitt zum einzelnen Verordnungsskript.
 
 Folgende Fachkategorien stehen grundsätzlich zur Verfügung:
@@ -148,7 +153,7 @@ Folgende Fachkategorien stehen grundsätzlich zur Verfügung:
 
 ### Aufgabenbereiche
 
-Die korrekte Belegung prüft das Verordnungsskript (ggfs. vorab schon das Fachwahlskript) anhand der Zuweisung den Aufgabenbereichs pro Fach. Weisen Sie bitte unter ``Verzeichnisse > Fächer > Aufgabenbereich``` den Aufgabenbereich pro Fach zu.
+Die korrekte Belegung prüft das Verordnungsskript (ggf. vorab schon das Fachwahlskript) anhand der Zuweisung den Aufgabenbereichs pro Fach. Weisen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fächer` im Feldn "Aufgabenbereich" den Aufgabenbereich pro Fach zu.
 
 |Abkürzung |Bedeutung|
 |--|--|
@@ -160,26 +165,25 @@ Die korrekte Belegung prüft das Verordnungsskript (ggfs. vorab schon das Fachwa
 
 ### Spalte Merkmal
 
-In MAGELLAN finden Sie in der Ansicht Abitur auf der Registerkarte Qualifikation die Spalte Merkmal. Sie dient dazu, für ein Fach bestimmte Merkmale einzutragen, die für den Ausdruck und die Abiturqualifikation verwendet werden können. Die meisten Abiturskripte beachten die Angaben in dieser Spalte nicht.
+In MAGELLAN finden Sie in der Ansicht `Abitur> Qualifikation` die Spalte "Merkmal". Sie dient dazu, für ein Fach bestimmte Merkmale einzutragen, die für den Ausdruck und die Abiturqualifikation verwendet werden können. Die meisten Abiturskripte beachten die Angaben in dieser Spalte nicht.
 
-### Unterrichtsarten
+### Schlüsselverzeichnis Unterrichtsarten
 
 In MAGELLAN bzw. DAVINCI werden standardmäßig folgende Unterrichtsarten mitgeliefert. Bitte beachten Sie, dass für Berichte, Fachwahlüberprüfungen oder Abiturqualifikationen die Groß- und Kleinschreibweise bei Schlüssel beachtet wird.
 
 !!! info "Hinweis"
 
-    Es können Unterrichtsarten in den Standardverzeichnissen fehlen, bitte prüfen Sie anhand der Beschreibung zu den einzelnen Skripten, welche Werte benötigt werden und legen Sie ggfs. im Verzeichnis an.
+    Es können Unterrichtsarten in den Standardverzeichnissen fehlen, bitte prüfen Sie anhand der Beschreibung zu den einzelnen Skripten, welche Werte benötigt werden und legen Sie ggf. im `Schlüsselverzeichnis > Unterrichtsarten` an.
 
-So rufen Sie in DAVINCI das Schlüsselverzeichnis Unterrichtsarten auf:
+So rufen Sie in DAVINCI das `Schlüsselverzeichnis > Unterrichtsarten` auf:
 
-1. Starten Sie das DAVINCI-Basismodul.
-2. Klicken Sie auf Extras|Schlüsselverzeichnisse|Unterrichtsarten.
+1. Starten Sie das DAVINCI Basismodul.
+2. Klicken Sie auf `Extras > Schlüsselverzeichnisse >  Unterrichtsarten`.
 
-So rufen Sie in MAGELLAN das Schlüsselverzeichnis Unterrichtsarten auf:
+So rufen Sie in MAGELLAN das `Schlüsselverzeichnis >  Unterrichtsarten` auf:
 
 1. Starten Sie MAGELLAN.
-2. Klicken Sie auf Verzeichnisse|Weitere Schlüsselverzeichnisse.
-3. Wählen Sie im Auswahlfenster Unterrichtsarten und klicken Sie auf Bearbeiten.
+2. Klicken Sie auf `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 #### standardmäßig mitgelieferte Unterrichtsarten
 
@@ -224,24 +228,23 @@ So rufen Sie in MAGELLAN das Schlüsselverzeichnis Unterrichtsarten auf:
 |SM |SM |Schriftliches und mündliches Prüfungsfach|
 |M |M |Mündliches Prüfungsfach|
 
-### Fachstatus
+### Schlüsselverzeichnis Fachstatus
 
 In MAGELLAN bzw. DAVINCI werden standardmäßig folgende Fachstatus mitgeliefert. Bitte beachten Sie, dass für Berichte, Fachwahlüberprüfungen oder Abiturqualifikationen die Groß- und Kleinschreibweise bei Schlüssel beachtet wird.
 
 !!! info "Hinweis"
 
-    Es können Fachstatus in den Standardverzeichnissen fehlen, bitte prüfen Sie anhand der Beschreibung zu den einzelnen Skripten, welche Werte benötigt werden und legen Sie ggfs. im Verzeichnis an.
+    Es können Fachstatus in den Standardverzeichnissen fehlen, bitte prüfen Sie anhand der Beschreibung zu den einzelnen Skripten, welche Werte benötigt werden und legen Sie ggf. im Schlüsselverzeichnis an.
 
-So rufen Sie in DAVINCI das Schlüsselverzeichnis Fachstatus auf:
+So rufen Sie in DAVINCI das `Schlüsselverzeichnis > Fachstatus` auf:
 
 1. Starten Sie das DAVINCI-Basismodul.
 2. Klicken Sie auf `Extras > Schlüsselverzeichnisse > Fachstatus`.
 
-So rufen Sie in MAGELLAN das Schlüsselverzeichnis `Fachstatus` auf:
+So rufen Sie in MAGELLAN das `Schlüsselverzeichnis > Fachstatus` auf:
 
 1. Starten Sie MAGELLAN.
-2. Klicken Sie auf `Verzeichnisse > Weitere Schlüsselverzeichnisse`.
-3. Wählen Sie im Auswahlfenster `Fachstatus` und klicken Sie auf `Bearbeiten`.
+2. Klicken Sie auf `Extras > Schlüsselverzeichnisse > Fachstatus` 
 
 #### standardmäßig mitgelieferte Fachstatus
 
@@ -271,7 +274,7 @@ So rufen Sie in MAGELLAN das Schlüsselverzeichnis `Fachstatus` auf:
 
 ### Fortgeführte Fremdsprache
 
-Auf der Schülerregisterkarte ```Daten 3``` in MAGELLAN können Sie die Fremdsprachenfolge des jeweiligen Schülers eingeben. Für jede Fremdsprache können Sie dabei unter ```von``` und ```bis``` die Jahrgangsstufen angeben, in denen die Fremdsprache belegt wurde. Aus der Differenz ergibt sich für die Abiturskripte, ob es sich um eine fortgeführte Fremdsprache handelt. Eine fortgeführte Fremdsprache muss mindestens drei Jahre belegt worden sein.
+Im Bereich `Schüler > Daten 3` in MAGELLAN können Sie die Fremdsprachenfolge des jeweiligen Schülers eingeben. Für jede Fremdsprache können Sie dabei unter der Fremdsprachenfolge im Feld "von" und "bis" die Jahrgangsstufen angeben, in denen die Fremdsprache belegt wurde. Aus der Differenz ergibt sich für die Abiturskripte, ob es sich um eine fortgeführte Fremdsprache handelt. Eine fortgeführte Fremdsprache muss mindestens drei Jahre belegt worden sein.
 
 Folgende MAGELLAN-Skripte berechnen die fortgeführte Fremdsprache bzw. verwenden diese Angaben:
 
@@ -290,23 +293,23 @@ Voraussetzung dafür ist, dass auf der Registerkarte Fächer des Stammdatenfenst
 
     Bei der Fachwahlüberprüfung werden derzeit keine über den Abiturzeitraum hinausgehenden Zeiträume geprüft, d.h. ob z.B. eine Fremdsprachenwahl aufgrund der Fremdsprachenfolge korrekt ist, die der Schüler in der Sekundarstufe I hatte.
 
-## Verzeichnis Abschlussjahrgänge
+## Schlüsselverzeichnis Abschlussjahrgänge
 
-Sie können in MAGELLAN unter ```Verzeichnisse > Abschlussjahrgänge``` Abschlussjahrgänge definieren. In unserem Fall ist dies ein Abiturjahrgang. Damit können Sie jedem Schüler in der Rubrik Abitur den entsprechenden Abiturjahrgang zuordnen.
-Dieser Vermerk hat keinen Einfluss auf Abschluss- oder Qualifikationsberechnungen, sondern dient dazu, später alle Schüler eines bestimmten Abiturjahrgangs z.B. für Ausdrucke herausfiltern zu können und ist eine der Voraussetzungen zum Synchronisieren der Schüler in den Bereich ```Abitur```.
+Sie können in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Abschlussjahrgänge` Abschlussjahrgänge definieren. In unserem Fall ist dies ein Abiturjahrgang. Damit können Sie jedem Schüler in der Rubrik Abitur den entsprechenden Abiturjahrgang zuordnen.
+Dieser Vermerk hat keinen Einfluss auf Abschluss- oder Qualifikationsberechnungen, sondern dient dazu, später alle Schüler eines bestimmten Abiturjahrgangs z.B. für Ausdrucke herausfiltern zu können und ist eine der Voraussetzungen zum Synchronisieren der Schüler in den Bereich `Abitur`.
 
 !!! info "Hinweis"
 
-    Geben Sie bei der Definition des Abiturjahrgangs im Fenster Verzeichnisse der Abschlussjahrgänge unter Kategorie unbedingt Abitur an.
+    Geben Sie bei der Definition des Abiturjahrgangs unter `Extras > Schlüsselverzeichnisse > Abschlussjahrgänge` im Feld "Kategorie" unbedingt Abitur an.
 
-![Verzeichnis Abschlussjahrgänge](/assets/images/abschlussjahrgaenge.png)
+![`Extras > Schlüsselverzeichnisse > Abschlussjahrgänge`](/assets/images/abschlussjahrgaenge.png)
 
-## Verzeichnis Verordnungen
+## Schlüsselverzeichnis Verordnungen
 
 MAGELLAN ist überregional einsetzbar, insofern sind die doch recht unterschiedlichen Teile wie Abiturverordnungen, Fachwahlen, Zeugnisvorlagen usw. nicht fest im Programm integriert, sondern der Benutzer wählt aus, welche Bereiche er nutzt.
-Welche Verordnungen (Abiturverordnung, Fachwahl) Sie verwenden möchten, definieren Sie in MAGELLAN unter ```Verzeichnisse > Verordnungen```.
+Welche Verordnungen (Abiturverordnung, Fachwahl) Sie verwenden möchten, definieren Sie in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Verordnungen`.
 
-![Verzeichnis Verordnungen](/assets/images/verzeichnis_verordnungen.png)
+![`Extras > Schlüsselverzeichnisse > Verordnungen`](/assets/images/verzeichnis_verordnungen.png)
 
 Sie müssen für jeden Schüler die Abiturordnung angeben, die für ihn relevant ist. Dazu müssen Sie im Schlüsselverzeichnis Verordnungen die jeweilige Verordnung definieren. Klicken Sie dazu auf Verzeichnisse|Verordnungen und geben Sie dort Verordnung wie folgt an:
 
@@ -323,23 +326,23 @@ Sie müssen für jeden Schüler die Abiturordnung angeben, die für ihn relevant
 
 ## Qualifikationsüberprüfungen vorbereiten
 
-![Menü Abitur](/assets/images/abiturmenue.png)
+[![Menü `Abitur`][1]][1]
 
 Für die Qualifikationsüberprüfungen müssen Sie folgende Daten definieren und je Schüler eingeben:
 
 1. Abiturjahrgang definieren
 2. Prüfungsordnung definieren
-3. Schüler ins Menü Abitur synchronisieren, dabei Abiturjahrgang und Prüfungsordnung angeben
+3. Schüler ins Menü `Abitur` synchronisieren, dabei Abiturjahrgang und Prüfungsordnung angeben
 4. Je Schüler die Noten eingeben
 5. Je Schüler die eingebrachten Kurse markieren
 
 ## Schüler ins Abitur synchronisieren
 
-Mit der Aktion  ```Abitur > Qualifikation > Schüler synchronisieren``` werden die in den Halbjahren erfassten Fach- und Notendaten in auf die Qualifikationskarte kopiert. Damit die Daten korrekt in die Spalten kopiert werden können, müssen die nachstehenden Daten korrekt erfasst sein.
+Mit der Aktion  `Abitur > Qualifikation > Schüler synchronisieren` werden die in den Halbjahren erfassten Fach- und Notendaten in auf die Qualifikationskarte kopiert. Damit die Daten korrekt in die Spalten kopiert werden können, müssen die nachstehenden Daten korrekt erfasst sein.
 
 !!! info "Hinweis"
 
-    Wenn Sie G8- und G9-Jahrgänge an Ihrer Schule haben, müssen Sie im Verzeichnis Verordnungen getrennte Zeilen anlegen. Tragen Sie in der Spalte "Ab Jahrgang" bitte 10 (für G8) oder 11 (für G9) ein. Synchronisieren Sie die Schüler bitte getrennt und weisen jeweils die Verordnungszeile zu. 
+    Wenn Sie G8- und G9-Jahrgänge an Ihrer Schule haben, müssen Sie unter `Extras > Schlüsselverzeichnisse > Verordnungen` getrennte Zeilen anlegen. Tragen Sie in der Spalte "Ab Jahrgang" bitte 10 (für G8) oder 11 (für G9) ein. Synchronisieren Sie die Schüler bitte getrennt und weisen jeweils die Verordnungszeile zu. 
 
 Die Schüler können für die **Fachwahl** in MAGELLAN oder für die **Abiturqualifikation** synchronisiert werden.
 Bevor Sie die Fachwahl anlegen oder später die Abiturqualifikationen überprüfen können, müssen Sie die Daten der Schüler synchronisieren. Beim Synchronisieren geschieht Folgendes:
@@ -350,42 +353,42 @@ Damit die Synchronisation klappt sind die folgenden Einstellungen wichtig:
 
 |Voraussetzung | Anmerkung |
 |--|--|
-|Zeitraumart | Im Verzeichnis der Zeiträume muss das Feld Art mit dem Wert 1. Halbjahr bzw. 2. Halbjahr gefüllt sein. |
- |Klassenart| Unter ```Klasse > Daten``` muss im Feld Klassenart die Auswahl **Oberstufenjahrgang (Leistungs- und Grundkurse)** oder **Oberstufenjahrgang (nur Kurse) **getroffen sein. |
- ||Sie können auch die Art **Standardklasse mit Oberstufensynchronisation** wählen, hierbei werden aber lediglich die Schüler für den Punkt ```Abitur > Fachwahl``` übertragen, also keine Schülerfachdaten oder Leistungsdaten.|
-|Jahrgang | Bei jeder Klasse/Jahrgang muss auf der Registerkarte Zeiträume für jeden Zeitraum das Feld Jahrgang mit dem Wert 11, 12 oder 13 angegeben werden.|
-|Abschlussjahrgänge | Bitte legen Sie unter ```Verzeichnisse > Abschlussjahrgaenge..``` die Abschlussjahrgänge an. Es genügt dabei die Angabe des Kürzels, der Bezeichnung und der Kategorie (Abitur). |
- |Verordnungen | Richten Sie bitte unter ```Verzeichnisse > Verordnungen``` pro verwendeter Abiturverordnung oder Fachwahl eine Zeile entsprechend der Anleitung pro Skript an. Wichtig hierbei sind die Felder Typ und Jahrgang. **Für die Synchonisation von G8-Klassen muss der Jahrgang mit dem Wert "10" gefüllt werden.**|
+|Zeitraumart | Unter `Extras > Schlüsselverzeichnisse > Zeiträume` muss das Feld "Art" mit dem Wert 1. Halbjahr bzw. 2. Halbjahr gefüllt sein. |
+|Klassenart| Unter `Klasse > Daten` muss im Feld "Klassenart" die Auswahl **Oberstufenjahrgang (Leistungs- und Grundkurse)** oder **Oberstufenjahrgang (nur Kurse)** getroffen sein. |
+ ||Sie können auch die Art **Standardklasse mit Oberstufensynchronisation** wählen, hierbei werden aber lediglich die Schüler für den Punkt `Abitur > Fachwahl` übertragen, also keine Schülerfachdaten oder Leistungsdaten.|
+|Jahrgang | Bei jeder Klasse/Jahrgang muss unter `Klasse > Zeiträume` für jeden Zeitraum das Feld "Jahrgang" mit dem Wert 11, 12 oder 13 angegeben werden.|
+|Abschlussjahrgänge | Bitte legen Sie unter `Extras > Schlüsselverzeichnisse > Abschlussjahrgänge` die Abschlussjahrgänge an. Es genügt dabei die Angabe des Kürzels, der Bezeichnung und der Kategorie (Abitur). |
+|Verordnungen | Richten Sie bitte unter `Extras > Schlüsselverzeichnisse > Verordnungen` pro verwendeter Abiturverordnung oder Fachwahl eine Zeile entsprechend der Anleitung pro Skript an. Wichtig hierbei sind die Felder "Typ" und "Jahrgang". **Für die Synchonisation von G8-Klassen muss der Jahrgang mit dem Wert "10" gefüllt werden.**|
 
 !!! info "Hinweis"
 
-    Beim Synchronisieren werden die Noten aus der Spalte Endnote in das Menü Abitur übernommen.
+    Beim Synchronisieren werden die Noten aus der Spalte "Endnote" in das Menü `Abitur` übernommen.
 
-![Daten fürs Abitur synchronisieren](/assets/images/abi_sync.jpg)
+[![Daten fürs Abitur synchronisieren][2]][2]
 
 So synchronisieren Sie Schüler für die Abiturberechnung oder die Fachwahl:
 
-Rufen Sie den Assistenten aus dem Menü ```Abitur``` auf der Karte ```Qualifikation``` über die Schaltfläche ```Schüler synchronisieren``` auf. Der Assistent bietet Ihnen alle Schüler zum Synchronisieren an, die sich in einer Klasse mit der Klassenart ```Oberstufenjahrgang``` befinden. Markieren Sie die Schüler und klicken auf ```Weiter```.
-Auf der nächsten Karte wählen Sie bitte die ```Prüfungsordnung``` und den ```Abschlussjahrgang``` aus und klicken auf ```Weiter``` und ```Fertigstellen```.
+Rufen Sie den Assistenten aus dem Menü `Abitur` über `Start` und die Schaltfläche `Schüler synchronisieren` auf. Der Assistent bietet Ihnen alle Schüler zum Synchronisieren an, die sich in einer Klasse mit der Klassenart `Oberstufenjahrgang` befinden. Markieren Sie die Schüler und klicken auf `Weiter`.
+Auf der nächsten Karte wählen Sie bitte die `Prüfungsordnung` und den `Abschlussjahrgang` aus und klicken auf `Weiter` und `Fertigstellen`.
 
-![Assistent zum Schüler synchronisieren](/assets/images/abi_sync2.png)
+[![Assistent zum Schüler synchronisieren][3]][3]
 
-Wechseln Sie nach dem Synchronisieren in den Menüpunkt ```Abitur``` auf die Unterkarte ```Auswahl```. Es werden alle synchronisierten Schüler angezeigt.
+Wechseln Sie nach dem Synchronisieren in den Bereich `Abitur > Auswahl`. Es werden alle synchronisierten Schüler angezeigt.
 
-Per Doppelklick auf den gewünschten Schüler oder über einen Klick auf die Registerkarte ```Qualifikation``` wechseln Sie zur Abiturzulassung. Auf dieser Registerkarte finden Sie die Fächer und Notenwerte der Oberstufenhalbjahre, falls Sie diese Angaben bereits in MAGELLAN unter der Rubrik ```Schüler``` gemacht haben sollten. Andernfalls können Sie Fächer und Notenwerte für die Oberstufenhalbjahre auch hier eingeben.
+Per Doppelklick auf den gewünschten Schüler oder über einen Klick auf die Registerkarte `Qualifikation` wechseln Sie zur Abiturzulassung. Auf dieser Registerkarte finden Sie die Fächer und Notenwerte der Oberstufenhalbjahre, falls Sie diese Angaben bereits in MAGELLAN im Bereich `Schüler` gemacht haben sollten. Andernfalls können Sie Fächer und Notenwerte für die Oberstufenhalbjahre auch hier eingeben.
 
 Sollte die 11 in Ihrem Bundesland nicht in Leistungs- und Grundkursen unterrichtet werden, erscheinen die Fächer der besseren Übersicht wegen trotzdem unterschieden nach den Leistungs- und Grundkursen der Jahrgangsstufen 12 und 13. Intern macht MAGELLAN für die Noten der 11 keine Unterscheidung in Leistungs- und Grundkurse.
 
 ## Abitur nach G8 oder G9
 
 Im Menü Abitur auf der Unterkarte Qualifikation werden je nach Verordnung die Spalten E1, E2, Q1-Q4 ausgewertet.
-Entscheidend ist bei der Synchronisation der Daten, dass die Halbjahresergebnisse der Schüler in die korrekte Spalte synchronisiert wird. Ausschlaggebend dafür ist der Eintrag unter ```Verzeichnisse > Verordnungen > Jahrgang```  beim Synchronisieren der Schüler.
+Entscheidend ist bei der Synchronisation der Daten, dass die Halbjahresergebnisse der Schüler in die korrekte Spalte synchronisiert wird. Ausschlaggebend dafür ist der Eintrag unter `Extras > Schlüsselverzeichnisse > Verordnungen` im Feld "Jahrgang"  beim Synchronisieren der Schüler.
 
 !!! info "Hinweis"
 
-    Soll die Daten als G8-Daten erkannt werden, tragen Sie ```Verzeichnisse > Verordnungen > Jahrgang``` bitte eine 10 ein, für die Synchronisation als G9-Daten tragen Sie bitte ein 11 ein. Nach diesem Eintrag werden die Schülerergebnisse in unterschiedliche Spalten übertragen.
+    Soll die Daten als G8-Daten erkannt werden, tragen Sie `Extras > Schlüsselverzeichnisse > Verordnungen ` im Feld "Jahrgang" bitte eine 10 ein, für die Synchronisation als G9-Daten tragen Sie bitte ein 11 ein. Nach diesem Eintrag werden die Schülerergebnisse in unterschiedliche Spalten übertragen.
 
-|Spalte auf der Karte ```Qualifikation``` |Synchronisation für G8|Synchronisation für G9|
+|Spaltenkopf unter `Abitur > Qualifikation` |Synchronisation für G8|Synchronisation für G9|
 |--|--|--|
 |E1|eventuell 10.1 oder leer|11.1|
 |E2|eventuell 10.2 oder leer|11.2|
@@ -396,6 +399,6 @@ Entscheidend ist bei der Synchronisation der Daten, dass die Halbjahresergebniss
 
 !!! info "Hinweis"
 
-    Haben Sie Schüler nach G8- und nach G9-System, legen Sie Ihre Verordnungszeile bitte doppelt an, tragen einmal 10 und einmal 11 in der Spalte ```Jahrgang``` ein und Synchronisieren Ihre Schüler getrennt und geben im Assistenten ```Synchronisiere Schüler ```die jeweils korrekte Verordnungszeile an.
+    Haben Sie Schüler nach G8- und nach G9-System, legen Sie Ihre Verordnungszeile bitte doppelt an, tragen einmal 10 und einmal 11 in der Spalte `Jahrgang` ein und Synchronisieren Ihre Schüler getrennt und geben im Assistenten `Schüler synchronisieren` die jeweils korrekte Verordnungszeile an.
 
-![Beispiel für G8 und G9](/assets/images/g8_verordnung.jpg)
+[![Beispiel für G8 und G9][4]][4]

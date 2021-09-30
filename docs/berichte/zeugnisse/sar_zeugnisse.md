@@ -308,7 +308,9 @@ Im Menü `Schüler > Zeugnis` legen Sie über die Spalte "Stammkurs" fest, welch
 
 [![Bezugskurs][2]][2]
 
-**A0216** `Mandanten > Daten 1 > Ort`
+**Mandanten / Ort**
+
+`Mandanten > Daten 1 > Ort`
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
@@ -521,7 +523,9 @@ Abgangszeugnis Klasse 5-10 für Gemeinschaftsschulen
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**A0013** 	`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+**Fehltage, Fehlstunden**
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
@@ -1293,7 +1297,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflichtbereich"
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**A0045**	`Mandanten > Daten > Name 1`
+**Schuldaten**
+
+`Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
 
@@ -1341,7 +1347,9 @@ Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü `Lehrer > D
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**A0346**	`Klassen > Zeiträume > Zeitraum > Klassenleiter 2`
+**st. KlassenleiterIn**
+
+`Klassen > Zeiträume > Zeitraum > Klassenleiter 2`
 
 Der stellv. Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` im Feld „Klassenleiter 2“ eingetragen werden.
 
@@ -1444,13 +1452,15 @@ Es werden nur Arbeitsgemeinschaften mit der Endnote "tg" (teilgenommen) ausgegeb
 
 Ein Handout zu den Zeugnisformularen Klassenstufen 5-10 (Gymnasium) ist auf dem BSCW-Server [http://bscw.saarland.de](http://bscw.saarland.de) abgelegt.
 
-**A0669**	`Schüler > Auswahl > Drucken > Zeugnisse drucken...`
+**Ausdruck**
+
+`Schüler > Auswahl > Drucken > Zeugnisse drucken...`
 
 Das Zeugnis kann sowohl Halbjahres- und Jahreszeugnis sein. Maßgebend ist der Eintrag im `Schlüsselverzeichnis > Zeiträume` in Spalte „Art“ 1. Halbjahr oder 2 Halbjahr.
 
 Weiterhin können Sie das Zeugnis für die Klassen 5-10 nutzen. Die unterschiedlichen Inhalte ergeben sich aufgrund des eingetragenen Jahrganges im Menü `Klassen > Zeiträume > Zeitraum`.
 
-HINWEIS: In Klassenstufen 9 + 10 werden keine Jahreszeugnisse gedruckt, verwenden Sie hier bitte das Abschlusszeugnis für Gemeinschaftsschulen für Klasse 9+10!"
+Hinweis: In Klassenstufen 9 + 10 werden keine Jahreszeugnisse gedruckt, verwenden Sie hier bitte das Abschlusszeugnis für Gemeinschaftsschulen für Klasse 9+10!
 
 **Anforderungsebenen/Einstufungen der Fächer**
 
@@ -1505,7 +1515,9 @@ Platzhalter | Ausgabe im Bericht
 ``<<Herrn>>``| Herrn
 ``<<Er>>`` | Er"
 
-**A0724**	`Klassen > Zeiträume >  Klassenleiter 1/Klassenleiter 2`
+**KlassenleiterIn**
+
+`Klassen > Zeiträume >  Klassenleiter 1/Klassenleiter 2`
 
 Wenn im Menü `Klassen > Zeiträume` im Feld „Klassenleiter 1“ und "Klassenleiter 2" Lehrer eingetragen werden, werden beide auf dem Zeugnis ausgegeben.
 
@@ -1557,16 +1569,9 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-**(A0019.33)** 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
-
-**(A0019.58)** 
-
-Kürzel | Schlüssel| Zeugnisbereich
---|--|--
 Profil | Profil | Profilbereich
 
 **Fremdsprachenfolge** 
@@ -1597,14 +1602,20 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0115)** `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen**
 
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
-**(A0135)** `Klassen > Daten > Beurteilungsart > Benotung durch Noten`
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren,
+die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung
+"2" usw.
 
-Im Menü `Klassen > Daten` muss bei der Klasse des Schülers im Feld "Beurteilungsart" "Benotung durch Noten" angegeben sein.
+**Benotung**
+
+`Klassen > Daten > Beurteilungsart`
+
+Im Menü `Klassen >  Daten` muss im Feld "Beurteilungsart" "Benotung durch Noten" angegeben sein.
 
 **Ort des Druckdatums**
 
@@ -1646,10 +1657,12 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Tragen Sie im Menü `Schüler > Zeugnis > Details` die Note für die Mitarbeit und Verhalten beim Schüler im aktuellen Zeitraum in den Feldern „Mitarbeit“ und „Verhalten“ ein. Grundlage für das Erfassen von Noten bildet das Schlüsselverzeichnis > Noten. Hier gelten die Eintragungen im Feld "alternativen Bezeichnungen".
 
-**(A0458)** `Schüler > Zeugnis > Bemerkungen/Formulare`
+**Platzhalter für Zeugnisbemerkungen**
+
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Sie können Zeugnisbemerkungen über Platzhalter personalisieren und Anreden und Namen des Schülers auf dem Zeugnis ausgeben.  
-Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  so ``<<hier steht Ihr Platzhalter>>``.  
+Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  so <<hier steht Ihr Platzhalter>>.  
 
 Möglich sind:
 
@@ -1796,7 +1809,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0134)** `Schüler > Zeugnis > Leistungen > Endnote`
+**Endnote**
+
+`Schüler > Zeugnis > Leistungen > Endnote`
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
@@ -1804,7 +1819,7 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**(A0247)** `Allgemein`
+**Ausdruck**
 
 Das Zeugnis gilt sowohl für das 1. und 2. Halbjahr. Der Versetzungstext wird nur im 2. Halbjahr aúsgegeben.
 
@@ -1821,11 +1836,15 @@ Tragen Sie im Menü `Schüler > Zeugnis > Details` die Note für die Mitarbeit u
 Die Landeswappen und/oder Ihr Schullogo können individuell auf dem Zeugnis ausgegeben werden:  
 Im Menü `Mandanten > Daten 2` können Sie ihre Landeswappen oder Ihre Schullogos im "jepg" Format hochladen. Damit es zu keiner Skalierung kommt beachten Sie dabei, dass Ihre Datei nach Möglichkeit 2,8 cm hoch wie breit sein sollte.
 
-**(A0556)** `Klassen > Zeiträume > Zeitraum > Jahrgang`
+**Jahrgang Klasse**
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume > Zeitraum` der Jahrgang im Feld „Jahrgang“ angegeben sein. Das Zeugnis kann nur zwischen dem 5. und 9. Jahrgang gedruckt werden.
 
-**(A0558)** `Schlüsselverzeichnisse > Fächer > Bezeichnung`
+**vorgegebene Fachbezeichnungen**
+
+`Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung`
 
 Damit die Fächer gemäß der Zeugnisvorlage ausgegeben werden, müssen die Fächer des Schülers die folgenden Fachbezeichnungen erhalten. 
 
@@ -1852,15 +1871,17 @@ beliebig | beliebig | Sport
 
 Damit Noten und Fächer korrekt ausgegeben werden, achten Sie bitte darauf, dass die oben aufgeführten Fachbezeichnungen identisch sind. Die  Fremdsprachen tragen Sie bitte zusätzlich im Menü `Schüler > Daten 3` im Bereich „Fremdsprachenfolge“ ein.
 
-**(A0559)** `Schüler > Zeugnis > Leistungen`
+**Endnote**
 
-Fächer ohne Eintrag im Menü `Schüler > Zeugnis > Leistungen` im Feld „Endnote“ werden ausgeblendet. 
+`Schüler > Zeugnis > Leistungen > Endnote`
 
-**(A0560)** `Sonstiges`
+Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+
+**Sonstiges**
 
 Dieser Bericht wurde von "A. Claus / B. Eisenhauer" erstellt und vom zuständigen Kultusministerium abgenommen. Daher stellen wir ihn lediglich zur Verfügung, übernehmen jedoch keine Gewähr und nehmen auch keine Änderungen vor.
 
-**(A0562)** `Ausdruck`
+**Zeugnis vvariabelHalbjahreszeugnis oder Jahreszeugnis**
 
 Das Zeugnis ist variabel sowohl als Halbjahreszeugnis oder Jahreszeugnis ausgelegt. 
 Halbjahreszeugnis bzw. Jahreszeugnis: entscheidend für die Ausgabe Halbjahreszeugnis bzw. Jahreszeugnis ist  im `Schlüsselverzeichnis > Zeiträume` im Feld "Art" der Eintrag 1. oder 2. Halbjahr.
@@ -1893,24 +1914,32 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | L | L-Kurs / Kurs mit erhöhtem Anforderungsniveau
 GK | G | G-Kurs / Kurs mit grundlegendem Anforderungsniveau"
 
-**A0020** `Schüler > Daten 3 > Von/Bis-Datum`
+**Fremdsprachen**
 
-Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis" ein.
+`Schüler > Daten 3 > Von/Bis`
 
-**A0023** `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
+
+**Fremdsprachen**
+
+`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**A0045**	`Mandanten > Daten > Name 1`
+**Schuldaten**
+
+`Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
 
-**A0110**	`Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
+**Zeugnisbemerkungen Abitur**
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü `Abitur > Zeugnis` im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-**A0111**	`Ausdruck`
+**Ausdruck**
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
@@ -1920,7 +1949,9 @@ Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
 Bitte benutzen Sie für das Seminarfach unter `Extras > Schlüsselverzeichnisse > Fächer` in der Spalte "Kategorie" den Wert „Seminar“.
 
-**A0931**	`Abitur > Qualifikation > Merkmal`
+**Wochenstunden der Fächer**
+
+`Abitur > Qualifikation > Merkmal`
 
 Wochenstunden der Fächer: Tragem Sie die Wochenstunden der Fächer im  Menü `Abitur > Qualifikation` im Feld "Merkmal" ein.
 

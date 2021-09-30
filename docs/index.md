@@ -17,7 +17,7 @@ Bereiche|Informationen
 
 ## Allgemeines
 
-Allgemeine Formulare, die Zeugnisformulare und deren Anwendung werden im Modul `MAGELLAN-Berichte` beschrieben, das Sie nach der Installation unter `Start > Programme > STÜBER SYSTEMS` finden.
+Allgemeine Formulare, die Zeugnisformulare und deren Anwendung werden [hier](https://doc.la.stueber.de/berichte/01_uebersicht/) in diesem Buch beschrieben.
 
 ### DAVINCI Landesanpassungen
 
@@ -44,7 +44,7 @@ Das `Kürzel` wird in MAGELLAN und DAVINCI zur Anzeige verwendet, der `Schlüsse
 
 !!! info "Hinweis"
 
-    Viele Werte sind durch den Import der Schlüsselverzeichnisse bereits korrekt gefüllt, bitte prüfen Sie aber dennoch vorab, ob die pro Skript oder Bericht erwarteten Werte in Ihrem Verzeichnis enthalten sind oder ggf. ergänzt werden müssen. Welche genau das sind, beschreiben wir im jeweiligen Unterpunkt pro Skript oder für Berichte im Modul MAGELLAN BERICHTE.
+    Viele Werte sind durch den Import der Schlüsselverzeichnisse bereits korrekt gefüllt, bitte prüfen Sie aber dennoch vorab, ob die pro Skript oder Bericht erwarteten Werte in Ihrem Verzeichnis enthalten sind oder ggf. ergänzt werden müssen. Welche genau das sind, beschreiben wir im jeweiligen Unterpunkt pro Skript oder für Berichte  [hier](https://doc.la.stueber.de/berichte/01_uebersicht/).
 
 Beim Datenabgleich zwischen MAGELLAN und DAVINCI werden die Schlüsselverzeichnisse `Unterrichtsarten` und `Fachstatus` aus Sicherheitsgründen nicht mit abgeglichen.
 
@@ -100,7 +100,7 @@ Folgende Abkürzungen werden in den nachfolgenden Kapiteln verwendet:
 
 ### Abkürzungen in Meldungen
 
-Als Ergebnis der Fachwahlüberprüfung in MAGELLAN und DAVINCI-Kursplan werden ggf. Hinweise ausgegeben, z.B. „NW, FS nicht abgedeckt“.
+Als Ergebnis der Fachwahlüberprüfung in MAGELLAN und DAVINCI KURSPLAN werden ggf. Hinweise ausgegeben, z.B. „NW, FS nicht abgedeckt“.
 
 Die Bedeutung der Abkürzungen können Sie der nachfolgenden Tabelle entnehmen:
 
@@ -156,11 +156,9 @@ Berichte definieren in MAGELLAN das Layout und den Inhalt von Zeugnissen, Übers
 
 ### Informationen zu Berichten
 
-!!! info "Hinweis"
+[Hier](https://doc.la.stueber.de/berichte/01_uebersicht/) finden Sie eine Beschreibung der Einstellungen, die für den korrekten Druck von Berichten und Zeugnissen notwendig sind. 
 
-     Weitere Informationen zu Berichten veröffentlichen wir über das [Modul Berichte](https://doc.magellan7.stueber.de/schulverwaltung/howto/berichte-verz.html). Sie finden den Aufruf unter `Start > Programme > Stueber Systems > MAGELLAN 7 Berichte`. 
-
-Sie haben in diesem Informationsmodul in der oberen Menüleiste die Möglichkeit nach der Region und der Art des Berichtes zu filtern. Per Doppelklick auf eine Berichtsbezeichnung werden Ihnen zusammengefasst die Anmerkungen (also, was genau ist wo im Programm zu erfassen) angezeigt. Die Anmerkungen können auch als Textdatei exportiert werden.
+Sie haben in dieser Anleitung Möglichkeit nach der Zeugnissen Ihrer Region und der Art des Berichtes zu suchen. Durch die Wahl einer Berichtsbezeichnung werden Ihnen zusammengefasst die Anmerkungen (also, was genau ist wo im Programm zu erfassen) angezeigt. 
 
 ### Wenn Sie selbst Berichte erstellen möchten
 
@@ -168,15 +166,13 @@ Alle in diesem Dokument erwähnten Crystal-Reports-Berichte für Listen und Zeug
 
 !!! info "Hinweis"
 
-    STÜBER SYSTEMS bietet exklusiv für MAGELLAN eine spezielle Schulversion von Crystal Reports Professional an. Über Schulungstermine informieren wir [hier](http://www.stueber.de/training.php)
+    Der Vertrieb von Crystal Reports erfolgt ausschließlich nur noch über SAP selbst. Für den Erwerb einer Lizenz wenden Sie sich bitte direkt an SAP. 
 
-Wenn Sie neue Berichte erstellen bzw. vorhandene verändern möchten, benötigen Sie einen Berichtsgenerator, d.h. ein Programm, mit dem Sie Berichte erstellen und verändern können. MAGELLAN verwendet ausschließlich den Berichtsgenerator Crystal Reports. In MAGELLAN werden daher ausschließlich Crystal Reports Berichte mitgeliefert. Sie können eine spezielle Schulversion von Crystal Reports von STÜBER SYSTEMS beziehen.
-
-Sie können Berichte alternativ auch in Access erstellen. Wie Sie Access an die MAGELLAN-Datenbank anbinden. Bitte beachten Sie, dass gerade schwierige Berichte wie Zeugnisberichte  in Crystal Reports wesentlich effizienter erstellt werden können.
+Wenn Sie neue Berichte erstellen bzw. vorhandene verändern möchten, benötigen Sie einen Berichtsgenerator, d.h. ein Programm, mit dem Sie Berichte erstellen und verändern können. MAGELLAN verwendet ausschließlich den Berichtsgenerator Crystal Reports. In MAGELLAN werden daher ausschließlich Crystal Reports Berichte mitgeliefert. 
 
 !!! info "Hinweis"
 
-    Falls Sie selbst in Crystal Reports Berichte erstellen möchten, finden Sie die dazu notwendigen Informationen in der [MAGELLAN 6 Datenstruktur](https://doc.magellan7-toolbox.stueber.de/datenstruktur/).
+    Falls Sie selbst in Crystal Reports Berichte erstellen möchten, finden Sie die dazu notwendigen Informationen in der [MAGELLAN Datenstruktur](https://doc.magellan-toolbox.stueber.de/datenstruktur/).
 
 ### Berichte im Auftrag erstellen lassen
 

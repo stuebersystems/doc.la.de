@@ -8,7 +8,7 @@ Gemäß Landesverordnung über die Gestaltung der Oberstufe und der Abiturprüfu
 
 ## Verzeichnis Verordnung
 
-Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
+Bitte legen Sie unter `Extras > Schlüsselverzeichnisse > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
 | Spalte       | Wert                                                                        |
 | ------------ | --------------------------------------------------------------------------- |
@@ -28,7 +28,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 
 ## Fachkategorien
 
-Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`. 
+Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer` im Feld "Fachkategorie". 
 Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werden. Für diese Fächer sind die zu verwendenden Fachkategorien fest vorgeschrieben. Alle anderen Fächer können mit einer der übrigen Fachkategorie gekennzeichnet werden oder ohne Fachkategorie geführt werden.
 
 |Fachkategorien|Muss genutzt werden|
@@ -67,7 +67,7 @@ Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werd
 
 ## Aufgabenbereiche
 
-Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Verzeichnisse > Fächer > Spalte Aufgabenbereich` verwendet werden:
+Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Extras > Schlüsselverzeichnisse > Fächer` in Spalte "Aufgabenbereich" verwendet werden:
 
 |Aufgabenbereich|
 |--|
@@ -79,20 +79,20 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Verzeichnisse
 
 ## Unterrichtsart
 
-Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden.
-Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
+Die Unterrichtsart muss im Bereich `Abitur > Qualifikation` in Spalte "Unterrichtsart" zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus dem Bereich `Schüler > Zeugnis > Fächer` aus der Spalte "Unterrichtsart" übernommen werden.
+Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Unterrichtsarten`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung                   |
 | ------ | --------- | --------------------------- |
 | PeF    | PeF       | Profil ergänzendes Fach     |
-| P      | P         | Profil                      |
-| E      | E         | Fach mit erweitertem Niveau |
+| P-Kurs | P         | Profil gebendes Fach |
+| E-Kurs | E         | Fach mit erhöhtem Anforderungsniveau / Kernfach |
 | BL     | BL        | Besondere Lernleistung      |
 
 ## Fachstatus
 
-Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Fachstatus``` übernommen werden.
-Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
+Der Fachstatus muss im Bereich `Abitur > Qualifikation` in Spalte "Fachstatus" zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus dem Bereich `Schüler > Zeugnis > Fächer` aus der Spalte "Fachstatus" übernommen werden.
+Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel  | Schlüssel | Bedeutung                                               |
 | ------- | --------- | ------------------------------------------------------- |
@@ -101,11 +101,10 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 | 3PF     | 3PF       | 3. Prüfungsfach                                         |
 | 4PF     | 4PF       | 4. Prüfungsfach                                         |
 | 5PF     | 5PF       | 5. Prüfungsfach                                         |
-| Pflicht | Pflicht   | Pflichtbereich (kein Eintrag wird wie Pflicht gewertet) |
 
-## Merkmal
+## Kennzeichnung Fremdsprache Anfänger
 
-Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
+Im Bereich `Abitur > Qualifikation` müssen Sie der Fremdsprache Anfänger im Feld "Merkmal" folgenden Eintrag zuweisen. Dieses Merkmal kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus dem Bereich `Schüler > Zeugnis > Fächer` aus der Spalte "Merkmal" übernommen werden.
 
 | Merkmal | Bedeutung                                                 |
 | ------- | --------------------------------------------------------- |
@@ -116,22 +115,22 @@ Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. 
 ### Einbringen in Block I
 
 1) Definieren Sie ein entsprechendes Fach
-2) Legen Sie unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten``` eine Unterrichtsart mit dem Kürzel `BL` an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu
-Im Menü ```Abitur > Prüfung``` tragen Sie unter ```Besondere Lernleistung``` das Fach und Thema der Besonderen Lernleistung ein.
+2) Legen Sie unter `Extras > Schlüsselverzeichnisse > Unterrichtsarten` eine Unterrichtsart mit dem Kürzel `BL` an (falls nicht vorhanden) und weisen Sie diese dem entsprechenden Fach zu.
+Im Menü `Abitur > Prüfung` tragen Sie unter `Besondere Lernleistung` das Fach und Thema der Besonderen Lernleistung ein.
 
 ### Einbringen in Block II
 
-Auf der Registerkarte ```Abitur > Qualifikation``` weisen Sie dem Fach den Fachstatus `5PF` zu.
-Im Menü ```Abitur > Prüfung``` tragen Sie unter ```Besondere Lernleistung``` das Fach, die Punktanzahl im linken Kästchen und das Thema der Besonderen Lernleistung ein. Bitte haken Sie ```Lernleistung einbringen``` an.
+Im Bereich `Abitur > Qualifikation` weisen Sie dem Fach den Fachstatus `5PF` zu.
+Unter `Abitur > Prüfung` tragen Sie unter `Besondere Lernleistung` das Fach, die Punktanzahl im linken Kästchen und das Thema der Besonderen Lernleistung ein. Bitte haken Sie `Lernleistung einbringen` an.
 
 ## Präsentationsprüfung
 
 Auf der Registerkarte `Abitur > Qualifikation` weisen Sie dem Fach den Fachstatus `4PF` oder `5PF` (je nach Verordnung) zu.
-Im Menü Abitur|Prüfung tragen Sie unter Präsentation das Fach, die Punktanzahl im linken Kästchen und das Thema der Präsentation ein. Bitte haken Sie `Präsentationsprüfung einbringen` an.
+Im Menü `Abitur > Prüfung` tragen Sie unter Präsentation das Fach, die Punktanzahl im linken Kästchen und das Thema der Präsentation ein. Bitte haken Sie `Präsentationsprüfung einbringen` an.
 
 ## Sport
 
-Für die Eingabe der Fachpraxis in Sport geben Sie bitte auf der Registerkarte ```Prüfung``` im Feld ```Fachpraxis``` bei Fach das Fach Sport an. Die Note der Sportfachpraxis geben Sie bitte bei Note 1 an.
+Für die Eingabe der Fachpraxis in Sport geben Sie bitte im Bereich `Abitur > Prüfung` im Feld `Fachpraxis` beim Fach das Fach Sport an. Die Note der Sportfachpraxis geben Sie bitte bei "Note 1" an.
 Bei der mdl. Note im 4. Prüfungsfach Sport geben Sie bitte die Note der mdl. Prüfung in Sport an.
 
 ## GER-Niveau
@@ -150,7 +149,7 @@ Legen Sie unter `Extras > Schlüsselverzeichnisse > Sprachreferenzen` folgende W
 
 [![Schlüsselverzeichnis > Sprachreferenzen][1]][1]
 
-Ihre Fremdsprachen müssen im `Schlüsselverzeichnis > Fächer` mit den statitistikrelevanten Schlüsseln befüllt sein. Aktuell werden folgende Schlüssel verwendet:
+Ihre Fremdsprachen müssen unter `Extras > Schlüsselverzeichnisse > Fächer` mit den statitistikrelevanten Schlüsseln befüllt sein. Aktuell werden folgende Schlüssel verwendet:
 
 | Fachschlüssel | Bezeichnung                                              |
 | ------------- | -------------------------------------------------------- |
@@ -187,7 +186,7 @@ Ihre Fremdsprachen müssen im `Schlüsselverzeichnis > Fächer` mit den statitis
 | 445F          | Russisch - 4. Fremdsprache (Fach)                        |
 | 445           | Chinesisch                                               |
 
-Wenn diese Bedingungen erfüllt sind, wird über Ausführen des Berechnungsskriptes `Neu berechnen` das erreichte GER-Niveau angezeigt und im Menü `Schüler > Daten 3` im befüllt.
+Wenn diese Bedingungen erfüllt sind, wird über Ausführen des Berechnungsskriptes `Neu berechnen` das erreichte GER-Niveau angezeigt und im Menü `Schüler > Daten 3` im Feld "Referenz" befüllt.
 
 [![Meldefenster][2]][2]
 
