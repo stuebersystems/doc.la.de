@@ -1,6 +1,8 @@
 
 # Mandantenberichte
 
+[![Aktuelle Ausbildung][1]][1]
+
 Nachfolgend sind erforderliche Eintragungen für die Berichte unter `MAGELLAN > Mandanten > Drucken > Berichte` beschrieben.
 
 ## Ausländerliste (alle).rpt
@@ -101,13 +103,33 @@ Gastschulgeldliste (Wahlschulen exkl. Koblenz und Mayen)
 
 ## Gesamtliste (Anzahl Klassen pro Schulort nach Jahrgang).rpt
 
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
+
 ## Gesamtliste (Anzahl Schüler pro Wohnort und Ortsteil nach Jahrgang).rpt
+
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
 
 ## Gesamtliste Bewerber (Adressen).rpt
 
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
+
 ## Gesamtliste Bewerber (Bewerberziele).rpt
 
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
+
 ## Gesamtliste Bewerber (nach Beruf).rpt
+
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
 
 ## Mandant (Ausgabe Schueler ohne Gemeindekennziffer).rpt
 
@@ -146,6 +168,17 @@ Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
 Prüfbericht Schüler unter 18 ausgeschult und keinen Eintrag unter ZugangAbgang An Schule).rpt
 
 Der Report gibt alle Schüler aus dem ausgewählten Zeitraum aus, die noch nicht 18 (volljährig) sind, inaktiv (ausgeschult) und keinen Eintrag im Menu `Schüler > Daten 2` im Bereich "Übergang" im Feld "An Schule" besitzen.
+
+## Mandant (Schüler des aktuellen Halbjahres ohne aktuelle Ausbildung).rpt
+
+Der Bericht prüft über alle Schüler des Mandanten für das ausgewählte Halbjahr ab, ob es aktive Schüler gibt, die keine aktuelle Ausbildung haben. Ausgegeben werden Schüler für die keine Ausbildung erfasst wurde oder für die eine Ausbildung erfasst wurde, diese aber nicht als aktuelle Ausbildung markiert wurde.
+Die aktuelle Ausbildung wird je Zeitraum über das Feld unterhalb der Liste der Ausbildungsbetriebe unter `Schüler > Ausbildung` gekennzeichnet.
+
+[1]:/assets/images/aktuelle.ausbildung.png
+
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
 
 ## Mandant (Schüler des aktuellen Halbjahres ohne Fächer).rpt
 
