@@ -1,7 +1,8 @@
 
 # Mandantenberichte
 
-[![Aktuelle Ausbildung][1]][1]
+[1]:/assets/images/aktuelle.ausbildung.png
+
 
 Nachfolgend sind erforderliche Eintragungen für die Berichte unter `MAGELLAN > Mandanten > Drucken > Berichte` beschrieben.
 
@@ -183,7 +184,7 @@ Der Report gibt alle Schüler aus dem ausgewählten Zeitraum aus, die noch nicht
 Der Bericht prüft über alle Schüler des Mandanten für das ausgewählte Halbjahr ab, ob es aktive Schüler gibt, die keine aktuelle Ausbildung haben. Ausgegeben werden Schüler für die keine Ausbildung erfasst wurde oder für die eine Ausbildung erfasst wurde, diese aber nicht als aktuelle Ausbildung markiert wurde.
 Die aktuelle Ausbildung wird je Zeitraum über das Feld unterhalb der Liste der Ausbildungsbetriebe unter `Schüler > Ausbildung` gekennzeichnet.
 
-[1]:/assets/images/aktuelle.ausbildung.png
+[![Aktuelle Ausbildung][1]][1]
 
 **Ausdruck**
 
