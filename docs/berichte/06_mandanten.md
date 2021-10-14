@@ -294,7 +294,7 @@ Dieser Bericht listet alle offenen Medienvorgänge auf, dessen Ausleihedatum vor
 
 ### Schüler nach Geburtsjahrgängen.rpt
 
-## Schülerliste (inaktive Schüler mit Ausleihvorgängen).rpt
+### Schülerliste (inaktive Schüler mit Ausleihvorgängen).rpt
 
 Dieser Bericht listet alle ausgeschulten Schüler auffür die es noch nicht abgeschlossene Medienvorgänge in der MAGELLAN BIBLIOTHEK gibt.
 
