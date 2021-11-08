@@ -23,6 +23,9 @@
 [26]:/assets/images/DAS/das26.png
 [27]:/assets/images/DAS/das27.png
 [28]:/assets/images/DAS/das28.png
+[29]:/assets/images/DAS/das29.png
+[30]:/assets/images/DAS/das30.png
+
 
 ## DAS-GY-ABI (DIA)(2021).rpt
 
@@ -2246,6 +2249,8 @@ Landessprache | LS
 
 ## DSND.DAS-GS (Klasse 1).rpt / DAS-GS (Klasse 1)(Kompetenzen).rpt / DAS-GS (Klasse 2)(Kompetenzen).rpt
 
+*Beispiel zu finden in MAGELLAN8_BEISPIEL.FDB* (*Webber, Susanna)
+
 [![Zeugnisvorschau1][25]][25]
 [![Zeugnisvorschau2][26]][26]
 
@@ -2419,7 +2424,26 @@ Folgende Positionierungen sind vorgegeben:
 
 *siehe Anleitung für DSND.DAS-GS (Klasse 2).rpt*
 
-## DSND.DAS-GS (Klasse 3).rpt
+## DSND.DAS-GS (Klasse 3).rpt / DAS-GS (Klasse 3)(Kompetenzen).rpt / DAS-GS (Klasse 3)(Kompetenzen).rpt
+
+*Beispiel zu finden in MAGELLAN8_BEISPIEL.FDB* (*Schiller, Jacob)
+
+[![Zeugnisvorschau1][29]][29]
+[![Zeugnisvorschau2][30]][30]
+
+**ENBREA Lernleistungen**
+
+Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie [hier](https://doc.magellan.stueber.de/schulverwaltung/howto/enbrea.leistungen/).
+
+**ENBREA Funktionen aktivieren**
+
+`Datenbank > Optionen > ENBREA`
+
+Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
+
+**Ausdruck**
+
+Das Zeugnis muss aus dem Menü `Schüler` gedruckt werden, es wird in DIN A3 Format und doppelseitig ausgegeben.
 
 **Schulhalbjahre**
 
@@ -2433,11 +2457,11 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**Zeugniskonferenzdatum**
+**Zeugnisdatum**
 
-`Schueler > Zeugnis > Details > Zeugniskonferenz am`
+`Schüler > Zeugnis > Details > Zeugnisdatum`
 
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
 **Versetzungsvermerk**
 
@@ -2461,13 +2485,6 @@ Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
-
-**Ausdruck**
-
-`Ausdruck > DIN A 3 Format, doppelseitig`
-
-Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **Schule**
 
@@ -2505,12 +2522,6 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 `Lehrer > Daten 2 > Dienstbez.`
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
-
-**Zeugnisdatum**
-
-`Schüler > Zeugnis > Details > Zeugnisdatum`
-
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
 **Zeugnisbemerkungen**
 
@@ -2553,20 +2564,6 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `Schüler > Auswahl > SchülerID = Kenn.-Nr`
 
 Als Kenn-Nr. liest der Bericht die SchülerID des Schüler aus.
-
-**ENBREA Lernleistungen**
-
-Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie [hier](https://doc.magellan.stueber.de/schulverwaltung/howto/enbrea.leistungen/).
-
-`Datenbank > Optionen > ENBREA`
-
-Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
-
-**Arbeits- und Sozialverhalten**
-
-`Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV`
-
-Bitte weisen im Menü `Klassen > Zeiträume` über die Schalfläche "Leistungsprofile definieren" den Fächern (Name) Sozialverhalten und Arbeitsverhalten im Feld "Interner Code" den Eintrag "ASV" zu.
 
 **Fachpositionen**
 
