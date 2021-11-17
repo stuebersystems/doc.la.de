@@ -10686,9 +10686,9 @@ Sport | 15
 Wahlpflichtfach eins | 30
 Wahlpflichtfach zwei | 31
 
-!!! danger "Achtung"
+!!! info "Hinweis"
 
- Eine falsche Positionierung der Fächer ordnet den Fächern eine falsche oder keine Note zu. Das Fach wird trotzdem angezeigt.
+    Eine falsche Positionierung der Fächer ordnet den Fächern eine falsche oder keine Note zu. Das Fach wird trotzdem angezeigt.
 
 ### BER-Schul Z 255 (09.17).rpt
 
@@ -11054,7 +11054,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 4PF | 4PF | 4. Prüfungsfach
 
-Die Noten der Präsentationsprüfung erfassen Sie im Menü Schüler > Zeugnis > Leistungen in folgenden Feldern:
+Die Noten der Präsentationsprüfung erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` in folgenden Feldern:
 
 Spalte | Note für..
 --|--
