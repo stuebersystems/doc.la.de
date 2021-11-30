@@ -25,13 +25,19 @@
 [28]:/assets/images/DAS/das28.png
 [29]:/assets/images/DAS/das29.png
 [30]:/assets/images/DAS/das30.png
-
+[31]:/assets/images/DAS/das31.png
+[32]:/assets/images/DAS/das32.png
 
 ## DAS-GY-ABI (DIA)(2021).rpt
 
 ZEUGNIS DER Zeugnis der ALLGEMEINEN HOCHSCHULREIFE mit besonderer Lernleistung
 Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland  (Beschluss der Kultusministerkonferenz vom 11.06.2015 i.d.F. vom 03.05.2018) zugrunde.
 (Anlage 8a zu DIA-PO [§ 37])
+
+*Beispielschüler finden Sie in der MAGELLAN8_BEISPIEL.FDB* (*Burns, Roberta)
+
+[![Zeugnisvorschau1][31]][31]
+[![Zeugnisvorschau2][32]][32]
 
 *Die Richtlinien für die Ausweisung der Sprachen auf den Abschlusszeugnissen der Deutschen Schulen im Ausland
 (Zeugnisse über die Allgemeine Hochschulreife) Beschluss der Kultusministerkonferenz vom 25.09.2019 ist in diesem Formular umgesetzt.*
@@ -2249,7 +2255,7 @@ Landessprache | LS
 
 ## DSND.DAS-GS (Klasse 1).rpt / DAS-GS (Klasse 1)(Kompetenzen).rpt / DAS-GS (Klasse 2)(Kompetenzen).rpt
 
-*Beispiel zu finden in MAGELLAN8_BEISPIEL.FDB* (*Webber, Susanna)
+*Beispielschüler finden Sie in der MAGELLAN8_BEISPIEL.FDB*  (*Webber, Susanna)
 
 [![Zeugnisvorschau1][25]][25]
 [![Zeugnisvorschau2][26]][26]
@@ -2426,7 +2432,7 @@ Folgende Positionierungen sind vorgegeben:
 
 ## DSND.DAS-GS (Klasse 3).rpt / DAS-GS (Klasse 3)(Kompetenzen).rpt / DAS-GS (Klasse 3)(Kompetenzen).rpt
 
-*Beispiel zu finden in MAGELLAN8_BEISPIEL.FDB* (*Schiller, Jacob)
+*Beispielschüler finden Sie in der MAGELLAN8_BEISPIEL.FDB* (*Schiller, Jacob)
 
 [![Zeugnisvorschau1][29]][29]
 [![Zeugnisvorschau2][30]][30]
