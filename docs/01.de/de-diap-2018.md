@@ -18,7 +18,7 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 | Kategorie    | Abitur                                   |
 | Typ          | bitte leer lassen                        |
 | Ab Jahrgang  | 10 oder 11                               |
-| Skript       | `...\Auslandsschulen\DE-DIAP-2018.dws` (Pfad zur Skriptdatei DE-DIAP-2015.dws auf Ihrem Server) |
+| Skript       | `...\Auslandsschulen\DE-DIAP-2018.dws` (Pfad zur Skriptdatei DE-DIAP-2018.dws auf Ihrem Server) |
 | Notenart 11  | Noten oder Punkte                        |
 | Notenart 12  | Punkte                                   |
 | Notenart 13  | Punkte                                   |
@@ -78,7 +78,7 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter `Verzeichnisse
 
 ## Fachmerkmale
 
-Bitte tragen Sie im Verzeichnis `Fächer` in der Spalte `Merkmal` für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehenden Kürzel ein. Aus diesen Kürzeln ergeben sich später für verschiedene DAS-Berichte das **E** für die vierstündig unterrichteten Fächer (auf erhöhtem Anforderungsniveau).
+Bitte tragen Sie im Schlüsselverzeichnis `Fächer` in der Spalte `Zeugnismerkmal` für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehenden Kürzel ein. Aus diesen Kürzeln ergeben sich später für verschiedene DAS-Berichte das **E** für die vierstündig unterrichteten Fächer (auf erhöhtem Anforderungsniveau).
 
 * `DAS-Prüfungsbogen (Anlage 7 zu DIA-PO)(2018).rpt` (Ausgabe **E** für die vierstündig unterrichtete)
 * `DAS-GY-ABI (Anlage 7).rpt`(Ausgabe **E** für die vierstündig unterrichtete Fächer)
@@ -98,7 +98,7 @@ Nachstehend ein Beispiel für die Eintragung mit der Landessprache Italienisch:
 ## Fachstatus
 
 Der Fachstatus muss unter `Abitur > Qualifikation > Fachstatus` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Fachstatus` übernommen werden.  
-Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
+Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 | Kürzel | Schlüssel | Bedeutung       |
 |--------|-----------|-----------------|
@@ -110,7 +110,7 @@ Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Fachs
 
 ## Besondere Lernleistung
 
-Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü „Abitur“ unter der Registerkarte ``Prüfung > Lernleistung`` das entsprechende Fach zuweisen und das Optionsfeld ``Lernleistung einbringen`` markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld ``Thema`` zu. 
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü „Abitur“ unter der Registerkarte `Prüfung > Lernleistung` das entsprechende Fach zuweisen und das Optionsfeld `Lernleistung einbringen` markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld `Thema` zu. 
 
 Ergebnisse tragen Sie bitte im darüberliegenden Bereich `Prüfungen` für das 5.PF ein.
 
@@ -133,14 +133,14 @@ Das Merkmal muss unter `Abitur > Qualifikation > Merkmal` eingetragen werden.
 
 | Merkmal | Bedeutung                                |
 |---------|------------------------------------------|
-| ``A ``      | Fremdsprache Anfänger (2 Kurse müssen eingebracht werden) |
-|``von-bis``  | Tragen Sie als `von` bitte den Startjahrgang ein, als `bis` bitte den Endjahrgang für Fächer, die vor der Qualifikationsphase abgeschlossen wurden. Fächer, die vor der Klassenstufe 10 abgeschlossen wurden, werden nicht erfasst oder ausgewertet.<br/>  <br/>Ein Beispiel: <br/> Biologie wurde von Klassenstufe 5 bis Klassenstufe 10 belegt, dann tragen Sie im Feld Merkmal bitte `5-10` ein. Dieser Wert wird für Zeugnisberichte ausgewertet.
+| `A `      | Fremdsprache Anfänger (2 Kurse müssen eingebracht werden) |
+|`von-bis`  | Tragen Sie als `von` bitte den Startjahrgang ein, als `bis` bitte den Endjahrgang für Fächer, die vor der Qualifikationsphase abgeschlossen wurden. Fächer, die vor der Klassenstufe 10 abgeschlossen wurden, werden nicht erfasst oder ausgewertet.<br/>  <br/>Ein Beispiel: <br/> Biologie wurde von Klassenstufe 5 bis Klassenstufe 10 belegt, dann tragen Sie im Feld Merkmal bitte `5-10` ein. Dieser Wert wird für Zeugnisberichte ausgewertet.
 
 ## Sonstiges
 
-Das Berechnungsskript **DE-DIAP-2015** berücksichtigt auch folgendes:
+Das Berechnungsskript **DE-DIAP-2018** berücksichtigt auch folgendes:
 
-* Ermittlung einer Schnittverbesserung durch mögliche Einbringung einer mdl. Note in einem Prüfungsfach unter dem Menü ``Abitur > Prüfung`` im Feld "mdl. Note"
+* Ermittlung einer Schnittverbesserung durch mögliche Einbringung einer mdl. Note in einem Prüfungsfach unter dem Menü `Abitur > Prüfung` im Feld "mdl. Note"
   
 ![`Abitur > Prüfung > "Neu berechnen`](/assets/images/DAS/ds.schnittverbessernd2018.png)
-* Ermittlung der Abiturzulassung am Ende der Q3, wenn unter dem Menü ``Abitur > Qualifikation`` in den Feldern ``Q4`` keine Punktwerte eingetragen sind
+* Ermittlung der Abiturzulassung am Ende der Q3, wenn unter dem Menü `Abitur > Qualifikation` in den Feldern `Q4` keine Punktwerte eingetragen sind
