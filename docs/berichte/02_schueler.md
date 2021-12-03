@@ -2,6 +2,10 @@
 
 Nachfolgend sind erforderliche Eintragungen für die Berichte unter `MAGELLAN > Schüler > Drucken > Berichte` beschrieben.
 
+## Bescheinigung zur Rentenversicherung (V0510 - 26.06.2017).rpt
+
+Der Bericht berechnet die Schulbesuchzeiten nach dem 17. Geburtstag anhand des Geburtsdatums des Schülers unter `Schüler > Daten1 > Geburtsdatum` und dem Zugang zur Schule unter `Daten2 > Zugang am`.
+
 ## Anmeldeschein (weiterführende Schulen).rpt
 
 **Ausdruck**
