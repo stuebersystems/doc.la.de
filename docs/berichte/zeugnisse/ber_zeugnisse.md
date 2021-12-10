@@ -3,6 +3,7 @@
 [1]:/assets/images/Berlin/zeugnis01.png "SchulZ591"
 [2]:/assets/images/Berlin/zeugnis02.png "SchulZ591"
 [3]:/assets/images/Berlin/zeugnis03.png "Schüler>Zeugnis>Leistungen"
+[4]:/assets/images/Berlin/schulz510.01.png "Ausgabe des Halbjahres"
 
 ## Allgemein BBS
 
@@ -3208,6 +3209,23 @@ Platzhalter | Ausgabe im Bericht
 
 Schul Z 510 (12.13)
 
+**Halbjahresausgabe**
+
+Für die Ausgabe des Schulhalbjahres werden zwei Eingaben erwartet.
+1. Unter `Extras > Schlüsselverzeichnisse > Zeiträume > Art` wird die Eingabe `1.Halbjahr` oder `2.Halbjahr` erwartet.
+2. Unter `Klassen > Zeiträume > Jahrgang` wird der Jahrgang 11 oder 12 erwartet.
+
+Halbjahr |Jahrgang|Ausgabe
+--|--|--
+1.Halbjahr|11|1.
+2.Halbjahr|11|2.
+1.Halbjahr|12|3.
+2.Halbjahr|12|4.
+
+[![Ausgabe des Halbjahres][4]
+
+
+
 **Fehltage und/oder Fehlstunden** 
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
@@ -3233,12 +3251,6 @@ FachT | FachT | Fachtheoretischer Bereich
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**Fremdsprachenfolge** 
-
-`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
-
-Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
-
 **Schulname** 
 
 `Mandanten > Daten > Name 1`
@@ -3255,6 +3267,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 **Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 **Bezirk der Schule**	
 
@@ -3278,9 +3291,6 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-**Ausdruck** 
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 ***Fachbezeichnung**
 
