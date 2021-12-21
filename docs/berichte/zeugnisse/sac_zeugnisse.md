@@ -1,5 +1,11 @@
 # Zeugnisse für Sachsen
 
+[1]:/assets/images/sachsen/sac02.png "D.01.01"
+[2]:/assets/images/sachsen/sac03.png "Fachrichtung"
+[3]:/assets/images/sachsen/sac04.png "Fachrichtung des Schülers"
+[4]:/assets/images/sachsen/sac05.png "Fachrichtung der Klasse"
+[5]:/assets/images/sachsen/sac06.png "ausgefülltes Zeugnis"
+
 ## A-Zeugnisse (Berufsschule)
 
 ### SAC-BS-HJI (A.01.02).rpt
@@ -6385,6 +6391,32 @@ Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, 
 
 D.01.01  Halbjahreszeugnis der Fachoberschule
 
+[![D.01.01][1]][1]
+[![Beispiel][5]][5]
+
+**Ausdruck**
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+
+**Fachrichtung der Fachoberschule**
+
+`Extras > Schlüsselverzeichnis > Bildungsgänge`
+
+Die Fachrichtung entspricht dem Bildungsgang des Schülers bzw. der Klasse. 
+
+Weisen Sie entweder dem Schüler (wenn innerhalb einer Klasse Schüler mit unterschiedlichen Fachrichtungen sind) oder der Klasse den Bildungsgang zu. Jeder Bildungsgang hat eine entsprechende Fachrichtung. Der Bericht fragt die Bezeichnung des Bildungsganges ab.
+
+[![Fachrichtung des Bildungsganges][2]][2]
+
+[![Fachrichtung des Bildungsganges - Schüler][3]][3]
+[![Fachrichtung des Bildungsganges - Klasse][4]][4]
+
+**Schuljahr** 
+
+`Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+
 **Klassenstufe** 
 
 `Klassen > Zeiträume > Zeitraum > Klassenstufe`
@@ -6408,14 +6440,6 @@ Pflicht | Pflicht | Pflichtfach
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**Fachrichtung der Fachoberschule**
-
-`Extras > Schlüsselverzeichnis > Bildungsgänge`
-
-Die Fachrichtung entspricht dem Bildungsgang des Schülers bzw. der Klasse. 
-
-Weisen Sie entweder dem Schüler (wenn innerhalb einer Klasse Schüler mit unterschiedlichen Fachrichtungen sind) oder der Klasse den Bildungsgang zu. Jeder Bildungsgang hat eine entsprechende Fachrichtung. 
-
 **Schulname** 
 
 `Mandanten > Daten > Name 1`
@@ -6423,21 +6447,11 @@ Weisen Sie entweder dem Schüler (wenn innerhalb einer Klasse Schüler mit unter
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**Zeiträume** 
-
-`Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
-
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
-
 **Zeugnisdatum**
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
-
-**Ausdruck**
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 **Zeugnisbemerkungen Positionierung**
 
