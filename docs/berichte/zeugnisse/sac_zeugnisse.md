@@ -6541,11 +6541,18 @@ Pflicht | Pflicht | Pflichtfach
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**Berufsfeld der Klasse**
+**Fachrichtung der Fachoberschule**
 
-`Klassen > Daten > Berufsfeld`
+`Extras > Schlüsselverzeichnis > Bildungsgänge`
 
-Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
+Die Fachrichtung entspricht dem Bildungsgang des Schülers bzw. der Klasse. 
+
+Weisen Sie entweder dem Schüler (wenn innerhalb einer Klasse Schüler mit unterschiedlichen Fachrichtungen sind) oder der Klasse den Bildungsgang zu. Jeder Bildungsgang hat eine entsprechende Fachrichtung. Der Bericht fragt die Bezeichnung des Bildungsganges ab.
+
+[![Fachrichtung des Bildungsganges][2]][2]
+
+[![Fachrichtung des Bildungsganges - Schüler][3]][3]
+[![Fachrichtung des Bildungsganges - Klasse][4]][4]
 
 **Schulname** 
 
@@ -6706,11 +6713,18 @@ Pflicht | Pflicht | Pflichtfach
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**Berufsfeld der Klasse**
+**Fachrichtung der Fachoberschule**
 
-`Klassen > Daten > Berufsfeld`
+`Extras > Schlüsselverzeichnis > Bildungsgänge`
 
-Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
+Die Fachrichtung entspricht dem Bildungsgang des Schülers bzw. der Klasse. 
+
+Weisen Sie entweder dem Schüler (wenn innerhalb einer Klasse Schüler mit unterschiedlichen Fachrichtungen sind) oder der Klasse den Bildungsgang zu. Jeder Bildungsgang hat eine entsprechende Fachrichtung. Der Bericht fragt die Bezeichnung des Bildungsganges ab.
+
+[![Fachrichtung des Bildungsganges][2]][2]
+
+[![Fachrichtung des Bildungsganges - Schüler][3]][3]
+[![Fachrichtung des Bildungsganges - Klasse][4]][4]
 
 **Schulname** 
 
@@ -6853,11 +6867,18 @@ Pflicht | Pflicht | Pflichtfach
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**Berufsfeld der Klasse**
+**Fachrichtung der Fachoberschule**
 
-`Klassen > Daten > Berufsfeld`
+`Extras > Schlüsselverzeichnis > Bildungsgänge`
 
-Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
+Die Fachrichtung entspricht dem Bildungsgang des Schülers bzw. der Klasse. 
+
+Weisen Sie entweder dem Schüler (wenn innerhalb einer Klasse Schüler mit unterschiedlichen Fachrichtungen sind) oder der Klasse den Bildungsgang zu. Jeder Bildungsgang hat eine entsprechende Fachrichtung. Der Bericht fragt die Bezeichnung des Bildungsganges ab.
+
+[![Fachrichtung des Bildungsganges][2]][2]
+
+[![Fachrichtung des Bildungsganges - Schüler][3]][3]
+[![Fachrichtung des Bildungsganges - Klasse][4]][4]
 
 **Schulname** 
 
