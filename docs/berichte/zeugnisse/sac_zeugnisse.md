@@ -5,6 +5,8 @@
 [3]:/assets/images/sachsen/sac04.png "Fachrichtung des Schülers"
 [4]:/assets/images/sachsen/sac05.png "Fachrichtung der Klasse"
 [5]:/assets/images/sachsen/sac06.png "ausgefülltes Zeugnis"
+[6]:/assets/images/sachsen/sac07.png "D.01.02"
+[7]:/assets/images/sachsen/sac08.png "FachP"
 
 ## A-Zeugnisse (Berufsschule)
 
@@ -6423,12 +6425,12 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers die Klassenstufe auf der Registerkarte `Zeiträume > Zeitraum` im Feld "Klassenstufe" eingetragen sein.
 
-**Fachstatus** 
+**Unterrichtsart** 
 
-`Extras > Schlüsselverzeichnisse > Fachstatus`
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern eine Unterrichtsart zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" die Unterrichtsart zuweisen können. Grundlage für das Zuweisen einer Unterrichtsart bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
@@ -6452,6 +6454,19 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
+
+**Noten wie o.B., n.B. oder sonstiges**
+
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung))** auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
+bestanden | bestanden | Füllwerte
+n.bestanden | nicht bestanden | Füllwerte
 
 **Zeugnisbemerkungen Positionierung**
 
@@ -6516,6 +6531,8 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 ### SAC-FOS-JZ (D.01.02).rpt
 
 D.01.02 | Jahreszeugnis der Fachoberschule
+
+[![D.01.02][6]][6]
 
 **Klassenstufe** 
 
@@ -6591,7 +6608,7 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 **Noten wie o.B., n.B. oder sonstiges**
 
-`Schlüsselverzeichnisse > Noten > Füllwerte``
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
 Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung))** auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
 
@@ -6599,6 +6616,8 @@ Kürzel | Bezeichnung | Notenart
 --|--|--
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
+bestanden | bestanden | Füllwerte
+n.bestanden | nicht bestanden | Füllwerte
 
 **Mandanten / Ort**
 
@@ -6683,12 +6702,18 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>>`` | der Schüler/die Schülerin (je nach Geschlecht des Schülers)** 
 ``<<DemSchueler_DerSchuelerin>>`` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**Fachpraktischer Unterricht bestanden/nicht bestanden** 
+**Fachpraktischer Teil der Ausbildung bestanden/nicht bestanden** 
 
 `Schüler > Zeugnis > Leistungen > Endnote (bestanden/nicht bestanden)`
 
-Damit auf dem Zeugnis der 'Fachpraktischer Unterricht' (Fach mit Fachstatus "FachP") mit einem Ergebnis: bestanden/nicht bestanden ausgegeben wird, weisen Sie Menü `Schüler > Zeugnis > Leistungen` dem Fach "Fachpraktischer Unterricht" im Feld "Endnote" den Füllwert "bestanden" oder "nicht bestanden" zu. Grundlage bildet das `Schlüsselverzeichnis > Noten`. Achten Sie bitte darauf, dass Sie im Feld "Notenart" über das DropDown Menü "Füllwert" hinterlegt haben.
-Auf dem Zeugnis wird die "Bezeichnung" des Füllwertes ausgegeben.
+Damit auf dem Zeugnis der 'Fachpraktischer Teil der Ausbildung' (Fach mit Fachstatus "FachP") mit einem Ergebnis: bestanden/nicht bestanden ausgegeben wird, gehen Sie bitte wie folgt vor:
+
+1. Legen Sie unter `Extras > Schlüsselverzeichnisse > Fächer` ein Fach "Fachpraktischer Teil der Ausbildung" an.
+2. Weisen Sie Menü `Schüler > Zeugnis > Leistungen` dem Schüler dieses Fach zu. 
+3. Dieses Fach muss im Feld Fachstatus "FachP" zugewiesen bekommen.
+4. Dem Fach "Fachpraktischer Teil der Ausbildung" tragen Sie im Feld "Endnote" den Füllwert "bestanden" oder "nicht bestanden" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`. Achten Sie bitte darauf, dass Sie im Feld "Notenart" über das DropDown Menü "Füllwert" hinterlegt haben. Auf dem Zeugnis wird die "Bezeichnung" des Füllwertes ausgegeben.
+
+[![FachP][7]][7]
 
 ### SAC-FOS-AZ (D.01.03).rpt
 
