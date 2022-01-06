@@ -1,5 +1,7 @@
 # BER-FW-APO-2011.js
 
+[1]:/assets/images/Berlin/02.png
+
 !!! info "Hinweis"
 
      Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [Regionales > Berlin](https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin/) !
@@ -126,3 +128,9 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 |4PFBLL|4PFBLL|4. Prüfungsfach und besondere Lernleistung|
 |BLL|BLL|5. Prüfungskomponente besondere Lernleistung|
 |PRS|PRS|5.Prüfungskomponente Präsentationsprüfung|
+
+## neu einsetzende Fremdsprache
+
+Um die Regelung des Entfallens der Pflichtbelegung für die Fächer Musik, Bildende Kunst oder Darstellendes Spiel, wenn die zweite Fremdsprache erst in der Einführungsphase begonnen wurde, umsetzen zu können, muss die neu einsetzende Fremdsprache unter `Abitur > Fachwahlkarte > Merkmal` mit `A` gekennzeichnet werden.
+
+[![Merkmal= A][1]][1]
