@@ -6,14 +6,7 @@ Die gesamte Berechnung wird durch MAGELLAN-Skripte durchgeführt oder anders ges
     Achten Sie in den folgenden Abschnitten immer auf die speziellen Hinweise für das von Ihnen gewählte Skript. Die für Sie relevante Skriptdatei können Sie der Tabelle für Ihre Region unten entnehmen.
 
 Die Skripte befinden sich im MAGELLAN- bzw. im DAVINCI-Verzeichnis im Ordner `Skripte > Ihre Region`.
-
-MAGELLAN-Skripte können zum Beispiel:
-
-* das Abitur oder die Fachhochschulreife berechnen,
-* die Zulassung zur 12 prüfen,
-* Fachwahlen in MAGELLAN oder DAVINCI prüfen,
-* Durchschnitte oder Abschlüsse ermitteln und zuweisen oder
-* Ergebnisse im Berufsschulbereich berechnen.
+MAGELLAN-Skripte können zum Beispiel das Abitur oder die Fachhochschulreife berechnen, die Zulassung zur 12 prüfen, Fachwahlen in MAGELLAN oder DAVINCI prüfen, Durchschnitte oder Abschlüsse ermitteln und zuweisen oder Ergebnisse im Berufsschulbereich berechnen.
 
 Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm verwendet und erwartet auch unterschiedliche Eingaben. Diese Eingaben beschreiben wir in den weiteren Abschnitten für jedes Skript.
 
