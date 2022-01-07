@@ -14872,9 +14872,6 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 **Ausdruck** 
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
-
-**Ausdruck** 
-
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 ### BER-Schul Z 620 (09.18).rpt
@@ -14887,7 +14884,13 @@ Schul Z 620 – Beiblatt zum Zeugnis für ergänzende Bemerkungen (09.18)
 
 Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
-Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
+**Beiblatt für verschiedene Berliner Zeugnisse**
+
+Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, wird diese Bemerkung auf dem Beiblatt "Schul Z 620" ergänzend zum Zeugnisformular ausgegeben.
+
+Merkmal|Bedeutung
+--|--
+Beiblatt | Beiblatt ist Bestandteil des Zeugnisses
 
 **Zeugnisdatum** 
 
