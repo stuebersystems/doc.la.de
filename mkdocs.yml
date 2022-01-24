@@ -228,7 +228,6 @@ nav:
     - Übersicht: berichte/01_uebersicht.md
     - Zeugnisse: 
       - Allgemeine: berichte/zeugnisse/allgemein_zeugnisse.md
-      - Prüfungslisten: berichte/zeugnisse/pruefungslisten.md
       - Ausland: berichte/zeugnisse/das_zeugnisse.md
       - BAW: berichte/zeugnisse/baw_zeugnisse.md
       - BER: berichte/zeugnisse/ber_zeugnisse.md
@@ -242,7 +241,8 @@ nav:
       - SAR: berichte/zeugnisse/sar_zeugnisse.md
       - SHL: berichte/zeugnisse/shl_zeugnisse.md
       - THU: berichte/zeugnisse/thu_zeugnisse.md
-    - Menü Schüler: berichte/02_schueler.md
+    - Menü Schüler: 
+      - Allgemein: berichte/02_schueler.md
     - Menü Bewerber: berichte/03_bewerber.md
     - Menü Klassen: 
       - Klassenberichte: berichte/04.01_klassen.md
@@ -254,6 +254,9 @@ nav:
     - Menü Betriebe: berichte/09_betriebe.md
     - Menü Schulen: berichte/10_schulen.md
     - Menü Adressen: berichte/11_adressen.md
+    - Menü Abitur:
+      - Prüfungslisten: berichte/abitur/pruefungslisten.md
+      - Berichte: berichte/abitur/berichte.md
     - Bibliothek:
       - Quittungen: berichte/12_quittungen.md
       - Medien: berichte/13_medien.md

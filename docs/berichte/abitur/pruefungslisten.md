@@ -1,6 +1,6 @@
 # Prüfungslisten
 
-## Prüfungslisten allgemein
+## Allgemein
 
 ### Abiturprüfung-Ergebnisse (Erst- und Zweitkorrektur sowie Endbewertung).rpt
 
@@ -35,7 +35,7 @@ So geht's:
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-## Prüfungslisten Baden-Württemberg
+## Baden-Württemberg
 
 ### BAW-Abiturpruefung-muendliche-Pruefung.rpt
 
