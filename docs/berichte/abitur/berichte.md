@@ -5,6 +5,23 @@
 
 ## Allgemein
 
+### Abiturergebnisse.rpt
+
+**Druck**
+Dieser Bericht wird aus dem Menü `Abitur` ausgegeben. Bitte markieren Sie unter `Abitur > Auswahl` die gewünschten Schüler und rufen den Bericht anschließend über `Drucken > Berichte` auf.
+
+### Schülerliste (Abitur).rpt
+
+**Druck**
+Dieser Bericht wird aus dem Menü `Abitur` ausgegeben. Bitte markieren Sie unter `Abitur > Auswahl` die gewünschten Schüler und rufen den Bericht anschließend über `Drucken > Berichte` auf.
+
+## Schleswig-Holstein
+
+### SHL-GY-Abi(Abiturergebnisse).rpt"
+
+**Druck**
+Dieser Bericht wird aus dem Menü `Abitur` ausgegeben. Bitte markieren Sie unter `Abitur > Auswahl` die gewünschten Schüler und rufen den Bericht anschließend über `Drucken > Berichte > SHL` auf.
+
 ## Ausland
 
 ### DAS-Ergebnisliste Abitur (Anlage 8)(§39_2).rpt
