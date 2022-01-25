@@ -28,7 +28,7 @@
 [31]:/assets/images/DAS/das31.png
 [32]:/assets/images/DAS/das32.png
 
-**Anmerkungen**
+## Anmerkungen
 
 Dieser Bericht basiert auf dem Bericht`DAS-GS-GY (Klasse 3-10).rpt`. Abweichend vom orginialen Bericht gibt es vier feste Logos im Zeugnisfuß, zwei Platzhalter für Zeugnislogos, die in MAGELLAN hinterlegt werden können. Zusätzlich wird in diesem Bericht nicht das Arbeits- und Sozialverhalten der Schüler ausgegeben.
 
@@ -40,21 +40,21 @@ Jahres- und Halbjahreszeugnis der Klassenstufe 3-10, Schulformen:
 * Orientierungsstufe
 * Gymnasium
 
-**Logodateien**
+## Logodateien
 
 `Mandanten > Daten > Logo1 und Logo2`
 
 Im Fuß des Zeugnisses sind vier Bildateien fest integriert. Im Kopf des Zeugnisses werden zwei weitere Bilddateien ausgegeben, die Sie unter `Mandanten > Daten2 > Logo1 und Logo2` hinterlegen können.
 Dabei wird die dem Feld `Logo 1` hinterlegte Datei links gezeigt, die dem Feld `Logo 2` hinterlegte Datei rechts gezeigt.
 
-**Beurteilungsart**
+## Beurteilungsart
 
 `Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
 
 Im Menü `Klassen` muss bei der Klasse des Schülers auf der Registerkarte `Daten` im Feld Beurteilungsart "Noten" angegeben sein,
 hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
 
-**Zeiträume**
+## Zeiträume
 
 `Extras > Schlüsselverzeichnisse > Zeiträume`
 
@@ -64,7 +64,7 @@ Die Ausgabe des Schulhalbjahres/Schuljahres erfolgt aufgrund der Definition des 
 
 [![`Schlüsselverzeichnisse > Zeiträume`][23]][23]
 
-**Versetzungsvermerk**
+## Versetzungsvermerk
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Art`
 
@@ -74,13 +74,13 @@ Ein Versetzungsvermerk wird nur beim Ausdruck aus dem 2. Halbjahr ausgegeben. De
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-**Klassenjahrgang**
+## Klassenjahrgang
 
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**Schulart**
+Schulart
 
 `Schüler > Laufbahn > Allgemein > Schulart` oder `Klasse > Daten > Schulart` 
 
@@ -94,13 +94,13 @@ beliebig (HS) | leer | Hauptschule
 beliebig (OS) | leer | Orientierungsstufe
 beliebig (RS) | leer | Realschule
 
-**Fehlzeiten**
+## Fehlzeiten
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Arbeitsgemeinschaften**
+## Arbeitsgemeinschaften
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 `Extras > Schlüsselverzeichnisse > Fächer`
@@ -117,14 +117,14 @@ AG | AG | Arbeitsgemeinschaft
 
 [![Zuweisung Arbeitsgemeinschaften][24]][24]
 
-**Fachpositionen**
+## Fachpositionen
 
 `Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**Mandanten**
+## Mandanten
 
 `Mandanten > Daten > Name 1`
 
@@ -134,7 +134,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**Schulleiter, Klassenleiter**
+## Schulleiter, Klassenleiter
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -144,32 +144,32 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten 1` zugewiesen wurde.
 
-**Zeugnisdatum**
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Zeugnisbemerkungen**
+## Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**Endnote**
+## Endnote
 
 `Schüler > Zeugnis > Leistungen > Endnote`
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**Ort des Druckdatums**
+## Ort des Druckdatums
 
 `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**Noten**
+## Noten
 
 `Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
@@ -179,14 +179,14 @@ Kürzel | Schlüssel | Bezeichnung | Notenart
 --|--|--|--
 n.b. | n.b. | teilgenommen | Füllwerte
 
-**Hauptfach**
+## Hauptfach
 
 `Schüler > Zeugnis > Fächer > Hauptfach`
 
 Unterfächer die einem Hauptfach zugeordnet werden sollen, kennzeichnen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Haupfach". Dort weisen Sie dem Unterfach das entsprechende Hauptfach zu. Damit die Fächer auf dem Zeugnis in der gewünschten Reihenfolge ausgegeben wird, weisen Sie den Fächern entsprechende Positionen zu. 
 Machen Sie dabei zwischen Unter-  und Hauptfächern keine Unterschiede und positionieren diese in der gewünschten chronologischen Reihenfolge. Beachten Sie dabei, dass ein Hauptfach eine niedrigere Position als ein Unterfach haben muss und dass keine anderen Fächer zwischen Hauptfach und Unterfach positioniert werden.
 
-**Zeugnisbemerkungen**
+## Zeugnisbemerkungen
 
 `Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
