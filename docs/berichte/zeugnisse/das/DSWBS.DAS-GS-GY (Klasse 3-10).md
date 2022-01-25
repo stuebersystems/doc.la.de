@@ -80,7 +80,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-Schulart
+## Schulart
 
 `Schüler > Laufbahn > Allgemein > Schulart` oder `Klasse > Daten > Schulart` 
 
