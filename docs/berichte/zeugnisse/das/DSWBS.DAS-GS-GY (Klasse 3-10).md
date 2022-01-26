@@ -94,6 +94,10 @@ beliebig (HS) | leer | Hauptschule
 beliebig (OS) | leer | Orientierungsstufe
 beliebig (RS) | leer | Realschule
 
+Was gibt der Bericht aus:
+Für Schüler deren Klassenjahrgang nicht höher als Jahrgang 10 ist, wird die Schulart aus `Schüler > Laufbahn > Schulart` gelesen. Es werden die oben genannten Werte erwartet.
+Sollte dort nichts erfasst sein, wird die Klassenschulart unter `Klassen > Daten > Schulart` ausgelesen, soweit die Einträge den Vorgaben entsprechen.
+
 ## Fehlzeiten
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
