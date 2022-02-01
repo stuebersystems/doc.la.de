@@ -36,8 +36,7 @@ Erfassen Sie die Erstsprache unter `Schüler > Daten1 > Muttersprache`, dem Feld
 
 ## Fach
 
-Ausgewertet werden die Fächer unter `Abitur > Qualifikation`, die als Prüfungsfächer im Feld `Fachstatus` markiert wurden. 
-Für die Einträge müssen die Verzeichnisse `Fächer` und `Fachstatus` entsprechend Ihrer Verordnung vorbefüllt sein.
+Hier werden die Prüfungsergebnisse des jeweiligen Prüfungsfachs (`Abitur > Prüfung`) ausgegeben. Bitte beachten Sie, dass Sie das Berechnungsskript ausgelöst haben müssen, damit die Prüfungsfächer von der Unterkarte "Qualifikation" auf die Unterkarte "Prüfung" kopiert wird.
 
 ## Unterrichtssprache
 
