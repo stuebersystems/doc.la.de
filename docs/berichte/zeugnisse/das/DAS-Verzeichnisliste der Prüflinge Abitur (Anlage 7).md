@@ -15,6 +15,7 @@ Zum Drucken der Prüfungslisten gehen Sie wie folgt vor:
 
 [![DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7).rpt][1]
 
+
 ## Mandant
 
 Bitte erfassten Sie Ihren Schulnamen unter `Mandant > Name 1`.
@@ -52,12 +53,13 @@ Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass i
 | 4PF    | 4PF       | 4. Prüfungsfach |
 | 5PF    | 5PF       | 5. Prüfungsfach |
 
-
 ## Unterrichtssprache
 
 Ausgewertet werden die Kurssprachen (`Q1Bilingual`-`Q4Bilingual`) unter `Abitur > Qualifikation`, der als Prüfungsfächer markierten Fächer. Der Bericht versucht als erstes die Kurssprache des Q4-Zeitraums auszugeben, ist sie nicht gefüllt, die des Q3-Zeitraums auszugeben usw.
 
 Für die Einträge müssen die Verzeichnisse `Fächer`, `Fachstatus` und `Kurssprachen` entsprechend Ihrer Verordnung vorbefüllt sein.
+
+[![Prüfungsfächer und Unterrichtssprache][2]
 
 ## Teilqualifikation im Bereich A
 
