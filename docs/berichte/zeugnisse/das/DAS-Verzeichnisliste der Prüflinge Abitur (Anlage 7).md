@@ -66,4 +66,3 @@ Der Wert wird aus dem per Skript zu berechnenden Feld unter `Abitur > Prüfung >
 ## Teilqualifikation im Bereich Q
 
 Der Wert wird aus dem per Skript zu berechnenden Feld unter `Abitur > Prüfung > Bereich 3` gelesen.
-
