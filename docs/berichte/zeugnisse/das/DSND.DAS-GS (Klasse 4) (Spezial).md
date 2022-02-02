@@ -73,7 +73,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Arbeitsgemeinschaften**
+## Arbeitsgemeinschaft
 
 [![Ausgabe der Arbeitsgemeinschaften][6]][6]
 

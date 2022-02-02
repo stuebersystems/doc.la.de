@@ -44,7 +44,7 @@ Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an De
 
     Die Abiturqualifikationsberechnung in MAGELLAN können Sie mit Hilfe eines Berechnungsskriptes durchführen. Lesen Sie dazu bitte die Anleitung zum entsprchenden Berechnungsskript [DE-DIAP-2018](https://doc.la.stueber.de/01.de/de-diap-2018/) 
 
-**Aufgabenbereich**
+## Aufgabenbereich
 
 `Extras > Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
@@ -58,7 +58,7 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Weitere Fächer
 Religion | Weitere Fächer
 
-**Fremdsprache**
+## Fremdsprache
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -70,7 +70,7 @@ Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintr
 
     Unter `V. Sprachen / Languages` wird nun im Zeugnis textlich unterschieden, ob die Landessprache (z.B. Spanisch) als Erst- oder als Fremdsprache des Schülers unterrichtet wurde. Letzteres ist bei Quereinsteigern z.B. der Fall. *„Deutsch wird als Erstsprache unterrichtet. Die im Unterricht erworbenen und in Prüfungen nachgewiesenen Kompetenzen schließen solche auf dem Niveau C2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER) ein.“* ODER *„Deutsch und Spanisch werden als Erstsprachen unterrichtet. Die im Unterricht erworbenen und in Prüfungen nachgewiesenen Kompetenzen schließen solche auf dem Niveau C2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER) ein.“*
 
-**Schulleiter, Klassenleiter, Abteilungsleiter**
+## Schulleiter, Klassenleiter, Abteilungsleiter
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -87,11 +87,11 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Extras > Schlüsselverzeichnisse > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-**Ausdruck**
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` über `Start > Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**Besondere Lernleistung**
+## Besondere Lernleistung
 
 `Abitur > Prüfung > Lernleistung`
 
@@ -100,13 +100,13 @@ Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld 
 
 [![Erfassen der besonderen Lernleistung][20]][20]
 
-**Zeugnisdatum**
+## Zeugnisdatum
 
 `Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**Prüfungsfächer**
+## Prüfungsfächer
 
 `Abitur > Prüfung > Prüfungsfächer`
 
@@ -123,13 +123,13 @@ Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass i
 | 4PF    | 4PF       | 4. Prüfungsfach |
 | 5PF    | 5PF       | 5. Prüfungsfach |
 
-**Ort des Druckdatums**
+## Ort des Druckdatums
 
 `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**Kurssprachen**
+## Kurssprachen
 
 `Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
 
@@ -160,13 +160,13 @@ Spanisch | leer | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
-**englische Übersetzung des Faches**
+## englische Übersetzung des Faches
 
 `Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung2`
 
 Die Übersetzung des Faches tragen Sie im `Schlüsselverzeichnis > Fächer` im Feld „Bezeichnung2“ ein.
 
-**vierstündige Fächer**
+## vierstündige Fächer
 
 `Extras > Schlüsselverzeichnisse > Fächer > Merkmale`
 
@@ -181,7 +181,7 @@ Landessprache | LS
 
 [![Zeugnismerkmal `Schlüsselverzeichnis > Fächer`][14]][14]
 
-**Unterrichtssprache zum Fach**
+## Unterrichtssprache zum Fach
 
 `Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung`
 
@@ -191,7 +191,7 @@ Beispiel:
 
 `Biologie/Englisch`
 
-**Sprachreferenzen**
+## Sprachreferenzen
 
 `Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
@@ -210,7 +210,7 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
-**Zeugnisbemerkungen**
+## Zeugnisbemerkungen
 
 `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 

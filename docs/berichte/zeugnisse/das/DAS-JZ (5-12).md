@@ -66,7 +66,7 @@ Kürzel|Schlüssel|Bezeichnung
 -|-|-
 ASV| ASV |Arbeits- und Sozialverhalten
 
-**Arbeitsgemeinschaften**
+## Arbeitsgemeinschaft
 
 `Extras > Schüsselverzeichnisse > Fächer`
 
@@ -161,7 +161,7 @@ Für die Ausgabe der Fächer (außer den Arbeits- und Sozialverhalten)  kann im 
 
 Beim Anlegung Ihrer Noten im Schlüsselverzeichnis "Noten" weisen Sie Ihrer Note den entsprechenden Notenwert "Punktwert" oder "Notenwert" zu, da die Unterscheidung für Berechnungen benötigt wird.
 
-**Arbeitsgemeinschaften**
+## Arbeitsgemeinschaft
 
 Arbeitsgemeinschaften werden in Satzform ausgegeben. Verwenden Sie mehr als 3 Arbeitsgemeinschaften, verwenden Sie bitte den Bericht DAS-JZ (5-12 - Version 2).rpt.
 

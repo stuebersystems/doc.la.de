@@ -30,12 +30,12 @@
 
 *Abgangszeugnis mit Fachhochschulreife-PO /Abgangszeugnis ohne Fachhochschulreife-PO*
 
-**Ausdruck**
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**Aufgabenbereich der Fächer**
+## Aufgabenbereich der Fächer
 
 `Extras > Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
@@ -49,27 +49,27 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Weitere Fächer
 Religion | Weitere Fächer
 
-**Fremdsprache** 
+## Fremdsprache 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**Vom/Bis Datum des Schulbesuchs**
+## Vom/Bis Datum des Schulbesuchs
 
 `Schüler > Laufbahn > Allgemein > Schulformeintritt`
 
-Tragen Sie das entsprechende **Vom**-Datum im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie das entsprechende `Vom`-Datum im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 ![`Schüler > Laufbahn > Allgemein`](/assets/images/DAS/das04.png)
 
 `Schüler > Laufbahn > Abschluss`
 
-Tragen Sie das entsprechende **Bis**-Datum im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Tragen Sie das entsprechende `Bis`-Datum im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
 ![`Schüler > Laufbahn > Abschluss`](/assets/images/DAS/das05.png)
 
-**Zeugnisbemerkungen**
+## Zeugnisbemerkungen
 
 `Abitur > Zeugnis > Formulare/Zeugnisbemerkungen`
 
@@ -108,25 +108,25 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**Zeugnisdatum**
+## Zeugnisdatum
 
 `Abitur > Prüfung > Zeugnisdatum`
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-**Bewertung in der Prüfung**
+## Bewertung in der Prüfung
 
 `Abitur > Prüfung`
 
 Zur Ausgabe der Abitur-Prüfungsnoten müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein.
 
-**Ort des Druckdatums**
+## Ort des Druckdatums
 
 `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**Verzeichnis Fächer**
+## Verzeichnis Fächer
 
 `Extras > Schlüsselverzeichnis > Fächer`
 
@@ -139,7 +139,7 @@ Mathematik | M
 Englisch | 	E
 Landessprache | LS
 
-**abgewählte bzw. abgeschlossene Fächer vor Beginn der Qualifikationsphase**
+## abgewählte bzw. abgeschlossene Fächer vor Beginn der Qualifikationsphase
 
 `Abitur > Qualifikation`
 
@@ -154,11 +154,11 @@ Biologie wurde von Klassenstufe 5 bis Klassenstufe 10 belegt, dann tragen Sie im
 
 `Abitur > Qualifikation > E1/E2`
 
-Die **Abschlussnoten der abgewählten bzw. abgeschlossenen Fächer** (vor Beginn der Qualifikationsphase abgeschlossen) tragen Sie im Menü `Abitur > Qualifikation`  in den Feldern "E1" oder "E2" ein. Ausgeben wird die letzte eingetragene Note des Faches.
+Die `Abschlussnoten der abgewählten bzw. abgeschlossenen Fächer` (vor Beginn der Qualifikationsphase abgeschlossen) tragen Sie im Menü `Abitur > Qualifikation`  in den Feldern "E1" oder "E2" ein. Ausgeben wird die letzte eingetragene Note des Faches.
 
 ![`Abitur > Qualifikation`](/assets/images/DAS/das02.png)
 
-**Berechnung der Gesamtnote der Fachhochschulreife**
+## Berechnung der Gesamtnote der Fachhochschulreife
 
 `Abitur > Qualifikation > Status`
 
@@ -170,7 +170,7 @@ Führen Sie das entsprechende Berechnungsskript aus.
 
 ![`Abitur > Qualifikation`](/assets/images/DAS/das03.png)
 
-**besondere Lernleistungen**
+## besondere Lernleistungen
 
 `Abitur > Prüfung > Lernleistung`
 

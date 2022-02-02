@@ -104,7 +104,7 @@ Der Versetzungsvermerk wird nur im 2. Halbjahr ausgegeben.
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Arbeitsgemeinschaften**
+## Arbeitsgemeinschaft
 
 [![Ausgabe der Arbeitsgemeinschaften][6]][6]
 

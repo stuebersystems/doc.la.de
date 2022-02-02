@@ -28,8 +28,7 @@
 [31]:/assets/images/DAS/das31.png
 [32]:/assets/images/DAS/das32.png
 
-
-**Arbeitsgemeinschaften**
+## Arbeitsgemeinschaft
 
 Bitte legen Sie Ihre Arbeitsgemeinschaften unter `Extras > Schüsselverzeichnisse > Fächer` als Fachzeilen an. Verteilen Sie die Arbeitsgemeinschaften per Sammelzuweisung der Fachtafeln oder weisen sie direkt dem Schüler unter `Schüler > Zeugnis > Fächer` die entsprechenden Fächer der AGs zu. Weisen Sie die Fachzeilen bitte den Fachstatus "AG". 
  
@@ -53,19 +52,19 @@ Damit Ihnen diese Beurteilungen unter `Schüler > Zeugnis > Leistungen` im Feld 
 
 [![Notenverzeichnis][21]][21]
 
-**Zeiträume**
+## Zeiträume
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Fachstatus**
+## Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
-**Fachpostitionen**
+## Fachpostitionen
 
 `Schüler > Zeugnis > Fächer > Position`
 
@@ -73,13 +72,13 @@ Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeu
 
 Um Fächer wie z.B. Sprachgebrauch, Lesen oder Rechtschreiben einzurücken, positionieren Sie diese im Menü `Schüler > Zeugnis > Fächer`  mit 1, 3 oder 5.
 
-**Schulform**
+## Schulform
 
 `Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
-**Schulleiter, Klassenleiter**
+## Schulleiter, Klassenleiter
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -89,18 +88,18 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**Zeugnisdatum**
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Ausdruck**
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 Der Bericht muss aus über `Drucken > Bericht Drucken` (Strg + P) gedruckt werden.
 
-**Zeugnisbemerkungen**
+## Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
@@ -127,19 +126,19 @@ Platzhalter | Ausgabe im Bericht
 `<<Anrede4>>` |  ihm/ihr (je nach Geschlecht des Schülers)
 `<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
 
-**Durchschnitt**
+## Durchschnitt
 
 `Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
 Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
-**Fächer**
+## Fächer
 
 `Schüler > Zeugnis > Fächer > Merkmal (d)`
  
 Die Fächer für den Durchschnitt markieren Sie bei jedem Schüler im Menü `Schüler > Zeugnis > Fächer` im Feld „Merkmal“ mit einem „d“. Die gekennzeichneten Fächer werden automatisch ausgegeben und der Durchschnitt berechnet. Alternativ können Sie auch im Menü `Schüler > Zeugnis > Leistungen` manuell den Durchschnitt im Feld „Durchschnitt1“ eintragen. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden"
 
-**Herkunftsschule**
+## Herkunftsschule
 
 `Schüler > Daten 2 > Bereits besuchte Schulen > Herkunftsschule`
 

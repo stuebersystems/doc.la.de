@@ -76,7 +76,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Arbeitsgemeinschaften**
+## Arbeitsgemeinschaft
 
 [![Ausgabe der Arbeitsgemeinschaften][6]][6]
 
