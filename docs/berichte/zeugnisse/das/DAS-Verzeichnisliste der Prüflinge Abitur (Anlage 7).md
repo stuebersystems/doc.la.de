@@ -1,6 +1,7 @@
 # DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7).rpt
 
 [1]:/assets/images/das/das35.png "DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7).rpt"
+[2]:/assets/images/das/das36.png "Prüfungsfächer und Unterrichtssprache"
 
 ## Ausdruck
 
@@ -34,9 +35,23 @@ Erfassen Sie die Staatsangehörigkeit unter `Schüler > Daten1 > Staatsangehöri
 
 Erfassen Sie die Erstsprache unter `Schüler > Daten1 > Muttersprache`, dem Feld liegt das Verzeichnis `Muttersprachen` unter `Extras > Schlüsselverzeichnisse` zugrunde.
 
-## Fach
+## Fach und Fachstatus
 
-Hier werden die Prüfungsergebnisse des jeweiligen Prüfungsfachs (`Abitur > Prüfung`) ausgegeben. Bitte beachten Sie, dass Sie das Berechnungsskript ausgelöst haben müssen, damit die Prüfungsfächer von der Unterkarte "Qualifikation" auf die Unterkarte "Prüfung" kopiert wird.
+Im Feld `Fach` werden die Prüfungsergebnisse des jeweiligen Prüfungsfachs (`Abitur > Prüfung`) ausgegeben. Bitte beachten Sie, dass Sie das Berechnungsskript ausgelöst haben müssen, damit die Prüfungsfächer von der Unterkarte "Qualifikation" auf die Unterkarte "Prüfung" kopiert wird.
+
+Das Fach wird durch den Eintrag des `Fachstatus` markiert.
+
+Der Fachstatus muss unter `Abitur > Qualifikation > Fachstatus` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Fachstatus` übernommen werden.  
+Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
+
+| Kürzel | Schlüssel | Bedeutung       |
+|--------|-----------|-----------------|
+| 1PF    | 1PF       | 1. Prüfungsfach |
+| 2PF    | 2PF       | 2. Prüfungsfach |
+| 3PF    | 3PF       | 3. Prüfungsfach |
+| 4PF    | 4PF       | 4. Prüfungsfach |
+| 5PF    | 5PF       | 5. Prüfungsfach |
+
 
 ## Unterrichtssprache
 
