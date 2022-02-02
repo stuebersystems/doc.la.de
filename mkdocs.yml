@@ -229,6 +229,7 @@ nav:
     - Zeugnisse: 
       - Allgemeine: berichte/zeugnisse/allgemein_zeugnisse.md
       - Ausland: 
+        - Übersicht: berichte/zeugnisse/das/01.uebersicht.md
         - DAS (Zwischenzeugnis) Variante 2: berichte/zeugnisse/das/DAS (Zwischenzeugnis) Variante 2.md
         - DAS-GS (Klasse 1)(Kompetenzen): berichte/zeugnisse/das/DAS-GS (Klasse 1)(Kompetenzen).md
         - DAS-GS (Klasse 1-2): berichte/zeugnisse/das/DAS-GS (Klasse 1-2).md
@@ -240,10 +241,10 @@ nav:
         - DAS-GY-ABI (DIA)(2020): berichte/zeugnisse/das/DAS-GY-ABI (DIA)(2020).md
         - DAS-GY-ABI (DIA)(2021): berichte/zeugnisse/das/DAS-GY-ABI (DIA)(2021).md
         - DAS-GY-ABI-Reifepruefung 2017: berichte/zeugnisse/das/DAS-GY-ABI-Reifepruefung 2017.md
-        - berichtsDAS-GY-AZ mit FHR (Anlage 9b)name: berichte/zeugnisse/das/DAS-GY-AZ mit FHR (Anlage 9b).md
+        - berichtsDAS-GY-AZ mit FHR (Anlage 9b): berichte/zeugnisse/das/DAS-GY-AZ mit FHR (Anlage 9b).md
         - DAS-GY-AZ ohne FHR (Anlage 9a): berichte/zeugnisse/das/DAS-GY-AZ ohne FHR (Anlage 9a).md
         - DAS-HJZ-JZ (3-12): berichte/zeugnisse/das/DAS-HJZ-JZ (3-12).md
-        - bericDAS-HS-MSA-AS (Anlage 8 und 9)(§23)htsname: berichte/zeugnisse/das/DAS-HS-MSA-AS (Anlage 8 und 9)(§23).md
+        - DAS-HS-MSA-AS (Anlage 8 und 9)(§23): berichte/zeugnisse/das/DAS-HS-MSA-AS (Anlage 8 und 9)(§23).md
         - DAS-JZ (5-12): berichte/zeugnisse/das/DAS-JZ (5-12).md
         - DAS-Prüfungsbogen (Anlage 7 zu DIA-PO)(2018): berichte/zeugnisse/das/DAS-Prüfungsbogen (Anlage 7 zu DIA-PO)(2018).md
         - DAS-Versetzungszeugnis-GY-MSA (ZKA)(Anlage 11)(§23): berichte/zeugnisse/das/DAS-Versetzungszeugnis-GY-MSA (ZKA)(Anlage 11)(§23).md
