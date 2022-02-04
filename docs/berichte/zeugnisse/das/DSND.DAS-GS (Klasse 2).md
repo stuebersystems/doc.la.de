@@ -1,4 +1,5 @@
-# DSND.DAS-GS (Klasse 2).rpt
+# DSND.DAS-GS (Klasse 3).rpt / DAS-GS (Klasse 3)(Kompetenzen).rpt / DAS-GS (Klasse 3)(Kompetenzen).rpt
+
 
 [6]:/assets/images/DAS/das06.png
 [7]:/assets/images/DAS/das07.png
@@ -28,49 +29,44 @@
 [31]:/assets/images/DAS/das31.png
 [32]:/assets/images/DAS/das32.png
 
-
-*siehe Anleitung für DSND.DAS-GS (Klasse 2).rpt*
-
-## DSND.DAS-GS (Klasse 3).rpt / DAS-GS (Klasse 3)(Kompetenzen).rpt / DAS-GS (Klasse 3)(Kompetenzen).rpt
-
 *Beispielschüler finden Sie in der MAGELLAN8_BEISPIEL.FDB* (*Schiller, Jacob)
 
 [![Zeugnisvorschau1][29]][29]
 [![Zeugnisvorschau2][30]][30]
 
-**ENBREA Lernleistungen**
+## ENBREA Lernleistungen## 
 
 Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie [hier](https://doc.magellan.stueber.de/schulverwaltung/howto/enbrea.leistungen/).
 
-**ENBREA Funktionen aktivieren**
+## ENBREA Funktionen aktivieren## 
 
 `Datenbank > Optionen > ENBREA`
 
 Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
 
-**Ausdruck**
+## Ausdruck## 
 
 Das Zeugnis muss aus dem Menü `Schüler` gedruckt werden, es wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**Schulhalbjahre**
+## Schulhalbjahre## 
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Klassenjahrgang**
+## Klassenjahrgang## 
 
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**Zeugnisdatum**
+## Zeugnisdatum## 
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Versetzungsvermerk**
+## Versetzungsvermerk## 
 
 `Schueler > Laufbahn > Allgemein > Versetzt`
 
@@ -93,14 +89,14 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-**Schule**
+## Schule## 
 
 `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**Namenszusätze Schule**
+## Namenszusätze Schule## 
 
 `Mandanten > Daten > Name 2`
 
@@ -110,13 +106,13 @@ Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Fel
 
 [![Eintragungen in MAGELLAN][13]][13]
 
-**Ort des Druckdatums**
+## Ort des Druckdatums## 
 
 `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**Schulleiter, Klassenleiter**
+## Schulleiter, Klassenleiter## 
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -130,7 +126,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**Zeugnisbemerkungen**
+## Zeugnisbemerkungen## 
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
@@ -166,13 +162,13 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**Kennnummer**
+## Kennnummer## 
 
 `Schüler > Auswahl > SchülerID = Kenn.-Nr`
 
 Als Kenn-Nr. liest der Bericht die SchülerID des Schüler aus.
 
-**Fachpositionen**
+## Fachpositionen## 
 
 `Schüler > Zeugnis > ENBREA Leistungen> Position`
 

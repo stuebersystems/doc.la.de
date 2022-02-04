@@ -32,13 +32,13 @@ Anlage 7 zu DIA-PO [§ 15 (4), (5); 31 (1); 36 (4)]
 Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland (DIA-PO) zugrunde.
 (Beschluss der Kultusministerkonferenz vom 11.06.2015 i.d.F. vom 03.05.2018)
 
-**Schulhalbjahre**
+## Schulhalbjahre
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Aufgabenbereich**
+## Aufgabenbereich
 
 `Extras > Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
@@ -52,25 +52,25 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Weitere Fächer
 Religion | Weitere Fächer
 
-**Fremdsprache**
+## Fremdsprache
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**Ausdruck**
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**Prüfungsfächer**
+## Prüfungsfächer
 
 `Abitur > Prüfung > Prüfungsfächer`
 
 Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein.
 
-**Staatsangehörigkeit**
+## Staatsangehörigkeit
 
 `Schüler > Daten 1 > Staatsangeh. 1`
 
@@ -80,7 +80,7 @@ Tragen Sie die Staatsangehörigkeit des Schülers im Menü `Schüler > Daten 1` 
 
 Die 2. Staatsangehörigkeit des Schülers tragen Sie unter `Schüler > Daten 2 > Staatsangehörigkeit`  im Feld "Staatsangeh.2" ein.
 
-**Kursprachen**
+## Kursprachen
 
 `Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
 
@@ -101,13 +101,13 @@ Spanisch | leer | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
-**Fremdsprachen**
+## Fremdsprachen
 
 `Schüler > Daten 3 > Fremdsprachenfolge`
 
 Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintrages in MAGELLAN unter `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "von" und aus dem Menü `Klassen > Zeiträume` Feld „Jahrgang“.
 
-**vierstündige Fächer**
+## vierstündige Fächer
 
 `Extras > Schlüsselverzeichnis > Fächer`
 

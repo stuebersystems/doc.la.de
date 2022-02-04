@@ -1,4 +1,5 @@
 # DSND.DAS-GS (Klasse 1).rpt / DAS-GS (Klasse 1)(Kompetenzen).rpt / DAS-GS (Klasse 2)(Kompetenzen).rpt
+
 [6]:/assets/images/DAS/das06.png
 [7]:/assets/images/DAS/das07.png
 [8]:/assets/images/DAS/das08.png
@@ -33,21 +34,21 @@
 [![Zeugnisvorschau1][25]][25]
 [![Zeugnisvorschau2][26]][26]
 
-**ENBREA Lernleistungen**
+## ENBREA Lernleistungen
 
 Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie [hier](https://doc.magellan.stueber.de/schulverwaltung/howto/enbrea.leistungen/).
 
-**ENBREA Funktionen aktivieren**
+## ENBREA Funktionen aktivieren
 
 `Datenbank > Optionen > ENBREA`
 
 Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
 
-**Ausdruck**
+## Ausdruck
 
 Das Zeugnis muss aus dem Menü `Schüler` gedruckt werden, es wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**Zeugnisart Abgangszeugnis oder Zeugnis**
+## Zeugnisart Abgangszeugnis oder Zeugnis
 
 [![Zeugnisart][27]][27]
 
@@ -55,14 +56,14 @@ Das Zeugnis muss aus dem Menü `Schüler` gedruckt werden, es wird in DIN A3 For
 
 Die Ausgabe im Zeugniskopf "Abgangszeugnis" oder "Zeugnis" wird durch den Eintrag im Feld „Abschluss1“ unter `Schüler > Laufbahn > Abschluss` im Feld "Abschluss1" gesteuert. Bleibt das Feld leer, handelt es sich um Zeugnis. Haben die SuS im Feld „Abschluss1“ den Eintrag "Abgang" eingetragen, handelt es sich um ein Abgangszeugnis. Grundlage bildet das `Schlüsselverzeichnis > Abschlüsse Intern` und die "Bezeichnung".
 
-**Schule**
+## Schule
 
 `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**Namenszusätze Schule**
+## Namenszusätze Schule
 
 `Mandanten > Daten > Name 2`
 
@@ -72,25 +73,25 @@ Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Fel
 
 [![Eintragungen in MAGELLAN][13]][13]
 
-**Schulhalbjahre**
+## Schulhalbjahre
 
 `Extras > Schlüsselverzeichnisse > Zeiträume`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Klassenjahrgang**
+## Klassenjahrgang
 
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**Zeugniskonferenzdatum**
+## Zeugniskonferenzdatum
 
 `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**Versetzungsvermerk**
+## Versetzungsvermerk
 
 `Schueler > Laufbahn > Allgemein > Versetzt`
 
@@ -98,7 +99,7 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 Der Versetzungsvermerk wird nur im 2. Halbjahr ausgegeben.
 
-**Fehlzeiten**
+## Fehlzeiten
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
@@ -123,13 +124,13 @@ AG | AG | Arbeitsgemeinschaft
 
 [![Eintragungen in MAGELLAN][7]][7]
 
-**Ort des Druckdatums**
+## Ort des Druckdatums
 
 `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-**Schulleiter, Klassenleiter**
+## Schulleiter, Klassenleiter
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -143,13 +144,13 @@ Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Dat
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**Zeugnisdatum**
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Zeugnisbemerkungen**
+## Zeugnisbemerkungen
 
 [![Zeugnisbemerkungen][8]][8]
 
@@ -189,7 +190,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 [![Eintragungen in MAGELLAN][9]][9]
 
-**Fachpositionen**
+## Fachpositionen
 
 `Schüler > Zeugnis > ENBREA Leistungen > Position`
 

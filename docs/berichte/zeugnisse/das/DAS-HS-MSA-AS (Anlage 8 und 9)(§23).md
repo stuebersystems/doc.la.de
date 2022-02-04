@@ -34,25 +34,25 @@ Zeugnis-Hauptschulabschluss (Anlage 8)(§23) und Zeugnis Realschule Mittlerer Sc
 
     Beachten Sie, dass dieser Bericht ein Abschlusszeugnis der Jahrgangsstufe 9 und 10 ist. Dies hängt vom Eintrag des Jahrganges im Menü `Klassen > Zeiträume > Zeitraum` im Feld "Jahrgang" ab. Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume > Zeitraum` der Jahrgang im Feld „Jahrgang“ angegeben sein.
 
-**Ausgabe Schuljahr**
+## Ausgabe Schuljahr
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1". Der Bericht gibt zusätzlich den Text "Schuljahr" vor dem Eintrag "Ausdruck 1" aus.
 
-**Jahrgang Klasse**
+## Jahrgang Klasse
 
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
-**Zeugniskonferenzdatum**
+## Zeugniskonferenzdatum
 
 `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**Prüfungsfächer**
+## Prüfungsfächer
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -67,7 +67,7 @@ Kürzel |  Schlüssel | Bezeichnung
 3 PF  | 3 PF  | 3. Prüfungsfach
 4 PF  | 4 PF  | 4. Prüfungsfach
 
-**Fremdsprachen, Sprachreferenz**
+## Fremdsprachen, Sprachreferenz
 
 `Schüler > Daten 3 > Von/Bis`
 
@@ -94,7 +94,7 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
-**Zeugnisbemerkungen für MSA**
+## Zeugnisbemerkungen für MSA
 
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -113,7 +113,7 @@ MSA | Zeugnisbemerkung für das MSA Zeugnis
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
-**Platzhalter für Zeugnisbemerkungen**
+## Platzhalter für Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Bemerkungen/Formulare` / `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` / `Berufsschule > Zeugnisbemerkungen`
 
@@ -142,7 +142,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**Mandanten**
+## Mandanten
 
 `Mandanten > Daten > Name 1`
 
@@ -152,7 +152,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**SchulleiterIn, Beauftragter**
+## SchulleiterIn, Beauftragter 
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -162,13 +162,13 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Den Beauftragten der Ständigen Konferenz der Kultusminister der Länder in der Bundesrepublik Deutschland tragen Sie im Menü `Personen > Daten` ein. Wichtig ist, dass dort im Feld „Kategorie“ „Konsulat“ zugewiesen wird. Grundlage hierfür bildet das `Schlüsselverzeichnis > Kategorien (Personen)` und abgefragt wird dort das Feld „Kürzel“, Schlüssel und Bezeichnung können frei gewählt werden.
 
-**Zeugnisdatum**
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Ausdruck**
+## Ausdruck
 
 `Schüler > Drucken > Zeugnisse drucken...`
 
@@ -176,7 +176,7 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 Der Bericht muss aus dem Menü `Start > Drucken > Zeugnisse Drucken...` (Strg + Z) gedruckt werden.
 
-**Durchschnittsnote**
+## Durchschnittsnote
 
 `Schüler > Zeugnis > Leistungen > Durchschnitt 1`
 
@@ -185,7 +185,7 @@ Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im F
 Alternativ kann diese Durchschnittsnote auch berechnet werden. Lesen Sie dazu bitte die Anleitung unter:
 [Berechnungsgrundlage Durchschnittsnote](https://doc.la.stueber.de/01.de/de-msa-2019dws/)
 
-**schriftl./mdl. Prüfungsnoten**
+## schriftl./mdl. Prüfungsnoten
 
 `Schüler > Zeugnis > Leistungen`
 
@@ -196,7 +196,7 @@ Spalte | Note
 Spalte "Schriftl. Note 1"| schriftliche Note
 Spalte "Mündl. Note" | mündliche Note
 
-**Berechtigung zum Übergang in die ...**
+## Berechtigung zum Übergang in die ...
 
 `Schüler > Laufbahn > Abschluss`
 

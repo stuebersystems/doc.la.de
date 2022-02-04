@@ -3,25 +3,25 @@
 Zeugnis Gymnasium - Mittlerer Schulabschluss (Prüfung)
 Dem Zeugnis liegt die „Ordnung für den Abschluss der Sekundarstufe I an Deutschen Schulen im Ausland“ (Beschluss der Kultusministerkonferenz vom 16.03.2017) zugrunde.
 
-**Schulhalbjahre**
+## Schulhalbjahre
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Klassenjahrgang**
+## Klassenjahrgang
 
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**Zeugniskonferenzdatum**
+## Zeugniskonferenzdatum
 
 `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**Prüfungsfächer - Fächer der Abschlussprüfung**
+## Prüfungsfächer - Fächer der Abschlussprüfung
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -39,7 +39,7 @@ Kürzel |  Schlüssel | Bezeichnung
 
 [![Prüfungsfächer][19]][19]
 
-**Fremdsprachen**
+## Fremdsprachen
 
 `Schüler > Daten 3 > Von/Bis`
 
@@ -49,7 +49,7 @@ Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis"
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**Sprachreferenzen**
+## Sprachreferenzen
 
 `Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
@@ -70,7 +70,7 @@ Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `
 
 [![Sprachreferenzen][18]][18]
 
-**Zeugnisbemerkungen**
+## Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -87,7 +87,7 @@ MSA | Zeugnisbemerkung für das MSA Zeugnis
 
 [![Zeugnisbemerkung mit Merkmal "MSA"][17]][17]
 
-**Platzhalter in Zeugnisbemerkungen** 
+## Platzhalter in Zeugnisbemerkungen
 
 `Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
@@ -122,7 +122,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**Schulname**
+## Schulname
 
 `Mandanten > Daten > Name 1`
 
@@ -133,19 +133,19 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**Schulleiter**
+## Schulleiter
 
 `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**Zeugnisdatum**
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Ausdruck**
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
@@ -153,7 +153,7 @@ Der Bericht muss aus dem Menü `Start > Drucken > Zeugnisse Drucken...` (Strg + 
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-**Gesamtbewertung**
+## Gesamtbewertung
 
 Innerhalb eines Zeitraums kann mit Hilfe des Berechnungsskriptes DE-MSA-2019.dws der Notendurchschnitt gemäß Ordnung für den Abschluss der Sekundarstufe I an Deutschen Schulen im Ausland vom 16.03.2017 ermittelt werden. Lesen Sie dazu bitte folgende Anleitung zum Skript [DE-MSA-2019.dws](https://doc.la.stueber.de/01.de/de-msa-2019dws/)
 
@@ -165,7 +165,7 @@ Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im F
 
 [![`Schüler > Zeugnis > Leistungen`][15]][15]
 
-**schriftl./mdl. Prüfungsnoten**
+## schriftl./mdl. Prüfungsnoten
 
 `Schüler > Zeugnis > Leistungen`
 

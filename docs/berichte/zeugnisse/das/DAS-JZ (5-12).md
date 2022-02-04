@@ -29,36 +29,36 @@
 [32]:/assets/images/DAS/das32.png
 
 
-**Schulhalbjahre**
+## Schulhalbjahre
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Zeitraum**
+## Zeitraum
 
 `Klassen > Zeitraum > Zeiträume`
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers auf der Registerkarte "Zeiträume"
 unter "Zeitraum" der Jahrgang im Feld "Jahrgang" angegeben sein.
 
-**Versetzungsvermerk**
+## Versetzungsvermerk
 
 `Schüler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü Schüler > Laufbahn > Allgemein im Feld "Versetzt" eingetragen sein.
 
-**Fehlzeiten**
+## Fehlzeiten
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Fächer**
+## Fächer
 
 `Schüler > Zeugnis > Fächer`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der Fachtafeln unter `Extras > Verzeichnisse > Fachtafeln` den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis **Fachstati**. Wenn Sie dann den Schülern
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der Fachtafeln unter `Extras > Verzeichnisse > Fachtafeln` den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis ## Fachstati## . Wenn Sie dann den Schülern
 diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
@@ -77,7 +77,7 @@ Kürzel |	Schlüssel |	Zeugnisbereich
 -|-|-
 AG| 	AG |	Arbeitsgemeinschaft
 
-**Zeugnisbemerkungen**
+## Zeugnisbemerkungen
 
 `Extras > Verzeichnisse > Zeugnisbemerkungen`
 
@@ -88,34 +88,34 @@ Merkmal | Bedeutung
 -|-
 ASV   | Arbeits- und Sozialverhalten
 
-**Fächer**
+## Fächer
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer`" bei jedem Schüler pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe
 der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der Fachtafeln unter `Extras > Verzeichnisse > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen
 
-**Schulleiter, Klassenleiter, Abteilungsleiter**
+## Schulleiter, Klassenleiter, Abteilungsleiter
 
 `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter Mandanten > Daten1 im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**Klassenlehrer**
+## Klassenlehrer
 
 `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**Zeugnisdatum**
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte Details.
 
-**Ausdruck** 
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden. Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z) gedruckt werden.
 
-**Zeugnisbemerkungen**
+## Zeugnisbemerkungen
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Zeugnis`. Wenn Sie die Schaltfläche `Hinzufügen` anklicken, können Sie eine Zeugnisbemerkung definieren,
 die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige
@@ -140,7 +140,7 @@ Platzhalter | Ausgabe im Bericht
 `<<Anrede4>>` |  ihm/ihr (je nach Geschlecht des Schülers)
 `<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
 
-**Jahrgang**
+## Jahrgang
 
 Das Zeugnis ist von der 5. bis zur 12. Klasse konzipiert. Die richtige Ausgabe errechnet sich aus dem Jahrgang. Bis einschließlich der 10. Klasse erfolgt die Ausgabe nach Klassenstufe, ab der 11. gemäß Qualifikationsphase. Bis zur 10. Klasse müssen Sie auch die Schulart eintragen. Sie können dem Schüler seine „Schulart“ individuell oder Klassenweise zuweisen. Vorrang bei der Ausgabe hat die „Schulart“ nach Schüler, falls Sie die „Schulart“ Klassenweise ausgeben möchten lassen Sie das Feld „Schulart“ im Menu Schüler|Laufbahn|Allgemein“ (siehe 1)) beim Schüler leer.
 
@@ -153,11 +153,11 @@ Schulart-Bezeichnung =  "Grundschule" >>> Klasse der Grundschule besucht
 Schulart-Bezeichnung =  " Realschule " >>> Klasse der Realschule besucht
 Schulart-Bezeichnung =  Gymnasium " >>> Klasse des Gymnasium besucht
 
-**Fachstatus**
+## Fachstatus
 
 Für die Ausgabe der Fächer (außer den Arbeits- und Sozialverhalten)  kann im Feld „Fachstatus“ jedes beliebige Kürzel gewählt werden. Eine Eingabe ist allerdings nicht zwingend notwendig (außer bei den Arbeits- und Sozialverhalten).
 
-**Noten** 
+## Noten
 
 Beim Anlegung Ihrer Noten im Schlüsselverzeichnis "Noten" weisen Sie Ihrer Note den entsprechenden Notenwert "Punktwert" oder "Notenwert" zu, da die Unterscheidung für Berechnungen benötigt wird.
 

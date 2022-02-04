@@ -35,30 +35,30 @@ Versetzungszeugnis Gymnasium - Mittlerer Schulabschluss (ZKA)
 
     Es gibt auch ein Zeugnis für die Pandemie. Folgende Zeugnisbemerkung erscheint hier zusätzlich: "Die Versetzung in das Schuljahr 2021 erfolgt auf der Grundlage der vom Bund-Länder-Ausschuss für schulische Arbeit im Ausland in der Kultusministerkonferenz genehmigten Versetzungsordnung sowie der Sonderbestimmungen der Kultusministerkonferenz in der Corona-Pandemie."
 
-**Ausdruck**
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**Beurteilungsart**
+## Beurteilungsart
 
 `Klassen > Daten > Beurteilungsart`
 
 Im Menü `Klassen > Daten > Beurteilungsart` muss bei der Klasse des Schülers "Benotung durch Noten" angegeben sein. Hier steht dann auch ein
 Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
 
-**Schulhalbjahre**
+## Schulhalbjahre
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Klassenstufe**
+## Klassenstufe
 
 `Klassen > Zeiträume > Zeitraum > Klassenstufe`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers die Klassenstufe auf der Registerkarte `Zeiträume` im Feld "Klassenstufe" eingetragen sein.
 
-**Unterrichtsarten**
+## Unterrichtsarten
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -70,7 +70,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-**Fremdsprachen**
+## Fremdsprachen
 
 `Schüler > Daten 3 > Von/Bis`
 
@@ -80,7 +80,7 @@ Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis"
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-**Sprachreferenzen**
+## Sprachreferenzen
 
 `Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
@@ -99,21 +99,21 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Der Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
-**Fachpositionen**
+## Fachpositionen
 
 `Schüler > Zeugnis > Fächer > Position`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
 Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
 
-**Mandanten**
+## Mandanten
 
 `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**Ort des Druckdatums**
+## Ort des Druckdatums
 
 `Mandanten > Daten 1 > Ort`
 
@@ -123,7 +123,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
-**Schulleiter, Klassenleiter**
+## Schulleiter, Klassenleiter
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -133,13 +133,13 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**Zeugnisdatum**
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Zeugnisbemerkungen**
+## Zeugnisbemerkungen
 
 `Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
@@ -174,7 +174,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**Abschluss**
+## Abschluss
 
 `Schüler > Laufbahn > Abschluss`
 

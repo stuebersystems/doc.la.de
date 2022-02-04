@@ -30,7 +30,7 @@
 
 Spezial - Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis) als auch Abgangszeugnis ausgelegt.
 
-**Differenzierung Halbjahres- oder Jahreszeugnis bzw. Abgangszeugnis**
+## Differenzierung Halbjahres- oder Jahreszeugnis bzw. Abgangszeugnis
 
 `Schüler > Laufbahn > Abschluss (Abschluss 1)`
 
@@ -43,31 +43,31 @@ Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Ei
 
 [![Ausgabe auf dem Zeugnis, wenn "Abgang" eingetragen][11]][11]
 
-**Schulhalbjahre**
+## Schulhalbjahre
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Klassenjahrgang**
+## Klassenjahrgang
 
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-**Zeugniskonferenzdatum**
+## Zeugniskonferenzdatum
 
 `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter `Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**Versetzungsvermerk**
+## Versetzungsvermerk
 
 `Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Fehlzeiten**
+## Fehlzeiten
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
@@ -90,21 +90,21 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-**Ausdruck**
+## Ausdruck
 
 `Ausdruck > DIN A 3 Format, doppelseitig`
 
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**Schule**
+## Schule
 
 `Mandanten > Daten > Name 1`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-**Namenszusätze Schule**
+## Namenszusätze Schule
 
 `Mandanten > Daten > Name 2`
 
@@ -114,14 +114,14 @@ Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Fel
 
 [![Eintragungen in MAGELLAN][13]][13]
 
-**Ort des Druckdatums**
+## Ort des Druckdatums
 
 `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
 
-**Schulleiter, Klassenleiter**
+## Schulleiter, Klassenleiter
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -135,13 +135,13 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**Zeugnisdatum**
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-**Zeugnisbemerkungen**
+## Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
@@ -177,7 +177,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-**ENBREA Lernleistungen**
+## ENBREA Lernleistungen
 
 Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie [hier](https://doc.magellan.stueber.de/schulverwaltung/howto/enbrea.leistungen/).
 
@@ -185,13 +185,13 @@ Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberic
 
 Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
 
-**Arbeits- und Sozialverhalten**
+## Arbeits- und Sozialverhalten
 
 `Klassen > Zeiträume > Leistungsprofile definieren > interner Code > ASV`
 
 Bitte weisen im Menü `Klassen > Zeiträume` über die Schalfläche "Leistungsprofile definieren" den Fächern (Name) Sozialverhalten und Arbeitsverhalten im Feld "Interner Code" den Eintrag "ASV" zu.
 
-**Fachpositionen**
+## Fachpositionen
 
 `Schüler > Zeugnis > ENBREA Leistungen> Position`
 
