@@ -6500,6 +6500,11 @@ Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, 
 
 ## D-Zeugnisse (Fachoberschule)
 
+### SAC-FO-HJI (D.01.01)(Fachpraktischer Unterricht)
+
+
+Siehe Anleitung `SAC-FOS-HJZ (D.01.01).rpt`
+
 ### SAC-FOS-HJZ (D.01.01).rpt
 
 D.01.01  Halbjahreszeugnis der Fachoberschule
