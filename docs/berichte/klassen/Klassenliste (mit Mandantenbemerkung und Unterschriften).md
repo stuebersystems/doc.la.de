@@ -27,7 +27,6 @@ Die Bemerkung unterhalb des Titels wird aus dem Feld `Mandanten > Merkmale > Bem
 
 [![Klassenliste (mit Mandantenbemerkung und Unterschriften)][2]][2]
 
-
 Der Schulname wird aus dem Feld `Mandanten > Daten > Name1` ausgegeben.
 
 [![Klassenliste (mit Mandantenbemerkung und Unterschriften)][3]][3]
