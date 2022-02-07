@@ -259,7 +259,9 @@ nav:
         - DSND.DAS-GS-GY (Klasse 3-10).md: berichte/zeugnisse/das/DSND.DAS-GS-GY (Klasse 3-10).md
         - DSWBS.DAS-GS-GY (Klasse 3-10): berichte/zeugnisse/das/DSWBS.DAS-GS-GY (Klasse 3-10).md
       - BAW: berichte/zeugnisse/baw_zeugnisse.md
-      - BER: berichte/zeugnisse/ber_zeugnisse.md
+      - BER: 
+        - Gesammelt: berichte/zeugnisse/ber/ber_zeugnisse.md
+        - 
       - BRA: berichte/zeugnisse/bra_zeugnisse.md
       - MVP: berichte/zeugnisse/mvp_zeugnisse.md
       - NIE: berichte/zeugnisse/nie_zeugnisse.md
