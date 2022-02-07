@@ -274,7 +274,9 @@ nav:
       - Allgemein: berichte/02_schueler.md
     - Menü Bewerber: berichte/03_bewerber.md
     - Menü Klassen: 
-      - Klassenberichte: berichte/04.01_klassen.md
+      - Klassenberichte: 
+        - Gesammelt: berichte/klassen/04.01_klassen.md
+        - Klassenliste (mit Mandantenbemerkung und Unterschriften): berichte/klassen/Klassenliste (mit Mandantenbemerkung und Unterschriften)
       - Kurslisten: berichte/04.02_kurslisten.md
     - Menü Lehrer: berichte/05_lehrer.md
     - Menü Mandanten: berichte/06_mandanten.md
