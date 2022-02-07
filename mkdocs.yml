@@ -276,18 +276,31 @@ nav:
     - Menü Klassen: 
       - Klassenberichte: 
         - Gesammelt: berichte/klassen/04.01_klassen.md
+        - Klassenliste (Zensurenstatistik nach Noten): berichte/klassen/.md
+        - Klassenliste (Zensurenstatistik nach Punkten): berichte/klassen/Klassenliste (Zensurenstatistik nach Punkten).md
         - Klassenliste (mit Mandantenbemerkung und Unterschriften): berichte/klassen/Klassenliste (mit Mandantenbemerkung und Unterschriften).md
-        - Klassenliste Schüler-Notenmatrix (mit Fachniveau): berichte/klassen/Klassenliste Schüler-Notenmatrix (mit Fachniveau).md
-        - Klassenliste Schüler-Notenmatrix (mit Verhalten und Mitarbeit): berichte/klassen/Klassenliste Schüler-Notenmatrix (mit Verhalten und Mitarbeit).md
+        - Klassenliste Schüler mit Betrieben, Beruf und Geburtsdatum: berichte/klassen/Klassenliste Schüler mit Betrieben, Beruf und Geburtsdatum.md
         - Klassenliste Schüler-Notenmatrix (Querformat): berichte/klassen/Klassenliste Schüler-Notenmatrix (Querformat).md
         - Klassenliste Schüler-Notenmatrix (Querformat-Durchschnitt): berichte/klassen/Klassenliste Schüler-Notenmatrix (Querformat-Durchschnitt).md
+        - Klassenliste Schüler-Notenmatrix (mit Fachniveau): berichte/klassen/Klassenliste Schüler-Notenmatrix (mit Fachniveau).md
+        - Klassenliste Schüler-Notenmatrix (mit Verhalten und Mitarbeit): berichte/klassen/Klassenliste Schüler-Notenmatrix (mit Verhalten und Mitarbeit).md
         - Klassenliste Teilzeit mit Kreis: berichte/klassen/Klassenliste Teilzeit mit Kreis.md
         - Klassenliste Vollzeit mit Kreis: berichte/klassen/Klassenliste Vollzeit mit Kreis.md
+        - Klassenliste inkl. ausgeschulter Schüler: berichte/klassen/Klassenliste inkl. ausgeschulter Schüler.md
+        - Klassenliste mit Arbeitsgemeinschaften: berichte/klassen/Klassenliste mit Arbeitsgemeinschaften.md
+        - Klassenliste mit Fächern: berichte/klassen/Klassenliste mit Fächern.md
+        - Klassenliste mit Klassensprechern: berichte/klassen/Klassenliste mit Klassensprechern.md
+        - Klassenliste mit Schülersummendaten (Klassenstufe und Klassenlehrer): berichte/klassen/Klassenliste mit Schülersummendaten (Klassenstufe und Klassenlehrer).md
+        - Klassenliste mit Schülersummendaten (Religion und Fremdsprachen): berichte/klassen/Klassenliste mit Schülersummendaten (Religion und Fremdsprachen).md
+        - Klassenliste mit Schülersummendaten (Religion): berichte/klassen/Klassenliste mit Schülersummendaten (Religion).md
+        - Klassenliste mit Schülersummendaten (Var 1): berichte/klassen/Klassenliste mit Schülersummendaten (Var 1).md
+        - Klassenliste mit Summendaten (DIN A5): berichte/klassen/Klassenliste mit Summendaten (DIN A5).md
+        - Klassenliste mit Summendaten: berichte/klassen/Klassenliste mit Summendaten.md
         - Klassenübersicht (Schülersumme nach Ausbildungsort): berichte/klassen/Klassenübersicht (Schülersumme nach Ausbildungsort).md
         - Notenübersicht Endnoten unterschiedlich: berichte/klassen/Notenübersicht Endnoten unterschiedlich.md
         - Notenübersicht Endnoten: Notenübersicht Endnoten.md
-        - Prüfungsliste: berichte/klassen/berichte/klassen/Prüfungsliste.md
         - Prüfungsliste für Fachoberschulen (9.82): berichte/klassen/Prüfungsliste für Fachoberschulen (9.82).md
+        - Prüfungsliste: berichte/klassen/berichte/klassen/Prüfungsliste.md
         - Zeugnisliste nach Klassenfachtafel (DIN A4): berichte/klassen/Zeugnisliste nach Klassenfachtafel (DIN A4).md
         - Zeugnisliste nach Schülerfächern (DIN A4 mit UA und Niveau): berichte/klassen/Zeugnisliste nach Schülerfächern (DIN A4 mit UA und Niveau).md
         - Zeugnisliste nach Schülerfächern (DIN A4 nur aktive Schueler und Fächerkürzel): berichte/klassen/Zeugnisliste nach Schülerfächern (DIN A4 nur aktive Schueler und Fächerkürzel).md
