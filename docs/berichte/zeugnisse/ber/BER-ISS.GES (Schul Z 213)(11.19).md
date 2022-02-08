@@ -23,12 +23,27 @@ AG | Ergänzende Angebote
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
+# GeR Niveaustufe
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
+
+Bitte tragen Sie in unter im Menü `? Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das Schlüsselverzeichnis > Sprachreferenzen.
+
+Mögliche Werte sind aktuell:
+
+Kürzel |	Schlüssel |	Bezeichnung
+-|-|-
+A1 |	A1 |	Anfänger
+A2 |	A2 	|Grundlegende Kenntnisse
+B1 |	B1| 	Fortgeschrittene Sprachverwendung
+B2 	|B2 |	Selbständige Sprachverwendung
+C1 	|C1 |	Fachkundige Sprachkenntnisse
+C2 |	C2 |	Annähernd muttersprachliche Kenntnisse
+
 ## Latinum
 
-Damit die dritte Fremdsprache Latein bei den Bemerkungen angezeigt werden müssen folgende Bedingungen erfüllt sein.
+Für die Ausgabe des Bemerkungstextes zum Latinum muss der Haken bei "Latinum" unter `Schüler > Daten 3 > Fremdsprachenfolge` gesetzt sein.
 
-1) Latein muss im Menü Schüler > Daten 3 im Bereich "Fremdsprachenfolge" als dritte Fremdsprache im Wortlaut „Latein“ eingetragen sein. 2) Latein muss zwischen der 7. Klasse und der 10. Klasse belegt worden sein. Tragen Sie die entsprechenden Schuljahre in den Feldern „von“ und „bis“ im Menü Schüler > Daten 3 ein.
-3) „Latinum“ darf im Menü >Abitur im Bereich "Sprachkenntnisse" NICHT markiert sein.
 
 ## Schulleiter
 
