@@ -79,7 +79,7 @@ Zur Ausgabe der "Facharbeit"/"Präsentationsprüfung" gehen Sie wie folgt vor:
 2. Tragen Sie im Menü `Schüler > Zeugnis > Leistungen` im Feld „Endnote (Gesamt)“ die Noten der Prüfungen ein.
 3. Das Thema der "Facharbeit"/"Präsentationsprüfung" tragen Sie im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen` als Zeugnisbemerkung ein. Kennzeichnen Sie die "Facharbeit"/"Präsentationsprüfung" über das Merkmal "FA".
 
-## Zeugnisbemerkunge
+## Zeugnisbemerkungen
 
 `Abitur > Zeugnisbemerkungen` oder `Schüler > Zeugnis > Bemerkungen/Formulare`
 
