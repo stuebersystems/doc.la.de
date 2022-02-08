@@ -80,11 +80,11 @@ ASV12 | 1. und 2. HJ
 
 Wird das Arbeits- und Sozialverhalten des Schülers nicht beurteilt, weisen Sie dem Schüler keine Bemerkung mit dem Merkmal  „ASV1“, „ASV2“ oder „ASV12“ zu. Der entsprechende Vermerk wird auch dann ausgegeben."
 
-## Benotung im Fach Deutsch**
+## Benotung im Fach Deutsch
 
 `Schüler > Zeugnis > Leistungen > Deutsch`
 
-Deutsch erhält eine Note für den "allgemeinen Teil", "schriftliche Leistungen" und eine "Gesamtnote". Tragen Sie daher im Menü `Schüler > Zeugnis > Leistungen` für das Fach "Deutsch" die Noten in folgende Felder: 
+Deutsch erhält eine Note für den "allgemeinen Teil", "schriftliche Leistungen" und eine "Gesamtnote". Tragen Sie daher im Menü `Schüler > Zeugnis > Leistungen` für das Fach "Deutsch" die Noten in folgende Felder:
 
 Note | Spalte
 --|--
@@ -92,7 +92,7 @@ Gesamtnote | Spalte "Endote"
 allgemeiner Teil | Spalte "Mündl. Note"
 schriftliche Leistungen |  Spalte "Schriftl. Note 4"
 
-## vorgegebene Positionierung der Fächer**
+## vorgegebene Positionierung der Fächer
 
 `Schüler > Zeugnis > Fächer > Position`
 
