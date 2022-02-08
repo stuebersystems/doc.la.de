@@ -28,7 +28,7 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 Wird ein Schüler "Gem. § 42 (1. und (2. VO-GO von der mündlichen Prüfung ausgeschlossen", muss dies nach Druckfertigstellung manuell in dem vorgesehenen Feld angekreuzt werden.
 
-## Fachkombination** 
+## Fachkombination
 
 `Schüler > Zeugnis > Details > Fachkombination` Fremdsprache`
 

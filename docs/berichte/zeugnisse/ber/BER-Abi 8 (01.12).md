@@ -44,30 +44,30 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-## Zeugnisdatum 
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-## Ausdruck 
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-## Zeugnisbemerkungen 
+## Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-## Bezirk der Schule	
+## Bezirk der Schule
 
 `Mandanten > Daten 1 > Name 3`
 
 Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
 
-## Benotung 
+## Benotung
 
 `Klassen > Daten > Beurteilungsart`
 
@@ -77,11 +77,11 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-**Schriftart 
+## Schriftart
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-## Versäumnisse 
+## Versäumnisse
 
 `Schüler > Zeugnis > Details > Versäumnisse`
 
@@ -91,41 +91,41 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 `Schüler > Zeugnis > Fächer > Position`
 
-Damit die Fächer gemäß der Zeugnisvorlage ausgegeben werden, müssen die Fächer des Schülers die folgenden Fachbezeichnungen, Fachschlüssel oder Positionsnummern erhalten. Bei nicht vergebenen Fächern, werden nur die jeweiligen Fächer angezeigt, die Notenfelder auf dem Zeugnis werden jedoch entwertet. Damit Noten und Fächer korrekt ausgegeben werden achten Sie bitte darauf, dass die Fächer die richtigen Fachbezeichnungen, Fachschlüssel oder Positionsnummern lt. Vorgabe erhalten, da den Fächern sonst falsche Noten zugeordnet werden können. Frei belegbare Fächer müssen die entsprechende Position haben, fixe Fächer dürfen nicht identische Positionen mit frei belegbaren Fächern aufweisen und müssen die jeweilige Fachbezeichnung oder den entsprechenden Fachschlüssel beinhalten. 
+Damit die Fächer gemäß der Zeugnisvorlage ausgegeben werden, müssen die Fächer des Schülers die folgenden Fachbezeichnungen, Fachschlüssel oder Positionsnummern erhalten. Bei nicht vergebenen Fächern, werden nur die jeweiligen Fächer angezeigt, die Notenfelder auf dem Zeugnis werden jedoch entwertet. Damit Noten und Fächer korrekt ausgegeben werden achten Sie bitte darauf, dass die Fächer die richtigen Fachbezeichnungen, Fachschlüssel oder Positionsnummern lt. Vorgabe erhalten, da den Fächern sonst falsche Noten zugeordnet werden können. Frei belegbare Fächer müssen die entsprechende Position haben, fixe Fächer dürfen nicht identische Positionen mit frei belegbaren Fächern aufweisen und müssen die jeweilige Fachbezeichnung oder den entsprechenden Fachschlüssel beinhalten.
 Die Fremdsprachen tragen Sie bitte zusätzlich im Menü `Schüler > Daten 3 > Fremdsprachenfolge` ein.
 
-Position | Fachbezeichnung 
+Position | Fachbezeichnung
 --|--
 frei | Deutsch  
-frei | 1. Fremdsprache 
-frei | 2. Fremdsprache 
-frei | 3. Fremdsprache 
-5 | frei 
-6 | frei 
-frei | Bildende Kunst 
-frei | Musik 
-9 | frei 
-frei | Politikwissenschaft 
-frei | Geschichte 
-frei | Geografie 
+frei | 1. Fremdsprache
+frei | 2. Fremdsprache
+frei | 3. Fremdsprache
+5 | frei
+6 | frei
+frei | Bildende Kunst
+frei | Musik
+9 | frei
+frei | Politikwissenschaft
+frei | Geschichte
+frei | Geografie
 13 | frei  
 14 | frei  
-frei | Mathematik 
-frei | Physik 
-frei | Chemie 
-frei | Biologie 
-frei | Informatik 
-20 | frei 
-21 | frei 
-22 | frei 
-frei | Sport 
-24 | frei 
+frei | Mathematik
+frei | Physik
+frei | Chemie
+frei | Biologie
+frei | Informatik
+20 | frei
+21 | frei
+22 | frei
+frei | Sport
+24 | frei
 25 | frei
 
 HINWEIS: Weitere Sportfächer (Sport Theorie, Sport) vergeben Sie bitte die Positionsnummer 24 oder 25.
 
 ## Zeugnisbemerkungen
- 
+
 `Abitur > Zeugnisbemerkungen` oder `Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Bemerkungen Legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü `Abitur > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 

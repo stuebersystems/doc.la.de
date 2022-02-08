@@ -18,7 +18,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 4PF | 4PF | 4. Prüfungsfach (mündlich)
 5PF | 5PF | 5. Prüfungsfach (mündlich oder schriftlich)** Pflichtbereich
 
-## Fremdsprachenfolge 
+## Fremdsprachenfolge
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 

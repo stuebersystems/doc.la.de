@@ -22,7 +22,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 BLL|   BLL    |   5. Prüfungskomponente Besondere Lernleistung 
 PRS | PRS   |  5. Prüfungskomponente Präsentationsprüfung"
 
-## Ausgabe des Schuljahres 
+## Ausgabe des Schuljahres
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
@@ -49,11 +49,12 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Konferenzdatum
 Bei der 5. Prüfungskomponente wird zwischen einer „Präsentationprüfung“ und der „Besonderen Lernleistung“ unterschieden. Gehen Sie jeweils wie folgt vor:
 
 1. Präsentationprüfung
-Bei der "Präsentationsprüfung" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte „Fachstatus“ den Wert „PRS“ zu und führen das entsprechende Skript aus. 
-Im Menü `Abitur > Prüfung` wird das jeweilige Fach automatisch im Feld „5. PF“ eingetragen. Sie müssen nun nur noch die Gesamtnote im Feld "mündliche Note" eintragen. 
+Bei der "Präsentationsprüfung" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte „Fachstatus“ den Wert „PRS“ zu und führen das entsprechende Skript aus.
+Im Menü `Abitur > Prüfung` wird das jeweilige Fach automatisch im Feld „5. PF“ eingetragen. Sie müssen nun nur noch die Gesamtnote im Feld "mündliche Note" eintragen.
 
 2. Besondere Lernleistung
-Die "besondere Lernleistung" kann auch eines der ersten 4 Prüfungsfächer sein. In diesem Fall müssen Sie im `Menü Abitur > Qualifikation` den Fachstatus wie folgt modifizieren: 
+Die "besondere Lernleistung" kann auch eines der ersten 4 Prüfungsfächer sein. In diesem Fall müssen Sie im `Menü Abitur > Qualifikation` den Fachstatus wie folgt modifizieren:
+
 - statt "1PF" nutzen Sie "1PFBLL"
 - statt „2PF" nutzen Sie "2PFBLL"
 - statt "3PF" nutzen Sie "3PFBLL" oder
@@ -66,5 +67,3 @@ Falls die Besondere Lernleistung nicht eines der Prüfungsfächer 1.-4. ist, wei
 Daten unter Punkt 2-7 müssen Sie nach Ausdruck aus MAGELLAN manuell im Zeugnis erfassen/eintragen.
 
 ![Daten nach Ausdruck manuell erfassen](/assets/images/Berlin/ber01.png)
-
-

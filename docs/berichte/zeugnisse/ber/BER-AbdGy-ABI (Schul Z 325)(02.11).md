@@ -38,7 +38,7 @@ ME | ME | Musik Ensemble
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-## Schulname 
+## Schulname
 
 `Mandanten > Daten > Name 1`
 
@@ -61,7 +61,7 @@ Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Ze
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-## Bezirk der Schule	
+## Bezirk der Schule
 
 `Mandanten > Daten 1 > Name 3`
 
@@ -73,7 +73,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-## Schriftart 
+## Schriftart
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -95,41 +95,41 @@ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprech
 
 `Schüler > Zeugnis > Fächer > Position`
 
-Damit die Fächer gemäß der Zeugnisvorlage ausgegeben werden, müssen die Fächer des Schülers die folgenden Fachbezeichnungen, Fachschlüssel oder Positionsnummern erhalten. Bei nicht vergebenen Fächern, werden nur die jeweiligen Fächer angezeigt, die Notenfelder auf dem Zeugnis werden jedoch entwertet. Damit Noten und Fächer korrekt ausgegeben werden achten Sie bitte darauf, dass die Fächer die richtigen Fachbezeichnungen, Fachschlüssel oder Positionsnummern lt. Vorgabe erhalten, da den Fächern sonst falsche Noten zugeordnet werden können. Frei belegbare Fächer müssen die entsprechende Position haben, fixe Fächer dürfen nicht identische Positionen mit frei belegbaren Fächern aufweisen und müssen die jeweilige Fachbezeichnung oder den entsprechenden Fachschlüssel beinhalten. 
+Damit die Fächer gemäß der Zeugnisvorlage ausgegeben werden, müssen die Fächer des Schülers die folgenden Fachbezeichnungen, Fachschlüssel oder Positionsnummern erhalten. Bei nicht vergebenen Fächern, werden nur die jeweiligen Fächer angezeigt, die Notenfelder auf dem Zeugnis werden jedoch entwertet. Damit Noten und Fächer korrekt ausgegeben werden achten Sie bitte darauf, dass die Fächer die richtigen Fachbezeichnungen, Fachschlüssel oder Positionsnummern lt. Vorgabe erhalten, da den Fächern sonst falsche Noten zugeordnet werden können. Frei belegbare Fächer müssen die entsprechende Position haben, fixe Fächer dürfen nicht identische Positionen mit frei belegbaren Fächern aufweisen und müssen die jeweilige Fachbezeichnung oder den entsprechenden Fachschlüssel beinhalten.
 Die Fremdsprachen tragen Sie bitte zusätzlich im Menü `Schüler > Daten 3 > Fremdsprachenfolge` ein.
 
-Position | Fachbezeichnung 
+Position | Fachbezeichnung
 --|--
 frei | Deutsch  
-frei | 1. Fremdsprache 
-frei | 2. Fremdsprache 
-frei | 3. Fremdsprache 
-5 | frei 
-6 | frei 
-frei | Bildende Kunst 
-frei | Musik 
-9 | frei 
-frei | Politikwissenschaft 
-frei | Geschichte 
-frei | Geografie 
+frei | 1. Fremdsprache
+frei | 2. Fremdsprache
+frei | 3. Fremdsprache
+5 | frei
+6 | frei
+frei | Bildende Kunst
+frei | Musik
+9 | frei
+frei | Politikwissenschaft
+frei | Geschichte
+frei | Geografie
 13 | frei  
 14 | frei  
-frei | Mathematik 
-frei | Physik 
-frei | Chemie 
-frei | Biologie 
-frei | Informatik 
-20 | frei 
-21 | frei 
-22 | frei 
-frei | Sport 
-24 | frei 
+frei | Mathematik
+frei | Physik
+frei | Chemie
+frei | Biologie
+frei | Informatik
+20 | frei
+21 | frei
+22 | frei
+frei | Sport
+24 | frei
 25 | frei
 
 HINWEIS: Weitere Sportfächer (Sport Theorie, Sport) vergeben Sie bitte die Positionsnummer 24 oder 25.
 
 ## Zeugnisbemerkungen
- 
+
 `Abitur > Zeugnisbemerkungen` oder `Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Bemerkungen Legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü `Abitur > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
