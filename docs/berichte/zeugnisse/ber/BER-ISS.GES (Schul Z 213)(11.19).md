@@ -23,7 +23,7 @@ AG | Ergänzende Angebote
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
 angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-# GeR Niveaustufe
+## GeR Niveaustufe
 
 `Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
@@ -31,19 +31,18 @@ Bitte tragen Sie in unter im Menü `? Schüler > Daten 3 > Fremdsprachenfolge` i
 
 Mögliche Werte sind aktuell:
 
-Kürzel |	Schlüssel |	Bezeichnung
+Kürzel |Schlüssel |Bezeichnung
 -|-|-
-A1 |	A1 |	Anfänger
-A2 |	A2 	|Grundlegende Kenntnisse
-B1 |	B1| 	Fortgeschrittene Sprachverwendung
-B2 	|B2 |	Selbständige Sprachverwendung
-C1 	|C1 |	Fachkundige Sprachkenntnisse
-C2 |	C2 |	Annähernd muttersprachliche Kenntnisse
+A1 |A1 |Anfänger
+A2 |A2 |Grundlegende Kenntnisse
+B1 |B1| Fortgeschrittene Sprachverwendung
+B2 |B2 |Selbständige Sprachverwendung
+C1 |C1 |Fachkundige Sprachkenntnisse
+C2 |C2 |Annähernd muttersprachliche Kenntnisse
 
 ## Latinum
 
 Für die Ausgabe des Bemerkungstextes zum Latinum muss der Haken bei "Latinum" unter `Schüler > Daten 3 > Fremdsprachenfolge` gesetzt sein.
-
 
 ## Schulleiter
 
@@ -102,7 +101,7 @@ Um Noten den jeweiligen Fächer zuzuordnen, verwenden Sie für die Fächer folge
 Fach | Position
 --|--
 Deutsch | 1
-1. Fremdsprache |  2
+1.Fremdsprache |2
 Gesellschaftswissenschaften |  3
 Ethik | 4
 Geographie | 5
@@ -125,7 +124,7 @@ Achtung: Eine falsche Positionierung der Fächer ordnet den Fächern eine falsch
 
 ## Wahlpflichtfächer
 
-Für die Wahlpflichtfächer erfassen Sie bitte die korrekte Position und die UNterrichtsart ` WahlPF`
+Für die Wahlpflichtfächer erfassen Sie bitte die korrekte Position und die UNterrichtsart `WahlPF`
 
 ## ER Note
 
@@ -134,10 +133,9 @@ Die ER-Note berechnet sich anhand der vorgegebenen Abbildungstabelle aus den ein
 Verwenden Sie bitte folgende Unterrichtsart:
 `Extras > Schlüsselverzeichnisse > Unterrichstarten`
 
-
-Kürzel|	Schlüssel	|Zeugnisbereich
+Kürzel|Schlüssel|Zeugnisbereich
 -|-
-ER|ER|	ER-Niveau
+ER|ER|ER-Niveau
 
 ## Prüfungsfächer
 
@@ -145,12 +143,12 @@ ER|ER|	ER-Niveau
 
 Folgende Fachstati dürfen im Zeugnisdruck für die Prüfungsfächer verwendet werden:
 
-Kürzel|	Schlüssel	|Zeugnisbereich
+Kürzel|Schlüssel|Zeugnisbereich
 -|-
-1PF	|1PF|	1. Prüfungsfach
-2PF	|2PF|	2. Prüfungsfach
-3PF|	3PF|	3. Prüfungsfach
-4PF	|4PF|	4. Prüfungsfach
+1PF|1PF|1. Prüfungsfach
+2PF|2PF|2. Prüfungsfach
+3PF|3PF|3. Prüfungsfach
+4PF|4PF|4. Prüfungsfach
 
 Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
@@ -168,9 +166,9 @@ Schriftl. Note|schriftliche Note 1
 
 Um die korrekte Ausgabe zum Beiblatt zu generieren, legen Sie eine Zeugnisbemerkung  mit dem Merkmal „Beiblatt“ an. Damit wird generiert, ob das Beiblatt ausgegeben wird oder nicht.
 
-Merkmal	|Bedeutung
+Merkmal|Bedeutung
 -|-
-Beiblatt|	Beiblatt ist Bestandteil des Zeugnisses
+Beiblatt|Beiblatt ist Bestandteil des Zeugnisses
 
 Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses: ☐ ja ☐ nein1). wird wie folgt gesteuert:
 
