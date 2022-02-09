@@ -129,7 +129,7 @@ Für die Wahlpflichtfächer erfassen Sie bitte die korrekte Position und die Unt
 
 ## ER/GR Niveau
 
-Für die leistungsdifferenzierten Fächer wird die Note anhand der vorgegebenen Abbildungstabelle aus den eingetragenen Punkten berechnet. Für leistungsdifferenzierten Fächer mit der Unterrichstart ER wird die Note des ER-Niveau genutzt für die anderen Fächer die Note des GR-Niveau. Die Punkte tragen Sie bitte unter `Schüler > Fächer > Leistungen > Endnote`ein.  
+Für die leistungsdifferenzierten Fächer wird die Note anhand der vorgegebenen Abbildungstabelle aus den eingetragenen Punkten berechnet. Für leistungsdifferenzierten Fächer mit der Unterrichstart ER wird die Note des ER-Niveau genutzt. Für leistungsdifferenzierten Fächer mit der Unterrichstart GR wird die Note des GR-Niveau genutzt. Die Punkte tragen Sie bitte unter `Schüler > Fächer > Leistungen > Endnote`ein.  
 
 Verwenden Sie bitte folgende Unterrichtsart:
 `Extras > Schlüsselverzeichnisse > Unterrichstarten`
@@ -137,6 +137,7 @@ Verwenden Sie bitte folgende Unterrichtsart:
 Kürzel|Schlüssel|Zeugnisbereich
 -|-
 ER|ER|ER-Niveau
+GR|GR|GR-Niveau
 
 Für allen anderen Fächer (die nicht leistungsdifferenzierten Fächer) wird grundsätzlich die Note des ER-Niveau genutzt.
 
