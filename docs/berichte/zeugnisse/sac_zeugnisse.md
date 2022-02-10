@@ -5371,17 +5371,6 @@ Die Fachrichtung und der Schwerpunkt im Kopf des Zeugnisses werden aus der Bezei
 2. Weisen Sie unter `Extras > Schlüsselverzeichnisse > Bildungsgang` in den Felder `Fachrichtung` und `Schwerpunkt` die gewünschten Werte zu.
 3. Weisen Sie den Schülern unter `Schüler > Ausbildung` für die aktuelle Ausbildung den Bildungsgang zu, diese Information kann auch per Sammelzuweisung verteilt werden.
 
-**Fachbereich Klasse**
-
-`Klassen > Merkmale > Merkmal A5`
-
-Den Fachbereich der Klasse tragen Sie im Menü `Klassen > Merkmale` im Feld "Merkmal A5" ein. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`. Hier ist in der Spalte „Bereich“ der Wert „Merkmal A5“ zuzuweisen. Bleibt das Feld "A5" leer wird der "Fachbereich" ausgeblendet.
-
-**Schwerpunkt Klasse**
-
-`Klassen > Merkmale > Merkmal A6`
-
-Den Schwerpunkt der Klasse tragen Sie im Menü `Klassen > Merkmale` tragen Sie den Schwerpunkt im Feld "Merkmal A6" ein. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`. Hier ist in der Spalte „Bereich“ der Wert „Merkmal A6“ zuzuweisen. Bleibt das Feld "A6" leer wird der "Schwerpunkt" ausgeblendet.
 
 ### SAC-FS-AZ (C.01.04).rpt
 
