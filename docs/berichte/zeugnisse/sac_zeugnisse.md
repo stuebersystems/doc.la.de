@@ -5363,6 +5363,14 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` die Schulfart im Feld
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
+**Fachrichtung und Schwerpunkt**
+
+Die Fachrichtung und der Schwerpunkt im Kopf des Zeugnisses werden aus der Bezeichnung der Fachrichtung und des Schwerpunktes des Schüler-Bildungsgangs ausgelesen.
+
+1. Legen Sie die gewünschten Werte unter `Extras > Schlüsselverzeichnisse` in den Verzeichnissen `Schwerpunkt` und `Fachrichtung` an. Der später im Zeugnis erscheinende Wert ist der Eintrag aus dem Feld `Bezeichnung`.
+2. Weisen Sie unter `Extras > Schlüsselverzeichnisse > Bildungsgang` in den Felder `Fachrichtung` und `Schwerpunkt` die gewünschten Werte zu.
+3. Weisen Sie den Schülern unter `Schüler > Ausbildung` für die aktuelle Ausbildung den Bildungsgang zu, diese Information kann auch per Sammelzuweisung verteilt werden.
+
 **Fachbereich Klasse**
 
 `Klassen > Merkmale > Merkmal A5`
