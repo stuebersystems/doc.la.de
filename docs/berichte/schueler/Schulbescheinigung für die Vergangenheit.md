@@ -1,0 +1,1 @@
+﻿# Schulbescheinigung für die Vergangenheit

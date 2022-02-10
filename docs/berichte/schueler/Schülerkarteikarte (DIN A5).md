@@ -1,0 +1,1 @@
+﻿# Schülerkarteikarte (DIN A5)
