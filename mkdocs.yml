@@ -423,9 +423,6 @@ nav:
       - SHL: berichte/zeugnisse/shl_zeugnisse.md
       - THU: berichte/zeugnisse/thu_zeugnisse.md
     - Menü Schüler: 
-<<<<<<< HEAD
-      - Allgemein: berichte/02_schueler.md
-=======
       - Allgemein: berichte/schueler/02_schueler.md
       - Anmeldeschein (weiterführende Schulen): berichte/schueler/Anmeldeschein (weiterführende Schulen).md
       - Ausländerliste (nach Staatsangehörigkeiten): berichte/schueler/Ausländerliste (nach Staatsangehörigkeiten).md
@@ -529,7 +526,6 @@ nav:
       - Unfallanzeige (in Word ausfüllbar): berichte/schueler/Unfallanzeige (in Word ausfüllbar).md
       - Unfallanzeige (mit Erläuterungen): berichte/schueler/Unfallanzeige (mit Erläuterungen).md
       - Unfallanzeige: berichte/schueler/Unfallanzeige.md
->>>>>>> f29c3da2ff33ece1a36aefd4ffa958d2a6b951d3
     - Menü Bewerber: berichte/03_bewerber.md
     - Menü Klassen: 
       - Klassenberichte: 
