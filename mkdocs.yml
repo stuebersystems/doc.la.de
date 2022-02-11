@@ -634,6 +634,18 @@ nav:
       - Kursliste-Schüler mit Fachkombinationsnummer (Oberstufe): berichte/kurslisten/Kursliste-Schüler mit Fachkombinationsnummer (Oberstufe).md    
     - Menü Lehrer: 
       - gesammelt: berichte/lehrer/05_lehrer.md
+      - Anwesenheitsliste Lehrer (Monat): berichte/lehrer/Anwesenheitsliste Lehrer (Monat).md
+      - Gesamtliste Lehrer (Adressen): berichte/lehrer/Gesamtliste Lehrer (Adressen).md
+      - Lehrer (Personalhandkarte): berichte/lehrer/Lehrer (Personalhandkarte).md
+      - Lehrerliste (Email und Funktion 1-8): berichte/lehrer/Lehrerliste (Email und Funktion 1-8).md
+      - Lehrerliste mit Adressen: berichte/lehrer/Lehrerliste mit Adressen.md
+      - Lehrerliste mit Fächer: berichte/lehrer/Lehrerliste mit Fächer.md
+      - Lehrerliste mit Geburtstagen: berichte/lehrer/Lehrerliste mit Geburtstagen.md
+      - Lehrerstammblatt mit Passfoto: berichte/lehrer/Lehrerstammblatt mit Passfoto.md
+      - Lehrerstammblatt: berichte/lehrer/Lehrerstammblatt.md
+      - RLP - Lehrer (Abwesenheitsblatt): berichte/lehrer/RLP - Lehrer (Abwesenheitsblatt).md
+      - RLP - Lehrer (Abwesenheitsstatistik nur Krank): berichte/lehrer/RLP - Lehrer (Abwesenheitsstatistik nur Krank).md
+      - RLP - Lehrer (Abwesenheitsstatistik): berichte/lehrer/RLP - Lehrer (Abwesenheitsstatistik).md
     - Menü Mandanten: berichte/06_mandanten.md
     - Menü Personen: 
       - Personenliste mit Adressen: berichte/personen/Personenliste mit Adressen.md
