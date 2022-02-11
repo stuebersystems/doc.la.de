@@ -634,7 +634,8 @@ nav:
       - Kursliste-Schüler mit Fachkombinationsnummer (Oberstufe): berichte/kurslisten/Kursliste-Schüler mit Fachkombinationsnummer (Oberstufe).md    
     - Menü Lehrer: berichte/05_lehrer.md
     - Menü Mandanten: berichte/06_mandanten.md
-    - Menü Personen: berichte/07_personen.md
+    - Menü Personen: 
+      - Personenliste mit Adressen: berichte/personen/Personenliste mit Adressen.md
     - Menü Sorgeberechtigte: berichte/08_sorgeberechtigte.md
     - Menü Betriebe: berichte/09_betriebe.md
     - Menü Schulen: berichte/10_schulen.md
