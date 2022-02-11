@@ -1,0 +1,1 @@
+﻿# Gastschulgeld (Berufsschule ohne BG)

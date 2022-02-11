@@ -5129,11 +5129,15 @@ Die "Zusatzausbildung zum Erwerb der Fachhochschulreife" tragen Sie wie folgt ei
 
 `Extras > Schlüsselverzeichnis > Fächer > Merkmal (*)`
 
-Sollte ein Fach (die Fachbezeichnung)** auf dem Zeuignis mit einem Zusatz "*)" versehen werden, tragen Sie bitte unter Schüler > Zeugnis > Leistungen im Feld "Merkmal" ein "*". Der Bericht gibt hinter der Fachbezeichnung *)** aus.
+Sollte ein Fach (die Fachbezeichnung) auf dem Zeugnis mit einem Zusatz `*)` versehen werden, tragen Sie bitte unter `Schüler > Zeugnis > Leistungen` im Feld `Merkmal` ein `*`. Der Bericht gibt hinter der Fachbezeichnung `*)` aus.
+
+
+Legen Sie dazu passend bitte ein Zeugnisbemerkung mit der Erläuterung an.
+
 
 Eintrag in MAGELLAN | Ausgabe auf dem Zeugnis
 --|--
-Fach: Deu, Merkmal: * | Deutsch *)
+Fach: Deu, Merkmal: `*` | `Deutsch *)`
 
 **Berufsfeld Klasse**
 

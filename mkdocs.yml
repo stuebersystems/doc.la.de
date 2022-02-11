@@ -647,6 +647,43 @@ nav:
       - RLP - Lehrer (Abwesenheitsstatistik): berichte/lehrer/RLP - Lehrer (Abwesenheitsstatistik).md
     - Menü Mandanten: 
       - gesammelt: berichte/mandanten/06_mandanten.md
+      - Ausländerliste (alle): berichte/mandanten/Ausländerliste (alle).md
+      - Ausländerliste (mit Betrieben): berichte/mandanten/Ausländerliste (mit Betrieben).md
+      - Ausländerliste (nur Minderjährige): berichte/mandanten/Ausländerliste (nur Minderjährige).md
+      - Aussiedlerliste (alle): berichte/mandanten/Aussiedlerliste (alle).md
+      - Aussiedlerliste (nur Minderjährige): berichte/mandanten/Aussiedlerliste (nur Minderjährige).md
+      - Bewerberrangliste (Anmeldedatum-Name): berichte/mandanten/Bewerberrangliste (Anmeldedatum-Name).md
+      - Bewerberrangliste (Punkte-Anmeldedatum): berichte/mandanten/Bewerberrangliste (Punkte-Anmeldedatum).md
+      - Bewerberrangliste (Punkte-Namen): berichte/mandanten/Bewerberrangliste (Punkte-Namen).md
+      - Bewerberrangliste (Punkte-Rangzahl): berichte/mandanten/Bewerberrangliste (Punkte-Rangzahl).md
+      - Bewerberrangliste (nach Namen): berichte/mandanten/Bewerberrangliste (nach Namen).md
+      - Bewerberrangliste (nach Punkten): berichte/mandanten/Bewerberrangliste (nach Punkten).md
+      - Gastschulgeld (BG) – LK Koblenz: berichte/mandanten/Gastschulgeld (BG) – LK Koblenz.md
+      - Gastschulgeld (BG) – LK Mayen: berichte/mandanten/Gastschulgeld (BG) – LK Mayen.md
+      - Gastschulgeld (BG): berichte/mandanten/Gastschulgeld (BG).md
+      - Gastschulgeld (Berufsschule ohne BG) – LK Koblenz: berichte/mandanten/Gastschulgeld (Berufsschule ohne BG) – LK Koblenz.md
+      - Gastschulgeld (Berufsschule ohne BG) – LK Mayen: berichte/mandanten/Gastschulgeld (Berufsschule ohne BG) – LK Mayen.md
+      - Gastschulgeld (Berufsschule ohne BG): berichte/mandanten/Gastschulgeld (Berufsschule ohne BG).md
+      - Gastschulgeld (Wahlschulen) – LK Koblenz: berichte/mandanten/Gastschulgeld (Wahlschulen) – LK Koblenz.md
+      - Gastschulgeld (Wahlschulen) – LK Mayen: berichte/mandanten/Gastschulgeld (Wahlschulen) – LK Mayen.md
+      - Gastschulgeld (Wahlschulen): berichte/mandanten/Gastschulgeld (Wahlschulen).md
+      - Gesamtliste (Anzahl Klassen pro Schulort nach Jahrgang): berichte/mandanten/Gesamtliste (Anzahl Klassen pro Schulort nach Jahrgang).md
+      - Gesamtliste (Anzahl Schüler pro Wohnort und Ortsteil nach Jahrgang): berichte/mandanten/Gesamtliste (Anzahl Schüler pro Wohnort und Ortsteil nach Jahrgang).md
+      - Gesamtliste Bewerber (Adressen): berichte/mandanten/Gesamtliste Bewerber (Adressen).md
+      - Gesamtliste Bewerber (Bewerberziele): berichte/mandanten/Gesamtliste Bewerber (Bewerberziele).md
+      - Gesamtliste Bewerber (nach Beruf): berichte/mandanten/Gesamtliste Bewerber (nach Beruf).md
+      - Mandant (Ausgabe Schueler ohne Gemeindekennziffer): berichte/mandanten/Mandant (Ausgabe Schueler ohne Gemeindekennziffer).md
+      - Mandant (Berufe und Fachrichtungen): berichte/mandanten/Mandant (Berufe und Fachrichtungen).md
+      - Mandant (Prüfbericht Schüler unter 18 ausgeschult und keinen Eintrag unter ZugangAbgang An Schule): berichte/mandanten/Mandant (Prüfbericht Schüler unter 18 ausgeschult und keinen Eintrag unter ZugangAbgang An Schule).md
+      - Mandant (Schüler des aktuellen Halbjahres ohne Fächer): berichte/mandanten/Mandant (Schüler des aktuellen Halbjahres ohne Fächer).md
+      - Mandant (Schüler des aktuellen Halbjahres ohne aktuelle Ausbildung): berichte/mandanten/Mandant (Schüler des aktuellen Halbjahres ohne aktuelle Ausbildung).md
+      - Mandant (SchülerAbgang): berichte/mandanten/Mandant (SchülerAbgang).md
+      - Mandant (SchülerNachprüfung): berichte/mandanten/Mandant (SchülerNachprüfung).md
+      - Mandant (Statistik Abschlüsse): berichte/mandanten/Mandant (Statistik Abschlüsse).md
+      - Mandant (Wiederholer innerhalb eines Schuljahres): berichte/mandanten/Mandant (Wiederholer innerhalb eines Schuljahres).md
+      - Offene Medienvorgänge (bis zum heutigen Tag): berichte/mandanten/Offene Medienvorgänge (bis zum heutigen Tag).md
+      - Schüler nach Geburtsjahrgängen: berichte/mandanten/Schüler nach Geburtsjahrgängen.md
+      - Schülerliste (inaktive Schüler mit Ausleihvorgängen): berichte/mandanten/Schülerliste (inaktive Schüler mit Ausleihvorgängen).md
     - Menü Personen: 
       - Personenliste mit Adressen: berichte/personen/Personenliste mit Adressen.md
     - Menü Sorgeberechtigte: berichte/08_sorgeberechtigte.md

@@ -1,0 +1,1 @@
+﻿# Gastschulgeld (Wahlschulen)
