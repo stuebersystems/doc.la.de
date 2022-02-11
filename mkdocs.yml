@@ -526,7 +526,19 @@ nav:
       - Unfallanzeige (in Word ausfüllbar): berichte/schueler/Unfallanzeige (in Word ausfüllbar).md
       - Unfallanzeige (mit Erläuterungen): berichte/schueler/Unfallanzeige (mit Erläuterungen).md
       - Unfallanzeige: berichte/schueler/Unfallanzeige.md
-    - Menü Bewerber: berichte/03_bewerber.md
+    - Menü Bewerber: 
+      - gesammelt: berichte/bewerber/03_bewerber.md
+      - Anmeldebogen 5 Klasse: berichte/bewerber/Anmeldebogen 5 Klasse.md
+      - BAW-Anmeldebogen 5 Klasse: berichte/bewerber/BAW-Anmeldebogen 5 Klasse.md
+      - Bewerber (Aufnahmebescheinigung an abgebende Schule - Brief): berichte/bewerber/Bewerber (Aufnahmebescheinigung an abgebende Schule - Brief).md
+      - Bewerber (Aufnahmebescheinigung an abgebende Schule - Fax): berichte/bewerber/Bewerber (Aufnahmebescheinigung an abgebende Schule - Fax).md
+      - Bewerber gruppiert nach Bewerberstatus: berichte/bewerber/Bewerber gruppiert nach Bewerberstatus.md
+      - Bewerber gruppiert nach Gesamtnote: berichte/bewerber/Bewerber gruppiert nach Gesamtnote.md
+      - Bewerber nach Herkunftsschulen: berichte/bewerber/Bewerber nach Herkunftsschulen.md
+      - Bewerber nach Herkunftsschulen und Klassen: berichte/bewerber/Bewerber nach Herkunftsschulen und Klassen.md
+      - Bewerberliste mit Adressen: berichte/bewerber/Bewerberliste mit Adressen.md
+      - Bewerberliste mit Summendaten: berichte/bewerber/Bewerberliste mit Summendaten.md
+      - Bewerberpersonalbogen: berichte/bewerber/Bewerberpersonalbogen.md
     - Menü Klassen: 
       - Anwesenheitsliste für den Tag: berichte/klassen/Anwesenheitsliste für den Tag.md
       - Anwesenheitsliste für ganzen Monat: berichte/klassen/Anwesenheitsliste für ganzen Monat.md
