@@ -645,7 +645,8 @@ nav:
       - RLP - Lehrer (Abwesenheitsblatt): berichte/lehrer/RLP - Lehrer (Abwesenheitsblatt).md
       - RLP - Lehrer (Abwesenheitsstatistik nur Krank): berichte/lehrer/RLP - Lehrer (Abwesenheitsstatistik nur Krank).md
       - RLP - Lehrer (Abwesenheitsstatistik): berichte/lehrer/RLP - Lehrer (Abwesenheitsstatistik).md
-    - Menü Mandanten: berichte/06_mandanten.md
+    - Menü Mandanten: 
+      - gesammelt: berichte/mandanten/06_mandanten.md
     - Menü Personen: 
       - Personenliste mit Adressen: berichte/personen/Personenliste mit Adressen.md
     - Menü Sorgeberechtigte: berichte/08_sorgeberechtigte.md
