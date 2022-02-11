@@ -190,39 +190,10 @@ Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
 
-### Mandant (Schüler des aktuellen Halbjahres ohne Fächer).rpt
 
-Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
 
-### Mandant (SchülerAbgang).rpt
 
-Zugang am und/oder Abgang am 
-
-`Schueler > Daten 2 > Zugang am und/oder Abgang am`
-
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
-
-Übergang an Schule / Schulform
-
-`Schüler > Daten 2 > Übergang > An Schulform/An Schule`
-
-Tragen Sie im Menü `Schüler > Daten 2 > Übergang` im aktuellen Zeitraum die Schulform im Feld "An Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen(Übergang)`. Optional tragen Sie im Menü `Schüler > Daten 2` im aktuellen Zeitraum die Schule im Feld "an Schule" ein.
-
-Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
-
-### Mandant (SchülerNachprüfung).rpt
-
-Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Mandanten` gedruckt werden.
-
-Nachprüfung
-
-Ob ein Schüler zur Nachprüfung zugelassen ist und diese bestanden hat oder nicht tragen Sie im entsprechenden Zeitraum im Menü`Schüler > Laufbahn > Allgemein` im Feld „Nachprüfung“ ein.  Grundlage hierfür bildet das `Schlüsselverzeichnis > Nachprüfung`. Auf dem Bericht wird die frei wählbare „Bezeichnung“ im Feld „Nachprüfung“ ausgegeben und Schüler ohne Eintrag werden auf dem Report ausgefiltert.
 
 
 
