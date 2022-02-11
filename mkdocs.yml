@@ -260,8 +260,158 @@ nav:
         - DSWBS.DAS-GS-GY (Klasse 3-10): berichte/zeugnisse/das/DSWBS.DAS-GS-GY (Klasse 3-10).md
       - BAW: berichte/zeugnisse/baw_zeugnisse.md
       - BER: 
-        - Gesammelt: berichte/zeugnisse/ber/ber_zeugnisse.md
-        - BER-ISS.GES (Schul Z 213)(11.19): berichte/zeugnisse/ber/BER-ISS.GES (Schul Z 213)(11.19).md
+        - Gesammelt: berichte/zeugnisse/ber/ber_zeugnisse.md     
+        - BER (Kurswahl): berichte/zeugnisse/ber/BER (Kurswahl).md
+        - BER Abi-1a – Übersichtsplan über die Schullaufbahn ab 2010 – 12jähriger Bildungsgang (VO-GO) (01.12): berichte/zeugnisse/ber/BER Abi-1a – Übersichtsplan über die Schullaufbahn ab 2010 – 12jähriger Bildungsgang (VO-GO) (01.12).md
+        - BER-ABI (Schul II 929-3)(01.09): berichte/zeugnisse/ber/BER-ABI (Schul II 929-3)(01.09).md
+        - BER-ABI (Schul II 929-3)(09.07): berichte/zeugnisse/ber/BER-ABI (Schul II 929-3)(09.07).md
+        - BER-AbdGy (abi_4b_berechnungsbogen_abendgym (03.12.): berichte/zeugnisse/ber/BER-AbdGy (abi_4b_berechnungsbogen_abendgym (03.12.).md
+        - BER-AbdGy-ABI (Schul Z 325)(02.11): berichte/zeugnisse/ber/BER-AbdGy-ABI (Schul Z 325)(02.11).md
+        - BER-Abi 8 (01.12): berichte/zeugnisse/ber/BER-Abi 8 (01.12).md
+        - BER-Abi-18a (Mitteilungen zu den schriftlichen und mündlichen Prüfungen)(03.21): berichte/zeugnisse/ber/BER-Abi-18a (Mitteilungen zu den schriftlichen und mündlichen Prüfungen)(03.21).md
+        - BER-Abi-3 – Angaben zur Abiturprüfung (VO GO)(05.20): berichte/zeugnisse/ber/BER-Abi-3 – Angaben zur Abiturprüfung (VO GO)(05.20).md
+        - BER-Abi-8 (05.20): berichte/zeugnisse/ber/BER-Abi-8 (05.20).md
+        - BER-BBS (Zeugniskarte): berichte/zeugnisse/ber/BER-BBS (Zeugniskarte).md
+        - BER-BBS (Zeugniskarte): berichte/zeugnisse/ber/BER-BBS (Zeugniskarte).md
+        - BER-BBS-AS: berichte/zeugnisse/ber/BER-BBS-AS.md
+        - BER-BF-AS (Schul Z 522c)(05.06): berichte/zeugnisse/ber/BER-BF-AS (Schul Z 522c)(05.06).md
+        - BER-BF-AS (Z 522-542): berichte/zeugnisse/ber/BER-BF-AS (Z 522-542).md
+        - BER-BF-AS (einjährig): berichte/zeugnisse/ber/BER-BF-AS (einjährig).md
+        - BER-BF-AS: berichte/zeugnisse/ber/BER-BF-AS.md
+        - BER-BF-AZ (einjährig): berichte/zeugnisse/ber/BER-BF-AZ (einjährig).md
+        - BER-BF-AZ: berichte/zeugnisse/ber/BER-BF-AZ.md
+        - BER-BF-HJZ (Schul Z 520b)(07.09): berichte/zeugnisse/ber/BER-BF-HJZ (Schul Z 520b)(07.09).md
+        - BER-BF-HJZ (einjährig): berichte/zeugnisse/ber/BER-BF-HJZ (einjährig).md
+        - BER-BF-HJZ: berichte/zeugnisse/ber/BER-BF-HJZ.md
+        - BER-BF-MSA (einjährig): berichte/zeugnisse/ber/BER-BF-MSA (einjährig).md
+        - BER-BFS-AS (Z 522a)(04.11): berichte/zeugnisse/ber/BER-BFS-AS (Z 522a)(04.11).md
+        - BER-BFS-AZ (Schul Z 523a): berichte/zeugnisse/ber/BER-BFS-AZ (Schul Z 523a).md
+        - BER-BOS-AZ (Schul Z 534)(03.05): berichte/zeugnisse/ber/BER-BOS-AZ (Schul Z 534)(03.05).md
+        - BER-BOS-FHReife (Schul Z 531)(09.05): berichte/zeugnisse/ber/BER-BOS-FHReife (Schul Z 531)(09.05).md
+        - BER-BOS-FHReife (Schul Z 532)(06.05): berichte/zeugnisse/ber/BER-BOS-FHReife (Schul Z 532)(06.05).md
+        - BER-BOS-HJZ (Schul Z 530)(03.05): berichte/zeugnisse/ber/BER-BOS-HJZ (Schul Z 530)(03.05).md
+        - BER-BQL TZ-AZ (Schul Z 507 c): berichte/zeugnisse/ber/BER-BQL TZ-AZ (Schul Z 507 c).md
+        - BER-BQL TZ-HJZ (Schul Z 505 a-b-c): berichte/zeugnisse/ber/BER-BQL TZ-HJZ (Schul Z 505 a-b-c).md
+        - BER-BQL TZ-HJZ (Schul Z 505 c): berichte/zeugnisse/ber/BER-BQL TZ-HJZ (Schul Z 505 c).md
+        - BER-BQL VZ-HJZ (Schul Z 505 a): berichte/zeugnisse/ber/BER-BQL VZ-HJZ (Schul Z 505 a).md
+        - BER-BS-AS (MSA Schul Z 502): berichte/zeugnisse/ber/BER-BS-AS (MSA Schul Z 502).md
+        - BER-BS-AS (MSA Schul Z 502d): berichte/zeugnisse/ber/BER-BS-AS (MSA Schul Z 502d).md
+        - BER-BS-AS: berichte/zeugnisse/ber/BER-BS-AS.md
+        - BER-BS-AZ (Schul Z 503): berichte/zeugnisse/ber/BER-BS-AZ (Schul Z 503).md
+        - BER-BS-FHReife (Schul Z 504): berichte/zeugnisse/ber/BER-BS-FHReife (Schul Z 504).md
+        - BER-BS-HJZ (2006 mit Gewichtung): berichte/zeugnisse/ber/BER-BS-HJZ (2006 mit Gewichtung).md
+        - BER-BS-HJZ (2006): berichte/zeugnisse/ber/BER-BS-HJZ (2006).md
+        - BER-BS-HJZ (Bescheinigung 2006): berichte/zeugnisse/ber/BER-BS-HJZ (Bescheinigung 2006).md
+        - BER-BV-AS (Schul Z 508): berichte/zeugnisse/ber/BER-BV-AS (Schul Z 508).md
+        - BER-BVJ-AS (Schul Z 506 a)(BQL VZ): berichte/zeugnisse/ber/BER-BVJ-AS (Schul Z 506 a)(BQL VZ).md
+        - BER-BVJ-AS: berichte/zeugnisse/ber/BER-BVJ-AS.md
+        - BER-BVJ-AZ (Schul Z 507 a)(BGL VZ): berichte/zeugnisse/ber/BER-BVJ-AZ (Schul Z 507 a)(BGL VZ).md
+        - BER-BVJ-HJZ (Schul Z 505 b)(BQL FL): berichte/zeugnisse/ber/BER-BVJ-HJZ (Schul Z 505 b)(BQL FL).md
+        - BER-FHReife (Bescheinigung 2): berichte/zeugnisse/ber/BER-FHReife (Bescheinigung 2).md
+        - BER-FHReife-Bescheinigung (Schul Z 350)(10.07): berichte/zeugnisse/ber/BER-FHReife-Bescheinigung (Schul Z 350)(10.07).md
+        - BER-FOS-AZ (Schul Z 513)(05.06): berichte/zeugnisse/ber/BER-FOS-AZ (Schul Z 513)(05.06).md
+        - BER-FOS-FHReife (Schul Z 511)(05.06): berichte/zeugnisse/ber/BER-FOS-FHReife (Schul Z 511)(05.06).md
+        - BER-FOS-HJZ (Schul Z 510)(05.06): berichte/zeugnisse/ber/BER-FOS-HJZ (Schul Z 510)(05.06).md
+        - BER-FOS-MSA (Schul Z 512): berichte/zeugnisse/ber/BER-FOS-MSA (Schul Z 512).md
+        - BER-GES-JZ (Schul Z 200 - ohne Rückseite)(04.08): berichte/zeugnisse/ber/BER-GES-JZ (Schul Z 200 - ohne Rückseite)(04.08).md
+        - BER-GES-JZ (Schul Z 200)(04.08): berichte/zeugnisse/ber/BER-GES-JZ (Schul Z 200)(04.08).md
+        - BER-GS-JZ (Schul Z 103)(11.05) (französ. Gymn): berichte/zeugnisse/ber/BER-GS-JZ (Schul Z 103)(11.05) (französ. Gymn).md
+        - BER-GS-JZ (Schul Z 103)(11.05): berichte/zeugnisse/ber/BER-GS-JZ (Schul Z 103)(11.05).md
+        - BER-GY (Abi-18a - Mitteilungen zu den schriftlichen und mündlichen Prüfungen)(03.12): berichte/zeugnisse/ber/BER-GY (Abi-18a - Mitteilungen zu den schriftlichen und mündlichen Prüfungen)(03.12).md
+        - BER-GY (abi_4_berechnungsbogen)(03.12): berichte/zeugnisse/ber/BER-GY (abi_4_berechnungsbogen)(03.12).md
+        - BER-GY (abi_4_berechnungsbogen)(09.12): berichte/zeugnisse/ber/BER-GY (abi_4_berechnungsbogen)(09.12).md
+        - BER-GY (abi_4_berechnungsbogen)(10.16): berichte/zeugnisse/ber/BER-GY (abi_4_berechnungsbogen)(10.16).md
+        - BER-GY-ABI (Schul Z 306)(01.09): berichte/zeugnisse/ber/BER-GY-ABI (Schul Z 306)(01.09).md
+        - BER-GY-ABI (Schul Z 306)(09.12): berichte/zeugnisse/ber/BER-GY-ABI (Schul Z 306)(09.12).md
+        - BER-GY-ABI(Schul Z 306)(09.12)(Franz.Gymn): berichte/zeugnisse/ber/BER-GY-ABI(Schul Z 306)(09.12)(Franz.Gymn).md
+        - BER-GY-AZ (Schul Z 252)(01.07): berichte/zeugnisse/ber/BER-GY-AZ (Schul Z 252)(01.07).md
+        - BER-GY-AZ (Schul Z 301)(11.11): berichte/zeugnisse/ber/BER-GY-AZ (Schul Z 301)(11.11).md
+        - BER-GY-AZ (Schul Z 303)(12.07): berichte/zeugnisse/ber/BER-GY-AZ (Schul Z 303)(12.07).md
+        - BER-GY-FHReife-Bescheinigung (Schul Z 350): berichte/zeugnisse/ber/BER-GY-FHReife-Bescheinigung (Schul Z 350).md
+        - BER-GY-JZ (Schul Z 250)(05.08): berichte/zeugnisse/ber/BER-GY-JZ (Schul Z 250)(05.08).md
+        - BER-GY-JZ (Schul Z 251)(07.10): berichte/zeugnisse/ber/BER-GY-JZ (Schul Z 251)(07.10).md
+        - BER-GY-JZ (Schul Z 251)(11.19): berichte/zeugnisse/ber/BER-GY-JZ (Schul Z 251)(11.19).md
+        - BER-GY-JZ (Schul Z 300)(11.11): berichte/zeugnisse/ber/BER-GY-JZ (Schul Z 300)(11.11).md
+        - BER-GY-JZ (Schul Z 300): berichte/zeugnisse/ber/BER-GY-JZ (Schul Z 300).md
+        - BER-GY-JZ (Schul Z 302): berichte/zeugnisse/ber/BER-GY-JZ (Schul Z 302).md
+        - BER-GY-ZAS (Schul II 929-11a)(01.09): berichte/zeugnisse/ber/BER-GY-ZAS (Schul II 929-11a)(01.09).md
+        - BER-GY-ZAS (Schul II 929-9)(09.07): berichte/zeugnisse/ber/BER-GY-ZAS (Schul II 929-9)(09.07).md
+        - BER-GY-ZAS (Schul II 929-9)(12.08): berichte/zeugnisse/ber/BER-GY-ZAS (Schul II 929-9)(12.08).md
+        - BER-GY-ZAZ (Schul II 929-12)(12.08): berichte/zeugnisse/ber/BER-GY-ZAZ (Schul II 929-12)(12.08).md
+        - BER-KO (abi_4a_berechnungsbogen_kollegs)(03.12): berichte/zeugnisse/ber/BER-KO (abi_4a_berechnungsbogen_kollegs)(03.12).md
+        - BER-KO-ABI (Schul Z 323)(03.11): berichte/zeugnisse/ber/BER-KO-ABI (Schul Z 323)(03.11).md
+        - BER-KO-ABI (Schul Z 323): berichte/zeugnisse/ber/BER-KO-ABI (Schul Z 323).md
+        - BER-KO-ABI (Schul Z 324)(02.11): berichte/zeugnisse/ber/BER-KO-ABI (Schul Z 324)(02.11).md
+        - BER-KO-ABI (Schul Z 324): berichte/zeugnisse/ber/BER-KO-ABI (Schul Z 324).md
+        - BER-KO-AS (Schul Z 320)(06.07): berichte/zeugnisse/ber/BER-KO-AS (Schul Z 320)(06.07).md
+        - BER-KO-AS (Schul Z 320a-b)(03.11): berichte/zeugnisse/ber/BER-KO-AS (Schul Z 320a-b)(03.11).md
+        - BER-KO-AS (Schul Z 322)(03.11): berichte/zeugnisse/ber/BER-KO-AS (Schul Z 322)(03.11).md
+        - BER-KO-AS (Schul Z 322): berichte/zeugnisse/ber/BER-KO-AS (Schul Z 322).md
+        - BER-KO-AZ (Schul Z 321)(03.11): berichte/zeugnisse/ber/BER-KO-AZ (Schul Z 321)(03.11).md
+        - BER-KO-AZ (Schul Z 321): berichte/zeugnisse/ber/BER-KO-AZ (Schul Z 321).md
+        - BER-KO-ZAS (Schul Z 371)(02.12): berichte/zeugnisse/ber/BER-KO-ZAS (Schul Z 371)(02.12).md
+        - BER-RS-AS (Schul Z 240)(03.08): berichte/zeugnisse/ber/BER-RS-AS (Schul Z 240)(03.08).md
+        - BER-RS-AS (Schul Z 241)(07.10): berichte/zeugnisse/ber/BER-RS-AS (Schul Z 241)(07.10).md
+        - BER-RS-AZ (Schul Z 242)(06.08): berichte/zeugnisse/ber/BER-RS-AZ (Schul Z 242)(06.08).md
+        - BER-RS-AZ (Schul Z 242)(07.05): berichte/zeugnisse/ber/BER-RS-AZ (Schul Z 242)(07.05).md
+        - BER-Schul Z 102 (11.10): berichte/zeugnisse/ber/BER-Schul Z 102 (11.10).md
+        - BER-Schul Z 202 (07.10): berichte/zeugnisse/ber/BER-Schul Z 202 (07.10).md
+        - BER-Schul Z 240 (09.17): berichte/zeugnisse/ber/BER-Schul Z 240 (09.17).md
+        - BER-Schul Z 250 (02.15): berichte/zeugnisse/ber/BER-Schul Z 250 (02.15).md
+        - BER-Schul Z 250 (11.19): berichte/zeugnisse/ber/BER-Schul Z 250 (11.19).md
+        - BER-Schul Z 250 Co (04.21): berichte/zeugnisse/ber/BER-Schul Z 250 Co (04.21).md
+        - BER-Schul Z 251b (05.16): berichte/zeugnisse/ber/BER-Schul Z 251b (05.16).md
+        - BER-Schul Z 255 (09.17): berichte/zeugnisse/ber/BER-Schul Z 255 (09.17).md
+        - BER-Schul Z 255 (10.18): berichte/zeugnisse/ber/BER-Schul Z 255 (10.18).md
+        - BER-Schul Z 255 (2019.2020): berichte/zeugnisse/ber/BER-Schul Z 255 (2019.2020).md
+        - BER-Schul Z 255 (2020.2021): berichte/zeugnisse/ber/BER-Schul Z 255 (2020.2021).md
+        - BER-Schul Z 256 (10.18): berichte/zeugnisse/ber/BER-Schul Z 256 (10.18).md
+        - BER-Schul Z 256 (2019.2020): berichte/zeugnisse/ber/BER-Schul Z 256 (2019.2020).md
+        - BER-Schul Z 256 (2020.2021): berichte/zeugnisse/ber/BER-Schul Z 256 (2020.2021).md
+        - BER-Schul Z 300 (10.18): berichte/zeugnisse/ber/BER-Schul Z 300 (10.18).md
+        - BER-Schul Z 300 (11.19): berichte/zeugnisse/ber/BER-Schul Z 300 (11.19).md
+        - BER-Schul Z 301 (05.16): berichte/zeugnisse/ber/BER-Schul Z 301 (05.16).md
+        - BER-Schul Z 301 (11.18): berichte/zeugnisse/ber/BER-Schul Z 301 (11.18).md
+        - BER-Schul Z 301 (11.19): berichte/zeugnisse/ber/BER-Schul Z 301 (11.19).md
+        - BER-Schul Z 302 (10.18): berichte/zeugnisse/ber/BER-Schul Z 302 (10.18).md
+        - BER-Schul Z 302 (11.19): berichte/zeugnisse/ber/BER-Schul Z 302 (11.19).md
+        - BER-Schul Z 302 (12.07): berichte/zeugnisse/ber/BER-Schul Z 302 (12.07).md
+        - BER-Schul Z 303 (05.16): berichte/zeugnisse/ber/BER-Schul Z 303 (05.16).md
+        - BER-Schul Z 303 (10.18): berichte/zeugnisse/ber/BER-Schul Z 303 (10.18).md
+        - BER-Schul Z 303 (11.19): berichte/zeugnisse/ber/BER-Schul Z 303 (11.19).md
+        - BER-Schul Z 306 (04.21)(FG): berichte/zeugnisse/ber/BER-Schul Z 306 (04.21)(FG).md
+        - BER-Schul Z 306 (04.21): berichte/zeugnisse/ber/BER-Schul Z 306 (04.21).md
+        - BER-Schul Z 306 (05.16): berichte/zeugnisse/ber/BER-Schul Z 306 (05.16).md
+        - BER-Schul Z 306 (11.18): berichte/zeugnisse/ber/BER-Schul Z 306 (11.18).md
+        - BER-Schul Z 306 (11.19)(FG): berichte/zeugnisse/ber/BER-Schul Z 306 (11.19)(FG).md
+        - BER-Schul Z 306 (11.19): berichte/zeugnisse/ber/BER-Schul Z 306 (11.19).md
+        - BER-Schul Z 324 (03.16): berichte/zeugnisse/ber/BER-Schul Z 324 (03.16).md
+        - BER-Schul Z 324 (11.19): berichte/zeugnisse/ber/BER-Schul Z 324 (11.19).md
+        - BER-Schul Z 350 (10.07): berichte/zeugnisse/ber/BER-Schul Z 350 (10.07).md
+        - BER-Schul Z 351 (10.18)_Kolleg: berichte/zeugnisse/ber/BER-Schul Z 351 (10.18)_Kolleg.md
+        - BER-Schul Z 351 (10.18)_Oberstufe: berichte/zeugnisse/ber/BER-Schul Z 351 (10.18)_Oberstufe.md
+        - BER-Schul Z 351 (11.19)_Kolleg: berichte/zeugnisse/ber/BER-Schul Z 351 (11.19)_Kolleg.md
+        - BER-Schul Z 351 (11.19)_Oberstufe: berichte/zeugnisse/ber/BER-Schul Z 351 (11.19)_Oberstufe.md
+        - BER-Schul Z 500 (09.19): berichte/zeugnisse/ber/BER-Schul Z 500 (09.19).md
+        - BER-Schul Z 501 (09.19): berichte/zeugnisse/ber/BER-Schul Z 501 (09.19).md
+        - BER-Schul Z 502 (09.19): berichte/zeugnisse/ber/BER-Schul Z 502 (09.19).md
+        - BER-Schul Z 503 (09.19): berichte/zeugnisse/ber/BER-Schul Z 503 (09.19).md
+        - BER-Schul Z 510 (12.13): berichte/zeugnisse/ber/BER-Schul Z 510 (12.13).md
+        - BER-Schul Z 520 (09.19): berichte/zeugnisse/ber/BER-Schul Z 520 (09.19).md
+        - BER-Schul Z 522 (09.19): berichte/zeugnisse/ber/BER-Schul Z 522 (09.19).md
+        - BER-Schul Z 523 (09.19): berichte/zeugnisse/ber/BER-Schul Z 523 (09.19).md
+        - BER-Schul Z 526 (09.19): berichte/zeugnisse/ber/BER-Schul Z 526 (09.19).md
+        - BER-Schul Z 534 (12.13): berichte/zeugnisse/ber/BER-Schul Z 534 (12.13).md
+        - BER-Schul Z 590 (12.19): berichte/zeugnisse/ber/BER-Schul Z 590 (12.19).md
+        - BER-Schul Z 591 (03.20): berichte/zeugnisse/ber/BER-Schul Z 591 (03.20).md
+        - BER-Schul Z 592 (03.20): berichte/zeugnisse/ber/BER-Schul Z 592 (03.20).md
+        - BER-Schul Z 592 (2019.2020): berichte/zeugnisse/ber/BER-Schul Z 592 (2019.2020).md
+        - BER-Schul Z 593 (10.20): berichte/zeugnisse/ber/BER-Schul Z 593 (10.20).md
+        - BER-Schul Z 593 (2019.2020): berichte/zeugnisse/ber/BER-Schul Z 593 (2019.2020).md
+        - BER-Schul Z 594 (12.19): berichte/zeugnisse/ber/BER-Schul Z 594 (12.19).md
+        - BER-Schul Z 600 (06.08): berichte/zeugnisse/ber/BER-Schul Z 600 (06.08).md
+        - BER-Schul Z 620 (09.18): berichte/zeugnisse/ber/BER-Schul Z 620 (09.18).md
+        - Schülerliste Berufsschulmatrix BS-BER mit Meldungen: berichte/zeugnisse/ber/Schülerliste Berufsschulmatrix BS-BER mit Meldungen.md
       - BRA: berichte/zeugnisse/bra_zeugnisse.md
       - MVP: berichte/zeugnisse/mvp_zeugnisse.md
       - NIE: berichte/zeugnisse/nie_zeugnisse.md
@@ -273,6 +423,9 @@ nav:
       - SHL: berichte/zeugnisse/shl_zeugnisse.md
       - THU: berichte/zeugnisse/thu_zeugnisse.md
     - Menü Schüler: 
+<<<<<<< HEAD
+      - Allgemein: berichte/02_schueler.md
+=======
       - Allgemein: berichte/schueler/02_schueler.md
       - Anmeldeschein (weiterführende Schulen): berichte/schueler/Anmeldeschein (weiterführende Schulen).md
       - Ausländerliste (nach Staatsangehörigkeiten): berichte/schueler/Ausländerliste (nach Staatsangehörigkeiten).md
@@ -376,101 +529,65 @@ nav:
       - Unfallanzeige (in Word ausfüllbar): berichte/schueler/Unfallanzeige (in Word ausfüllbar).md
       - Unfallanzeige (mit Erläuterungen): berichte/schueler/Unfallanzeige (mit Erläuterungen).md
       - Unfallanzeige: berichte/schueler/Unfallanzeige.md
+>>>>>>> f29c3da2ff33ece1a36aefd4ffa958d2a6b951d3
     - Menü Bewerber: berichte/03_bewerber.md
     - Menü Klassen: 
-      - Anwesenheitsliste für den Tag: berichte/klassen/Anwesenheitsliste für den Tag.md
-      - Anwesenheitsliste für ganzen Monat: berichte/klassen/Anwesenheitsliste für ganzen Monat.md
-      - Klassen (Fax an Betriebe der Schueler): berichte/klassen/Klassen (Fax an Betriebe der Schueler).md
-      - Klassenlehrerliste mit Räumen: berichte/klassen/Klassenlehrerliste mit Räumen.md
-      - Klassenlehrerliste: berichte/klassen/Klassenlehrerliste.md
-      - Klassenliste (Adressen Schüler und Eltern): berichte/klassen/Klassenliste (Adressen Schüler und Eltern).md
-      - Klassenliste (Betriebe mit Auszubildenden nach Gemeinden): berichte/klassen/Klassenliste (Betriebe mit Auszubildenden nach Gemeinden).md
-      - Klassenliste (Durchnittsnoten Abitur): berichte/klassen/Klassenliste (Durchnittsnoten Abitur).md
-      - Klassenliste (Fachleistungskurse): berichte/klassen/Klassenliste (Fachleistungskurse).md
-      - Klassenliste (Klassenlehrer mit Foto): berichte/klassen/Klassenliste (Klassenlehrer mit Foto).md
-      - Klassenliste (Probehalbjahr nicht bestanden): berichte/klassen/Klassenliste (Probehalbjahr nicht bestanden).md
-      - Klassenliste (Schüler mit Verhaltens- oder Mitarbeitsnoten blanko): berichte/klassen/Klassenliste (Schüler mit Verhaltens- oder Mitarbeitsnoten blanko).md
-      - Klassenliste (Schülerzahl nach Stufe und Berufsgruppe): berichte/klassen/Klassenliste (Schülerzahl nach Stufe und Berufsgruppe).md
-      - Klassenliste (Sorgeberechtigte Email): berichte/klassen/Klassenliste (Sorgeberechtigte Email).md
-      - Klassenliste (Sorgeberechtigte Mobil und Geburtsdatum): berichte/klassen/Klassenliste (Sorgeberechtigte Mobil und Geburtsdatum).md
-      - Klassenliste (Sorgeberechtigte Mobil): berichte/klassen/Klassenliste (Sorgeberechtigte Mobil).md
-      - Klassenliste (Sorgeberechtigte und Geburtsdatum): berichte/klassen/Klassenliste (Sorgeberechtigte und Geburtsdatum).md
-      - Klassenliste (Zensurenstatistik nach Noten): berichte/klassen/Klassenliste (Zensurenstatistik nach Noten).md
-      - Klassenliste (Zensurenstatistik nach Punkten): berichte/klassen/Klassenliste (Zensurenstatistik nach Punkten).md
-      - Klassenliste (ausländische Schüler): berichte/klassen/Klassenliste (ausländische Schüler).md
-      - Klassenliste (inklusive Zusatzklasse): berichte/klassen/Klassenliste (inklusive Zusatzklasse).md
-      - Klassenliste (mit Bemerkungstext und Telefonnummer): berichte/klassen/Klassenliste (mit Bemerkungstext und Telefonnummer).md
-      - Klassenliste (mit Elternsprechern und Adressen): berichte/klassen/Klassenliste (mit Elternsprechern und Adressen).md
-      - Klassenliste (mit Mandantenbemerkung und Unterschriften): berichte/klassen/Klassenliste (mit Mandantenbemerkung und Unterschriften).md
-      - Klassenliste (welche Bewerber ist Wiederholer): berichte/klassen/Klassenliste (welche Bewerber ist Wiederholer).md
-      - Klassenliste Berufsschulmatrix (4-jährig): berichte/klassen/Klassenliste Berufsschulmatrix (4-jährig).md
-      - Klassenliste Berufsschulmatrix BS-BER mit Meldungen (inkl. Ausgeschulten): berichte/klassen/Klassenliste Berufsschulmatrix BS-BER mit Meldungen (inkl. Ausgeschulten).md
-      - Klassenliste Berufsschulmatrix BS-BER mit Meldungen: berichte/klassen/Klassenliste Berufsschulmatrix BS-BER mit Meldungen.md
-      - Klassenliste Berufsschulmatrix mit Meldungen (4-jährig): berichte/klassen/Klassenliste Berufsschulmatrix mit Meldungen (4-jährig).md
-      - Klassenliste Berufsschulmatrix mit Meldungen (inkl. Ausgeschulten): berichte/klassen/Klassenliste Berufsschulmatrix mit Meldungen (inkl. Ausgeschulten).md
-      - Klassenliste Berufsschulmatrix mit Meldungen: berichte/klassen/Klassenliste Berufsschulmatrix mit Meldungen.md
-      - Klassenliste Berufsschulmatrix: berichte/klassen/Klassenliste Berufsschulmatrix.md
-      - Klassenliste Schüler mit Betrieben und Geburtsdatum: berichte/klassen/Klassenliste Schüler mit Betrieben und Geburtsdatum.md
-      - Klassenliste Schüler mit Betrieben und Mobiltelefon: berichte/klassen/Klassenliste Schüler mit Betrieben und Mobiltelefon.md
-      - Klassenliste Schüler mit Betrieben, Beruf und Geburtsdatum: berichte/klassen/Klassenliste Schüler mit Betrieben, Beruf und Geburtsdatum.md
-      - Klassenliste Schüler mit Betrieben: berichte/klassen/Klassenliste Schüler mit Betrieben.md
-      - Klassenliste Schüler-Notenmatirx: berichte/klassen/Klassenliste Schüler-Notenmatirx.md
-      - Klassenliste Schüler-Notenmatrix (Querformat): berichte/klassen/Klassenliste Schüler-Notenmatrix (Querformat).md
-      - Klassenliste Schüler-Notenmatrix (Querformat-Durchschnitt): berichte/klassen/Klassenliste Schüler-Notenmatrix (Querformat-Durchschnitt).md
-      - Klassenliste Schüler-Notenmatrix (mit Fachniveau): berichte/klassen/Klassenliste Schüler-Notenmatrix (mit Fachniveau).md
-      - Klassenliste Schüler-Notenmatrix (mit Fehltagen): berichte/klassen/Klassenliste Schüler-Notenmatrix (mit Fehltagen).md
-      - Klassenliste Schüler-Notenmatrix (mit Verhalten und Mitarbeit): berichte/klassen/Klassenliste Schüler-Notenmatrix (mit Verhalten und Mitarbeit).md
-      - Klassenliste Teilzeit mit Kreis: berichte/klassen/Klassenliste Teilzeit mit Kreis.md
-      - Klassenliste Teilzeitklassen: berichte/klassen/Klassenliste Teilzeitklassen.md
-      - Klassenliste Vollzeit mit Kreis: berichte/klassen/Klassenliste Vollzeit mit Kreis.md
-      - Klassenliste Vollzeitklassen: berichte/klassen/Klassenliste Vollzeitklassen.md
-      - Klassenliste inkl. ausgeschulter Schüler: berichte/klassen/Klassenliste inkl. ausgeschulter Schüler.md
-      - Klassenliste mit Adressen: berichte/klassen/Klassenliste mit Adressen.md
-      - Klassenliste mit Arbeitsgemeinschaften: berichte/klassen/Klassenliste mit Arbeitsgemeinschaften.md
-      - Klassenliste mit Betrieben: berichte/klassen/Klassenliste mit Betrieben.md
-      - Klassenliste mit Eltern: berichte/klassen/Klassenliste mit Eltern.md
-      - Klassenliste mit Endnoten BBS: berichte/klassen/Klassenliste mit Endnoten BBS.md
-      - Klassenliste mit Endnoten: berichte/klassen/Klassenliste mit Endnoten.md
-      - Klassenliste mit Fächern: berichte/klassen/Klassenliste mit Fächern.md
-      - Klassenliste mit Geburtstagen: berichte/klassen/Klassenliste mit Geburtstagen.md
-      - Klassenliste mit Klassendaten: berichte/klassen/Klassenliste mit Klassendaten.md
-      - Klassenliste mit Klassensprechern: berichte/klassen/Klassenliste mit Klassensprechern.md
-      - Klassenliste mit Schülersummendaten (Klassenstufe und Klassenlehrer): berichte/klassen/Klassenliste mit Schülersummendaten (Klassenstufe und Klassenlehrer).md
-      - Klassenliste mit Schülersummendaten (Religion und Fremdsprachen): berichte/klassen/Klassenliste mit Schülersummendaten (Religion und Fremdsprachen).md
-      - Klassenliste mit Schülersummendaten (Religion): berichte/klassen/Klassenliste mit Schülersummendaten (Religion).md
-      - Klassenliste mit Schülersummendaten (Var 1): berichte/klassen/Klassenliste mit Schülersummendaten (Var 1).md
-      - Klassenliste mit Schülersummendaten: berichte/klassen/Klassenliste mit Schülersummendaten.md
-      - Klassenliste mit Schülerzahl: berichte/klassen/Klassenliste mit Schülerzahl.md
-      - Klassenliste mit Summendaten (DIN A5): berichte/klassen/Klassenliste mit Summendaten (DIN A5).md
-      - Klassenliste mit Summendaten (akt.FS-Folge): berichte/klassen/Klassenliste mit Summendaten (akt.FS-Folge).md
-      - Klassenliste mit Summendaten: berichte/klassen/Klassenliste mit Summendaten.md
-      - Klassenliste mit Wahlpflichtfächern: berichte/klassen/Klassenliste mit Wahlpflichtfächern.md
-      - Klassenliste mit ausgeschulten Schülern: berichte/klassen/Klassenliste mit ausgeschulten Schülern.md
-      - Klassenübersicht (Schülersumme nach Ausbildungsort): berichte/klassen/Klassenübersicht (Schülersumme nach Ausbildungsort).md
-      - Notenübersicht Endnoten unterschiedlich: berichte/klassen/Notenübersicht Endnoten unterschiedlich.md
-      - Notenübersicht Endnoten: berichte/klassen/Notenübersicht Endnoten.md
-      - Prüfungsliste für Fachoberschulen (9.82): berichte/klassen/Prüfungsliste für Fachoberschulen (9.82).md
-      - Prüfungsliste: berichte/klassen/Prüfungsliste.md
-      - Zeugnisliste BBS (nur für Minderjährige): berichte/klassen/Zeugnisliste BBS (nur für Minderjährige).md
-      - Zeugnisliste BBS: berichte/klassen/Zeugnisliste BBS.md
-      - Zeugnisliste nach Klassenfachtafel (DIN A4): berichte/klassen/Zeugnisliste nach Klassenfachtafel (DIN A4).md
-      - Zeugnisliste nach Schülerfächern (DIN A4 mit UA und Niveau): berichte/klassen/Zeugnisliste nach Schülerfächern (DIN A4 mit UA und Niveau).md
-      - Zeugnisliste nach Schülerfächern (DIN A4 nur aktive Schueler und Fächerkürzel): berichte/klassen/Zeugnisliste nach Schülerfächern (DIN A4 nur aktive Schueler und Fächerkürzel).md
-      - Zeugnisliste nach Schülerfächern (DIN A4 nur aktive Schueler): berichte/klassen/Zeugnisliste nach Schülerfächern (DIN A4 nur aktive Schueler).md 
-      - Zeugnisliste nach Schülerfächern (DIN A4): berichte/klassen/Zeugnisliste nach Schülerfächern (DIN A4).md
-      - Zeugnisliste nach Schülerfächern (Kopfnoten): berichte/klassen/Zeugnisliste nach Schülerfächern (Kopfnoten).md
-    - Kurslisten: 
-      - Anwesenheitsliste (Schüler einer Klasse nach Fach): berichte/kurslisten/Anwesenheitsliste (Schüler einer Klasse nach Fach).md
-      - Anwesenheitsliste (Schüler nach Fach): berichte/kurslisten/Anwesenheitsliste (Schüler nach Fach).md
-      - BAW-Abiturprüfung-Mündliche Prüfung: berichte/kurslisten/BAW-Abiturprüfung-Mündliche Prüfung.md
-      - Klassenliste mit Endnoten: berichte/kurslisten/Klassenliste mit Endnoten.md
-      - Klassenliste Teilzeit mit Kreis: berichte/kurslisten/Klassenliste Teilzeit mit Kreis.md
-      - Klassenliste Vollzeit mit Kreis: berichte/kurslisten/Klassenliste Vollzeit mit Kreis.md
-      - Kursliste (Schüler-Kursart-Klasse-Lehrer): berichte/kurslisten/Kursliste (Schüler-Kursart-Klasse-Lehrer).md
-      - Kursliste (Zensurerfassung): berichte/kurslisten/Kursliste (Zensurerfassung).md
-      - Kursliste Namen: berichte/kurslisten/Kursliste Namen.md
-      - Kursliste Namen (mit Foto und Behinderung): berichte/kurslisten/Kursliste Namen (mit Foto und Behinderung).md
-      - Kursliste-Schüler mit Fachkombinationsnummer (Oberstufe): berichte/kurslisten/Kursliste-Schüler mit Fachkombinationsnummer (Oberstufe).md    
+      - Klassenberichte: 
+        - Gesammelt: berichte/klassen/04.01_klassen.md
+        - Klassen (Fax an Betriebe der Schueler): berichte/klassen/Klassen (Fax an Betriebe der Schueler).md
+        - Klassenlehrerliste mit Räumen: berichte/klassen/Klassenlehrerliste mit Räumen.md
+        - Klassenliste (Adressen Schüler und Eltern): berichte/klassen/Klassenliste (Adressen Schüler und Eltern).md
+        - Klassenliste (Betriebe mit Auszubildenden nach Gemeinden): berichte/klassen/Klassenliste (Betriebe mit Auszubildenden nach Gemeinden).md
+        - Klassenliste (Durchnittsnoten Abitur): berichte/klassen/Klassenliste (Durchnittsnoten Abitur).md
+        - Klassenliste (Fachleistungskurse): berichte/klassen/Klassenliste (Fachleistungskurse).md
+        - Klassenliste (Klassenlehrer mit Foto): berichte/klassen/Klassenliste (Klassenlehrer mit Foto).md
+        - Klassenliste (Schüler mit Verhaltens- oder Mitarbeitsnoten blanko): berichte/klassen/Klassenliste (Schüler mit Verhaltens- oder Mitarbeitsnoten blanko).md
+        - Klassenliste (Schülerzahl nach Stufe und Berufsgruppe): berichte/klassen/Klassenliste (Schülerzahl nach Stufe und Berufsgruppe).md
+        - Klassenliste (Sorgeberechtigte Email): berichte/klassen/Klassenliste (Sorgeberechtigte Email).md
+        - Klassenliste (Sorgeberechtigte Mobil und Geburtsdatum): berichte/klassen/Klassenliste (Sorgeberechtigte Mobil und Geburtsdatum).md
+        - Klassenliste (Sorgeberechtigte Mobil): berichte/klassen/Klassenliste (Sorgeberechtigte Mobil).md
+        - Klassenliste (ausländische Schüler): berichte/klassen/Klassenliste (ausländische Schüler).md
+        - Klassenliste (inklusive Zusatzklasse): berichte/klassen/Klassenliste (inklusive Zusatzklasse).md
+        - Klassenliste (mit Elternsprechern und Adressen): berichte/klassen/Klassenliste (mit Elternsprechern und Adressen).md
+        - Klassenliste (welche Bewerber ist Wiederholer): berichte/klassen/Klassenliste (welche Bewerber ist Wiederholer).md
+        - Klassenliste Berufsschulmatrix (4-jährig): berichte/klassen/Klassenliste Berufsschulmatrix (4-jährig).md
+        - Klassenliste Berufsschulmatrix BS-BER mit Meldungen (inkl. Ausgeschulten): berichte/klassen/Klassenliste Berufsschulmatrix BS-BER mit Meldungen (inkl. Ausgeschulten).md
+        - Klassenliste Berufsschulmatrix BS-BER mit Meldungen: berichte/klassen/Klassenliste Berufsschulmatrix BS-BER mit Meldungen.md
+        - Klassenliste Berufsschulmatrix mit Meldungen (4-jährig): berichte/klassen/Klassenliste Berufsschulmatrix mit Meldungen (4-jährig).md
+        - Klassenliste Berufsschulmatrix mit Meldungen (inkl. Ausgeschulten): berichte/klassen/Klassenliste Berufsschulmatrix mit Meldungen (inkl. Ausgeschulten).md
+        - Klassenliste Berufsschulmatrix mit Meldungen: berichte/klassen/Klassenliste Berufsschulmatrix mit Meldungen.md
+        - Klassenliste Berufsschulmatrix: berichte/klassen/Klassenliste Berufsschulmatrix.md
+        - Klassenliste (Zensurenstatistik nach Noten): berichte/klassen/Klassenliste (Zensurenstatistik nach Noten).md
+        - Klassenliste (Zensurenstatistik nach Punkten): berichte/klassen/Klassenliste (Zensurenstatistik nach Punkten).md
+        - Klassenliste (mit Mandantenbemerkung und Unterschriften): berichte/klassen/Klassenliste (mit Mandantenbemerkung und Unterschriften).md
+        - Klassenliste Schüler mit Betrieben, Beruf und Geburtsdatum: berichte/klassen/Klassenliste Schüler mit Betrieben, Beruf und Geburtsdatum.md
+        - Klassenliste Schüler-Notenmatrix (Querformat): berichte/klassen/Klassenliste Schüler-Notenmatrix (Querformat).md
+        - Klassenliste Schüler-Notenmatrix (Querformat-Durchschnitt): berichte/klassen/Klassenliste Schüler-Notenmatrix (Querformat-Durchschnitt).md
+        - Klassenliste Schüler-Notenmatrix (mit Fachniveau): berichte/klassen/Klassenliste Schüler-Notenmatrix (mit Fachniveau).md
+        - Klassenliste Schüler-Notenmatrix (mit Verhalten und Mitarbeit): berichte/klassen/Klassenliste Schüler-Notenmatrix (mit Verhalten und Mitarbeit).md
+        - Klassenliste Teilzeit mit Kreis: berichte/klassen/Klassenliste Teilzeit mit Kreis.md
+        - Klassenliste Vollzeit mit Kreis: berichte/klassen/Klassenliste Vollzeit mit Kreis.md
+        - Klassenliste inkl. ausgeschulter Schüler: berichte/klassen/Klassenliste inkl. ausgeschulter Schüler.md
+        - Klassenliste mit Arbeitsgemeinschaften: berichte/klassen/Klassenliste mit Arbeitsgemeinschaften.md
+        - Klassenliste mit Fächern: berichte/klassen/Klassenliste mit Fächern.md
+        - Klassenliste mit Klassensprechern: berichte/klassen/Klassenliste mit Klassensprechern.md
+        - Klassenliste mit Schülersummendaten (Klassenstufe und Klassenlehrer): berichte/klassen/Klassenliste mit Schülersummendaten (Klassenstufe und Klassenlehrer).md
+        - Klassenliste mit Schülersummendaten (Religion und Fremdsprachen): berichte/klassen/Klassenliste mit Schülersummendaten (Religion und Fremdsprachen).md
+        - Klassenliste mit Schülersummendaten (Religion): berichte/klassen/Klassenliste mit Schülersummendaten (Religion).md
+        - Klassenliste mit Schülersummendaten (Var 1): berichte/klassen/Klassenliste mit Schülersummendaten (Var 1).md
+        - Klassenliste mit Summendaten (DIN A5): berichte/klassen/Klassenliste mit Summendaten (DIN A5).md
+        - Klassenliste mit Summendaten: berichte/klassen/Klassenliste mit Summendaten.md
+        - Klassenübersicht (Schülersumme nach Ausbildungsort): berichte/klassen/Klassenübersicht (Schülersumme nach Ausbildungsort).md
+        - Notenübersicht Endnoten unterschiedlich: berichte/klassen/Notenübersicht Endnoten unterschiedlich.md
+        - Notenübersicht Endnoten: Notenübersicht Endnoten.md
+        - Prüfungsliste für Fachoberschulen (9.82): berichte/klassen/Prüfungsliste für Fachoberschulen (9.82).md
+        - Prüfungsliste: berichte/klassen/berichte/klassen/Prüfungsliste.md
+        - Zeugnisliste nach Klassenfachtafel (DIN A4): berichte/klassen/Zeugnisliste nach Klassenfachtafel (DIN A4).md
+        - Zeugnisliste nach Schülerfächern (DIN A4 mit UA und Niveau): berichte/klassen/Zeugnisliste nach Schülerfächern (DIN A4 mit UA und Niveau).md
+        - Zeugnisliste nach Schülerfächern (DIN A4 nur aktive Schueler und Fächerkürzel): berichte/klassen/Zeugnisliste nach Schülerfächern (DIN A4 nur aktive Schueler und Fächerkürzel).md
+        - Zeugnisliste nach Schülerfächern (DIN A4): berichte/klassen/Zeugnisliste nach Schülerfächern (DIN A4).md
+        - Zeugnisliste nach Schülerfächern (Kopfnoten): berichte/klassen/Zeugnisliste nach Schülerfächern (Kopfnoten).md
+      - Kurslisten: berichte/04.02_kurslisten.md
     - Menü Lehrer: berichte/05_lehrer.md
     - Menü Mandanten: berichte/06_mandanten.md
     - Menü Personen: berichte/07_personen.md
