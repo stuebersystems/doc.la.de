@@ -1,6 +1,13 @@
 # BER-ISS.GES (Schul Z 213)(11.19).rpt
 
+[![Prüfungsnoten][1] "Prüfungsnotenbereich"
+[![Prüfungsnoten][2] "Noten im Verzeichnis anlegen"
+
 Schul Z 213 – Zeugniss der ISS (Integrierte Gesamtschule) und GES (Gesamtschule)
+
+## Ausdruck
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 ## Zugang/Abgang
 
@@ -61,10 +68,6 @@ Der Prüfungsvorsitzende muss im entsprechenden Zeitraum unter `Schüler > Zeugn
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
-
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 ## Arbeits- und Sozialverhalten
 
@@ -148,13 +151,13 @@ Für allen anderen Fächer (die nicht leistungsdifferenzierten Fächer) wird gru
 Folgende Fachstati dürfen im Zeugnisdruck für die Prüfungsfächer verwendet werden:
 
 Kürzel|Schlüssel|Zeugnisbereich
--|-
+-|-|-
 1PF|1PF|1. Prüfungsfach
 2PF|2PF|2. Prüfungsfach
 3PF|3PF|3. Prüfungsfach
 4PF|4PF|4. Prüfungsfach
 
-Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das Schlüsselverzeichnis > Fachstatus. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis `Fachtafeln` den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
 Die Noten der Prüfungsfächer erfassen Sie bitte wie folgt:
 
@@ -163,6 +166,33 @@ Note|Eintragung
 Gesamtnote| Endnote (gesamt)
 Mdl. Note|schriftliche Note 2
 Schriftl. Note|schriftliche Note 1
+
+### Prüfsnoten
+
+`Extras > Schlüsselverzeichnisse > Noten`
+`Schüler > Zeugnis > Leistungen > Endnote (gesamt)`
+
+[1]:/assets/images/Berlin/213.001.png
+
+Da die restlichen Noten in Form von Punkten (01-15) erfasst werden, die Prüfungsnoten aber als Noten (1-6) ausgegeben werden sollen, gehen Sie wie folgt vor:
+
+Legen Sie die Noten `P1` -`P6` unter `Extras > Schlüsselverzeichnisse > Noten` an.
+
+Kürzel|Bezeichnung|Notenart
+--|--|--
+P1| sehr gut|Füllwert
+P2| gut|Füllwert
+P3| befriedigend|Füllwert
+P4| |Füllwert
+P5| |Füllwert
+P6| |Füllwert
+
+[2]:/assets/images/Berlin/213.002.png
+
+**Verwenden Sie diese Noten `Schüler > Zeugnis > Leistungen` im Feld `Endnote (gesamt)`!**
+
+
+
 
 ## Beiblatt
 
