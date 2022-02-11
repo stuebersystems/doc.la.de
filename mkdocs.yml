@@ -423,7 +423,113 @@ nav:
       - SHL: berichte/zeugnisse/shl_zeugnisse.md
       - THU: berichte/zeugnisse/thu_zeugnisse.md
     - Menü Schüler: 
+<<<<<<< HEAD
       - Allgemein: berichte/02_schueler.md
+=======
+      - Allgemein: berichte/schueler/02_schueler.md
+      - Anmeldeschein (weiterführende Schulen): berichte/schueler/Anmeldeschein (weiterführende Schulen).md
+      - Ausländerliste (nach Staatsangehörigkeiten): berichte/schueler/Ausländerliste (nach Staatsangehörigkeiten).md
+      - BBS-Schulbescheinigung: berichte/schueler/BBS-Schulbescheinigung.md
+      - Bescheinigung zur Rentenversicherung (V0510 - 26062017): berichte/schueler/Bescheinigung zur Rentenversicherung (V0510 - 26062017).md
+      - Bescheinigung über Schulbesuch: berichte/schueler/Bescheinigung über Schulbesuch.md
+      - Bescheinigung über Schülerübergabe: berichte/schueler/Bescheinigung über Schülerübergabe.md
+      - Bescheinigung über den Schulbesuch zweifach: berichte/schueler/Bescheinigung über den Schulbesuch zweifach.md
+      - Bescheinigung über den Schulbesuch zweifach mit 31 Wochenstunden: berichte/schueler/Bescheinigung über den Schulbesuch zweifach mit 31 Wochenstunden.md
+      - Bescheinigung über den Schulbesuch zweifach(mit Wochenstunden): berichte/schueler/Bescheinigung über den Schulbesuch zweifach(mit Wochenstunden).md
+      - Fachwahl-Kursliste: berichte/schueler/Fachwahl-Kursliste.md
+      - KV09b Masernschutz: berichte/schueler/KV09b Masernschutz.md
+      - MVP-Schullastenausgleich-Teilzeit (nicht im Landkreis Mecklenburgische Seenplatte): berichte/schueler/MVP-Schullastenausgleich-Teilzeit (nicht im Landkreis Mecklenburgische Seenplatte).md
+      - MVP-Schullastenausgleich-Vollzeit (nicht im Landkreis Mecklenburgische Seenplatte): berichte/schueler/MVP-Schullastenausgleich-Vollzeit (nicht im Landkreis Mecklenburgische Seenplatte).md
+      - NRW-Schülerstammblatt: berichte/schueler/NRW-Schülerstammblatt.md
+      - RLP-BBS (Bescheinigung Niveaustufen): berichte/schueler/RLP-BBS (Bescheinigung Niveaustufen).md
+      - Rentenbescheid: berichte/schueler/Rentenbescheid.md
+      - Schulbescheinigung (Anmeldung weiterführende Schule): berichte/schueler/Schulbescheinigung (Anmeldung weiterführende Schule).md
+      - Schulbescheinigung (Elternwunsch Schulform): berichte/schueler/Schulbescheinigung (Elternwunsch Schulform).md
+      - Schulbescheinigung (Empfangsbestätigung): berichte/schueler/Schulbescheinigung (Empfangsbestätigung).md
+      - Schulbescheinigung (SHL - in Word ausfüllbar): berichte/schueler/Schulbescheinigung (SHL - in Word ausfüllbar).md
+      - Schulbescheinigung (SHL): berichte/schueler/Schulbescheinigung (SHL).md
+      - Schulbescheinigung (Schullaufbahnempfehlung): berichte/schueler/Schulbescheinigung (Schullaufbahnempfehlung).md
+      - Schulbescheinigung (Standard): berichte/schueler/Schulbescheinigung (Standard).md
+      - Schulbescheinigung (Vergangenheit mit Klasse): berichte/schueler/Schulbescheinigung (Vergangenheit mit Klasse).md
+      - Schulbescheinigung (mit Klasse und Ausbildungsdauer): berichte/schueler/Schulbescheinigung (mit Klasse und Ausbildungsdauer).md
+      - Schulbescheinigung (mit Klasse und vorauss Ende einfach): berichte/schueler/Schulbescheinigung (mit Klasse und vorauss Ende einfach).md
+      - Schulbescheinigung (mit Klasse und vorauss Ende zweifach): berichte/schueler/Schulbescheinigung (mit Klasse und vorauss Ende zweifach).md
+      - Schulbescheinigung (mit Klasse): berichte/schueler/Schulbescheinigung (mit Klasse).md
+      - Schulbescheinigung (Überweisung): berichte/schueler/Schulbescheinigung (Überweisung).md
+      - Schulbescheinigung BBS (mit Zugang-Abgang der Klasse): berichte/schueler/Schulbescheinigung BBS (mit Zugang-Abgang der Klasse).md
+      - Schulbescheinigung für die Vergangenheit: berichte/schueler/Schulbescheinigung für die Vergangenheit.md
+      - Schulbescheinigung zweifach: berichte/schueler/Schulbescheinigung zweifach.md
+      - Schullastenausgleich Teilzeit: berichte/schueler/Schullastenausgleich Teilzeit.md
+      - Schullastenausgleich Vollzeit: berichte/schueler/Schullastenausgleich Vollzeit.md
+      - Schullaufbahnempfehlung: berichte/schueler/Schullaufbahnempfehlung.md
+      - Schulzeitenbescheinigung (in Word ausfüllbar): berichte/schueler/Schulzeitenbescheinigung (in Word ausfüllbar).md
+      - Schulzeitenbescheinigung: berichte/schueler/Schulzeitenbescheinigung.md
+      - Schüler (Anzahl Schüler je Herkunftsschulen): berichte/schueler/Schüler (Anzahl Schüler je Herkunftsschulen).md
+      - Schüler (Anzeige Schulpflichtverletzung): berichte/schueler/Schüler (Anzeige Schulpflichtverletzung).md
+      - Schüler (Bescheinigung-Laufbahn): berichte/schueler/Schüler (Bescheinigung-Laufbahn).md
+      - Schüler (Nachmahnung): berichte/schueler/Schüler (Nachmahnung).md
+      - Schüler (gruppiert nach Herkunftsschulen): berichte/schueler/Schüler (gruppiert nach Herkunftsschulen).md
+      - Schüler BBS(Zeitraumübergreifende Notenübersicht): berichte/schueler/Schüler BBS(Zeitraumübergreifende Notenübersicht).md
+      - Schüler mit Herkunftsschulen u letzte Klasse: berichte/schueler/Schüler mit Herkunftsschulen u letzte Klasse.md
+      - Schüler mit Herkunftsschulen: berichte/schueler/Schüler mit Herkunftsschulen.md
+      - Schüler-Abi (Antrag mündliche Prüfung): berichte/schueler/Schüler-Abi (Antrag mündliche Prüfung).md
+      - Schüler-Abschlussbericht(Schulabgänger): berichte/schueler/Schüler-Abschlussbericht(Schulabgänger).md
+      - Schülerausweis ABS (52 X 74): berichte/schueler/Schülerausweis ABS (52 X 74).md
+      - Schülerausweis ABS: berichte/schueler/Schülerausweis ABS.md
+      - Schülerausweis BBS: berichte/schueler/Schülerausweis BBS.md
+      - Schülerausweis ohne Photo: berichte/schueler/Schülerausweis ohne Photo.md
+      - Schülerkarteikarte (DIN A5): berichte/schueler/Schülerkarteikarte (DIN A5).md
+      - Schülerkarteikarte: berichte/schueler/Schülerkarteikarte.md
+      - Schülerliste ( Klasse, Geburtsdaten, Adresse, Telefon): berichte/schueler/Schülerliste ( Klasse, Geburtsdaten, Adresse, Telefon).md
+      - Schülerliste ( Klasse, Geburtsdaten, Konfession, Geschlecht): berichte/schueler/Schülerliste ( Klasse, Geburtsdaten, Konfession, Geschlecht).md
+      - Schülerliste ( Klasse, Tutor, Merkmal B1, B2, B3, B4): berichte/schueler/Schülerliste ( Klasse, Tutor, Merkmal B1, B2, B3, B4).md
+      - Schülerliste (Anwesenheit Ags): berichte/schueler/Schülerliste (Anwesenheit Ags).md
+      - Schülerliste (Bafög): berichte/schueler/Schülerliste (Bafög).md
+      - Schülerliste (Einschulmerkmal1 sortiert nach Bewerber-Gesamtnote, Punkte, HF-Note): berichte/schueler/Schülerliste (Einschulmerkmal1 sortiert nach Bewerber-Gesamtnote, Punkte, HF-Note).md
+      - Schülerliste (Fehlzeiten nach Klasse gruppiert): berichte/schueler/Schülerliste (Fehlzeiten nach Klasse gruppiert).md
+      - Schülerliste (Fehlzeiten nach Schüler gruppiert): berichte/schueler/Schülerliste (Fehlzeiten nach Schüler gruppiert).md
+      - Schülerliste (Förderung): berichte/schueler/Schülerliste (Förderung).md
+      - Schülerliste (Klasse, Geburtsdatum und Geburtsland): berichte/schueler/Schülerliste (Klasse, Geburtsdatum und Geburtsland).md
+      - Schülerliste (Nachprüflinge): berichte/schueler/Schülerliste (Nachprüflinge).md
+      - Schülerliste (Tagebuch mit Betrieben): berichte/schueler/Schülerliste (Tagebuch mit Betrieben).md
+      - Schülerliste (gruppiert nach Berufen mit Wohnort): berichte/schueler/Schülerliste (gruppiert nach Berufen mit Wohnort).md
+      - Schülerliste (gruppiert nach Berufen): berichte/schueler/Schülerliste (gruppiert nach Berufen).md
+      - Schülerliste (gruppiert nach Betrieben): berichte/schueler/Schülerliste (gruppiert nach Betrieben).md
+      - Schülerliste (gruppiert nach Bildungsgängen): berichte/schueler/Schülerliste (gruppiert nach Bildungsgängen).md
+      - Schülerliste (mit Betrieben und Geburtsdatum): berichte/schueler/Schülerliste (mit Betrieben und Geburtsdatum).md
+      - Schülerliste (mit Betrieben): berichte/schueler/Schülerliste (mit Betrieben).md
+      - Schülerliste (mit Praxisbetrieben und Geburtsdatum): berichte/schueler/Schülerliste (mit Praxisbetrieben und Geburtsdatum).md
+      - Schülerliste (mit Prüfungsfächern inkl Lehrer): berichte/schueler/Schülerliste (mit Prüfungsfächern inkl Lehrer).md
+      - Schülerliste (mit Sorgeberechtigten deutsch): berichte/schueler/Schülerliste (mit Sorgeberechtigten deutsch).md
+      - Schülerliste (mit Sorgeberechtigten französisch): berichte/schueler/Schülerliste (mit Sorgeberechtigten französisch).md
+      - Schülerliste (mit Sorgeberechtigten): berichte/schueler/Schülerliste (mit Sorgeberechtigten).md
+      - Schülerliste (zeitraumübergreifende Fehlzeiten): berichte/schueler/Schülerliste (zeitraumübergreifende Fehlzeiten).md
+      - Schülerliste mit Behinderungsarten: berichte/schueler/Schülerliste mit Behinderungsarten.md
+      - Schülerliste mit Photos: berichte/schueler/Schülerliste mit Photos.md
+      - Schülerpersonalblatt (A5 - Laufbahn): berichte/schueler/Schülerpersonalblatt (A5 - Laufbahn).md
+      - Schülerpersonalblatt (mit Fremdsprachen)A5: berichte/schueler/Schülerpersonalblatt (mit Fremdsprachen)A5.md
+      - Schülerpersonalblatt (mit Fremdsprachenfolge): berichte/schueler/Schülerpersonalblatt (mit Fremdsprachenfolge).md
+      - Schülerpersonalblatt (mit Vorbildung und Herkunftsschule): berichte/schueler/Schülerpersonalblatt (mit Vorbildung und Herkunftsschule).md
+      - Schülerpersonalblatt (mit Vorbildung): berichte/schueler/Schülerpersonalblatt (mit Vorbildung).md
+      - Schülerpersonalblatt (nur Eltern und Vorbildung): berichte/schueler/Schülerpersonalblatt (nur Eltern und Vorbildung).md
+      - Schülerpersonalblatt (ohne Vorbildung): berichte/schueler/Schülerpersonalblatt (ohne Vorbildung).md
+      - Schülerpersonalblatt incl Schuleintritt (Betriebe -Querformat): berichte/schueler/Schülerpersonalblatt incl Schuleintritt (Betriebe -Querformat).md
+      - Schülerpersonalblatt incl Schuleintritt (Betriebe): berichte/schueler/Schülerpersonalblatt incl Schuleintritt (Betriebe).md
+      - Schülerpersonalblatt incl Schuleintritt (mit Vorbildung): berichte/schueler/Schülerpersonalblatt incl Schuleintritt (mit Vorbildung).md
+      - Schülerpersonalblatt incl Schuleintritt und -austritt (mit Vorbildung): berichte/schueler/Schülerpersonalblatt incl Schuleintritt und -austritt (mit Vorbildung).md
+      - Schülerstammblatt (Belegung der Arbeitsgemeinschaften): berichte/schueler/Schülerstammblatt (Belegung der Arbeitsgemeinschaften).md
+      - Schülerstammblatt BF 2seitig (mit Zensuren blanko): berichte/schueler/Schülerstammblatt BF 2seitig (mit Zensuren blanko).md
+      - Schülerstammblatt BGJ 2seitig (mit Zensuren blanko): berichte/schueler/Schülerstammblatt BGJ 2seitig (mit Zensuren blanko).md
+      - Schülerstammblatt BS 2seitig (mit Zensuren blanko): berichte/schueler/Schülerstammblatt BS 2seitig (mit Zensuren blanko).md
+      - Schülerstammblatt FO 2seitig (mit Zensuren blanko): berichte/schueler/Schülerstammblatt FO 2seitig (mit Zensuren blanko).md
+      - Schülerstammblatt FS 2seitig (mit Zensuren blanko): berichte/schueler/Schülerstammblatt FS 2seitig (mit Zensuren blanko).md
+      - Schülerstammblatt WG11 2seitig (mit Zensuren blanko): berichte/schueler/Schülerstammblatt WG11 2seitig (mit Zensuren blanko).md
+      - Schülerstammblatt WG12-13 2seitig (mit Zensuren blanko): berichte/schueler/Schülerstammblatt WG12-13 2seitig (mit Zensuren blanko).md
+      - Schülerüberweisung: berichte/schueler/Schülerüberweisung.md
+      - Unfallanzeige (in Word ausfüllbar): berichte/schueler/Unfallanzeige (in Word ausfüllbar).md
+      - Unfallanzeige (mit Erläuterungen): berichte/schueler/Unfallanzeige (mit Erläuterungen).md
+      - Unfallanzeige: berichte/schueler/Unfallanzeige.md
+>>>>>>> f29c3da2ff33ece1a36aefd4ffa958d2a6b951d3
     - Menü Bewerber: berichte/03_bewerber.md
     - Menü Klassen: 
       - Klassenberichte: 
