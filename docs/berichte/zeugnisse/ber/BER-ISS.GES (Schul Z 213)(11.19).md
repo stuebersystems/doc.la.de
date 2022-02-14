@@ -175,7 +175,7 @@ Schriftl. Note | schriftliche Note 1 | Note 1
 `Extras > Schlüsselverzeichnisse > Noten`
 `Schüler > Zeugnis > Leistungen > Endnote (gesamt)`
 
-[![Prüfungsnoten][1][1]
+[![Stelle im Zeugnis][1]][1]
 
 Da die restlichen Noten in Form von Punkten (01-15) erfasst werden, die Prüfungsnoten aber als Noten (1-6) ausgegeben werden sollen, gehen Sie wie folgt vor:
 
@@ -194,7 +194,7 @@ P6     | ungenügend   | 6         | Füllwert
 
     Im Zeugnis wird der `Notenwert` ausgegeben
 
-[![Prüfungsnoten][2][2]
+[![Prüfungsnoten][2]][2]
 
 **Verwenden Sie diese Noten `Schüler > Zeugnis > Leistungen` im Feld `Endnote (gesamt)`!**
 
