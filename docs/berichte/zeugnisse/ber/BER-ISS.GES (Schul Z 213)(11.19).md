@@ -1,9 +1,11 @@
 # BER-ISS.GES (Schul Z 213)(11.19).rpt
 
-[![Prüfungsnoten][1] "Prüfungsnotenbereich"
-[![Prüfungsnoten][2] "Noten im Verzeichnis anlegen"
+[1]:/assets/images/Berlin/Pruefungsnote1.png
+[2]:/assets/images/Berlin/Pruefungsnote2.png
 
 Schul Z 213 – Zeugniss der ISS (Integrierte Gesamtschule) und GES (Gesamtschule)
+
+Beispiel Schüler: Ludiwg, *BER-ISS.GES (Schul Z 213)(11.19) 2. HJ. 2021/2022
 
 ## Ausdruck
 
@@ -34,7 +36,7 @@ angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "K
 
 `Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
-Bitte tragen Sie in unter im Menü `? Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das Schlüsselverzeichnis > Sprachreferenzen.
+Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das Schlüsselverzeichnis > Sprachreferenzen.
 
 Mögliche Werte sind aktuell:
 
@@ -168,12 +170,12 @@ Gesamtnote     | Endnote (gesamt)    | Endnote2
 Mdl. Note      | schriftliche Note 2 | Note 2
 Schriftl. Note | schriftliche Note 1 | Note 1
 
-### Prüfsnoten
+### Prüfungsnoten
 
 `Extras > Schlüsselverzeichnisse > Noten`
 `Schüler > Zeugnis > Leistungen > Endnote (gesamt)`
 
-[1]:/assets/images/Berlin/213.001.png
+[![Prüfungsnoten][1][1]
 
 Da die restlichen Noten in Form von Punkten (01-15) erfasst werden, die Prüfungsnoten aber als Noten (1-6) ausgegeben werden sollen, gehen Sie wie folgt vor:
 
@@ -192,7 +194,7 @@ P6     | ungenügend   | 6         | Füllwert
 
     Im Zeugnis wird der `Notenwert` ausgegeben
 
-[2]:/assets/images/Berlin/213.002.png
+[![Prüfungsnoten][2][2]
 
 **Verwenden Sie diese Noten `Schüler > Zeugnis > Leistungen` im Feld `Endnote (gesamt)`!**
 
