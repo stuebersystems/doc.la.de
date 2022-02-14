@@ -20,8 +20,8 @@ Bitte tragen Sie beim Schüler unter `Schüler > Daten 2 > Zugang/Abgang > Zugan
 Bitte erfassen Sie dieses bei den Zeugnisbemerkungen. Die Ausgabe erfolgt durch den Eintrag in der Spalte "Merkmal" unter `Schlüsselverzeichnis > Zeugnisbemerkungen`.
 
 Merkmal | Bedeutung
---|--
-AG | Ergänzende Angebote
+------- | ---------
+AG      | Ergänzende Angebote
 
 ## Fremdsprachen
 
@@ -38,14 +38,14 @@ Bitte tragen Sie in unter im Menü `? Schüler > Daten 3 > Fremdsprachenfolge` i
 
 Mögliche Werte sind aktuell:
 
-Kürzel |Schlüssel |Bezeichnung
--|-|-
-A1 |A1 |Anfänger
-A2 |A2 |Grundlegende Kenntnisse
-B1 |B1| Fortgeschrittene Sprachverwendung
-B2 |B2 |Selbständige Sprachverwendung
-C1 |C1 |Fachkundige Sprachkenntnisse
-C2 |C2 |Annähernd muttersprachliche Kenntnisse
+Kürzel | Schlüssel | Bezeichnung
+------ | --------- | -----------
+A1     | A1        | Anfänger
+A2     | A2        | Grundlegende Kenntnisse
+B1     | B1        | Fortgeschrittene Sprachverwendung
+B2     | B2        | Selbständige Sprachverwendung
+C1     | C1        | Fachkundige Sprachkenntnisse
+C2     | C2        | Annähernd muttersprachliche Kenntnisse
 
 ## Latinum
 
@@ -76,10 +76,10 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 Um die korrekte Bemerkung über das Arbeits- und Sozialverhalten zu generieren, legen Sie, falls das Arbeits- und Sozialverhalten beurteilt werden soll, eine Zeugnisbemerkung  mit dem Merkmal „ASV1“, „ASV2“ oder „ASV12“ an. Damit wird die entsprechende Bemerkung generiert und ermittelt um welches Schuljahr es sich handelt, worauf sich Ihre Informationen über das „Arbeits- und Sozialverhalten“ beziehen, was für andere Zeugnisse relevant sein kann. Beachten Sie dabei:  
 
 Merkmal | Ausgabe im Bericht im HJ
---|--
-ASV1 | 1. HJ
-ASV2 | 2. HJ
-ASV12 | 1. und 2. HJ
+------- | ------------------------
+ASV1    | 1. HJ
+ASV2    | 2. HJ
+ASV12   | 1. und 2. HJ
 
 Wird das Arbeits- und Sozialverhalten des Schülers nicht beurteilt, weisen Sie dem Schüler keine Bemerkung mit dem Merkmal  „ASV1“, „ASV2“ oder „ASV12“ zu. Der entsprechende Vermerk wird auch dann ausgegeben."
 
@@ -89,11 +89,11 @@ Wird das Arbeits- und Sozialverhalten des Schülers nicht beurteilt, weisen Sie 
 
 Deutsch erhält eine Note für den "allgemeinen Teil", "schriftliche Leistungen" und eine "Gesamtnote". Tragen Sie daher im Menü `Schüler > Zeugnis > Leistungen` für das Fach "Deutsch" die Noten in folgende Felder:
 
-Note | Spalte
---|--
-Gesamtnote | Spalte "Endote"
-allgemeiner Teil | Spalte "Mündl. Note"
-schriftliche Leistungen |  Spalte "Schriftl. Note 4"
+Note                    | Spalte
+----------------------- | ------
+Gesamtnote              | Spalte "Endote"
+allgemeiner Teil        | Spalte "Mündl. Note"
+schriftliche Leistungen | Spalte "Schriftl. Note 4"
 
 ## vorgegebene Positionierung der Fächer
 
@@ -101,28 +101,29 @@ schriftliche Leistungen |  Spalte "Schriftl. Note 4"
 
 Um Noten den jeweiligen Fächer zuzuordnen, verwenden Sie für die Fächer folgende Positionen:
 
-Fach | Position
---|--
-Deutsch | 1
-1.Fremdsprache |2
-Gesellschaftswissenschaften |  3
-Ethik | 4
-Geographie | 5
-Geschichte | 6
-Politische Bildung | 7
-Witschaft/Arbeit/Technik | 8
-Mathematik|9
-Naturwissenschaften | 10
-Biologie|11
-Chemie|12
-Physik|13
-Kunst|14
-Musik|15
-Sport|16
-Wahlpflichtfach  | 30
-Wahlpflichtfach | 31
-Wahlpflichtfach | 32
-Wahlpflichtfach | 33
+Position | Fach
+-------- | -------
+1        | Deutsch
+2        | 1.Fremdsprache
+3        | Gesellschaftswissenschaften
+4        | Ethik
+5        | Geographie
+6        | Geschichte
+7        | Politische Bildung
+8        | Witschaft/Arbeit/Technik
+9        | Mathematik
+10       | Naturwissenschaften
+11       | Biologie
+12       | Chemie
+13       | Physik
+14       | Kunst
+15       | Musik
+16       | Sport
+30       | Wahlpflichtfach
+31       | Wahlpflichtfach
+32       | Wahlpflichtfach
+33       | Wahlpflichtfach
+34       | Wahlpflichtfach
 
 Achtung: Eine falsche Positionierung der Fächer ordnet den Fächern eine falsche oder keine Note zu. Das Fach wird trotzdem angezeigt.
 
@@ -137,10 +138,10 @@ Für die leistungsdifferenzierten Fächer wird die Note anhand der vorgegebenen 
 Verwenden Sie bitte folgende Unterrichtsart:
 `Extras > Schlüsselverzeichnisse > Unterrichstarten`
 
-Kürzel|Schlüssel|Zeugnisbereich
--|-
-ER|ER|ER-Niveau
-GR|GR|GR-Niveau
+Kürzel | Schlüssel | Zeugnisbereich
+------ | --------- | --------------
+ER     | ER        | ER-Niveau
+GR     |GR         | GR-Niveau
 
 Für allen anderen Fächer (die nicht leistungsdifferenzierten Fächer) wird grundsätzlich die Note des ER-Niveau genutzt.
 
@@ -150,22 +151,22 @@ Für allen anderen Fächer (die nicht leistungsdifferenzierten Fächer) wird gru
 
 Folgende Fachstati dürfen im Zeugnisdruck für die Prüfungsfächer verwendet werden:
 
-Kürzel|Schlüssel|Zeugnisbereich
--|-|-
-1PF|1PF|1. Prüfungsfach
-2PF|2PF|2. Prüfungsfach
-3PF|3PF|3. Prüfungsfach
-4PF|4PF|4. Prüfungsfach
+Kürzel | Schlüssel | Zeugnisbereich
+------ | --------- | --------------
+1PF    | 1PF       | 1. Prüfungsfach
+2PF    | 2PF       | 2. Prüfungsfach
+3PF    | 3PF       | 3. Prüfungsfach
+4PF    | 4PF       | 4. Prüfungsfach
 
 Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis `Fachtafeln` den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
 Die Noten der Prüfungsfächer erfassen Sie bitte wie folgt:
 
-Note|Eintragung
--|-
-Gesamtnote| Endnote (gesamt)
-Mdl. Note|schriftliche Note 2
-Schriftl. Note|schriftliche Note 1
+Note           | Eintragung          | Datenbank
+-------------- | ------------------- | ---------
+Gesamtnote     | Endnote (gesamt)    | Endnote2
+Mdl. Note      | schriftliche Note 2 | Note 2
+Schriftl. Note | schriftliche Note 1 | Note 1
 
 ### Prüfsnoten
 
@@ -178,21 +179,22 @@ Da die restlichen Noten in Form von Punkten (01-15) erfasst werden, die Prüfung
 
 Legen Sie die Noten `P1` -`P6` unter `Extras > Schlüsselverzeichnisse > Noten` an.
 
-Kürzel|Bezeichnung|Notenart
---|--|--
-P1| sehr gut|Füllwert
-P2| gut|Füllwert
-P3| befriedigend|Füllwert
-P4| |Füllwert
-P5| |Füllwert
-P6| |Füllwert
+Kürzel | Bezeichnung  | Notenwert | Notenart
+------ | ------------ | --------- | --------
+P1     | sehr gut     | 1         | Füllwert
+P2     | gut          | 2         | Füllwert
+P3     | befriedigend | 3         | Füllwert
+P4     | ausreichend  | 4         | Füllwert
+P5     | mangelhaft   | 5         | Füllwert
+P6     | ungenügend   | 6         | Füllwert
+
+!!! info Wichtig
+
+    Im Zeugnis wird der `Notenwert` ausgegeben
 
 [2]:/assets/images/Berlin/213.002.png
 
 **Verwenden Sie diese Noten `Schüler > Zeugnis > Leistungen` im Feld `Endnote (gesamt)`!**
-
-
-
 
 ## Beiblatt
 
@@ -200,11 +202,11 @@ P6| |Füllwert
 
 Um die korrekte Ausgabe zum Beiblatt zu generieren, legen Sie eine Zeugnisbemerkung  mit dem Merkmal „Beiblatt“ an. Damit wird generiert, ob das Beiblatt ausgegeben wird oder nicht.
 
-Merkmal|Bedeutung
--|-
-Beiblatt|Beiblatt ist Bestandteil des Zeugnisses
+Merkmal  | Bedeutung
+-------- | ---------
+Beiblatt | Beiblatt ist Bestandteil des Zeugnisses
 
-Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses: ☐ ja ☐ nein1). wird wie folgt gesteuert:
+Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses: ☐ ja ☐ nein). wird wie folgt gesteuert:
 
 Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.” Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
 
@@ -218,18 +220,27 @@ Für die Ausgabe des Versetzungstextes in Bezug auf die Berechtigung zum Überga
 
 `Abitur > Zeugnisbemerkungen` oder `Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü `Abitur > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
-Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B. So `<<hier steht Ihr Platzhalter>>`. 
+Bemerkungen Legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü `Abitur > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.
+Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B. So `<<hier steht Ihr Platzhalter>>`.
 
-Möglich sind:
+### Platzhalter
 
-Platzhalter | Ausgabe im Bericht
---|--
-`<<Name>>` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-`<<Nachname>>` | Nachname des Schülers
-`<<Vorname>>` | Vorname, Vorname2 und Namenszusatz des Schülers
-`<<Anrede1>>` | Er/Sie (je nach Geschlecht des Schülers)
-`<<Anrede2>>` | er/sie (je nach Geschlecht des Schülers)
-`<<Anrede3>>` | seine/ihre (je nach Geschlecht des Schülers)
-`<<Anrede4>>` | ihm/ihr (je nach Geschlecht des Schülers)
-`<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
+Platzhalter sind geschlechtsspezifisch entsprechend dem Eintrag `Schüler > Daten 1 > Geschlecht`.
+
+Platzhalter                     | Ausgabe im Bericht
+------------------------------- | ------------------
+`<<Name>>`                      | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+`<<Nachname>>`                  | Nachname des Schülers
+`<<Vorname>>`                   | Vorname des Schülers
+`<<VornameV>>`                  | Vorname und 2.Vorname des Schülers
+`<<NachnameV>>`                 | Namenszusatz und Nachname des Schülers
+`<<Er_Sie>>`                    | Er/Sie (je nach Geschlecht des Schülers)
+`<<er_sie>>`                    | er/sie (je nach Geschlecht des Schülers)
+`<<Seine_Ihre>>`                | Seine/Ihre (je nach Geschlecht des Schülers)
+`<<seine_ihre>>`                | seine/ihre (je nach Geschlecht des Schülers)
+`<<Ihm_Ihr>>`                   | Ihm/Ihr (je nach Geschlecht des Schülers)
+`<<Ihm_Ihr>>`                   | ihm/ihr (je nach Geschlecht des Schülers)
+`<<DerSchueler_DieSchuelerin>>` | Der/Die (je nach Geschlecht des Schülers)
+`<<derSchueler_dieSchuelerin>>` | der/die (je nach Geschlecht des Schülers)
+`<<DemSchueler_DerSchuelerin>>` | Dem/Der (je nach Geschlecht des Schülers)
+`<<demSchueler_derSchuelerin>>` | dem/der (je nach Geschlecht des Schülers)
