@@ -43,3 +43,5 @@ Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details
 `Klassen > Daten > Klassenart`
 
 Im Menü `Klassen > Daten` muss in den entsprechenden Zeiträumen entweder "Oberstufenjahrgang (Nur Kurse)" (für Vorkurs / E-Phase) bzw. "Oberstufenjahrgang (Grund- und Leistungskurse)" (für Kurshalbjahre) hinterlegt sein.
+
+
