@@ -2,6 +2,9 @@
 
 Schul Z 591 – Abschlusszeugnis der Integrierten Berufsausbildungsvorbereitung (Vollzeit) – (4 Seiten) – (03.20)
 
+[1]:/assets/images/Berlin/zeugnis01.png "SchulZ591"
+[2]:/assets/images/Berlin/zeugnis02.png "SchulZ591"
+
 [![Schul Z 591 – (03.20)][1]][1]
 [![Schul Z 591 – (03.20)][2]][2]
 
