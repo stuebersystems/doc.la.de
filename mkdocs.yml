@@ -685,10 +685,29 @@ nav:
       - Schülerliste (inaktive Schüler mit Ausleihvorgängen): berichte/mandanten/Schülerliste (inaktive Schüler mit Ausleihvorgängen).md
     - Menü Personen: 
       - Personenliste mit Adressen: berichte/personen/Personenliste mit Adressen.md
-    - Menü Sorgeberechtigte: berichte/08_sorgeberechtigte.md
-    - Menü Betriebe: berichte/09_betriebe.md
-    - Menü Schulen: berichte/10_schulen.md
-    - Menü Adressen: berichte/11_adressen.md
+    - Menü Sorgeberechtigte: 
+      - Sorgeberechtigte (nur Funktion1 und Funktion2): berichte/sorgeberechtigte/Sorgeberechtigte (nur Funktion1 und Funktion2).md
+      - Sorgeberechtigte mit Kindern aller Zeiträume: berichte/sorgeberechtigte/Sorgeberechtigte mit Kindern aller Zeiträume.md
+      - Sorgeberechtigte mit Kindern im aktuellen Zeitraum: berichte/sorgeberechtigte/Sorgeberechtigte mit Kindern im aktuellen Zeitraum.md
+      - Sorgeberechtigte mit Kindern: berichte/sorgeberechtigte/Sorgeberechtigte mit Kindern.md
+      - Sorgeberechtigte nach Funktionen gruppiert: berichte/sorgeberechtigte/Sorgeberechtigte nach Funktionen gruppiert.md
+      - Sorgeberechtigte ohne Kinder im aktuellen Zeitraum: berichte/sorgeberechtigte/Sorgeberechtigte ohne Kinder im aktuellen Zeitraum.md
+      - Sorgeberechtigte: berichte/sorgeberechtigte/Sorgeberechtigte.md
+    - Menü Betriebe: 
+      - Betriebe (Ausbilderkontakte).rpt: berichte/betriebe/Betriebe (Ausbilderkontakte).rpt.md
+      - Betriebe (welche Betriebe haben Auszubildene).rpt: berichte/betriebe/Betriebe (welche Betriebe haben Auszubildene).rpt.md
+      - Betriebe mit Auszubildenden (Alle Zeiträume).rpt: berichte/betriebe/Betriebe mit Auszubildenden (Alle Zeiträume).rpt.md
+      - Betriebe mit Auszubildenden (Nur aktuellste Laufbahn).rpt: berichte/betriebe/Betriebe mit Auszubildenden (Nur aktuellste Laufbahn).rpt.md
+      - Betriebe mit Auszubildenden (mit Parameter Klasse).rpt: berichte/betriebe/Betriebe mit Auszubildenden (mit Parameter Klasse).rpt.md
+      - Betriebe mit Berufen.rpt: berichte/betriebe/Betriebe mit Berufen.rpt.md
+      - Betriebe mit Bildungsgängen.rpt: berichte/betriebe/Betriebe mit Bildungsgängen.rpt.md
+      - Betriebe nach Branchen gruppiert: berichte/betriebe/Betriebe nach Branchen gruppiert.md
+      - Betriebe nach Standort gruppiert: berichte/betriebe/Betriebe nach Standort gruppiert.md
+      - Betriebeliste.rpt: berichte/betriebe/Betriebeliste.rpt.md
+    - Menü Schulen: 
+      - Schulen mit Adressen: berichte/schulen/Schulen mit Adressen.md
+    - Menü Adressen: 
+      - Adressenliste: berichte/adressen/Adressenliste.md
     - Menü Abitur:
       - Abiturergebnisse: berichte/abitur/Abiturergebnisse.md
       - DAS-Übersicht über Prüfungsfächer Abitur (Anlage 6): berichte/abitur/DAS-Übersicht über Prüfungsfächer Abitur (Anlage 6).md
