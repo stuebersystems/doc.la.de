@@ -742,4 +742,17 @@ nav:
       - Medienvorgaenge (Standard): berichte/medienvorgaenge/Medienvorgaenge (Standard).md
       - Aktive Ausleihvorgaenge pro Schueler (nach Klassen gruppiert): berichte/medienvorgaenge/Aktive Ausleihvorgaenge pro Schueler (nach Klassen gruppiert).md
       - Alle Ausleihvorgaenge pro Schueler (nach Klassen und Medien gruppiert): berichte/medienvorgaenge/Alle Ausleihvorgaenge pro Schueler (nach Klassen und Medien gruppiert).md
-    - Medienausleiher: berichte/15_medienausleiher.md
+    - Medienausleiher: 
+      - gesammelt: berichte/medienausleiher/15_medienausleiher.md
+      - Alle Ausleihvorgaenge pro Lehrer: berichte/medienausleiher/Alle Ausleihvorgaenge pro Lehrer.md
+      - Alle Ausleihvorgaenge pro Person: berichte/medienausleiher/Alle Ausleihvorgaenge pro Person.md
+      - Alle Ausleihvorgaenge pro Schueler (nach Klassen gruppiert): berichte/medienausleiher/Alle Ausleihvorgaenge pro Schueler (nach Klassen gruppiert).md
+      - Bibliotheksausweis (Avery-Zweckfom-Etikett 3658): berichte/medienausleiher/Bibliotheksausweis (Avery-Zweckfom-Etikett 3658).md
+      - Bibliotheksausweis (klein): berichte/medienausleiher/Bibliotheksausweis (klein).md
+      - Bibliotheksausweis (mit Passfoto): berichte/medienausleiher/Bibliotheksausweis (mit Passfoto).md
+      - Bibliotheksausweis (Standard): berichte/medienausleiher/Bibliotheksausweis (Standard).md
+      - Noch nicht zurueckgegebene Exemplare pro Lehrer: berichte/medienausleiher/Noch nicht zurueckgegebene Exemplare pro Lehrer.md
+      - Noch nicht zurueckgegebene Exemplare pro Person: berichte/medienausleiher/Noch nicht zurueckgegebene Exemplare pro Person.md
+      - Offene Ausleihvorgänge (nach Klassen gruppiert): berichte/medienausleiher/Offene Ausleihvorgänge (nach Klassen gruppiert).md
+      - Offene Ausleihvorgänge (nach Schüler gruppiert): berichte/medienausleiher/Offene Ausleihvorgänge (nach Schüler gruppiert).md
+      - Schuelerliste mit Barcode (nach Klassen gruppiert): berichte/medienausleiher/Schuelerliste mit Barcode (nach Klassen gruppiert).md
