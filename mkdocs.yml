@@ -442,7 +442,8 @@ nav:
         - BER-Schul Z 600 (06.08): berichte/zeugnisse/ber/BER-Schul Z 600 (06.08).md
         - BER-Schul Z 620 (09.18): berichte/zeugnisse/ber/BER-Schul Z 620 (09.18).md
         - Schülerliste Berufsschulmatrix BS-BER mit Meldungen: berichte/zeugnisse/ber/Schülerliste Berufsschulmatrix BS-BER mit Meldungen.md
-      - BRA: berichte/zeugnisse/bra_zeugnisse.md
+      - BRA: 
+        - gesammelt: berichte/zeugnisse/bra/bra_zeugnisse.md
       - MVP: berichte/zeugnisse/mvp_zeugnisse.md
       - NIE: berichte/zeugnisse/nie_zeugnisse.md
       - NRW: berichte/zeugnisse/nrw_zeugnisse.md
