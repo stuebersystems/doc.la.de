@@ -2,7 +2,7 @@
 
 ## THÜ-BF-AS (mit Berufsbezeichnung).rpt
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -17,25 +17,25 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Abschlussdatum**
+Abschlussdatum
 
 `Schüler > Laufbahn > Abschluss`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Schulformeintritt**
+Schulformeintritt
 
 `Schüler > Laufbahn > Allgemein`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Beruf Schüler**
+Beruf Schüler
 
 `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`.
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -43,7 +43,7 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-BF-AS.rpt
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -58,32 +58,32 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Abschlussdatum**
+Abschlussdatum
 
 `Schüler > Laufbahn > Abschluss`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Schulformeintritt**
+Schulformeintritt
 
 `Schüler > Laufbahn > Allgemein`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Bildungsgang Schüler**
+Bildungsgang Schüler
 
 `Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**Schwerpunkt Bildungsgang**
+Schwerpunkt Bildungsgang
 
 `Extras > Schlüsselverzeichnisse > Bildungsgänge` 
 `Extras > Schlüsselverzeichnisse > Schwerpunkte`
 
 Weisen Sie unter `Schlüsselverzeichnisse > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das `Schlüsselverzeichnis > Schwerpunkte`.
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -91,7 +91,7 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-BF-AZ (mit Berufsbezeichnung).rpt
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -106,25 +106,25 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Abschlussdatum**
+Abschlussdatum
 
 `Schüler > Laufbahn > Abschluss`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Schulformeintritt**
+Schulformeintritt
 
 `Schüler > Laufbahn > Allgemein`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Beruf Schüler**
+Beruf Schüler
 
 `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -132,43 +132,43 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-BF-JZ (mit Versetzungstext).rpt
 
-**Ausgabe Schulhalbjahr**
+Ausgabe Schulhalbjahr
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Zeiträume**
+Zeiträume
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**Jahrgang Klasse**
+Jahrgang Klasse
 
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
-**Zeugniskonferenzdatum**
+Zeugniskonferenzdatum
 
 `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**Versetzung**
+Versetzung
 
 `Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Fehltage, Fehlstunden**
+Fehltage, Fehlstunden
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -183,20 +183,20 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Bildungsgang Schüler**
+Bildungsgang Schüler
 
 `Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**Schwerpunkt Bildungsgang**
+Schwerpunkt Bildungsgang
 
 `Extras > Schlüsselverzeichnisse > Bildungsgänge` 
 `Extras > Schlüsselverzeichnisse > Schwerpunkte`
 
 Weisen Sie unter `Schlüsselverzeichnisse > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das `Schlüsselverzeichnis > Schwerpunkte`.
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -204,25 +204,25 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-BF-JZ (ohne Versetzungstext).rpt
 
-**Ausgabe Schulhalbjahr**
+Ausgabe Schulhalbjahr
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Zeiträume**
+Zeiträume
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**Fehltage, Fehlstunden**
+Fehltage, Fehlstunden
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -230,7 +230,7 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.2)** 
+(A0015.2) 
 
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
@@ -239,20 +239,20 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Bildungsgang Schüler**
+Bildungsgang Schüler
 
 `Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**Schwerpunkt Bildungsgang**
+Schwerpunkt Bildungsgang
 
 `Extras > Schlüsselverzeichnisse > Bildungsgänge` 
 `Extras > Schlüsselverzeichnisse > Schwerpunkte`
 
 Weisen Sie unter `Schlüsselverzeichnisse > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das `Schlüsselverzeichnis > Schwerpunkte`.
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -260,7 +260,7 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-BS-AS (BVJ 1-2).rpt
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -268,7 +268,7 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.2)** 
+(A0015.2) 
 
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
@@ -277,19 +277,19 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Abschlussdatum**
+Abschlussdatum
 
 `Schüler > Laufbahn > Abschluss`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Schulformeintritt**
+Schulformeintritt
 
 `Schüler > Laufbahn > Allgemein`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -297,7 +297,7 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-BS-AS (BVJ Modellprojekt).rpt
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -305,7 +305,7 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.2)** 
+(A0015.2) 
 
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
@@ -314,19 +314,19 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Abschlussdatum**
+Abschlussdatum
 
 `Schüler > Laufbahn > Abschluss`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Schulformeintritt**
+Schulformeintritt
 
 `Schüler > Laufbahn > Allgemein`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -334,7 +334,7 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-BS-AS (mit Zusatz Betriebsassistent).rpt
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -342,7 +342,7 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.2)** 
+(A0015.2) 
 
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
@@ -351,23 +351,23 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Abschlussdatum**
+Abschlussdatum
 
 `Schüler > Laufbahn > Abschluss`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Schulformeintritt**
+Schulformeintritt
 
 `Schüler > Laufbahn > Allgemein`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**(A0036)** `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
+(A0036) `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das Schlüsselverzeichnis Berufe. 
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -375,43 +375,43 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-BS-JZ (BVJ 1-2 und mit Versetzungstext).rpt
 
-**Ausgabe Schulhalbjahr**
+Ausgabe Schulhalbjahr
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Zeiträume**
+Zeiträume
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**Jahrgang Klasse**
+Jahrgang Klasse
 
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
-**Zeugniskonferenzdatum**
+Zeugniskonferenzdatum
 
 `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**Versetzung**
+Versetzung
 
 `Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Fehltage, Fehlstunden**
+Fehltage, Fehlstunden
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -419,7 +419,7 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.2)** 
+(A0015.2) 
 
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
@@ -428,7 +428,7 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -436,25 +436,25 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-BS-JZ (BVJ 1-2 und ohne Versetzungstext).rpt
 
-**Ausgabe Schulhalbjahr**
+Ausgabe Schulhalbjahr
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Zeiträume**
+Zeiträume
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**Fehltage, Fehlstunden**
+Fehltage, Fehlstunden
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -462,7 +462,7 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.2)** 
+(A0015.2) 
 
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
@@ -471,7 +471,7 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -479,43 +479,43 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-BS-JZ (BVJ und mit Versetzungstext).rpt
 
-**Ausgabe Schulhalbjahr**
+Ausgabe Schulhalbjahr
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Zeiträume**
+Zeiträume
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**Jahrgang Klasse**
+Jahrgang Klasse
 
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
-**Zeugniskonferenzdatum**
+Zeugniskonferenzdatum
 
 `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**Versetzung**
+Versetzung
 
 `Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Fehltage, Fehlstunden**
+Fehltage, Fehlstunden
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -523,7 +523,7 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.2)** 
+(A0015.2) 
 
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
@@ -532,7 +532,7 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -540,25 +540,25 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-BS-JZ (BVJ und ohne Versetzungtext).rpt
 
-**Ausgabe Schulhalbjahr**
+Ausgabe Schulhalbjahr
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Zeiträume**
+Zeiträume
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**Fehltage, Fehlstunden**
+Fehltage, Fehlstunden
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -566,7 +566,7 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.2)** 
+(A0015.2) 
 
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
@@ -575,7 +575,7 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -583,7 +583,7 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-FO-AS.rpt
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -591,7 +591,7 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.2)** 
+(A0015.2) 
 
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
@@ -600,28 +600,28 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Abschlussdatum**
+Abschlussdatum
 
 `Schüler > Laufbahn > Abschluss`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Schulformeintritt**
+Schulformeintritt
 
 `Schüler > Laufbahn > Allgemein`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Bildungsgang Schüler**
+Bildungsgang Schüler
 
 `Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**(A0037.1)** `Schlüsselverzeichnis > Schwerpunkte UND Schlüsselverzeichnis > Bildungsgänge`
+(A0037.1) `Schlüsselverzeichnis > Schwerpunkte UND Schlüsselverzeichnis > Bildungsgänge`
 
 Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` die Fachrichtung im Feld `Fachrichtung` zu. Grundlage hierfür bildet das `Schlüsselverzeichnis > Fachrichtungen`.
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -629,7 +629,7 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-FO-FHReife.rpt
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -637,7 +637,7 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.2)** 
+(A0015.2) 
 
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
@@ -646,32 +646,32 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Abschlussdatum**
+Abschlussdatum
 
 `Schüler > Laufbahn > Abschluss`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Schulformeintritt**
+Schulformeintritt
 
 `Schüler > Laufbahn > Allgemein`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Bildungsgang Schüler**
+Bildungsgang Schüler
 
 `Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**Schwerpunkt Bildungsgang**
+Schwerpunkt Bildungsgang
 
 `Extras > Schlüsselverzeichnisse > Bildungsgänge` 
 `Extras > Schlüsselverzeichnisse > Schwerpunkte`
 
 Weisen Sie unter `Schlüsselverzeichnisse > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das `Schlüsselverzeichnis > Schwerpunkte`.
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -679,43 +679,43 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-FO-JZ (mit Versetzungstext).rpt
 
-**Ausgabe Schulhalbjahr**
+Ausgabe Schulhalbjahr
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Zeiträume**
+Zeiträume
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**Jahrgang Klasse**
+Jahrgang Klasse
 
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
 
-**Zeugniskonferenzdatum**
+Zeugniskonferenzdatum
 
 `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**Versetzung**
+Versetzung
 
 `Schueler > Laufbahn > Allgemein > Versetzt`
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Fehltage, Fehlstunden**
+Fehltage, Fehlstunden
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -723,7 +723,7 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-**(A0015.2)** 
+(A0015.2) 
 
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
@@ -732,20 +732,20 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Bildungsgang Schüler**
+Bildungsgang Schüler
 
 `Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**Schwerpunkt Bildungsgang**
+Schwerpunkt Bildungsgang
 
 `Extras > Schlüsselverzeichnisse > Bildungsgänge` 
 `Extras > Schlüsselverzeichnisse > Schwerpunkte`
 
 Weisen Sie unter `Schlüsselverzeichnisse > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das `Schlüsselverzeichnis > Schwerpunkte`.
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
@@ -753,25 +753,25 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## THÜ-FO-JZ (ohne Versetzungstext).rpt
 
-**Ausgabe Schulhalbjahr**
+Ausgabe Schulhalbjahr
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Zeiträume**
+Zeiträume
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
 
-**Fehltage, Fehlstunden**
+Fehltage, Fehlstunden
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-**Fachstatus** 
+Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -786,221 +786,22 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-**Bildungsgang Schüler**
+Bildungsgang Schüler
 
 `Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**Schwerpunkt Bildungsgang**
+Schwerpunkt Bildungsgang
 
 `Extras > Schlüsselverzeichnisse > Bildungsgänge` 
 `Extras > Schlüsselverzeichnisse > Schwerpunkte`
 
 Weisen Sie unter `Schlüsselverzeichnisse > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das `Schlüsselverzeichnis > Schwerpunkte`.
 
-**Schulform der Klasse**
+Schulform der Klasse
 
 `Klassen > Daten > Schulform`
 
 Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Feld "Schulform" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schulformen`.
 
-## THÜ-GY-AZ.rpt
-
-**Ausgabe Schulhalbjahr**
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
-
-**Zeiträume**
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-**Jahrgang Klasse**
-
-`Klassen > Zeiträume > Zeitraum > Jahrgang`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
-
-**Zeugniskonferenzdatum**
-
-`Schueler > Zeugnis > Details > Zeugniskonferenz am`
-
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
-
-**Versetzung**
-
-`Schueler > Laufbahn > Allgemein > Versetzt`
-
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-**Klassen**
-
-`Klassen > Zeiträume > Zeitraum > Klassenstufe`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers die Klassenstufe im Feld "Klassenstufe" eingetragen sein.
-
-**Fremdsprachenfolge** 
-
-`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
-
-Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
-
-**Schulformeintritt**
-
-`Schüler > Laufbahn > Allgemein`
-
-Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-**Zugangs- bzw. Abgangsdatum**
-
-`Schüler > Laufbahn > Allgemein`
-
-Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster..
-
-## THÜ-GY-JZ.rpt
-
-**Ausgabe Schulhalbjahr**
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
-
-**Zeiträume**
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-**Klassen**
-
-`Klassen > Zeiträume > Zeitraum > Klassenstufe`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers die Klassenstufe im Feld "Klassenstufe" eingetragen sein.
-
-**Fehltage, Fehlstunden**
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-**Fremdsprachenfolge** 
-
-`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
-
-Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
-
-## THÜ-RGL-JZ (über den Hauptschulabschluss).rpt
-
-**Zeiträume**
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-**Klassen**
-
-`Klassen > Zeiträume > Zeitraum > Klassenstufe`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers die Klassenstufe im Feld "Klassenstufe" eingetragen sein.
-
-**Fremdsprachenfolge** 
-
-`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
-
-Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
-
-**Kurse I und II**
-
-`Schüler > Zeugnis > Fächer > Kurs`
-
-Tragen Sie die Kurse I und II als "1" und "2" im Menü `Schüler > Zeugnis > Fächer` im Feld "Kurs" ein.
-
-## THÜ-RGL-JZ.rpt
-
-**Ausgabe Schulhalbjahr**
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
-
-**Zeiträume**
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-**Jahrgang Klasse**
-
-`Klassen > Zeiträume > Zeitraum > Jahrgang`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein.
-
-**Zeugniskonferenzdatum**
-
-`Schueler > Zeugnis > Details > Zeugniskonferenz am`
-
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
-
-**Versetzung**
-
-`Schueler > Laufbahn > Allgemein > Versetzt`
-
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-**Klassen**
-
-`Klassen > Zeiträume > Zeitraum > Klassenstufe`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers die Klassenstufe im Feld "Klassenstufe" eingetragen sein.
-
-**Fehltage, Fehlstunden**
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-**Fachstatus** 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Bezeichnung	
---|--|--
-Pflicht | Pflicht | Pflichtfächer bzw. –bereich
-WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
-FachP | FachP| Fachpraxis im Berufsfeld
-Wahlb | Wahlb | Wahlfächer bzw. –bereich
-
-**Unterrichtsarten**
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-FP | FP | Fachpraktischer Lernbereich
-Theorie | Theorie | Fachtheoretischer Bereich
-PK | PK | Profilkurs
-KF | KF | Fachlicher Bereich
-
-**Fremdsprachenfolge** 
-
-`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
-
-Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
-
-**Kurse I und II**
-
-`Schüler > Zeugnis > Fächer > Kurs`
-
-Tragen Sie die Kurse I und II als "1" und "2" im Menü `Schüler > Zeugnis > Fächer` im Feld "Kurs" ein.
