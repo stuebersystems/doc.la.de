@@ -1,0 +1,1 @@
+﻿# BAW-GY-HJZ (Mittelstufe)
