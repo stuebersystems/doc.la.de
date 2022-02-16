@@ -707,7 +707,8 @@ nav:
       - Betriebeliste.rpt: berichte/betriebe/Betriebeliste.rpt.md
     - Menü Schulen: 
       - Schulen mit Adressen: berichte/schulen/Schulen mit Adressen.md
-    - Menü Adressen: berichte/11_adressen.md
+    - Menü Adressen: 
+      - Adressenliste: berichte/adressen/Adressenliste.md
     - Menü Abitur:
       - Abiturergebnisse: berichte/abitur/Abiturergebnisse.md
       - DAS-Übersicht über Prüfungsfächer Abitur (Anlage 6): berichte/abitur/DAS-Übersicht über Prüfungsfächer Abitur (Anlage 6).md
