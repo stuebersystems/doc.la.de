@@ -422,7 +422,12 @@ nav:
       - SAC: berichte/zeugnisse/sac_zeugnisse.md
       - SAR: berichte/zeugnisse/sar_zeugnisse.md
       - SHL: berichte/zeugnisse/shl_zeugnisse.md
-      - THU: berichte/zeugnisse/thu_zeugnisse.md
+      - THU: 
+        - gesammelt: berichte/zeugnisse/thu_zeugnisse.md
+        - THÜ-RGL-JZ (über den Hauptschulabschluss): zeugnisse/thu/THÜ-RGL-JZ (über den Hauptschulabschluss).md
+        - THÜ-RGL-JZ: zeugnisse/thu/THÜ-RGL-JZ.md
+        - THÜ-GY-AZ: zeugnisse/thu/THÜ-GY-AZ.md
+        - THÜ-GY-JZ: zeugnisse/thu/THÜ-GY-JZ.md
     - Menü Schüler: 
       - Anmeldeschein (weiterführende Schulen): berichte/schueler/Anmeldeschein (weiterführende Schulen).md
       - Ausländerliste (nach Staatsangehörigkeiten): berichte/schueler/Ausländerliste (nach Staatsangehörigkeiten).md
