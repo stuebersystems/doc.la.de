@@ -452,27 +452,22 @@ nav:
       - SAR: berichte/zeugnisse/sar_zeugnisse.md
       - SHL: berichte/zeugnisse/shl_zeugnisse.md
       - THU: 
-        - gesammelt: berichte/zeugnisse/thu_zeugnisse.md
-        - THÜ-RGL-JZ (über den Hauptschulabschluss): zeugnisse/thu/THÜ-RGL-JZ (über den Hauptschulabschluss).md
-        - THÜ-RGL-JZ: zeugnisse/thu/THÜ-RGL-JZ.md
-        - THÜ-GY-AZ: zeugnisse/thu/THÜ-GY-AZ.md
-        - THÜ-GY-JZ: zeugnisse/thu/THÜ-GY-JZ.md
-        - THÜ-BF-AS (mit Berufsbezeichnung): zeugnisse/thu/THÜ-BF-AS (mit Berufsbezeichnung).md
-        - THÜ-BF-AS: zeugnisse/thu/THÜ-BF-AS.md
-        - THÜ-BF-AZ (mit Berufsbezeichnung): zeugnisse/thu/THÜ-BF-AZ (mit Berufsbezeichnung).md
-        - THÜ-BF-JZ (mit Versetzungstext): zeugnisse/thu/THÜ-BF-JZ (mit Versetzungstext).md
-        - THÜ-BF-JZ (ohne Versetzungstext): zeugnisse/thu/THÜ-BF-JZ (ohne Versetzungstext).md
-        - THÜ-BS-AS (BVJ 1-2): zeugnisse/thu/THÜ-BS-AS (BVJ 1-2).md
-        - THÜ-BS-AS (BVJ Modellprojekt): zeugnisse/thu/THÜ-BS-AS (BVJ Modellprojekt).md
-        - THÜ-BS-AS (mit Zusatz Betriebsassistent): zeugnisse/thu/THÜ-BS-AS (mit Zusatz Betriebsassistent).md
-        - THÜ-BS-JZ (BVJ 1-2 und mit Versetzungstext): zeugnisse/thu/THÜ-BS-JZ (BVJ 1-2 und mit Versetzungstext).md
-        - THÜ-BS-JZ (BVJ 1-2 und ohne Versetzungstext): zeugnisse/thu/THÜ-BS-JZ (BVJ 1-2 und ohne Versetzungstext).md
-        - THÜ-BS-JZ (BVJ und mit Versetzungstext): zeugnisse/thu/THÜ-BS-JZ (BVJ und mit Versetzungstext).md
-        - THÜ-BS-JZ (BVJ und ohne Versetzungtext): zeugnisse/thu/THÜ-BS-JZ (BVJ und ohne Versetzungtext).md
-        - THÜ-FO-AS: zeugnisse/thu/THÜ-FO-AS.md
-        - THÜ-FO-FHReife: zeugnisse/thu/THÜ-FO-FHReife.md
-        - THÜ-FO-JZ (mit Versetzungstext): zeugnisse/thu/THÜ-FO-JZ (mit Versetzungstext).md
-        - THÜ-FO-JZ (ohne Versetzungstext): zeugnisse/thu/THÜ-FO-JZ (ohne Versetzungstext).md
+      - THÜ-BF-AS (mit Berufsbezeichnung): berichte/zeugnisse/thu/THÜ-BF-AS (mit Berufsbezeichnung).md
+      - THÜ-BF-AS: berichte/zeugnisse/thu/THÜ-BF-AS.md
+      - THÜ-BF-AZ (mit Berufsbezeichnung): berichte/zeugnisse/thu/THÜ-BF-AZ (mit Berufsbezeichnung).md
+      - THÜ-BF-JZ (mit Versetzungstext): berichte/zeugnisse/thu/THÜ-BF-JZ (mit Versetzungstext).md
+      - THÜ-BF-JZ (ohne Versetzungstext): berichte/zeugnisse/thu/THÜ-BF-JZ (ohne Versetzungstext).md
+      - THÜ-BS-AS (BVJ 1-2): berichte/zeugnisse/thu/THÜ-BS-AS (BVJ 1-2).md
+      - THÜ-BS-AS (BVJ Modellprojekt): berichte/zeugnisse/thu/THÜ-BS-AS (BVJ Modellprojekt).md
+      - THÜ-BS-AS (mit Zusatz Betriebsassistent): berichte/zeugnisse/thu/THÜ-BS-AS (mit Zusatz Betriebsassistent).md
+      - THÜ-BS-JZ (BVJ 1-2 und mit Versetzungstext): berichte/zeugnisse/thu/THÜ-BS-JZ (BVJ 1-2 und mit Versetzungstext).md
+      - THÜ-BS-JZ (BVJ 1-2 und ohne Versetzungstext): berichte/zeugnisse/thu/THÜ-BS-JZ (BVJ 1-2 und ohne Versetzungstext).md
+      - THÜ-BS-JZ (BVJ und mit Versetzungstext): berichte/zeugnisse/thu/THÜ-BS-JZ (BVJ und mit Versetzungstext).md
+      - THÜ-BS-JZ (BVJ und ohne Versetzungtext): berichte/zeugnisse/thu/THÜ-BS-JZ (BVJ und ohne Versetzungtext).md
+      - THÜ-FO-AS: berichte/zeugnisse/thu/THÜ-FO-AS.md
+      - THÜ-FO-FHReife: berichte/zeugnisse/thu/THÜ-FO-FHReife.md
+      - THÜ-FO-JZ (mit Versetzungstext): berichte/zeugnisse/thu/THÜ-FO-JZ (mit Versetzungstext).md
+      - THÜ-FO-JZ (ohne Versetzungstext): berichte/zeugnisse/thu/THÜ-FO-JZ (ohne Versetzungstext).md
     - Menü Schüler: 
       - Anmeldeschein (weiterführende Schulen): berichte/schueler/Anmeldeschein (weiterführende Schulen).md
       - Ausländerliste (nach Staatsangehörigkeiten): berichte/schueler/Ausländerliste (nach Staatsangehörigkeiten).md
