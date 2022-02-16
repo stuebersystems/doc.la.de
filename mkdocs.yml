@@ -696,8 +696,51 @@ nav:
       - Prüfungslisten: berichte/abitur/pruefungslisten.md
       - SHL-GY-Abi(Abiturergebnisse): berichte/abitur/SHL-GY-Abi(Abiturergebnisse).md
       - Schülerliste (Abitur): berichte/abitur/Schülerliste (Abitur).md
+<<<<<<< HEAD
     - Bibliothek:
       - Quittungen: berichte/12_quittungen.md
       - Medien: berichte/13_medien.md
       - Medienvorgänge: berichte/14_medienvorgaenge.md
       - Medienausleiher: berichte/15_medienausleiher.md
+=======
+    - Quittungen: 
+      - Quittung (Leihvertrag Taschenrechner): berichte/quittungen/Quittung (Leihvertrag Taschenrechner).md
+      - Quittung(DIN A4): berichte/quittungen/Quittung(DIN A4).md
+      - Quittung(DIN A5): berichte/quittungen/Quittung(DIN A5).md
+      - Quittung (Bondrucker - 2mm Rand): berichte/quittungen/Quittung (Bondrucker - 2mm Rand).md
+      - Quittung (Bondrucker - 4mm Rand): berichte/quittungen/Quittung (Bondrucker - 4mm Rand).md
+    - Medien: 
+      - Etiketten (254x508): berichte/medien/Etiketten (254x508).md
+      - Etiketten (508x254): berichte/medien/Etiketten (508x254).md
+      - Etiketten (89x36): berichte/medien/Etiketten (89x36).md
+      - Etiketten (Dymo 99010, 28x89): berichte/medien/Etiketten (Dymo 99010, 28x89).md
+      - Etiketten (Dymo 99012, 36x89): berichte/medien/Etiketten (Dymo 99012, 36x89).md
+      - Etiketten (No.3475 - 70 x 36 mm - 1fach - 8 x 3): berichte/medien/Etiketten (No.3475 - 70 x 36 mm - 1fach - 8 x 3).md
+      - Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach - 9 x 4 Zeilen): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach - 9 x 4 Zeilen).md
+      - Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach).md
+      - Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach - 8 x 4 Zeilen): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach - 8 x 4 Zeilen).md
+      - Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach).md
+      - Medienliste (1 Exemplar): berichte/medien/Medienliste (1 Exemplar).md
+      - Medienliste (Inventur): berichte/medien/Medienliste (Inventur).md
+      - Medienliste (Standard): berichte/medien/Medienliste (Standard).md
+      - Medienliste (mit Exemplaren) mit Katalog: berichte/medien/Medienliste (mit Exemplaren) mit Katalog.md
+      - Medienliste (mit Exemplaren): berichte/medien/Medienliste (mit Exemplaren).md
+    - Medienvorgänge: 
+      - Medienvorgaenge (Standard): berichte/medienvorgaenge/Medienvorgaenge (Standard).md
+      - Aktive Ausleihvorgaenge pro Schueler (nach Klassen gruppiert): berichte/medienvorgaenge/Aktive Ausleihvorgaenge pro Schueler (nach Klassen gruppiert).md
+      - Alle Ausleihvorgaenge pro Schueler (nach Klassen und Medien gruppiert): berichte/medienvorgaenge/Alle Ausleihvorgaenge pro Schueler (nach Klassen und Medien gruppiert).md
+    - Medienausleiher: 
+      - gesammelt: berichte/medienausleiher/15_medienausleiher.md
+      - Alle Ausleihvorgaenge pro Lehrer: berichte/medienausleiher/Alle Ausleihvorgaenge pro Lehrer.md
+      - Alle Ausleihvorgaenge pro Person: berichte/medienausleiher/Alle Ausleihvorgaenge pro Person.md
+      - Alle Ausleihvorgaenge pro Schueler (nach Klassen gruppiert): berichte/medienausleiher/Alle Ausleihvorgaenge pro Schueler (nach Klassen gruppiert).md
+      - Bibliotheksausweis (Avery-Zweckfom-Etikett 3658): berichte/medienausleiher/Bibliotheksausweis (Avery-Zweckfom-Etikett 3658).md
+      - Bibliotheksausweis (klein): berichte/medienausleiher/Bibliotheksausweis (klein).md
+      - Bibliotheksausweis (mit Passfoto): berichte/medienausleiher/Bibliotheksausweis (mit Passfoto).md
+      - Bibliotheksausweis (Standard): berichte/medienausleiher/Bibliotheksausweis (Standard).md
+      - Noch nicht zurueckgegebene Exemplare pro Lehrer: berichte/medienausleiher/Noch nicht zurueckgegebene Exemplare pro Lehrer.md
+      - Noch nicht zurueckgegebene Exemplare pro Person: berichte/medienausleiher/Noch nicht zurueckgegebene Exemplare pro Person.md
+      - Offene Ausleihvorgänge (nach Klassen gruppiert): berichte/medienausleiher/Offene Ausleihvorgänge (nach Klassen gruppiert).md
+      - Offene Ausleihvorgänge (nach Schüler gruppiert): berichte/medienausleiher/Offene Ausleihvorgänge (nach Schüler gruppiert).md
+      - Schuelerliste mit Barcode (nach Klassen gruppiert): berichte/medienausleiher/Schuelerliste mit Barcode (nach Klassen gruppiert).md
+>>>>>>> 9e7a2bdf2d1c4809420781a02839a9688352ff0e
