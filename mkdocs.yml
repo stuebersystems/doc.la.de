@@ -716,9 +716,12 @@ nav:
       - Prüfungslisten: berichte/abitur/pruefungslisten.md
       - SHL-GY-Abi(Abiturergebnisse): berichte/abitur/SHL-GY-Abi(Abiturergebnisse).md
       - Schülerliste (Abitur): berichte/abitur/Schülerliste (Abitur).md
-    - Bibliothek:
-      - Quittungen: 
-        - gesammelt: berichte/quittungen/12_quittungen.md
-      - Medien: berichte/13_medien.md
-      - Medienvorgänge: berichte/14_medienvorgaenge.md
-      - Medienausleiher: berichte/15_medienausleiher.md
+    - Quittungen: 
+      - Quittung (Leihvertrag Taschenrechner): berichte/quittungen/Quittung (Leihvertrag Taschenrechner).md
+      - Quittung(DIN A4): berichte/quittungen/Quittung(DIN A4).md
+      - Quittung(DIN A5): berichte/quittungen/Quittung(DIN A5).md
+      - Quittung (Bondrucker - 2mm Rand): berichte/quittungen/Quittung (Bondrucker - 2mm Rand).md
+      - Quittung (Bondrucker - 4mm Rand): berichte/quittungen/Quittung (Bondrucker - 4mm Rand).md
+    - Medien: berichte/13_medien.md
+    - Medienvorgänge: berichte/14_medienvorgaenge.md
+    - Medienausleiher: berichte/15_medienausleiher.md
