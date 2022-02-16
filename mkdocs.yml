@@ -695,7 +695,16 @@ nav:
       - Sorgeberechtigte ohne Kinder im aktuellen Zeitraum: berichte/sorgeberechtigte/Sorgeberechtigte ohne Kinder im aktuellen Zeitraum.md
       - Sorgeberechtigte: berichte/sorgeberechtigte/Sorgeberechtigte.md
     - Menü Betriebe: 
-      - gesammelt: berichte/betriebe/09_betriebe.md
+      - Betriebe (Ausbilderkontakte).rpt: berichte/betriebe/Betriebe (Ausbilderkontakte).rpt.md
+      - Betriebe (welche Betriebe haben Auszubildene).rpt: berichte/betriebe/Betriebe (welche Betriebe haben Auszubildene).rpt.md
+      - Betriebe mit Auszubildenden (Alle Zeiträume).rpt: berichte/betriebe/Betriebe mit Auszubildenden (Alle Zeiträume).rpt.md
+      - Betriebe mit Auszubildenden (Nur aktuellste Laufbahn).rpt: berichte/betriebe/Betriebe mit Auszubildenden (Nur aktuellste Laufbahn).rpt.md
+      - Betriebe mit Auszubildenden (mit Parameter Klasse).rpt: berichte/betriebe/Betriebe mit Auszubildenden (mit Parameter Klasse).rpt.md
+      - Betriebe mit Berufen.rpt: berichte/betriebe/Betriebe mit Berufen.rpt.md
+      - Betriebe mit Bildungsgängen.rpt: berichte/betriebe/Betriebe mit Bildungsgängen.rpt.md
+      - Betriebe nach Branchen gruppiert: berichte/betriebe/Betriebe nach Branchen gruppiert.md
+      - Betriebe nach Standort gruppiert: berichte/betriebe/Betriebe nach Standort gruppiert.md
+      - Betriebeliste.rpt: berichte/betriebe/Betriebeliste.rpt.md
     - Menü Schulen: berichte/10_schulen.md
     - Menü Adressen: berichte/11_adressen.md
     - Menü Abitur:

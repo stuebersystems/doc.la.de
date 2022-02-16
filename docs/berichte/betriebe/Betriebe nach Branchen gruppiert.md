@@ -1,0 +1,1 @@
+﻿# Betriebe nach Branchen gruppiert
