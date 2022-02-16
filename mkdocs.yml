@@ -705,7 +705,8 @@ nav:
       - Betriebe nach Branchen gruppiert: berichte/betriebe/Betriebe nach Branchen gruppiert.md
       - Betriebe nach Standort gruppiert: berichte/betriebe/Betriebe nach Standort gruppiert.md
       - Betriebeliste.rpt: berichte/betriebe/Betriebeliste.rpt.md
-    - Menü Schulen: berichte/10_schulen.md
+    - Menü Schulen: 
+      - Schulen mit Adressen: berichte/schulen/Schulen mit Adressen.md
     - Menü Adressen: berichte/11_adressen.md
     - Menü Abitur:
       - Abiturergebnisse: berichte/abitur/Abiturergebnisse.md
