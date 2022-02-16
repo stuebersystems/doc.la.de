@@ -739,7 +739,6 @@ nav:
       - Medienliste (mit Exemplaren) mit Katalog: berichte/medien/Medienliste (mit Exemplaren) mit Katalog.md
       - Medienliste (mit Exemplaren): berichte/medien/Medienliste (mit Exemplaren).md
     - Medienvorgänge: 
-      -gesammelt: berichte/medienvorgaenge/14_medienvorgaenge.md
       - Medienvorgaenge (Standard): berichte/medienvorgaenge/Medienvorgaenge (Standard).md
       - Aktive Ausleihvorgaenge pro Schueler (nach Klassen gruppiert): berichte/medienvorgaenge/Aktive Ausleihvorgaenge pro Schueler (nach Klassen gruppiert).md
       - Alle Ausleihvorgaenge pro Schueler (nach Klassen und Medien gruppiert): berichte/medienvorgaenge/Alle Ausleihvorgaenge pro Schueler (nach Klassen und Medien gruppiert).md
