@@ -694,7 +694,8 @@ nav:
       - Sorgeberechtigte nach Funktionen gruppiert: berichte/sorgeberechtigte/Sorgeberechtigte nach Funktionen gruppiert.md
       - Sorgeberechtigte ohne Kinder im aktuellen Zeitraum: berichte/sorgeberechtigte/Sorgeberechtigte ohne Kinder im aktuellen Zeitraum.md
       - Sorgeberechtigte: berichte/sorgeberechtigte/Sorgeberechtigte.md
-    - Menü Betriebe: berichte/09_betriebe.md
+    - Menü Betriebe: 
+      - gesammelt: berichte/betriebe/09_betriebe.md
     - Menü Schulen: berichte/10_schulen.md
     - Menü Adressen: berichte/11_adressen.md
     - Menü Abitur:
