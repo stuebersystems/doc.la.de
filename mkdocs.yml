@@ -722,6 +722,22 @@ nav:
       - Quittung(DIN A5): berichte/quittungen/Quittung(DIN A5).md
       - Quittung (Bondrucker - 2mm Rand): berichte/quittungen/Quittung (Bondrucker - 2mm Rand).md
       - Quittung (Bondrucker - 4mm Rand): berichte/quittungen/Quittung (Bondrucker - 4mm Rand).md
-    - Medien: berichte/13_medien.md
+    - Medien: 
+      - gesammelt: berichte/medien/13_medien.md
+      - Etiketten (254x508): berichte/medien/Etiketten (254x508).md
+      - Etiketten (508x254): berichte/medien/Etiketten (508x254).md
+      - Etiketten (89x36): berichte/medien/Etiketten (89x36).md
+      - Etiketten (Dymo 99010, 28x89): berichte/medien/Etiketten (Dymo 99010, 28x89).md
+      - Etiketten (Dymo 99012, 36x89): berichte/medien/Etiketten (Dymo 99012, 36x89).md
+      - Etiketten (No.3475 - 70 x 36 mm - 1fach - 8 x 3): berichte/medien/Etiketten (No.3475 - 70 x 36 mm - 1fach - 8 x 3).md
+      - Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach - 9 x 4 Zeilen): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach - 9 x 4 Zeilen).md
+      - Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach).md
+      - Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach - 8 x 4 Zeilen): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach - 8 x 4 Zeilen).md
+      - Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach).md
+      - Medienliste (1 Exemplar): berichte/medien/Medienliste (1 Exemplar).md
+      - Medienliste (Inventur): berichte/medien/Medienliste (Inventur).md
+      - Medienliste (Standard): berichte/medien/Medienliste (Standard).md
+      - Medienliste (mit Exemplaren) mit Katalog: berichte/medien/Medienliste (mit Exemplaren) mit Katalog.md
+      - Medienliste (mit Exemplaren): berichte/medien/Medienliste (mit Exemplaren).md
     - Medienvorgänge: berichte/14_medienvorgaenge.md
     - Medienausleiher: berichte/15_medienausleiher.md

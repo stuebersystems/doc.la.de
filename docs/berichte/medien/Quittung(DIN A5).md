@@ -1,0 +1,1 @@
+﻿# Quittung(DIN A5)
