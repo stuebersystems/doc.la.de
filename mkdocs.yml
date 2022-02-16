@@ -717,7 +717,8 @@ nav:
       - SHL-GY-Abi(Abiturergebnisse): berichte/abitur/SHL-GY-Abi(Abiturergebnisse).md
       - Schülerliste (Abitur): berichte/abitur/Schülerliste (Abitur).md
     - Bibliothek:
-      - Quittungen: berichte/12_quittungen.md
+      - Quittungen: 
+        - gesammelt: berichte/quittungen/12_quittungen.md
       - Medien: berichte/13_medien.md
       - Medienvorgänge: berichte/14_medienvorgaenge.md
       - Medienausleiher: berichte/15_medienausleiher.md
