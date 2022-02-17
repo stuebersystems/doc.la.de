@@ -1,4 +1,4 @@
-# BER-ISS.GES (Schul Z 213)(11.19).rpt
+# BER-Schul Z 213(11.19).rpt
 
 [1]:/assets/images/Berlin/Pruefungsnote1.png
 [2]:/assets/images/Berlin/Pruefungsnote2.png
