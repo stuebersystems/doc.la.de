@@ -13,22 +13,22 @@ repo_url: 'https://github.com/stuebersystems/doc.la.de'
 
 # Theming
 theme: 
-    name: material
-    custom_dir: overrides
-    language: de
-    features:
-        - navigation.tabs
-        - navigation.instant
-    palette:
-        primary: 'blue'
-        accent: 'deep orange'
-    font: false
-    favicon: assets/logos/favicon.ico
-    logo: 'assets/logos/logo.svg'
-    include_search_page: false
-    search_index_only: true
-    static_templates:
-      - 404.html
+  name: material
+  custom_dir: overrides
+  language: de
+  features:
+    - navigation.tabs
+    - navigation.instant
+  palette:
+    primary: 'blue'
+    accent: 'deep orange'
+  font: false
+  favicon: assets/logos/favicon.ico
+  logo: 'assets/logos/logo.svg'
+  include_search_page: false
+  search_index_only: true
+  static_templates:
+    - 404.html
 
 # Legal links
 extra:
@@ -40,26 +40,26 @@ extra:
 
 # Customization
 extra_css:
-    - assets/css/custom.css
+  - assets/css/custom.css
 
 # Plugins    
 plugins:
-    - search
-    - img2fig
+  - search
+  - img2fig
     
 # Extensions    
 markdown_extensions:
-    - admonition
+  - admonition
   
 # Navigation  
 nav:
-- Überblick:
-   - Einführung: index.md
-- Skripte:
-    - Skripte im Überblick: skriptueberblick.md
-    - Oberstufenorganisation: 
-      - Allgemein: oberstufenorganisation.md
-    - Berechnungsskripte: 
+  - Überblick:
+    - Einführung: index.md
+  - Skripte:
+      - Skripte im Überblick: skriptueberblick.md
+      - Oberstufenorganisation: 
+        - Allgemein: oberstufenorganisation.md
+      - Berechnungsskripte: 
         - Allgemeines: berechnungsskripte.md
         - Auslandsschulen:
           - DE-DIAP-2018: 01.de/de-diap-2018.md 
@@ -159,72 +159,72 @@ nav:
           - SHL-APO-2007: 13.shl/shl-apo-2007.md
           - SHL-APO-1998: 13.shl/shl-apo-1998.md
         - Thüringen:
-          - THÜ-APO-1999: 14.thu/thu-apo-1999.md
-    - Fachwahl: 
-      - Allgemeines: fachwahlen.md
-      - Berlin:
-        - BER-FW-APO-2017.js: 03.ber/ber-fw-2017js.md
-        - BER-FW-APO-2011.js: 03.ber/ber-fw-apo-2011js.md
-        - BER-FW-APO-BBS-2011.js: 03.ber/ber-fw-apo-bbs-2011js.md
-      - Hessen:
-        - HES-FW-APO-2015.js: 05.hes/hes-fw-apo-2015js.md
-        - HES-FW-APO-BGY-2015.js: 05.hes/hes-fw-apo-bgy-2015js.md
-        - HES-FW-APO-2010.dws: 05.hes/hes-fw-apo-2010js.md
-      - Mecklenburg-Vorpommern:
-        - MVP-FW-APO-2010.js: 06.mvp/mvp-fw-apo-2010js.md
-      - Niedersachsen:
-        - NIE-FW-APO-2010.js: 07.nie/nie-fw-apo-2010js.md
-      - Nordrhein-Westfalen:
-        - NRW-FW-APO-2012.js: 08.nrw/nrw-fw-apo-2012js.md
-        - NRW-FW-APO-BK-2012.js: 08.nrw/nrw-fw-apo-bk-2012js.md
-      - Rheinland-Pfalz:
-        - RLP-FW-APO-2010.js: 09.rlp/rlp-fw-apo-2010js.md
-        - RLP-FW-APO-BGY-2010.js: 09.rlp/rlp-fw-apo-bgy-2010js.md
-      - Sachsen:
-        - SAC-FW-APO-2014.js: 11.sac/sac-fw-apo-2014js.md
-      - Saarland:
-        - SAR-FW-APO-2007.js: 12.sar/sar-fw-apo-2007js.md
-      - Schleswig-Holstein:
-        - SHL-FW-APO-2010.js:  13.shl/shl-fw-apo-2010js.md 
-    - Mittelstufe: 
-      - Allgemein: mittelstufe.md
-      - Saarland: 
-        - SAR-VO-GEM-2015.dws: 12.sar/sar-vo-gem-2015.md
-    - Berufsschule: 
-      - Allgemein: berufsschule.md
-      - Berlin:
-        - BER-BBS-Matrix-2007.dws: 03.ber/ber-bbs-matrix-2007dws.md
-        - BER-BBS-Matrix-2016.dws: 03.ber/ber-bbs-matrix-2016dws.md
-        - BER-BFS-Matrix-2016.dws: 03.ber/ber-bfs-matrix-2016dws.md
-      - Schweiz:
-        - CH-BBS-Matrix (Buchhändler).dws: 15.ch/ch-bbs-matrix_buchhandlerdws.md
-        - CH-BBS-Matrix (Büroassistent).dws: 15.ch/ch-bbs-matrix_buroassistentdws.md
-        - CH-BBS-Matrix (Drogist).dws: 15.ch/ch-bbs-matrix_drogistdws.md
-        - CH-BBS-Matrix (KFM-Profil-B 3-jährig).dws: 15.ch/ch-bbs-matrixkfm_-profil-b3_-jahrigdwsmd.md
-        - CH-BBS-Matrix (KFM-Profil-E 2003 3-jährig).dws: 15.ch/ch-bbs-matrix_kfm-profil-e_2003_3-jahrigdws.md
-        - CH-BBS-Matrix (KFM-Profil-E 2012 3-jährig).dws: 15.ch/ch-bbs-matrix_kfm-profil-e_2012_3-jahrigdws.md
-      - Rheinland-Pfalz:
-        - RLP-BBS-Matrix (2-jährig).dws: 09.rlp/rlp-bbs-matrix_2-jahrigdws.md
-        - RLP-BBS-Matrix (2,5-jährig).dws: 09.rlp/rlp-bbs-matrix_2,5-jahrigdws.md
-        - RLP-BBS-Matrix (3-jährig).dws: 09.rlp/rlp-bbs-matrix_3-jahrigdws.md
-        - RLP-BBS-Matrix (4-jährig).dws: 09.rlp/rlp-bbs-matrix_4-jahrigdws.md
-    - Durchschnitte, MSA und Abschlüsse : 
-      - Allgemein: durchschnitt_abschluss.md
-      - Deutsche Auslandsschulen:
-        - DE-MSA-2019.dws: 01.de/de-msa-2019dws.md
-      - Baden-Württemberg:
-        - BAW-BSO-Lernfeldkonzeption-2005.dws: 02.baw/baw-bso-lernfeldkonzeption-2005dws.md
-        - BAW-BSO-Berufsvorbereitungsjahr-2004.dws: 02.baw/baw-bso-berufsvorbereitungsjahr-2004dws.md
-      - Berlin:
-        - BER-IBA-MSA-2019.dws: 03.ber/ber-iba-msa-2019.md
-        - BER-IBA-HJ-2020.dws: 03.ber/ber-iba-hj-2020dws.md
-        - BER-IBA-AS-2020.dws: 03.ber/ber-iba-as-2020dws.md
-      - Nordrhein-Westfalen:
-        - NRW-AS-APO-BK-1999: 08.nrw/nrw-as-apo-bk-1999.md
-      - Schweiz:
-        - CH-Promotion (KFM-Profil-E 2012).dws: 15.ch/ch-promotion_kfm-profil-e_2012dws.md
-        - CH-Promotion (KFM-Profil-E 2003).dws: 15.ch/ch-promotion_kfm-profil-e_2003dws.md
-- Berichte:
+            - THÜ-APO-1999: 14.thu/thu-apo-1999.md
+      - Fachwahl: 
+        - Allgemeines: fachwahlen.md
+        - Berlin:
+          - BER-FW-APO-2017.js: 03.ber/ber-fw-2017js.md
+          - BER-FW-APO-2011.js: 03.ber/ber-fw-apo-2011js.md
+          - BER-FW-APO-BBS-2011.js: 03.ber/ber-fw-apo-bbs-2011js.md
+        - Hessen:
+          - HES-FW-APO-2015.js: 05.hes/hes-fw-apo-2015js.md
+          - HES-FW-APO-BGY-2015.js: 05.hes/hes-fw-apo-bgy-2015js.md
+          - HES-FW-APO-2010.dws: 05.hes/hes-fw-apo-2010js.md
+        - Mecklenburg-Vorpommern:
+          - MVP-FW-APO-2010.js: 06.mvp/mvp-fw-apo-2010js.md
+        - Niedersachsen:
+          - NIE-FW-APO-2010.js: 07.nie/nie-fw-apo-2010js.md
+        - Nordrhein-Westfalen:
+          - NRW-FW-APO-2012.js: 08.nrw/nrw-fw-apo-2012js.md
+          - NRW-FW-APO-BK-2012.js: 08.nrw/nrw-fw-apo-bk-2012js.md
+        - Rheinland-Pfalz:
+          - RLP-FW-APO-2010.js: 09.rlp/rlp-fw-apo-2010js.md
+          - RLP-FW-APO-BGY-2010.js: 09.rlp/rlp-fw-apo-bgy-2010js.md
+        - Sachsen:
+          - SAC-FW-APO-2014.js: 11.sac/sac-fw-apo-2014js.md
+        - Saarland:
+          - SAR-FW-APO-2007.js: 12.sar/sar-fw-apo-2007js.md
+        - Schleswig-Holstein:
+          - SHL-FW-APO-2010.js:  13.shl/shl-fw-apo-2010js.md 
+      - Mittelstufe: 
+        - Allgemein: mittelstufe.md
+        - Saarland: 
+          - SAR-VO-GEM-2015.dws: 12.sar/sar-vo-gem-2015.md
+      - Berufsschule: 
+        - Allgemein: berufsschule.md
+        - Berlin:
+          - BER-BBS-Matrix-2007.dws: 03.ber/ber-bbs-matrix-2007dws.md
+          - BER-BBS-Matrix-2016.dws: 03.ber/ber-bbs-matrix-2016dws.md
+          - BER-BFS-Matrix-2016.dws: 03.ber/ber-bfs-matrix-2016dws.md
+        - Schweiz:
+          - CH-BBS-Matrix (Buchhändler).dws: 15.ch/ch-bbs-matrix_buchhandlerdws.md
+          - CH-BBS-Matrix (Büroassistent).dws: 15.ch/ch-bbs-matrix_buroassistentdws.md
+          - CH-BBS-Matrix (Drogist).dws: 15.ch/ch-bbs-matrix_drogistdws.md
+          - CH-BBS-Matrix (KFM-Profil-B 3-jährig).dws: 15.ch/ch-bbs-matrixkfm_-profil-b3_-jahrigdwsmd.md
+          - CH-BBS-Matrix (KFM-Profil-E 2003 3-jährig).dws: 15.ch/ch-bbs-matrix_kfm-profil-e_2003_3-jahrigdws.md
+          - CH-BBS-Matrix (KFM-Profil-E 2012 3-jährig).dws: 15.ch/ch-bbs-matrix_kfm-profil-e_2012_3-jahrigdws.md
+        - Rheinland-Pfalz:
+          - RLP-BBS-Matrix (2-jährig).dws: 09.rlp/rlp-bbs-matrix_2-jahrigdws.md
+          - RLP-BBS-Matrix (2,5-jährig).dws: 09.rlp/rlp-bbs-matrix_2,5-jahrigdws.md
+          - RLP-BBS-Matrix (3-jährig).dws: 09.rlp/rlp-bbs-matrix_3-jahrigdws.md
+          - RLP-BBS-Matrix (4-jährig).dws: 09.rlp/rlp-bbs-matrix_4-jahrigdws.md
+      - Durchschnitte, MSA und Abschlüsse : 
+        - Allgemein: durchschnitt_abschluss.md
+        - Deutsche Auslandsschulen:
+          - DE-MSA-2019.dws: 01.de/de-msa-2019dws.md
+        - Baden-Württemberg:
+          - BAW-BSO-Lernfeldkonzeption-2005.dws: 02.baw/baw-bso-lernfeldkonzeption-2005dws.md
+          - BAW-BSO-Berufsvorbereitungsjahr-2004.dws: 02.baw/baw-bso-berufsvorbereitungsjahr-2004dws.md
+        - Berlin:
+          - BER-IBA-MSA-2019.dws: 03.ber/ber-iba-msa-2019.md
+          - BER-IBA-HJ-2020.dws: 03.ber/ber-iba-hj-2020dws.md
+          - BER-IBA-AS-2020.dws: 03.ber/ber-iba-as-2020dws.md
+        - Nordrhein-Westfalen:
+          - NRW-AS-APO-BK-1999: 08.nrw/nrw-as-apo-bk-1999.md
+        - Schweiz:
+          - CH-Promotion (KFM-Profil-E 2012).dws: 15.ch/ch-promotion_kfm-profil-e_2012dws.md
+          - CH-Promotion (KFM-Profil-E 2003).dws: 15.ch/ch-promotion_kfm-profil-e_2003dws.md
+  - Berichte:
     - Übersicht: berichte/01_uebersicht.md
     - Zeugnisse: 
       - Allgemeine: berichte/zeugnisse/allgemein_zeugnisse.md
@@ -486,22 +486,22 @@ nav:
       - SAR: berichte/zeugnisse/sar_zeugnisse.md
       - SHL: berichte/zeugnisse/shl_zeugnisse.md
       - THU: 
-      - THÜ-BF-AS (mit Berufsbezeichnung): berichte/zeugnisse/thu/THÜ-BF-AS (mit Berufsbezeichnung).md
-      - THÜ-BF-AS: berichte/zeugnisse/thu/THÜ-BF-AS.md
-      - THÜ-BF-AZ (mit Berufsbezeichnung): berichte/zeugnisse/thu/THÜ-BF-AZ (mit Berufsbezeichnung).md
-      - THÜ-BF-JZ (mit Versetzungstext): berichte/zeugnisse/thu/THÜ-BF-JZ (mit Versetzungstext).md
-      - THÜ-BF-JZ (ohne Versetzungstext): berichte/zeugnisse/thu/THÜ-BF-JZ (ohne Versetzungstext).md
-      - THÜ-BS-AS (BVJ 1-2): berichte/zeugnisse/thu/THÜ-BS-AS (BVJ 1-2).md
-      - THÜ-BS-AS (BVJ Modellprojekt): berichte/zeugnisse/thu/THÜ-BS-AS (BVJ Modellprojekt).md
-      - THÜ-BS-AS (mit Zusatz Betriebsassistent): berichte/zeugnisse/thu/THÜ-BS-AS (mit Zusatz Betriebsassistent).md
-      - THÜ-BS-JZ (BVJ 1-2 und mit Versetzungstext): berichte/zeugnisse/thu/THÜ-BS-JZ (BVJ 1-2 und mit Versetzungstext).md
-      - THÜ-BS-JZ (BVJ 1-2 und ohne Versetzungstext): berichte/zeugnisse/thu/THÜ-BS-JZ (BVJ 1-2 und ohne Versetzungstext).md
-      - THÜ-BS-JZ (BVJ und mit Versetzungstext): berichte/zeugnisse/thu/THÜ-BS-JZ (BVJ und mit Versetzungstext).md
-      - THÜ-BS-JZ (BVJ und ohne Versetzungtext): berichte/zeugnisse/thu/THÜ-BS-JZ (BVJ und ohne Versetzungtext).md
-      - THÜ-FO-AS: berichte/zeugnisse/thu/THÜ-FO-AS.md
-      - THÜ-FO-FHReife: berichte/zeugnisse/thu/THÜ-FO-FHReife.md
-      - THÜ-FO-JZ (mit Versetzungstext): berichte/zeugnisse/thu/THÜ-FO-JZ (mit Versetzungstext).md
-      - THÜ-FO-JZ (ohne Versetzungstext): berichte/zeugnisse/thu/THÜ-FO-JZ (ohne Versetzungstext).md
+        - THÜ-BF-AS (mit Berufsbezeichnung): berichte/zeugnisse/thu/THÜ-BF-AS (mit Berufsbezeichnung).md
+        - THÜ-BF-AS: berichte/zeugnisse/thu/THÜ-BF-AS.md
+        - THÜ-BF-AZ (mit Berufsbezeichnung): berichte/zeugnisse/thu/THÜ-BF-AZ (mit Berufsbezeichnung).md
+        - THÜ-BF-JZ (mit Versetzungstext): berichte/zeugnisse/thu/THÜ-BF-JZ (mit Versetzungstext).md
+        - THÜ-BF-JZ (ohne Versetzungstext): berichte/zeugnisse/thu/THÜ-BF-JZ (ohne Versetzungstext).md
+        - THÜ-BS-AS (BVJ 1-2): berichte/zeugnisse/thu/THÜ-BS-AS (BVJ 1-2).md
+        - THÜ-BS-AS (BVJ Modellprojekt): berichte/zeugnisse/thu/THÜ-BS-AS (BVJ Modellprojekt).md
+        - THÜ-BS-AS (mit Zusatz Betriebsassistent): berichte/zeugnisse/thu/THÜ-BS-AS (mit Zusatz Betriebsassistent).md
+        - THÜ-BS-JZ (BVJ 1-2 und mit Versetzungstext): berichte/zeugnisse/thu/THÜ-BS-JZ (BVJ 1-2 und mit Versetzungstext).md
+        - THÜ-BS-JZ (BVJ 1-2 und ohne Versetzungstext): berichte/zeugnisse/thu/THÜ-BS-JZ (BVJ 1-2 und ohne Versetzungstext).md
+        - THÜ-BS-JZ (BVJ und mit Versetzungstext): berichte/zeugnisse/thu/THÜ-BS-JZ (BVJ und mit Versetzungstext).md
+        - THÜ-BS-JZ (BVJ und ohne Versetzungtext): berichte/zeugnisse/thu/THÜ-BS-JZ (BVJ und ohne Versetzungtext).md
+        - THÜ-FO-AS: berichte/zeugnisse/thu/THÜ-FO-AS.md
+        - THÜ-FO-FHReife: berichte/zeugnisse/thu/THÜ-FO-FHReife.md
+        - THÜ-FO-JZ (mit Versetzungstext): berichte/zeugnisse/thu/THÜ-FO-JZ (mit Versetzungstext).md
+        - THÜ-FO-JZ (ohne Versetzungstext): berichte/zeugnisse/thu/THÜ-FO-JZ (ohne Versetzungstext).md
     - Menü Schüler: 
       - Anmeldeschein (weiterführende Schulen): berichte/schueler/Anmeldeschein (weiterführende Schulen).md
       - Ausländerliste (nach Staatsangehörigkeiten): berichte/schueler/Ausländerliste (nach Staatsangehörigkeiten).md
@@ -821,15 +821,15 @@ nav:
       - Aktive Ausleihvorgaenge pro Schueler (nach Klassen gruppiert): berichte/medienvorgaenge/Aktive Ausleihvorgaenge pro Schueler (nach Klassen gruppiert).md
       - Alle Ausleihvorgaenge pro Schueler (nach Klassen und Medien gruppiert): berichte/medienvorgaenge/Alle Ausleihvorgaenge pro Schueler (nach Klassen und Medien gruppiert).md
     - Medienausleiher: 
-      - Alle Ausleihvorgaenge pro Lehrer: berichte/medienausleiher/Alle Ausleihvorgaenge pro Lehrer.md
-      - Alle Ausleihvorgaenge pro Person: berichte/medienausleiher/Alle Ausleihvorgaenge pro Person.md
-      - Alle Ausleihvorgaenge pro Schueler (nach Klassen gruppiert): berichte/medienausleiher/Alle Ausleihvorgaenge pro Schueler (nach Klassen gruppiert).md
-      - Bibliotheksausweis (Avery-Zweckfom-Etikett 3658): berichte/medienausleiher/Bibliotheksausweis (Avery-Zweckfom-Etikett 3658).md
-      - Bibliotheksausweis (klein): berichte/medienausleiher/Bibliotheksausweis (klein).md
-      - Bibliotheksausweis (mit Passfoto): berichte/medienausleiher/Bibliotheksausweis (mit Passfoto).md
-      - Bibliotheksausweis (Standard): berichte/medienausleiher/Bibliotheksausweis (Standard).md
-      - Noch nicht zurueckgegebene Exemplare pro Lehrer: berichte/medienausleiher/Noch nicht zurueckgegebene Exemplare pro Lehrer.md
-      - Noch nicht zurueckgegebene Exemplare pro Person: berichte/medienausleiher/Noch nicht zurueckgegebene Exemplare pro Person.md
-      - Offene Ausleihvorgänge (nach Klassen gruppiert): berichte/medienausleiher/Offene Ausleihvorgänge (nach Klassen gruppiert).md
-      - Offene Ausleihvorgänge (nach Schüler gruppiert): berichte/medienausleiher/Offene Ausleihvorgänge (nach Schüler gruppiert).md
-      - Schuelerliste mit Barcode (nach Klassen gruppiert): berichte/medienausleiher/Schuelerliste mit Barcode (nach Klassen gruppiert).md
+        - Alle Ausleihvorgaenge pro Lehrer: berichte/medienausleiher/Alle Ausleihvorgaenge pro Lehrer.md
+        - Alle Ausleihvorgaenge pro Person: berichte/medienausleiher/Alle Ausleihvorgaenge pro Person.md
+        - Alle Ausleihvorgaenge pro Schueler (nach Klassen gruppiert): berichte/medienausleiher/Alle Ausleihvorgaenge pro Schueler (nach Klassen gruppiert).md
+        - Bibliotheksausweis (Avery-Zweckfom-Etikett 3658): berichte/medienausleiher/Bibliotheksausweis (Avery-Zweckfom-Etikett 3658).md
+        - Bibliotheksausweis (klein): berichte/medienausleiher/Bibliotheksausweis (klein).md
+        - Bibliotheksausweis (mit Passfoto): berichte/medienausleiher/Bibliotheksausweis (mit Passfoto).md
+        - Bibliotheksausweis (Standard): berichte/medienausleiher/Bibliotheksausweis (Standard).md
+        - Noch nicht zurueckgegebene Exemplare pro Lehrer: berichte/medienausleiher/Noch nicht zurueckgegebene Exemplare pro Lehrer.md
+        - Noch nicht zurueckgegebene Exemplare pro Person: berichte/medienausleiher/Noch nicht zurueckgegebene Exemplare pro Person.md
+        - Offene Ausleihvorgänge (nach Klassen gruppiert): berichte/medienausleiher/Offene Ausleihvorgänge (nach Klassen gruppiert).md
+        - Offene Ausleihvorgänge (nach Schüler gruppiert): berichte/medienausleiher/Offene Ausleihvorgänge (nach Schüler gruppiert).md
+        - Schuelerliste mit Barcode (nach Klassen gruppiert): berichte/medienausleiher/Schuelerliste mit Barcode (nach Klassen gruppiert).md
