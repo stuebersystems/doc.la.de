@@ -1,36 +1,37 @@
 ﻿# MVP-FS-AS
-## MVP-FS-AS.rpt
 
-**(A0016)** Schüler > Zeugnis > Fächer > Merkmal
+## Fächer
+
+`Schüler > Zeugnis > Fächer > Merkmal´
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
 
-**Abschlussdatum**
+## Abschlussdatum
 
 `Schüler > Laufbahn > Abschluss`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Schulformeintritt**
+## Schulformeintritt
 
 `Schüler > Laufbahn > Allgemein`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Beruf Schüler**
+## Beruf Schüler
 
 `Schüler > Ausbildung > Ausbildungbetriebe > Beruf`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Beruf" den Beruf ein. Grundlage bildet das `Schlüsselverzeichnis > Berufe`. 
 
-**Bildungsgang Schüler**
+## Bildungsgang Schüler
 
 `Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**Berufsfeld des Bildungsganges**
+## Berufsfeld des Bildungsganges
 
 `Schlüsselverzeichnisse > Bildungsgänge` UND `Schlüsselverzeichnisse > Berufsfelder`
 
