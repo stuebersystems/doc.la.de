@@ -568,9 +568,9 @@ nav:
       - RLP: berichte/zeugnisse/rlp_zeugnisse.md
       - SAA: berichte/zeugnisse/saa_zeugnisse.md
       - SAC: berichte/zeugnisse/sac_zeugnisse.md
-      - SAR: berichte/zeugnisse/sar_zeugnisse.md
+      - SAR: 
+        - gesammelt: berichte/zeugnisse/sar/sar_zeugnisse.md
       - SHL: 
-        - gesammelt: berichte/zeugnisse/shl/shl_zeugnisse.md
         - SHL-ABI-Meldung-MdlAbitur (Profil 2011): berichte/zeugnisse/shl/SHL-ABI-Meldung-MdlAbitur (Profil 2011).md
         - SHL-ABI-Meldung-MdlAbitur (Profil): berichte/zeugnisse/shl/SHL-ABI-Meldung-MdlAbitur (Profil).md
         - SHL-GEMS-AS: berichte/zeugnisse/shl/SHL-GEMS-AS.md
