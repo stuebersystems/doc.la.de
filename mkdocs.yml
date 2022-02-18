@@ -672,7 +672,7 @@ nav:
         - SAR-FHReife (Nachweis)(GOS2.0) Zweitschrift: berichte/zeugnisse/sar/SAR-FHReife (Nachweis)(GOS2.0) Zweitschrift.md
         - SAR-FHReife (Nachweis)(GOS2.0): berichte/zeugnisse/sar/SAR-FHReife (Nachweis)(GOS2.0).md
         - SAR-GEMS-AS (Klasse 10)(ab 2020): berichte/zeugnisse/sar/SAR-GEMS-AS (Klasse 10)(ab 2020).md
-        - SAR-GEMS-AS (Klasse 9 mit Prüfung)(ab 2020) : berichte/zeugnisse/sar/SAR-GEMS-AS (Klasse 9 mit Prüfung)(ab 2020) .md
+        - SAR-GEMS-AS (Klasse 9 mit Prüfung)(ab 2020) : berichte/zeugnisse/sar/SAR-GEMS-AS (Klasse 9 mit Prüfung)(ab 2020).md
         - SAR-GEMS-AS (Klasse 9 mit Prüfung)(ab 2021): berichte/zeugnisse/sar/SAR-GEMS-AS (Klasse 9 mit Prüfung)(ab 2021).md
         - SAR-GEMS-AS (Klasse 9 ohne Prüfung)(ab 2020): berichte/zeugnisse/sar/SAR-GEMS-AS (Klasse 9 ohne Prüfung)(ab 2020).md
         - SAR-GEMS-AS (Klasse 9 ohne Prüfung)(ab 2021): berichte/zeugnisse/sar/SAR-GEMS-AS (Klasse 9 ohne Prüfung)(ab 2021).md
@@ -680,7 +680,7 @@ nav:
         - SAR-GEMS-AS (Klasse 9-10): berichte/zeugnisse/sar/SAR-GEMS-AS (Klasse 9-10).md
         - SAR-GEMS-AZ (Klasse 5-10): berichte/zeugnisse/sar/SAR-GEMS-AZ (Klasse 5-10).md
         - SAR-GEMS-HJZ-JZ (Klasse 5-10): berichte/zeugnisse/sar/SAR-GEMS-HJZ-JZ (Klasse 5-10).md
-        - SAR-GY-ABI (GOS2.0) : berichte/zeugnisse/sar/SAR-GY-ABI (GOS2.0) .md
+        - SAR-GY-ABI (GOS2.0) : berichte/zeugnisse/sar/SAR-GY-ABI (GOS2.0).md
         - SAR-GY-AZ (GOS2.0): berichte/zeugnisse/sar/SAR-GY-AZ (GOS2.0).md
         - SAR-GY-AZ (Klassenstufen 5-10)+GEMS-AZ (Einführungsphase): berichte/zeugnisse/sar/SAR-GY-AZ (Klassenstufen 5-10)+GEMS-AZ (Einführungsphase).md
         - SAR-GY-AZ (modifiziert Klassenstufen 9 und 10): berichte/zeugnisse/sar/SAR-GY-AZ (modifiziert Klassenstufen 9 und 10).md
@@ -748,6 +748,10 @@ nav:
         - THÜ-FO-FHReife: berichte/zeugnisse/thu/THÜ-FO-FHReife.md
         - THÜ-FO-JZ (mit Versetzungstext): berichte/zeugnisse/thu/THÜ-FO-JZ (mit Versetzungstext).md
         - THÜ-FO-JZ (ohne Versetzungstext): berichte/zeugnisse/thu/THÜ-FO-JZ (ohne Versetzungstext).md
+        - THÜ-GY-AZ: berichte/zeugnisse/thu/THÜ-GY-AZ.md
+        - THÜ-GY-JZ: berichte/zeugnisse/thu/THÜ-GY-JZ.md
+        - THÜ-RGL-JZ: berichte/zeugnisse/thu/THÜ-RGL-JZ.md
+        - THÜ-RGL-JZ (über den Hauptschulabschluss): berichte/zeugnisse/thu/THÜ-RGL-JZ (über den Hauptschulabschluss).md
     - Menü Schüler: 
       - Anmeldeschein (weiterführende Schulen): berichte/schueler/Anmeldeschein (weiterführende Schulen).md
       - Ausländerliste (nach Staatsangehörigkeiten): berichte/schueler/Ausländerliste (nach Staatsangehörigkeiten).md
