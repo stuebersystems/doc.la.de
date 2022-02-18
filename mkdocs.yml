@@ -567,7 +567,8 @@ nav:
       - NRW: berichte/zeugnisse/nrw_zeugnisse.md
       - RLP: berichte/zeugnisse/rlp_zeugnisse.md
       - SAA: berichte/zeugnisse/saa_zeugnisse.md
-      - SAC: berichte/zeugnisse/sac_zeugnisse.md
+      - SAC: 
+        - gesammelt: berichte/zeugnisse/sac/sac_zeugnisse.md
       - SAR: 
         - SAR-AS-Verhaltenszeugnisberichte: berichte/zeugnisse/sar/SAR-AS-Verhaltenszeugnisberichte.md
         - SAR-AZ-Verhaltenszeugnis: berichte/zeugnisse/sar/SAR-AZ-Verhaltenszeugnis.md
