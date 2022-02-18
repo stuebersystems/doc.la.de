@@ -1,8 +1,6 @@
-﻿# SAC-BG-ABI (E.01.06)
+﻿# SAC-BG-ABI (E.01.06).rpt
 
-## SAC-BG-ABI (E.01.06).rpt
-
-`Archiv`
+E.01.06 Zeugnis der allgemeinen Hochschulreife
 
 ## Fachstatus 
 
@@ -58,6 +56,22 @@ GK | GK | Grundkurse
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
+`Extras > Schlüsselverzeichnisse > Bildungsgänge` UND `Extras > Schlüsselverzeichnisse > Berufsfelder`
+
+Weisen Sie unter `Schlüsselverzeichnisse > Bildungsgänge` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage das `Schlüsselverzeichnis > Berufsfelder`.
+
+## Berufsfeld der Klasse
+
+`Klassen > Daten > Berufsfeld`
+
+Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
+
+## Berufsfeld Klasse oder Schüler Berufsfeld
+
+ `Klasse > Berufsfeld` ODER `Schüler > Ausbildung > Berufsfeld`
+
+Für die Ausgabe des Berufsfeldes müssen Sie entweder das Berufsfeld einer Klasse definieren oder das des Schülers.
+
 ## Schulname 
 
 `Mandanten > Daten > Name 1`
@@ -65,21 +79,23 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-## SchulleiterIn 
+## Zeugnisbemerkungen Abitur
 
-`Mandanten > Daten 1 > Schulleiter`
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
+Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-## Fächerpositionierung
+Fächerpositionierung 
 
-`Schüler > Zeugnis > Fächer` / `Abitur > Qualifikation`
+`Schüler > Zeugnis > Fächer` bzw. `Abitur > Qualifikation` 
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` bzw. im Menü `Abitur > Qualifikation` bei jedem Schüler pro Fach eine Position in der Spalte "Position" angegeben werden.
+## Eintrag im Feld "Position"
+
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte `Zeugnis > Fächer` bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro Fach eine Position in der Spalte "Position" angegeben werden.
 
 ## Zeugnisdatum 
 
@@ -96,16 +112,17 @@ Gehen Sie jeweils wie folgt vor:
 
 Prüfungskomponente | Vorgehensweise in MAGELLAN
 --|--
-Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü Abitur > Qualifikation in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.
-Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
-Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
-markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Abitur > Prüfung > Lernleistung, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
+Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.<br/><br/>Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
+Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü A`bitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren. <br/><br/>Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. `Abitur > Prüfung > Lernleistung`, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. <br/><br/>Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
-## Benotung der Fächer in Klasse 11
+## In Klasse 11 abgeschlossene Fächer
 
 `Schüler > Zeugnis > Leistungen > Noten`
+`Abitur > Qualifikation`
 
 Beachten Sie bitte, dass Sie Fächern, die in der Klasse 11 abgeschlossen wurden nur Noten in der Skala von 1 bis 6 zuweisen.
+
+Das Zeugnis gibt Fächer, für die keine Noten nach Klassenstufe 11 erfasst wurden als abgeschlossen in Klasse 11 aus. Bitte achten Sie darauf, dass auf der Karte `Abitur > Qualifikation` nur vom Schüler belegte Fächer erfasst sind, bitte löschen Sie ggfs. nicht belegte Fächer des Schülers.  
 
 ## Mandanten / Ort
 
@@ -119,20 +136,73 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü Lehrer zurück.
 
-## zusätzlichen mündliche Prüfungen
+## zusätzlichen mündliche Prüfungen 
 
 `Abitur > Prüfung > 2. mündl. Note`
 
 Im Falle einer zusätzlichen mündliche Prüfungen tragen Sie diese Noze im Menü Abitur > Prüfung in den entsprechenden Feldern unter "2. mündl. Note" ein. Eine Zusätzliche mündliche Prüfung ist in den Prüfungsfächern 1 bis 5 möglich.
 
-## Fachrichtung Schüler
+## Sprachreferenzen
 
-`Extras > Schlüsselverzeichnisse > Bildungsgänge`
+`Schüler > Daten 3 > Fremdsprachefolge > Referenz`
 
-Die Fachrichtung des Schülers legen Sie wie folgt an:
+Bitte tragen Sie im Menü Schüler > Daten 3 > Fremdsprachefolge im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das Schlüsselverzeichnis > Sprachreferenzen. Vom Bericht wird das Kürzel abgefragt.
 
-1) Weisen Sie im Menü `Schüler > Ausbildung` den Bildungsgang des Schülers im Feld „Bildungsgang“ zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`. 
-2) Weisen Sie im `Schlüsselverzeichnis > Bildungsgänge` im Feld „Fachrichtung“ die Fachrichtung zu. Grundlage bildet das `Schlüsselverzeichnis > Fachrichtungen`.
+## Zeugnisbemerkungen vordefinieren
 
-Ausgegeben auf dem Zeugnis wird die Fachrichtung des Bildungsganges.
+`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
+
+Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
+
+## Personalisierung Zeugnisbemerkungen
+ 
+`Schüler > Zeugnis > Bemerkungen/Formulare` / `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` / `Berufsschule > Zeugnisbemerkungen`
+
+Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
+Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B. So ``<<hier steht Ihr Platzhalter>>``. 
+
+Möglich sind:
+
+Platzhalter in MAGELLAN | Anzeige im Bericht
+--|--
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+``<<Name>>`` | Vorname Vorname2 Namenszusatz Nachname
+``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)
+``<<seine_ihre>>`` | seine/ihre (je nach Geschlecht des Schülers) 
+``<<Ihm_Ihr>>`` | Ihm/Ihr (je nach Geschlecht des Schülers) 
+``<<ihm_ihr>>`` | ihm/ihr (je nach Geschlecht des Schülers) 
+``<<Seinen_Ihren>>`` | Seinen/Ihnen (je nach Geschlecht des Schülers) 
+``<<seinen_ihren>>`` | seinen/ihnen (je nach Geschlecht des Schülers) 
+``<<DerSchueler_DieSchuelerin>>`` | Der Schüler/Die Schülerin je nach Geschlecht des Schülers) 
+``<<derSchueler_dieSchuelerin>>`` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
+``<<DemSchueler_DerSchuelerin>>`` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
+
+## Bemerkungstext Feststellungsprüfung in der Herkunftssprache 
+
+`Schüler > Zeugnis > Bemerkungen/Formulare`
+
+Für die Ausgabe des Satzes "<Der Schüler hat die Belegungsverpflichtung in der zweiten Fremdsprache durch Bestehen einer Feststellungsprüfung in der Herkunftssprache ersetzt.>" unter Bemerkungen gehen Sie wie folgt vor.
+
+Definieren Sie im `Schlüsselverzeichnis > Zeugnisbemerkungen` folgende Bemerkung:
+
+``<<DerSchueler_DieSchuelerin>>`` hat die Belegungsverpflichtung in der zweiten Fremdsprache durch Bestehen einer Feststellungsprüfung in der Herkunftssprache ersetzt.
+
+Weisen Sie danach dem Schüler individuell diese Zeugnisbemerkung zu. Aufgrund der Platzhalter in der Bemerkung wird in Abhängig vom Geschlecht des Schülers "Die Schülerin" oder "Der Schüler"… ausgegeben.
+
+keine 2 Fremdsprache, Ausgabe Zeugnisbemerkung 
+
+`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+
+Haben Sie im Menü `Schüler > Daten 3` keine 2 Fremdsprache hinterlegt, wird folgender Satz unter den Bemerkungen auf dem Zeugnis unterdrückt:
+
+*Das in *ZWEITE FREMDSPRACHE* erreichte Sprachniveau entspricht der Stufe <B1/B2> des Gemeinsamen europäischen Referenzrahmens.*
+
+![Zeugnisvorlage E.01.06 Seite 4](/assets/images/Sachsen/bild01.png)
+
 
