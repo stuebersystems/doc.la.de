@@ -569,7 +569,48 @@ nav:
       - SAA: berichte/zeugnisse/saa_zeugnisse.md
       - SAC: berichte/zeugnisse/sac_zeugnisse.md
       - SAR: berichte/zeugnisse/sar_zeugnisse.md
-      - SHL: berichte/zeugnisse/shl_zeugnisse.md
+      - SHL: 
+        - gesammelt: berichte/zeugnisse/shl/shl_zeugnisse.md
+        - SHL-ABI-Meldung-MdlAbitur (Profil 2011): berichte/zeugnisse/shl/SHL-ABI-Meldung-MdlAbitur (Profil 2011).md
+        - SHL-ABI-Meldung-MdlAbitur (Profil): berichte/zeugnisse/shl/SHL-ABI-Meldung-MdlAbitur (Profil).md
+        - SHL-GEMS-AS: berichte/zeugnisse/shl/SHL-GEMS-AS.md
+        - SHL-GY-ABI: berichte/zeugnisse/shl/SHL-GY-ABI.md
+        - SHL-GY-ABI (2011)_mit_doppelten_fachern: berichte/zeugnisse/shl/SHL-GY-ABI (2011)_mit_doppelten_fachern.md
+        - SHL-GY-ABI (2015): berichte/zeugnisse/shl/SHL-GY-ABI (2015).md
+        - SHL-GY-ABI (2018): berichte/zeugnisse/shl/SHL-GY-ABI (2018).md
+        - SHL-GY-ABI (Profil): berichte/zeugnisse/shl/SHL-GY-ABI (Profil).md
+        - SHL-GY-AS (Klasse 5-10)(G8): berichte/zeugnisse/shl/SHL-GY-AS (Klasse 5-10)(G8).md
+        - SHL-GY-AS (Klasse 5-10)(G9): berichte/zeugnisse/shl/SHL-GY-AS (Klasse 5-10)(G9).md
+        - SHL-GY-AS (mit Arbeits- und Sozialverhalten): berichte/zeugnisse/shl/SHL-GY-AS (mit Arbeits- und Sozialverhalten).md
+        - SHL-GY-AS-HJZ (Studienbuch 11 bis 13): berichte/zeugnisse/shl/SHL-GY-AS-HJZ (Studienbuch 11 bis 13).md
+        - SHL-GY-AZ: berichte/zeugnisse/shl/SHL-GY-AZ.md
+        - SHL-GY-AZ (A3): berichte/zeugnisse/shl/SHL-GY-AZ (A3).md
+        - SHL-GY-AZ (A3)(2015): berichte/zeugnisse/shl/SHL-GY-AZ (A3)(2015).md
+        - SHL-GY-AZ (Klasse 5-10): berichte/zeugnisse/shl/SHL-GY-AZ (Klasse 5-10).md
+        - SHL-GY-AZ (Oberstufe): berichte/zeugnisse/shl/SHL-GY-AZ (Oberstufe).md
+        - SHL-GY-Abi (Karteikarte): berichte/zeugnisse/shl/SHL-GY-Abi (Karteikarte).md
+        - SHL-GY-Abi (Leistungskarte 2011): berichte/zeugnisse/shl/SHL-GY-Abi (Leistungskarte 2011).md
+        - SHL-GY-Abi (Leistungskarte 2011)_mit_doppelten_fachern: berichte/zeugnisse/shl/SHL-GY-Abi (Leistungskarte 2011)_mit_doppelten_fachern.md
+        - SHL-GY-Abi (Leistungskarte): berichte/zeugnisse/shl/SHL-GY-Abi (Leistungskarte).md
+        - SHL-GY-Abi (Statistik schriftliche Prüfung): berichte/zeugnisse/shl/SHL-GY-Abi (Statistik schriftliche Prüfung).md
+        - SHL-GY-Abi(Abiturergebnisse): berichte/zeugnisse/shl/SHL-GY-Abi(Abiturergebnisse).md
+        - SHL-GY-Abi(Protokol schriftliche Prüfung): berichte/zeugnisse/shl/SHL-GY-Abi(Protokol schriftliche Prüfung).md
+        - SHL-GY-Abi(Zulassung muendliche Abiturprüfung): berichte/zeugnisse/shl/SHL-GY-Abi(Zulassung muendliche Abiturprüfung).md
+        - SHL-GY-Abi(Zulassung schriftliche Abiturprüfung): berichte/zeugnisse/shl/SHL-GY-Abi(Zulassung schriftliche Abiturprüfung).md
+        - SHL-GY-FHReife: berichte/zeugnisse/shl/SHL-GY-FHReife.md
+        - SHL-GY-FHReife (2011): berichte/zeugnisse/shl/SHL-GY-FHReife (2011).md
+        - SHL-GY-FHReife (2015): berichte/zeugnisse/shl/SHL-GY-FHReife (2015).md
+        - SHL-GY-FHReife (Duplikat): berichte/zeugnisse/shl/SHL-GY-FHReife (Duplikat).md
+        - SHL-GY-FHReife (Profil): berichte/zeugnisse/shl/SHL-GY-FHReife (Profil).md
+        - SHL-GY-HJZ: berichte/zeugnisse/shl/SHL-GY-HJZ.md
+        - SHL-GY-HJZ (2008): berichte/zeugnisse/shl/SHL-GY-HJZ (2008).md
+        - SHL-GY-HJZ (Profil): berichte/zeugnisse/shl/SHL-GY-HJZ (Profil).md
+        - SHL-GY-Leistungsübersicht (Klasse 5-10): berichte/zeugnisse/shl/SHL-GY-Leistungsübersicht (Klasse 5-10).md
+        - SHL-GY-Studienbuch (Qualifikationsphase - zweite Seite): berichte/zeugnisse/shl/SHL-GY-Studienbuch (Qualifikationsphase - zweite Seite).md
+        - SHL-GY-ÜZ: berichte/zeugnisse/shl/SHL-GY-ÜZ.md
+        - SHL-HS-AS: berichte/zeugnisse/shl/SHL-HS-AS.md
+        - SHL-RS-AS: berichte/zeugnisse/shl/SHL-RS-AS.md
+        - Schüler (Zeitraumübergreifende Notenübersicht): berichte/zeugnisse/shl/Schüler (Zeitraumübergreifende Notenübersicht).md
       - THU: 
         - THÜ-BF-AS (mit Berufsbezeichnung): berichte/zeugnisse/thu/THÜ-BF-AS (mit Berufsbezeichnung).md
         - THÜ-BF-AS: berichte/zeugnisse/thu/THÜ-BF-AS.md
