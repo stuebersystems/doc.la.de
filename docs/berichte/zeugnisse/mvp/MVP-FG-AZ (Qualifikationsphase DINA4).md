@@ -1,13 +1,12 @@
 ﻿# MVP-FG-AZ (Qualifikationsphase DINA4)
-## MVP-FG-AZ (Qualifikationsphase DINA4).rpt
 
-**Klassenjahrgang**
+## Klassenjahrgang
 
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen > Zeiträume` bei der Klasse des Schülers der Jahrgang im Feld "Jahrgang" eingetragen sein. eingetragen sein.
 
-**Unterrichtsarten**
+## Unterrichtsarten
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -22,7 +21,7 @@ GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
 LK | LK | Leistungskurse, Leistungsfächer
 FA | FA | Facharbeit
 
-**Merkmale für Zeugnisbemerkungen**
+## Merkmale für Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -37,19 +36,19 @@ Merkmal | Bedeutung
 --|--
 PK | Teilnahme an Projektkursen
 
-**Schulformeintritt**
+## Schulformeintritt
 
 `Schüler > Laufbahn > Allgemein`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-**Zugangs- bzw. Abgangsdatum**
+## Zugangs- bzw. Abgangsdatum
 
 `Schüler > Laufbahn > Allgemein`
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Abgang" das Abgangsdatum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster..
 
-**Berechnungsgrundlage**
+## Berechnungsgrundlage
 
 [Landesanpassungen](https://doc.la.stueber.de)
 
