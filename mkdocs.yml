@@ -569,7 +569,6 @@ nav:
       - SAA: berichte/zeugnisse/saa_zeugnisse.md
       - SAC: berichte/zeugnisse/sac_zeugnisse.md
       - SAR: 
-        - gesammelt: berichte/zeugnisse/sar/sar_zeugnisse.md
         - SAR-AS-Verhaltenszeugnisberichte: berichte/zeugnisse/sar/SAR-AS-Verhaltenszeugnisberichte.md
         - SAR-AZ-Verhaltenszeugnis: berichte/zeugnisse/sar/SAR-AZ-Verhaltenszeugnis.md
         - SAR-Antrag_Zulassung_Abitur (Anlage 5): berichte/zeugnisse/sar/SAR-Antrag_Zulassung_Abitur (Anlage 5).md
