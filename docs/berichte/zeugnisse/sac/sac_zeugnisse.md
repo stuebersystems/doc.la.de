@@ -9278,9 +9278,9 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-## Archiv
+## SAC-BG-ABI (E.01.06).rpt
 
-### ALT | SAC-BG-ABI (E.01.06).rpt
+`Archiv`
 
 **Fachstatus** 
 
@@ -9414,7 +9414,9 @@ Die Fachrichtung des Schülers legen Sie wie folgt an:
 
 Ausgegeben auf dem Zeugnis wird die Fachrichtung des Bildungsganges.
 
-### ALT | SAC-FO-AZ (D.01.04).rpt
+## SAC-FO-AZ (D.01.04).rpt
+
+`Archiv`
 
 Bitte SAC-FOS-AZ (D.01.03).rpt verwenden
 
@@ -9540,7 +9542,9 @@ Kürzel | Schlüssel | Bezeichnung
 Whmögl | leer | Wiederholung möglich
 Whnmögl | leer | Wiederholung nicht möglich
 
-### ALT | SAC-FO-FHReife (D.01.05).rpt
+## SAC-FO-FHReife (D.01.05).rpt
+
+`Archiv`
 
 Bitte SAC-FO-FHReife (D.01.05)(ab 2017).rpt verwenden
 
@@ -9640,7 +9644,9 @@ Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, 
 
 
 
-### ALT | SAC-FO-FHReife (D.01.06).rpt
+## SAC-FO-FHReife (D.01.06).rpt
+
+`Archiv`
 
 Bitte SAC-FOS-FHReife (D.01.04).rpt verwenden
 
@@ -9709,7 +9715,9 @@ Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugni
 
 Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, Ethik und Sport nicht mit einfliessen, ist es zwingend erforderlich den jeweiligen Fächern im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" die Werte "Religion" oder "Sport" zuzuweisen.
 
-### ALT | SAC-FO-HJZ (D.01.03).rpt
+## SAC-FO-HJZ (D.01.03).rpt
+
+`Archiv`
 
 Bitte SAC-FOS-HJZ (D.01.01).rpt verwenden
 
@@ -9809,7 +9817,9 @@ oB | ohne Bewertung | Füllwerte
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-### ALT | SAC-FO-JZ (D.01.02).rpt
+## SAC-FO-JZ (D.01.02).rpt
+
+`Archiv`
 
 Bitte SAC-FOS-JZ (D.01.02).rpt verwenden
 
@@ -10156,7 +10166,9 @@ Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugni
 
 Die Fächer, die Gegenstand des Erwerbs der Fachschulreife sind, müssen im Menü `Schüler > Zeugnis > Fächer` im Feld "Merkmal" mit einem "*" gekennzeichnet werden.
 
-### ALT SAC-BF-HJZ (B.07.03).rpt
+### SAC-BF-HJZ (B.07.03).rpt
+
+`Archiv`
 
 B.07.03
 
@@ -10292,7 +10304,9 @@ Platzhalter | Ausgabe im Bericht
 ``<<Anrede4>>`` | ihm/ihr (je nach Geschlecht des Schülers)
 ``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
-### Alt SAC-BF-AS (B.07.05).rpt
+### SAC-BF-AS (B.07.05).rpt
+
+`Archiv`
 
 B.07.05
 
@@ -10397,7 +10411,9 @@ Platzhalter | Ausgabe im Bericht
 ``<<Anrede4>>`` | ihm/ihr (je nach Geschlecht des Schülers)
 ``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
-### Alt SAC-BF-JZ (B.07.02).rpt
+### SAC-BF-JZ (B.07.02).rpt
+
+`Archiv`
 
 B.07.02
 
@@ -10493,7 +10509,9 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-### Alt SAC-BF-HJI (B.05.01).rpt
+### SAC-BF-HJI (B.05.01).rpt
+
+`Archiv`
 
 B.05.01
 
@@ -10603,7 +10621,9 @@ Platzhalter | Ausgabe im Bericht
 ``<<Anrede4>>`` | ihm/ihr (je nach Geschlecht des Schülers)
 ``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
-### Alt SAC-FS-HJI (C.01.01)(bis 2018).rpt
+### SAC-FS-HJI (C.01.01)(bis 2018).rpt
+
+`Archiv`
 
 C.01.01 (bis 2018)
 
@@ -10703,7 +10723,9 @@ Den Fachbereich der Klasse tragen Sie im Menü `Klassen > Merkmale` im Feld "Mer
 
 Den Schwerpunkt der Klasse tragen Sie im Menü `Klassen > Merkmale` tragen Sie den Schwerpunkt im Feld "Merkmal A6" ein. Grundlage bildet das `Schlüsselverzeichnis > Merkmale (Klassen)`. Hier ist in der Spalte „Bereich“ der Wert „Merkmal A6“ zuzuweisen. Bleibt das Feld "A6" leer wird der "Schwerpunkt" ausgeblendet.
 
-### Alt SAC-BG-ABI (2010).rpt
+### SAC-BG-ABI (2010).rpt
+
+`Archiv`
 
 **Ausdruck**
 
@@ -10817,7 +10839,9 @@ Tragen Sie im aktuellen Zeitraum im  Menü `Klassen > Daten` die Schulform im Fe
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
 
-### Alt SAC-BG-ABI (E.01.09).rpt
+### SAC-BG-ABI (E.01.09).rpt
+
+`Archiv`
 
 E.01.09
 
@@ -10893,7 +10917,9 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü Lehrer zurück.
 
-### ALT SAC-BVJ-AS mit HS (A.01.08)(bis 2019).rpt
+### SAC-BVJ-AS mit HS (A.01.08)(bis 2019).rpt
+
+`Archiv`
 
 *bitte Zeugnis der Berufsschule Berufsvorbereitungsjahr A.01.09 verwenden*
 
@@ -11027,7 +11053,9 @@ Zum Anlegen der „komplexe Arbeitsaufgabe“ inklusive Note unter Bemerkungen g
 2) Legen Sie eine Bemerkung im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` an. Weisen Sie zudem im Feld "Merkmal" das Kürzel "Thema" zu und das definieren Sie das Thema der Arbeitsaufgabe im Feld "Text".
 Der vorgegebene Standardtext inklusive dem Thema der Arbeitsaufgabe und der Note werden nun ausgegeben.
 
-### ALT SAC-BVJ-JZ (A.01.08)(2 jähriges BVJ).rpt
+### SAC-BVJ-JZ (A.01.08)(2 jähriges BVJ).rpt
+
+`Archiv`
 
 A.01.08 (2 jähriges BVJ)
 
@@ -11102,7 +11130,9 @@ Den ersten Berufsbereich weisen Sie unter `Klassen > Merkmale > Merkmal A1`, den
 
 Die Anzahl der Wochen für das Praktikum bzw. für die Berufspraktische/Praktische Ausbildung weisen Sie einem Fach "Praktikum" bzw. "Berufspraktische/Praktische Ausbildung" im Menü `Schüler > Zeugnis > Fächer` im Feld "Merkmal" zu.
 
-### ALT SAC-BS-AS (Vorbereitungsklasse)** (A.01.06)(2019).rpt
+### SAC-BS-AS (Vorbereitungsklasse)** (A.01.06)(2019).rpt
+
+`Archiv`
 
 A.01.06 (2019)
 
@@ -11210,7 +11240,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 Die Bemerkung "Die Beendigung der Berufsschulpflicht gemäß § 28 Absatz 5 Satz 2 SächsSchulG bleibt unberührt." wird standardmäßig auf den Zeugnissen ausgegeben.
 
-### ALT SAC-BS-AS (A.01.06).rpt
+### SAC-BS-AS (A.01.06).rpt
+
+`Archiv`
 
 **Zeugnisdatum**
 
@@ -11340,7 +11372,9 @@ Platzhalter | Ausgabe im Bericht
 ``<<Anrede4>>`` | ihm/ihr (je nach Geschlecht des Schülers)
 ``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
 
-### Alt SAC-BGJ-AS (A.01.11)(bis 2019).rpt
+### SAC-BGJ-AS (A.01.11)(bis 2019).rpt
+
+`Archiv`
 
 Vorlage A.01.11, Zeugnis der Berufsschule Berufsgrundbildungsjahr
 
