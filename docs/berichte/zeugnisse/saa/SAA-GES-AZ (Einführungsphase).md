@@ -1,0 +1,1 @@
+﻿# SAA-GES-AZ (Einführungsphase)

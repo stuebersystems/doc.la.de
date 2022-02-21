@@ -1,0 +1,1 @@
+﻿# SAA-GY-AZ (Qualifikationsphase)
