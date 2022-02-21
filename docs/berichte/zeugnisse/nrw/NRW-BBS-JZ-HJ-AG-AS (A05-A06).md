@@ -1,19 +1,18 @@
 ﻿# NRW-BBS-JZ-HJ-AG-AS (A05-A06)
-## NRW-BBS-JZ-HJ-AG-AS (A05-A06).rpt
 
-**Zeugniskonferenzdatum**
+## Zeugniskonferenzdatum
 
 `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
 
-**Zugang am / Abgang am** 
+## Zugang am / Abgang am
 
 `Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-**Unterrichtsarten**
+## Unterrichtsarten
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -27,84 +26,86 @@ BU | BU | Berufsbezogener Lernbereich
 BÜ | BÜ | Berufsübergreifender Lernbereich
 DB | DB | Differenzierungsbereich
 
-**Bildungsgang der Klasse**
+## Bildungsgang der Klasse
 
 `Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**Bildungsgang Schüler**
+## Bildungsgang Schüler
 
 `Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-**Berufsfeld der Klasse**
+## Berufsfeld der Klasse
 
 `Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
-**SchulleiterIn** 
+## SchulleiterIn
 
 `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**KlassenleiterIn** 
+## KlassenleiterIn
 
 `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-**Zeiträume** 
+## Zeiträume
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-**Zeugnisdatum**
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
 
-**(A0112)** `Ausdruck`
+## A0112)**
+
+ `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-**(A0114)** `Schüler > Zeugnis > Fächer (Position)` bzw. `Abitur > Qualifikation (Position)`
+## A0114)** `Schüler > Zeugnis > Fächer (Position)` bzw. `Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` bzw. im Menü `Abitur > Qualifikation` pro Fach eine Position in der Spalte "Position" angegeben werden.
 
-**Zeugnisbemerkungen Positionierung**
+## Zeugnisbemerkungen Positionierung**
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-**(A0211)** `Lehrer > Daten 2 > Dienstbez.`
+## A0211)** `Lehrer > Daten 2 > Dienstbez.`
 
 Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
 
-**Mandanten / Ort**
+## Mandanten / Ort**
 
 `Mandanten > Daten 1 > Ort`
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-**Ausdruck** `Ausdruck`
+## Ausdruck** `Ausdruck`
 
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-**Leistungsstufen der Fächer**
+## Leistungsstufen der Fächer**
 
 `Schüler > Zeugnis > Fächer > Niveau`
 
 Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im `Schlüsselverzeichnis > Fachniveaus` ein.
 
-**(A0410)** `Ausdruck > NRW Zeugnisse`
+## A0410)** `Ausdruck > NRW Zeugnisse`
 
 Beim Druck des Zeugnis für die Auszubildenden beachten Sie bitte folgende Punkte:
 
@@ -142,31 +143,32 @@ Kürzel | Bezeichnung
 2F | Berufsgrundbildung u. Sekundarabschluss I (Hauptschulabschl. Nach Klasse 10)
 2D | Berufsgrundbildung u. Sekundarabschluss I (Hauptschulabschl. Nach Klasse 10)
 
-**Amtsbezeichnung LehrerIn**
+## Amtsbezeichnung LehrerIn**
 
 `Lehrer > Daten 2 > Amtsbez.`
 
 Die Amtsbezeichnung des Schulleiters / Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld „Amtsbez.“ ein. Grundlage für das Zuweisen einer Amtsbezeichnung bildet das `Schlüsselverzeichnis > Amtsbezeichnungen`.
 
-**Kennzeichnung der Note mit dem Gewichtungsfaktor 2**
+## Kennzeichnung der Note mit dem Gewichtungsfaktor 2**
 
 `Schüler > Zeugnis > Fächer > Faktor`
 
 Um Fächern mit der Fussnote "2)"zu versehen (zur Kennzeichnung der Note mit dem Gewichtungsfaktor 2 ), weisen Sie dem Fach unter`Schüler > Zeugnis > Fächer` im Feld "Faktor" den Wert "2" zu.
 
-**Fehlstunden / davon unentschuldigt**
+## Fehlstunden / davon unentschuldigt**
 
 `Schüler > Zeugnis > Details`
 
 Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern „Fehlstunden“ und „davon unentschuldigt“ erfolgen.
 
-**von / bis-Datum**
+## von / bis-Datum**
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Von / Bis`
 
 Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
-**(A0602)** 
+## Zeugnisbemerkungen
+
 `Abitur > Zeugnisbemerkungen`
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
