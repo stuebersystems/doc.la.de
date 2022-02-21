@@ -578,7 +578,8 @@ nav:
         - NIE-GY-HJZ (Klasse 7-10 mit Wahlpflicht): berichte/zeugnisse/nie/NIE-GY-HJZ (Klasse 7-10 mit Wahlpflicht).md
         - NIE-GY-HJZ (Klasse 7-10 ohne Wahlpflicht): berichte/zeugnisse/nie/NIE-GY-HJZ (Klasse 7-10 ohne Wahlpflicht).md
         - NIE-GY-JZ (Mittelstufe): berichte/zeugnisse/nie/NIE-GY-JZ (Mittelstufe).md
-      - NRW: berichte/zeugnisse/nrw_zeugnisse.md
+      - NRW: 
+        - gesammelt: berichte/zeugnisse/nrw/nrw_zeugnisse.md
       - RLP: berichte/zeugnisse/rlp_zeugnisse.md
       - SAA: berichte/zeugnisse/saa_zeugnisse.md
       - SAC: 
