@@ -668,9 +668,9 @@ nav:
         - NRW-WG-AZ: berichte/zeugnisse/nrw/NRW-WG-AZ.md
         - NRW-WG-JZ: berichte/zeugnisse/nrw/NRW-WG-JZ.md
       - RLP: berichte/zeugnisse/rlp_zeugnisse.md
-      - SAA: berichte/zeugnisse/saa_zeugnisse.md
+      - SAA: 
+        - gesammelt: berichte/zeugnisse/saa/saa_zeugnisse.md
       - SAC: 
-        - gesammelt: berichte/zeugnisse/sac/sac_zeugnisse.md
         - SAC-BF-AS (A.02.07): berichte/zeugnisse/sac/SAC-BF-AS (A.02.07).md
         - SAC-BF-AS (B.01.03): berichte/zeugnisse/sac/SAC-BF-AS (B.01.03).md
         - SAC-BF-AS (B.03.05): berichte/zeugnisse/sac/SAC-BF-AS (B.03.05).md
