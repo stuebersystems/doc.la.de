@@ -563,7 +563,22 @@ nav:
         - MVP-RS-AZ: berichte/zeugnisse/mvp/MVP-RS-AZ.md
         - MVP-RS-HJZ: berichte/zeugnisse/mvp/MVP-RS-HJZ.md
         - MVP-RS-ÜZ: berichte/zeugnisse/mvp/MVP-RS-ÜZ.md
-      - NIE: berichte/zeugnisse/nie_zeugnisse.md
+      - NIE: 
+        - gesammelt: berichte/zeugnisse/nie/nie_zeugnisse.md
+        - NIE-GS-AS (Klasse 1-2): berichte/zeugnisse/nie/NIE-GS-AS (Klasse 1-2).md
+        - NIE-GS-AS (Klasse 3-4): berichte/zeugnisse/nie/NIE-GS-AS (Klasse 3-4).md
+        - NIE-GS-HJZ (Klasse 1-2): berichte/zeugnisse/nie/NIE-GS-HJZ (Klasse 1-2).md
+        - NIE-GS-HJZ (Klasse 3-4): berichte/zeugnisse/nie/NIE-GS-HJZ (Klasse 3-4).md
+        - NIE-GY (Studienbuch Einführungsphase) G9: berichte/zeugnisse/nie/NIE-GY (Studienbuch Einführungsphase) G9.md
+        - NIE-GY (Studienbuch-Deckblatt): berichte/zeugnisse/nie/NIE-GY (Studienbuch-Deckblatt).md
+        - NIE-GY-ABI (2014): berichte/zeugnisse/nie/NIE-GY-ABI (2014).md
+        - NIE-GY-ABI (2021): berichte/zeugnisse/nie/NIE-GY-ABI (2021).md
+        - NIE-GY-AZ (E-Phase) G9: berichte/zeugnisse/nie/NIE-GY-AZ (E-Phase) G9.md
+        - NIE-GY-AZ (Q-Phase) G9: berichte/zeugnisse/nie/NIE-GY-AZ (Q-Phase) G9.md
+        - NIE-GY-FHReife (Bescheinigung): berichte/zeugnisse/nie/NIE-GY-FHReife (Bescheinigung).md
+        - NIE-GY-HJZ (Klasse 7-10 mit Wahlpflicht): berichte/zeugnisse/nie/NIE-GY-HJZ (Klasse 7-10 mit Wahlpflicht).md
+        - NIE-GY-HJZ (Klasse 7-10 ohne Wahlpflicht): berichte/zeugnisse/nie/NIE-GY-HJZ (Klasse 7-10 ohne Wahlpflicht).md
+        - NIE-GY-JZ (Mittelstufe): berichte/zeugnisse/nie/NIE-GY-JZ (Mittelstufe).md
       - NRW: berichte/zeugnisse/nrw_zeugnisse.md
       - RLP: berichte/zeugnisse/rlp_zeugnisse.md
       - SAA: berichte/zeugnisse/saa_zeugnisse.md
