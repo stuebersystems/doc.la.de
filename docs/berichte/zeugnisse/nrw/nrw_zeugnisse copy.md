@@ -2,16 +2,6 @@
 
 
 
-
-
-
-
-
-
-
-
-#
-
 ## NRW-BS-AS (duales System).rpt
 
 **Ausdruck**
