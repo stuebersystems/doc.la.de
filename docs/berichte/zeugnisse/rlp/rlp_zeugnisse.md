@@ -17,7 +17,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -62,8 +64,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -71,7 +71,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -144,8 +146,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
@@ -188,8 +188,6 @@ FörderK  | FörderK | Förderunterricht
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.17) 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -234,8 +232,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
@@ -263,8 +259,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -272,7 +266,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -335,8 +331,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -344,7 +338,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -383,8 +379,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.54) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
@@ -408,36 +402,36 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-Fremdsprachenfolge 
+## ## ## ## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > Von/Bis`
  
 Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-(A0163) Abitur > Qualifikation
+## Qualifikation
+
+`Abitur > Qualifikation`
 
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
@@ -449,7 +443,7 @@ Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetrag
 Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
 markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Abitur >  Prüfung > Lernleistung, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -461,19 +455,19 @@ und für "GK-Sozialkunde".
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-Sprachkenntnisse 
+## Sprachkenntnisse 
 
 `Abitur > Prüfung > Sprachkenntnisse`
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
-(A0529) Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)
+## Fremdsprache fakultativ
 
-Zur Kennzeichnung der dritten oder vierten Fremdsprache als "fakultativ" weisen Sie der jeweiligen Fremdsprache im Menü Schüler > Daten 3 im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Wahlfach (fakulative FS)" zu.
+`Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)`
+
+Zur Kennzeichnung der dritten oder vierten Fremdsprache als "fakultativ" weisen Sie der jeweiligen Fremdsprache im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Wahlfach (fakulative FS)" zu. Für diese Zuweisung können Sie auch die Sammelzuweisung verwenden.
 
 ## RLP-BG-ABI (2010).rpt
 
@@ -491,8 +485,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.54) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
@@ -516,8 +508,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
@@ -529,23 +519,25 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-(A0163) Abitur > Qualifikation
+## Qualifikation
+
+`Abitur > Qualifikation`
 
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
@@ -557,7 +549,7 @@ Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetrag
 Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
 markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Abitur >  Prüfung > Lernleistung, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -569,21 +561,23 @@ und für "GK-Sozialkunde".
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-Sprachkenntnisse 
+## Sprachkenntnisse 
 
 `Abitur > Prüfung > Sprachkenntnisse`
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
-(A0529) Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)
+## Fremdsprache fakultativ
 
-Zur Kennzeichnung der dritten oder vierten Fremdsprache als "fakultativ" weisen Sie der jeweiligen Fremdsprache im Menü Schüler > Daten 3 im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Wahlfach (fakulative FS)" zu.
+`Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)`
 
-(A0557) Mandanten > Merkmale > Merkmal A6
+Zur Kennzeichnung der dritten oder vierten Fremdsprache als "fakultativ" weisen Sie der jeweiligen Fremdsprache im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Wahlfach (fakulative FS)" zu. Für diese Zuweisung können Sie auch die Sammelzuweisung verwenden.
+
+## Mandantenmerkmal
+
+`Mandanten > Merkmale > Merkmal A6`
 
 Das Zeugnis wird standardmäßig mit Wappen gedruckt. Wünschen Sie kein Wappen auf dem Zeugnis, tragen Sie  im Menü Mandanten > Merkmale  im Feld "Merkmal A6" das folgende Merkmal ein:
 
@@ -609,17 +603,10 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.54) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
 Ersatz | Ersatz | Ersatz
-
-(A0015.57) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
 1PF | 1PF | 1. Prüfungsfach (schrifltlich)
 2PF | 2PF | 2. Prüfungsfach (schrifltlich)
 3PF | 3PF | 3. Prüfungsfach (schrifltlich)
@@ -634,8 +621,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
@@ -647,23 +632,25 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-(A0163) Abitur > Qualifikation
+## Qualifikation
+
+`Abitur > Qualifikation`
 
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
@@ -675,7 +662,7 @@ Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetrag
 Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
 markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Abitur >  Prüfung > Lernleistung, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -687,21 +674,23 @@ und für "GK-Sozialkunde".
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-Sprachkenntnisse 
+## Sprachkenntnisse 
 
 `Abitur > Prüfung > Sprachkenntnisse`
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
-(A0529) Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)
+## Fremdsprache fakultativ
 
-Zur Kennzeichnung der dritten oder vierten Fremdsprache als "fakultativ" weisen Sie der jeweiligen Fremdsprache im Menü Schüler > Daten 3 im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Wahlfach (fakulative FS)" zu.
+`Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)`
 
-(A0557) Mandanten > Merkmale > Merkmal A6
+Zur Kennzeichnung der dritten oder vierten Fremdsprache als "fakultativ" weisen Sie der jeweiligen Fremdsprache im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Wahlfach (fakulative FS)" zu. Für diese Zuweisung können Sie auch die Sammelzuweisung verwenden.
+
+## Mandantenmerkmal
+
+`Mandanten > Merkmale > Merkmal A6`
 
 Das Zeugnis wird standardmäßig mit Wappen gedruckt. Wünschen Sie kein Wappen auf dem Zeugnis, tragen Sie  im Menü Mandanten > Merkmale  im Feld "Merkmal A6" das folgende Merkmal ein:
 
@@ -727,17 +716,10 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.54) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
 Ersatz | Ersatz | Ersatz
-
-(A0015.57) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
 1PF | 1PF | 1. Prüfungsfach (schrifltlich)
 2PF | 2PF | 2. Prüfungsfach (schrifltlich)
 3PF | 3PF | 3. Prüfungsfach (schrifltlich)
@@ -752,36 +734,36 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > Von/Bis`
  
 Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-(A0163) Abitur > Qualifikation
+## Qualifikation
+
+`Abitur > Qualifikation`
 
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
@@ -793,7 +775,7 @@ Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetrag
 Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
 markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Abitur >  Prüfung > Lernleistung, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -805,19 +787,17 @@ und für "GK-Sozialkunde".
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-## Ausdruck
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
-Sprachkenntnisse 
+## Sprachkenntnisse 
 
 `Abitur > Prüfung > Sprachkenntnisse`
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
-(A0529) Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)
+## Fremdsprache fakultativ
 
-Zur Kennzeichnung der dritten oder vierten Fremdsprache als "fakultativ" weisen Sie der jeweiligen Fremdsprache im Menü Schüler > Daten 3 im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Wahlfach (fakulative FS)" zu.
+`Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)`
+
+Zur Kennzeichnung der dritten oder vierten Fremdsprache als "fakultativ" weisen Sie der jeweiligen Fremdsprache im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Wahlfach (fakulative FS)" zu. Für diese Zuweisung können Sie auch die Sammelzuweisung verwenden.
 
 ## RLP-BGJ-AS.rpt
 
@@ -829,8 +809,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -838,7 +816,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -873,17 +853,19 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-Bildungsgang der Klasse
+## Bildungsgang der Klasse
 
 `Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-(A0035.1) Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1
+## Schwerpunkt Bildungsgang
 
-Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis Schwerpunkte.
+`Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1`
 
-Berufsfeld der Klasse
+Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis `Schwerpunkte`.
+
+## Berufsfeld der Klasse
 
 `Klassen > Daten > Berufsfeld`
 
@@ -899,8 +881,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -908,7 +888,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -942,8 +924,6 @@ Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Beme
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-(A0021.4) 
-
 Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
@@ -960,17 +940,19 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-Bildungsgang der Klasse
+## Bildungsgang der Klasse
 
 `Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-(A0035.1) Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1
+## Schwerpunkt Bildungsgang
 
-Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis Schwerpunkte.
+`Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1`
 
-Berufsfeld der Klasse
+Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis `Schwerpunkte`.
+
+## Berufsfeld der Klasse
 
 `Klassen > Daten > Berufsfeld`
 
@@ -986,8 +968,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -995,7 +975,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1029,8 +1011,6 @@ Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Beme
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-(A0021.4) 
-
 Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
@@ -1047,17 +1027,19 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-Bildungsgang der Klasse
+## Bildungsgang der Klasse
 
 `Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-(A0035.1) Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1
+## Schwerpunkt Bildungsgang
 
-Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis Schwerpunkte.
+`Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1`
 
-Berufsfeld der Klasse
+Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis `Schwerpunkte`.
+
+## Berufsfeld der Klasse
 
 `Klassen > Daten > Berufsfeld`
 
@@ -1065,7 +1047,10 @@ Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Fel
 
 ## RLP-BGJ-HJZ (Variante 2).rpt
 
-(A0006) `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+## Zeiträume
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
@@ -1083,8 +1068,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -1092,7 +1075,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1126,8 +1111,6 @@ Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Beme
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-(A0021.4) 
-
 Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
@@ -1144,17 +1127,19 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-Bildungsgang der Klasse
+## Bildungsgang der Klasse
 
 `Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-(A0035.1) Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1
+## Schwerpunkt Bildungsgang
 
-Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis Schwerpunkte.
+`Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1`
 
-Berufsfeld der Klasse
+Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis `Schwerpunkte`.
+
+## Berufsfeld der Klasse
 
 `Klassen > Daten > Berufsfeld`
 
@@ -1170,8 +1155,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -1179,7 +1162,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1213,8 +1198,6 @@ Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Beme
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-(A0021.4) 
-
 Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
@@ -1231,17 +1214,19 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-Bildungsgang der Klasse
+## Bildungsgang der Klasse
 
 `Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-(A0035.1) Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1
+## Schwerpunkt Bildungsgang
 
-Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis Schwerpunkte.
+`Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1`
 
-Berufsfeld der Klasse
+Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis `Schwerpunkte`.
+
+## Berufsfeld der Klasse
 
 `Klassen > Daten > Berufsfeld`
 
@@ -1257,8 +1242,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -1266,7 +1249,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1300,8 +1285,6 @@ Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Beme
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-(A0021.4) 
-
 Merkmal | Bedeutung
 --|--
 beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
@@ -1318,17 +1301,19 @@ Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das 
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-Bildungsgang der Klasse
+## Bildungsgang der Klasse
 
 `Klassen > Daten > Bildungsgang`
 
 Weisen Sie unter `Klassen > Daten` im Feld "Bildungsgang" zu. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-(A0035.1) Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1
+## Schwerpunkt Bildungsgang
 
-Weisen Sie unter Schlüsselverzeichnis > Bildungsgänge den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis Schwerpunkte.
+`Schlüsselverzeichnis > Bildungsgänge > Schwerpunkt 1`
 
-Berufsfeld der Klasse
+Weisen Sie unter `Schlüsselverzeichnis > Bildungsgänge` den Schwerpunkt im Feld "Schwerpunkt 1" zu. Grundlage bildet das Schlüsselverzeichnis `Schwerpunkte`.
+
+## Berufsfeld der Klasse
 
 `Klassen > Daten > Berufsfeld`
 
@@ -1344,8 +1329,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -1353,7 +1336,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1390,8 +1375,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -1399,7 +1382,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1428,7 +1413,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 ## RLP-BS (Zwischenzeugnis ohne Wahlpflicht Variante 1).rpt
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1457,7 +1444,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 ## RLP-BS (Zwischenzeugnis ohne Wahlpflicht Variante 2).rpt
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1494,8 +1483,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -1503,7 +1490,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1552,8 +1541,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -1561,7 +1548,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1610,8 +1599,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -1619,7 +1606,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1660,7 +1649,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 ## RLP-BS-AS (neue Form 1. Variante ohne Wahlpflicht).rpt
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1695,8 +1686,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -1704,7 +1693,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1749,7 +1740,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 ## RLP-BS-AS (neue Form 2. Variante ohne Wahl pflicht).rpt
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1802,8 +1795,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -1811,7 +1802,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1838,7 +1831,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 ## RLP-BS-AS (ohne Wahlpflicht).rpt
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1887,8 +1882,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -1896,7 +1889,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -1929,8 +1924,6 @@ Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie könne
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-(A0021.4) 
 
 Merkmal | Bedeutung
 --|--
@@ -1958,8 +1951,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -1967,7 +1958,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -2000,8 +1993,6 @@ Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie könne
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-(A0021.4) 
 
 Merkmal | Bedeutung
 --|--
@@ -2033,8 +2024,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -2042,7 +2031,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -2075,8 +2066,6 @@ Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie könne
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-(A0021.4) 
 
 Merkmal | Bedeutung
 --|--
@@ -2100,7 +2089,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 ## RLP-BS-AZ (alte Form nf ohne Wahlpflicht).rpt
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -2133,8 +2124,6 @@ Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie könne
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-(A0021.4) 
 
 Merkmal | Bedeutung
 --|--
@@ -2162,8 +2151,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -2171,7 +2158,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -2186,8 +2175,6 @@ Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie könne
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-(A0021.4) 
 
 Merkmal | Bedeutung
 --|--
@@ -2211,7 +2198,9 @@ Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinz
 
 ## RLP-BS-AZ (alte Form ohne Wahlpflicht).rpt
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -2244,8 +2233,6 @@ Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie könne
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-(A0021.4) 
 
 Merkmal | Bedeutung
 --|--
@@ -2277,8 +2264,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -2286,7 +2271,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -2319,8 +2306,6 @@ Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie könne
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-(A0021.4) 
 
 Merkmal | Bedeutung
 --|--
@@ -2356,8 +2341,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -2365,7 +2348,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -2398,8 +2383,6 @@ Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie könne
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-(A0021.4) 
 
 Merkmal | Bedeutung
 --|--
@@ -2439,7 +2422,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -2451,8 +2436,6 @@ so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dür
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-(A0015.2) 
 
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
@@ -2497,7 +2480,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -2509,8 +2494,6 @@ so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dür
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-(A0015.2) 
 
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
@@ -2555,7 +2538,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -2596,7 +2581,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -2713,21 +2700,22 @@ Schulname
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-KlassenleiterIn 
+## KlassenleiterIn 
 
 `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-Zeiträume 
+## Zeiträume 
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
+
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
@@ -2737,7 +2725,7 @@ Versetzung
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -2745,7 +2733,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -2758,9 +2746,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 (A0365) Klassen > Merkmale > Merkmal A5
 
@@ -2858,19 +2844,20 @@ Schulname
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-Zeiträume 
+## Zeiträume 
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
+
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -2878,7 +2865,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -2891,9 +2878,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 (A0361) Schlüsselverzeichnisse > Fächer > Aufgabenbereich
 
@@ -3004,13 +2989,14 @@ Schulname
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-Zeiträume 
+## Zeiträume 
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
+
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -3018,7 +3004,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -3035,9 +3021,7 @@ Die Dienstbezeichnung des Schulleiters/Lehrers tragen Sie im Menü `Lehrer > Dat
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü Mandanten >Daten 1 im Feld „Ort“.
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 Prüfungsvorsitz 
 
@@ -3107,11 +3091,9 @@ sons  | sonstige Bemerkungen
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 ## RLP-GES-AS (10.Klasse mit Ü 11).rpt
 
@@ -3133,8 +3115,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -3142,7 +3122,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -3184,8 +3166,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -3193,7 +3173,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -3235,8 +3217,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -3244,7 +3224,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -3282,8 +3264,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -3291,7 +3271,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -3329,8 +3311,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -3338,7 +3318,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -3380,8 +3362,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -3389,7 +3369,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -3445,8 +3427,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -3454,7 +3434,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -3498,8 +3480,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -3507,7 +3487,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -3551,8 +3533,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -3560,7 +3540,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -3604,8 +3586,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -3613,7 +3593,9 @@ WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
 FachP | FachP| Fachpraxis im Berufsfeld
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
+## Zeugnismerkmal
+
+`Schüler > Zeugnis > Fächer > Merkmal`
 
 Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
 so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
@@ -3641,7 +3623,7 @@ freiw  | Text für die Teilnahme an freiwilligen Arbeitsgemeinschaften/Unterrich
 
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Beurteilungstexte" zugewiesen sein.
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -3649,7 +3631,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -3686,7 +3668,7 @@ Die Beurteilungstexte tragen Sie im Menü Schüler > Zeugnis >Leistungen im Feld
 
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Beurteilungstexte" zugewiesen sein.
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -3694,7 +3676,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -3748,7 +3730,7 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Beurteilungstexte" zugewiesen sein.
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -3756,7 +3738,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -3859,7 +3841,7 @@ beliebig | beliebig | Fachoberschule (Bildungsgang in Abendlehrgang)
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -3890,7 +3872,7 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Beurteilungstexte" zugewiesen sein.
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -3898,7 +3880,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -3935,7 +3917,7 @@ Die Beurteilungstexte tragen Sie im Menü Schüler > Zeugnis >Leistungen im Feld
 
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Beurteilungstexte" zugewiesen sein.
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -3943,7 +3925,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -4003,25 +3985,25 @@ Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten i
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-KlassenleiterIn 
+## KlassenleiterIn 
 
 `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -4029,7 +4011,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -4077,25 +4059,25 @@ Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten i
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-KlassenleiterIn 
+## KlassenleiterIn 
 
 `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -4103,7 +4085,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -4165,19 +4147,19 @@ Schulname
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-KlassenleiterIn 
+## KlassenleiterIn 
 
 `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -4185,7 +4167,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -4235,7 +4217,7 @@ Die Beurteilungstexte tragen Sie im Menü Schüler > Zeugnis > Leistungen im Fel
 
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Beurteilungstexte" zugewiesen sein.
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -4243,7 +4225,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -4307,19 +4289,19 @@ Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten i
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-KlassenleiterIn 
+## KlassenleiterIn 
 
 `Klassen > Zeiträume > Zeitraum > Klassenleiter`
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -4327,7 +4309,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -4414,7 +4396,9 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 ## RLP-GS-JZ (3. und 4. Klasse).rpt
 
-(A0002) Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten
+## Beurteilungsart
+
+`Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten`
 
 Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Noten" angegeben sein.
 (hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung)
@@ -4435,7 +4419,10 @@ RECHTS  | RECHTS | Richtig schreiben oder Rechtschreiben oder Rechtschreibung
 SSPRACHE | SSPRACHE  | Schriftliche Sprachgestaltung
 EN | EN |  Englisch
 
-(A0006) `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+## Zeiträume
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
@@ -4467,8 +4454,6 @@ Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie könne
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-(A0021.4) 
 
 Merkmal | Bedeutung
 --|--
@@ -4517,7 +4502,7 @@ Zeugnisdatum
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -4560,7 +4545,7 @@ Fachschlüssel können erfasst oder modifiziert werden im Menü Schlüsselverzei
 --------
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Abitur > Qualifikation im Feld "Position" für das 1. Prüfungsfach (1PF) eine 1, für das 2. Prüfungsfach (2PF) eine 2 usw. angeben.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -4581,8 +4566,6 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-(A0015.54) 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -4607,8 +4590,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
@@ -4620,23 +4601,25 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-(A0163) Abitur > Qualifikation
+## Qualifikation
+
+`Abitur > Qualifikation`
 
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
@@ -4654,11 +4637,9 @@ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprech
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-Sprachkenntnisse 
+## Sprachkenntnisse 
 
 `Abitur > Prüfung > Sprachkenntnisse`
 
@@ -4689,7 +4670,7 @@ Das Zeugnis kann sowohl für G8 als auch G9 genutzt werden, die Standardeinstell
 
 Zur Kennzeichnung der dritten oder vierten Fremdsprache als "Pflichtfach" weisen Sie der jeweiligen Fremdsprache im Menü Schüler > Daten 3 im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Pflichtfach/Wahlpflichtfach" zu.
 
-(A0557) Mandanten > Merkmale > Merkmal A6
+## Mandantenmerkmal
 
 Das Zeugnis wird standardmäßig mit Wappen gedruckt. Wünschen Sie kein Wappen auf dem Zeugnis, tragen Sie  im Menü Mandanten > Merkmale  im Feld "Merkmal A6" das folgende Merkmal ein:
 
@@ -4715,8 +4696,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.54) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
@@ -4740,8 +4719,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
@@ -4753,23 +4730,25 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-(A0163) Abitur > Qualifikation
+## Qualifikation
+
+`Abitur > Qualifikation`
 
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
@@ -4787,11 +4766,9 @@ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprech
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-Sprachkenntnisse 
+## Sprachkenntnisse 
 
 `Abitur > Prüfung > Sprachkenntnisse`
 
@@ -4822,7 +4799,9 @@ Das Zeugnis kann sowohl für G8 als auch G9 genutzt werden, die Standardeinstell
 
 Zur Kennzeichnung der dritten oder vierten Fremdsprache als "Pflichtfach" weisen Sie der jeweiligen Fremdsprache im Menü Schüler > Daten 3 im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Pflichtfach/Wahlpflichtfach" zu.
 
-(A0557) Mandanten > Merkmale > Merkmal A6
+## Mandantenmerkmal
+
+`Mandanten > Merkmale > Merkmal A6`
 
 Das Zeugnis wird standardmäßig mit Wappen gedruckt. Wünschen Sie kein Wappen auf dem Zeugnis, tragen Sie  im Menü Mandanten > Merkmale  im Feld "Merkmal A6" das folgende Merkmal ein:
 
@@ -4852,8 +4831,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.54) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
@@ -4877,8 +4854,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
@@ -4890,23 +4865,25 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-(A0163) Abitur > Qualifikation
+## Qualifikation
+
+`Abitur > Qualifikation`
 
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
@@ -4924,11 +4901,9 @@ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprech
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-Sprachkenntnisse 
+## Sprachkenntnisse 
 
 `Abitur > Prüfung > Sprachkenntnisse`
 
@@ -5011,8 +4986,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.54) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
@@ -5036,8 +5009,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
@@ -5049,23 +5020,25 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-(A0163) Abitur > Qualifikation
+## Qualifikation
+
+`Abitur > Qualifikation`
 
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
@@ -5083,11 +5056,9 @@ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprech
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-Sprachkenntnisse 
+## Sprachkenntnisse 
 
 `Abitur > Prüfung > Sprachkenntnisse`
 
@@ -5110,9 +5081,11 @@ Platzhalter | Ausgabe im Bericht
 ``<<Herrn>>`` | Herrn
 ``<<Er>>`` | Er
 
-(A0529) Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)
+## Fremdsprache fakultativ
 
-Zur Kennzeichnung der dritten oder vierten Fremdsprache als "fakultativ" weisen Sie der jeweiligen Fremdsprache im Menü Schüler > Daten 3 im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Wahlfach (fakulative FS)" zu.
+`Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)`
+
+Zur Kennzeichnung der dritten oder vierten Fremdsprache als "fakultativ" weisen Sie der jeweiligen Fremdsprache im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Wahlfach (fakulative FS)" zu. Für diese Zuweisung können Sie auch die Sammelzuweisung verwenden.
 
 (A0549) Sonstiges
 
@@ -5122,7 +5095,9 @@ Das Zeugnis kann sowohl für G8 als auch G9 genutzt werden, die Standardeinstell
 
 Zur Kennzeichnung der dritten oder vierten Fremdsprache als "Pflichtfach" weisen Sie der jeweiligen Fremdsprache im Menü Schüler > Daten 3 im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Pflichtfach/Wahlpflichtfach" zu.
 
-(A0557) Mandanten > Merkmale > Merkmal A6
+## Mandantenmerkmal
+
+`Mandanten > Merkmale > Merkmal A6`
 
 Das Zeugnis wird standardmäßig mit Wappen gedruckt. Wünschen Sie kein Wappen auf dem Zeugnis, tragen Sie  im Menü Mandanten > Merkmale  im Feld "Merkmal A6" das folgende Merkmal ein:
 
@@ -5173,8 +5148,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.54) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
@@ -5198,8 +5171,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
@@ -5211,23 +5182,25 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-(A0163) Abitur > Qualifikation
+## Qualifikation
+
+`Abitur > Qualifikation`
 
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
@@ -5245,11 +5218,9 @@ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprech
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-Sprachkenntnisse 
+## Sprachkenntnisse 
 
 `Abitur > Prüfung > Sprachkenntnisse`
 
@@ -5280,7 +5251,9 @@ Das Zeugnis kann sowohl für G8 als auch G9 genutzt werden, die Standardeinstell
 
 Zur Kennzeichnung der dritten oder vierten Fremdsprache als "Pflichtfach" weisen Sie der jeweiligen Fremdsprache im Menü Schüler > Daten 3 im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Pflichtfach/Wahlpflichtfach" zu.
 
-(A0557) Mandanten > Merkmale > Merkmal A6
+## Mandantenmerkmal
+
+`Mandanten > Merkmale > Merkmal A6`
 
 Das Zeugnis wird standardmäßig mit Wappen gedruckt. Wünschen Sie kein Wappen auf dem Zeugnis, tragen Sie  im Menü Mandanten > Merkmale  im Feld "Merkmal A6" das folgende Merkmal ein:
 
@@ -5322,13 +5295,13 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 ## RLP-GY-ABI (DIN A3 - 2. Seite ohne Wappen)2006.rpt
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -5362,7 +5335,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
 Ersatz | Ersatz | Ersatz
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -5383,7 +5356,7 @@ GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
 LK | LK | Leistungskurse, Leistungsfächer
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -5401,7 +5374,7 @@ Fachschlüssel können erfasst oder modifiziert werden im Menü Schlüsselverzei
 --------
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Abitur > Qualifikation im Feld "Position" für das 1. Prüfungsfach (1PF) eine 1, für das 2. Prüfungsfach (2PF) eine 2 usw. angeben.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -5409,13 +5382,13 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## RLP-GY-ABI (DIN A3 - 2. Seite)2006.rpt
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -5449,7 +5422,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
 Ersatz | Ersatz | Ersatz
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -5470,7 +5443,7 @@ GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
 LK | LK | Leistungskurse, Leistungsfächer
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -5488,7 +5461,7 @@ Fachschlüssel können erfasst oder modifiziert werden im Menü Schlüsselverzei
 --------
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Abitur > Qualifikation im Feld "Position" für das 1. Prüfungsfach (1PF) eine 1, für das 2. Prüfungsfach (2PF) eine 2 usw. angeben.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -5496,13 +5469,13 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## RLP-GY-ABI (DIN A3 ohne Logo)2006.rpt
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -5536,7 +5509,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
 Ersatz | Ersatz | Ersatz
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -5557,7 +5530,7 @@ GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
 LK | LK | Leistungskurse, Leistungsfächer
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -5575,7 +5548,7 @@ Fachschlüssel können erfasst oder modifiziert werden im Menü Schlüsselverzei
 --------
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Abitur > Qualifikation im Feld "Position" für das 1. Prüfungsfach (1PF) eine 1, für das 2. Prüfungsfach (2PF) eine 2 usw. angeben.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -5583,13 +5556,13 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## RLP-GY-ABI (DIN A3 ohne Wappen)2006.rpt
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -5623,7 +5596,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
 Ersatz | Ersatz | Ersatz
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -5644,7 +5617,7 @@ GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
 LK | LK | Leistungskurse, Leistungsfächer
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -5662,7 +5635,7 @@ Fachschlüssel können erfasst oder modifiziert werden im Menü Schlüsselverzei
 --------
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Abitur > Qualifikation im Feld "Position" für das 1. Prüfungsfach (1PF) eine 1, für das 2. Prüfungsfach (2PF) eine 2 usw. angeben.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -5670,13 +5643,13 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## RLP-GY-ABI (DIN A3)2006.rpt
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -5710,7 +5683,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
 Ersatz | Ersatz | Ersatz
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -5731,7 +5704,7 @@ GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
 LK | LK | Leistungskurse, Leistungsfächer
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -5749,7 +5722,7 @@ Fachschlüssel können erfasst oder modifiziert werden im Menü Schlüsselverzei
 --------
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Abitur > Qualifikation im Feld "Position" für das 1. Prüfungsfach (1PF) eine 1, für das 2. Prüfungsfach (2PF) eine 2 usw. angeben.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -5775,13 +5748,13 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 ## RLP-GY-ABI (DIN A4 - 2. Seite)2006.rp
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -5815,7 +5788,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
 Ersatz | Ersatz | Ersatz
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -5836,7 +5809,7 @@ GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
 LK | LK | Leistungskurse, Leistungsfächer
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -5854,7 +5827,7 @@ Fachschlüssel können erfasst oder modifiziert werden im Menü Schlüsselverzei
 --------
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Abitur > Qualifikation im Feld "Position" für das 1. Prüfungsfach (1PF) eine 1, für das 2. Prüfungsfach (2PF) eine 2 usw. angeben.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -5862,13 +5835,13 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## RLP-GY-ABI (DIN A4)2006.rpt
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -5902,7 +5875,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
 Ersatz | Ersatz | Ersatz
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -5923,7 +5896,7 @@ GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
 LK | LK | Leistungskurse, Leistungsfächer
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -5941,7 +5914,7 @@ Fachschlüssel können erfasst oder modifiziert werden im Menü Schlüsselverzei
 --------
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Abitur > Qualifikation im Feld "Position" für das 1. Prüfungsfach (1PF) eine 1, für das 2. Prüfungsfach (2PF) eine 2 usw. angeben.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -5949,13 +5922,13 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 ## RLP-GY-ABI (DIN A4-altsprachlich)2006.rpt
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -5989,7 +5962,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
 Ersatz | Ersatz | Ersatz
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -6010,7 +5983,7 @@ GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
 LK | LK | Leistungskurse, Leistungsfächer
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -6028,7 +6001,7 @@ Fachschlüssel können erfasst oder modifiziert werden im Menü Schlüsselverzei
 --------
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü Abitur > Qualifikation im Feld "Position" für das 1. Prüfungsfach (1PF) eine 1, für das 2. Prüfungsfach (2PF) eine 2 usw. angeben.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -6042,7 +6015,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -6121,8 +6094,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.54) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
@@ -6142,8 +6113,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
@@ -6155,19 +6124,20 @@ GK | GK | Grundkurse
 
 Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-Zeiträume 
+## Zeiträume 
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
+
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -6175,7 +6145,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -6184,7 +6154,7 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -6213,7 +6183,7 @@ Platzhalter | Ausgabe im Bericht
 
 ## RLP-GY-FHReife (Jahrgangstufe 11-13).rpt
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -6224,8 +6194,6 @@ Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.17) 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -6238,9 +6206,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 BL | BL | Besondere Lernleistung
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 (A0213) Abitur > Qualifikation > Status > Fachhochschulreife berechnen
 
@@ -6298,7 +6264,7 @@ GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
 LK | LK | Leistungskurse, Leistungsfächer
 FA | FA | Facharbeit
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -6334,7 +6300,10 @@ Platzhalter | Ausgabe im Bericht
 
 ## RLP-GY-HJZ (2spaltig mit FSP).rpt
 
-(A0006) `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+## Zeiträume
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
@@ -6350,7 +6319,7 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -6358,7 +6327,10 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 
 ## RLP-GY-HJZ (2spaltig ohne FSP).rpt
 
-(A0006) `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+## Zeiträume
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
@@ -6422,7 +6394,7 @@ GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
 LK | LK | Leistungskurse, Leistungsfächer
 FA | FA | Facharbeit
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -6464,7 +6436,7 @@ Platzhalter | Ausgabe im Bericht
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -6472,7 +6444,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -6499,14 +6471,12 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.54) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
 Ersatz | Ersatz | Ersatz
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -6520,8 +6490,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
@@ -6531,7 +6499,7 @@ GK | GK | Grundkurse
 
 Tragen Sie im Menü Schüler > Zeugnis > Leistungen im Feld "Endnote" die Halbjahresnote und im Feld "Endnote (Gesamt)" die Jahresnote ein.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
@@ -6543,9 +6511,10 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-Zeiträume 
+## Zeiträume 
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
+
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
@@ -6569,7 +6538,7 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -6613,7 +6582,7 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -6657,7 +6626,7 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -6778,11 +6747,9 @@ Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Ze
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 ## RLP-GY-JZ (2spaltig und mit Wahl- oder Pflichtfächern).rpt
 
@@ -6812,8 +6779,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.2) 
-
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
 Pflicht | Pflicht | Pflichtfächer bzw. –bereich
@@ -6836,7 +6801,7 @@ Fach eine Position in der Spalte "Position" angegeben werden.
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Fachstatus 
 
@@ -6853,9 +6818,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 WahlPF | WahlPF | Wahlpflichtfach
 Pflicht | Pflicht | Pflicht
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 ## Zeiträume
 
@@ -6923,8 +6886,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
@@ -6941,13 +6902,13 @@ Schulname
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
 1" ein.
 
-SchulleiterIn 
+## SchulleiterIn 
 
 `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-Zeugnisdatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
@@ -6955,7 +6916,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das Zeugnis (der Bericht) muss aus dem Menü `Schüler` über den Aufruf `Drucken > Zeugnisse drucken` oder mit dem Aufruf `STRG+Z` gedruckt werden.
 
 ## Formulare/Zeugnisbemerkungen
 
@@ -6970,15 +6931,13 @@ Benotung
 
 Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-Ort des Druckdatums
+## Ort des Druckdatums
 
 `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 (A0466) `Mandaten > Daten 1 > Name 1, Name 2, Name 3`
 
@@ -6986,13 +6945,13 @@ Tragen Sie die Bezeichnung, Schulform und Schulort Ihrer Schule im Menü `Mandan
 
 ## RLP-GY-Punktekreditkarte-2006.rpt
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
@@ -7020,7 +6979,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
 Ersatz | Ersatz | Ersatz
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -7047,7 +7006,7 @@ FA | FA | Facharbeit
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -7089,8 +7048,6 @@ Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen mü
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-(A0015.54) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 Freiw | Freiw | Wahlfreier Unterricht, frei gewählte Grundfächer
@@ -7114,8 +7071,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.17) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 LK | LK | Leistungskurse
@@ -7127,29 +7082,31 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 FA | FA | Facharbeit
 
-Fremdsprachenfolge 
+## ## ## ## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > Von/Bis`
  
 Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
-Fremdsprachenfolge 
+## Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-Zeugnisbemerkungen Abitur
+## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`
 
 Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-(A0111) `Ausdruck`
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
 
-(A0163) Abitur > Qualifikation
+## Qualifikation
+
+`Abitur > Qualifikation`
 
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
@@ -7161,7 +7118,7 @@ Des Weiteren wird im Menü Abitur > Prüfung" im Feld "5. PF" das Fach eingetrag
 Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen"
 markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Abitur >  Prüfung > Lernleistung, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.
 
-(A0185) Sonstiges
+## Sonstiges
 
 Als Leistungsfach wird Gemeinschaftskunde mit dem Schwerpunkt Geschichte oder Erdkunde oder Sozialkunde unterrichtet. Bei Leistungsfächern mit den Fachschlüsseln 33 (Erdkunde), 39 (Geschichte) und 42 (Sozialkunde)
 wird auf dem Zeugnis vor der Fachbezeichnung automatisch ein "GK-" ausgegeben. "GK-Geschichte": Leistungsfach Gemeinschaftskunde mit Schwerpunktfach Geschichte, entsprechend für "GKErdkunde"
@@ -7173,19 +7130,19 @@ und für "GK-Sozialkunde".
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-## Ausdruck
 
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
-Sprachkenntnisse 
+## Sprachkenntnisse 
 
 `Abitur > Prüfung > Sprachkenntnisse`
 
 Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
-(A0529) Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)
+## Fremdsprache fakultativ
 
-Zur Kennzeichnung der dritten oder vierten Fremdsprache als "fakultativ" weisen Sie der jeweiligen Fremdsprache im Menü Schüler > Daten 3 im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Wahlfach (fakulative FS)" zu.
+`Schüler > Daten 3 > Fremdsprachenfolge > Zusatz > Wahlfach (fakulative FS)`
+
+Zur Kennzeichnung der dritten oder vierten Fremdsprache als "fakultativ" weisen Sie der jeweiligen Fremdsprache im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" im Feld "Zusatz" den Wert "Wahlfach (fakulative FS)" zu. Für diese Zuweisung können Sie auch die Sammelzuweisung verwenden.
 
 (A0549) Sonstiges
 
@@ -7210,8 +7167,6 @@ APO 2016 | G8  Abiturprüfungsordnung | G8 | RLP-APO-2014.dws
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -7242,8 +7197,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.3) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Teilnahme an Arbeitsgemeinschaften
@@ -7272,8 +7225,6 @@ Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers 
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -7304,8 +7255,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.3) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Teilnahme an Arbeitsgemeinschaften
@@ -7335,8 +7284,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.3) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Teilnahme an Arbeitsgemeinschaften
@@ -7353,8 +7300,6 @@ KursC | KursC | Fachleistungskurs C
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -7391,8 +7336,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.3) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Teilnahme an Arbeitsgemeinschaften
@@ -7427,8 +7370,6 @@ Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis >
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -7465,8 +7406,6 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.3) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Teilnahme an Arbeitsgemeinschaften
@@ -7501,8 +7440,6 @@ Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis >
 Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
@@ -7539,1435 +7476,10 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
-(A0019.3) 
-
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Teilnahme an Arbeitsgemeinschaften
 KursA | KursA | Fachleistungskurs A
 KursG | KursG | Fachleistungskurs G
 KursC | KursC | Fachleistungskurs C
-
-## RLP-HS-JZ (5. Klassenstufe).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-AG | AG | Teilnahme an Arbeitsgemeinschaften
-KursA | KursA | Fachleistungskurs A
-KursG | KursG | Fachleistungskurs G
-KursC | KursC | Fachleistungskurs C
-
-## RLP-HS-JZ (6. Klassenstufe).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Klassenjahrgang
-
-`Klassen > Zeiträume > Zeitraum > Jahrgang`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
-
-## Zeugniskonferenzdatum
-
-`Schueler > Zeugnis > Details > Zeugniskonferenz am`
-
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter Zeugnis > Details im Feld "Zeugniskonferenz am" eingetragen sein.
-
-## Versetzung
-
-`Schueler > Laufbahn > Allgemein > Versetzt`
-
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-AG | AG | Teilnahme an Arbeitsgemeinschaften
-KursA | KursA | Fachleistungskurs A
-KursG | KursG | Fachleistungskurs G
-KursC | KursC | Fachleistungskurs C
-
-## RLP-HS-JZ (7-8 Klassenstufe).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Klassenjahrgang
-
-`Klassen > Zeiträume > Zeitraum > Jahrgang`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
-
-## Zeugniskonferenzdatum
-
-`Schueler > Zeugnis > Details > Zeugniskonferenz am`
-
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter Zeugnis > Details im Feld "Zeugniskonferenz am" eingetragen sein.
-
-## Versetzung
-
-`Schueler > Laufbahn > Allgemein > Versetzt`
-
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-AG | AG | Teilnahme an Arbeitsgemeinschaften
-KursA | KursA | Fachleistungskurs A
-KursG | KursG | Fachleistungskurs G
-KursC | KursC | Fachleistungskurs C
-
-## RLP-HS-JZ (7-9 Klassenstufe).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Klassenjahrgang
-
-`Klassen > Zeiträume > Zeitraum > Jahrgang`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
-
-## Zeugniskonferenzdatum
-
-`Schueler > Zeugnis > Details > Zeugniskonferenz am`
-
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter Zeugnis > Details im Feld "Zeugniskonferenz am" eingetragen sein.
-
-## Versetzung
-
-`Schueler > Laufbahn > Allgemein > Versetzt`
-
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-AG | AG | Teilnahme an Arbeitsgemeinschaften
-KursA | KursA | Fachleistungskurs A
-KursG | KursG | Fachleistungskurs G
-KursC | KursC | Fachleistungskurs C
-
-## RLP-KO-FHReife (Jahrgangsstufe 11).rpt
-
-## RLP-REG-AZ (5-6 Klassenstufe und Modellklasse).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## RLP-REG-AZ (5-6 Klassenstufe).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## RLP-REG-AZ (7-9 Klassenstufe und Modellklasse).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## RLP-REG-AZ (7-9 Klassenstufe).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## RLP-REG-AZ (das freiwillige 10. Schuljahr).rpt
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-AG | AG | Teilnahme an Arbeitsgemeinschaften
-KursA | KursA | Fachleistungskurs A
-KursG | KursG | Fachleistungskurs G
-KursC | KursC | Fachleistungskurs C
-
-## RLP-REG-HJZ (5-6 Klassenstufe und Modellklasse).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-AG | AG | Teilnahme an Arbeitsgemeinschaften
-KursA | KursA | Fachleistungskurs A
-KursG | KursG | Fachleistungskurs G
-KursC | KursC | Fachleistungskurs C
-
-## RLP-REG-HJZ (5-6 Klassenstufe).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-AG | AG | Teilnahme an Arbeitsgemeinschaften
-KursA | KursA | Fachleistungskurs A
-KursG | KursG | Fachleistungskurs G
-KursC | KursC | Fachleistungskurs C
-
-## RLP-REG-HJZ (7-9 Klassenstufe und Modellklasse).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-AG | AG | Teilnahme an Arbeitsgemeinschaften
-KursA | KursA | Fachleistungskurs A
-KursG | KursG | Fachleistungskurs G
-KursC | KursC | Fachleistungskurs C
-
-## RLP-REG-HJZ (7-9 Klassenstufe).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-AG | AG | Teilnahme an Arbeitsgemeinschaften
-KursA | KursA | Fachleistungskurs A
-KursG | KursG | Fachleistungskurs G
-KursC | KursC | Fachleistungskurs C
-
-## RLP-REG-HJZ (das freiwillige 10. Schuljahr).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-(A0019.3) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-AG | AG | Teilnahme an Arbeitsgemeinschaften
-KursA | KursA | Fachleistungskurs A
-KursG | KursG | Fachleistungskurs G
-KursC | KursC | Fachleistungskurs C
-
-## RLP-RS-AS.rpt
-
-## RLP-RS-AZ (9-10 Klasse).rpt
-
-## RLP-RS-HJZ (5.Klasse).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-(A0015.2) 
-
-Kürzel |  Schlüssel | Bezeichnung	
---|--|--
-Pflicht | Pflicht | Pflichtfächer bzw. –bereich
-WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
-FachP | FachP| Fachpraxis im Berufsfeld
-Wahlb | Wahlb | Wahlfächer bzw. –bereich
-
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
-
-## RLP-RS-HJZ (7-9 Klasse).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-(A0015.2) 
-
-Kürzel |  Schlüssel | Bezeichnung	
---|--|--
-Pflicht | Pflicht | Pflichtfächer bzw. –bereich
-WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
-FachP | FachP| Fachpraxis im Berufsfeld
-Wahlb | Wahlb | Wahlfächer bzw. –bereich
-
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
-
-## RLP-RS-HJZ (9-10 Klasse).rpt
-
-## RLP-RS-JZ (5.Klasse).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Klassenjahrgang
-
-`Klassen > Zeiträume > Zeitraum > Jahrgang`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
-
-## Zeugniskonferenzdatum
-
-`Schueler > Zeugnis > Details > Zeugniskonferenz am`
-
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter Zeugnis > Details im Feld "Zeugniskonferenz am" eingetragen sein.
-
-## Versetzung
-
-`Schueler > Laufbahn > Allgemein > Versetzt`
-
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-(A0015.2) 
-
-Kürzel |  Schlüssel | Bezeichnung	
---|--|--
-Pflicht | Pflicht | Pflichtfächer bzw. –bereich
-WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
-FachP | FachP| Fachpraxis im Berufsfeld
-Wahlb | Wahlb | Wahlfächer bzw. –bereich
-
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
-
-## RLP-RS-JZ (6.Klasse).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Klassenjahrgang
-
-`Klassen > Zeiträume > Zeitraum > Jahrgang`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
-
-## Zeugniskonferenzdatum
-
-`Schueler > Zeugnis > Details > Zeugniskonferenz am`
-
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter Zeugnis > Details im Feld "Zeugniskonferenz am" eingetragen sein.
-
-## Versetzung
-
-`Schueler > Laufbahn > Allgemein > Versetzt`
-
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-(A0015.2) 
-
-Kürzel |  Schlüssel | Bezeichnung	
---|--|--
-Pflicht | Pflicht | Pflichtfächer bzw. –bereich
-WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
-FachP | FachP| Fachpraxis im Berufsfeld
-Wahlb | Wahlb | Wahlfächer bzw. –bereich
-
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
-
-## RLP-RS-JZ (7-9 Klasse).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Klassenjahrgang
-
-`Klassen > Zeiträume > Zeitraum > Jahrgang`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
-
-## Zeugniskonferenzdatum
-
-`Schueler > Zeugnis > Details > Zeugniskonferenz am`
-
-Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü "Schüler" unter Zeugnis > Details im Feld "Zeugniskonferenz am" eingetragen sein.
-
-## Versetzung
-
-`Schueler > Laufbahn > Allgemein > Versetzt`
-
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-(A0015.2) 
-
-Kürzel |  Schlüssel | Bezeichnung	
---|--|--
-Pflicht | Pflicht | Pflichtfächer bzw. –bereich
-WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
-FachP | FachP| Fachpraxis im Berufsfeld
-Wahlb | Wahlb | Wahlfächer bzw. –bereich
-
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
-
-## RLP-RS-JZ (9-10 Klasse).rpt
-
-## RLP-RS-JZ.rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-(A0015.2) 
-
-Kürzel |  Schlüssel | Bezeichnung	
---|--|--
-Pflicht | Pflicht | Pflichtfächer bzw. –bereich
-WahlPF | WahlPF | Wahlpflichtfächer bzw. –bereicht
-FachP | FachP| Fachpraxis im Berufsfeld
-Wahlb | Wahlb | Wahlfächer bzw. –bereich
-
-(A0016) Schüler > Zeugnis > Fächer > Merkmal
-
-Für die Ausgabe der Fachbezeichnung mit einem Merkmal tragen Sie bei jedem Schüler unter Schüler > Zeugnis > Fächer in der Spalte "Merkmal" das entsprechende Merkmal ein. Erfolgt keine Angabe im Feld "Merkmal",
-so wird das Fach auf dem Zeugnis ohne Merkmal ausgegeben. Folgende Merkmale dürfen für den Zeugnisdruck verwendet werden:
-
-## Merkmale für Zeugnisbemerkungen
-
-`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
-
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
-
-Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
-
-Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-(A0021.4) 
-
-Merkmal | Bedeutung
---|--
-beliebiges Merkmal | Beurteilungstext für Verhalten und Mitarbeit oder Teilnahme an Arbeitsgemeinschaften oder Hinweise zum Arbeits- und Sozialverhalten Zusatzbemerkung
-
-## RLP-RSPLUS (HJZ-AS-AZ und 5.-10. Klasse).rpt
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Klassenjahrgang
-
-`Klassen > Zeiträume > Zeitraum > Jahrgang`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
-
-## Versetzung
-
-`Schueler > Laufbahn > Allgemein > Versetzt`
-
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
-Wahlb | Wahlb | Wahlfächer bzw. –bereich
-
-(A0015.41) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-WahlPF | WahlPF | Wahlpflichtfach
-
-## Fächerpositionierung
-
-`Schüler > Zeugnis > Fächer > Position`
-
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
-
-## Klassenkürzel
-
-`Klassen > Daten > Kürzel`
-Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` im Feld "Kürzel" die Klasse angeben.
-
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
-
-## Formulare/Zeugnisbemerkungen
-
-`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
-
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
-
-## Ausdruck
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
-## Abschluss
-
-`Schüler > Laufbahn > Abschluss > Abschluss 1`
-
-Zwischen Abgangs- oder Abschlusszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss1“ ( Menü Schüler > Laufbahn > Abschluss) differenziert. Bleibt das Feld leer handelt es sich je nach Zeitraum um ein Jahres- oder Halbjahreszeugnis. Hat der Schüler den Abschluss erreicht, tragen Sie unter  „Abschluss1“ den Status "erreicht" ein. Grundlage dazu ist das Schlüsselverzeichnis > Abschlüsse Intern und die "Bezeichnung" "erreicht". Schlüssel und Kürzel sind frei wählbar. Wurde der Abschluss nicht erreicht weissen Sie dem Feld  „Abschluss1“ den Zustand "nicht erreicht" zu. Es wird dann die Bezeichnung "Abgangszeugnis" ausgegeben.
-
-(A0330) Klassen > Merkmale > Merkmal A6
-
-Auf dem Zeugnis sind 2 Schularten zu differenzieren:
-Die Schularten weisen Sie unter Klassen > Merkmale im Feld "Merkmal A6" wie folgt zu: 
-Für Hauptschulen verwenden Sie das das Kürzel "HAUPT" für Realschulen das Kürzel "REAL". Grundlage bildet das Schlüsselverzeichnis > Merkmale (Klassen).
-
-(A0487) Ausdruck
-
-Beachten Sie dass der Report ein Halbjahres-, Jahres- und Abgangszeugnis ist. Abhängig davon ist der jeweilige Zeitraum (1stes oder 2tes Halbjahr) und ob ein Eintrag im Feld  „Abgang am“ im Menü Schüler > Daten 2 vorliegt (Abgangszeugnis). Entsprechend ob ein Halbjahres-, Jahres- und Abgangszeugnis vorliegt werden bestimmte Bereiche auf dem Zeugniss ein- oder ausgeblendet, wie zum Beispiel Verhalten und Mitarbeit, Versäumnisse und Versetzungstexte.
-
-(A0501) Sonstiges
-
-Für den Report liegt ein Tutorial vor. Um Ihnen dieses Tutorial zusenden zu können, wenden Sie sich bitte an den Stüber-Support und nennen uns außerdem den Dateinahmen Ihres Reprorts.
-
-## RLP-RSPLUS-HJZ (5. Klasse).rpt
-
-(A0301) Schlüsselverzeichnisse > Noten
-
-Für die Ausgabe der Noten für Verhalten und Mitarbeit beachten Sie bitte, dass Sie die Noten "sehr gut", "gut", "befriedigend"  und "unbefriedigend"  im Schlüsselverzeichnis > Noten uanlegen müssen.  Das Kürzel kann beliebig gewählt werden, als Notenart tragen Sie "Füllwert" an.
-
-Kürzel | Bezeichnung | Notenwert
---|--|--
-beliebig | sehr gut | Füllwert
-beliebig | gut | Füllwert
-beliebig | befriedigend | Füllwert
-beliebig | unbefriedigend | Füllwert
-
-Zeugnisdatum
-
-`Schüler > Zeugnis > Details > Zeugnisdatum`
-
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
-
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
-
-## Formulare/Zeugnisbemerkungen
-
-`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
-
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-(A0134) `Schüler > Zeugnis > Leistungen > Endnote`
-
-Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
-Wahlb | Wahlb | Wahlfächer bzw. –bereich
-
-Ort des Druckdatums
-
-`Mandanten > Daten 1 > Ort`
-
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
-
-(A0002) Klassen > Daten > Beurteilungsart > Beurteilungstexte > Noten
-
-Im Menü Klassen muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld Beurteilungsart "Noten" angegeben sein.
-(hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung)
-
-Fremdsprachenfolge 
-
-`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
-
-Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
-
-## Ausdruck
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
-## Fächerpositionierung
-
-`Schüler > Zeugnis > Fächer > Position`
-
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
-
-SchulleiterIn 
-
-`Mandanten > Daten 1 > Schulleiter`
-
-Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
-
-KlassenleiterIn 
-
-`Klassen > Zeiträume > Zeitraum > Klassenleiter`
-
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
-
-Zeiträume 
-
-`Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
-
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
-
-## RLP-SPS-AS (Integration).rpt
-
-(A0021.38) 
-
-Merkmal | Bedeutung
---|--
-verbalB | Verbale Beurteilungen der Leistung
-
-## Versetzung
-
-`Schueler > Laufbahn > Allgemein > Versetzt`
-
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
-
-## Formulare/Zeugnisbemerkungen
-
-`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
-
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
-Wahlb | Wahlb | Wahlfächer bzw. –bereich
-
-(A0015.58) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-BerufS | BerufS | Berufsbezogener Lernbereich
-
-## Merkmale für Zeugnisbemerkungen
-
-`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
-
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
-
-Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
-
-Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-## Ausdruck
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
-## Fächerpositionierung
-
-`Schüler > Zeugnis > Fächer > Position`
-
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
-
-(A0320) Schüler > Merkmale > Statistik Merkmale > Merkmal S4
-
-Den Bildungsgang des sonderpädagogischen Förderbedarf wird dem Schüler im Schüler > Merkmale  im Bereich "Statistik Merkmale" im Feld „Merkmal S4“ zugeordnet.  Grundlage für das Zuweisen dieses Merkmals bildet das Schlüsselverzeichnis Merkmale (Schüler). Legen Sie dort den Bildungsgang und dem Bereich "Merkmal S4" an.
-
-(A0006) `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
-
-## Klassenkürzel
-
-`Klassen > Daten > Kürzel`
-Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` im Feld "Kürzel" die Klasse angeben.
-
-## RLP-SPS-AS-AZ-HJZ (5-9 Klasse).rpt
-
-(A0015.72) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-LERNEN | LERNEN | LERNEN
-
-(A0015.73) 
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-GENTWICK | GENTWICK | GANZHEITLICHE ENTWICKLUNG
-
-(A0021.38) 
-
-Merkmal | Bedeutung
---|--
-verbalB | Verbale Beurteilungen der Leistung
-
-## Versetzung
-
-`Schueler > Laufbahn > Allgemein > Versetzt`
-
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
-
-## Formulare/Zeugnisbemerkungen
-
-`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
-
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
-
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
-## Verhalten und/oder Mitarbeit
-
-`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
-
-Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-Wahlb | Wahlb | Wahlfächer bzw. –bereich
-BerufS | BerufS | Berufsbezogener Lernbereich
-
-## Merkmale für Zeugnisbemerkungen
-
-`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
-
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. 
-
-Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal". Sie können den Eintrag vorab im `Schlüsselverzeichnis > Zeugnisbemerkungen` für die Bemerkung vordefinieren oder individuell unter Schüler > Zeugnis > Bemerkungen/Formulare je Schülerbemerkung anpassen.
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
-
-Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-## Ausdruck
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
-## Fächerpositionierung
-
-`Schüler > Zeugnis > Fächer > Position`
-
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Bei der Ausgabe der Fächer auf dem Zeugnis werden die geraden Positionen in der rechten Spalte und die ungeraden Positionen in der linken Spalte ausgegeben. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis der
-Fachtafeln unter `Schlüsselvezeichnis > Fachtafeln` die Zeugnisposition zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Position nicht pro Schüler und pro Fach vornehmen.
-
-## Abschluss
-
-`Schüler > Laufbahn > Abschluss > Abschluss 1`
-
-Zwischen Abgangs- oder Abschlusszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss1“ ( Menü Schüler > Laufbahn > Abschluss) differenziert. Bleibt das Feld leer handelt es sich je nach Zeitraum um ein Jahres- oder Halbjahreszeugnis. Hat der Schüler den Abschluss erreicht, tragen Sie unter  „Abschluss1“ den Status "erreicht" ein. Grundlage dazu ist das Schlüsselverzeichnis > Abschlüsse Intern und die "Bezeichnung" "erreicht". Schlüssel und Kürzel sind frei wählbar. Wurde der Abschluss nicht erreicht weissen Sie dem Feld  „Abschluss1“ den Zustand "nicht erreicht" zu. Es wird dann die Bezeichnung "Abgangszeugnis" ausgegeben.
-
-## Beeinträchtigung und Fördermaßnahmen
-
-`Schüler > Daten 4 > Beeinträchtigung und Fördermaßnahmen`
-
-## Beeinträchtigung und Fördermaßnahmen
-
-`Schüler > Daten 4 > Beeinträchtigung und Fördermaßnahmen`
-
-Den Bildungsgang des sonderpädagogischen Förderbedarf wird dem Schüler im Menü Schüler > Daten 4 im Bereich "Beeinträchtigung und Fördermaßnahmen" Feld „Förderbedarf“ zugeordnet.  Grundlage für das Zuweisen dieses Merkmals bildet das Schlüsselverzeichnis > Förderbedarf. Legen Sie dort den Bildungsgang an. (siehe auch A0015.72 und A0015.73)
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 2`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume.` Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck2".
-
-## Klassenkürzel
-
-`Klassen > Daten > Kürzel`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` im Feld "Kürzel" die Klasse angeben.
-
-## RLP-WG-ABI (DIN A3).rpt
-
-## Ausdruck
-
-`Ausdruck > DIN A 3 Format, doppelseitig`
-
-Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
-
-## Berechnungsskripte
-
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
-
-## RLP-WG-ABI (DIN A4).rpt
-
-## Berechnungsskripte
-
-Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)
-
-## Ausdruck
-
-`Ausdruck > DIN A 4 Format, doppelseitig`
-
-Das Zeugnis wird in DIN A4 Format und doppelseitig ausgegeben.
-
-## RLP-WG-AZ 11-1.rpt
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-ZusatzK | ZusatzK | Zusatzprüfung oder Zusatzunterricht
-Freiw | Freiw | Freiwillige Kurse oder Frei gewählte Grundfächer oder Frei gewählte Fächer oder Überschreitung der Pflichtstundenzahl
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-KF | KF | Kernfächer
-GF | GF | Grundfächer
-BU | BU | Berufsbezogener Unterricht
-FP | FP | Fachpraxis
-FP-GF | FP-GF | Fachpraxis-Grundfächer
-FP-KF | FP-KF | Fachpraxis-Kernfächer
-Theorie | Theorie | Fachtheoretischer Lernbereich
-
-## Abschlussdatum
-
-`Schüler > Laufbahn > Abschluss`
-
-Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## Schulformeintritt
-
-`Schüler > Laufbahn > Allgemein`
-
-Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## RLP-WG-AZ 12-1.rpt
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-ZusatzK | ZusatzK | Zusatzprüfung oder Zusatzunterricht
-Freiw | Freiw | Freiwillige Kurse oder Frei gewählte Grundfächer oder Frei gewählte Fächer oder Überschreitung der Pflichtstundenzahl
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-KF | KF | Kernfächer
-GF | GF | Grundfächer
-BU | BU | Berufsbezogener Unterricht
-FP | FP | Fachpraxis
-FP-GF | FP-GF | Fachpraxis-Grundfächer
-FP-KF | FP-KF | Fachpraxis-Kernfächer
-Theorie | Theorie | Fachtheoretischer Lernbereich
-
-## Abschlussdatum
-
-`Schüler > Laufbahn > Abschluss`
-
-Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## Schulformeintritt
-
-`Schüler > Laufbahn > Allgemein`
-
-Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## RLP-WG-AZ 12-2.rpt
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-ZusatzK | ZusatzK | Zusatzprüfung oder Zusatzunterricht
-Freiw | Freiw | Freiwillige Kurse oder Frei gewählte Grundfächer oder Frei gewählte Fächer oder Überschreitung der Pflichtstundenzahl
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-KF | KF | Kernfächer
-GF | GF | Grundfächer
-BU | BU | Berufsbezogener Unterricht
-FP | FP | Fachpraxis
-FP-GF | FP-GF | Fachpraxis-Grundfächer
-FP-KF | FP-KF | Fachpraxis-Kernfächer
-Theorie | Theorie | Fachtheoretischer Lernbereich
-
-## Abschlussdatum
-
-`Schüler > Laufbahn > Abschluss`
-
-Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## Schulformeintritt
-
-`Schüler > Laufbahn > Allgemein`
-
-Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## RLP-WG-AZ 13-1.rpt
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-ZusatzK | ZusatzK | Zusatzprüfung oder Zusatzunterricht
-Freiw | Freiw | Freiwillige Kurse oder Frei gewählte Grundfächer oder Frei gewählte Fächer oder Überschreitung der Pflichtstundenzahl
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-KF | KF | Kernfächer
-GF | GF | Grundfächer
-BU | BU | Berufsbezogener Unterricht
-FP | FP | Fachpraxis
-FP-GF | FP-GF | Fachpraxis-Grundfächer
-FP-KF | FP-KF | Fachpraxis-Kernfächer
-Theorie | Theorie | Fachtheoretischer Lernbereich
-
-## Abschlussdatum
-
-`Schüler > Laufbahn > Abschluss`
-
-Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## Schulformeintritt
-
-`Schüler > Laufbahn > Allgemein`
-
-Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt" das entsprechende Datum ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## RLP-WG-FHReife (Jahrgangsstufe 11).rpt
-
-## Klassenjahrgang
-
-`Klassen > Zeiträume > Zeitraum > Jahrgang`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
-
-## Fachstatus 
-
-`Extras > Schlüsselverzeichnisse > Fachstatus`
-
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--|--
-ZusatzK | ZusatzK | Zusatzprüfung oder Zusatzunterricht
-Freiw | Freiw | Freiwillige Kurse oder Frei gewählte Grundfächer oder Frei gewählte Fächer oder Überschreitung der Pflichtstundenzahl
-
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel |  Schlüssel | Zeugnisbereich
---|--
-BL | BL | Besondere Lernleistung
-GK | GK | Verpflichtende Grundfächer, Grundkurse, Grundfächer
-LK | LK | Leistungskurse, Leistungsfächer
-FA | FA | Facharbeit
-
-## Abschlussdatum
-
-`Schüler > Laufbahn > Abschluss`
-
-Tragen Sie im Menü `Schüler > Laufbahn > Abschluss` im aktuellen Zeitraum das Abschlussdatum im Feld "Abschluss 1" ein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
-
-## Qualifikation
-
-`Abitur > Qualifikation`
-
-Bei den Zeugnissen der Fachhochschulreife bilden die Noten und Fächer im Menü Abitur > Qualifikation die Grundlage für die Ausgabe. Es werden die Angaben in den Feldern "Durchschnitt" bzw. "Gesamtpunktzahl" verwendet.
 
