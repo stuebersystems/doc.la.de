@@ -667,7 +667,8 @@ nav:
         - NRW-RS-ÜZ (Klasse 7-10): berichte/zeugnisse/nrw/NRW-RS-ÜZ (Klasse 7-10).md
         - NRW-WG-AZ: berichte/zeugnisse/nrw/NRW-WG-AZ.md
         - NRW-WG-JZ: berichte/zeugnisse/nrw/NRW-WG-JZ.md
-      - RLP: berichte/zeugnisse/rlp_zeugnisse.md
+      - RLP: 
+        - gesammelt: berichte/zeugnisse/rlp_zeugnisse.md
       - SAA: 
         - SAA-AG-ABI (DIN A3): berichte/zeugnisse/saa/SAA-AG-ABI (DIN A3).md
         - SAA-AG-AZ (Einführungsphase): berichte/zeugnisse/saa/SAA-AG-AZ (Einführungsphase).md
