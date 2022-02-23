@@ -1,0 +1,1 @@
+﻿# ALL-JZ (einspaltig).rpt

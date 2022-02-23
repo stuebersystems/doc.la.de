@@ -227,7 +227,26 @@ nav:
   - Berichte:
     - Übersicht: berichte/01_uebersicht.md
     - Zeugnisse: 
-      - Allgemeine: berichte/zeugnisse/allgemein_zeugnisse.md
+      - Allgemeine: 
+        - gesammelt: berichte/zeugnisse/allgemein/allgemein_zeugnisse.md
+        - ALL-GY-HJZ (mit FSP): berichte/zeugnisse/allgemein/ALL-GY-HJZ (mit FSP).md
+        - ALL-GY-HJZ (mit versäumten Stunden): berichte/zeugnisse/allgemein/ALL-GY-HJZ (mit versäumten Stunden).md
+        - ALL-GY-HJZ (mit versäumten Tagen): berichte/zeugnisse/allgemein/ALL-GY-HJZ (mit versäumten Tagen).md
+        - ALL-GY-JZ (mit FSP): berichte/zeugnisse/allgemein/ALL-GY-JZ (mit FSP).md
+        - ALL-GY-JZ (ohne FSP und mit Versetzungstext): berichte/zeugnisse/allgemein/ALL-GY-JZ (ohne FSP und mit Versetzungstext).md
+        - ALL-GY-JZ (ohne FSP und ohne Versetzungstext): berichte/zeugnisse/allgemein/ALL-GY-JZ (ohne FSP und ohne Versetzungstext).md
+        - ALL-JZ (2-spaltig und mit grauem Hintergrund): berichte/zeugnisse/allgemein/ALL-JZ (2-spaltig und mit grauem Hintergrund).md
+        - ALL-JZ (2-spaltig): berichte/zeugnisse/allgemein/ALL-JZ (2-spaltig).md
+        - ALL-JZ (einspaltig und mit grauem Hintergrund): berichte/zeugnisse/allgemein/ALL-JZ (einspaltig und mit grauem Hintergrund).md
+        - ALL-JZ (einspaltig): berichte/zeugnisse/allgemein/ALL-JZ (einspaltig).md
+        - Abi (Ergebnisliste): berichte/zeugnisse/allgemein/Abi (Ergebnisliste).md
+        - Abi-Übersicht-Prüfungsergebnisse: berichte/zeugnisse/allgemein/Abi-Übersicht-Prüfungsergebnisse.md
+        - KMK-Fremdsprachenzertifikat: berichte/zeugnisse/allgemein/KMK-Fremdsprachenzertifikat.md
+        - Schüler (Wiederholer innerhalb eines Schuljahres): berichte/zeugnisse/allgemein/Schüler (Wiederholer innerhalb eines Schuljahres).md
+        - Schüler (Zeitraumübergreifende Notenübersicht): berichte/zeugnisse/allgemein/Schüler (Zeitraumübergreifende Notenübersicht).md
+        - Schülerliste (Abi Statusanzeige): berichte/zeugnisse/allgemein/Schülerliste (Abi Statusanzeige).md
+        - Schülerpersonalbogen (4 Seitig): berichte/zeugnisse/allgemein/Schülerpersonalbogen (4 Seitig).md
+        - Zeugnisliste (Schuljahr): berichte/zeugnisse/allgemein/Zeugnisliste (Schuljahr).md
       - Ausland: 
         - DAS (Zwischenzeugnis) Variante 2: berichte/zeugnisse/das/DAS (Zwischenzeugnis) Variante 2.md
         - DAS-GS (Klasse 1)(Kompetenzen): berichte/zeugnisse/das/DAS-GS (Klasse 1)(Kompetenzen).md
