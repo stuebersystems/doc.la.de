@@ -228,7 +228,6 @@ nav:
     - Übersicht: berichte/01_uebersicht.md
     - Zeugnisse: 
       - Allgemeine: 
-        - gesammelt: berichte/zeugnisse/allgemein/allgemein_zeugnisse.md
         - ALL-GY-HJZ (mit FSP): berichte/zeugnisse/allgemein/ALL-GY-HJZ (mit FSP).md
         - ALL-GY-HJZ (mit versäumten Stunden): berichte/zeugnisse/allgemein/ALL-GY-HJZ (mit versäumten Stunden).md
         - ALL-GY-HJZ (mit versäumten Tagen): berichte/zeugnisse/allgemein/ALL-GY-HJZ (mit versäumten Tagen).md
@@ -463,7 +462,6 @@ nav:
         - BER-Schul Z 620 (09.18): berichte/zeugnisse/ber/BER-Schul Z 620 (09.18).md
         - Schülerliste Berufsschulmatrix BS-BER mit Meldungen: berichte/zeugnisse/ber/Schülerliste Berufsschulmatrix BS-BER mit Meldungen.md
       - BRA: 
-        - gesammelt: berichte/zeugnisse/bra/bra_zeugnisse.md
         - BRA-BF-AS (2 Seitig - einspaltig): berichte/zeugnisse/bra/BRA-BF-AS (2 Seitig - einspaltig).md
         - BRA-BF-AS (2 Seitig - zweispaltig - schulischer Teil): berichte/zeugnisse/bra/BRA-BF-AS (2 Seitig - zweispaltig - schulischer Teil).md
         - BRA-BF-AS (2 Seitig - zweispaltig): berichte/zeugnisse/bra/BRA-BF-AS (2 Seitig - zweispaltig).md
@@ -598,7 +596,6 @@ nav:
         - NIE-GY-HJZ (Klasse 7-10 ohne Wahlpflicht): berichte/zeugnisse/nie/NIE-GY-HJZ (Klasse 7-10 ohne Wahlpflicht).md
         - NIE-GY-JZ (Mittelstufe): berichte/zeugnisse/nie/NIE-GY-JZ (Mittelstufe).md
       - NRW: 
-        - gesammelt: berichte/zeugnisse/nrw/nrw_zeugnisse.md
         - NRW-ABI-AZ  (Anlage D42): berichte/zeugnisse/nrw/NRW-ABI-AZ (Anlage D42).md
         - NRW-ABI-OS (2021): berichte/zeugnisse/nrw/NRW-ABI-OS (2021).md
         - NRW-Abitur (Prüfungsergebnisse 1): berichte/zeugnisse/nrw/NRW-Abitur (Prüfungsergebnisse 1).md
