@@ -1,4 +1,4 @@
-﻿# ALL-GY-HJZ (mit FSP).rpt
+﻿# ALL-GY-HJZ (mit FSP)
 
 ## Schulhalbjahr## 
 

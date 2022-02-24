@@ -1,4 +1,4 @@
-﻿# ALL-JZ (einspaltig).rpt
+﻿# ALL-JZ (einspaltig)
 
 ## Fehltage und/oder Fehlstunden
 

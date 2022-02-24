@@ -1,4 +1,4 @@
-﻿# Schüler (Wiederholer innerhalb eines Schuljahres).rpt
+﻿# Schüler (Wiederholer innerhalb eines Schuljahres)
 
 ## Ausdruck
 
@@ -21,7 +21,7 @@ Beachten Sie bei der Liste mit den Wiederholern innerhalb eines Schuljahres:
    * abgebende Klasse: Die Klasse vor der Versetzung
    * aufnehmende Klasse:  Die Klasse nach der Versetzung
 
-## Versetzungsart
+## Versetzungsar
 
 `Schüler > Laufbahn > Allgemein > Versetzungsart`
 

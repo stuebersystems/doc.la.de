@@ -1,4 +1,4 @@
-﻿# Schülerpersonalbogen (4 Seitig).rpt
+﻿# Schülerpersonalbogen (4 Seitig)
 
 ## Ausdruck
 

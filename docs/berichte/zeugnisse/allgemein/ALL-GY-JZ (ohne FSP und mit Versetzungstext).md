@@ -1,4 +1,4 @@
-﻿# ALL-GY-JZ (ohne FSP und mit Versetzungstext).rpt
+﻿# ALL-GY-JZ (ohne FSP und mit Versetzungstext)
 
 ## Schulhalbjahr
 

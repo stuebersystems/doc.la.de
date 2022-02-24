@@ -1,4 +1,4 @@
-﻿# Schüler (Zeitraumübergreifende Notenübersicht).rpt
+﻿# Schüler (Zeitraumübergreifende Notenübersicht)
 
 ## Ausdruck
 

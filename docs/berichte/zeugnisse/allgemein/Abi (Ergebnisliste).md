@@ -1,4 +1,4 @@
-﻿# Abi (Ergebnisliste).rpt
+﻿# Abi (Ergebnisliste)
 
 ## Ausdruck
 

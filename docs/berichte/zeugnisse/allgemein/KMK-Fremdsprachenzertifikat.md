@@ -1,4 +1,4 @@
-﻿# KMK-Fremdsprachenzertifikat.rpt
+﻿# KMK-Fremdsprachenzertifikat
 
 ## Ausdruck
 

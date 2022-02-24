@@ -1,4 +1,4 @@
-﻿# ALL-GY-HJZ (mit versäumten Stunden).rpt
+﻿# ALL-GY-HJZ (mit versäumten Stunden)
 
 ## Schulhalbjahr
 

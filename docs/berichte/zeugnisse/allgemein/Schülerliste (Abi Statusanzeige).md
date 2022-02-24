@@ -1,4 +1,4 @@
-﻿# Schülerliste (Abi Statusanzeige).rpt
+﻿# Schülerliste (Abi Statusanzeige)
 
 ## Ausdruck
 

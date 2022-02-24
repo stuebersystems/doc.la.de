@@ -1,4 +1,4 @@
-﻿# Zeugnisliste (Schuljahr).rpt
+﻿# Zeugnisliste (Schuljahr)
 
 Zeugnisliste über zwei Schulhalbjahre
 
