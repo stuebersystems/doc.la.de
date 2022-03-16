@@ -7,6 +7,22 @@
 ## Verordnung
 
 Bei der Definition der Verordnung für das Skript „BER-BBS-Matrix-2007“ müssen Sie unter Typ „BER-BS“ angeben.
+Bitte legen Sie unter `Schlüsselverzeichnis > Verordnungen` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Menü `Berufsschule" weisen Sie den Schülern die Verordnung zu.
+
+|Spalte|Wert|
+|--|--|
+|Kürzel|beliebig|
+|Bezeichnung|beliebig|
+|Kategorie|Berufsschule|
+|Typ|BER-BS|
+|Ab Jahrgang|leer|
+|Skript|```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server)|
+|Notenart 11|leer|
+|Notenart 12|leer|
+|Notenart 13|leer|
+|Notenart BBS|leer|
+|Gültig von |leer|
+|Gültig bis|leer|
 
 ## Fächer
 
