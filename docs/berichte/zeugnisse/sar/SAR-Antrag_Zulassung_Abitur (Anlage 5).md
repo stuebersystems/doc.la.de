@@ -1,6 +1,4 @@
-﻿# SAR-Antrag_Zulassung_Abitur (Anlage 5)
-
-## SAR-Antrag_Zulassung_Abitur (Anlage 5).rpt
+﻿# SAR-Antrag_Zulassung_Abitur (Anlage 5) G8 / SAR-Antrag_Zulassung_Abitur (Anlage 5) G9
 
 Vorlage: Anlage 5 [§ 34 (4)]
 
@@ -76,6 +74,10 @@ Die Note für die besondere Lernleistung tragen Sie im 1. Notenfeld ganz links e
 `Schüler > Merkmale > Merkmal D1`
 
 Eintrittsdatum in die Oberstufe: Tragen Sie im Menü `Schüler > Merkmale`  im Feld "Merkmal D1" das Datum des Eintritts in die Oberstufe ein.
+
+## Eintrittsklasse in die Oberstufe
+
+Der Wert ist fest je Bericht integriert. Für den Bericht `SAR-Antrag_Zulassung_Abitur (Anlage 5) G8` wird `10` und für den Bericht `SAR-Antrag_Zulassung_Abitur (Anlage 5) G9` wird `11` ausgegeben.
 
 ## Nachweis der Pflichtfremdsprache
 
