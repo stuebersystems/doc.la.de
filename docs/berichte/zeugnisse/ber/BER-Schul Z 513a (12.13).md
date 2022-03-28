@@ -83,7 +83,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 `Klasse > Daten > Schulart`
 
-Tragen Sie im aktuellen Zeitraum im Menü Klasse > Daten die Schulfart im Feld "Schulart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`.
+Tragen Sie im aktuellen Zeitraum im Menü Klasse > Daten die Schulart im Feld "Schulart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`.
 
 ## Merkmal für Fächer
 
