@@ -79,7 +79,7 @@ Die Note für die besondere Lernleistung tragen Sie im 1. Notenfeld ganz links e
 
 `Schüler > Merkmale > Merkmal D1`
 
-Eintrittsdatum in die Oberstufe: Tragen Sie im Menü `Schüler > Merkmale`  im Feld "Merkmal D1" das Datum des Eintritts in die Oberstufe ein.
+Eintrittsdatum in die Oberstufe: Tragen Sie im Menü `Schüler > Merkmale`  im Feld "Merkmal D1" das Datum des Eintritts in die Oberstufe ein. Den Eintrag können Sie per Schüler manuell vornehmen oder mit der Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` für eine gewählte Gruppe von Schülern verteilen.
 
 ## Eintrittsklasse in die Oberstufe
 
