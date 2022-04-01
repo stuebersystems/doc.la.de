@@ -2,7 +2,7 @@
 
 ## Unterschied zum Skript NRW-APO-BK-2012
 
-Dieses Skript berücksichtigt abweichend vom Skript `NRW-APO-BK-2021` die unten fett markierten Passagen der Verordnung.
+Dieses Skript berücksichtigt abweichend vom Skript `NRW-APO-BK-2012` die unten fett markierten Passagen der Verordnung.
 
 Auszug aus der APO-BK NRW:
 
