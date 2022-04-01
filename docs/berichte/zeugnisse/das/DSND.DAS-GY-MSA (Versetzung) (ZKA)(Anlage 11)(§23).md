@@ -31,11 +31,7 @@
 
 Versetzungszeugnis Gymnasium - Mittlerer Schulabschluss (ZKA)
 
-!!! info "Hinweis"
-
-    Es gibt auch ein Zeugnis für die Pandemie. Folgende Zeugnisbemerkung erscheint hier zusätzlich: "Die Versetzung in das Schuljahr 2021 erfolgt auf der Grundlage der vom Bund-Länder-Ausschuss für schulische Arbeit im Ausland in der Kultusministerkonferenz genehmigten Versetzungsordnung sowie der Sonderbestimmungen der Kultusministerkonferenz in der Corona-Pandemie."
-
-## Ausdruck
+# Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
