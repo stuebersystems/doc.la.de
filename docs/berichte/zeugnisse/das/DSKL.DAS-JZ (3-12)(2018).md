@@ -116,7 +116,7 @@ HS |Hauptschule
 
 Beim Anlegung Ihrer Noten im Schlüsselverzeichnis `Noten` weisen Sie Ihrer Note die entsprechende Notenart `Punktwert` oder `Notenwert` zu, da die Unterscheidung für Berechnungen benötigt wird.
 
-## Vermerk bei Fremdsprachenhinweis
+## Fremdsprachenhinweis
 
 ### Schulart Gymnasium
 
