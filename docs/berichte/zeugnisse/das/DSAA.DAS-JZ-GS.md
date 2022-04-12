@@ -1,10 +1,5 @@
 # DSAA.DAS-JZ-GS
 
-# DSAA.DAS-JZ-GS (Beurteilungstexte)
-
-[1]:/assets/images/DAS/das37.png "Ausgabe Schulhalbjahr/Schuljahr auf dem Zeugnis"
-[2]:/assets/images/DAS/das23.png "Schlüsselverzeichnisse > Zeiträume"
-
 ## Logodateien
 
 `Mandanten > Daten > Logo1 und Logo2`
@@ -18,9 +13,6 @@ Dabei wird die dem Feld `Logo 1` hinterlegte Datei links gezeigt, die dem Feld `
 
 Die Ausgabe des Schulhalbjahres/Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1" und "Art".
 
-[![Ausgabe Schulhalbjahr/Schuljahr auf dem Zeugnis][1]][1]
-
-[![`Schlüsselverzeichnisse > Zeiträume`][2]][2]
 
 ## Versetzungsvermerk
 
