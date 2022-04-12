@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+# DSAA.DAS-SekI+II-JZ
+
+# DSAA.DAS-JZ-GS
+
+>>>>>>> b51c616eca42adb2ba25456295b8ff66d51ba701
 # DSAA.DAS-JZ-GS (Beurteilungstexte)
 
 [1]:/assets/images/DAS/das37.png "Ausgabe Schulhalbjahr/Schuljahr auf dem Zeugnis"
@@ -30,12 +37,66 @@ Ein Versetzungsvermerk wird nur beim Ausdruck aus dem 2. Halbjahr ausgegeben. De
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
+<<<<<<< HEAD
+=======
+## Schulart
+
+`Schüler > Laufbahn > Allgemein > Schulart` oder `Klasse > Daten > Schulart` 
+
+Die Schulart des Schülers tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Allgemein > Schulart` oder im `Klasse > Daten` im Feld "Schulart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`. Das Zeugnis fragt die "Bezeichnung" aus dem `Schlüsselverzeichnis > Schularten` ab, diese müssen wie folgt erfasst werden: 
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+beliebig (GS) | leer | Grundschule
+beliebig (GYM) | leer | Gymnasium
+beliebig (HS) | leer | Hauptschule
+beliebig (OS) | leer | Orientierungsstufe
+beliebig (RS) | leer | Realschule
+
+Was gibt der Bericht aus:
+Für Schüler deren Klassenjahrgang nicht höher als Jahrgang 10 ist, wird die Schulart aus `Schüler > Laufbahn > Schulart` gelesen. Es werden die oben genannten Werte erwartet.
+Sollte dort nichts erfasst sein, wird die Klassenschulart unter `Klassen > Daten > Schulart` ausgelesen, soweit die Einträge den Vorgaben entsprechen.
+
+>>>>>>> b51c616eca42adb2ba25456295b8ff66d51ba701
 ## Klassenjahrgang
 
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
+<<<<<<< HEAD
+=======
+## Benotung
+
+`Klassen > Daten > Beurteilungsart` 
+
+Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Noten" angegeben sein.
+
+## Mitarbeit und Verhalten
+
+`Schueler > Zeugnis > Details > Verhalten und/oder Mitarbeit`
+
+Die Noten für Mitarbeit und Verhalten tragen Sie im Menü `Schüler > Zeugnis > Details` in den Feldern "Mitarbeit" und "Verhalten" ein.
+
+## Endnote
+
+`Schüler > Zeugnis > Leistungen > Endnote`
+
+Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+
+Es werden nur Fächer auf dem Zeugnis ausgegeben, die einen Eintrag haben.
+
+## Füllwerte für Benotung
+
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit Entwertung "--" auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` dies anlegen. 
+
+Kürzel |	Bezeichnung |	Notenart
+-|-|-
+-- |	-- 	Füllwerte
+
+>>>>>>> b51c616eca42adb2ba25456295b8ff66d51ba701
 ## Mandanten
 
 `Mandanten > Daten > Name 1`
@@ -69,6 +130,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
+<<<<<<< HEAD
 ## Text des persönlichen Briefes
 
 Die Ausgabe erfolgt aus einer Zeugnisbemerkung heraus. Weisen Sie über  `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen` ein Zeugnisbemerkung zu.
@@ -79,6 +141,8 @@ Merkmal | Bedeutung
 --|--
 PB | Personalisierte Bemerkungen für die Ausgabe des persönlichen Briefes
 
+=======
+>>>>>>> b51c616eca42adb2ba25456295b8ff66d51ba701
 ## Ort des Druckdatums
 
 `Mandanten > Daten 1 > Ort`
