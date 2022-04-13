@@ -13,7 +13,6 @@ Dabei wird die dem Feld `Logo 1` hinterlegte Datei links gezeigt, die dem Feld `
 
 Die Ausgabe des Schulhalbjahres/Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1" und "Art".
 
-
 ## Versetzungsvermerk
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Art`
@@ -72,11 +71,11 @@ Es werden nur Fächer auf dem Zeugnis ausgegeben, die einen Eintrag haben.
 
 `Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
 
-Um ein Fach mit Entwertung "--" auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` dies anlegen. 
+Um ein Fach mit Entwertung "--" auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` dies anlegen.
 
-Kürzel |	Bezeichnung |	Notenart
+Kürzel |Bezeichnung |Notenart
 -|-|-
--- |	-- 	Füllwerte
+-- |-- |Füllwerte
 
 ## Mandanten
 
@@ -153,4 +152,3 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers) 
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers) 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
-
