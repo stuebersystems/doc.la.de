@@ -31,7 +31,7 @@
 
 Versetzungszeugnis Gymnasium - Mittlerer Schulabschluss (ZKA)
 
-# Ausdruck
+## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
