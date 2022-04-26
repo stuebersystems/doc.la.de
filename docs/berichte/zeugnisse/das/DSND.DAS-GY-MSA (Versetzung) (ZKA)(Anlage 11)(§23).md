@@ -129,6 +129,22 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
+## Abschluss
+
+`Schüler > Laufbahn > Abschluss > Abschluss1Art`
+
+`Extras > Schlüsselverzeichnisse > Abschlussarten`
+
+Bei `Schüler > Laufbahn > Abschluss` tragen im Bereich „Abschluss1“ im Feld „Abschlussart“ die jeweilige Abschlussart ein. Grundlage bildet das `Schlüsselverzeichnis > Abschlussarten`. 
+
+Maßgeblich ist immer das Kürzel:
+
+Kürzel | Schluessel | Bezeichnung
+--|--|--
+BÜQ |--| Die Berechtigung zum Übergang in die Qualifikationsphase hat er/sie (individuell nach Schülergeschlecht) erhalten.
+NBÜQ |--| Die Berechtigung zum Übergang in die Qualifikationsphase hat  er/sie (individuell nach Schülergeschlecht) nicht erhalten.
+BÜQMSA|--|Die Berechtigung zum Übergang in die Qualifikationsphase hat er/sie (individuell nach Schülergeschlecht) erhalten.<br/>Die Berechtigung zum Übergang in die Qualifikationsphase schließt den Mittleren Schulabschluss ein.
+
 ## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
@@ -169,18 +185,3 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schüler)  
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
-
-## Abschluss
-
-`Schüler > Laufbahn > Abschluss`
-
-"Die Berechtigung zum Übergang in die Qualifikationsphase hat sie/er erhalten/nicht erhalten."
-
-Bei `Schüler > Laufbahn > Abschluss` tragen im Bereich „Abschluss1“ im Feld „Abschlussart“ die jeweilige Abschlussart. Grundlage bildet das `Schlüsselverzeichnis > Abschlussarten`. 
-Maßgeblich ist immer das Kürzel:
-
-Kürzel | Schluessel | Bezeichnung
---|--|--
-BÜQ |--| Berechtigung zum Übergang in die Qualifikationsphase erhalten
-NBÜQ |--| Berechtigung zum Übergang in die Qualifikationsphase NICHT erhalten
-
