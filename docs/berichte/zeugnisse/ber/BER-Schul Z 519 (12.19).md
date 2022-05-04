@@ -2,6 +2,8 @@
 
 Schul Z 519 (12.19)
 
+in Vorbereitung
+
 ## Aufgabenbereich
 
 `Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
