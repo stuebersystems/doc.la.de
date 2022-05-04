@@ -7,13 +7,11 @@
 
 Abiturqualifikationsberechnung für Deutsche Auslandsschulen  nach der Ordnung der Deutschen Internationalen Abiturprüfung an deutschen Auslandsschulen nach Beschluss der Kultusministerkonferenz vom 11.06.2015 i.d.F. vom 03.05.2018
 
-## Welcher Status wird im Skript berücksichtig
+## Welcher Status wird im Skript berücksichtigt
 
 Unter `Abitur > Qualifikation > Status` stehen mehrere Status zur Auswahl, wovon nur einige je Skript berücksichtigt werden. Für dieses Skript können folgende Auswahlen eingestellt werden:
 
-Gesamtqualifikation berechnen:
-
-* Abiturberechnung:
+* Gesamtqualifikation berechnen
 * Fachhochschulreife berechnen
 
 ## Verzeichnis Verordnung
