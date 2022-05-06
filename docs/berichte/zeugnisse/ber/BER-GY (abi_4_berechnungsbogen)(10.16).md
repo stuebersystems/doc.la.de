@@ -57,13 +57,10 @@ ME | ME | Musik Ensemble
 
 ## Fremdsprachenfolge
 
-`Schüler > Daten 3 > Von/Bis`
+`Schüler > Daten 3 > Von/Bis`<br/>`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
  
 Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
-## Fremdsprachenfolge** 
-
-`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
@@ -213,5 +210,5 @@ Die Noten für die schriftl. Ausarbeitung, Präsentation, Prüfungsgespräch der
 
 Das Kreuzchen für `Abiturprüfung bestanden`/`Abiturprüfung nicht bestanden` ergibt sich aus dem Eintrag im Feld `Status` (`Abitur > Qualifikation`). Der Status muss nicht manuell gesetzt werden, sondern wird vom Skript nach dem Auslösen der Berechnung auf der Unterkarte `Prüfung` automatisch gesetzt.
 
-[![Wiederholerhäkchen][2]][2]
+[![bestanden, nicht bestanden][3]][3]
 
