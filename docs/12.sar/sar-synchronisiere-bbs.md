@@ -130,6 +130,8 @@ ausschließlich auf die Tabelle Schuelerfachdaten zugreifen, sollten diese Skrip
 
 Dieses Skript wurde unter Magellan 6 angepasst und getestet. Unter Magellan 7 müsste es auch lauffähig sein.
 
+> **STÜBER SYSTEMS:** Mit der Ausgabe MAGELLAN 9.0.3 wird unter .../Skripte/Saarland ein unter MAGELLAN 9 lauffähiges Skript ausgeliefert.
+
 Folgende Dateien werden vom MBK zur Verfügung gestellt:
 
 * Skriptdatei „Synchronisiere BBS.dws“
@@ -207,7 +209,7 @@ Wiederholerliste.rpt einsetzen. Dieser erzeugt eine Liste der WiederholerInnen p
 
 [![Abbildung][16]][16]
 
-**STÜBER SYSTEMS**: Unter MAGELLAN 9 sollte bei einer Standardinstallation der Speicherort auf dem Serverrechner unter `C:\Users\Public\Documents\Stueber Systems\Magellan 9\Skripte` sein.
+> **STÜBER SYSTEMS**: Unter MAGELLAN 9 sollte bei einer Standardinstallation der Speicherort auf dem Serverrechner unter `C:\Users\Public\Documents\Stueber Systems\Magellan 9\Skripte` sein.
 
 [![Abbildung][17]][17]
 
