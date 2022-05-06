@@ -1,5 +1,9 @@
 ﻿# BER-GY (abi_4_berechnungsbogen)(10.16)
 
+[1]:/assets/images/Berlin/BER-GY_(abi_4_berechnungsbogen)(10.16)_01.png "Zulassungshäkchen"
+[2]:/assets/images/Berlin/BER-GY_(abi_4_berechnungsbogen)(10.16)_02.png "Wiederholerhäkchen"
+[3]:/assets/images/Berlin/BER-GY_(abi_4_berechnungsbogen)(10.16)_03.png "bestanden, nicht bestanden"
+
 Berechnungsbogen Stand 10.16
 
 ## Fachstatus
@@ -78,6 +82,14 @@ Fächerwahl - Zeilen Nr. - Für die Ausgabe der Fächerwahl (Zeile Nr.) gemäß 
 `Schüler > Laufbahn > Allgemein > Wiederholer`
 
 Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum  im Menü `Schüler > Laufbahn > Allgemein` im Feld "Wiederholer" der Haken gesetzt werden.
+
+[![Wiederholerhäkchen][2]][2]
+
+## Zulassung
+
+Bitte kreuzen Sie Zutreffendes nach erfolgtem Druck an!
+
+[![Zulassungshäkchen][1]][1]
 
 ## schriftliche Note
 
@@ -196,3 +208,10 @@ Die Noten für die schriftl. Ausarbeitung, Präsentation, Prüfungsgespräch der
  - "schriftliche Ausarbeitung" tragen Sie bitte im Menü `Abitur > Prüfung > schriftliche Note` ein
 -  "Präsentation" tragen Sie bitte im Menü `Abitur > Prüfung > mündliche Note` ein
  - "Prüfungsgespräch" tragen Sie bitte im Menü `Abitur > Prüfung > 2. mündl. Note` ein
+
+## bestanden, nicht bestanden
+
+Das Kreuzchen für `Abiturprüfung bestanden`/`Abiturprüfung nicht bestanden` ergibt sich aus dem Eintrag im Feld `Status` (`Abitur > Qualifikation`). Der Status muss nicht manuell gesetzt werden, sondern wird vom Skript nach dem Auslösen der Berechnung auf der Unterkarte `Prüfung` automatisch gesetzt.
+
+[![Wiederholerhäkchen][2]][2]
+
