@@ -24,7 +24,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 |Gültig von |leer|
 |Gültig bis|leer|
 
-![Eintragungsbeispiele für die einjährige oder zweijährige Variante](/images/ber-fos-verordnungen.png)
+![Eintragungsbeispiele für die einjährige oder zweijährige Variante](/assets/images/ber-fos-verordnungen.png)
 
 ## Fachkategorien
 
