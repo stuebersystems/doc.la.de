@@ -4,6 +4,16 @@
 
     Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [Regionales > Berlin](https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin/)!
 
+## Berücksichtigte Halbjahre
+
+Je nach in der Verordnungszeile definierten Eintrag in der Spalte `Typ` werden unterschiedliche Halbjahre (Spalten E1-Q4 unter `Abitur > Qualifikation`) berücksichtigt:
+
+Eintrag im Typ| Halbjahre
+--|--
+FOS2J<br/>Verordnung zweijährige Fachoberschule|Q1-Q2
+FOS1J<br/>Verordnung einjährige Fachoberschule|E1-Q2
+
+
 ## Verzeichnis Verordnung
 
 Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
