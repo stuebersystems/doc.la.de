@@ -101,7 +101,7 @@ Für den Fall, dass eine Fremdsprache im 1. Halbjahr eines laufenden Schuljahres
 
 Das kleine, mittlere bzw. große Latinum etc. wird auf dem Zeugnis ausgegeben, wenn Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` das dafür vorgesehene Feld markieren.
 
-![`Prüfungen > Sprachkenntnisse`](/assets/images/Berlin/sprachkenntnisse.png)
+![Abitur > Prüfungen > Sprachkenntnisse](/assets/images/Berlin/sprachkenntnisse.png)
 
 Folgende Ausgaben sind durch das Setzen der Häkchen möglich:
 
