@@ -1,5 +1,7 @@
 ﻿# BER-Schul Z 306 (04.21)
 
+[1]:/assets/images/Berlin/sprachkenntnisse.png "`Prüfungen > Sprachkenntnisse`"
+
 Schul Z 306 – Zeugnis der allgemeinen Hochschulreife (Gymnasium, ISS, berufliches Gymnasium) im Schuljahr 2020/2021 – (04.21)
 
 Bitte beachten Sie ergänzend die Voraussetzungen für Unterrichtsarten, Fachstatus, Fachkategorien und Aufgabenbereiche für das dazugehörige Berechnungsskript unter https://doc.la.stueber.de/03.ber/ber-apo-2017/.
@@ -67,7 +69,6 @@ Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dies
 Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses."
 Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses."
 
-
 ## Schuldaten
 
 `Mandanten > Daten > Name 1`
@@ -101,6 +102,8 @@ Für den Fall, dass eine Fremdsprache im 1. Halbjahr eines laufenden Schuljahres
 `Abitur > Prüfung > Sprachkenntnisse`
 
 Das kleine, mittlere bzw. große Latinum etc. wird auf dem Zeugnis ausgegeben, wenn Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` das dafür vorgesehene Feld markieren.
+
+[![`Prüfungen > Sprachkenntnisse`][1][1]
 
 Folgende Ausgaben sind durch das Setzen der Häkchen möglich:
 
