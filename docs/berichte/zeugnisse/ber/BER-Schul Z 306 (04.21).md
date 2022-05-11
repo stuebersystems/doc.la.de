@@ -67,12 +67,6 @@ Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dies
 Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses."
 Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses."
 
-## Fremdsprachen
-
-`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
-
-Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
-angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
 ## Schuldaten
 
@@ -87,11 +81,60 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "
 Zum Eintragen einer Zeugnisbemerkung muss im `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
 eine "1", für die zweite eine "2" usw.
 
-## Fremdsprachenfolge
+## Sprachen
+
+### Fremdsprachen
+
+`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+
+Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
+angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
+
+### Fremdsprachenfolge
 
 `Schüler > Daten 3 > Fremdsprachenfolge > Bis`
 
 Für den Fall, dass eine Fremdsprache im 1. Halbjahr eines laufenden Schuljahres abgewählt wird, tragen Sie im Menü  `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "bis" z.B. für 1. Halbjahr 12 "121" ein, für 1. Halbjahr 13 "131" usw. ein.
+
+### Sprachkenntnisse
+
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das kleine, mittlere bzw. große Latinum etc. wird auf dem Zeugnis ausgegeben, wenn Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` das dafür vorgesehene Feld markieren.
+
+### vorgegebene Sprachreferenzen
+
+`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
+
+Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis > Sprachreferenzen`.
+
+Mögliche Werte sind aktuell:
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+A1 | A1 | Anfänger
+A2 | A2 | Grundlegende Kenntnisse
+B1 | B1 | Fortgeschrittene Sprachverwendung
+B2 | B2 | Selbständige Sprachverwendung
+C1 | C1 | Fachkundige Sprachkenntnisse
+C2 | C2 | Annähernd muttersprachliche Kenntnisse
+
+Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
+
+### Fremdsprachennachweise
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+
+Hinweis zur Ausgabe der Fremdsprachennachweise: <br/>
+Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = LAT) und Griechisch (Altgriechisch) (Schlüsselverzeichnis > Fächer, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
+
+Kürzel |Schlüssel|Bedeutung/Bezeichnung
+--|--|--
+B2 | B2 | Selbständige Sprachverwendung
+C1 | C1 | Fachkundige Sprachkenntnisse
+C2 | C2 | Annähernd muttersprachliche Kenntnisse
+
+Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 
 ## Zeugnisbemerkungen Abitur
 
@@ -127,12 +170,6 @@ Kürzel | Bezeichnung | Notenart
 beliebig | beliebig | Füllwerte
 oB | ohne Bewertung | Füllwerte
 
-## Sprachkenntnisse
-
-`Abitur > Prüfung > Sprachkenntnisse`
-
-Das kleine, mittlere bzw. große Latinum etc. wird auf dem Zeugnis ausgegeben, wenn Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` das dafür vorgesehene Feld markieren.
-
 ## Fächerkategorie
 
 `Extras > Schlüsselverzeichnisse > Fächer > Kategorie`
@@ -160,48 +197,3 @@ Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis >  Fächer` in Spalte "Kat
 |Spiel|
 |SportTheorie|
 |Seminar|"
-
-## vorgegebene Sprachreferenzen
-
-`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
-
-Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis >Sprachreferenzen`.
-
-Mögliche Werte sind aktuell:
-
-Kürzel | Schlüssel | Bezeichnung
---|--|--
-A1 | A1 | Anfänger
-A2 | A2 | Grundlegende Kenntnisse
-B1 | B1 | Fortgeschrittene Sprachverwendung
-B2 | B2 | Selbständige Sprachverwendung
-C1 | C1 | Fachkundige Sprachkenntnisse
-C2 | C2 | Annähernd muttersprachliche Kenntnisse
-
-Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
-
-## vorgegebene Sprachreferenzen
-
-`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
-
-Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis >Sprachreferenzen`.
-
-Mögliche Werte sind aktuell:
-
-Kürzel | Schlüssel | Bezeichnung
---|--|--
-A1 | A1 | Anfänger
-A2 | A2 | Grundlegende Kenntnisse
-B1 | B1 | Fortgeschrittene Sprachverwendung
-
-## Fremdsprachennachweise
-
-`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
-
-Hinweis zur Ausgabe der Fremdsprachennachweise:
-Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = LAT) und Griechisch (Altgriechisch) (Schlüsselverzeichnis > Fächer, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
-B2 | B2 | Selbständige Sprachverwendung
-C1 | C1 | Fachkundige Sprachkenntnisse
-C2 | C2 | Annähernd muttersprachliche Kenntnisse
-
-Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
