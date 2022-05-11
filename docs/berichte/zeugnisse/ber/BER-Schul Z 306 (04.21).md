@@ -102,6 +102,17 @@ Für den Fall, dass eine Fremdsprache im 1. Halbjahr eines laufenden Schuljahres
 
 Das kleine, mittlere bzw. große Latinum etc. wird auf dem Zeugnis ausgegeben, wenn Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` das dafür vorgesehene Feld markieren.
 
+Folgende Ausgaben sind durch das Setzen der Häkchen möglich:
+
+"Latinums und des Graecums"<br/>
+"Großen Latinums und des Graecums"<br/>
+"Großen Latinums und des Hebraicums"<br/>
+"Latinums und des Hebraicums"<br/>
+"Latinums"<br/>
+"Hebraicums"<br/>
+"Großen Latinums"<br/>
+"Graecums"
+
 ### vorgegebene Sprachreferenzen
 
 `Extras > Schlüsselverzeichnisse > Sprachreferenzen`
