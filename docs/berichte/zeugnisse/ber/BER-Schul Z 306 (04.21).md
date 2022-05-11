@@ -1,6 +1,7 @@
-﻿# BER-Schul Z 306 (04.21)
+﻿# BER-Schul Z 306 (04.21) und BER-Schul Z 306 (03.22).rpt
 
-Schul Z 306 – Zeugnis der allgemeinen Hochschulreife (Gymnasium, ISS, berufliches Gymnasium) im Schuljahr 2020/2021 – (04.21)
+Schul Z 306 – Zeugnis der allgemeinen Hochschulreife (Gymnasium, ISS, berufliches Gymnasium) im Schuljahr 2020/2021 – (04.21)<br/>
+Schul Z 306 – Zeugnis der allgemeinen Hochschulreife (Gymnasium, ISS, berufliches Gymnasium) im Schuljahr 2020/2021 – (03.22)
 
 Bitte beachten Sie ergänzend die Voraussetzungen für Unterrichtsarten, Fachstatus, Fachkategorien und Aufgabenbereiche für das dazugehörige Berechnungsskript unter https://doc.la.stueber.de/03.ber/ber-apo-2017/.
 
