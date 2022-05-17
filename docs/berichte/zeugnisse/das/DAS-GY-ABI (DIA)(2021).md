@@ -45,6 +45,10 @@ Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an De
 
     Die Abiturqualifikationsberechnung in MAGELLAN können Sie mit Hilfe eines Berechnungsskriptes durchführen. Lesen Sie dazu bitte die Anleitung zum entsprchenden Berechnungsskript [DE-DIAP-2018](https://doc.la.stueber.de/01.de/de-diap-2018/) 
 
+## Ausdruck
+
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` über `Start > Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
+
 ## Aufgabenbereich
 
 `Extras > Schlüsselverzeichnis > Fächer > Aufgabenbereich`
@@ -59,7 +63,9 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Weitere Fächer
 Religion | Weitere Fächer
 
-## Fremdsprache
+## Sprachen
+
+### Fremdsprache
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
@@ -71,66 +77,7 @@ Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintr
 
     Unter `V. Sprachen / Languages` wird nun im Zeugnis textlich unterschieden, ob die Landessprache (z.B. Spanisch) als Erst- oder als Fremdsprache des Schülers unterrichtet wurde. Letzteres ist bei Quereinsteigern z.B. der Fall. *„Deutsch wird als Erstsprache unterrichtet. Die im Unterricht erworbenen und in Prüfungen nachgewiesenen Kompetenzen schließen solche auf dem Niveau C2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER) ein.“* ODER *„Deutsch und Spanisch werden als Erstsprachen unterrichtet. Die im Unterricht erworbenen und in Prüfungen nachgewiesenen Kompetenzen schließen solche auf dem Niveau C2 des Gemeinsamen Europäischen Referenzrahmens für Sprachen (GER) ein.“*
 
-## Schulleiter, Klassenleiter, Abteilungsleiter
-
-`Mandanten > Daten 1 > Schulleiter`
-
-Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
-
-`Klassen > Zeiträume > Zeitraum > Klassenleiter`
-
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
-
-`Klassen > Daten > Abteilung` UND `Extras > Schlüsselverzeichnis > Abteilungen`
- 
-Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
-
-1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
-2. Unter `Extras > Schlüsselverzeichnisse > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
-
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Abitur` über `Start > Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
-## Besondere Lernleistung
-
-`Abitur > Prüfung > Lernleistung`
-
-Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
-Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
-
-[![Erfassen der besonderen Lernleistung][20]][20]
-
-## Zeugnisdatum
-
-`Abitur > Prüfung > Zeugnisdatum`
-
-Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
-
-## Prüfungsfächer
-
-`Abitur > Prüfung > Prüfungsfächer`
-
-Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein. Die Fächer werden beim Starten des Verordnungsskriptes auf der Unterkarte `Qualifikation` automatisch eingetragen.
-
-Der Fachstatus muss unter `Abitur > Qualifikation > Fachstatus` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Fachstatus` übernommen werden.  
-Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
-
-| Kürzel | Schlüssel | Bedeutung       |
-|--------|-----------|-----------------|
-| 1PF    | 1PF       | 1. Prüfungsfach |
-| 2PF    | 2PF       | 2. Prüfungsfach |
-| 3PF    | 3PF       | 3. Prüfungsfach |
-| 4PF    | 4PF       | 4. Prüfungsfach |
-| 5PF    | 5PF       | 5. Prüfungsfach |
-
-## Ort des Druckdatums
-
-`Mandanten > Daten 1 > Ort`
-
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
-
-## Kurssprachen
+### Kurssprachen
 
 `Abitur > Qualifikation > Q1Bilingual-Q4Bilingual`
 
@@ -161,28 +108,7 @@ Spanisch | leer | Spanisch | Espanol
 
 Sollte das Fach bereits vor der 11. unterrichtet worden sein, tragen Sie im Menü `Abitur > Qualifikation` den Von-Zeitraum im Feld "Faktor" (unter "Layout anpassen" ggfs. auf der Karte Qualifikation einblendbar) in der Abiturmatrix ein, bleibt das Feld "Faktor" leer wird der Zeitraum "Von" und "Bis" aus den "Q" Feldern ermittelt.
 
-## englische Übersetzung des Faches
-
-`Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung2`
-
-Die Übersetzung des Faches tragen Sie im `Schlüsselverzeichnis > Fächer` im Feld „Bezeichnung2“ ein.
-
-## vierstündige Fächer
-
-`Extras > Schlüsselverzeichnisse > Fächer > Merkmale`
-
-Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Zeugnismerkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
-
-Fach (Bezeichnung/Kürzel)  | Zeugnismerkmal
---|--
-Deutsch |  	D
-Mathematik | M
-Englisch | 	E
-Landessprache | LS
-
-[![Zeugnismerkmal `Schlüsselverzeichnis > Fächer`][14]][14]
-
-## Unterrichtssprache zum Fach
+### Unterrichtssprache zum Fach
 
 `Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung`
 
@@ -192,7 +118,7 @@ Beispiel:
 
 `Biologie/Englisch`
 
-## Sprachreferenzen
+### Sprachreferenzen
 
 `Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
@@ -210,6 +136,89 @@ C1 | C1 | Fachkundige Sprachkenntnisse
 C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
+
+## Schulleiter, Klassenleiter, Abteilungsleiter
+
+`Mandanten > Daten 1 > Schulleiter`
+
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
+
+`Klassen > Zeiträume > Zeitraum > Klassenleiter`
+
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
+
+`Klassen > Daten > Abteilung` UND `Extras > Schlüsselverzeichnis > Abteilungen`
+ 
+Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
+
+1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
+2. Unter `Extras > Schlüsselverzeichnisse > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
+
+
+## Besondere Lernleistung
+
+`Abitur > Prüfung > Lernleistung`
+
+Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren.
+Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
+
+[![Erfassen der besonderen Lernleistung][20]][20]
+
+## Ort und Datum
+
+### Zeugnisdatum
+
+`Abitur > Prüfung > Zeugnisdatum`
+
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
+
+### Ort
+
+`Mandanten > Daten 1 > Ort`
+
+Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
+
+## Prüfungsfächer
+
+`Abitur > Prüfung > Prüfungsfächer`
+
+Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüfungsfächer` die jeweiligen Fächer eingetragen sein. Die Fächer werden beim Starten des Verordnungsskriptes auf der Unterkarte `Qualifikation` automatisch eingetragen.
+
+Der Fachstatus muss unter `Abitur > Qualifikation > Fachstatus` zugeordnet sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Fachstatus` übernommen werden.  
+Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
+
+| Kürzel | Schlüssel | Bedeutung       |
+|--------|-----------|-----------------|
+| 1PF    | 1PF       | 1. Prüfungsfach |
+| 2PF    | 2PF       | 2. Prüfungsfach |
+| 3PF    | 3PF       | 3. Prüfungsfach |
+| 4PF    | 4PF       | 4. Prüfungsfach |
+| 5PF    | 5PF       | 5. Prüfungsfach |
+
+
+
+## Fächer
+
+### englische Übersetzung des Faches
+
+`Extras > Schlüsselverzeichnisse > Fächer > Bezeichnung2`
+
+Die Übersetzung des Faches tragen Sie im `Schlüsselverzeichnis > Fächer` im Feld „Bezeichnung2“ ein.
+
+### vierstündige Fächer
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmale`
+
+Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Zeugnismerkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
+
+Fach (Bezeichnung/Kürzel)  | Zeugnismerkmal
+--|--
+Deutsch |  	D
+Mathematik | M
+Englisch | 	E
+Landessprache | LS
+
+[![Zeugnismerkmal `Schlüsselverzeichnis > Fächer`][14]][14]
 
 ## Zeugnisbemerkungen
 
