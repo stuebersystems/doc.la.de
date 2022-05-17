@@ -35,7 +35,7 @@ ZEUGNIS DER Zeugnis der ALLGEMEINEN HOCHSCHULREIFE mit besonderer Lernleistung
 Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland  (Beschluss der Kultusministerkonferenz vom 11.06.2015 i.d.F. vom 03.05.2018) zugrunde.
 (Anlage 8a zu DIA-PO [§ 37])
 
-*Beispielschüler finden Sie in der MAGELLAN8_BEISPIEL.FDB* (*Burns, Roberta)
+*Beispielschüler finden Sie in der MAGELLAN9_BEISPIEL.FDB* (*Burns, Roberta)
 
 [![Zeugnisvorschau1][31]][31]
 [![Zeugnisvorschau2][32]][32]
