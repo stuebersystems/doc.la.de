@@ -1,5 +1,19 @@
 # BER-IBA-AS-2020.dws
 
+[1]:/assets/images/Berlin/iba01.png "Noteneingabe der Besonderen Lernleistung"
+[2]:/assets/images/Berlin/iba02.png "Geben Sie hier die Berechnungsverordnung mit der Kategorie „Versetzung“ ein."
+[3]:/assets/images/Berlin/iba03.png "`Schüler > Zeugnis > Fächer` Unterrichtsart "BÜ", "FachT" und "FachP""
+[4]:/assets/images/Berlin/iba04.png "`Schüler > Zeugnis > Fächer` Fachstatus "WahlB""
+[5]:/assets/images/Berlin/iba05.png "`Schlüsselverzeichnisse > Fächer`"
+[6]:/assets/images/Berlin/iba06.png "`Schüler > Zeugnis > Fächer`"
+[7]:/assets/images/Berlin/iba07.png "`Schlüsselverzeichnis > Noten`"
+[8]:/assets/images/IBA/IBA18.png "`Schüler > Zeugnis > Leistungen` Voreinstellungen"
+[9]:/assets/images/IBA/IBA19.png "Berechnung"
+[10]:/assets/images/IBA/IBA17.png "Fach für die Betriebliche Lernaufgabe anlegen, um Endnote ausgeben zu können"
+[11]:/assets/images/IBA/IBA05.png "Betriebspraktikum wurde bestanden/nicht bestanden"
+[12]:/assets/images/IBA/IBA06.png "Ausgabe auf dem Zeugnis > Betriebspraktikum wurde bestanden/nicht bestanden"
+[13]:/assets/images/IBA/IBA04.png "Vertragsnummer des Betriebspraktikums"
+
 Grundlage: Verordnung über die Integrierte Berufsausbildungsvorbereitung IBA-VO vom 22.07.2019
 
 **Letzte Änderung: 19.06.2020**
@@ -21,7 +35,8 @@ Zur Berechnung der Endnoten der Teilbereiche Fachtheorie und Fachpraxis sowie de
 ### 1. Schlüsselverzeichnisse
 
 Bitte legen Sie in den beiden Schlüsselverzeichnissen:
-* `Extras > Schlüsselverzeichnisse > Schulform` und 
+
+* `Extras > Schlüsselverzeichnisse > Schulform` und <br/>
 * `Extras > Schlüsselverzeichnisse > Schulart` 
 
 folgendes Kürzel an:
@@ -30,9 +45,9 @@ folgendes Kürzel an:
 |---|---|
 | Kürzel| IBA 
 
-Tragen Sie die Werte bitte für die IBA Klassen im Menü `Klassen > Daten > Schulform` und `Klassen > Daten > Schulart` ein.
+Tragen Sie die Werte bitte für die IBA-Klassen im Menü `Klassen > Daten > Schulform` und `Klassen > Daten > Schulart` ein.
 
-![Noteneingabe der Besonderen Lernleistung](/assets/images/Berlin/iba01.png)
+![1][Noteneingabe der Besonderen Lernleistung]
 
 ### 2. Berechnungsverordnung definieren
 
@@ -57,7 +72,7 @@ Bitte legen Sie unter `Extras > Schlüsselverzeichnisse > Verordnungen` eine neu
 
     Das Skript `BER-IBA-AS-2020.dws` wird im Menü `Schüler > Zeugnis > Leistungen` ausgeführt und muss im `Schlüsselverzeichnis > Verordnung` mit der Kategorie „Versetzung“ angelegt werden.
 
-![Geben Sie hier die Berechnungsverordnung mit der Kategorie „Versetzung“ ein.](/assets/images/Berlin/iba02.png)
+![Geben Sie hier die Berechnungsverordnung mit der Kategorie „Versetzung“ ein.][2]
 
 ### 3. Fächer der Schüler eingeben
 
@@ -75,7 +90,7 @@ Fächern des berufsfeldübergreifenden bzw. berufsfeldbezogenen Unterricht weise
 |FachT| FachT |Berufsbezogener Lernbereich / Fachtheorie|
 |FachP| FachP |Berufsbezogener Lernbereich / Fachpraxis|
 
-![`Schüler > Zeugnis > Fächer` Unterrichtsart "BÜ", "FachT" und "FachP"](/assets/images/Berlin/iba03.png)
+![`Schüler > Zeugnis > Fächer` Unterrichtsart "BÜ", "FachT" und "FachP"][3]
 
 #### Wahlunterricht
 
@@ -85,7 +100,8 @@ Fächer des Wahlunterrichtes weisen Sie im Menü `Schüler > Zeugnis > Fächer` 
 |--------|-----------|-----------------|
 | WahlB  | WahlB     | Wahlbereich     |
 
-![`Schüler > Zeugnis > Fächer` Fachstatus "WahlB"](/assets/images/Berlin/iba04.png)
+
+![`Schüler > Zeugnis > Fächer` Fachstatus "WahlB"][4]
 
 #### Betriebliche Lernaufgaben
 
@@ -101,9 +117,9 @@ Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betriebli
 
 Weisen Sie diese Fächer ebenfalls im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.  
 
-![`Schlüsselverzeichnisse > Fächer`](/assets/images/Berlin/iba05.png)
+![`Schlüsselverzeichnisse > Fächer`][5]
 
-![`Schüler > Zeugnis > Fächer`](/assets/images/Berlin/iba06.png)
+![`Schüler > Zeugnis > Fächer`][6]
 
 #### 4. Noten der Fächer eingeben
 
@@ -127,10 +143,8 @@ Mit `o.B.` benotete Fächer werden in den Faktor (nicht in die Notensumme) der G
 `bf`:
 Für Schüler, die vom Fach Sport befreit sind weisen Sie bitte im Feld `Endnote` den Füllwert`bf`zu. Mit `bf` benotete Fächer haben weder als Faktor, noch als Note Einfluss auf die Gesamtnotenberechnung.
 
-
-![`Schlüsselverzeichnis > Noten`](/assets/images/Berlin/iba07.png)
-
-![`Schüler > Zeugnis > Leistungen` Voreinstellungen](/assets/images/IBA/IBA18.png)
+![`Schlüsselverzeichnis > Noten`][7]
+![`Schüler > Zeugnis > Leistungen` Voreinstellungen][8]
 
 !!! info "Hinweis"
 
@@ -161,7 +175,7 @@ Durchschnitt 2 | Endnote (Jahresnotendurchschnitt) des Teilbereiches Fachtpraxis
 
 Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsgang für das 2. Halbjahr in Berlin. Sie sehen die Voreinstellungen und die Werte, die durch das Skript berechnet werden.
 
-![Berechnung](/assets/images/IBA/IBA19.png)
+![Berechnung][9]
 
 !!! info "Hinweis"
 
@@ -207,7 +221,7 @@ BLE | leer | beliebig
 
 Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Zeugnis > Fächer` zu. Tragen Sie im Feld "Faktor" die "Gesamtstunden" ein. Die Endnote erfassen Sie für dieses Fach im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote (Gesamt)".
 
-![Fach für die Betriebliche Lernaufgabe anlegen, um Endnote ausgeben zu können](/assets/images/IBA/IBA17.png)
+![Fach für die Betriebliche Lernaufgabe anlegen, um Endnote ausgeben zu können][10]
 
 ### Betriebspraktikum 1./2. oder 3. bestanden/nicht bestanden
 
@@ -225,9 +239,8 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 
 3. Die Betriebliche Lernaufgabe 1,/2./3.  bezieht sich auf das jeweilige Praktikum 1./2./3. Ein Eintrag "N" im Feld "Merkmal" bei der entsprechenden Lernaufgabe steuert die Ausgabe "nicht bestanden". Bleibt das Feld "Merkmal" leer, wird das Praktikum als "bestanden" ausgegeben.
 
-![Betriebspraktikum wurde bestanden/nicht bestanden](/assets/images/IBA/IBA05.png)
-
-![Ausgabe auf dem Zeugnis > Betriebspraktikum wurde bestanden/nicht bestanden](/assets/images/IBA/IBA06.png)
+![Betriebspraktikum wurde bestanden/nicht bestanden][11]
+![Ausgabe auf dem Zeugnis > Betriebspraktikum wurde bestanden/nicht bestanden][12]
 
 3. Die Noten der Betriebliche Lernaufgabe 1,/2./3. tragen Sie im im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote" ein. 
 
@@ -244,7 +257,7 @@ Eintrag für | Eingabe wie folgt
 
 Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die auch benotet wird, dem 1./2./3 Betriebspraktikum zuordnen. Zudem wird ein Bezug des Betriebspraktikums zum 1. Halbjahr bzw. 2. Halbjahr hergestellt.
 
-![Vertragsnummer des Betriebspraktikums](/assets/images/IBA/IBA04.png)
+![Vertragsnummer des Betriebspraktikums][13]
 
 ### Prüfungsfächer - Präsentationsprüfung für MSA / EBBR
 
