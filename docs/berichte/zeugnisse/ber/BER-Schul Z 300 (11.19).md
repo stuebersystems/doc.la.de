@@ -56,6 +56,8 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.<br/>
 Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
 
+Wenn der Name 2 und der Name 3 gefüllt sind, werden die beiden Inhalte mit einem Komma getrennt in derselben Zeile gezeigt.
+
 ### Zeiträume
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`<br/>`Extras > Schlüsselverzeichnis > Zeiträume > Art`
@@ -65,9 +67,6 @@ Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuelle
 
 ZeitraumArt 1.Halbjahr ergibt = "1. Schulhalbjahr " + {Zeitraeume.Ausdruck1} Beispiel: 1.Schulhalbjahr 2022/23<br/>
 ZeitraumArt leer oder 2.Halbjahr = "Schuljahr " + {Zeitraeume.Ausdruck1} Beispiel: Schuljahr 2022/23
-
-end if
-
 
 ### Zeugnisdatum
 
@@ -98,7 +97,7 @@ Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
-WahlPF | WahlPF | Wahlpflicht
+WahlPF | WahlPF | Wahlpflichtunterricht
 Wahl | Wahl | Wahlunterricht
 
 ### Fächerpositionierung
@@ -111,6 +110,7 @@ Fach eine Position in der Spalte "Position" angegeben werden.
 ### Sport
 
 Um das Fach Sport oben in der rechten Spalte zu zeigen, darf die Unterrichtsart nicht WahlPF oder Wahl sein und unter `Extras > Schlüsselverzeichnisse > Fächer` muss für das Fach Sport der gleichnamige Aufgabenbereich gewählt sein. 
+Gibt es mehr als eine Zeile Sport, beispielsweise einen Sportzusatzkurs, werden die Zeilen in der Reihenfolge der verwendeten Fachposition gezeigt.
 
 ### Gliederung der Fächer
 
