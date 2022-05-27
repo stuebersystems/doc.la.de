@@ -58,13 +58,16 @@ Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 
 
 ### Zeiträume
 
-`Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
+`Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`<br/>`Extras > Schlüsselverzeichnis > Zeiträume > Art`
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art".
 
-`Extras > Schlüsselverzeichnis > Zeiträume > Art`
+ZeitraumArt 1.Halbjahr ergibt = "1. Schulhalbjahr " + {Zeitraeume.Ausdruck1} Beispiel: 1.Schulhalbjahr 2022/23<br/>
+ZeitraumArt leer oder 2.Halbjahr = "Schuljahr " + {Zeitraeume.Ausdruck1} Beispiel: Schuljahr 2022/23
 
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
+end if
+
 
 ### Zeugnisdatum
 
