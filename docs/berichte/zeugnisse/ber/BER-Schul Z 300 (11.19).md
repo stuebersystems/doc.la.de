@@ -2,6 +2,10 @@
 
 Schul Z 300 – Zeugnis der Einführungsphase der gymnasialen Oberstufe (ISS, Gemeinschaftsschule, berufliches Gymnasium) - (11.19)
 
+[1]:/assets/images/Berlin/schulz300.png "BER-Schul Z 300 (11.19)"
+
+![BER-Schul Z 300 (11.19)]
+
 ## Fehlzeiten
 
 ### Fehltage und/oder Fehlstunden
