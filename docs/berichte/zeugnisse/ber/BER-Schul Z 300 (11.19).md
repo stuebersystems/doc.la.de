@@ -16,19 +16,6 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-## Unterrichtsarten
-
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
-
-Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
-
-Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
-
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
-WahlPF | WahlPF | Wahlpflicht
-Wahl | Wahl | Wahlunterricht
-
 ## Fremdsprachenfolge
 
 ### von bis
@@ -98,12 +85,29 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 ## Fächer
 
+### Unterrichtsarten
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`
+
+Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ausgewählt. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`. Für den Zeugnisdruck ist dabei nur der Schlüssel der Unterrichtsart relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln die Unterrichtsart zuweisen können. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe der Unterrichtsart nicht pro Schüler und pro Fach vornehmen.
+
+Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
+
+Kürzel | Schlüssel | Zeugnisbereich
+--|--|--
+WahlPF | WahlPF | Wahlpflicht
+Wahl | Wahl | Wahlunterricht
+
 ### Fächerpositionierung
 
  `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
 Fach eine Position in der Spalte "Position" angegeben werden.
+
+### Sport
+
+Um das Fach Sport oben in der rechten Spalte zu zeigen, darf die Unterrichtsart nicht WahlPF oder Wahl sein und unter `Extras > Schlüsselverzeichnisse > Fächer` muss für das Fach Sport der gleichnamige Aufgabenbereich gewählt sein. 
 
 ### Gliederung der Fächer
 
@@ -112,7 +116,7 @@ Fach eine Position in der Spalte "Position" angegeben werden.
 Gliederung Pflichtunterricht, Wahlpflichtunterricht und Wahlunterricht (BER):
 Im Zeugnis werden die Fächer wie folgt ausgegeben:
 Spalte 1 (links)- hier erscheint der „Pflichtunterricht“
-Spalte 2 (rechts)** - hier erscheinen untereinander zunächst die Fächer des „Wahlpflichtunterrichtes“ und darunter die Fächer des „Wahlunterrichts“
+Spalte 2 (rechts) - hier erscheinen untereinander zunächst die Fächer des „Wahlpflichtunterrichtes“ und darunter die Fächer des „Wahlunterrichts“
 
 ## Benotung
 
@@ -137,7 +141,7 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 
 Bitte beachten Sie, dass Zeugnis nur Zeugnisbemerkungen ohne Merkmalseintrag ausgibt, das Merkmal `Beiblatt` ist für den Hinweis auf ein Beiblatt reserviert.
 
-### Platzhalter in Zeugnisbemerkungen
+### Platzhalter
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`und `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` und `Berufsschule > Zeugnisbemerkungen`
 
