@@ -154,7 +154,6 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2. Unter `Extras > Schlüsselverzeichnisse > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
-
 ## Besondere Lernleistung
 
 `Abitur > Prüfung > Lernleistung`
@@ -195,8 +194,6 @@ Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass i
 | 4PF    | 4PF       | 4. Prüfungsfach |
 | 5PF    | 5PF       | 5. Prüfungsfach |
 
-
-
 ## Fächer
 
 ### englische Übersetzung des Faches
@@ -209,7 +206,7 @@ Die Übersetzung des Faches tragen Sie im `Schlüsselverzeichnis > Fächer` im F
 
 `Extras > Schlüsselverzeichnisse > Fächer > Merkmale`
 
-Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Zeugnismerkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
+Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Zeugnismerkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" (erhöhtes Anforderungsniveau) für die vierstündig unterrichteten Fächer ausgelesen.
 
 Fach (Bezeichnung/Kürzel)  | Zeugnismerkmal
 --|--
@@ -258,4 +255,3 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<DerSchueler_DieSchuelerin>>` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schülers)
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
-
