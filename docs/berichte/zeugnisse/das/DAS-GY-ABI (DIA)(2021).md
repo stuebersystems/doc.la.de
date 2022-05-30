@@ -202,7 +202,7 @@ Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass i
 
 Die Übersetzung des Faches tragen Sie im `Schlüsselverzeichnis > Fächer` im Feld „Bezeichnung2“ ein.
 
-### vierstündige Fächer
+### vierstündige Fächer `(E)`
 
 `Extras > Schlüsselverzeichnisse > Fächer > Merkmale`
 
