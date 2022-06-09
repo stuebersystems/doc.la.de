@@ -27,6 +27,9 @@
 [30]:/assets/images/DAS/das30.png
 [31]:/assets/images/DAS/das31.png
 [32]:/assets/images/DAS/das32.png
+[33]:/assets/images/DAS/logo01.png
+[34]:/assets/images/DAS/logo.png
+
 
 ZEUGNIS DER Zeugnis der ALLGEMEINEN HOCHSCHULREIFE mit besonderer Lernleistung
 
@@ -48,6 +51,14 @@ Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an De
 ## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` über `Start > Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
+
+## Logo
+
+Der Bericht gibt auf der ersten Seite oben links die unter `Mandanten  > Daten2 > Logo2` hinterlegte Bilddatei aus. Der Logorahmen kann Bilddateien unverzerrt im Format 2 zu 1 darstellen. Für andere Formate können Sie uns beauftragen oder die Datei selbst anpassen.
+
+[![Logo2][33]][33]
+
+[![Kopf mit Logo][34]][34]
 
 ## Aufgabenbereich
 
