@@ -104,6 +104,8 @@ Das kleine, mittlere bzw. große Latinum etc. wird auf dem Zeugnis ausgegeben, w
 
 ![Abitur > Prüfungen > Sprachkenntnisse](/assets/images/Berlin/sprachkenntnisse.png)
 
+**Für die Ausgabe "Latinum" wählen Sie bitte "kleines Latinum".**
+
 Folgende Ausgaben sind durch das Setzen der Häkchen möglich:
 
 "Latinums und des Graecums"<br/>
