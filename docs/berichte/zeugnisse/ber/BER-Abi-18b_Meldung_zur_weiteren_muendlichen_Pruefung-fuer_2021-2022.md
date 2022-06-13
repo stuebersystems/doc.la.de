@@ -1,6 +1,10 @@
 # BER-Abi-18b_Meldung_zur_weiteren_muendlichen_Pruefung-fuer_2021-2022.rpt
 
+[1]:/assets/images/ber/18b.png "Bericht"
+
 Abi-18b_Meldung_zur_weiteren_muendlichen_Pruefung-fuer_2021-2022
+
+![Bericht][1]
 
 ## Ausgabe des Schuljahres
 
@@ -10,7 +14,7 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 ## Daten manuell erfassen
 
