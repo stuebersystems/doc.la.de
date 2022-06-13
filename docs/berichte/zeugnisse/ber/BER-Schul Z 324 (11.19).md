@@ -132,11 +132,12 @@ Unterscheidung 5. Prüfungskomponente an Kollegschulen Berlin (Präsentationprü
 `Abitur > Qualifikation`
 
 Bei der 5. Prüfungskomponente wird zwischen einer „Präsentation“ und der „Besonderen Lernleistung“ unterschieden. Gehen Sie jeweils wie folgt vor:
-1. Präsentationprüfung
+
+1. Präsentationprüfung<br/>
 Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte „Fachstatus“ den Wert „5 PF“ zu und führen das entsprechende Skript aus. 
 Durch das Berechnungskriptwird im Menü `Abitur > Prüfung` im Feld „5. PF“ das Fach eingetragen.  Dort tragen die mündliche Note im Feld "Mündliche Note" ein.
 
-2. Besondere Lernleistung
+2. Besondere Lernleistung<br/>
 Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` in der Registerkarte „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren.
 Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
 
