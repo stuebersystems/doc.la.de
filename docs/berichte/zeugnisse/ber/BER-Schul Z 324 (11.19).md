@@ -2,7 +2,37 @@
 
 Schul Z 324 – Zeugnis der allgemeinen Hochschulreife der Kollegs (11.19)
 
-## Fachstatus
+## Ausdruck
+
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
+
+## Schuldaten
+
+`Mandanten > Daten > Name 1`
+
+Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
+
+`Mandanten > Daten 1 > Name 3`
+
+Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
+
+
+## Zeugnisdatum
+
+`Abitur > Prüfung > Zeugnisdatum`
+
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
+
+
+## Zugang am und/oder Abgang am
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
+
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
+
+## Fachstatus-, kategorie, Aufgabenbereich, Unterrichtsarten
+
+### Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -17,7 +47,7 @@ Kürzel | Schlüssel |  Zeugnisbereich
 4PF |  4PF | 4. Prüfungsfach
 5PF |  5PF | 5. Prüfungsfach (wenn Präsentationsprüfung)"
 
-## Aufgabenbereich
+### Aufgabenbereich
 
 `Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
@@ -30,13 +60,7 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport |  Sport
 
-## Zugang am und/oder Abgang am
-
-`Schueler > Daten 2 > Zugang am und/oder Abgang am`
-
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
-
-## Unterrichtsarten
+### Unterrichtsarten
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -50,63 +74,7 @@ GK | GK | Grundkurse"
 Z| Z | Zusatz-/Ergänzungskurs
 ME |  ME| Musik Ensemble
 
-## Zeugnisbemerkungen Merkmal
-
-`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
-
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter `Schlüsselverzeichnis > Zeugnisbemerkungen`, falls es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis >Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
-Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-Merkmal | Bedeutung
---|--
-Beiblatt | Beiblatt ist Bestandteil des Zeugnisses
-
-Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:     ☐ ja     ☐ nein1)." wird wie folgt gesteuert:
-
-Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
-Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”"
-
-## Fremdsprachen
-
-`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
-
-Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
-angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
-
-## Schuldaten
-
-`Mandanten > Daten > Name 1`
-
-Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
-
-`Mandanten > Daten 1 > Name 3`
-
-Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
-
-## Positionierung der Zeugnisbemerkungen
-
-`Abitur > Zeugnis > Zeugnisbemerkungen > Position`
-
-Zum Eintragen einer Zeugnisbemerkung muss im `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
-eine "1", für die zweite eine "2" usw.
-
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
-
-## Zeugnisdatum
-
-`Abitur > Prüfung > Zeugnisdatum`
-
-Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
-
-## Sprachkenntnisse
-
-`Abitur > Prüfung > Sprachkenntnisse`
-
-Das kleine, mittlere bzw. große Latinum etc. wird auf dem Zeugnis ausgegeben, wenn Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` das dafür vorgesehene Feld markieren.
-
-## Fächerkategorie
+### Fächerkategorie
 
 `Extras > Schlüsselverzeichnisse > Fächer > Kategorie`
 
@@ -132,26 +100,34 @@ Spiel
 SportTheorie
 Seminar
 
-## vorgegebene Sprachreferenzen
+## Zeugnisbemerkungen
 
-`Extras > Schlüsselverzeichnisse > Sprachreferenzen`
+### Positionierung der Zeugnisbemerkungen
 
-Bitte tragen Sie in unter im Menü `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das `Schlüsselverzeichnis >Sprachreferenzen`.
+`Abitur > Zeugnis > Zeugnisbemerkungen > Position`
 
-Mögliche Werte sind aktuell:
+Zum Eintragen einer Zeugnisbemerkung muss im `Abitur > Zeugnis > Zeugnisbemerkungen` im Feld "Position" bei der jeweiligen Zeugnisbemerkung eine Positionsnummer angegeben werden. Z.B. für die erste Bemerkung
+eine "1", für die zweite eine "2" usw.
 
-Kürzel | Schlüssel | Bezeichnung
---|--|--
-A1 | A1 | Anfänger
-A2 | A2 | Grundlegende Kenntnisse
-B1 | B1 | Fortgeschrittene Sprachverwendung
-B2 | B2 | Selbständige Sprachverwendung
-C1 | C1 | Fachkundige Sprachkenntnisse
-C2 | C2 | Annähernd muttersprachliche Kenntnisse
+### Zeugnisbemerkungen Merkmal
 
-Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-## Unterscheidung 5. Prüfungskomponente an Kollegschulen Berlin (Präsentationprüfung /  Besondere Lernleistung)
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter `Schlüsselverzeichnis > Zeugnisbemerkungen`, falls es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis >Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
+
+Merkmal | Bedeutung
+--|--
+Beiblatt | Beiblatt ist Bestandteil des Zeugnisses
+
+Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:     ☐ ja     ☐ nein1)." wird wie folgt gesteuert:
+
+Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
+Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”"
+
+## 5. Prüfungskomponente
+
+Unterscheidung 5. Prüfungskomponente an Kollegschulen Berlin (Präsentationprüfung /  Besondere Lernleistung)
 
 `Abitur > Qualifikation`
 
@@ -172,7 +148,15 @@ Das Berechnungsskript fügt automatisch im 3. Punktfeld die Gesamtnote für die 
 
 Bitte beachten Sie di Anleitung unter [https://doc.la.stueber.de/03.ber/ber-apo-ko-2017/](https://doc.la.stueber.de/03.ber/ber-apo-ko-2017/)
 
-## vorgegebene Sprachreferenzen
+## Sprachen
+
+### Sprachkenntnisse
+
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das kleine, mittlere bzw. große Latinum etc. wird auf dem Zeugnis ausgegeben, wenn Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` das dafür vorgesehene Feld markieren.
+
+### vorgegebene Sprachreferenzen
 
 `Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
@@ -191,14 +175,21 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 
-## Fremdsprachennachweise
+### Fremdsprachen
+
+`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+
+Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü
+angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
+
+### Fremdsprachennachweise
 
 `Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
 
 Hinweis zur Ausgabe der Fremdsprachennachweise:
 Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. Gefiltert werden die alten Fremdsprachen Latein (`Schlüsselverzeichnis > Fächer`, Spalte "Merkmal" = LAT) und Griechisch (Altgriechisch) (Schlüsselverzeichnis > Fächer, Spalte "Merkmal" = AGR). Diese werden nicht ausgegeben.
 
-## Latinum, großes Latinum
+### Latinum, großes Latinum
 
 `Abitur > Prüfung > Sprachkenntnisse`
 
@@ -206,7 +197,7 @@ Bitte vergeben Sie unter `Abitur > Prüfung > Sprachkenntnisse` ein Häkchen fü
 
 ![Eingabebeispiel](/assets/images/berlin/latinum.png)
 
-## Ausgabe "Vorkurs" bei den Fremdsprachen
+### Ausgabe "Vorkurs" bei den Fremdsprachen
 
 `Schüler > Daten 3 > Fremdsprachenfolge > Von`
 
