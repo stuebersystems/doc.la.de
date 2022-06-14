@@ -1,6 +1,6 @@
 # BER-Abi-5 Mitteilung Abipruefung (12.21).rpt
 
-[1]:/assets/images/ber/5a.png "Bericht"
+[1]:/assets/images/Berlin/5a.png "Bericht"
 
 Abi-5 – Mitteilung zur Abiturprüfung im Schuljahr 2021/2022 (VO-GO) (12.21)
 
