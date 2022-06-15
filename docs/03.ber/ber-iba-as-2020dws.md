@@ -144,6 +144,7 @@ Mit `o.B.` benotete Fächer werden in den Faktor (nicht in die Notensumme) der G
 Für Schüler, die vom Fach Sport befreit sind weisen Sie bitte im Feld `Endnote` den Füllwert`bf`zu. Mit `bf` benotete Fächer haben weder als Faktor, noch als Note Einfluss auf die Gesamtnotenberechnung.
 
 ![`Schlüsselverzeichnis > Noten`][7]
+
 ![`Schüler > Zeugnis > Leistungen` Voreinstellungen][8]
 
 !!! info "Hinweis"
@@ -185,7 +186,7 @@ Die nachfolgende Abbildung zeigt ein Berechnungsbeispiel für den IBA Bildungsga
 #### Besonderheit Durchschnitt 1 und 2
 
 Wenn im Feld `Durchschnitt 1` und/oder `Durchschnitt 2` ein eigenes, vom Gesamtdurchschnitt abweichendes Ergebnis erfasst wird, wird dieser selbstgewählte `Durchschnitt 1` auch beim erneuten Auslösen des Skriptes berücksichtigt und nicht überschrieben. 
-Möchten Sie das Skriptergebnis vollständig neu berechnen, leeren Sie bitte zuvor manuell das Feld `Durchschnitt 1` und/oder `Durchschnitt 2`.
+**Möchten Sie das Skriptergebnis vollständig neu berechnen, leeren Sie bitte zuvor manuell das Feld `Durchschnitt 1` und/oder `Durchschnitt 2`.**
 
 ## Sonstiges für den Zeugnisdruck
 
