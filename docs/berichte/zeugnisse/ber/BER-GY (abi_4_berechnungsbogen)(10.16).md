@@ -3,10 +3,18 @@
 [1]:/assets/images/Berlin/BER-GY_(abi_4_berechnungsbogen)(10.16)_01.png "Zulassungshäkchen"
 [2]:/assets/images/Berlin/BER-GY_(abi_4_berechnungsbogen)(10.16)_02.png "Wiederholerhäkchen"
 [3]:/assets/images/Berlin/BER-GY_(abi_4_berechnungsbogen)(10.16)_03.png "bestanden, nicht bestanden"
+[4]:/assets/images/Berlin/10.png "Vorderseite"
+[5]:/assets/images/Berlin/11.png "Rückseite"
 
 Berechnungsbogen Stand 10.16
 
-## Fachstatus
+[![Vorderseite][4]][4]
+
+[![Rückseite][5]][5]
+
+## Fachstatus, Unterrichtsart
+
+### Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -27,20 +35,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 BLL |BLL |5. Prüfungskomponente Besondere Lernleistung 
 PRS |PRS |5. Prüfungskomponente Präsentationsprüfung
 
-## Aufgabenbereich
+Bitte beachten Sie für den Eintrag der Noten die Anleitungen:  [Prüfungskomponente](https://doc.la.stueber.de/03.ber/ber-apo-2017/#5-prufungskomponente), [Präsentationsprüfung](https://doc.la.stueber.de/03.ber/ber-apo-2017/#prasentationprufung) und die [Besondere Lernleistung](https://doc.la.stueber.de/03.ber/ber-apo-2017/#besondere-lernleistung).
 
-`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
-
-Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
-
-Aufgabenbereich| Zeugnisbereich
---|--
-sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfeld
-gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
-mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
-Sport | Sport
-
-## Unterrichtsarten
+### Unterrichtsarten
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -55,7 +52,53 @@ GK | GK | Grundkurse
 Z | Z | Zusatz-/Ergänzungskurs
 ME | ME | Musik Ensemble
 
-## Fremdsprachenfolge
+## Verzeichnis Fächer
+
+### Fächerkategorie
+
+`Extras > Schlüsselverzeichnisse > Fächer > Kategorie`
+
+Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
+
+|Fächer > Kategorie|
+|--|
+|Fremdsprache|
+|Religion|
+|Deutsch|
+|Mathematik|
+|Kunst|
+|Musik|
+|Sport|
+|Informatik|
+|Geschichte|
+|Physik|
+|Chemie|
+|Biologie|
+|Erdkunde|
+|Sozialkunde|
+|Wirtschaft|
+|Politik|
+|Spiel|
+|SportTheorie|
+|Seminar|
+
+### Aufgabenbereich
+
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
+
+Für die korrekte Ausgabe der Zeugnisbereiche wählen Sie unter `Schlüsselverzeichnis > Fächer` für jedes Fach einen Aufgabenbereich aus dem Drop-Down-Menü in der Spalte "Aufgabenbereich" aus. Diese Fächer müssen im Menü `Schüler > Zeugnis > Fächer` zugewiesen sein. Folgende Aufgabenbereiche dürfen im Zeugnisdruck verwendet werden:
+
+Aufgabenbereich| Zeugnisbereich
+--|--
+sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfeld
+gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
+mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
+Sport | Sport
+
+
+## Sprachen
+
+### Fremdsprachenfolge
 
 `Schüler > Daten 3 > Von/Bis`<br/>`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
  
@@ -63,6 +106,13 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
+
+### Sprachkenntnisse
+
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
+
 
 ## Schüler, die von mdl. ausgeschlossen werden
 
@@ -114,11 +164,6 @@ Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-## Sprachkenntnisse
-
-`Abitur > Prüfung > Sprachkenntnisse`
-
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
 
 ## Schulnummer
 
@@ -130,33 +175,6 @@ Tragen Sie die Schulnummer Ihrer Schule im Menü `Mandaten > Daten 1` im Feld �
 
 Um die laufende Nummer chronologisch korrekt auszugeben, müssen alle Schüler einer Klasse gleichzeitig gedruckt werden. Hierzu gruppieren Sie im Menü `Abitur > Auswahl` die entsprechende(n) Klasse(n) und markieren alle Schüler der jeweiligen Klasse(n).
 
-## Fächerkategorie
-
-`Extras > Schlüsselverzeichnisse > Fächer > Kategorie`
-
-Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
-
-|Fächer > Kategorie|
-|--|
-|Fremdsprache|
-|Religion|
-|Deutsch|
-|Mathematik|
-|Kunst|
-|Musik|
-|Sport|
-|Informatik|
-|Geschichte|
-|Physik|
-|Chemie|
-|Biologie|
-|Erdkunde|
-|Sozialkunde|
-|Wirtschaft|
-|Politik|
-|Spiel|
-|SportTheorie|
-|Seminar|
 
 ## Unterscheidung „Präsentationprüfung“ und  „Besondere Lernleistung“
 
