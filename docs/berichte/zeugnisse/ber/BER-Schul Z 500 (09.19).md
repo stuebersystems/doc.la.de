@@ -153,10 +153,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 ## Ausgabe des Schulhalbjahres
 
-`Extras > Schlüsselverzeichnisse > Zeiträume > Art` UND  `Schüler > Zeitraum > Datails > Jahrgang`
+`Extras > Schlüsselverzeichnisse > Zeiträume > Art`<br/>`Schüler > Zeitraum > Datails > Jahrgang`<br/>`Schüler > Laufbahn > Allgemein`
 
-Ausgabe "X. Halbjahr" - Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume > Art` und aus dem Menü `Schüler > Zeitraum > Details` den Eintrag in Feld „Jahrgang". Des Weiteren wird das Datum des Schulformeintritts im Menü `Schüler > Laufbahn > Allgemein` (Feld "Schulformeintritt) herangezogen.
+**Ausgabe "X. Halbjahr" **
+
+Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume > Art` und aus dem Menü `Schüler > Zeitraum > Details` den Eintrag in Feld „Jahrgang". Des Weiteren wird das Datum des Schulformeintritts im Menü `Schüler > Laufbahn > Allgemein` (Feld "Schulformeintritt) herangezogen.
+
 Ist beim Schüler kein Jahrgang eingetragen, wird der Jahrgang der Klasse aus dem Menü `Klasse > Zeiträume` aus dem  Feld „Jahrgang" herangezogen.
-z.B.
-1 Jahrgang: 1. und 2. HJ
+
+z.B.<br/>
+1 Jahrgang: 1. und 2. HJ<br/>
 2 Jahrgang: 3. und 4. HJ usw.

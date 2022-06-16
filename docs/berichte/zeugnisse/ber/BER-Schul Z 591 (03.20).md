@@ -8,7 +8,9 @@ Schul Z 591 – Abschlusszeugnis der Integrierten Berufsausbildungsvorbereitung 
 [![Schul Z 591 – (03.20)][1]][1]
 [![Schul Z 591 – (03.20)][2]][2]
 
-## Ausdruck
+## Allgemeines
+
+### Ausdruck
 
 `Ausdruck > DIN A 3 Format, doppelseitig`
 
@@ -16,7 +18,40 @@ Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-## Schulname
+### Zeugnisdatum
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
+
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
+
+`Schüler > Zeugnis > Zeugnisdetails > Zeugnisdatum`
+
+Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Schüler > Zeugnis > Zeugnisdetails` gezogen.
+
+### Zugang/Abgangsdatum
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
+
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
+
+### Klassenleiter/Schulleiter/Abteilungsleiter
+
+`Mandanten > Daten 1 > Schulleiter`
+
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
+
+`Klassen > Zeiträume > Zeitraum > Klassenleiter`
+
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
+
+`Klassen > Daten > Abteilung` UND 
+`Schlüsselverzeichnis > Abteilungen`
+
+Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
+1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
+2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
+
+### Schulname
 
 `Mandanten > Daten > Name 1`
 
@@ -36,29 +71,25 @@ Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 
 
 ![Mandant](/assets/images/Berlin/mandant.png)
 
-## Beurteilungsart der Klasse
+## Noten, Beurteilungsart, Benotung
+
+## Klasseneinträge 
+
+### Beurteilungsart
 
 `Klassen > Daten > Beurteilungsart > Noten`
 
 Im Menü `Klassen > Daten` muss bei der Klasse des Schülers iim Feld Beurteilungsart "Noten" angegeben sein. (hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung).
 
-## Berufsfeld der Klasse
+### Berufsfeld der Klasse
 
 `Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
-## Fächer
-
-`Schüler > Zeugnis > Fächer > Faktor`
-
-Tragen Sie die Anzahl der Stunden/Schuljahr im Menü `Schüler > Zeugnis > Fächer` im Feld "Faktor" ein.
-
-`Schüler > Zeugnis > Fächer > Niveau`
-
-Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im `Schlüsselverzeichnis > Fachniveaus` ein.
-
 ## Betriebliche Lernaufgabe
+
+### Betriebliche Lernaufgabe
 
 `Schüler > Zeugnis > Fächer`
 
@@ -76,45 +107,7 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 
 ![LA1-3](/assets/images/Berlin/la3.png)
 
-## vordefinierte Zeugnisbemerkung
-
-`Schüler > Zeugnis > Bemerkungen/Formulare`
-
-Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
-
-Die Zeugnisbemerkung "Die Schülerin/Der Schüler1) hat am Pflichtunterricht „Planung des beruflichen Anschlusses“ teilgenommen. ist im Bericht bereits personalisiert (Die Schülerin bzw. Der Schüler) hinterlegt.
-
-## Lernfeldersetzung durch Qualifizierungsbaustein
-
-`Schüler > Zeugnis > Fächer`
-
-Ein Lernfeld kann durch einen Qualifizierungsbaustein gemäß § 11 der Verordnung über die Integrierte Berufsausbildungsvorbereitung ersetzt werden. Die Titelbezeichnung beginnt in diesem Fall mit „QB:“
-
-Sollte dies beim Schüler zutreffen, legen Sie im `Schlüsselverzeichnis > Fächer` den entsprechenden Qualifizierungsbaustein als Fach an. Beachten Sie, dass dieses Fach im Feld "Merkmal" den Eintrag "QB:" erhält. 
-
-Weisen Sie dieses Fach im Menü `Schüler > Zeugnis > Fächer` anstelle des zugewiesenen Lernfeldes zu. Beachten Sie, dass Sie diesem Qualifizierungsbaustein im Feld "Unterrichtart" entweder "FachT" oder "FachP" zuweisen.
-
-Anstelle des Lernfeldes wird nun der Qualifizierungsbaustein auf dem Zeugnis ausgegeben.
-
-## Lernfeldnummer des Lernfeldes
-
-`Extras > Schlüsselverzeichnisse > Fächer > Merkmal`
-
-Ihre Lernfelder erfassen Sie im `Schlüsselverzeichnisse > Fächer`. Im Feld "Bezeichnung" tragen Sie die Lernfeldbezeichnung ein. Die Lernfeldnummer geben Sie bitte im Feld "Zeugnismerkmal" (Merkmal) ein.
-
-Kürzel | Schlüssel | Bezeichnung | Merkmal
---|--|--|--
-beliebig | beliebig | Sich im Berufsfeld orientieren | LF1
-
-Der Bericht liest den Eintrag aus Feld "Merkmal" aus und setzt dahinter die Fachbezeichnung aus Feld "Bezeichnung".
-
-## Fächerpositionierung
-
-`Schüler > Zeugnis > Fächer > Position`
-
-Für die Sortierung der Fächer des "Berufsfeldübergreifenden Unterrichts" auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Den Fächern mit Niveau-Stufe (GR-Niveau / ER-Niveau) weisen Sie die Position 1-3 zu, den Fächern "Wirtschafts- und Sozialkunde" und Spoprt/Gesundheitsförderung weisen Sie die Position 4-5 zu.
-
-## Benotung betriebliche Lernaufgabe
+### Benotung betriebliche Lernaufgabe
 
 `Schüler > Zeugnis > Fächer`
 
@@ -126,7 +119,51 @@ BLE | leer | beliebig
 
 Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Zeugnis > Fächer` zu. Tragen Sie im Feld "Faktor" die "Gesamtstunden" ein. Die Endnote erfassen Sie für dieses Fach im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote (Gesamt)".
 
-## Unterrichtsarten
+## Lernfeld
+
+### Lernfeldersetzung durch Qualifizierungsbaustein
+
+`Schüler > Zeugnis > Fächer`
+
+Ein Lernfeld kann durch einen Qualifizierungsbaustein gemäß § 11 der Verordnung über die Integrierte Berufsausbildungsvorbereitung ersetzt werden. Die Titelbezeichnung beginnt in diesem Fall mit „QB:“
+
+Sollte dies beim Schüler zutreffen, legen Sie im `Schlüsselverzeichnis > Fächer` den entsprechenden Qualifizierungsbaustein als Fach an. Beachten Sie, dass dieses Fach im Feld "Merkmal" den Eintrag "QB:" erhält. 
+
+Weisen Sie dieses Fach im Menü `Schüler > Zeugnis > Fächer` anstelle des zugewiesenen Lernfeldes zu. Beachten Sie, dass Sie diesem Qualifizierungsbaustein im Feld "Unterrichtart" entweder "FachT" oder "FachP" zuweisen.
+
+Anstelle des Lernfeldes wird nun der Qualifizierungsbaustein auf dem Zeugnis ausgegeben.
+
+### Lernfeldnummer
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal`
+
+Ihre Lernfelder erfassen Sie im `Schlüsselverzeichnisse > Fächer`. Im Feld "Bezeichnung" tragen Sie die Lernfeldbezeichnung ein. Die Lernfeldnummer geben Sie bitte im Feld "Zeugnismerkmal" (Merkmal) ein.
+
+Kürzel | Schlüssel | Bezeichnung | Merkmal
+--|--|--|--
+beliebig | beliebig | Sich im Berufsfeld orientieren | LF1
+
+Der Bericht liest den Eintrag aus Feld "Merkmal" aus und setzt dahinter die Fachbezeichnung aus Feld "Bezeichnung".
+
+## Fach, Position, Fachstatus
+
+### Fächer
+
+`Schüler > Zeugnis > Fächer > Faktor`
+
+Tragen Sie die Anzahl der Stunden/Schuljahr im Menü `Schüler > Zeugnis > Fächer` im Feld "Faktor" ein.
+
+`Schüler > Zeugnis > Fächer > Niveau`
+
+Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im `Schlüsselverzeichnis > Fachniveaus` ein.
+
+### Fächerpositionierung
+
+`Schüler > Zeugnis > Fächer > Position`
+
+Für die Sortierung der Fächer des "Berufsfeldübergreifenden Unterrichts" auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Den Fächern mit Niveau-Stufe (GR-Niveau / ER-Niveau) weisen Sie die Position 1-3 zu, den Fächern "Wirtschafts- und Sozialkunde" und Spoprt/Gesundheitsförderung weisen Sie die Position 4-5 zu.
+
+### Unterrichtsarten
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -141,7 +178,7 @@ FachP | FachP | Fachpraktischer Bereich (Unterricht)
 
 ![Unterrichtsart / Fachstatus](/assets/images/Berlin/Fachstatus.Unterrichtsart.png)
 
-## Fachstatus
+### Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -152,40 +189,17 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Wahlb | Wahlb | Wahlfächer bzw. –bereich"
 
-## Zugang/Abgangsdatum
+## Zeugnisbemerkungen
 
-`Schueler > Daten 2 > Zugang am und/oder Abgang am`
+### vordefinierte Zeugnisbemerkung
 
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-## Klassenleiter/Schulleiter/Abteilungsleiter
+Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
-`Mandanten > Daten 1 > Schulleiter`
+Die Zeugnisbemerkung "Die Schülerin/Der Schüler1) hat am Pflichtunterricht „Planung des beruflichen Anschlusses“ teilgenommen. ist im Bericht bereits personalisiert (Die Schülerin bzw. Der Schüler) hinterlegt.
 
-Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
-
-`Klassen > Zeiträume > Zeitraum > Klassenleiter`
-
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
-
-`Klassen > Daten > Abteilung` UND 
-`Schlüsselverzeichnis > Abteilungen`
-
-Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
-1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
-2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
-   
-## Zeugnisdatum
-
-`Schüler > Zeugnis > Details > Zeugnisdatum`
-
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
-
-`Schüler > Zeugnis > Zeugnisdetails > Zeugnisdatum`
-
-Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Schüler > Zeugnis > Zeugnisdetails` gezogen.
-
-## vordefinierte Zeugnisbemerkung
+### vordefinierte Zeugnisbemerkung
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
@@ -193,22 +207,14 @@ Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vorde
 
 Die Zeugnisbemerkung "Der erfolgreiche Abschluss des Bildungsganges ist im Deutschen und Europäischen Qualifikationsrahmen dem Niveau 2 zugeordnet. ist im Bericht standardmäßig hinterlegt.
 
-## vordefinierte Zeugnisbemerkung
-
-`Schüler > Zeugnis > Bemerkungen/Formulare`
-
-Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
-
-Die Zeugnisbemerkung "Dem Zeugnis ist das Zertifikat zur Einschätzung personaler Kompetenzen „Betriebspraktikum“ und „Unterricht“1) beigefügt. müssen Sie den Schülern manuell zuweisen.
-
-## Positionierung der Zeugnisbemerkungen
+### Positionierung der Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-## Platzhalter für Zeugnisbemerkungen
+### Platzhalter für Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`, `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`, `Berufsschule > Zeugnisbemerkungen`
 
