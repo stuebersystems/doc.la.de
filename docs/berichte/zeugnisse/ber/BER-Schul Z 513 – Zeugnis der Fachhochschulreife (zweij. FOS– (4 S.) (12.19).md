@@ -1,4 +1,4 @@
-# BER-Schul Z 513 – Zeugnis der Fachhochschulreife (zweijährige Fachoberschule) – (4 Seiten) – (12.19)
+# BER-Schul Z 513 – Zeugnis der Fachhochschulreife (zweij. FOS– (4 S.) (12.19).rpt
 
 Schul Z 513 – Zeugnis der Fachhochschulreife (zweijährige Fachoberschule) – (4 Seiten) – (12.19)
 
