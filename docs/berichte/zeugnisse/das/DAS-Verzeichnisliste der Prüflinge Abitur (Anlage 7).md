@@ -1,6 +1,6 @@
 # DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7).rpt
 
-[1]:/assets/images/das/das35.png "DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7).rpt"
+[1]:/assets/images/das/das35.png "DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7).rpt" <br/>
 [2]:/assets/images/das/das36.png "Prüfungsfächer und Unterrichtssprache"
 
 ## Ausdruck
