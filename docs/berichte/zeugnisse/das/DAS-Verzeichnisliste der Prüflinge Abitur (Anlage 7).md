@@ -37,7 +37,7 @@ Erfassen Sie die Erstsprache unter `Schüler > Daten1 > Muttersprache`, dem Feld
 
 ## Fach und Fachstatus
 
-Im Feld `Fach` werden die Prüfungsergebnisse des jeweiligen Prüfungsfachs (`Abitur > Prüfung`) ausgegeben. **Bitte beachten Sie, dass Sie das Berechnungsskript ausgelöst haben müssen, damit die Prüfungsfächer von der Unterkarte "Qualifikation" auf die Unterkarte "Prüfung" kopiert wird.**
+Im Feld `Fach` werden die Prüfungsergebnisse des jeweiligen Prüfungsfachs (`Abitur > Prüfung`) ausgegeben. **Bitte beachten Sie, dass Sie das Berechnungsskript ausgelöst haben müssen, damit die Prüfungsfächer von der Unterkarte "Qualifikation" auf die Unterkarte "Prüfung" kopiert wird. Die Prüfungsfächer werden ausgegeben, sobald die Prüfungsnoten erfasst wurden.**
 
 Das Fach wird durch den Eintrag des `Fachstatus` markiert.
 
