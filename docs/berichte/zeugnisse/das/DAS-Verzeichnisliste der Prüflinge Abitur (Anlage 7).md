@@ -1,11 +1,11 @@
 # DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7).rpt
 
-[1]:/assets/images/das/das35.png "DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7).rpt" <br/>
+[1]:/assets/images/das/das35.png "DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7).rpt"
 [2]:/assets/images/das/das36.png "Prüfungsfächer und Unterrichtssprache"
 
 ## Ausdruck
 
-`Schüler > Auswahl > Drucken > Ausland`
+`Schüler > Auswahl > Drucken > Ausland` <br/>
 `Abitur > Auswahl > Drucken > Ausland`
 
 Zum Drucken der Prüfungslisten gehen Sie wie folgt vor:
@@ -14,7 +14,6 @@ Zum Drucken der Prüfungslisten gehen Sie wie folgt vor:
 2) Wählen Sie über `Start > Drucken > Ausland` aus.
 
 [![DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7).rpt][1]
-
 
 ## Mandant
 
@@ -38,7 +37,7 @@ Erfassen Sie die Erstsprache unter `Schüler > Daten1 > Muttersprache`, dem Feld
 
 ## Fach und Fachstatus
 
-Im Feld `Fach` werden die Prüfungsergebnisse des jeweiligen Prüfungsfachs (`Abitur > Prüfung`) ausgegeben. Bitte beachten Sie, dass Sie das Berechnungsskript ausgelöst haben müssen, damit die Prüfungsfächer von der Unterkarte "Qualifikation" auf die Unterkarte "Prüfung" kopiert wird.
+Im Feld `Fach` werden die Prüfungsergebnisse des jeweiligen Prüfungsfachs (`Abitur > Prüfung`) ausgegeben. **Bitte beachten Sie, dass Sie das Berechnungsskript ausgelöst haben müssen, damit die Prüfungsfächer von der Unterkarte "Qualifikation" auf die Unterkarte "Prüfung" kopiert wird.**
 
 Das Fach wird durch den Eintrag des `Fachstatus` markiert.
 
