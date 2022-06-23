@@ -1,4 +1,4 @@
-# BER-Schul Z 213(2020.2021).rpt
+# BER-Schul Z 213(2021.2022).rpt
 
 [1]:/assets/images/Berlin/Pruefungsnote1.png
 [2]:/assets/images/Berlin/Pruefungsnote2.png
