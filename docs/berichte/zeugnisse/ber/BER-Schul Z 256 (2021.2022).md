@@ -31,7 +31,6 @@ Ob der Schüler für die gymnasiale Oberstufe zugelassen wird oder nicht regeln 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis Fachtafeln den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
-
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflichtbereich
@@ -40,13 +39,22 @@ WahlPF | WahlPF | Wahlpflichtbereich
 
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte Merkmal unter `Schlüsselverzeichnis > Zeugnisbemerkungen`, falls es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis >Bemerkungen/Formulare`. Wenn Sie die Schaltfläche Hinzufügen anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte Merkmal, so wird die Bemerkung unter allgemeinen Bemerkungen auf dem Zeugnisdruck ausgegeben.
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte Merkmal unter `Schlüsselverzeichnis > Zeugnisbemerkungen`, falls es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche Hinzufügen anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte Merkmal, so wird die Bemerkung unter allgemeinen Bemerkungen auf dem Zeugnisdruck ausgegeben.
+Bitte beachten Sie, dass Sie für die Zeugnisbemerkungen aufsteigende Positionen erfassen, die die Reihenfolge beim Anzeigen steuern.
+
 Folgende Kürzel im Feld Merkmal dürfen für den Zeugnisdruck verwendet werden:
 
 Merkmal | Bedeutung
 --|--
-AG | Teilnahme an ergänzenden Angeboten
-Beiblatt | Beiblatt ist Bestandteil des Zeugnisses
+`AG` | Teilnahme an ergänzenden Angeboten
+`Beiblatt` | Beiblatt ist Bestandteil des Zeugnisses
+`ASV1` | 1. HJ
+`ASV2` | 2. HJ
+`ASV12` | 1. und 2. HJ
+`LAT`| siehe Latinum, Graecum
+leer|Die Bemerkung wird auf Seite 4 unter `V. Bemerkungen:` ausgegeben.
+
+### Beiblatt
 
 Die Ausgabe des Bemerkungstext: Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:  
 ☐ ja   ☐ nein 1). wird wie folgt gesteuert:
@@ -54,24 +62,22 @@ Die Ausgabe des Bemerkungstext: Ein Beiblatt (Schul Z 620) ist Bestandteil diese
 Liegt eine Zeugnisbemerkung mit dem Merkmal Beiblatt beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
 Liegt dieses Merkmal nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
 
+### Arbeits- uns Sozialverhalten
+
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal (ASV1, ASV2, ASV12)`
 
 Um die korrekte Bemerkung über das Arbeits- und Sozialverhalten zu generieren, legen Sie, falls das Arbeits- und Sozialverhalten beurteilt werden soll, im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` eine Zeugnisbemerkung mit dem Merkmal „ASV1“, „ASV2“ oder „ASV12“ an. Damit wird die entsprechende Bemerkung generiert und ermittelt um welches Schuljahr es sich handelt worauf sich Ihre Informationen über das „Arbeits- und Sozialverhalten“ beziehen, was für andere Zeugnisse relevant sein kann. Beachten Sie dabei: 
-
-Zeugnsimerkmal|Schulhalbjahr
---|--
-ASV1 | 1. HJ
-ASV2 | 2. HJ
-ASV12 | 1. und 2. HJ
 
 Wird das Arbeits- und Sozialverhalten des Schülers nicht beurteilt, weisen Sie dem Schüler keine Bemerkung mit dem Merkmal „ASV1“, „ASV2“ oder „ASV12“ zu. Der entsprechende Vermerk wird auch dann ausgegeben.
 
 Die Bemerkung Entsprechend dem Beschluss der Schulkonferenz gemäß § 58 (7) SchulG wird das Arbeits- und Sozialverhalten - in der Anlage zu diesem Zeugnis berurteilt - nicht berurteilt-. wird vom Bericht automatisch eingetragen.
 
+### Latinum, Graecum
+
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal (LAT)`
 
 Die Ausgabe Dieses Zeugnis schließt den Nachweis des Latinums gemäß der „Vereinbarung über das Latinum und das Graecum“ (Beschluss der KMK vom 22.09.2005) ein / nicht ein. erfolgt nur dann: 
-Wenn Sie eine Zeugnisbemerkung mit dem Merkmal LAT angelegt haben, wenn es den Nachweis gibt. Die Zeugnisbemerkung muss dann genau so definiert werden, wie es auf dem Zeugnis ausgegeben werden soll. (D.h. Dieses Zeugnis schließt den Nachweis des Latinums gemäß der „Vereinbarung über das Latinum und das Graecum“ (Beschluss der KMK vom 22.09.2005) ein). 
+Wenn Sie eine Zeugnisbemerkung mit dem Merkmal `LAT` angelegt haben, wenn es den Nachweis gibt. Die Zeugnisbemerkung muss dann genau so definiert werden, wie es auf dem Zeugnis ausgegeben werden soll. (D.h. Dieses Zeugnis schließt den Nachweis des Latinums gemäß der „Vereinbarung über das Latinum und das Graecum“ (Beschluss der KMK vom 22.09.2005) ein). 
 
 Ist eine solche Zeugnisbemerkung mit diesem Merkmal LAT beim Schüler nicht eingetragen, wird der andere Fall als Standard ausgegeben. D.h. folgender Satz wird ausgegeben: Dieses Zeugnis schließt den Nachweis des Latinums gemäß der „Vereinbarung über das Latinum und das Graecum“ (Beschluss der KMK vom 22.09.2005) nicht ein.
 
