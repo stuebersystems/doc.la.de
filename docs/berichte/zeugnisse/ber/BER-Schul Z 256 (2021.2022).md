@@ -1,12 +1,32 @@
 ﻿# BER-Schul Z 256 (2021.2022)
 
+[1]:/assets/images/Berlin/ber-schul-z-256.png "Zugang, Abgang"
+
 Schul Z 256 – Zeugnis des Gymnasiums über den mittleren Schulabschluss 
 
 ## Schülerlaufbahn
 
 `Schueler > Laufbahn > Allgemein > Versetzt`
 
-Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld Versetzt eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld `Versetzt` eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
+
+## Kurshalbjahr Seite 1
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Art` <br/>`Extras > Schlüsselverzeichnisse > Merkmale(Klassen)`<br/>`Klassen > Merkmale > MerkmalS4`
+
+Das Kurshalbjahr wird berechnet aus den Eingaben unter `Extras > Schlüsselverzeichnisse > Zeiträume > Art` und dem Eintrag unter `Klasse > Merkmal S4`.
+
+Bitte erfassen Sie im Schlüsselverzeichnis `Merkmale(Klassen)` den folgenden Wert und tragen ihn für G8-Klassen unter `Klassen > Merkmale > MerkmalS4` ein.
+
+Kürzel|Schlüssel|Bezeichnung|Bereich
+--|--|--|--
+**G8**|G8|G8|**MerkmalS4**
+
+## Zugang und Abgang
+
+Bitte erfassen Sie Datumswerte für den Zugang und Abgang auf Seite 1 unter `Daten2 > ZugangAm und AbgangAm`. Dafür können Sie auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwenden.
+
+![Zugang, Abgang][1]
 
 ## Ausgabe Versetzungstext Oberstufe
 
