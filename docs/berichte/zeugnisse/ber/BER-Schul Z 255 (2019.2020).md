@@ -1,6 +1,6 @@
 ﻿# BER-Schul Z 255 (2019.2020)
 
-Schul Z 255 – Zeugnis des Gymnasiums über die erweiterte Berufsbildungsreife (2019/2020) / (2020/2021)
+Schul Z 255 – Zeugnis des Gymnasiums über die erweiterte Berufsbildungsreife
 
 ## Versetzung
 
