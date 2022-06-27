@@ -37,7 +37,7 @@ Erfassen Sie die Erstsprache unter `Schüler > Daten1 > Muttersprache`, dem Feld
 
 ## Fach und Fachstatus
 
-Im Feld `Fach` werden die Prüfungsergebnisse des jeweiligen Prüfungsfachs (`Abitur > Prüfung`) ausgegeben. **Bitte beachten Sie, dass Sie das Berechnungsskript ausgelöst haben müssen, damit die Prüfungsfächer von der Unterkarte "Qualifikation" auf die Unterkarte "Prüfung" kopiert wird.**
+Im Feld `Fach` wird der Eintrag des Fachkürzels aus `Menü Abitur > Qualifikation` ausgegeben, dabei wird das Fachkürzel nur ausgegeben, wenn dem Fach im Feld `Fachstatus` einen Wert aus der nachfolgenden Tabelle zugewiesen wurde, genutzt wird hierbei das Kürzel des Fachstatus.
 
 Das Fach wird durch den Eintrag des `Fachstatus` markiert.
 
@@ -46,11 +46,11 @@ Prüfen Sie bitte unter `Extras > Schlüsselverzeichnisse > Fachstatus`,  dass i
 
 | Kürzel | Schlüssel | Bedeutung       |
 |--------|-----------|-----------------|
-| 1PF    | 1PF       | 1. Prüfungsfach |
-| 2PF    | 2PF       | 2. Prüfungsfach |
-| 3PF    | 3PF       | 3. Prüfungsfach |
-| 4PF    | 4PF       | 4. Prüfungsfach |
-| 5PF    | 5PF       | 5. Prüfungsfach |
+| **1PF**    | 1PF       | 1. Prüfungsfach |
+| **2PF**    | 2PF       | 2. Prüfungsfach |
+| **3PF**    | 3PF       | 3. Prüfungsfach |
+| **4PF**    | 4PF       | 4. Prüfungsfach |
+| **5PF**    | 5PF       | 5. Prüfungsfach |
 
 ## Unterrichtssprache
 
