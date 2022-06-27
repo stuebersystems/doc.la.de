@@ -1,4 +1,4 @@
-# # DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7) mit Fachkürzeln.rpt
+# # DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7) mit Fachkürzeln
 
 [1]:/assets/images/das/das35.01.png "DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7).rpt"
 [2]:/assets/images/das/das36.png "Prüfungsfächer und Unterrichtssprache"
@@ -37,7 +37,7 @@ Erfassen Sie die Erstsprache unter `Schüler > Daten1 > Muttersprache`, dem Feld
 
 ## Fach und Fachstatus
 
-Im Feld `Fach` werden die Prüfungsergebnisse des jeweiligen Prüfungsfachs (`Abitur > Prüfung`) ausgegeben. **Bitte beachten Sie, dass Sie das Berechnungsskript ausgelöst haben müssen, damit die Prüfungsfächer von der Unterkarte "Qualifikation" auf die Unterkarte "Prüfung" kopiert wird. Die Prüfungsfächer werden ausgegeben, sobald die Prüfungsnoten erfasst wurden.**
+Im Feld `Fach` werden die Prüfungsergebnisse des jeweiligen Prüfungsfachs (`Abitur > Prüfung`) ausgegeben. **Bitte beachten Sie, dass Sie das Berechnungsskript ausgelöst haben müssen, damit die Prüfungsfächer von der Unterkarte "Qualifikation" auf die Unterkarte "Prüfung" kopiert wird. **
 
 Das Fach wird durch den Eintrag des `Fachstatus` markiert.
 
