@@ -13,7 +13,7 @@ Zum Drucken der Prüfungslisten gehen Sie wie folgt vor:
 1) Im Menü `Schüler/Abitur > Auswahl` markieren Sie die gewünschten Schüler.
 2) Wählen Sie über `Start > Drucken > Ausland` aus.
 
-[![DAS-Verzeichnis der Prüflinge (§ 14 Absatz (5) DIA-PO)][1]
+![DAS-Verzeichnis der Prüflinge (§ 14 Absatz (5) DIA-PO)][1]
 
 ## Mandant
 
