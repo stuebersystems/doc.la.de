@@ -186,4 +186,5 @@ Kürzel | Schluessel | Bezeichnung
 --|--|--
 BÜQ |--| Berechtigung zum Übergang in die Qualifikationsphase erhalten
 nBÜQ |--| Berechtigung zum Übergang in die Qualifikationsphase NICHT erhalten
+BÜQMSA| --|Die Berechtigung zum Übergang in die Qualifikationsphase hat er/sie erhalten.gbr<b\>Die Berechtigung zum Übergang in die Qualifikationsphase schließt den Mittleren Schulabschluss ein.
 
