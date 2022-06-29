@@ -24,25 +24,6 @@ sprachl.-lit.-künstlerisch | 1. Aufgabenfeld
 gesellschaftswiss. | 2. Aufgabenfeld
 mathem.-nat.-technisch | 3. Aufgabenfeld
 
-## Fachbezeichnungen und Schlüssel
-
-Für einige Fächer, die fest ausgegeben werden, wird eine Fachbezeichnung oder ein Fachschlüssel vorausgesetzt um die Endnote zuzuordnen. Diese Werte werden unter `Extras > Schlüsselverzeichnisse > Fächer` in der Spalte `Fächer` oder `Schlüssel` erwartet.
-
-Faecher.Bezeichnung|Faecher.Schluessel
---|--
-Deutsch | DE, DEU
-Musik | MU, MUS
-Bildende Kunst |BIKU
-Politikwissenschaft | -
-Geschichte |GE, GES, GESOZ
-Geografie |GEO
-Mathematik |MA, MAT
-Physik |PHY
-Chemie |CHE
-Biologie |BIO
-Informatik |INF
-Sport |SPORT (Position 24 oder 25)
-
 ## Unterrichtsarten
 
 Folgende `Unterrichtsarten` dürfen im Zeugnisdruck verwendet werden:
@@ -132,7 +113,28 @@ oB | ohne Bewertung | Füllwerte
 Die Kürzel der Punkte müssen zweistellig (einstellig und eine Führungsnull) sein. 
 Beim Anlegen von Punkten im `Schlüsselverzeichnis > Noten` (Notenart: Punkte) mit einem Notenwert kleiner 10 (0-9) weisen Sie im Feld "Notenkürzel" dem Notenwert eine "0" voran (z.B. "00", "03" usw.).
 
-## Fachpositionen
+## Fächer
+
+### Fachbezeichnungen und Schlüssel
+
+Für einige Fächer, die fest ausgegeben werden, wird eine Fachbezeichnung oder ein Fachschlüssel vorausgesetzt um die Endnote zuzuordnen. Diese Werte werden unter `Extras > Schlüsselverzeichnisse > Fächer` in der Spalte `Fächer` oder `Schlüssel` erwartet.
+
+Faecher.Bezeichnung|Faecher.Schluessel
+--|--
+Deutsch | DE, DEU
+Musik | MU, MUS
+Bildende Kunst |BIKU
+Politikwissenschaft | -
+Geschichte |GE, GES, GESOZ
+Geografie |GEO
+Mathematik |MA, MAT
+Physik |PHY
+Chemie |CHE
+Biologie |BIO
+Informatik |INF
+Sport |SPORT (Position 24 oder 25)
+
+### Fachpositionen
 
 `Schüler > Zeugnis > Fächer > Position`
 
@@ -150,9 +152,9 @@ frei | 3. Fremdsprache
 frei | Bildende Kunst 
 frei | Musik 
 9 | frei 
-frei | Politikwissenschaft 
 frei | Geschichte 
-frei | Geografie 
+11 | frei 
+12 | frei 
 13 | frei  
 14 | frei  
 frei | Mathematik 
@@ -164,8 +166,8 @@ frei | Informatik
 21 | frei 
 22 | frei 
 frei | Sport 
-24 | frei 
-25 | frei
+24 | Sport 
+25 | Sport
 26 | frei
 27 | frei
 
