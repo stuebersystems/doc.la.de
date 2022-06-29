@@ -2,6 +2,8 @@
 
 Schul Z 322 (03.11)
 
+Neuere Ausgabe unter dem Dateinamen `BER-Schul Z 322 (11.19).rpt`.
+
 ## Fehltage und/oder Fehlstunden
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`

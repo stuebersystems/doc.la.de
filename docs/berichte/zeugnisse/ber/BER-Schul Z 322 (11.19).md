@@ -1,4 +1,4 @@
-﻿# BER-KO-AS (Schul Z 322)(11.19)
+﻿# BER-Schul Z 322 (11.19)
 
 Schul Z 322 (11.19)
 
