@@ -23,7 +23,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 |Bezeichnung|beliebig|
 |Kategorie|Abitur|
 |Typ|dieser Eintrag unter ```Magellan > Verzeichnisse > Verordnungen > Typ``` unterscheidet zwischen der einjährigen und zweijährigen Fachoberschule:<br/>FOS2J = Verordnung zweijährige Fachoberschule<br/>FOS1J = Verordnung einjährige Fachoberschule|
-|Ab Jahrgang|leer|
+|Ab Jahrgang|`10` (G8) oder `11` (G9)|
 |Skript|```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server)|
 |Notenart 11|Noten oder Punkte|
 |Notenart 12|Punkte|
