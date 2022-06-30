@@ -1,6 +1,6 @@
 # DAS-Verzeichnis der Prüflinge (§ 14 Absatz (5) DIA-PO)
 
-[1]:/assets/images/das/das35.02.png "DDAS-Verzeichnis der Prüflinge (§ 14 Absatz (5) DIA-PO)"
+[1]:/assets/images/das/das35.02.png "DAS-Verzeichnis der Prüflinge (§ 14 Absatz (5) DIA-PO)"
 [2]:/assets/images/das/das36.png "Prüfungsfächer und Unterrichtssprache"
 
 ## Ausdruck
