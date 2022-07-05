@@ -179,19 +179,33 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 ## Fachpraktischer Teil der Ausbildung bestanden/nicht bestanden 
 
-`Schüler > Zeugnis > Leistungen > Endnote (bestanden/nicht bestanden)`<br/>`Extras > Schlüsselverzeichnisse > Fachstatus`
+`Schüler > Zeugnis > Leistungen > Endnote (bestanden/nicht bestanden)`<br/>`Extras > Schlüsselverzeichnisse > Fachstatus`<br/>`Extras > Schlüsselverzeichnisse > Noten`
 
-Damit auf dem Zeugnis der 'Fachpraktischer Teil der Ausbildung' (Fach mit Fachstatus "FachP") mit einem Ergebnis: bestanden/nicht bestanden ausgegeben wird, gehen Sie bitte wie folgt vor:
+Damit auf dem Zeugnis der 'Fachpraktischer Teil der Ausbildung' (Fach mit Fachstatus "FachP") mit einem Ergebnis: bestanden/nicht bestanden ausgegeben wird, gehen Sie bitte wie folgt vor.
+
+**Vorbereitung**
+
+Verzeichis Fachstatus
+
+Kürzel|Schlüssel|Bezeichnung
+--|--|--
+**FachP**|**FachP**|Fachpraktischer Teil der Ausbildung
+
+
+
+Verzeichnis Noten
+
+Notenkürzel|Bezeichnung|Notenart
+--|--|--
+beliebig|**bestanden**|**Füllwert**
+beliebig|**nicht bestanden**|**Füllwert**
+
+**Eingabe für die Schüler**
 
 1. Legen Sie unter `Extras > Schlüsselverzeichnisse > Fächer` ein Fach "Fachpraktischer Teil der Ausbildung" an.
 2. Weisen Sie Menü `Schüler > Zeugnis > Leistungen` dem Schüler dieses Fach zu. 
 3. Dieses Fach muss im Feld Fachstatus "FachP" zugewiesen bekommen.
 4. Dem Fach "Fachpraktischer Teil der Ausbildung" tragen Sie im Feld "Endnote" den Füllwert "bestanden" oder "nicht bestanden" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`. Achten Sie bitte darauf, dass Sie im Feld "Notenart" über das DropDown Menü "Füllwert" hinterlegt haben. Auf dem Zeugnis wird die "Bezeichnung" des Füllwertes ausgegeben.
-
-Kürzel|Schlüssel|Bemerkung
---|--|--
-**FachP**|**FachP**|Fachpraktischer Teil der Ausbildung
-
 
 [![FachP][7]][7]
 
