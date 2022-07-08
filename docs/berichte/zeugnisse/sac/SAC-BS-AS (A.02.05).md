@@ -47,13 +47,13 @@ Tragen Sie im aktuellen Zeitraum im Menü `Klassen > Daten` die Schulform im Fel
 
 ## Hauptschulabschluss
 
-`Schüler > Laufbahn > Abschluss > Abschluss 2`
+`Extras > Schlüsselverzeichnisse > Abschlüsse(Intern)`<br/>`Schüler > Laufbahn > Abschluss > Abschluss 2`
 
-Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Abschluss` die Abschlussbezeichnung unter "Abschluss 21" im Feld "Abschluss" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Abschlüsse (Intern)`.
+Tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Abschluss` die Abschlussbezeichnung auf der Karte `Abschluss` im Feld `Abschluss2` ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Abschlüsse (Intern)`.
 
 Kürzel | Schlüssel |Bezeichnung
 --|--|--
-beliebig | HS | Hauptschulabschluss
+beliebig | HS | **Hauptschulabschluss**
 
 ## Zeugnisdatum
 
