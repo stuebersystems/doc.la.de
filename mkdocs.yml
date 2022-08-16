@@ -1318,6 +1318,8 @@ nav:
     - Menü Lehrer: 
       - Anwesenheitsliste Lehrer (Monat): berichte/lehrer/Anwesenheitsliste Lehrer (Monat).md
       - Gesamtliste Lehrer (Adressen): berichte/lehrer/Gesamtliste Lehrer (Adressen).md
+      - Lehrer (Abwesenheitsstatistik): Lehrer (Abwesenheitsblatt gruppiert nach Lehrer und Grund).md
+      - Lehrer (Abwesenheitsstatistik gruppiert nach Lehrer und Grund): Lehrer (Abwesenheitsblatt).md
       - Lehrer (Personalhandkarte): berichte/lehrer/Lehrer (Personalhandkarte).md
       - Lehrerliste (Email und Funktion 1-8): berichte/lehrer/Lehrerliste (Email und Funktion 1-8).md
       - Lehrerliste mit Adressen: berichte/lehrer/Lehrerliste mit Adressen.md
