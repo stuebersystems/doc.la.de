@@ -1,4 +1,4 @@
-﻿# Lehrer (Abwesenheitsstatistik je Jahr-gruppiert nach Lehrer und Grund).rpt
+﻿# Lehrer (Abwesenheitsstatistik je Jahr-gruppiert nach Lehrer und Grund)
 
 [1]:/assets/images/lehrer/002.png "Abbildung"
 
