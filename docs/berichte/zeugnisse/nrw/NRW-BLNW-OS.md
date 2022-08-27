@@ -22,7 +22,7 @@ Bereiten Sie hierfür bitte einmalig folgende Punkte in MAGELLAN vor:
 
 Feld ``Merkmal S10`` in `Praktikum` umbenennen:
 
-* Öffnen Sie in MAGELLAN bitte den Punkt `Extras > Bezeichnunngen anpassen` und wählen die Zeile für den Bewerber-/Schülereintrag `Merkmal S10` aus. 
+* Öffnen Sie in MAGELLAN bitte den Punkt `Extras > Bezeichnunngen anpassen` und wählen die Zeile für den Bewerber-/Schülereintrag `Merkmal A10` aus. 
 * Ersetzen Sie in der Spalte `durch` den Eintrag durch `Praktikum`.
 *  Die Ansicht im Programm aktualisiert sich durch einen Wechsel des Menüpunktes, schalten Sie beispielsweise vom Menü `Schüler` auf `Klassen` und wieder zuück.
 

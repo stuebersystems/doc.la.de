@@ -13,13 +13,15 @@ Bitte markieren Sie die Schüler im Menü `Abitur` und rufen den Bericht über S
 
 Bitte erfassen Sie im Menü `Mandanten` den `Ort` und den `Schulleiter`. Achten Sie bitte darauf, dass dem Lehrer, der als Schulleiter erfasst wird im Menü `Lehrer > Daten1` ein Eintrag im Feld `Geschlecht` zugewiesen wurde.
 
-## Zeugnidatum
+## Zeugnisdatum
 
 `Abitur > Prüfung > Zeugnisdatum`
 
-Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein. Hierfür steht Ihnen auch auf der selben Karte der Aufruf für eine Sammelzuweisung zur Verfügung.
 
-## Fremdsprachen, Sprachreferenz
+## Fremdsprachen, Sprachreferenz, Latinum
+
+### Fremdsprachenfolge
 
 `Schüler > Daten 3 > Von/Bis`
 
@@ -28,6 +30,8 @@ Tragen Sie das Von/Bis-Datum der belegten Fremdsprachen in den Feldern "von/bis"
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
+
+### Sprachreferenzen
 
 `Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
@@ -45,6 +49,25 @@ C1 | C1 | Fachkundige Sprachkenntnisse
 C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
+
+### Latinum, Graecum, Hebraicum
+
+Um die Bemerkung auf dem Bericht auszugeben, aktivieren Sie bitte das gewünschte Häkchen vor dem Feld unter `Abitur > Prüfung > Sprachkenntnisse.`
+
+Der Haken für "Großes Latinum" erzeugt:
+Dieses Zeugnis schließt das Latinum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+
+Der Haken für "Graecum" erzeugt:
+Dieses Zeugnis schließt das Graecum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+
+Der Haken für "Großes Latinum" und "Graecum" ergibt:
+Dieses Zeugnis schließt das Latinum und das Graecum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+
+Der Haken für "Hebraicum" erzeugt:
+Dieses Zeugnis schließt das Hebraicum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+
+Der Haken für "Kleines Latinum" erzeugt:
+Das Zeugnis schließt Lateinkenntnisse im Umfang eines Kleinen Latinums (BASS 13 - 32 Nr. 3.2) ein.
 
 ## Fachpositionen
 
