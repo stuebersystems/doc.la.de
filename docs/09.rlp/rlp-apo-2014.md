@@ -100,6 +100,7 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 |Pflicht|Pflicht|Pflichtbereich (kein Eintrag wird als "Pflicht" gewertet)
 |Ersatz |Ersatz |Ersatzfach für Sport im Falle eines Sportattestes|
 |Freiw|Freiw|Freiwillig|
+|AufgstGK|AufgstGK|AufgstGK
 
 !!!warning "Wichtig"
     Bitte tragen Sie keine Prüfungsfächer von Hand unter MAGELLAN > Abitur > Prüfung ein, das führt zu Problemen, da das Skript die Prüfungsfächer 1.-3. selbstständig vergibt und anschließend das Fach und die letzte Note auf die Karte Prüfungen kopiert!
