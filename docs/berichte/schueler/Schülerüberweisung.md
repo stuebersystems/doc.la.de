@@ -1,4 +1,4 @@
-﻿[16]:/assets/images/berichte.schueler/stammdaten001.png "Schülerüberweisung"
+﻿[1]:/assets/images/berichte.schueler/001.png "Schülerüberweisung"
 
 # Schülerüberweisung
 
