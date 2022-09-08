@@ -12,7 +12,7 @@ Bitte markieren Sie die Schüler im Menü `Abitur` und rufen den Bericht über S
 
 ## Praktikumsbescheinigung
 
-Liegt eine Praktikumsbescheinigung für einen Schüler vor, tragen Sie bitte den Wert `Ja` unter Merkmal-S10 (umbenannt in `Praktikum`), die Bescheinigung gibt den Hinweis aus und unterdrückt den Text "Praktikumsbescheinigung liegt nicht vor".
+Liegt eine Praktikumsbescheinigung für einen Schüler vor, tragen Sie bitte den Wert `Ja` unter Merkmal-A10 (umbenannt in `Praktikum`), die Bescheinigung gibt den Hinweis aus und unterdrückt den Text "Praktikumsbescheinigung liegt nicht vor".
 
 [![Schülereintrag][2]][2]
 
@@ -20,7 +20,7 @@ Liegt eine Praktikumsbescheinigung für einen Schüler vor, tragen Sie bitte den
 
 Bereiten Sie hierfür bitte einmalig folgende Punkte in MAGELLAN vor:
 
-Feld ``Merkmal S10`` in `Praktikum` umbenennen:
+Feld ``Merkmal A10`` in `Praktikum` umbenennen:
 
 * Öffnen Sie in MAGELLAN bitte den Punkt `Extras > Bezeichnunngen anpassen` und wählen die Zeile für den Bewerber-/Schülereintrag `Merkmal A10` aus. 
 * Ersetzen Sie in der Spalte `durch` den Eintrag durch `Praktikum`.
