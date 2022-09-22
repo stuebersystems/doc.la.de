@@ -28,4 +28,6 @@ Der stellv. Klassenlehrer muss im entsprechenden Zeitraum im Menü Menü `Klasse
 
 ## Abbildung
 
-[1]:/assets/images/klassen/004.png "Klassenliste - Sorgeberechtigte Adresse, Mobil, Email"[![Klassenliste - Sorgeberechtigte Adresse, Mobil, Email][1]][1]
+[1]:/assets/images/klassen/004.png "Klassenliste - Sorgeberechtigte Adresse, Mobil, Email"
+
+[![Klassenliste - Sorgeberechtigte Adresse, Mobil, Email][1]][1]
