@@ -54,20 +54,13 @@ Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `
 
 Um die Bemerkung auf dem Bericht auszugeben, aktivieren Sie bitte das gewünschte Häkchen vor dem Feld unter `Abitur > Prüfung > Sprachkenntnisse.`
 
-Der Haken für "Großes Latinum" erzeugt:
-Dieses Zeugnis schließt das Latinum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
-
-Der Haken für "Graecum" erzeugt:
-Dieses Zeugnis schließt das Graecum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
-
-Der Haken für "Großes Latinum" und "Graecum" ergibt:
-Dieses Zeugnis schließt das Latinum und das Graecum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
-
-Der Haken für "Hebraicum" erzeugt:
-Dieses Zeugnis schließt das Hebraicum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
-
-Der Haken für "Kleines Latinum" erzeugt:
-Das Zeugnis schließt Lateinkenntnisse im Umfang eines Kleinen Latinums (BASS 13 - 32 Nr. 3.2) ein.
+Häkchen<br/>aktiviert|Ausgabe
+--|--
+"Großes Latinum"|Dieses Zeugnis schließt das Latinum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+"Graecum"|Dieses Zeugnis schließt das Graecum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+"Großes Latinum" und "Graecum"|Dieses Zeugnis schließt das Latinum und das Graecum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+"Hebraicum"|Dieses Zeugnis schließt das Hebraicum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+"Kleines Latinum"|Das Zeugnis schließt Lateinkenntnisse im Umfang eines Kleinen Latinums (BASS 13 - 32 Nr. 3.2) ein.
 
 ## Fachpositionen
 
