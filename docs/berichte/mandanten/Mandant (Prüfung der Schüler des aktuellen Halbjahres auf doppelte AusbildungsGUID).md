@@ -13,6 +13,6 @@ Dieser Bericht ist speziell für sächsische Schulen gedacht. Der Bericht prüft
 Der Bericht gibt alle SchuelerAusbildungen.GUIDs aus und zeigt die Anzahl an. Sollte der Fall auftauchen, dass eine GUID für SchuelerAusbildungen mehrerer Schüler verwendet wurde, werden für die betroffenen Schüler der Vorname, der Nachname und die Klasse ausgegeben. Für einen dieser Schüler ist dann bitte die Ausbildung neu anzulegen.
 Ausgegeben werden Schüler für die keine Ausbildung erfasst wurde oder für die eine Ausbildung erfasst wurde, diese aber nicht als 
 
-Keine Dopplungen gefunde: <br/> [![Bericht][1]][1]
+Keine Dopplungen gefunden: <br/> [![Bericht][1]][1]
 
 Dopplung gefunden: <br/>[![doppelte ID gefunde][2]][2]
