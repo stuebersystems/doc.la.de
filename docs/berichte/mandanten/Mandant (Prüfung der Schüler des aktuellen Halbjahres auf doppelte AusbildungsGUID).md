@@ -1,6 +1,6 @@
 # Mandant (Prüfung der Schüler des aktuellen Halbjahres auf doppelte AusbildungsGUID)
 
-[1]:/assets/images/mandanten/001.png "Kopf des Berichtes"
+[1]:/assets/images/mandanten/002.png "Kopf des Berichtes"
 [2]:/assets/images/mandanten/001.png "doppelte ID gefunden"
 
 ## Ausdruck
