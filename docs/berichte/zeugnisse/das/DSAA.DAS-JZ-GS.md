@@ -1,5 +1,9 @@
 # DSAA.DAS-JZ-GS
 
+[1]:/assets/images/DAS/DSAA.DAS-JZ-GS.png "Bezeichnung"
+
+[![DSAA.DAS-JZ-GS][1]
+
 ## Logodateien
 
 `Mandanten > Daten > Logo1 und Logo2`
