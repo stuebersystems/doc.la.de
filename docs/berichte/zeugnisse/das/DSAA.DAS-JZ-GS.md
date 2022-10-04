@@ -17,7 +17,6 @@ Dabei wird die dem Feld `Logo 1` hinterlegte Datei links gezeigt, die dem Feld `
 
 Die Ausgabe des Schulhalbjahres/Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1" und "Art".
 
-
 ## Versetzungsvermerk
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Art`
