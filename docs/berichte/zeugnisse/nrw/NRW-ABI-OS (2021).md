@@ -56,11 +56,11 @@ Um die Bemerkung auf dem Bericht auszugeben, aktivieren Sie bitte das gewünscht
 
 Häkchen<br/>aktiviert|Ausgabe
 --|--
-"Großes Latinum"|Dieses Zeugnis schließt das Latinum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
-"Graecum"|Dieses Zeugnis schließt das Graecum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
-"Großes Latinum" und "Graecum"|Dieses Zeugnis schließt das Latinum und das Graecum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
-"Hebraicum"|Dieses Zeugnis schließt das Hebraicum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
-"Kleines Latinum"|Das Zeugnis schließt Lateinkenntnisse im Umfang eines Kleinen Latinums (BASS 13 - 32 Nr. 3.2) ein.
+kleines Latinum|Das Zeugnis schließt Lateinkenntnisse im Umfang eines Kleinen Latinums (BASS 13 - 32 Nr. 3.2) ein.
+großes Latinum|Dieses Zeugnis schließt das Latinum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+Graecum|Dieses Zeugnis schließt das Graecum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+großes Latinum und Graecum|Dieses Zeugnis schließt das Latinum und das Graecum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+Hebraicum|Dieses Zeugnis schließt das Hebraicum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
 
 ## Fachpositionen
 
