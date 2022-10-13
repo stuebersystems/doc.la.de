@@ -1,5 +1,13 @@
 ﻿# SAC-FS-AS (C.01.05)
 
+[1]:/assets/images/Sachsen/Bild05.png "Bezeichnung"
+[2]:/assets/images/Sachsen/Bild06.png "Klassen > Daten"
+[4]://assets/images/Sachsen/Bild04.png "Bezeichnung"
+[5]://assets/images/Sachsen/Bild02.png "Bezeichnung"
+[6]://assets/images/Sachsen/Bild03.png "Bezeichnung"
+[7]://assets/images/Sachsen/Bild09.png "Bezeichnung"
+
+
 C.01.05 (Abschlusszeugnis Fachschule)(ab 2020)
 
 ## Benotung in Klassen
@@ -74,7 +82,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld   Position   eine Re
 
 Tragen Sie die Vollzeit-  bzw. Teilzeitform unter `Klassen > Daten > Organisation` ein. Grundlage bildet das `Schlüsselverzeichnis > Organisiationen`. Der Bericht gibt die "Bezeichnung" der Organisation aus.
 
-![`Klassen > Daten > Organisation`](/assets/images/Sachsen/Bild05.png)
+[![Klassen > Daten > Organisation][1]][1]
 
 ## Prüfungsvorsitz
 
@@ -123,7 +131,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 Den FACHBEREICH der Fachschule tragen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` im Feld   Berufsfeld   zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`. 
 
-![`Klassen > Daten`](/assets/images/Sachsen/Bild06.png)
+[![Klassen > Daten][2]][2]
 
 ## Abschlussart Schüler 
 
@@ -164,7 +172,7 @@ Das Thema der Facharbeit tragen Sie im Menü `Schüler > Leistungem` im Feld "Be
 (beliebig)| (beliebig) | (beliebig)
 (beliebig)| (beliebig) |  (beliebig)
 
-![`Schüler > Zeugnis > Fächer`](/assets/images/Sachsen/Bild04.png)
+[![Bezeichnung][4]][4]
 
 2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu, positionieren Sie diese über das Feld   Position  . 
 3. Weisen Sie diesen Fächer im Menü `Schüler > Zeugnis > Fächer` im Feld   Unterrichtsart , entweder   KP   (für praktische Komplexprüfung) oder   KS   (für schriftliche Komplexprüfung zu. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`.
@@ -172,9 +180,8 @@ Das Thema der Facharbeit tragen Sie im Menü `Schüler > Leistungem` im Feld "Be
 5. Die Note der schriftlichen / praktischen Komplexprüfung tragen Sie im Menü `Schüler > Zeugnis > Leistungen` ein.
 6. Damit der Bericht die Lernfelder der entsprechenden schriftlichen / praktischen Komplexprüfung zuordnen kann, weisen Sie im Menü `Schüler > Zeugnis > Fächer` diesen Lernfeldern im Feld "Hauptfach" das für die Komplexprüfung angelegte Fach zu. MAGELLAN greift hier auf das `Schlüsselverzeichnis > Fächer` zu.
 
-![`Schüler > Zeugnis > Fächer`](/assets/images/Sachsen/Bild02.png)
+[![Schüler > Zeugnis > Fächer][5]][5]
 
-![`Schlüsselverzeichnis > Fächer`](/assets/images/Sachsen/Bild03.png)
+[![Schlüsselverzeichnis > Fächer][6]][6]
 
-![Ergebnis der Eintragungen auf dem Zeugnis](/assets/images/Sachsen/Bild09.png)
-
+[![Ergebnis der Eintragungen auf dem Zeugnis][7]][7]
