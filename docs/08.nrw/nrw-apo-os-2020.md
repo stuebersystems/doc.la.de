@@ -159,12 +159,12 @@ Kürzel|Bezeichnung|Leistungsart
 ## Besondere Lernleistung
 
 Im Menü `Abitur > Prüfung` tragen Sie unter „Lernleistung“ das Fach und Thema der Besonderen Lernleistung ein.
-Die Endnote der besonderen Lernleistung weisen Sie im Menü `Abitur > Prüfung` unter „Lernleistung“ im ersten "Punkte" Feld (links, den schriftlichen Wert) zu, im zweiten Feld bitte den mündlichen Wert.
+Die Endnote der besonderen Lernleistung weisen Sie im Menü `Abitur > Prüfung` unter „Lernleistung“ links im ersten "Punkte" Feld zu.
 
 Das Skript rechnet: 
 
-`(8* schriftliche Note + 4* mündliche Note)/2` und schneidet Nachkommastellen ab. Das Ergebnis der eingebrachten Lernleistung wird zur Gesamtsumme addiert.
+vervierfacht die Note. Das Ergebnis der eingebrachten Lernleistung wird zur Gesamtsumme addiert.
 
 Soll die Lernleistung vom Skript berücksichtigt werden, setzen Sie bitte das Häkchen vor `Lernleistung einbringen`.
 
-![Beispiel für den Eintrag der besonderen Lernleistung](\assets\images\nrw\03.png)
+![Beispiel für den Eintrag der besonderen Lernleistung](\assets\images\nrw\08.png)
