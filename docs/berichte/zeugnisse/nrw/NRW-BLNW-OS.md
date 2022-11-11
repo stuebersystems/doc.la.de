@@ -39,4 +39,4 @@ Wert `Ja` im Verzeichnis anlegen:
 
 Kürzel|Schlüssel|Bezeichnung|Bereich
 --|--|--|--
-**Ja**|leer|Bescheinigung <br/>liegt vor|**Merkmal S10**
+**Ja**|leer|Bescheinigung <br/>liegt vor|**Merkmal A10**
