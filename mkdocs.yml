@@ -636,7 +636,6 @@ nav:
         - NIE-GY-JZ (Mittelstufe): berichte/zeugnisse/nie/NIE-GY-JZ (Mittelstufe).md
       - NRW: 
         - NRW-ABI-AZ  (Anlage D42): berichte/zeugnisse/nrw/NRW-ABI-AZ (Anlage D42).md
-        - NRW-ABI-OS (2021): berichte/zeugnisse/nrw/NRW-ABI-OS (2021).md
         - NRW-Abitur (Prüfungsergebnisse 1): berichte/zeugnisse/nrw/NRW-Abitur (Prüfungsergebnisse 1).md
         - NRW-Abitur (Prüfungsergebnisse 2): berichte/zeugnisse/nrw/NRW-Abitur (Prüfungsergebnisse 2).md
         - NRW-BBS-AG-AS-JZ-HZ (A01-A04): berichte/zeugnisse/nrw/NRW-BBS-AG-AS-JZ-HZ (A01-A04).md
@@ -681,7 +680,6 @@ nav:
         - NRW-BKO-AS (Technik): berichte/zeugnisse/nrw/NRW-BKO-AS (Technik).md
         - NRW-BKO-AS: berichte/zeugnisse/nrw/NRW-BKO-AS.md
         - NRW-BKO-AZ (2007): berichte/zeugnisse/nrw/NRW-BKO-AZ (2007).md
-        - NRW-BKO-FHReife: berichte/zeugnisse/nrw/NRW-BKO-FHReife.md
         - NRW-BKO-JZ: berichte/zeugnisse/nrw/NRW-BKO-JZ.md
         - NRW-BLNW-OS: berichte/zeugnisse/nrw/NRW-BLNW-OS.md
         - NRW-BS-AS (A01): berichte/zeugnisse/nrw/NRW-BS-AS (A01).md
@@ -722,6 +720,9 @@ nav:
         - NRW-RS-ÜZ (Klasse 7-10): berichte/zeugnisse/nrw/NRW-RS-ÜZ (Klasse 7-10).md
         - NRW-WG-AZ: berichte/zeugnisse/nrw/NRW-WG-AZ.md
         - NRW-WG-JZ: berichte/zeugnisse/nrw/NRW-WG-JZ.md
+        - OSK B:
+          - NRW-BKO-FHReife: berichte/zeugnisse/nrw/NRW-BKO-FHReife.md
+          - NRW-ABI-OS (2021): berichte/zeugnisse/nrw/NRW-ABI-OS (2021).md
       - RLP: 
         - RLP-RS-JZ: berichte/zeugnisse/rlp/RLP-RS-JZ.md
         - RLP-RS-JZ (9-10 Klasse): berichte/zeugnisse/rlp/RLP-RS-JZ (9-10 Klasse).md
