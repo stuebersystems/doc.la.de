@@ -8,7 +8,7 @@ Bitte beachten Sie ergänzend die Voraussetzungen für **Unterrichtsarten, Fachs
 
 ## Ausdruck
 
-Bitte markieren Sie die Schüler im Menü `Abitur` und rufen den Bericht über STRG+Z im Unterverzeichnis `Nordrhein-Westfalen` auf.
+Bitte markieren Sie die Schüler im Menü `Abitur` oder im Menü `Schüler` und rufen den Bericht über STRG+Z im Unterverzeichnis `Nordrhein-Westfalen` auf. **Der Bericht liest die Fächer und Ergebnisse aus den in das Menü `Abitur` synchronisierten Daten, die Stammdaten aus dem Menü `Schüler`.**
 
 ## Praktikumsbescheinigung
 
