@@ -1,10 +1,12 @@
 ﻿# NRW-BKO-ABI (Bescheinigung Schullaufbahn)
 
 [01]:/assets/images/nrw/09.png "Seite 1"
-[![Seite 1][01]{:width=100%}]
+
+![Seite 1][01]
 
 [02]:/assets/images/nrw/10.png "Seite 2"
-[![Seite 2][02]{:width=100%}]
+
+![Seite 2][02]
 
 ## Allgemeines
 
