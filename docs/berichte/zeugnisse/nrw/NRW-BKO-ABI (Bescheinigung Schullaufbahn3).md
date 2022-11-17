@@ -19,14 +19,16 @@ Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-## Positionierung Fächer
+## Fächer, Position usw.
+
+### Positionierung Fächer
 
 `Schüler > Zeugnis > Fächer (Position)` bzw. `Abitur > Qualifikation (Position)`
 
 Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` bzw. im Menü `Abitur  > Qualifikation` pro Fach eine Position in der Spalte "Position" angegeben werden.
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
 
-## Unterrichtsarten 
+### Unterrichtsarten 
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -40,7 +42,7 @@ BU | BU | Berufsbezogener Unterricht
 BÜ | BÜ | Berufsübergreifender Unterricht
 WIR | WIR | WIR
 
-## Fachstatus
+### Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -56,7 +58,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 4 PF  | 4 PF  | 4. Prüfungsfach
 BerufS2 | BerufS2 | 2. Berufsbezogener Lernbereich
 
-## Aufgabenbereich
+### Aufgabenbereich
 
 `Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
@@ -68,7 +70,7 @@ sprachl.-lit.-künstlerisch > 1. Aufgabenfeld
 gesellschaftswiss. > 2. Aufgabenfeld
 mathem.-nat.-technisch > 3. Aufgabenfeld
 
-## Fächer
+### Fächer
 
 `Schüler > Zeugnis > Leistungen`
 
