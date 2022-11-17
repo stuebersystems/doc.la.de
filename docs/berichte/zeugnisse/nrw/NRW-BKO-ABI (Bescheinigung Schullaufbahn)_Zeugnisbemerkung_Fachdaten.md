@@ -1,5 +1,4 @@
 ﻿# NRW-BKO-ABI (Bescheinigung Schullaufbahn)_Zeugnisbemerkung_Fachdaten
-## NRW-BKO-ABI (Bescheinigung Schullaufbahn)_Zeugnisbemerkung_Fachdaten.rpt
 
 Dieser Bericht gibt die Zeugnisbemerkungen aus dem Bereich `Schüler > Zeugnis > Zeugnis > Zeugnisbemerkungen` für das beim Druck gewählte Halbjahr aus.
 
