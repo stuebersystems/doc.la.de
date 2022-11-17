@@ -1,21 +1,17 @@
 ﻿# NRW-BKO-ABI (Bescheinigung Schullaufbahn3)
 
-## `Ausdruck`
+## Allgemeines
+
+### `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur`gedruckt werden.
 Das Zeugnis wird in DIN A3 Format und doppelseitig ausgegeben.
 
-## Ausgabe Schulhalbjahr
+### Ausgabe Schulhalbjahr
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
-
-## Konferenzdatum
-
-`Abitur > Prüfung > Konferenzdatum`
-
-Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Konferenzdatum" ein.
 
 ## Positionierung Fächer
 
@@ -72,14 +68,27 @@ mathem.-nat.-technisch > 3. Aufgabenfeld
 
 Fächer, die im aktuellen Zeitraum keinen Notenwert haben, werden in den Bereich der abgeschlossen Fächer geschrieben. Ausgegeben wird die zuletzt erreichte Note.
 
-## Fehltage, Fehlstunden
+## Schüler > Zeugnis > Details
+
+### Fehltage, Fehlstunden
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
+### Konferenzdatum
 
-## SchulleiterIn
+`Abitur > Prüfung > Konferenzdatum`
+
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Konferenzdatum" ein.
+
+## Mandant
+
+### Ort
+
+`Mandanten > Daten 1 > Ort`
+
+### SchulleiterIn
 
 `Mandanten > Daten 1 > Schulleiter`
 
