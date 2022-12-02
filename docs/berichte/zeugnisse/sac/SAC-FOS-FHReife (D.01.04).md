@@ -27,23 +27,16 @@ Pflicht | Pflicht | Pflichtfach
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
 
-## Fachrichtung der Fachoberschule
+## Fachrichtung
 
-`Extras > Schlüsselverzeichnis > Bildungsgänge`
+`Extras > Schlüsselverzeichnis > Bildungsgänge`<br/>
+`Extras > Schlüsselverzeichnisse > Berufsfelder`
 
-Die Fachrichtung entspricht dem Bildungsgang des Schülers bzw. der Klasse. 
+Die Fachrichtung wird aus dem Berufsfeld des Bildungsgangs ausgelesen, das dem aktuellen Ausbildungsdatensatz des Schülers zuwiesen wurde.
 
-Weisen Sie entweder dem Schüler (wenn innerhalb einer Klasse Schüler mit unterschiedlichen Fachrichtungen sind) oder der Klasse den Bildungsgang zu. Jeder Bildungsgang hat eine entsprechende Fachrichtung. Der Bericht fragt die Bezeichnung des Bildungsganges ab.
-
-[![Fachrichtung des Bildungsganges][2]][2]
-
-[![Fachrichtung des Bildungsganges - Schüler][3]][3]
-[![Fachrichtung des Bildungsganges - Klasse][4]][4]
-
-
-[2]:/assets/images/sachsen/sac03.png "Fachrichtung"
-[3]:/assets/images/sachsen/sac04.png "Fachrichtung des Schülers"
-[4]:/assets/images/sachsen/sac05.png "Fachrichtung der Klasse"
+1. Bitte definieren Sie die Berufsfelder unter `Extras > Schlüsselverzeichnisse > Berufsfelder`. Die Bezeichnung der Berufsfelder wird später auf dem Bericht gezeigt.
+2. Weisen Sie im zweiten Schritt die Berufsfelder den Bildungsgängen unter `Extras > Schlüsselverzeichnis > Bildungsgänge` zu. 
+3. Tragen Sie den Schülern bitte den Bildungsgang unter `Schüler  > Ausbildung` ein, hierfür steht Ihnen eine Sammelzuweisung zur Verfügung.
 
 ## Schulname 
 

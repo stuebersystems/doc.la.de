@@ -21,7 +21,7 @@ Die Fachrichtung wird aus dem Berufsfeld des Bildungsgangs ausgelesen, das dem a
 
 1. Bitte definieren Sie die Berufsfelder unter `Extras > Schlüsselverzeichnisse > Berufsfelder`. Die Bezeichnung der Berufsfelder wird später auf dem Bericht gezeigt.
 2. Weisen Sie im zweiten Schritt die Berufsfelder den Bildungsgängen unter `Extras > Schlüsselverzeichnis > Bildungsgänge` zu. 
-3. Tragen Sie den Schülern bitte den Bildungsgang unter `Schüler  > Ausbildung` ein, hierfür steht Ihnen eine Sammelzuweisung zur 
+3. Tragen Sie den Schülern bitte den Bildungsgang unter `Schüler  > Ausbildung` ein, hierfür steht Ihnen eine Sammelzuweisung zur Verfügung.
 
 ## Schuljahr
 
