@@ -191,8 +191,6 @@ Kürzel|Schlüssel|Bezeichnung
 --|--|--
 **FachP**|**FachP**|Fachpraktischer Teil der Ausbildung
 
-
-
 Verzeichnis Noten
 
 Notenkürzel|Bezeichnung|Notenart
