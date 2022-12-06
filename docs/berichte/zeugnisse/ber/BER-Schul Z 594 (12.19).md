@@ -2,13 +2,115 @@
 
 Schul Z 594 – Abgangszeugnis der Integrierten Berufsausbildungsvorbereitung (Vollzeit) – (2 Seiten) – (12.19)
 
-## Zeugnisbemerkungen für EBBR Zeugnis
+## Ausdruck
 
-`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal > EBBR`
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
-Im Menü `Klassen > Daten` muss bei der Klasse des Schülers im Feld Beurteilungsart "Noten" angegeben sein. (hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung)"
+## Datumswerte
 
-## Fachstatus
+### Zeugnisdatum
+
+`Schüler > Zeugnis > Zeugnisdetails > Zeugnisdatum`
+
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
+
+Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Schüler > Zeugnis > Zeugnisdetails` gezogen.
+
+Die Durchschnittsnote im Abschlusszeugnis des Bildungsgangs Integrierte Berufsausbildungsvorbereitung wird gemäß § 24 und Anlage 5 der Verordnung über die Integrierte Berufsausbildungsvorbereitung gebildet.
+
+### Zugang am und/oder Abgang am
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
+
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
+
+## Mandanteneingaben
+
+### Bezirk der Schule
+
+`Mandanten > Daten 1 > Name 3`
+
+Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
+
+### Schuldaten
+
+`Mandanten > Daten > Name 1`
+
+Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
+
+### SchulleiterIn
+
+`Mandanten > Daten 1 > Schulleiter`
+
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
+
+### AbteilungsleiterIn
+
+`Klassen > Daten > Abteilung` UND `Extras > Schlüsselverzeichnisse > Abteilungen`
+
+Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
+1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
+2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
+
+### Namenszusätze Schule
+
+`Mandanten > Daten > Name 2`
+
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
+
+## Fächer
+
+### Fachtheorie und Fachpraxis
+
+Das Zeugnis liest die Teilbereiche Fachtheorie und Fachpraxis (Fächer mit Unterrichtsart "FachT" und "FachP") aus dem 1. und 2. Halbjahr aus und übergibt diese in den Zeugnisdruck.
+
+### Fächerpositionierung
+
+`Schüler > Zeugnis > Fächer > Position`
+
+Für die Sortierung der Fächer des "Berufsfeldübergreifenden Unterrichts" auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Den Fächern mit Niveau-Stufe (GR-Niveau / ER-Niveau) weisen Sie die Position 1-3 zu, den Fächern "Wirtschafts- und Sozialkunde" und Spoprt/Gesundheitsförderung weisen Sie die Position 4-5 zu.
+
+### Betriebliche Lernaufgaben
+
+`Schüler > Zeugnis > Fächer`
+
+Neben dem Wahlunterricht und den berufsfeldübergreifenden bzw. berufsfeldbezogenen Unterricht muss auch die Betriebliche Lernaufgabe benotet werden. Gehen Sie dafür wie folgt vor:
+
+1. Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betrieblichen Lernaufgaben an, entscheidend ist der Eintrag im Feld "Schlüssel", dieser muss wie folgt hinterlegt sein:
+
+Kürzel | Schlüssel | Bezeichnung    |
+|--------|-----------|-----------------|
+LA1 (beliebig)| LA1 | Betriebliche Lernaufgabe 1 (beliebig)
+LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 2 (beliebig)
+LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
+
+2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.
+
+### Betriebliche Lernaufgabe gesamt
+
+`Schüler > Zeugnis > Fächer`
+
+"Betriebliche Lernaufgabe - Endnote" - Um für die "Betriebliche Lernaufgabe - Endnote" die "Gesamtstunden" und eine "Note" auf dem Zeugnis ausgeben zu können, legen Sie bitte ein Fach für diese "Betriebliche Lernaufgabe" im `Schlüsselverzeichnis > Fächer` mit folgendem Kürzel an:
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+BLE | leer | beliebig
+
+Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Zeugnis > Fächer` zu. Tragen Sie im Feld "Faktor" die "Gesamtstunden" ein. Die Endnote erfassen Sie für dieses Fach im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote (Gesamt)".
+
+## Noten
+
+### Endnote
+
+`Schüler > Zeugnis > Leistungen > Endnote`
+
+Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
+
+![Zeugnisvorlage](/assets/images/Berlin/ber001.png)
+
+## Fachstatus, Unterrichtsarten, Niveau
+
+### Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -19,13 +121,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 Wahlb | Wahlb | Wahlfächer bzw. –bereich"
 
-## Zugang am und/oder Abgang am
-
-`Schueler > Daten 2 > Zugang am und/oder Abgang am`
-
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
-
-## Unterrichtsarten
+### Unterrichtsarten
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -38,96 +134,7 @@ BÜ |  BÜ |  Fachübergreifender / Berufsübergreifender Lernbereich (Unterrich
 FachT | FachT | Fachtheoretischer Bereich (Unterricht)
 FachP | FachP | Fachpraktischer Bereich (Unterricht)"
 
-## Schuldaten
-
-`Mandanten > Daten > Name 1`
-
-Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
-
-## SchulleiterIn
-
-`Mandanten > Daten 1 > Schulleiter`
-
-Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
-
-## Zeugnisdatum
-
-`Schüler > Zeugnis > Details > Zeugnisdatum`
-
-Die Durchschnittsnote im Abschlusszeugnis des Bildungsgangs Integrierte Berufsausbildungsvorbereitung wird gemäß § 24 und Anlage 5 der Verordnung über die Integrierte Berufsausbildungsvorbereitung gebildet.
-
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
-
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
-
-## Zeugnisbemerkungen Positionierung
-
-`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
-
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
-
-## Bezirk der Schule
-
-`Mandanten > Daten 1 > Name 3`
-
-Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
-
-## Endnote
-
-`Schüler > Zeugnis > Leistungen > Endnote`
-
-Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
-
-![Zeugnisvorlage](/assets/images/Berlin/ber001.png)
-
-## AbteilungsleiterIn
-
-`Klassen > Daten > Abteilung` UND `Extras > Schlüsselverzeichnisse > Abteilungen`
-
-Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
-1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
-2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
-
-## Namenszusätze Schule
-
-`Mandanten > Daten > Name 2`
-
-Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
-
-## Zeugnisbemerkungen
-
-`Schüler > Zeugnis > Bemerkungen/Formulare` / `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` / 
-`Berufsschule > Zeugnisbemerkungen`
-
-Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
-
-Möglich sind:
-
-Platzhalter in MAGELLAN | Anzeige im Bericht
---|--
-``<<Vorname>>`` | Vorname Vorname2
-``<<Nachname>>`` | Nachname
-``<<NachnameV>>`` | Namenszusatz Nachname
-``<<Name>>`` | Vorname Vorname2 Namenszusatz Nachname
-``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-``<<Nachname>>`` | Nachname des Schülers
-``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
-``<<Er_Sie>>`` | Er/Sie (je nach Geschlecht des Schülers)
-``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)   
-``<<seine_ihre>>`` | seine/ihre (je nach Geschlecht des Schülers) 
-``<<Ihm_Ihr>>`` | Ihm/Ihr (je nach Geschlecht des Schülers) 
-``<<ihm_ihr>>`` | ihm/ihr (je nach Geschlecht des Schülers) 
-``<<Seinen_Ihren>>`` | Seinen/Ihnen (je nach Geschlecht des Schülers) 
-``<<seinen_ihren>>`` | seinen/ihnen (je nach Geschlecht des Schülers) 
-``<<DerSchueler_DieSchuelerin>>`` | Der Schüler/Die Schülerin je nach Geschlecht des Schülers)
-``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
-``<<DemSchueler_DerSchuelerin>> `` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
-
-## Bewertung der Leistungen auf Niveaus
+### Bewertung der Leistungen auf Niveaus
 
 `Extras > Schlüsselverzeichnisse > Fachniveau`
 
@@ -140,7 +147,43 @@ ER | ER | Er-Niveau
 
 Weisen Sie den Fächern im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" das entsprechende Bewertungsniveau zu"
 
+## Berechnung
+
+### Berechnungsskript 
+
+`BER-IBA-AS-2020.dws`
+
+Mit Hilfe des Berechnungsskriptes `BER-IBA-AS-2020.dws` können Sie für den Bildungsgang **Integrierte Berufsausbildungsvorbereitung** die Endnoten (Jahresnotendurchschnitte) der Teilbereiche Fachtheorie und Fachpraxis (als Mittelwert der Halbjahresnotendurchschnitte gmäß Anlage 4 Abschnitt B der Verordnung über die integrierte Berufsausbildungsvorbereitung) sowie die Duchschnittsnote des Bildungsganges Integrierte Berufsausbildungsvorbereitung berechnen lassen.
+
+Bitte lesen Sie dazu unsere Onlinedokumentation:
+
+https://doc.la.stueber.de/03.ber/ber-iba-as-2020.md
+
+### Durchschnitt für Berechnung einblenden
+
+`Schüler > Zeugnis > Leistungen`
+
+Markieren Sie für den Schüler unter `Schüler > Zeugnis > Leistungen` das Optionsfeld "Durchschnitt" einblenden. Auf der rechten Seite der Registerkarte erscheint nun eine zusätzliche Leiste.
+
+Geben Sie unter Prüfungsordnung die gewünschte Prüfungsordnung (basierend auf dem Skript für IBA) zur Versetzung an. Klicken Sie auf `Neu berechnen`, um die Daten automatisch durch das entsprechende Skript berechnen zu lassen.
+
+Durch die Berechnung werden automatisch folgende Felder befüllt:
+
+Feld | Note für …
+--|--
+Durchschnitt 1 | Fachtheorie Endnote
+Durchschnitt 2 | Fachpraxis Endnote
+Durchschnitt 3 | Durchschnittsnote aller Leistungen im Bildungsgang
+
+Sie können die Felder "Durchschnitt 1", "Durchschnitt 2" und "Durchschnitt 3" auch händisch befüllen.
+
+### Endnoten Teilbereiche Fachtheorie und Fachpraxis
+
+Die Endnoten (Jahresnotendurchschnitte) der Teilbereiche Fachtheorie und Fachpraxis werden als Mittelwert aus den Halbjahresnotendurchschnitten gemäß Anlage 4 Abschnitt B der Verordnung über die Integrierte Berufsausbildungsvorbereitung gebildet.
+
 ## Praktikum
+
+### Praktikum erfassen
 
  `Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
 
@@ -191,39 +234,7 @@ Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die a
 
 ![Betriebspraktikum](/assets/images/Berlin/iba08.png)
 
-## Betriebliche Lernaufgaben
-
-`Schüler > Zeugnis > Fächer`
-
-Neben dem Wahlunterricht und den berufsfeldübergreifenden bzw. berufsfeldbezogenen Unterricht muss auch die Betriebliche Lernaufgabe benotet werden. Gehen Sie dafür wie folgt vor:
-
-1. Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betrieblichen Lernaufgaben an, entscheidend ist der Eintrag im Feld "Schlüssel", dieser muss wie folgt hinterlegt sein:
-
-Kürzel | Schlüssel | Bezeichnung    |
-|--------|-----------|-----------------|
-LA1 (beliebig)| LA1 | Betriebliche Lernaufgabe 1 (beliebig)
-LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 2 (beliebig)
-LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
-
-2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.
-
-## vordefinierte Zeugnisbemerkung
-
-`Schüler > Zeugnis > Bemerkungen/Formulare`
-
-Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
-
-Die Zeugnisbemerkung "Die Schülerin/Der Schüler 1) hat am Pflichtunterricht „Planung des beruflichen Anschlusses“ teilgenommen. ist im Bericht bereits personalisiert (Die Schülerin bzw. Der Schüler) hinterlegt.
-
-## vordefinierte Zeugnisbemerkung
-
-`Schüler > Zeugnis > Bemerkungen/Formulare`
-
-Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
-
-Die Zeugnisbemerkung "Dem Zeugnis ist das Zertifikat zur Einschätzung personaler Kompetenzen „Betriebspraktikum“ und „Unterricht“ 1) beigefügt. " müssen Sie den jeweiligen Schülern individuell oder per Sammelzuweisung hinterlegen.
-
-## Bestehen oder nicht Bestehen des Betriebspraktikums
+### Bestehen oder nicht Bestehen des Betriebspraktikums
 
 `Schüler > Zeugnis > Fächer > Merkmal`
 
@@ -243,62 +254,58 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 
 3. Die Betriebliche Lernaufgabe 1,/2./3. bezieht sich auf das jeweilige Praktikum 1./2./3. Ein Eintrag "N" im Feld "Merkmal" bei der entsprechenden Lernaufgabe steuert die Ausgabe "nicht bestanden". Bleibt das Feld "Merkmal" leer, wird das Praktikum als "bestanden" ausgegeben.
 
-## Fächerpositionierung
+## Zeugnisbemerkungen
 
-`Schüler > Zeugnis > Fächer > Position`
+### Zeugnisbemerkungen für EBBR Zeugnis
 
-Für die Sortierung der Fächer des "Berufsfeldübergreifenden Unterrichts" auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Den Fächern mit Niveau-Stufe (GR-Niveau / ER-Niveau) weisen Sie die Position 1-3 zu, den Fächern "Wirtschafts- und Sozialkunde" und Spoprt/Gesundheitsförderung weisen Sie die Position 4-5 zu.
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal > EBBR`
 
-## Betriebliche Lernaufgabe
+Im Menü `Klassen > Daten` muss bei der Klasse des Schülers im Feld Beurteilungsart "Noten" angegeben sein. (hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung)"
 
-`Schüler > Zeugnis > Fächer`
+### Zeugnisbemerkungen Positionierung
 
-"Betriebliche Lernaufgabe - Endnote" - Um für die "Betriebliche Lernaufgabe - Endnote" die "Gesamtstunden" und eine "Note" auf dem Zeugnis ausgeben zu können, legen Sie bitte ein Fach für diese "Betriebliche Lernaufgabe" im `Schlüsselverzeichnis > Fächer` mit folgendem Kürzel an:
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
-Kürzel | Schlüssel | Bezeichnung
---|--|--
-BLE | leer | beliebig
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Zeugnis > Fächer` zu. Tragen Sie im Feld "Faktor" die "Gesamtstunden" ein. Die Endnote erfassen Sie für dieses Fach im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote (Gesamt)".
+### Platzhalter
 
-## Durchschnitt für Berechnung einblenden
+`Schüler > Zeugnis > Bemerkungen/Formulare` / `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` / 
+`Berufsschule > Zeugnisbemerkungen`
 
-`Schüler > Zeugnis > Leistungen`
+Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
+Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. So <<hier steht Ihr Platzhalter>>. 
 
-Markieren Sie für den Schüler unter `Schüler > Zeugnis > Leistungen` das Optionsfeld "Durchschnitt" einblenden. Auf der rechten Seite der Registerkarte erscheint nun eine zusätzliche Leiste.
+Möglich sind:
 
-Geben Sie unter Prüfungsordnung die gewünschte Prüfungsordnung (basierend auf dem Skript für IBA) zur Versetzung an. Klicken Sie auf `Neu berechnen`, um die Daten automatisch durch das entsprechende Skript berechnen zu lassen.
-
-Durch die Berechnung werden automatisch folgende Felder befüllt:
-
-Feld | Note für …
+Platzhalter in MAGELLAN | Anzeige im Bericht
 --|--
-Durchschnitt 1 | Fachtheorie Endnote
-Durchschnitt 2 | Fachpraxis Endnote
-Durchschnitt 3 | Durchschnittsnote aller Leistungen im Bildungsgang
+``<<Vorname>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+``<<Name>>`` | Vorname Vorname2 Namenszusatz Nachname
+``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>`` | Nachname des Schülers
+``<<Vorname>>`` | Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)   
+``<<seine_ihre>>`` | seine/ihre (je nach Geschlecht des Schülers) 
+``<<Ihm_Ihr>>`` | Ihm/Ihr (je nach Geschlecht des Schülers) 
+``<<ihm_ihr>>`` | ihm/ihr (je nach Geschlecht des Schülers) 
+``<<Seinen_Ihren>>`` | Seinen/Ihnen (je nach Geschlecht des Schülers) 
+``<<seinen_ihren>>`` | seinen/ihnen (je nach Geschlecht des Schülers) 
+``<<DerSchueler_DieSchuelerin>>`` | Der Schüler/Die Schülerin je nach Geschlecht des Schülers)
+``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
+``<<DemSchueler_DerSchuelerin>> `` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-Sie können die Felder "Durchschnitt 1", "Durchschnitt 2" und "Durchschnitt 3" auch händisch befüllen.
 
-## Endnoten Teilbereiche Fachtheorie und Fachpraxis
+### vordefinierte Zeugnisbemerkung
 
-Die Endnoten (Jahresnotendurchschnitte) der Teilbereiche Fachtheorie und Fachpraxis werden als Mittelwert aus den Halbjahresnotendurchschnitten gemäß Anlage 4 Abschnitt B der Verordnung über die Integrierte Berufsausbildungsvorbereitung gebildet.
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-## Berechnungsskript 
+Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
-`BER-IBA-AS-2020.dws`
+Die Zeugnisbemerkung "Die Schülerin/Der Schüler 1) hat am Pflichtunterricht „Planung des beruflichen Anschlusses“ teilgenommen. ist im Bericht bereits personalisiert (Die Schülerin bzw. Der Schüler) hinterlegt.
 
-Mit Hilfe des Berechnungsskriptes `BER-IBA-AS-2020.dws` können Sie für den Bildungsgang **Integrierte Berufsausbildungsvorbereitung** die Endnoten (Jahresnotendurchschnitte) der Teilbereiche Fachtheorie und Fachpraxis (als Mittelwert der Halbjahresnotendurchschnitte gmäß Anlage 4 Abschnitt B der Verordnung über die integrierte Berufsausbildungsvorbereitung) sowie die Duchschnittsnote des Bildungsganges Integrierte Berufsausbildungsvorbereitung berechnen lassen.
-
-Bitte lesen Sie dazu unsere Onlinedokumentation:
-
-https://doc.la.stueber.de/03.ber/ber-iba-as-2020.md
-
-## Ausdruck
-
-Das Zeugnis liest die Teilbereiche Fachtheorie und Fachpraxis (Fächer mit Unterrichtsart "FachT" und "FachP") aus dem 1. und 2. Halbjahr aus und übergibt diese in den Zeugnisdruck.
-
-## Zeugnsidatum
-
-`Schüler > Zeugnis > Zeugnisdetails > Zeugnisdatum`
-
-Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Schüler > Zeugnis > Zeugnisdetails` gezogen.
+Die Zeugnisbemerkung "Dem Zeugnis ist das Zertifikat zur Einschätzung personaler Kompetenzen „Betriebspraktikum“ und „Unterricht“ 1) beigefügt. " müssen Sie den jeweiligen Schülern individuell oder per Sammelzuweisung hinterlegen.
