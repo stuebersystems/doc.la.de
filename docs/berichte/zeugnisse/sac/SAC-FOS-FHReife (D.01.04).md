@@ -130,6 +130,17 @@ b | bestanden | Füllwerte
 
 `Extras > Schlüsselverzeichnisse > Fächer`
 
-Für die Ausgabe der Facharbeit legen Sie im `Schlüsselverzeichnis > Fächer` ein Fach mit der Fachbezeichnung "Facharbeit" an. Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Fächer` zu, zusätzlich tragen Sie im Feld "Fachstatus" den Wert FA" ein. Grundlage bildet das `Schlüsselverzeichnis >  Fachstatus`. 
-Das Thema der Facharbeit tragen Sie im Menü `Schüler > Leistungem` im Feld "Beurteilung" an. Die Note der Facharbeit erfolgt im Feld "Note".
+Für die Ausgabe der Facharbeit legen Sie im `Schlüsselverzeichnis > Fächer` ein Fach mit der Fachbezeichnung "Facharbeit" an. 
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+FA | FA | Facharbeit
+
+Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Fächer` zu, zusätzlich tragen Sie im Feld "Fachstatus" den Wert FA" ein. Grundlage bildet das `Schlüsselverzeichnis >  Fachstatus`. 
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+FA | FA | Facharbeit
+
+Das Thema der Facharbeit tragen Sie im Menü `Schüler > Leistungem` im Feld "Beurteilung" an. Die Note der Facharbeit erfolgt im Feld "Endnote".
 
