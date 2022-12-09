@@ -1,6 +1,6 @@
 # BER-IBA-AS-2020.dws
 
-[1]:/assets/images/Berlin/iba01.png "Noteneingabe der Besonderen Lernleistung"
+[1]:/assets/images/Berlin/iba01.png "Schulform und Schulart der Klasse"
 [2]:/assets/images/Berlin/iba02.png "Geben Sie hier die Berechnungsverordnung mit der Kategorie „Versetzung“ ein."
 [3]:/assets/images/Berlin/iba03.png "`Schüler > Zeugnis > Fächer` Unterrichtsart "BÜ", "FachT" und "FachP""
 [4]:/assets/images/Berlin/iba04.png "`Schüler > Zeugnis > Fächer` Fachstatus "WahlB""
@@ -47,7 +47,7 @@ folgendes Kürzel an:
 
 Tragen Sie die Werte bitte für die IBA-Klassen im Menü `Klassen > Daten > Schulform` und `Klassen > Daten > Schulart` ein.
 
-![1][Noteneingabe der Besonderen Lernleistung]
+![1][Schulform und Schulart der Klasse]
 
 ### 2. Berechnungsverordnung definieren
 
