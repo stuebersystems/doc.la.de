@@ -1,4 +1,4 @@
-# Schueler - Verzeichnis der Prüflinge nach Prüfungsfächern
+# Schueler (Verzeichnis der Prüflinge nach Prüfungsfächern)
 
 [1]:/assets/images/schueler/001.png "Schueler - Verzeichnis der Prueflinge nach Pruefungsfaechern"
 [2]:/assets/images/das/das36.png "Prüfungsfächer und Unterrichtssprache"
