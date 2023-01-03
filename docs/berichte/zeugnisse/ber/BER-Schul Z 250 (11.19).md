@@ -8,28 +8,43 @@ Schul Z 250 – Zeugnis des Gymnasiums, Jahrgangsstufen 7 bis 10, optional Jahrg
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-### Schulname
+## Bezirk der Schule
 
-`Mandanten > Daten > Name 1`
+`Mandanten > Daten 1 > Name 3`
 
-Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
-1" ein.
+Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
 
-### Zeiträume
+## Zeiträume
+
+`Extras > Schlüsselverzeichnis > Zeiträume > Art`
+
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-## Klasse
+### Schulname
 
-### Jahrgang
+`Mandanten > Daten > Name 1`<br/>`Mandanten > Daten > Name 2`
+
+Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
+1" ein.
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
+
+### Klassenjahrgang
 
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 ## Schüler > Zeugnis > Details
+
+### Versäumnisse
+
+`Schüler > Zeugnis > Details > Versäumnisse`
+
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 ### Fehltage und/oder Fehlstunden
 
@@ -56,34 +71,6 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein.
 
 ## Fächer
-
-### vorgegeben Positionierung der Fächer
-
-`Schüler > Zeugnis > Fächer > Position`
-
-Um Noten den jeweiligen Fächer zuzuordnen, verwenden Sie für die Fächer folgende Positionen:
-
-Fach | Position
---|--
-Deutsch | 1
-1. Fremdsprache | 2
-2. Fremdsprache | 3
-Lernbereich Gesellschaftswissenschaften | 4
-Geografie | 5
-Geschichte / Politische Bildung | 6
-Geschichte | 7
-Politische Bildung | 8
-Ethik | 9
-Mathematik | 10
-Lernbereich Naturwissenschaften | 11
-Biologie | 12
-Chemie | 13
-Physik | 14
-Kunst | 15
-Musik | 16
-Sport | 17
-Wahlpflichtfach eins oder Informationstechnischen Grundkurs | 30
-Wahlpflichtfach zwei7drei oder Informationstechnischen Grundkurs | 31 
 
 ### Benotung im Fach "Deutsch"
 
@@ -121,15 +108,19 @@ Physik | 13
 Kunst | 14
 Musik | 15
 Sport | 16
-Wahlpflichtfach eins oder Informationstechnischen Grundkurs | 30
-Wahlpflichtfach zwei oder Informationstechnischen Grundkurs | 31
-Wahlpflichtfach drei oder Informationstechnischen Grundkurs | 32
-Wahlpflichtfach drei oder Informationstechnischen Grundkurs | 33
-Wahlpflichtfach drei oder Informationstechnischen Grundkurs | 34
+Wahlpflichtfach oder Informationstechnischen Grundkurs, linke Spalte | 30
+Wahlpflichtfach oder Informationstechnischen Grundkurs, linke Spalte | 33
+Wahlpflichtfach oder Informationstechnischen Grundkurs, rechte Spalte | 31
+Wahlpflichtfach oder Informationstechnischen Grundkurs, rechte Spalte | 32
+Wahlpflichtfach oder Informationstechnischen Grundkurs, rechte Spalte | 34
 
 !!! danger "Achtung"
 
-    Eine falsche Positionierung der Fächer ordnet den Fächern eine falsche oder keine Note zu. Das Fach wird trotzdem angezeigt.
+    Eine falsche Positionierung der Fächer ordnet den Fächern eine falsche oder keine Note zu. Das Fach wird trotzdem angezeigt (eine Ausnahme bilden dei Fächer der Positionen 30-34, diese werden nur mit erfasster Endnote ausgegeben).
+
+[01]:/assets/images/berlin/ber-z-250-01.png "Positionierung der Wahlfächer"
+
+[![Positionierung der Wahlfächer][01]{:width=100%}][01]
 
 ## Zeugnisbemerkungen
 
@@ -138,29 +129,7 @@ Wahlpflichtfach drei oder Informationstechnischen Grundkurs | 34
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-## Bezirk der Schule
 
-`Mandanten > Daten 1 > Name 3`
-
-Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
-
-## Zeiträume
-
-`Extras > Schlüsselverzeichnis > Zeiträume > Art`
-
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
-
-## Versäumnisse
-
-`Schüler > Zeugnis > Details > Versäumnisse`
-
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
-
-## Schulname
-
-`Mandanten > Daten > Name 2`
-
-Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
 
 ## Zeugnisbemerkungen
 
