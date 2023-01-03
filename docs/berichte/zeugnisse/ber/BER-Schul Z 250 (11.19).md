@@ -8,13 +8,13 @@ Schul Z 250 – Zeugnis des Gymnasiums, Jahrgangsstufen 7 bis 10, optional Jahrg
 
 Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
-## Bezirk der Schule
+### Bezirk der Schule
 
 `Mandanten > Daten 1 > Name 3`
 
 Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
 
-## Zeiträume
+### Zeiträume
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Art`
 
@@ -128,8 +128,6 @@ Wahlpflichtfach oder Informationstechnischen Grundkurs, rechte Spalte | 34
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
-
-
 
 ## Zeugnisbemerkungen
 
