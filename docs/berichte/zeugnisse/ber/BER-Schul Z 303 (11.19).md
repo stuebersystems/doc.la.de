@@ -34,29 +34,7 @@ GK | GK | Grundkurse
  
 Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
 
-## Merkmale für Zeugnisbemerkungen
 
-`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
-
-Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
-
-Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
-
-## Bemerkungstext zur Ausgabe eines Beiblattes
-
-`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
-
-Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
-
-☐ ja
-
-☐ nein
-
-1)." wird wie folgt gesteuert:
-
-Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
-
-Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
 
 ## Fremdsprachenfolge
 
@@ -211,3 +189,27 @@ Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Fel
 
 Nummieren Sie die Positionen der Fächer fortlaufend. 
 Der Bericht setzt die Fächer entsprechend dieser Nummerierung auf zwei Spalten unter Berücksichtigung der max. Anzahl von Fächern pro Spalte laut Senatsvorlage.
+
+## Merkmale für Zeugnisbemerkungen
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
+
+Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschieden werden. Die Unterscheidung erfolgt durch den Eintrag in der Spalte "Merkmal" unter Schlüsselverzeichnis Zeugnisbemerkungen, falls es sich um allgemeingültige Zeugnisbemerkungen handelt, oder beim Schüler, falls Sie diesem eine individuelle Zeugnisbemerkung zuweisen möchten. Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Bemerkungen/Formulare`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung auswählen und zuweisen. Erfolgt keine Eingabe in der Spalte "Merkmal", so wird die Bemerkung unter "allgemeinen Bemerkungen" auf dem Zeugnisdruck ausgegeben.
+
+Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
+
+## Bemerkungstext zur Ausgabe eines Beiblattes
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
+
+Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses:
+
+☐ ja
+
+☐ nein
+
+1)." wird wie folgt gesteuert:
+
+Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
+
+Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
