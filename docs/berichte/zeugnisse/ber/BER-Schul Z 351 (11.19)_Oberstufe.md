@@ -2,7 +2,7 @@
 
 Schul Z 351 – Bescheinigung über den schulischen Teil der Fachhochschulreife - gymnasiale Oberstufe, Kollegs und Abendgymnasien (11.19)** / Oberstufe
 
-## Zugang am und/oder Abgang am
+## Datum des Abgangszeignisses der gymnasialen Oberstufe - Zugang am und/oder Abgang am
 
 `Schueler > Daten 2 > Zugang am und/oder Abgang am`
 

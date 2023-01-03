@@ -63,8 +63,8 @@ Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
  `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
-Fach eine Position in der Spalte "Position" angegeben werden.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
+Fach eine Position in der Spalte "Position" angegeben werden. Dabei werden Fächer mit ungerader Positionsnummer links und Fächer mit gerader Positionsnummer rechts ausgegeben.
 
 ## Bezirk der Schule
 

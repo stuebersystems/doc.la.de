@@ -32,11 +32,11 @@ Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüle
 `Extras > Schlüsselverzeichnis > Bildungsgänge`<br/>
 `Extras > Schlüsselverzeichnisse > Berufsfelder`
 
-Die Fachrichtung wird aus dem Berufsfeld des Bildungsgangs ausgelesen, das dem aktuellen Ausbildungsdatensatz des Schülers zuwiesen wurde.
+Die Fachrichtung entspricht dem Berufsfeld des Bildungsganges des Schülers bzw. der Klasse.
 
 1. Bitte definieren Sie die Berufsfelder unter `Extras > Schlüsselverzeichnisse > Berufsfelder`. Die Bezeichnung der Berufsfelder wird später auf dem Bericht gezeigt.
 2. Weisen Sie im zweiten Schritt die Berufsfelder den Bildungsgängen unter `Extras > Schlüsselverzeichnis > Bildungsgänge` zu. 
-3. Tragen Sie den Schülern bitte den Bildungsgang unter `Schüler  > Ausbildung` ein, hierfür steht Ihnen eine Sammelzuweisung zur Verfügung.
+3. Tragen Sie den Schülern bitte den Bildungsgang unter `Schüler  > Ausbildung` ein, hierfür steht Ihnen eine Sammelzuweisung zur Verfügung oder unter oder unter `Klasse > Daten`.
 
 ## Schulname 
 
@@ -89,12 +89,11 @@ Tragen Sie die Vollzeit- bzw. Teilzeitform unter `Klassen > Daten > Organisation
 
 Da bei der automatischen Berechnung der Durchschnittsnote die Fächer Religion, Ethik und Sport nicht mit einfliessen, ist es zwingend erforderlich den jeweiligen Fächern im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" die Werte "Religion" oder "Sport" zuzuweisen.
 
-## Schuform Klasse 
+## Schulform Klasse 
 
+Die Schulform entspricht der Schulform des Schülers bzw. der Klasse.
 `Extras > Schlüsselverzeichnis > Schulformen`
-
-Grundlage für die Ausgabe "EINJÄHRIGEN / ZWEIJÄHRIGEN" Bildungsgang bildet das `Schlüsselverzeichnis > Schulformen`. Tragen Sie die Schulform im Menü `Klassen > Daten` im Feld „Schulform“ ein.
-Abgefragt wird der Schlüssel!
+Grundlage für die Ausgabe "EINJÄHRIGEN / ZWEIJÄHRIGEN" Bildungsgang bildet das `Schlüsselverzeichnis > Schulformen`. Tragen Sie die Schulform im Menü `Klassen > Daten` im Feld „Schulform“ ein oder unter `Schüler > Ausbildung` im Feld „Schulform“ ein. Abgefragt wird der Schlüssel!
 
 Bsp.:
 

@@ -31,20 +31,14 @@ Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeu
 
 ## Fachrichtung der Fachoberschule
 
-`Extras > Schlüsselverzeichnis > Bildungsgänge`
+`Extras > Schlüsselverzeichnis > Bildungsgänge`<br/>
+`Extras > Schlüsselverzeichnisse > Berufsfelder`
 
-Die Fachrichtung entspricht dem Bildungsgang des Schülers bzw. der Klasse. 
+Die Fachrichtung entspricht dem Berufsfeld des Bildungsganges des Schülers bzw. der Klasse.
 
-Weisen Sie entweder dem Schüler (wenn innerhalb einer Klasse Schüler mit unterschiedlichen Fachrichtungen sind) oder der Klasse den Bildungsgang zu. Jeder Bildungsgang hat eine entsprechende Fachrichtung. Der Bericht fragt die Bezeichnung des Bildungsganges ab.
-
-[![Fachrichtung des Bildungsganges][2]][2]
-[![Fachrichtung des Bildungsganges - Schüler][3]][3]
-[![Fachrichtung des Bildungsganges - Klasse][4]][4]
-
-
-[2]:/assets/images/sachsen/sac03.png "Fachrichtung"
-[3]:/assets/images/sachsen/sac04.png "Fachrichtung des Schülers"
-[4]:/assets/images/sachsen/sac05.png "Fachrichtung der Klasse"
+1. Bitte definieren Sie die Berufsfelder unter `Extras > Schlüsselverzeichnisse > Berufsfelder`. Die Bezeichnung der Berufsfelder wird später auf dem Bericht gezeigt.
+2. Weisen Sie im zweiten Schritt die Berufsfelder den Bildungsgängen unter `Extras > Schlüsselverzeichnis > Bildungsgänge` zu. 
+3. Tragen Sie den Schülern bitte den Bildungsgang unter `Schüler  > Ausbildung` ein, hierfür steht Ihnen eine Sammelzuweisung zur Verfügung oder unter oder unter `Klasse > Daten`.
 
 ## Schulname 
 
