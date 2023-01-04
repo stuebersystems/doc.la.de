@@ -120,7 +120,7 @@ Wahlpflichtfach oder Informationstechnischen Grundkurs, rechte Spalte | 34
 
     Eine falsche Positionierung der Fächer ordnet den Fächern eine falsche oder keine Note zu. Das Fach wird trotzdem angezeigt (eine Ausnahme bilden dei Fächer der Positionen 30-34, diese werden nur mit erfasster Endnote ausgegeben).
 
-### Positionierung der Wahlfächer
+#### Positionierung der Wahlfächer
 
 ![Positionierung der Wahlfächer][01]
 
