@@ -1,5 +1,7 @@
 ﻿# BER-Schul Z 250 (11.19)
 
+[01]:/assets/images/berlin/ber-z-250-01.png "Positionierung der Wahlfächer"
+
 Schul Z 250 – Zeugnis des Gymnasiums, Jahrgangsstufen 7 bis 10, optional Jahrgangsstufen 5 und 6 – (11.19)
 
 ## Allgemeines
@@ -118,9 +120,9 @@ Wahlpflichtfach oder Informationstechnischen Grundkurs, rechte Spalte | 34
 
     Eine falsche Positionierung der Fächer ordnet den Fächern eine falsche oder keine Note zu. Das Fach wird trotzdem angezeigt (eine Ausnahme bilden dei Fächer der Positionen 30-34, diese werden nur mit erfasster Endnote ausgegeben).
 
-[01]:/assets/images/berlin/ber-z-250-01.png "Positionierung der Wahlfächer"
 
-[![Positionierung der Wahlfächer][01]{:width=100%}][01]
+
+![Positionierung der Wahlfächer][01]
 
 ## Zeugnisbemerkungen
 
