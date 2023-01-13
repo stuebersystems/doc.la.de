@@ -2,10 +2,9 @@
 
 ## Logodateien
 
-`Mandanten > Daten > Logo1 und Logo2`
+`Mandanten > Daten > Logo1`
 
-Im Fuß des Zeugnisses sind vier Bildateien fest integriert. Im Kopf des Zeugnisses werden zwei weitere Bilddateien ausgegeben, die Sie unter `Mandanten > Daten2 > Logo1 und Logo2` hinterlegen können.
-Dabei wird die dem Feld `Logo 1` hinterlegte Datei links gezeigt, die dem Feld `Logo 2` hinterlegte Datei rechts gezeigt.
+Im Kopf des Zeugnisses kann rechts, neben dem Schulnamen, eine Bilddateien ausgegeben werden, die Sie unter `Mandanten > Daten2 > Logo1` hinterlegen können.
 
 ## Zeiträume
 
@@ -25,9 +24,10 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 ## Schulart
 
-`Schüler > Laufbahn > Allgemein > Schulart` oder `Klasse > Daten > Schulart` 
+`Schüler > Laufbahn > Allgemein > Schulart`
 
-Die Schulart des Schülers tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Allgemein > Schulart` oder im `Klasse > Daten` im Feld "Schulart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`. Das Zeugnis fragt die "Bezeichnung" aus dem `Schlüsselverzeichnis > Schularten` ab, diese müssen wie folgt erfasst werden: 
+Die Schulart des Schülers tragen Sie im aktuellen Zeitraum im Menü `Schüler > Laufbahn > Allgemein > Schulart` im Feld "Schulart" ein. Grundlage hierfür bildet das `Schlüsselverzeichnis > Schularten`. 
+Das Zeugnis gibt die "Bezeichnung" aus dem `Schlüsselverzeichnis > Schularten` ab, diese müssen wie folgt erfasst werden: 
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
@@ -103,20 +103,33 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
+## Arbeitsgemeinschaften
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten`<br/>`Extras > Schlüsselverzeichnisse > Fächer`<br/>`Schüler > Zeugnis > Fächer > Unterrichtsarten`
+
+Legen Sie im Verzeichnis Fächer Ihre Arbeitsgemeinschaften als Fachzeilen an. Legen Sie im Verzeichnis `Unterrichtsarten` folgenden Wert an:
+
+Kürzel|SChlüssel|Bezeichnung
+--|--|--
+AG|AG|Arbeitsgemeinschaft
+
+Weisen die Arbeitsgemeinschaften als Fach unter `Schüler > Zeugnis > Fächer` zu. Markieren Sie die Zeilen mit der Unterrichtsart `AG`. Alle Arbeitsgemeinschaften werden kommagetrennt aufgezählt, die letzte (oder zweite) Arbeitsgemeinschaft wird mit einem `und` getrennt.
+
+Beispiele:<br/>
+**Teilnahme an AGs** Handball <br/>
+**Teilnahme an AGs** Handball und Hockey <br/>
+**Teilnahme an AGs** Handball, Yoga, Chemie und Hockey <br/>
+
 ## Zeugnisbemerkungen
+
+### allgemeine Bemerkungen
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
-## Ort des Druckdatums
-
-`Mandanten > Daten 1 > Ort`
-
-Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
-
-## Zeugnisbemerkungen
+### Platzhalter
 
 `Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
