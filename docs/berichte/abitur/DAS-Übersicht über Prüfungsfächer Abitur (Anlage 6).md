@@ -26,8 +26,6 @@ Dieser Bericht wird aus dem Menü `Abitur` ausgegeben. Bitte markieren Sie unter
 
 [![DAS-Übersicht über Prüfungsfächer Abitur (Anlage 6).rpt][2]][2]
 
-Es erfolgt nur eine Ausgabe, wenn auf der Registerkarte `Abitur > Prüfungen > Prüngsfächer` die Noten des letzten Halbjahres, sowie die schriftlichen bzw. mündlichen Prüfungsnoten erfasst sind.
-
 ## Staatsangehörigkeit
 
 `Schüler > Daten 1 > Staatsangeh. 1`
