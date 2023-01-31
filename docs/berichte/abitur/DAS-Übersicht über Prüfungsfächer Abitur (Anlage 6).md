@@ -2,6 +2,14 @@
 
 [2]:/assets/images/DAS/das34.png "DAS-Übersicht über Prüfungsfächer Abitur (Anlage 6).rpt"
 
+## Ausdruck
+
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` mit der Aktion `Drucken > Berichte Drucken` (Strg + P) gedruckt werden.
+Druck
+Dieser Bericht wird aus dem Menü `Abitur` ausgegeben. Bitte markieren Sie unter `Abitur > Auswahl` die gewünschten Schüler und rufen den Bericht anschließend über `Drucken > Berichte > Ausland` auf.
+
+[![DAS-Übersicht über Prüfungsfächer Abitur (Anlage 6).rpt][2]][2]
+
 ## Fachstatus
 
  `Extras > Schlüsselverzeichnisse > Fachstatus`
@@ -18,13 +26,11 @@ Kürzel |  Schlüssel | Zeugnisbereich
 4PF  |  4PF | 4. Prüfungsfach
 5PF | 5PF | 5. Prüfungsfach (nur mündlich) Pflichtbereich
 
-## Ausdruck
+## Unterrichtssprache
 
-Das Zeugnis/der Bericht muss aus dem Menü `Abitur` mit der Aktion `Drucken > Berichte Drucken` (Strg + P) gedruckt werden.
-Druck
-Dieser Bericht wird aus dem Menü `Abitur` ausgegeben. Bitte markieren Sie unter `Abitur > Auswahl` die gewünschten Schüler und rufen den Bericht anschließend über `Drucken > Berichte > Ausland` auf.
+`Extras > Verzeichnisse > Kurssprache`<br/> `Abitur > Qualifikation > Q1Bilingual`
 
-[![DAS-Übersicht über Prüfungsfächer Abitur (Anlage 6).rpt][2]][2]
+Bitte legen Sie die Kurssprachen im gleichnamigen Verzeichnis an, der Bericht gibt die Bezeichnung der unter `Abitur > Qualifikation > Q1Bilingual` erfassten Kurssprache aus.
 
 ## Staatsangehörigkeit
 
@@ -38,4 +44,13 @@ Tragen Sie die Staatsangehörigkeit des Schülers im Menü `Schüler > Daten 1` 
 
 Tragen Sie die Muttersprache des Schülers im Menü `Schüler > Daten 1` im Bereich "Staatsangehörigkeiten" im Feld "Muttersprache" ein. Grundlage bildet das `Schlüsselverzeichnis > Muttersprachen`.
 
+## Ergänzung E
+
+`Extras > Schlüsselverzeichnisse > Fächer > Kategorie`<br/> `Abitur > Qualifikation`<br/>`Schüler > Daten 3 > Fremdsprache 1`
+
+Damit hinter einem Prüfungsfach `(E)` ausgegeben wird, muss eine der folgenden Bedingungen erfüllt sein:
+
+* das hinterlegte Fach hat die Kategorie `Deutsch`
+* das hinterlegte Fach hat die Kategorie `Mathematik`
+* das hinterlegte Fach hat die Kategorie `Fremdsprache` **und** ist dem Schüler auch unter `Schüler > Daten 3 > 1.Fremdsprache` zugewiesen 
 
