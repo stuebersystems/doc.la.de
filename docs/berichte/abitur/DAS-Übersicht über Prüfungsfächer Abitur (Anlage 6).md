@@ -54,3 +54,7 @@ Damit hinter einem Prüfungsfach `(E)` ausgegeben wird, muss eine der folgenden 
 * das hinterlegte Fach hat die Kategorie `Mathematik`
 * das hinterlegte Fach hat die Kategorie `Fremdsprache` **und** ist dem Schüler auch unter `Schüler > Daten 3 > 1.Fremdsprache` zugewiesen 
 
+## In Verantwortung des Partnerstaates
+
+Für die Ausgabe dieser Angabe steht kein Eingabefeld in MAGELLAN zur Verfügung, bitte füllen Sie die Angaben manuell aus.
+
