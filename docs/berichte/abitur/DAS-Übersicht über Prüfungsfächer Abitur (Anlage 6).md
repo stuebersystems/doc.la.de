@@ -34,13 +34,14 @@ Bitte legen Sie die Kurssprachen im gleichnamigen Verzeichnis an, der Bericht gi
 
 ## Ergänzung E
 
-`Extras > Schlüsselverzeichnisse > Fächer > Kategorie`<br/> `Abitur > Qualifikation`<br/>`Schüler > Daten 3 > Fremdsprache 1`
+`Extras > Schlüsselverzeichnisse > Fächer > Kategorie`<br/> `Abitur > Qualifikation`<br/>`Schüler > Daten 3 > Fremdsprache 1`<br/>`Extras > Schlüsselverzeichnisse > Fächer > Merkmal`
 
-Damit hinter einem Prüfungsfach `(E)` ausgegeben wird, muss eine der folgenden Bedingungen erfüllt sein:
+Damit hinter einem Prüfungsfach `(E)` ausgegeben wird, muss eine der folgenden Bedingungen im Verzeichnis `Fäcehr `erfüllt sein:
 
 * das hinterlegte Fach hat die Kategorie `Deutsch`
 * das hinterlegte Fach hat die Kategorie `Mathematik`
-* das hinterlegte Fach hat die Kategorie `Fremdsprache` **und** ist dem Schüler auch unter `Schüler > Daten 3 > 1.Fremdsprache` zugewiesen 
+* das hinterlegte Fach hat das Merkmal `E`
+* das hinterlegte Fach hat das Merkmal `LS`
 
 ## In Verantwortung des Partnerstaates
 
