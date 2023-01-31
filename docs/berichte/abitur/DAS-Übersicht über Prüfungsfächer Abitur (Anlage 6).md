@@ -32,18 +32,6 @@ Kürzel |  Schlüssel | Zeugnisbereich
 
 Bitte legen Sie die Kurssprachen im gleichnamigen Verzeichnis an, der Bericht gibt die Bezeichnung der unter `Abitur > Qualifikation > Q1Bilingual` erfassten Kurssprache aus.
 
-## Staatsangehörigkeit
-
-`Schüler > Daten 1 > Staatsangeh. 1`
-
-Tragen Sie die Staatsangehörigkeit des Schülers im Menü `Schüler > Daten 1` im Feld "Staatsangeh. 1" ein.
-
-## Muttersprache
-
-`Schüler > Daten 1 > Staatsangehörigkeiten > Muttersprache`
-
-Tragen Sie die Muttersprache des Schülers im Menü `Schüler > Daten 1` im Bereich "Staatsangehörigkeiten" im Feld "Muttersprache" ein. Grundlage bildet das `Schlüsselverzeichnis > Muttersprachen`.
-
 ## Ergänzung E
 
 `Extras > Schlüsselverzeichnisse > Fächer > Kategorie`<br/> `Abitur > Qualifikation`<br/>`Schüler > Daten 3 > Fremdsprache 1`
