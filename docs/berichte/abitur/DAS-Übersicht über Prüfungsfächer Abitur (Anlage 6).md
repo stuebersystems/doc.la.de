@@ -45,4 +45,3 @@ Damit hinter einem Prüfungsfach `(E)` ausgegeben wird, muss eine der folgenden 
 ## In Verantwortung des Partnerstaates
 
 Für die Ausgabe dieser Angabe steht kein Eingabefeld in MAGELLAN zur Verfügung, bitte füllen Sie die Angaben manuell aus.
-
