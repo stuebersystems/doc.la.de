@@ -1,14 +1,13 @@
 ﻿# DAS-Übersicht über Prüfungsfächer Abitur (Anlage 6)
 
 [2]:/assets/images/DAS/das34.png "DAS-Übersicht über Prüfungsfächer Abitur (Anlage 6).rpt"
+[![DAS-Übersicht über Prüfungsfächer Abitur (Anlage 6).rpt][2]][2]
 
 ## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` mit der Aktion `Drucken > Berichte Drucken` (Strg + P) gedruckt werden.
 Druck
 Dieser Bericht wird aus dem Menü `Abitur` ausgegeben. Bitte markieren Sie unter `Abitur > Auswahl` die gewünschten Schüler und rufen den Bericht anschließend über `Drucken > Berichte > Ausland` auf.
-
-[![DAS-Übersicht über Prüfungsfächer Abitur (Anlage 6).rpt][2]][2]
 
 ## Fachstatus
 
