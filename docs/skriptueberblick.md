@@ -130,11 +130,12 @@ Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> 
 ----------|------|----------------- |-------------- |------------------------ |------------
 APO BGY 2021|[SAC-APO-BGY-2021](https://doc.la.stueber.de/11.sac/sac-apo-bgy-2021)|-|-|-|-
 APO BGY 2017|[SAC-APO-BGY-2017](https://doc.la.stueber.de/11.sac/sac-apo-bgy-2017)|-|-|-|-
-APO 1996|[SAC-APO-1996.dws](https://doc.la.stueber.de/11.sac/sac-apo-1996)|-|SAC-FW-APO-1996.dws |-|-
+APO 1996<br/>allgemeinbildend|[SAC-APO-1996.dws](https://doc.la.stueber.de/11.sac/sac-apo-1996)|-|SAC-FW-APO-1996.dws |-|-
+APO 2014<br/>allgemeinbildend|-|[SAC-FW-APO-2014.js](https://doc.la.stueber.de/11.sac/sac-fw-apo-2014js)|[SAC-FW-APO-2014.js](https://doc.la.stueber.de/11.sac/sac-fw-apo-2014js)|-|-
 APO BGY 2004|[SAC-APO-BGY-2004.dws](https://doc.la.stueber.de/11.sac/sac-apo-bgy-2004)|-|-|-|-
 APO BGY 2010|[SAC-APO-BGY-2010.dws](https://doc.la.stueber.de/11.sac/sac-apo-bgy-2010)| |-|-|-
 APO BGY 2011|[SAC-APO-BGY-2011.dws](https://doc.la.stueber.de/11.sac/sac-apo-bgy-2011)|-|-|-|-
-APO BGY 2014|[SAC-APO-BGY-2014](https://doc.la.stueber.de/11.sac/sac-apo-bgy-2014)| [SAC-FW-APO-2014.js](https://doc.la.stueber.de/11.sac/sac-fw-apo-2014js)|[SAC-FW-APO-2014.js](https://doc.la.stueber.de/11.sac/sac-fw-apo-2014js)|-|-
+APO BGY 2014|[SAC-APO-BGY-2014](https://doc.la.stueber.de/11.sac/sac-apo-bgy-2014)| [SAC-FW-APO-2014.js](https://doc.la.stueber.de/11.sac/sac-fw-apo-2014js)|[|-|-
 
 ## Sachsen-Anhalt
 
