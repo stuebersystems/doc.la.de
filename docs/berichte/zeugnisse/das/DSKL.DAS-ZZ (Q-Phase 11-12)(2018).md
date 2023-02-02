@@ -79,7 +79,7 @@ Jahrgang/Halbjahr| ergibt
 
 ## Zeugnisbemerkungen
 
-### Zeugnisbemerkungen
+### Zeugnisbemerkung
 
 `Schüler > Zeugnis > Bemerkungen/Formulare > Zeugnisbemerkungen` <br/>`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
