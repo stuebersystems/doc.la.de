@@ -2,7 +2,7 @@
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` mit dem Aufruf `Drucken > Zeugnis` oder der Tastenkombination `STRG+Z` gedruckt werden.
+Das Zeugnis muss aus dem Menü `Schüler` mit dem Aufruf `Drucken > Zeugnis` oder der Tastenkombination `STRG+Z` gedruckt werden.
 
 ## Schuljahr
 
