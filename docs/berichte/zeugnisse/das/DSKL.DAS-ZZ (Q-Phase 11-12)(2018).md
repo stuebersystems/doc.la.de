@@ -68,6 +68,8 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler` auf Registe
 
 ## Ausgabe Kurshalbjahr Q-Phase G8
 
+`Verzeichnisse > Zeiträume > Art` <br/>`Klassen > Zeiträume > Jahrgang`
+
 Die Ausgabe des Kurshalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Verzeichnisse > Zeiträume > Art` und aus `Klassen > Zeiträume > Jahrgang`.
 
 Jahrgang/Halbjahr| ergibt
@@ -90,6 +92,8 @@ Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler` auf der Registe
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld `Position` eine Reihenfolge (Nummerierung) vorgegeben werden.Z.B. für die Ausgabe der ersten Bemerkung `1`, für die Ausgabe der zweiten Bemerkung `2` usw.
 
 ### Platzhalter
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Zeugnisbemerkungen` <br/>`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im Schlüsselverzeichnis `Zeugnisbemerkungen` vordefiniert werden oder beim Schüler
 individuell formuliert werden.
