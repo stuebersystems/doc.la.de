@@ -66,7 +66,7 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler` auf Registerkarte `Zeugnis` unter `Details` im Feld `Zeugnisdatum` eingetragen sein. Hierfür können Sie auch die Sammelzuweisung nutzen, die am oberen Rand der Karte aufrufbar ist.
 
-## Ausgabe Kurshalbjahr Q-Phase G8
+## Kurshalbjahr
 
 `Verzeichnisse > Zeiträume > Art` <br/>`Klassen > Zeiträume > Jahrgang`
 
