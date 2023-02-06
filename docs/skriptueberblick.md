@@ -21,6 +21,7 @@ Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm ve
 | BGVO 2002 | [BAW-APO-BGY-2002.dws](http://doc.la.stueber.de/02.baw/baw-apo-bgy-2002) | - | - | - | - |
 | BGVO 2016 | [BAW-APO-BGY-2016-G9.dws](http://doc.la.stueber.de/02.baw/baw-apo-bgy-2016-g9) | - | - | - | - |
 | BGVO 2010 | [BAW-APO-BGY-2010-G9.dws](http://doc.la.stueber.de/02.baw/baw-apo-bgy-2010-g9) | - | - | - | - |
+| BGVO 2021 | [BAW-APO-BGY-2021-G9.dws](http://doc.la.stueber.de/02.baw/baw-apo-bgy-2021-g9) | - | - | - | - |
 | BSVO 2004 | - | - | - | [BAW-BSO-Berufsvorbereitungsjahr-2004.dws](http://doc.la.stueber.de/durchschnitt_abschluss/baw-bso-berufsvorbereitungsjahr-2004dws) | - |
 | BSVO 2005 | - | - | - | [BAW-BSO-Lernfeldkonzeption-2005.dws](http://doc.la.stueber.de/durchschnitt_abschluss/baw-bso-lernfeldkonzeption-2005dws) | - |
 
