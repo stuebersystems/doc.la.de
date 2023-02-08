@@ -20,6 +20,15 @@ Die korrekte Ausgabe der Zeugnisbereiche wird im Menü `Schüler > Zeugnis > Fä
 
 Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
+Kürzel|Schlüssel|Bezeichnung
+--|--|--
+DB|DB|-
+FB|FB|-
+FE|FE|-
+FH|FH|-
+FÜ|FÜ|-
+PR|PR|-
+
 ## Bildungsgang Schüler
 
 `Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
