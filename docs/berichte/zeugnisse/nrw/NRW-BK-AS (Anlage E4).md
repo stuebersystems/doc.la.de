@@ -1,10 +1,31 @@
-﻿# NRW-BK-AS (Anlage E4)
+﻿# NRW-BK-AS (Anlage E4) + NRW-BK-AS (Anlage E4) Projektthema aus Zeugnisbeurteilung).rpt
 
-## Zeugniskonferenzdatum
+Der Bericht `NRW-BK-AS (Anlage E4) Projektthema aus Zeugnisbeurteilung).rpt` ist identisch dem Bericht `NRW-BK-AS (Anlage E4)`, einziger Unterschied ist die Stelle, an der das Projektthema erwartet wird.
+
+## Ausdruck
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
+
+## Schüler > Zeugnis > Details
+
+### Zeugniskonferenzdatum
 
 `Schueler > Zeugnis > Details > Zeugniskonferenz am`
 
 Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüler > Zeugnis > Details` im Feld "Zeugniskonferenz am" eingetragen sein.
+
+### Zeugnisdatum
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
+
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
+
+### Fehltage, Fehlstunden
+
+`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
+
+Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
 ## Versetzung 
 
@@ -12,15 +33,9 @@ Im entsprechenden Zeitraum muss das Datum der Zeugniskonferenz im Menü `Schüle
 
 Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Laufbahn > Allgemein` im Feld "Versetzt" eingetragen sein. Entscheidend ist hierbei die Markierung des Zeitraumes im linken Zeitraumfenster.
 
-## Fehltage, Fehlstunden
-
-`Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
-
-Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
-
 ## Fachstatus
 
-`Extras > Schlüsselverzeichnisse > Fachstatus`
+`Extras > Schlüsselverzeichnisse > Fachstatus`<br/>`Extras > Schlüsselverzeichnisse > Fachtafeln`<br/>`Schueler > Zeugnis > Fächer`
 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis> Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
@@ -39,13 +54,37 @@ Diff  | Diff  | Differenzierungsbereich
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-## Bildungsgang Schüler
+## Projekt
+
+### Fachstatus Projekt
+
+`Extras > Schlüsselverzeichnisse > Fachstatus`<br/>`Extras > Schlüsselverzeichnisse > Fachtafeln`<br/>`Schueler > Zeugnis > Fächer`
+
+Damit das Projektfach auf dem Zeugnis korrekt erkannt wird, weisen Sie ihm den folgenden Fachstatus zu:
+
+Kürzel |  Schlüssel | Zeugnisbereich
+--|--|--
+Projekt | Projekt | Projekt
+
+### Projektthema
+
+`Extras > Schlüsselverzeichnisse > Fachschwerpunkte`<br/>`Schueler > Zeugnis > Fächer > Fachschwerpunkt`
+ODER
+`Schueler > Zeugnis > Fächer > Beurteilung`
+
+**NRW-BK-AS (Anlage E4):** Das Projektthema wird aus der Bezeichnung des Fachschwerpunktes gelesen, den Sie dem Projektfach zugewiesen haben
+
+**NRW-BK-AS (Anlage E4) Projektthema aus Zeugnisbeurteilung).rpt:** Das Projektthema wird aus der Beurteilung gelesen, die Sie für das Projektfach erfasst haben.
+
+## Bildungsgang 
+
+### Bildungsgang des Schülers
 
 `Schüler > Ausbildung > Ausbildungbetriebe > Bildung`
 
 Tragen Sie im Menü `Schüler > Ausbildung` im aktuellen Zeitraum über das Hinzufügen oder Bearbeiten eines Ausbildungsbetriebes im Feld "Bildungsgang" ein. Grundlage bildet das `Schlüsselverzeichnis > Bildungsgänge`.
 
-## Fachrichtung
+### Fachrichtung
 
 `Schlüsselverzeichnis > Schwerpunkte` UND 
 `Schlüsselverzeichnis > Bildungsgänge`
@@ -64,29 +103,6 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
 
-## Zeugnisdatum
-
-`Schüler > Zeugnis > Details > Zeugnisdatum`
-
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
-
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
-
-## Zeugnisbemerkungen Positionierung
-
-`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
-
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
-
-## Ausdruck
-
-`Ausdruck`
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
 ## Fachoberschulreife
 
 `Schüler > Laufbahn > Abschluss > Abschluss 1`
@@ -99,11 +115,13 @@ FachOR | beliebig | beliebig
 
 ## Zeugnisbemerkungen
 
+### Platzhalter
+
 `Abitur > Zeugnisbemerkungen`
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
-Bemerkungen Legen Sie im MenüSchüler > Zeugnis > Bemerkungen/Formulare oder im Menü Abitur > Zeugnisbemerkungen an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Bemerkungen Legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü `Abitur > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
 Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
@@ -118,3 +136,10 @@ Platzhalter | Ausgabe im Bericht
 ``<<Anrede3>>`` | seine/ihre (je nach Geschlecht des Schülers)
 ``<<Anrede4>>`` |  ihm/ihr (je nach Geschlecht des Schülers)
 ``<<Anrede5>>`` | seinen/ihren (je nach Geschlecht des Schülers)
+
+### Positionierung
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
