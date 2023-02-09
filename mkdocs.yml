@@ -636,7 +636,11 @@ nav:
         - NIE-GY-HJZ (Klasse 7-10 mit Wahlpflicht): berichte/zeugnisse/nie/NIE-GY-HJZ (Klasse 7-10 mit Wahlpflicht).md
         - NIE-GY-HJZ (Klasse 7-10 ohne Wahlpflicht): berichte/zeugnisse/nie/NIE-GY-HJZ (Klasse 7-10 ohne Wahlpflicht).md
         - NIE-GY-JZ (Mittelstufe): berichte/zeugnisse/nie/NIE-GY-JZ (Mittelstufe).md
-      - NRW: 
+      - NRW:
+        - OSK B:
+          - NRW-ABI-OS (2021): berichte/zeugnisse/nrw/NRW-ABI-OS (2021).md
+          - NRW-BLNW-OS: berichte/zeugnisse/nrw/NRW-BLNW-OS.md
+          - NRW-OS-Halbjahresinformation: berichte/zeugnisse/nrw/NRW-OS-Halbjahresinformation.md 
         - NRW-ABI-AZ  (Anlage D42): berichte/zeugnisse/nrw/NRW-ABI-AZ (Anlage D42).md
         - NRW-Abitur (Prüfungsergebnisse 1): berichte/zeugnisse/nrw/NRW-Abitur (Prüfungsergebnisse 1).md
         - NRW-Abitur (Prüfungsergebnisse 2): berichte/zeugnisse/nrw/NRW-Abitur (Prüfungsergebnisse 2).md
@@ -683,7 +687,7 @@ nav:
         - NRW-BKO-AZ (2007): berichte/zeugnisse/nrw/NRW-BKO-AZ (2007).md
         - NRW-BKO-AZ (E01-0A): berichte/zeugnisse/nrw/NRW-BKO-AZ (E01-0A).md
         - NRW-BKO-JZ: berichte/zeugnisse/nrw/NRW-BKO-JZ.md
-        - NRW-BLNW-OS: berichte/zeugnisse/nrw/NRW-BLNW-OS.md
+        - NRW-BKO-FHReife: berichte/zeugnisse/nrw/NRW-BKO-FHReife.md
         - NRW-BS-AS (A01): berichte/zeugnisse/nrw/NRW-BS-AS (A01).md
         - NRW-BS-AS (duales System): berichte/zeugnisse/nrw/NRW-BS-AS (duales System).md
         - NRW-BS-AS: berichte/zeugnisse/nrw/NRW-BS-AS.md
@@ -722,10 +726,6 @@ nav:
         - NRW-RS-ÜZ (Klasse 7-10): berichte/zeugnisse/nrw/NRW-RS-ÜZ (Klasse 7-10).md
         - NRW-WG-AZ: berichte/zeugnisse/nrw/NRW-WG-AZ.md
         - NRW-WG-JZ: berichte/zeugnisse/nrw/NRW-WG-JZ.md
-        - OSK B:
-          - NRW-BKO-FHReife: berichte/zeugnisse/nrw/NRW-BKO-FHReife.md
-          - NRW-ABI-OS (2021): berichte/zeugnisse/nrw/NRW-ABI-OS (2021).md
-          - NRW-OS-Halbjahresinformation: berichte/zeugnisse/nrw/NRW-OS-Halbjahresinformation.md
       - RLP: 
         - RLP-RS-JZ: berichte/zeugnisse/rlp/RLP-RS-JZ.md
         - RLP-RS-JZ (9-10 Klasse): berichte/zeugnisse/rlp/RLP-RS-JZ (9-10 Klasse).md
