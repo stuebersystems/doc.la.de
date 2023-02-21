@@ -156,14 +156,20 @@ Kürzel|Bezeichnung|Leistungsart
 
 ![Beispiel für angelegte Leistungsarten](\assets\images\nrw\01.png)
 
+## Projekt
+
+Bitte legen Sie ein Fach "Projekt" (Kürzel, Bezeichnung) an, dass keine Fachkategorie und keinen Aufgabenbereich hat. Dieses Fach wird mit der Unterrichtsart "Pr" markiert und kann den Schülern unter `Schüler > Zeugnis > Fächer` im gewünschten Zeitraum zugewiesen und benotet. Dieses Fach wird beim Synchronisieren der Schülerdaten ins Menü Abitur übernommen. Es kann für die Abiturberechnung mit markiert werden und wird auch auf dem Abiturzeugnis mit ausgegeben.
+
+Kürzel|Schlüssel|Bezeichnung
+--|--|--
+Pr|**PR**|Projekt
+
 ## Besondere Lernleistung
 
 Im Menü `Abitur > Prüfung` tragen Sie unter „Lernleistung“ das Fach und Thema der Besonderen Lernleistung ein.
 Die Endnote der besonderen Lernleistung weisen Sie im Menü `Abitur > Prüfung` unter „Lernleistung“ links im ersten "Punkte" Feld zu.
 
-Das Skript rechnet: 
-
-vervierfacht die Note. Das Ergebnis der eingebrachten Lernleistung wird zur Gesamtsumme addiert.
+Das Skript vervierfacht die Note. Das Ergebnis der eingebrachten Lernleistung wird zur Gesamtsumme addiert.
 
 Soll die Lernleistung vom Skript berücksichtigt werden, setzen Sie bitte das Häkchen vor `Lernleistung einbringen`.
 
