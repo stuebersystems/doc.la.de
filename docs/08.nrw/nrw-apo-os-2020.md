@@ -63,10 +63,10 @@ Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werd
 |Deutsch|**Ja**|
 |Mathematik|**Ja**|
 |Kunst|**Ja**|
-|Musik|Nein|
+|Musik|**Ja**|
 |Sport|**Ja**|
 |Informatik|**Ja**|
-|Philosophie|Nein|
+|Philosophie|**Ja**|
 |Geschichte|**Ja**|
 |Physik|**Ja**|
 |Chemie|**Ja**|
