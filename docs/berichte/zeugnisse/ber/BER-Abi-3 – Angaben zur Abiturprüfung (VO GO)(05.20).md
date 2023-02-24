@@ -22,6 +22,10 @@ Kürzel | Schlüssel | Zeugnisbereich
 BLL|   BLL    |   5. Prüfungskomponente Besondere Lernleistung 
 PRS | PRS   |  5. Prüfungskomponente Präsentationsprüfung
 
+# Referenenzfach Nebenfach der Präsentationsprüfung 
+
+Bitte refassen Sie dies unter `Abitur > Prüfung > Fachpraxis > Fach` 
+
 ## Fachkombination
 
 `Schüler > Zeugnis > Details > Fachkombination`
