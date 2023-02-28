@@ -1,4 +1,4 @@
-# BER-GY (abi_4_berechnungsbogen)(10.16)
+# BER-GY (abi_4_berechnungsbogen)(05.20)
 
 [1]:/assets/images/Berlin/BER-GY_(abi_4_berechnungsbogen)(10.16)_01.png "Zulassungshäkchen"
 [2]:/assets/images/Berlin/BER-GY_(abi_4_berechnungsbogen)(10.16)_02.png "Wiederholerhäkchen"
