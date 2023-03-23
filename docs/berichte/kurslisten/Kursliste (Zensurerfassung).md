@@ -4,7 +4,7 @@
 
 `Schüler > Zeugnis > Fächer`
 
-Bitte weisen Sie im Menü `Schüler > Zeugnis > Fäche`r im Feld "Lehrer" den Fachlehrer zu. Grundlage bildet das Menü `Lehrer`, diese müssen vorab erfasst sein.
+Bitte weisen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Lehrer" den Fachlehrer zu. Grundlage bildet das Menü `Lehrer`, diese müssen vorab erfasst sein.
 
 ## Fachschwerpunkte
 
