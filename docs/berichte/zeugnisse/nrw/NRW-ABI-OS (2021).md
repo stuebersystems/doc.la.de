@@ -68,6 +68,28 @@ Der Bericht verwendet für die Anzeigereihenfolge Postionsnummern. Bitte erfasse
 Positionsnummern dürfen nicht mehrfach vergeben werden und sollen aufsteigend sein, wobei das aber nicht bedeutet, dass es 1,2,3.. sein muss, auch 17,23,31 ist möglich.
 Fachpositionen können bereits bei der Fachwahl per Fachwahltafel oder per Fachtafel zugewiesen werden.
 
+## Prüfungen
+
+Prüfungen können für die GH-Kurse des 3. Prüfungsfach und/oder 4. Prüfungsfach auch in mehreren Fächern des gleichen Aufgabenfeldes abgelegt werden. Beide Fächer müssen in MAGELLAN auf der Qualifikationskarte erscheinen und auswertbar markiert werden, da jeweils nur eine Teil der Kurse der jeweiligen Fachzeile als Prüfungsfächer berücksichtigt werden sollen, auf dem Abiturzeugnis aber nur eins der beiden Fächer erscheinen soll.
+
+1. Beide Fachzeilen werden im Feld Status als Prüfungsfach markiert (Fachstatus `3PF` oder `4PF` ).
+2. In der Spalte `Merkmal` wird manuell erfasst (Eintragung `Q1Q2` oder `Q3Q4`), welche Kurse je Fachzeile als Prüfungsfachkurse zu werten sind.
+3. Für eine der beiden Zeilen wird in der Spalte `Merkmal` hinter der Kennzeichnung der Kurshalbjahre (`Q1Q2` oder `Q3Q4`) mit einem `*` gekennzeichnet, dass dieses Fach auf dem Abiturzeugnis als Prüfungsfach ausgegeben werden soll.
+
+![Darstellung](/assets/images/nrw.bielefeld/04.png)
+
+
+Merkmal|Bedeutung|
+-----|-----|
+Q1Q2 | Q1 und Q2 werden für die Prüfung eingebracht, das Fach selbst wird aber für die Prüfung nicht angezeigt|
+Q3Q4 | Q3 und Q4 werden für die Prüfung eingebracht, das Fach selbst wird aber für die Prüfung nicht angezeigt|
+Q1Q2* | Q1 und Q2 werden für die Prüfung eingebracht, das Fach selbst wird für die Prüfung angezeigt|
+Q3Q4* | Q3 und Q4 werden für die Prüfung eingebracht, das Fach selbst wird für die Prüfung angezeigt|
+
+!!! tipp "Hinweis!"
+
+    Alle drei Informationen (Fachstatus, Zeugnisfach und PF-Kurshalbjahre) können bereits aus `Schüler > Zeugnis > Fächer` synchronisiert werden. Durch den korrekten Eintrag im Feld `Merkmal` wird sichergestellt, dass bei der erneuten Auslösung des Skriptes nicht das verkehrte Fach auf die Prüfungskarte übernommen wird.
+
 ## Zeugnisbemerkungen
 
 `Abitur > Zeugnisbemerkungen`

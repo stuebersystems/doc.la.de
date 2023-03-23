@@ -42,6 +42,10 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport| Weitere Fächer
 Religion| Weitere Fächer
 
+Ausgabe|Voraussetzung
+--|--
+Fächerausgabe im "1. Aufgabenfeld"|1.Aufgabenbereich und Fachkategorie "Deutsch"
+
 ## Fehltage und/oder Fehlstunden
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
