@@ -1,5 +1,7 @@
 ﻿# NRW-BK-ABI (Anlage D33b)
 
+Achtung, aktueller Bericht: NRW-BK-ABI (Anlage D33b - 2018)
+
 ## Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
@@ -15,23 +17,18 @@ Kürzel |  Schlüssel | Bezeichnung
 3 PF  | 3 PF  | 3. Prüfungsfach
 4 PF  | 4 PF  | 4. Prüfungsfach
 
-## FachleistAusdruck
+## Ausdruck
 
 `Ausdruck`
 
 Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 ## Ort des Druckdatums
 
 `Mandanten > Daten 1 > Ort`
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
-
-## Ausdruck
-
-`Ausdruck`
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 ## Konferenzdatum Bereich
 

@@ -1,5 +1,7 @@
 ﻿# NRW-BK-ABI (Anlage D33b - 2014)
 
+Achtung, aktueller Bericht: NRW-BK-ABI (Anlage D33b - 2018)
+
 ## Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
