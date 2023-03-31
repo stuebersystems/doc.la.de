@@ -1,6 +1,6 @@
 ﻿# NRW-BK-ABI (Anlage D33b - 2014)
 
-Achtung, aktueller Bericht: NRW-BK-ABI (Anlage D33b - 2018)
+Achtung: aktueller Bericht unter: [NRW-BK-ABI (Anlage D33b - 2018)](https://doc.la.stueber.de/berichte/zeugnisse/nrw/NRW-BK-ABI%20%28Anlage%20D33b%20-%202018%29/)
 
 ## Fachstatus
 
