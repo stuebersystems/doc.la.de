@@ -1,5 +1,7 @@
 # BER-Abi 8 (01.12).rpt
 
+Bitte nutzen Sie den aktuellen Bericht unter: [https://doc.la.stueber.de/berichte/zeugnisse/ber/BER-Abi-8%20%2805.20%29/](https://doc.la.stueber.de/berichte/zeugnisse/ber/BER-Abi-8%20%2805.20%29/)
+
 ## Fehltage und/oder Fehlstunden
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
