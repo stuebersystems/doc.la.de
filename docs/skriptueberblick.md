@@ -34,17 +34,17 @@ Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm ve
 | BER-IBA-MSA-2019 | - | - | - | [BER-IBA-MSA-2019.dws](https://doc.la.stueber.de/03.ber/ber-iba-msa-2019/) | - |
 | BER-BFS-Matrix (2016) | - | - | - | - | [BER-BFS-Matrix-2016](https://doc.la.stueber.de/03.ber/ber-bfs-matrix-2016dws.md) |
 | BER-BBS-Matrix (2007) | - | - | - | - | [BER-BBS-Matrix-2007](https://doc.la.stueber.de/03.ber/ber-bbs-matrix-2007dws/) |
-| APO 2017 | [BER-APO-2017.dws](https://doc.la.stueber.de/Skripte/BER-APO-2017) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-IBA-MSA-2019](https://doc.la.stueber.de/durchschnitt_abschluss/BER-IBA-MSA-2019) | - |
-| APO 2004 | [BER-APO-2004.dws](http://doc.la.stueber.de/02.ber/ber-apo-2004)| - | - | - | - |
-| APO 2007 | [BER-APO-2007.dws](http://doc.la.stueber.de/02.ber/ber-apo-2007) | - | - | [BER-BBS-Matrix-2007.dws](https://doc.la.stueber.de/berufsschule/skript/ber-bbs-matrix-2007dws) | - |
-| APO 2010 | [BER-APO-2010.dws](http://doc.la.stueber.de/02.ber/ber-apo-2010) | - | - | - | - |
-| APO 2011 | [BER-APO-2011.dws](http://doc.la.stueber.de/02.ber/ber-apo-2011)| [BER-FW-APO-2011.js](http://doc.la.stueber.de/fachwahl/ber-fw-apo-2011js) | [BER-FW-APO-2011.js](http://doc.la.stueber.de/fachwahl/ber-fw-apo-2011js)| - | - |
+| APO 2017 | [BER-APO-2017.dws](http://doc.la.stueber.de/03.ber/BER-APO-2017) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-IBA-MSA-2019](https://doc.la.stueber.de/durchschnitt_abschluss/BER-IBA-MSA-2019) | - |
+| APO 2004 | [BER-APO-2004.dws](http://doc.la.stueber.de/03.ber/ber-apo-2004)| - | - | - | - |
+| APO 2007 | [BER-APO-2007.dws](http://doc.la.stueber.de/03.ber/ber-apo-2007) | - | - | [BER-BBS-Matrix-2007.dws](https://doc.la.stueber.de/berufsschule/skript/ber-bbs-matrix-2007dws) | - |
+| APO 2010 | [BER-APO-2010.dws](http://doc.la.stueber.de/03.ber/ber-apo-2010) | - | - | - | - |
+| APO 2011 | [BER-APO-2011.dws](http://doc.la.stueber.de/03.ber/ber-apo-2011)| [BER-FW-APO-2011.js](http://doc.la.stueber.de/fachwahl/ber-fw-apo-2011js) | [BER-FW-APO-2011.js](http://doc.la.stueber.de/fachwahl/ber-fw-apo-2011js)| - | - |
 | APO BGY 2011 | - | [BER-FW-APO-BBS-2011.js](http://doc.la.stueber.de/fachwahl/ber-fw-apo-bbs-2011js)| [BER-FW-APO-BBS-2011.js](http://doc.la.stueber.de/fachwahl/ber-fw-apo-bbs-2011js) | - | - |
-| APO 2006 | [BER-APO-FOS-2006.dws](http://doc.la.stueber.de/02.ber/ber-apo-fos-2006)| - | - | - | - |
-| APO 2013 | [BER-APO-FOS-2013.dws](http://doc.la.stueber.de/02.ber/ber-apo-fos-2013) | - | - | - | - |
+| APO 2006 | [BER-APO-FOS-2006.dws](http://doc.la.stueber.de/03.ber/ber-apo-fos-2006)| - | - | - | - |
+| APO 2013 | [BER-APO-FOS-2013.dws](http://doc.la.stueber.de/03.ber/ber-apo-fos-2013) | - | - | - | - |
 | APO KO 2017 | [BER-APO-KO-2017.dws](https://doc.la.stueber.de/Skripte/BER-APO-KO-2017) | - | - | - | - |
-| APO KO 2011 | [BER-APO-KO-2011.dws](http://doc.la.stueber.de/02.ber/ber-apo-ko-2011)| - | - | - | - |
-| APO KO 1987 | [BER-APO-KO-1987.dws](http://doc.la.stueber.de/02.ber/ber-apo-ko-1987) | - | - | - | - |
+| APO KO 2011 | [BER-APO-KO-2011.dws](http://doc.la.stueber.de/03.ber/ber-apo-ko-2011)| - | - | - | - |
+| APO KO 1987 | [BER-APO-KO-1987.dws](http://doc.la.stueber.de/03.ber/ber-apo-ko-1987) | - | - | - | - |
 
 ## Bremen
 
