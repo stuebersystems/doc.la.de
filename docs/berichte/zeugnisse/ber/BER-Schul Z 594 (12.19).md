@@ -70,7 +70,7 @@ Das Zeugnis liest die Teilbereiche Fachtheorie und Fachpraxis (Fächer mit Unter
 
 Für die Sortierung der Fächer des "Berufsfeldübergreifenden Unterrichts" auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Den Fächern mit Niveau-Stufe (GR-Niveau / ER-Niveau) weisen Sie die Position 1-3 zu, den Fächern "Wirtschafts- und Sozialkunde" und Spoprt/Gesundheitsförderung weisen Sie die Position 4-5 zu.
 
-### Betriebl. Lernaufgaben
+### Betriebliche Lernaufgabe
 
 `Schüler > Zeugnis > Fächer`
 
@@ -85,6 +85,12 @@ LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 2 (beliebig)
 LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 
 2. Weisen Sie diese Fächer im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu.
+
+#### Thema der betrieblichen Lernaufgabe
+
+`Schüler > Zeugnis > Leistungen > Beurteilung`
+
+Das Thema der betrieblichen Lernaufgabe erfassen Sie bitte im Feld `Schüler > Zeugnis > Leistungen > Beurteilung`. Wichtig ist zu beachten, dass das Thema in dem Halbjahr für das jeweilige Fach zu erfassen ist, indem das Praktikum erfolgte, also im 1. oder 2. Halbjahr.
 
 ### Betriebl. Lernaufgabe gesamt
 
@@ -227,7 +233,7 @@ Erfassen Sie weiterhin in den Feldern "Praxis von" und "bis" den Zeitraum des Pr
 Eintrag für | Eingabe wie folgt
 --|--
 1. Praktikum | LA1HJ1 
-2. Praktikum | LA2HJ1 oder LA2HJ2
+2. Praktikum | LA2HJ1  (wenn das 2.Praktikum zeitlich im **ersten** HJ liegt) oder LA2HJ2 (wenn das 2.Praktikum zeitlich im **zweiten** HJ liegt)
 3. Praktikum | LA3HJ2
 
 Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die auch benotet wird, dem 1./2./3 Betriebspraktikum zuordnen. Zudem wird ein Bezug des Betriebspraktikums zum HJ1 bzw. HJ2 hergestellt.

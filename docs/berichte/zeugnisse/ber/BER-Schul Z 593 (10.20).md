@@ -145,6 +145,12 @@ BLE | leer | beliebig
 
 Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Zeugnis > Fächer` zu. Tragen Sie im Feld "Faktor" die "Gesamtstunden" ein. Die Endnote erfassen Sie für dieses Fach im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote (Gesamt)".
 
+### Thema der betrieblichen Lernaufgabe
+
+`Schüler > Zeugnis > Leistungen > Beurteilung`
+
+Das Thema der betrieblichen Lernaufgabe erfassen Sie bitte im Feld `Schüler > Zeugnis > Leistungen > Beurteilung`. Wichtig ist zu beachten, dass das Thema in dem Halbjahr für das jeweilige Fach zu erfassen ist, indem das Praktikum erfolgte, also im 1. oder 2. Halbjahr.
+
 ## automatisierte Zeugnisbemerkungen
 
 `Schlüsselverzeichnisse > Abschlussarten > Abschlussart 1`
@@ -206,7 +212,7 @@ Bitte lesen Sie dazu unsere Onlinedokumentation:
 
 [https://doc.la.stueber.de/03.ber/ber-iba-as-2020dws/](https://doc.la.stueber.de/03.ber/ber-iba-as-2020dws/)
 
-## Zeugnsidatum
+## Zeugnisdatum
 
 `Schüler > Zeugnis > Zeugnisdetails > Zeugnisdatum`
 

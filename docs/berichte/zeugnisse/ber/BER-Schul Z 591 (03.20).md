@@ -107,6 +107,12 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 
 ![LA1-3](/assets/images/Berlin/la3.png)
 
+### Thema der betrieblichen Lernaufgabe
+
+`Schüler > Zeugnis > Leistungen > Beurteilung`
+
+Das Thema der betrieblichen Lernaufgabe erfassen Sie bitte im Feld `Schüler > Zeugnis > Leistungen > Beurteilung`. Wichtig ist zu beachten, dass das Thema in dem Halbjahr für das jeweilige Fach zu erfassen ist, indem das Praktikum erfolgte, also im 1. oder 2. Halbjahr.
+
 ### Benotung betriebliche Lernaufgabe
 
 `Schüler > Zeugnis > Fächer`
