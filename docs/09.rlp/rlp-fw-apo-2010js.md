@@ -46,7 +46,7 @@ Die relevanten Spalten in der Ansicht ``Stammdaten > Klassen``:
 
 ## Fachkategorien
 
-Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`.
+Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Stammdaten > Fächer > Fachkategorie`.
 Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werden. Für diese Fächer sind die zu verwendenden Fachkategorien fest vorgeschrieben. Alle anderen Fächer können mit einer der übrigen Fachkategorie gekennzeichnet werden oder ohne Fachkategorie geführt werden.
 
 |Fachkategorien|Muss genutzt werden|
