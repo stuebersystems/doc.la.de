@@ -101,6 +101,33 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 [![Schüler > Zeugnis > Leistungen][3]][3]
 
+## Benotung
+
+`Schüler > Zeugnis > Leistungen`
+
+Markieren Sie für den Schüler unter `Schüler > Zeugnis > Leistungen` das Optionsfeld "Durchschnitt" einblenden. Auf der rechten Seite der Registerkarte erscheint nun eine zusätzliche Leiste.
+
+Geben Sie unter Prüfungsordnung die gewünschte Prüfungsordnung (basierend auf dem Skript für IBA) zur Versetzung an. Klicken Sie auf `Neu berechnen`, um die Daten automatisch durch das entsprechende Skript berechnen zu lassen.
+
+Durch die Berechnung werden automatisch folgende Felder befüllt:
+
+Feld | Note für …
+--|--
+Durchschnitt 1 | Fachtheorie Endnote
+Durchschnitt 2 | Fachpraxis Endnote
+Durchschnitt 3 | Durchschnittsnote aller Leistungen im Bildungsgang
+
+Sie können die Felder "Durchschnitt 1", "Durchschnitt 2" und "Durchschnitt 3" auch händisch befüllen.
+
+`Extras > Schlüsselverzeichnisse > Noten > Füllwerte`
+
+Um ein Fach mit einem bestimmten Füllwert (z.B. "oB" (ohne Bewertung)) auf dem Zeugnis auszugeben, müssen Sie unter `Schlüsselverzeichnisse > Noten` die Noten wie folgt anlegen. Auf dem Zeugnis wird das "Kürzel" ausgegeben.
+
+Kürzel | Bezeichnung | Notenart
+--|--|--
+beliebig | beliebig | Füllwerte
+oB | ohne Bewertung | Füllwerte
+
 ## Klassen
 
 `Klassen > Daten > Abteilung` UND `Schlüsselverzeichnis > Abteilungen`
