@@ -260,6 +260,10 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 
 3. Die Betriebliche Lernaufgabe 1,/2./3. bezieht sich auf das jeweilige Praktikum 1./2./3. Ein Eintrag "N" im Feld "Merkmal" bei der entsprechenden Lernaufgabe steuert die Ausgabe "nicht bestanden". Bleibt das Feld "Merkmal" leer, wird das Praktikum als "bestanden" ausgegeben.
 
+!!! info "Hinweis"
+
+    Ausgegeben wird nur ein Praktikum, welches unter `Schüler > Zeugnis > Leistungen > Beurteilung` einen Eintrag und unter `Schüler > Zeugnis > Leistungen > Endnote` eine Note hat. 
+
 ## Zeugnisbemerkungen
 
 ### Zeugnisbemerkungen für EBBR Zeugnis
