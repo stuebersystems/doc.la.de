@@ -10,6 +10,12 @@ Bitte beachten Sie ergänzend die Voraussetzungen für **Unterrichtsarten, Fachs
 
 Bitte markieren Sie die Schüler im Menü `Abitur` oder im Menü `Schüler` und rufen den Bericht über STRG+Z im Unterverzeichnis `Nordrhein-Westfalen` auf. **Der Bericht liest die Fächer und Ergebnisse aus den in das Menü `Abitur` synchronisierten Daten, die Stammdaten aus dem Menü `Schüler`.**
 
+## Welche Fächer werden ausgegeben
+
+`Abitur > Qualifikation > Q1-Q4` <br/>`Abitur > Qualifikation > Q1 Bestanden - Q4 Bestanden`
+
+Es werden nur die Fachzeilen ausgegeben, für die in den Halbjahren Q1-Q4 ein Eintrag unter `Q1 Bestanden`-`Q4 Bestanden` ein Eintrag erfolgte ODER in in einem Halbjahr zwischen Q1 und Q4 ein Punktwert eingetragen wurde.
+
 ## Praktikumsbescheinigung
 
 Liegt eine Praktikumsbescheinigung für einen Schüler vor, tragen Sie bitte den Wert `Ja` unter Merkmal-A10 (umbenannt in `Praktikum`), die Bescheinigung gibt den Hinweis aus und unterdrückt den Text "Praktikumsbescheinigung liegt nicht vor".
