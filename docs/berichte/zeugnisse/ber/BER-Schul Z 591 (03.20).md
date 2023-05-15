@@ -153,6 +153,10 @@ Der Bericht liest den Eintrag aus Feld "Merkmal" aus und setzt dahinter die Fach
 
 ## Fach, Position, Fachstatus
 
+### Schlüsselverzeichnis Fächer
+
+`Extras > Schlüsselverzeichnisse > Fächer` Tragen Sie in der Spalte `Zeugnismerkmal` LF1, LF2, LF3 oder LF4 ein. Ist der Eintrag leer, wird auf dem Zeugnis nur die Fachbezeichnnug ausgegeben ohne die Information zum Lernfeld.
+
 ### Fächer
 
 `Schüler > Zeugnis > Fächer > Faktor`
