@@ -37,8 +37,6 @@ Kürzel |  Schlüssel | Bezeichnung
 4 PF  | 4 PF  | 4. Prüfungsfach
 5 PF  | 5 PF  | 5. Prüfungsfach
 
-[![Prüfungsfächer][19]][19]
-
 ## Fremdsprachen
 
 `Schüler > Daten 3 > Von/Bis`
@@ -68,8 +66,6 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab. Für das Zuweisen der `Sprachreferenzen` kann auch die Sammelzuweisung unter `Schüler > Schüler > Sammelzuweisung` verwendet werden.
 
-[![Sprachreferenzen][18]][18]
-
 ## Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
@@ -84,8 +80,6 @@ Bitte verwenden Sie im Feld "Merkmal" folgendes Kürzel:
 Merkmal | Bedeutung
 --|--
 MSA | Zeugnisbemerkung für das MSA Zeugnis
-
-[![Zeugnisbemerkung mit Merkmal "MSA"][17]][17]
 
 ## Platzhalter in Zeugnisbemerkungen
 
@@ -163,8 +157,6 @@ Sie können die Durchschnittsnote auch manuell erfassen.
 
 Tragen Sie die Durchschnittsnote im Menü `Schüler > Zeugnis > Leistungen` im Feld "Durchschnitt 1" ein. Damit Ihnen dieses Feld angezeigt wird, aktivieren Sie unter Leistungen "Durchschnitt ein-/ausblenden".
 
-[![`Schüler > Zeugnis > Leistungen`][15]][15]
-
 ## schriftl./mdl. Prüfungsnoten
 
 `Schüler > Zeugnis > Leistungen`
@@ -175,6 +167,4 @@ Spalte | Note
 --|--
 Spalte "Schriftl. Note 1"| schriftliche Note
 Spalte "Mündl. Note" | mündliche Note
-
-[![mdl./schriftl. Noten der Prüfungsfächer][16]][16]
 
