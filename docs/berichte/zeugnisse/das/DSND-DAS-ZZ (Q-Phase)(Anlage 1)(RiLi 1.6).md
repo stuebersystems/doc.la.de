@@ -35,6 +35,10 @@ Zeugnis über das ... Halbjahr der gymnasialen Qualifikationsphase
 
 (Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an Deutschen Schulen im Ausland „Deutsches Internationales Abitur“ (Beschluss der Kultusministerkonferenz vom 11.06.2015) zugrunde.)
 
+## Ausdruck
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden und greift auf die Eingaben aus `Schüler > Zeugnis > Fächer/Leistungen` zu.
+
 ## Schulhalbjahre, Kurshalbjahre
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
@@ -60,7 +64,21 @@ Jahrgang/Zeitraum | Ausgabe im Bericht
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-## Aufgabenbereich
+## Ausgabe der Fächer
+
+Damit die Fächer aus dem Bereich `Schüler > Zeugnis > Fächer/Leistungen` auf dem Zeugnis an der korrekten Stelle ausgegeben werden können, müssen die Fächer einen Aufgabenbereich und eine Unterrichtsart zugewiesen bekommen.
+
+### Unterrichtsart
+
+`Extras > Schlüsselverzeichnis > Unterrichtsarten`
+
+Kürzel|Bezeichnung
+--|--
+GK|Grundkurs
+LK|Leistungskurs
+AG|Arbeitsgemeinschaft
+
+### Aufgabenbereich
 
 `Extras > Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
@@ -95,10 +113,6 @@ Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
-
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 ## Zeugnisbemerkungen
 
