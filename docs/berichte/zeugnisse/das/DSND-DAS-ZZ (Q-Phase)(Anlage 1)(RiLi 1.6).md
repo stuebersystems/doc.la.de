@@ -39,31 +39,6 @@ Zeugnis über das ... Halbjahr der gymnasialen Qualifikationsphase
 
 Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden und greift auf die Eingaben aus `Schüler > Zeugnis > Fächer/Leistungen` zu.
 
-## Schulhalbjahre, Kurshalbjahre
-
-`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
-
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
-
-`Schlüsselverzeichnis > Zeiträume > Art` UND
-
-`Klassen > Zeiträume > Jahrgang`
-
-Die Ausgabe des Kurshalbjahres (Q-Phase G9) errechnet sich aufgrund der Definition des aktuellen Zeitraums im `Schlüsselverzeichnis > Zeiträume > Art` und aus dem Menü `Klassen > Zeiträume > Jahrgang`.
-
-Jahrgang/Zeitraum | Ausgabe im Bericht
---|--
-12.1 (Q1) | 1. Kurshalbjahr
-12.2 (Q2) | 2. Kurshalbjahr
-13.1 (Q3) | 3. Kurshalbjahr
-13.2 (Q4) | 4. Kurshalbjahr
-
-## Klassenjahrgang
-
-`Klassen > Zeiträume > Zeitraum > Jahrgang`
-
-Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
-
 ## Ausgabe der Fächer
 
 Damit die Fächer aus dem Bereich `Schüler > Zeugnis > Fächer/Leistungen` auf dem Zeugnis an der korrekten Stelle ausgegeben werden können, müssen die Fächer einen Aufgabenbereich und eine Unterrichtsart zugewiesen bekommen.
@@ -91,6 +66,47 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Weitere Fächer
 Religion | Weitere Fächer
+
+### vierstündige Fächer
+
+`Extras > Schlüsselverzeichnis > Fächer`
+
+Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Zeugnismerkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
+
+Fach (Bezeichnung/Kürzel)  | Zeugnismerkmal
+--|--
+Deutsch |  	D
+Mathematik | M
+Englisch | 	E
+Landessprache | LS
+
+[![Zeugnismerkmal `Schlüsselverzeichnis > Fächer`][14]][14]
+
+
+## Schulhalbjahre, Kurshalbjahre
+
+`Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
+
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+
+`Schlüsselverzeichnis > Zeiträume > Art` UND
+
+`Klassen > Zeiträume > Jahrgang`
+
+Die Ausgabe des Kurshalbjahres (Q-Phase G9) errechnet sich aufgrund der Definition des aktuellen Zeitraums im `Schlüsselverzeichnis > Zeiträume > Art` und aus dem Menü `Klassen > Zeiträume > Jahrgang`.
+
+Jahrgang/Zeitraum | Ausgabe im Bericht
+--|--
+12.1 (Q1) | 1. Kurshalbjahr
+12.2 (Q2) | 2. Kurshalbjahr
+13.1 (Q3) | 3. Kurshalbjahr
+13.2 (Q4) | 4. Kurshalbjahr
+
+## Klassenjahrgang
+
+`Klassen > Zeiträume > Zeitraum > Jahrgang`
+
+Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
 ## Mandanten
 
@@ -154,18 +170,5 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler) 
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-## vierstündige Fächer
 
-`Extras > Schlüsselverzeichnis > Fächer`
-
-Bitte tragen Sie im `Schlüsselverzeichnis > Fächer` in der Spalte "Zeugnismerkmal" für die Fächer Deutsch, Englisch, Mathematik und die Landessprache die nachstehend Kürzel ein. Aus diesen Kürzeln wird später in Zeugnisse das "E" für die vierstündig unterrichteten Fächer ausgelesen.
-
-Fach (Bezeichnung/Kürzel)  | Zeugnismerkmal
---|--
-Deutsch |  	D
-Mathematik | M
-Englisch | 	E
-Landessprache | LS
-
-[![Zeugnismerkmal `Schlüsselverzeichnis > Fächer`][14]][14]
 
