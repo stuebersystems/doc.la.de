@@ -1,6 +1,6 @@
-﻿# BER-Schul Z 324 (03.22)
+﻿# BER-Schul Z 325 (04.23)
 
-Schul Z 324 – Zeugnis der allgemeinen Hochschulreife der Kollegs (03.22)
+BER-Schul Z 325 (04.23)
 
 ## Ausdruck
 
