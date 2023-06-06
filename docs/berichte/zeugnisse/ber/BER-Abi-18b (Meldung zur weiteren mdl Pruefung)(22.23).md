@@ -14,7 +14,11 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+Das der Bericht muss aus dem Menü `Schüler` als Zeugnis gedruckt werden.
+
+## Name
+
+Der Schülername wird aus `Zusatz` + `Nachname`, `Vorname` `2.Vorname` gebildet.
 
 ## Daten manuell erfassen
 
