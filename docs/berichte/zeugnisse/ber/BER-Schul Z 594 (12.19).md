@@ -49,6 +49,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 `Klassen > Daten > Abteilung` UND `Extras > Schlüsselverzeichnisse > Abteilungen`
 
 Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
+
 1) Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
 2) Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
 
@@ -112,8 +113,6 @@ Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Zeugnis > Fächer` zu. 
 
 Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in der Spalte "Endnote" ein. Grundlage bildet das `Schlüsselverzeichnis > Noten`.
 
-![Zeugnisvorlage](/assets/images/Berlin/ber001.png)
-
 ## Fachstatus, Unterrichtsarten, Niveau
 
 ### Fachstatus
@@ -163,7 +162,7 @@ Mit Hilfe des Berechnungsskriptes `BER-IBA-AS-2020.dws` können Sie für den Bil
 
 Bitte lesen Sie dazu unsere Onlinedokumentation:
 
-https://doc.la.stueber.de/03.ber/ber-iba-as-2020.md
+[https://doc.la.stueber.de/03.ber/ber-iba-as-2020dws/](https://doc.la.stueber.de/03.ber/ber-iba-as-2020dws/)
 
 ### Durchschnitt für Berechnung einblenden
 
@@ -308,7 +307,6 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<DerSchueler_DieSchuelerin>>`` | Der Schüler/Die Schülerin je nach Geschlecht des Schülers)
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
 ``<<DemSchueler_DerSchuelerin>> `` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
-
 
 ### vordefinierte Zeugnisbemerkung
 
