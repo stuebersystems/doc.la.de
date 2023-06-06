@@ -1,6 +1,6 @@
 # BER-Abi-18b (Meldung zur weiteren mdl Pruefung)(22.23)
 
-[1]:/assets/images/Berlin/18b.png "Bericht"
+[1]:/assets/images/Berlin/18b2.png "Bericht"
 
 Abi-18b_Meldung_zur_weiteren_muendlichen_Pruefung-fuer_2021-2022
 
