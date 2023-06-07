@@ -1,6 +1,7 @@
 ﻿# NRW-ABI-OS (2021)
 
 ## Gültigkeit
+
 Für die Verwendung am Oberstufenkolleg Bielefeld. 
 
 Bitte beachten Sie ergänzend die Voraussetzungen für **Unterrichtsarten, Fachstatus, Fachkategorien und Aufgabenbereiche** für das dazugehörige Berechnungsskript unter [https://doc.la.stueber.de/08.nrw/nrw-apo-os-2020/](https://doc.la.stueber.de/08.nrw/nrw-apo-os-2020/).
@@ -62,7 +63,28 @@ Graecum|Dieses Zeugnis schließt das Graecum gemäß „Vereinbarung über das L
 großes Latinum und Graecum|Dieses Zeugnis schließt das Latinum und das Graecum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
 Hebraicum|Dieses Zeugnis schließt das Hebraicum gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
 
-## Fachpositionen
+## Fächer und Positionen
+
+## Projekt
+
+`Extras > Schlüsselverzeichnisse > Fächer`<br/>`Extras > Schlüsselverzeichnisse > Unterrichtsart`<br/>`Schüler > Zeugnis > Fächer`
+
+Bitte legen Sie ein Fach "Projekt" (Kürzel, Bezeichnung) an, dass **keine Fachkategorie und keinen Aufgabenbereich** hat. Dieses Fach wird mit der Unterrichtsart "Pr" markiert und kann den Schülern unter `Schüler > Zeugnis > Fächer` im gewünschten Zeitraum zugewiesen und benotet. Dieses Fach wird beim Synchronisieren der Schülerdaten ins Menü Abitur übernommen. Es kann für die Abiturberechnung mit markiert werden und wird auch auf dem Abiturzeugnis mit ausgegeben.
+
+Fach:
+
+Kürzel|Schlüssel|Bezeichnung
+--|--|--
+Pr|**PR**|Projekt
+
+Unterrichtsart:
+
+Kürzel|Schlüssel|Bezeichnung
+--|--|--
+Pr|**PR**|Projekt
+
+
+### Fachpositionen
 
 Der Bericht verwendet für die Anzeigereihenfolge Postionsnummern. Bitte erfassen Sie die Positionsnummern im Abitur unter `Abitur > Qualifikation > Position`. Sie können dieses Feld auch per `Schüler synchronisieren` aus dem Bereich `Schüler > Zeugnis > Fächer` übertragen. Sollte ein Fach mehrfach für einen Schüler vergeben werden, sollten die Positionsnummern aufeinanderfolgend sein.
 Positionsnummern dürfen nicht mehrfach vergeben werden und sollen aufsteigend sein, wobei das aber nicht bedeutet, dass es 1,2,3.. sein muss, auch 17,23,31 ist möglich.
