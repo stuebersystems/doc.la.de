@@ -1,7 +1,7 @@
 # BER-Schul Z 590 (12.19) Variante2.rpt
 
 Schul Z 590 – Zeugnis der Integrierten Berufsausbildungsvorbereitung (Vollzeit) – (2 Seiten) – (12.19). 
-Dieser Bericht wir nur aus dem 1. Halbjahr gedruckt.
+**Dieser Bericht wird nur aus dem 1. Halbjahr gedruckt.**
 
 ## Fehltage/Fehlstunden/Versäumnisse
 
