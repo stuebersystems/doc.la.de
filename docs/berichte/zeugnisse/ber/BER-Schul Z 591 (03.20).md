@@ -335,6 +335,8 @@ oB | ohne Bewertung | Füllwerte
 
 Die Anzahl der Stunden/Schuljahr je Fach haben Sie für das 1. HJ und 2. HJ im Menü `Schüler > Zeugnis > Fächer` im Feld "Faktor" eingetragen. Der Bericht summiert die "Gesamtstunden" der einzelnen Fächer aus dem 1. und 2. Halbjahr und übergibt diesen Wert auf das Zeugnis in das Feld "Gesamtstunden" je Fach.
 
+Wichtig ist zu beachten, dass die Anzahl der Stunden aufsummiert aus den einzelnen Halbjahren aufsummiert werden.
+
 Die Endnoten (Jahresnotendurchschnitte) der Teilbereiche Fachtheorie und Fachpraxis werden als Mittelwert aus den Halbjahresnotendurchschnitten gemäß *Anlage 4 Abschnitt B der Verordnung über die Integrierte Berufsausbildungsvorbereitung* gebildet.
 
 Die Durchschnittsnote im Abschlusszeugnis des Bildungsgangs Integrierte Berufsausbildungsvorbereitung wird gemäß § 24 und *Anlage 5 der Verordnung über die Integrierte Berufsausbildungsvorbereitung* gebildet.

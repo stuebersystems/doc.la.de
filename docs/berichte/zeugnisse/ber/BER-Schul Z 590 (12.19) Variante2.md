@@ -3,6 +3,8 @@
 Schul Z 590 – Zeugnis der Integrierten Berufsausbildungsvorbereitung (Vollzeit) – (2 Seiten) – (12.19). 
 Dieser Bericht wir nur aus dem 1. Halbjahr gedruckt.
 
+Die Variante2 gibt hier 4 Lernfelder aus.
+
 ## Fehltage/Fehlstunden/Versäumnisse
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
