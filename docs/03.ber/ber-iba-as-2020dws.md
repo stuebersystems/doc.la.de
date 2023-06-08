@@ -22,6 +22,16 @@ Mit Hilfe des Berechnungsskriptes `BER-IBA-AS-2020.dws` können Sie für den Bil
 
 Im folgenden Kapitel beschreiben wir Ihnen die Vorgehensweise.
 
+## Aufgabe des Skriptes
+
+Im zweiten Halbjahr wird `Schüler > Zeugnis > Leistungen > Spalte Durchschnitt` manuell mit den Halbjahresergebnissen (Kommazahlen möglich) gefüllt. Das Skript führt Folgendes durch:
+
+* es rundet die Einträge aus der Spalte "Durchschnitt" und überträgt das Ergebnis in die Spalte "Endnote" (Endnote1)
+* es errechnet aus den Endnoteneinträgen des 1. und 2. Halbjahres eine Gesamtnote und trägt die Note unter "Endnote (gesamt)" (Endnote2) ein.
+* es errechnet einen Mittelwert aus den Eintragungen der Leistungen aus der Spalte "Durchschnitt", die in der Unterrichtsart mit FachT und FachP markiert sind und trägt es jeweils in den Feldern "Durchschnitt 1" und "Durchschnitt 2" ein.
+
+Diese Angaben müssen nicht zwingend durch die Berechnung erzeugt werden, Sie können die Daten auch als Grundlage für den Zeugnisdruck manuell befüllen.
+
 ## Vorbereitungen
 
 Zur Berechnung der Endnoten der Teilbereiche Fachtheorie und Fachpraxis sowie der Duchschnittsnote des Bildungsganges IBA innerhalb eines Schuljahres (1. Halbjahr / 2. Halbjahr) gehören folgende Aufgaben:

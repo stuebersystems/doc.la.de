@@ -10,6 +10,15 @@ Die Gesamtnote der Fachtheorie und Fachpraxis errechnet sich aus den gewichteten
 
 Im folgenden Kapitel beschreiben wir Ihnen die Vorgehensweise.
 
+## Aufgabe des Skriptes
+
+Im ersten Halbjahr wird `Schüler > Zeugnis > Leistungen > Spalte Durchschnitt` manuell mit den Halbjahresergebnissen (Kommazahlen möglich) gefüllt. Das Skript führt Folgendes durch:
+
+* es rundet die Einträge aus der Spalte "Durchschnitt" und überträgt das Ergebnis in die Spalte "Endnote" (Endnote1)
+* es errechnet einen Mittelwert aus den Eintragungen der Leistungen aus der Spalte "Durchschnitt", die in der Unterrichtsart mit FachT und FachP markiert sind und trägt es jeweils in den Feldern "Durchschnitt 1" und "Durchschnitt 2" ein.
+
+Diese Angaben müssen nicht zwingend durch die Berechnung erzeugt werden, Sie können die Daten auch als Grundlage für den Zeugnisdruck manuell befüllen.
+
 ## Vorbereitungen
 
 Zur Berechnung der Gesamtnote innerhalb eines Zeitraums gehören folgende Aufgaben:
