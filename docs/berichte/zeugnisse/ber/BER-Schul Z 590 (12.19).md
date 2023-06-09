@@ -256,16 +256,18 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
 ``<<DemSchueler_DerSchuelerin>> `` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)"
 
-## Ausbildung
+## Praktikum
 
-`Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
+### Praktikum erfassen
 
-Tragen Sie den Betrieb des Praktikums im Menü `Schüler > Ausbildung` im Bereich „Praxibetrieb“ ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Praxisbetrieb zuweisen bzw. bearbeiten. Im Feld "Praxisbetrieb" hinterlegen Sie den Betrieb.
-Erfassen Sie im Feld "Bildungsgang" den Bildungsgang.
+ `Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
 
-Hinweis: Am Bildungsgang können verschiedene Berufsfelder hängen.
+Tragen Sie den Betrieb des Praktikums im Menü `Schüler > Ausbildung` im Bereich „Praxibetrieb“ ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Praxisbetrieb zuweisen bzw. bearbeiten. Im Feld "Praxisbetrieb" hinterlegen Sie den Betrieb. 
+Erfassen Sie im Feld "Bildungsgang" den Bildungsgang. 
 
-Legen Sie zunächst die möglichen Berufsfelder Ihrer Schule im `Schlüsselverzeichnis > Berufsfelder` an, der Bericht fragt den Eintrag aus dem Feld "Bezeichnung" ab.
+Hinweis: Am Bildungsgang können verschiedene Berufsfelder hängen. 
+
+Legen Sie zunächst die möglichen Berufsfelder Ihrer Schule im `Schlüsselverzeichnis > Berufsfelder` an, der Bericht fragt den Eintrag aus dem Feld "Bezeichnung" ab. 
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--
@@ -285,7 +287,7 @@ Agrarwirt (beliebig)| 13 (beliebig) | Agrarwirtschaft
 SozPflege (beliebig)| 14 (beliebig) | Sozialpäd. Pflegerischer Dienst 
 Sonstige (beliebig) | 15 (beliebig)| Sonstige/ mehrere Berufsfelder 
 
-Definieren Sie danach im `Schlüsselverzeichnis > Bildungsgänge` Ihre Bildungsgänge, weisen Sie hier je Bildungsgang im Feld "Berufsfeld" ein Berufsfeld zu, folgende Bsp.:
+Definieren Sie danach im `Schlüsselverzeichnis > Bildungsänge` Ihre Bildungsgänge, weisen Sie hier je Bildungsgang im Feld "Berufsfeld" ein Berufsfeld zu, folgende Bsp.:
 
 Kürzel | Schlüssel | Bezeichnung | Berufsfeld
 --|--|--|--
@@ -300,10 +302,36 @@ Erfassen Sie weiterhin in den Feldern "Praxis von" und "bis" den Zeitraum des Pr
 Eintrag für | Eingabe wie folgt
 --|--
 1. Praktikum | LA1HJ1 
-2. Praktikum | LA2HJ1 oder LA2HJ2
+2. Praktikum | LA2HJ1  (wenn das 2.Praktikum zeitlich im **ersten** HJ liegt) oder LA2HJ2 (wenn das 2.Praktikum zeitlich im **zweiten** HJ liegt)
 3. Praktikum | LA3HJ2
 
 Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die auch benotet wird, dem 1./2./3 Betriebspraktikum zuordnen. Zudem wird ein Bezug des Betriebspraktikums zum HJ1 bzw. HJ2 hergestellt.
+
+![Betriebspraktikum](/assets/images/Berlin/iba08.png)
+
+### Bestehen oder nicht Bestehen des Betriebspraktikums
+
+`Schüler > Zeugnis > Fächer > Merkmal`
+
+Ob im Zeugnis das Betriebspraktikum 1./2. oder 3. als "bestanden" oder "nicht bestanden" ausgegeben wird, hängt vom Eintrag im Menü `Schüler > Zeugnis > Fächer` im Feld "Merkmal" ab.
+
+Gehen Sie bitte wie folgt vor:
+
+1. Legen Sie im `Schlüsselverzeichnisse > Fächer` drei Fächer für die Betrieblichen Lernaufgaben an, entscheidend ist der Eintrag im Feld "Schlüssel", dieser muss wie folgt hinterlegt sein:
+
+ Kürzel | Schlüssel | Bezeichnung   
+--------|-----------|-----------------
+LA1 (beliebig)| LA1 | Betriebliche Lernaufgabe 1 (beliebig)
+LA2 (beliebig)| LA2 | Betriebliche Lernaufgabe 2 (beliebig)
+LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
+
+2. Weisen Sie diese Fächer im Menü Schüler > Zeugnis > Fächer dem Schüler zu.
+
+3. Die Betriebliche Lernaufgabe 1,/2./3. bezieht sich auf das jeweilige Praktikum 1./2./3. Ein Eintrag "N" im Feld "Merkmal" bei der entsprechenden Lernaufgabe steuert die Ausgabe "nicht bestanden". Bleibt das Feld "Merkmal" leer, wird das Praktikum als "bestanden" ausgegeben.
+
+!!! info "Hinweis"
+
+    Ausgegeben wird nur ein Praktikum, welches unter `Schüler > Zeugnis > Leistungen > Beurteilung` einen Eintrag und unter `Schüler > Zeugnis > Leistungen > Endnote` eine Note hat. 
 
 ## Berechnungsskript
 
