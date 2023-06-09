@@ -107,11 +107,62 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 
 ![LA1-3](/assets/images/Berlin/la3.png)
 
+## Praktikum
+
+`Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
+
+Tragen Sie den Betrieb des Praktikums im Menü `Schüler > Ausbildung` im Bereich „Praxibetrieb“ ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Praxisbetrieb zuweisen bzw. bearbeiten. Im Feld "Praxisbetrieb" hinterlegen Sie den Betrieb. 
+Erfassen Sie im Feld "Bildungsgang" den Bildungsgang. 
+
+Hinweis: Am Bildungsgang können verschiedene Berufsfelder hängen. 
+
+Legen Sie zunächst die möglichen Berufsfelder Ihrer Schule im `Schlüsselverzeichnis > Berufsfelder` an, der Bericht fragt den Eintrag aus dem Feld "Bezeichnung" ab. 
+
+Kürzel | Schlüssel | Bezeichnung
+--|--|--
+WirtVerw (beliebig) | 01 (beliebig) | Wirtschaft und Verwaltung 
+Metalltech(beliebig) | 02 (beliebig)| Metalltechnik 
+Elektrote (beliebig)| 03 (beliebig) | Elektrotechnik 
+Bautech (beliebig)| 04 (beliebig) | Bautechnik 
+Holztech (beliebig)| 05 (beliebig) | Holztechnik 
+Textiltech (beliebig)| 06 (beliebig)| Textiltechnik/ Bekleidung 
+ChPhyBio (beliebig)| 07 (beliebig) | Chemie, Physik, Biologie 
+Drucktech (beliebig)| 08 (beliebig)| Drucktechnik 
+Farbtech (beliebig)| 09 (beliebig)| Farbtechnik/ Raumgestaltung 
+Gesundh (beliebig)| 10 (beliebig)| Gesundheit 
+Körperpfl (beliebig)| 11 (beliebig) | Körperpflege 
+Ernähr/HW (beliebig)| 12 (beliebig) | Ernährung/ Hauswirtschaft 
+Agrarwirt (beliebig)| 13 (beliebig) | Agrarwirtschaft
+SozPflege (beliebig)| 14 (beliebig) | Sozialpäd. Pflegerischer Dienst 
+Sonstige (beliebig) | 15 (beliebig)| Sonstige/ mehrere Berufsfelder 
+
+Definieren Sie danach im `Schlüsselverzeichnis > Bildungsänge` Ihre Bildungsgänge, weisen Sie hier je Bildungsgang im Feld "Berufsfeld" ein Berufsfeld zu, folgende Bsp.:
+
+Kürzel | Schlüssel | Bezeichnung | Berufsfeld |
+--|--|--|--|
+IBA.WuV | leer | IBA | WuV|
+IBA.Ges | leer | IBA | Ges|
+IBA.EuH | leer | IBA | EuH|
+
+Je nachdem im welchen Berufsfeld der Schüler sein Praktikum absolviert, tragen Sie den dafür angelegten Bildungsgang ein.
+
+### Dauer und Vertragsnummer
+
+Erfassen Sie weiterhin in den Feldern "Praxis von" und "bis" den Zeitraum des Praktikums und die Vertragsnummer wie folgt:
+
+Eintrag für | Eingabe wie folgt
+--|--
+1. Praktikum | LA1HJ1 
+2. Praktikum | LA2HJ1 oder LA2HJ2
+3. Praktikum | LA3
+
+Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die auch benotet wird, dem 1./2./3 Betriebspraktikum zuordnen. Zudem wird ein Bezug des Betriebspraktikums zum HJ1 bzw. HJ2 hergestellt.
+
 ### Thema der betrieblichen Lernaufgabe
 
 `Schüler > Zeugnis > Leistungen > Beurteilung`
 
-Das Thema der betrieblichen Lernaufgabe erfassen Sie bitte im Feld `Schüler > Zeugnis > Leistungen > Beurteilung`. Wichtig ist zu beachten, dass das Thema in dem Halbjahr für das jeweilige Fach zu erfassen ist, indem das Praktikum erfolgte, also im 1. oder 2. Halbjahr.
+Das Thema der betrieblichen Lernaufgabe erfassen Sie bitte im Feld `Schüler > Zeugnis > Leistungen > Beurteilung`. Wichtig ist zu beachten, dass das Thema in dem Halbjahr für das jeweilige Fach zu erfassen ist, indem das Praktikum erfolgte, also im 1. oder 2. Halbjahr. Der korrekte Eintrag des Themas entscheidet u.a. mit über die Ausgabe des Praktikums (Lernfeld, Note, Dauer, Thema).
 
 ### Benotung betriebliche Lernaufgabe
 
@@ -252,55 +303,6 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<DerSchueler_DieSchuelerin>>`` | Der Schüler/Die Schülerin je nach Geschlecht des Schülers) ``
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
 ``<<DemSchueler_DerSchuelerin>> `` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
-
-## Ausbildung
-
-`Schüler > Ausbildung > Ausbildungsbetriebe > Praxisbetrieb`
-
-Tragen Sie den Betrieb des Praktikums im Menü `Schüler > Ausbildung` im Bereich „Praxibetrieb“ ein. Wenn Sie die Schaltfläche "+" oder "Editieren" anklicken, können Sie einen Praxisbetrieb zuweisen bzw. bearbeiten. Im Feld "Praxisbetrieb" hinterlegen Sie den Betrieb. 
-Erfassen Sie im Feld "Bildungsgang" den Bildungsgang. 
-
-Hinweis: Am Bildungsgang können verschiedene Berufsfelder hängen. 
-
-Legen Sie zunächst die möglichen Berufsfelder Ihrer Schule im `Schlüsselverzeichnis > Berufsfelder` an, der Bericht fragt den Eintrag aus dem Feld "Bezeichnung" ab. 
-
-Kürzel | Schlüssel | Bezeichnung
---|--|--
-WirtVerw (beliebig) | 01 (beliebig) | Wirtschaft und Verwaltung 
-Metalltech(beliebig) | 02 (beliebig)| Metalltechnik 
-Elektrote (beliebig)| 03 (beliebig) | Elektrotechnik 
-Bautech (beliebig)| 04 (beliebig) | Bautechnik 
-Holztech (beliebig)| 05 (beliebig) | Holztechnik 
-Textiltech (beliebig)| 06 (beliebig)| Textiltechnik/ Bekleidung 
-ChPhyBio (beliebig)| 07 (beliebig) | Chemie, Physik, Biologie 
-Drucktech (beliebig)| 08 (beliebig)| Drucktechnik 
-Farbtech (beliebig)| 09 (beliebig)| Farbtechnik/ Raumgestaltung 
-Gesundh (beliebig)| 10 (beliebig)| Gesundheit 
-Körperpfl (beliebig)| 11 (beliebig) | Körperpflege 
-Ernähr/HW (beliebig)| 12 (beliebig) | Ernährung/ Hauswirtschaft 
-Agrarwirt (beliebig)| 13 (beliebig) | Agrarwirtschaft
-SozPflege (beliebig)| 14 (beliebig) | Sozialpäd. Pflegerischer Dienst 
-Sonstige (beliebig) | 15 (beliebig)| Sonstige/ mehrere Berufsfelder 
-
-Definieren Sie danach im `Schlüsselverzeichnis > Bildungsänge` Ihre Bildungsgänge, weisen Sie hier je Bildungsgang im Feld "Berufsfeld" ein Berufsfeld zu, folgende Bsp.:
-
-Kürzel | Schlüssel | Bezeichnung | Berufsfeld |
---|--|--|--|
-IBA.WuV | leer | IBA | WuV|
-IBA.Ges | leer | IBA | Ges|
-IBA.EuH | leer | IBA | EuH|
-
-Je nachdem im welchen Berufsfeld der Schüler sein Praktikum absolviert, tragen Sie den dafür angelegten Bildungsgang ein.
-
-Erfassen Sie weiterhin in den Feldern "Praxis von" und "bis" den Zeitraum des Praktikums und die Vertragsnummer wie folgt:
-
-Eintrag für | Eingabe wie folgt
---|--
-1. Praktikum | LA1HJ1 
-2. Praktikum | LA2HJ1 oder LA2HJ2
-3. Praktikum | LA3
-
-Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die auch benotet wird, dem 1./2./3 Betriebspraktikum zuordnen. Zudem wird ein Bezug des Betriebspraktikums zum HJ1 bzw. HJ2 hergestellt.
 
 ## Benotung
 
