@@ -243,6 +243,7 @@ nav:
         - Abi (Ergebnisliste): berichte/zeugnisse/allgemein/Abi (Ergebnisliste).md
         - Abi-Übersicht-Prüfungsergebnisse: berichte/zeugnisse/allgemein/Abi-Übersicht-Prüfungsergebnisse.md
         - KMK-Fremdsprachenzertifikat: berichte/zeugnisse/allgemein/KMK-Fremdsprachenzertifikat.md
+        - Schüler (Nachmahnung): berichte/zeugnisse/allgemein/Schüler (Nachmahnung).md
         - Schüler (Wiederholer innerhalb eines Schuljahres): berichte/zeugnisse/allgemein/Schüler (Wiederholer innerhalb eines Schuljahres).md
         - Schüler (Zeitraumübergreifende Notenübersicht): berichte/zeugnisse/allgemein/Schüler (Zeitraumübergreifende Notenübersicht).md
         - Schülerliste (Abi Statusanzeige): berichte/zeugnisse/allgemein/Schülerliste (Abi Statusanzeige).md
@@ -1175,7 +1176,6 @@ nav:
       - Schüler (Anzahl Schüler je Herkunftsschulen): berichte/schueler/Schüler (Anzahl Schüler je Herkunftsschulen).md
       - Schüler (Anzeige Schulpflichtverletzung): berichte/schueler/Schüler (Anzeige Schulpflichtverletzung).md
       - Schüler (Bescheinigung-Laufbahn): berichte/schueler/Schüler (Bescheinigung-Laufbahn).md
-      - Schüler (Nachmahnung): berichte/schueler/Schüler (Nachmahnung).md
       - Schüler (gruppiert nach Herkunftsschulen): berichte/schueler/Schüler (gruppiert nach Herkunftsschulen).md
       - Schüler BBS(Zeitraumübergreifende Notenübersicht): berichte/schueler/Schüler BBS(Zeitraumübergreifende Notenübersicht).md
       - Schüler mit Herkunftsschulen u letzte Klasse: berichte/schueler/Schüler mit Herkunftsschulen u letzte Klasse.md

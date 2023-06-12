@@ -1,5 +1,17 @@
 ﻿# Schüler (Nachmahnung)
 
+## Seite 1
+
+<img src="/assets/images/zeugnis/001.png">
+
+## Seite 2
+
+<img src="/assets/images/zeugnis/001.png">
+
+## Ausdruck
+
+Das Zeugnis muss aus dem Menü `Schüler` mit `STRG+Z` gedruckt werden.
+
 ## Schuldaten
 
 `Mandanten > Daten > Name 1`
@@ -24,10 +36,6 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
 
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
-
 ## Systemdatum
 
 Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
@@ -37,10 +45,6 @@ Auf dem Zeugnis/Bericht wird das Systemdatum ausgegeben.
 `Lehrer > Daten 2 > Dienstbez.`
 
 Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez." ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
-
-## Ausdruck
-
-Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werden.
 
 ## Anrede LehrerIn
 
@@ -53,4 +57,3 @@ Weisen Sie die Anrede des Lehrers im Menü `Lehrer > Daten 1` im Feld "Anrede" z
 `Schüler > Zeugnis > Leistungen > Mahnung (Nachmahnung)`
 
 Die Fächer für die "Nachmahnung" weisen Sie dem jeweiligen Schüler im Menü `Schüler > Zeugnis > Fächer` zu. Im Menü `Schüler > Zeugnis > Leistungen` weisen Sie diesen Fächern aus dem Aufklappmenü im Feld "Mahnung" den Wert "Nachmahnung" zu.
-
