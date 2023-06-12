@@ -34,6 +34,13 @@ Kürzel|Bezeichnung|Wert|Notenart
 --|--|--|--
 **-**|beliebig|leer|Füllwert
 
+## vierstündige Fächer
+
+`Abitur > Qualifikation > Q1-Q4`<br/>`Abitur > Qualifikation > Q1Bestanden-Q4Bestanden`
+
+Werden Kurse vierstündig unterrichtet, ist auch ein zweizeilige Darstellung der Ergebnisse möglich. Legen Sie dafür bitte die Fachzeile doppelt an und erfassen je Zeile bitte die Note und das Ergebnis aus `Qualifikation > Q1Bestanden-Q4Bestanden`.
+
+Beispiel: Sport (SP) wird in den ersten beiden Halbjahren vierstündig unterrichtet, der Schüler besteht beide Kurse und erhält jeweils 13 Punkte. Sie legen zwei Zeilen mit dem identischen Fach an (im Beispiel zweimal SP), erfassen in einer Zeile für Q1 und Q2 jeweils 13 Punkte. In der zweiten Zeile tragen Sie für Q1 und Q4 bitte die Note "-" und erfassen für Q1Bestanden und Q2Bestanden bitte "Bestanden(P)".
 
 ## Fremdsprachen, Sprachreferenz, Latinum
 

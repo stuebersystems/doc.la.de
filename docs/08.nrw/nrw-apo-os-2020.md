@@ -126,7 +126,6 @@ Prüfungen können für die GH-Kurse des 3. Prüfungsfach und/oder 4. Prüfungsf
 
 ![Darstellung](/assets/images/nrw.bielefeld/04.png)
 
-
 Merkmal|Bedeutung|
 -----|-----|
 Q1Q2 | Q1 und Q2 werden für die Prüfung eingebracht, das Fach selbst wird aber für die Prüfung nicht angezeigt|
