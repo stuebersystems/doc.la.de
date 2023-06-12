@@ -39,25 +39,23 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflichtbereich
 
-## Präsentationsprüfung
+## Prüfungsnoten
 
-Für die Ausgabe des Faches der Präsentationsprüfung weisen Sie diesem Fach im Menü `Schüler > Zeugnis > Fächer` im Feld "Fachstatus" den Eintrag "4PF" zu. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
+Seite 3
 
-Kürzel | Schlüssel | Zeugnisbereich
---|--|--
-4PF | 4PF | 4. Prüfungsfach
+`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`<br/>`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`<br/>`Schüler > Zeugnis > Fächer > Fachstatus`<br/>`Schüler > Zeugnis > Fächer > Position`<br/>`Schüler > Zeugnis > Leistungen > Endnote`<br/>`Schüler > Zeugnis > Leistungen > Endnote(Gesamt)`<br/>`Schüler > Zeugnis > Leistungen > schriftlNote4`<br/>`Schüler > Zeugnis > Leistungen > mdlNote`
 
-Die Noten der Präsentationsprüfung erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` in folgenden Feldern:
+Die Fächer und Noten für Mathematik, Deutsch, die 1.Fremdsprache und die Präsentationsprüfung werden ausgegeben, wenn folgende Bedingungen erfüllt sind.
 
-Spalte | Note für..
---|--
-Endnote (Gesamt) | Gesamtnote
-Schriftl. Note 1 | Präsentationsprüfung
-Mündl. Note | ggf. zusätzliche mündliche Prüfung
+Fach|Aufgabenbereich|Fachstatus|Position|Gesamtnote|Schriftlich|mündlich
+--|--|--|--|--|--|--
+Deutsch|sprachlich-lit-künstl|-|1|Endnote1|SchriftNote4|mdlNote
+Mathematik|mathem-nat|-|10|Endnote1|SchriftNote4|mdlNote
+1FS|sprachlich-lit-künstl|-|2|Endnote1|SchriftNote4|mdlNote
+Präsentations-<br/>prüfung|-|4PF|beliebig|Endnote(Gesamt)|-|-
+
 
 ## Benotung im Fach Deutsch
-
-Seite 2
 
 `Schüler > Zeugnis > Leistungen > Deutsch`
 

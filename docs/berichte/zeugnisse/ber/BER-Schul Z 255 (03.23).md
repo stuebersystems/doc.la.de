@@ -1,4 +1,4 @@
-﻿# BER-Schul Z 255 (2019.2020)
+﻿# BER-Schul Z 255 (03.23)
 
 Schul Z 255 – Zeugnis des Gymnasiums über die erweiterte Berufsbildungsreife
 
@@ -39,23 +39,25 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflichtbereich
 
-## Prüfungsnoten
+## Präsentationsprüfung
 
-Seite 3
+Für die Ausgabe des Faches der Präsentationsprüfung weisen Sie diesem Fach im Menü `Schüler > Zeugnis > Fächer` im Feld "Fachstatus" den Eintrag "4PF" zu. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
 
-`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`<br/>`Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`<br/>`Schüler > Zeugnis > Fächer > Fachstatus`<br/>`Schüler > Zeugnis > Fächer > Position`<br/>`Schüler > Zeugnis > Leistungen > Endnote`<br/>`Schüler > Zeugnis > Leistungen > Endnote(Gesamt)`<br/>`Schüler > Zeugnis > Leistungen > schriftlNote4`<br/>`Schüler > Zeugnis > Leistungen > mdlNote`
+Kürzel | Schlüssel | Zeugnisbereich
+--|--|--
+4PF | 4PF | 4. Prüfungsfach
 
-Die Fächer und Noten für Mathematik, Deutsch, die 1.Fremdsprache und die Präsentationsprüfung werden ausgegeben, wenn folgende Bedingungen erfüllt sind.
+Die Noten der Präsentationsprüfung erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` in folgenden Feldern:
 
-Fach|Aufgabenbereich|Fachstatus|Position|Gesamtnote|Schriftlich|mündlich
---|--|--|--|--|--|--
-Deutsch|sprachlich-lit-künstl|-|1|Endnote1|SchriftNote4|mdlNote
-Mathematik|mathem-nat|-|10|Endnote1|SchriftNote4|mdlNote
-1FS|sprachlich-lit-künstl|-|2|Endnote1|SchriftNote4|mdlNote
-Präsentations-<br/>prüfung|-|4PF|beliebig|Endnote(Gesamt)|-|-
-
+Spalte | Note für..
+--|--
+Endnote (Gesamt) | Gesamtnote
+Schriftl. Note 1 | Präsentationsprüfung
+Mündl. Note | ggf. zusätzliche mündliche Prüfung
 
 ## Benotung im Fach Deutsch
+
+Seite 2
 
 `Schüler > Zeugnis > Leistungen > Deutsch`
 
