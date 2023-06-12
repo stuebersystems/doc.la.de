@@ -20,6 +20,21 @@ Bitte erfassen Sie im Menü `Mandanten` den `Ort` und den `Schulleiter`. Achten 
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein. Hierfür steht Ihnen auch auf der selben Karte der Aufruf für eine Sammelzuweisung zur Verfügung.
 
+## Spalte Punkte (X oder Note)
+
+`Extras > Schlüsselverzeichnisse > Noten` <br/>`Abitur > Qualifikation > Q1-Q4`<br/>`Abitur > Qualifikation > Q1Bestanden-Q4Bestanden`
+
+Der Bericht gibt für eingebrachte Kurse (gelbe Markierung auf der Qualifikationskarte) die erfasste Punktzahl aus. 
+Wurde ein belegter Kurs nicht bewertet, nutzen Sie bitte die Note "-".
+Ist der Kurs bestanden, kennzeichnen Sie unter `Qualifikation > Q1Bestanden-Q4Bestanden` den Kurs mit "Bestanden (P)", diese Information wird für nicht eingebrachte Kurse als "X" ausgegeben.
+
+Eintrag im Notenverzeichnis:
+
+Kürzel|Bezeichnung|Wert|Notenart
+--|--|--|--
+**-**|beliebig|leer|Füllwert
+
+
 ## Fremdsprachen, Sprachreferenz, Latinum
 
 ### Fremdsprachenfolge
@@ -82,7 +97,6 @@ Unterrichtsart:
 Kürzel|Schlüssel|Bezeichnung
 --|--|--
 Pr|**PR**|Projekt
-
 
 ### Fachpositionen
 
