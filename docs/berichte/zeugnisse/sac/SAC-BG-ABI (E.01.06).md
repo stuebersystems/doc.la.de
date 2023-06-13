@@ -2,6 +2,45 @@
 
 E.01.06 Zeugnis der allgemeinen Hochschulreife
 
+## Allgemeines
+
+### Ausdruck
+
+Das Zeugnis/der Bericht muss aus dem Menü "Abitur" als Zeugnis mit S`TRG+Z` oder `Drucken > Zeugniss`e gedruckt werden
+
+### Schulname 
+
+`Mandanten > Daten > Name 1`
+
+Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
+1" ein.
+
+### Mandanten / Ort
+
+`Mandanten > Daten 1 > Ort`
+
+Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
+
+### Prüfungsvorsitz 
+
+`Schüler > Zeugnis > Details > Prüfungsvorsitz`
+
+Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü Lehrer zurück.
+
+### Zeugnisdatum 
+
+`Abitur > Prüfung > Zeugnisdatum`
+
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
+
+### Zugang am / Abgang am 
+
+`Schueler > Daten 2 > Zugang am und/oder Abgang am`
+
+Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
+
+## Fachstatus, Aufgabenbereich, Unterrichtsart, Position
+
 ## Fachstatus 
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
@@ -18,7 +57,7 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 4PF | 4PF | 4. Prüfungsfach
 5PF | 5PF | 5. Prüfungsfach (wenn Präsentationsprüfung)
 
-## Aufgabenbereich
+### Aufgabenbereich
 
 `Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
@@ -31,13 +70,7 @@ sprachl.-lit.-künstlerisch | Sprachlich-literarisch-künstlerisches Aufgabenfel
 gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 
-## Zugang am / Abgang am 
-
-`Schueler > Daten 2 > Zugang am und/oder Abgang am`
-
-Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü Schüler > Daten 2 im Feld "Zugang am" bzw. "Abgang am" ein.
-
-## Unterrichtsarten
+### Unterrichtsarten
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -50,58 +83,61 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-## Fremdsprachenfolge 
+### Eintrag im Feld "Position"
+
+`Schüler > Zeugnis > Fächer` bzw. `Abitur > Qualifikation` 
+
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte `Zeugnis > Fächer` bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro Fach eine Position in der Spalte "Position" angegeben werden.
+
+## Fremdsprachen
+
+### Fremdsprachenfolge 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-`Extras > Schlüsselverzeichnisse > Bildungsgänge` UND `Extras > Schlüsselverzeichnisse > Berufsfelder`
+### "Feststellungsprüfung in der Herkunftssprache"
 
-Weisen Sie unter `Schlüsselverzeichnisse > Bildungsgänge` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage das `Schlüsselverzeichnis > Berufsfelder`.
+`Schüler > Zeugnis > Bemerkungen/Formulare`
 
-## Berufsfeld der Klasse
+Für die Ausgabe des Satzes "<Der Schüler hat die Belegungsverpflichtung in der zweiten Fremdsprache durch Bestehen einer Feststellungsprüfung in der Herkunftssprache ersetzt.>" unter Bemerkungen gehen Sie wie folgt vor.
+
+Definieren Sie im `Schlüsselverzeichnis > Zeugnisbemerkungen` folgende Bemerkung:
+
+``<<DerSchueler_DieSchuelerin>>`` hat die Belegungsverpflichtung in der zweiten Fremdsprache durch Bestehen einer Feststellungsprüfung in der Herkunftssprache ersetzt.
+
+Weisen Sie danach dem Schüler individuell diese Zeugnisbemerkung zu. Aufgrund der Platzhalter in der Bemerkung wird in Abhängig vom Geschlecht des Schülers "Die Schülerin" oder "Der Schüler"… ausgegeben.
+
+## keine 2 Fremdsprache, Ausgabe Zeugnisbemerkung 
+
+`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+
+Haben Sie im Menü `Schüler > Daten 3` keine 2 Fremdsprache hinterlegt, wird folgender Satz unter den Bemerkungen auf dem Zeugnis unterdrückt:
+
+````*Das in *ZWEITE FREMDSPRACHE* erreichte Sprachniveau entspricht der Stufe <B1/B2> des Gemeinsamen europäischen Referenzrahmens.*````
+
+![Zeugnisvorlage E.01.06 Seite 4](/assets/images/Sachsen/bild01.png)
+
+### Sprachreferenzen
+
+`Schüler > Daten 3 > Fremdsprachefolge > Referenz`
+
+Bitte tragen Sie im Menü Schüler > Daten 3 > Fremdsprachefolge im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das Schlüsselverzeichnis > Sprachreferenzen. Vom Bericht wird das Kürzel abgefragt.
+
+## Berufsfeld
+
+### Berufsfeld der Klasse
 
 `Klassen > Daten > Berufsfeld`
 
 Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Feld "Berufsfeld" zu. Grundlage bildet das `Schlüsselverzeichnis > Berufsfelder`.
 
-## Berufsfeld Klasse oder Schüler Berufsfeld
+### Eintrag bei Klasse oder Schüler
 
- `Klasse > Berufsfeld` ODER `Schüler > Ausbildung > Berufsfeld`
+`Klasse > Berufsfeld` ODER `Schüler > Ausbildung > Berufsfeld`
 
 Für die Ausgabe des Berufsfeldes müssen Sie entweder das Berufsfeld einer Klasse definieren oder das des Schülers.
-
-## Schulname 
-
-`Mandanten > Daten > Name 1`
-
-Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
-1" ein.
-
-## Zeugnisbemerkungen Abitur
-
-`Abitur > Zeugnis >Zeugnisbemerkungen`
-
-Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
-
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü "Abitur" gedruckt werden.
-
-Fächerpositionierung 
-
-`Schüler > Zeugnis > Fächer` bzw. `Abitur > Qualifikation` 
-
-## Eintrag im Feld "Position"
-
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte `Zeugnis > Fächer` bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro Fach eine Position in der Spalte "Position" angegeben werden.
-
-## Zeugnisdatum 
-
-`Abitur > Prüfung > Zeugnisdatum`
-
-Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
 ## 5. Prüfungskomponente 
 
@@ -124,37 +160,27 @@ Beachten Sie bitte, dass Sie Fächern, die in der Klasse 11 abgeschlossen wurden
 
 Das Zeugnis gibt Fächer, für die keine Noten nach Klassenstufe 11 erfasst wurden als abgeschlossen in Klasse 11 aus. Bitte achten Sie darauf, dass auf der Karte `Abitur > Qualifikation` nur vom Schüler belegte Fächer erfasst sind, bitte löschen Sie ggfs. nicht belegte Fächer des Schülers.  
 
-## Mandanten / Ort
-
-`Mandanten > Daten 1 > Ort`
-
-Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
-
-## Prüfungsvorsitz 
-
-`Schüler > Zeugnis > Details > Prüfungsvorsitz`
-
-Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü Lehrer zurück.
-
 ## zusätzlichen mündliche Prüfungen 
 
 `Abitur > Prüfung > 2. mündl. Note`
 
-Im Falle einer zusätzlichen mündliche Prüfungen tragen Sie diese Noze im Menü Abitur > Prüfung in den entsprechenden Feldern unter "2. mündl. Note" ein. Eine Zusätzliche mündliche Prüfung ist in den Prüfungsfächern 1 bis 5 möglich.
+Im Falle einer zusätzlichen mündliche Prüfungen tragen Sie diese Noze im Menü `Abitur > Prüfung` in den entsprechenden Feldern unter "2. mündl. Note" ein. Eine Zusätzliche mündliche Prüfung ist in den Prüfungsfächern 1 bis 5 möglich.
 
-## Sprachreferenzen
+## Zeugnisbemerkungen
 
-`Schüler > Daten 3 > Fremdsprachefolge > Referenz`
-
-Bitte tragen Sie im Menü Schüler > Daten 3 > Fremdsprachefolge im Feld "Referenz" das Referenzniveau der Fremdsprache ein. Grundlage bildet das Schlüsselverzeichnis > Sprachreferenzen. Vom Bericht wird das Kürzel abgefragt.
-
-## Zeugnisbemerkungen vordefinieren
+### Zeugnisbemerkungen vordefinieren
 
 `Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
 Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
 
-## Personalisierung Zeugnisbemerkungen
+### Zeugnisbemerkungen Abitur
+
+`Abitur > Zeugnis >Zeugnisbemerkungen`
+
+Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
+
+### Personalisierung
  
 `Schüler > Zeugnis > Bemerkungen/Formulare` / `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` / `Berufsschule > Zeugnisbemerkungen`
 
@@ -183,7 +209,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>>`` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
 ``<<DemSchueler_DerSchuelerin>>`` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-## Bemerkungstext Feststellungsprüfung in der Herkunftssprache 
+### "Feststellungsprüfung in der Herkunftssprache"
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`
 
@@ -195,14 +221,12 @@ Definieren Sie im `Schlüsselverzeichnis > Zeugnisbemerkungen` folgende Bemerkun
 
 Weisen Sie danach dem Schüler individuell diese Zeugnisbemerkung zu. Aufgrund der Platzhalter in der Bemerkung wird in Abhängig vom Geschlecht des Schülers "Die Schülerin" oder "Der Schüler"… ausgegeben.
 
-keine 2 Fremdsprache, Ausgabe Zeugnisbemerkung 
+### keine 2 Fremdsprache, Ausgabe Zeugnisbemerkung 
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
 
 Haben Sie im Menü `Schüler > Daten 3` keine 2 Fremdsprache hinterlegt, wird folgender Satz unter den Bemerkungen auf dem Zeugnis unterdrückt:
 
-*Das in *ZWEITE FREMDSPRACHE* erreichte Sprachniveau entspricht der Stufe <B1/B2> des Gemeinsamen europäischen Referenzrahmens.*
+````*Das in *ZWEITE FREMDSPRACHE* erreichte Sprachniveau entspricht der Stufe <B1/B2> des Gemeinsamen europäischen Referenzrahmens.*````
 
 ![Zeugnisvorlage E.01.06 Seite 4](/assets/images/Sachsen/bild01.png)
-
-
