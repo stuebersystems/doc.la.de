@@ -4,7 +4,7 @@
 
 ## Abbildung
 
-<img src="/assets/images/berlin/ber-1a.png">
+<img src="/assets/images/Berlin/ber-1a.png">
 
 ## Ausdruck
 
