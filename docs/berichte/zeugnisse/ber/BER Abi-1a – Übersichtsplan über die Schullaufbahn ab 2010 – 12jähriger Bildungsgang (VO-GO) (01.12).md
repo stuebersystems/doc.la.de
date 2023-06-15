@@ -8,6 +8,11 @@
 
 ![BER Abi-1a – Übersichtsplan über die Schullaufbahn ab 2010 – 12jähriger Bildungsgang (VO-GO) (01.12).rpt][01]
 
+
+![BER Abi-1a](/assets/images/berlin/ber-1a.png)
+
+![Betriebspraktikum](/assets/images/berlin/iba08.png)
+
 ## Ausdruck
 
 `Menü Abitur > Schüler markieren > STRG+Z`
