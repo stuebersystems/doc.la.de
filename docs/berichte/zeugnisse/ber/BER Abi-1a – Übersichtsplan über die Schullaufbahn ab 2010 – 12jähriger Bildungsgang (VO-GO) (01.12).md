@@ -2,7 +2,27 @@
 
 Übersichtsplan über die Schullaufbahn ab 2010 – 12jähriger Bildungsgang (VO-GO)** (01.12)
 
-## Fachstatus
+## Ausdruck
+
+`Ausdruck`
+
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
+
+## Schriftart
+
+Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
+
+## Jahr des Eintritts in die Q-Phase
+
+`Klassen > Zeiträume > Jahrgang`<br/>`Schlüsselverzeichnisse > Zeiträume > Von`
+
+Bitte achten Sie darauf, dass der `Jahrgang` für die Klassenzeiträume unter `Klassen > Zeiträume` gefüllt ist. 
+Das Jahr wird aus dem kleinsten Klassenzeitraum, dem den `Jahrgang` 11 zugeordnet wurde abgeleitet. 
+
+## Fachstatus, Unterrichtsart
+
+### Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -23,7 +43,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 BLL |BLL |5. Prüfungskomponente Besondere Lernleistung 
 PRS |PRS |5. Prüfungskomponente Präsentationsprüfung
 
-## Unterrichtsarten
+### Unterrichtsarten
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -48,25 +68,12 @@ Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen i
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-## Ausdruck
-
-`Ausdruck`
-
-Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
-
-## Schriftart
-
-Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
 ## Fächerpositionierung
 
 `Schüler > Zeugnis > Fächer > Position``
 
 Die Reihenfolge der Fächer auf dem Zeugnis richtet sich nach der Positionsnummer, die Sie dem jeweiligen Fach in der Spalte "Position" vergeben haben.
-
-## Ausdruck
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 ## Datum Rücktritt
 
