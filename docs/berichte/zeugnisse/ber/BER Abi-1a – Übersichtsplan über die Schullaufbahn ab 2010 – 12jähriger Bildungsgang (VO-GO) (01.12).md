@@ -1,17 +1,10 @@
 # BER Abi-1a – Übersichtsplan über die Schullaufbahn ab 2010 – 12jähriger Bildungsgang (VO-GO) (01.12).rpt
 
-[01]:/assets/images/berlin/ber-1a.png "BER Abi-1a – Übersichtsplan über die Schullaufbahn ab 2010 – 12jähriger Bildungsgang (VO-GO) (01.12).rpt"
-
-Übersichtsplan über die Schullaufbahn ab 2010 – 12jähriger Bildungsgang (VO-GO)** (01.12)
+Übersichtsplan über die Schullaufbahn ab 2010 – 12jähriger Bildungsgang (VO-GO) (01.12)
 
 ## Abbildung
 
-![BER Abi-1a – Übersichtsplan über die Schullaufbahn ab 2010 – 12jähriger Bildungsgang (VO-GO) (01.12).rpt][01]
-
-
 ![BER Abi-1a](/assets/images/berlin/ber-1a.png)
-
-![Betriebspraktikum](/assets/images/berlin/iba08.png)
 
 ## Ausdruck
 
