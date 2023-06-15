@@ -1,14 +1,16 @@
 # BER Abi-1a – Übersichtsplan über die Schullaufbahn ab 2010 – 12jähriger Bildungsgang (VO-GO) (01.12).rpt
 
+[01]:/assets/images/Berlin/ber-1a.png "BER Abi-1a – Übersichtsplan über die Schullaufbahn ab 2010 – 12jähriger Bildungsgang (VO-GO) (01.12).rpt"
+
 Übersichtsplan über die Schullaufbahn ab 2010 – 12jähriger Bildungsgang (VO-GO)** (01.12)
 
 ## Abbildung
 
-![BER Abi-1a – Übersichtsplan über die Schullaufbahn ab 2010 – 12jähriger Bildungsgang (VO-GO) (01.12).rpt](/assets/images/Berlin/ber-1a.png)
+![BER Abi-1a – Übersichtsplan über die Schullaufbahn ab 2010 – 12jähriger Bildungsgang (VO-GO) (01.12).rpt][01]
 
 ## Ausdruck
 
-`Ausdruck`
+`Menü Abitur > Schüler markieren > STRG+Z`
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
