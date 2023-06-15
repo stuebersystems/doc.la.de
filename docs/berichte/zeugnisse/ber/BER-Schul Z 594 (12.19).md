@@ -237,7 +237,7 @@ Eintrag für | Eingabe wie folgt
 
 Anhand der Vertragsnummer kann der Bericht die "Betriebliche Lernaufgabe", die auch benotet wird, dem 1./2./3 Betriebspraktikum zuordnen. Zudem wird ein Bezug des Betriebspraktikums zum HJ1 bzw. HJ2 hergestellt.
 
-![Betriebspraktikum](/assets/images/Berlin/iba08.png)
+![Betriebspraktikum](/assets/images/berlin/iba08.png)
 
 ### Bestehen oder nicht Bestehen des Betriebspraktikums
 
