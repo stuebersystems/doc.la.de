@@ -4,7 +4,7 @@
 
 ## Abbildung
 
-![BER Abi-1a](/assets/images/berlin/ber1a.png)
+![BER Abi-1a](/assets/images/berlin/ber_1a.png)
 
 ## Ausdruck
 
