@@ -1,10 +1,16 @@
-# Jahreszeugnis
+# BAW-GY-JZ (Birklehof).md
+
+
+
+
 
 ## Ausdruck
 
 Dieser Bericht wird als Zeugnis gedruckt aus dem Menü `Schüler` gedruckt. Bitte markieren Sie die gewünschten Schüler und rufen den Druck mit `STRG+Z` oder über `Drucken  > Zeugnisse` auf.
 
 ## Seite 1
+
+![Seite 1](/assets/images/baw/bh1.png)
 
 ### Zeugniskopf
 
@@ -107,9 +113,46 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 ## Seite 2
 
+![Seite 1](/assets/images/baw/bh1.png)
+
 ### Verbalbeurteilung
 
+`Schüler > Zeugnis > Leistungen > Beurteilung`
+
+Wenn eine zusätzliche Beurteilung für ein Fach gewünscht ist, erfassen Sie diese bitte je Fach unter `Schüler > Zeugnis > Leistungen > Beurteilung`.
+
 ### Weiteres Engagement
+
+Erfassen Sie bitte für die Einträge unter "Weiteres Engagement" Bemerkungen unter `Schüler > Zeugnis > Bemerkungen/Formulare`. Jeder Bemerkung weisen Sie bitte eine Position zu, die sich nicht doppeln darf. Um die Bemerkung nicht im allgemeinen Bemerkungsbereich auszugeben, tragen Sie bitte im Zeugnismerkmal `VB` ein. 
+
+#### Platzhalter
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` 
+
+Bemerkungen legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` an.
+Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
+Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B. so:  ````<<hier steht Ihr Platzhalter>>````. 
+
+Möglich sind:
+
+Platzhalter in MAGELLAN | Anzeige im Bericht
+--|--
+``<<Vorname>>`` | Vorname
+``<<VornameV>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+``<<Name>>`` | Vorname Vorname2 Namenszusatz Nachname
+``<<Er_Sie>>`` | Er/Sie (je nach Geschlecht des Schülers)
+``<<er_sie>>`` | er/sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)   
+``<<seine_ihre>>`` | seine/ihre (je nach Geschlecht des Schülers) 
+``<<Ihm_Ihr>>`` | Ihm/Ihr (je nach Geschlecht des Schülers) 
+``<<ihm_ihr>>`` | ihm/ihr (je nach Geschlecht des Schülers) 
+``<<Seinen_Ihren>>`` | Seinen/Ihnen (je nach Geschlecht des Schülers) 
+``<<seinen_ihren>>`` | seinen/ihnen (je nach Geschlecht des Schülers) 
+``<<DerSchueler_DieSchuelerin>>`` | Der Schüler/Die Schülerin je nach Geschlecht des Schülers)
+``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
+``<<DemSchueler_DerSchuelerin>> `` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
 ### Zeugnisfuß Seite 2
 
