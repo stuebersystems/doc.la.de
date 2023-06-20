@@ -165,6 +165,6 @@ Feld| Quelle
 --|--
 Versetzt nach| Der Wert wird aus `Klasse > Zeiträume > Jahrgang` gelesen und um 1 Jahr erhöht.
 Ort|Der Ort wird in Magellan unter `Mandanten > Daten > Ort` ausgelesen.
-Datum|Das Zeugnisdatum wird unter `Schüler > Zeugnis > Details > Zeugnisdatum` ausgelesen.
+Datum|Das Zeugnisdatum wird unter `Schüler > Zeugnis > Details > Zeugnisdatum` ausgelesen. Bitte nutzen Sie die Sammelzuweisung.
 Klassenlehrer| Der Klassenlehrer wird unter `Klasse > Zeiträume > Klassenleiter1` erwartet. Bitte prüfen Sie, ob unter `Lehrer > Geschlecht` der korrekte Eintrag erfolgte.
 Schulleiter|Der Schulleiter wird unter `Mandanten > Daten > Schulleiter` erwartet. Bitte prüfen Sie, ob unter `Lehrer > Geschlecht` der korrekte Eintrag erfolgte.
