@@ -119,7 +119,12 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 `Schüler > Zeugnis > Leistungen > Beurteilung`
 
-Wenn eine zusätzliche Beurteilung für ein Fach gewünscht ist, erfassen Sie diese bitte je Fach unter `Schüler > Zeugnis > Leistungen > Beurteilung`.
+Wenn eine zusätzliche Beurteilung für ein Fach gewünscht ist, erfassen Sie diese bitte je Fach unter `Schüler > Zeugnis > Leistungen > Beurteilung`. Das Fach muss nicht Teil der Beurteilung sein, wir geben das Fach bereits mit einem Doppelpunkt aus.
+
+Beispiel:
+* Mathematik: Text der verbalen Beurteilung
+
+Der Aufzählungspunkt, das Fach "Mathematik" und der Doppelpunkt dahinter werden vom Bericht erzeugt.
 
 ### Weiteres Engagement
 
