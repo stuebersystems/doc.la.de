@@ -173,7 +173,9 @@ Zur Prüfung der Leistungsart "Klausur" wird das Kürzel `Klausur` und die Leist
 
 Kürzel|Bezeichnung|Leistungsart
 --|--|--
-**Klausur**|Klausur|**schriftlich**
+**KL**|Klausur|**schriftlich**
+**FA**|Facharbeit|**schriftlich**
+**PR**|Projekt|beliebig
 
 ![Beispiel für angelegte Leistungsarten](\assets\images\nrw\01.png)
 

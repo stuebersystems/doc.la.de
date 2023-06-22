@@ -12,7 +12,15 @@ Bitte markieren Sie die Schüler im Menü `Abitur` und rufen den Bericht über S
 
 ## Mandanten
 
+## Ort und Schulleiter
+
 Bitte erfassen Sie im Menü `Mandanten` den `Ort` und den `Schulleiter`. Achten Sie bitte darauf, dass dem Lehrer, der als Schulleiter erfasst wird im Menü `Lehrer > Daten1` ein Eintrag im Feld `Geschlecht` zugewiesen wurde.
+
+## Wappen
+
+`Mandanten > Daten2 > Logo`
+
+Der Bericht gibt als Wappen die Bilddatei aus, die unter `Mandanten > Daten2 > Logo1` hinterlegt wurde.
 
 ## Zeugnisdatum
 
