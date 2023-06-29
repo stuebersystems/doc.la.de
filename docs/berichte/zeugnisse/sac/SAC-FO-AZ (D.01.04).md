@@ -2,7 +2,7 @@
 
 `Archiv`
 
-Bitte SAC-FOS-AZ (D.01.03).rpt verwenden
+Bitte SAC-FOS-FHReife (D.01.04)rpt verwenden
 
 ## Fachstatus 
 
