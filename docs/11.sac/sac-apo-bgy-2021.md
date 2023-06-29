@@ -22,7 +22,7 @@ Bitte legen Sie unter `Extras > Schlüsselverzeichnisse > Verordnungen` eine neu
 | Kürzel       | beliebig                                 |
 | Bezeichnung  | beliebig                                 |
 | Kategorie    | Abitur                                   |
-| Typ          | **BI** (*Fachrichtung Biotechnologie*) oder **ER** (*Fachrichtung Ernährungswissenschaft*) oder **WI** (*Fachrichtung Wirtschaftswissenschaft*) oder **AG** (*Verordnung Fachrichtung Agrarwissenschaft*) oder **leer** (*Fachrichtung Gesundheit und Sozialwesen, Informations- und Kommunikationstechnologie, Technikwissenschaft*)|
+| Typ          | Wählen Sie zw. `AG`, `BI`, `ER`, `WI`, `SO` oder lassen das Feld **leer**.|
 | Ab Jahrgang  | leer                                     |
 | Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server) |
 | Notenart 11  | Noten                                    |
@@ -31,6 +31,15 @@ Bitte legen Sie unter `Extras > Schlüsselverzeichnisse > Verordnungen` eine neu
 | Notenart BBS | leer                                     |
 | Gültig von   | leer                                     |
 | Gültig bis   | leer                                     |
+
+Spalte Typ|Fachrichtungen
+--|--
+AG|Agrarwissenschaft
+BI|Biotechnologie
+ER|Ernährungswissenschaft
+WI|Wirtschaft
+SO|Sozialwesen
+
 
 [![Schlüsselverzeichnis > Verordnungen][1]][1]
 
