@@ -2,7 +2,33 @@
 
 Schul Z 303 - Abgangszeugnis Qualifikationsphase - Gym, ISS, GS, BG (03.23).docx
 
-## Aufgabenbereich
+## Ausdruck
+
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
+
+## Mandant
+
+### Schulname
+
+`Mandanten > Daten > Name 1`
+
+Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name 1" ein.
+
+
+`Mandanten > Daten > Name 2`
+
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
+
+### Bezirk der Schule
+
+`Mandanten > Daten 1 > Name 3`
+
+Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
+
+## Aufgabenbereich, Unterrichtsarten, Fächer
+
+### Aufgabenbereich
 
 `Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`
 
@@ -15,7 +41,7 @@ gesellschaftswiss. | Gesellschaftswissenschaftliches Aufgabenfeld
 mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport | Sport
 
-## Unterrichtsarten
+### Unterrichtsarten
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -28,89 +54,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 LK | LK | Leistungskurse
 GK | GK | Grundkurse
 
-## Fremdsprachenfolge
-
-`Schüler > Daten 3 > Von/Bis`
- 
-Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
-
-
-
-## Fremdsprachenfolge
-
-`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
-
-Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
-
-## Schulname
-
-`Mandanten > Daten > Name 1`
-
-Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
-1" ein.
-
-## Zeugnisbemerkungen Abitur
-
-`Abitur > Zeugnis >Zeugnisbemerkungen`
-
-Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
-
-`Ausdruck`
-
-Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
-
-## Fächerpositionierung
-
- `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
-
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
-Fach eine Position in der Spalte "Position" angegeben werden. Dabei werden Fächer mit ungerader Positionsnummer links und Fächer mit gerader Positionsnummer rechts ausgegeben.
-
-## Bezirk der Schule
-
-`Mandanten > Daten 1 > Name 3`
-
-Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
-
-## Zeugnisdatum
-
-`Abitur > Prüfung > Zeugnisdatum`
-
-Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
-
-## Eintrittsjahr Einführungsphase
-
-Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
-
-## Ausdruck
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
-## Sprachkenntnisse
-
-`Abitur > Prüfung > Sprachkenntnisse`
-
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
-
-## weitere Bemerkungen zur Schullaufbahn
-
-`Abitur > Zeugnisbemerkungen > Merkmal (S_Lauf)`
-
-Für die Ausgabe weiterer Bemerkungen zur Schullaufbahn tragen Sie im Menü `Abitur >Zeugnisbemerkungen` eine Zeugnisbemerkung ein. Entscheidend ist die Eingabe in der Spalte „Merkmal“. Hier müssen Sie "S_Lauf" eintragen.
-
-## Zeugnisbemerkungen Menü `Abitur`
-
-`Abitur > Zeugnisbemerkungen`
-
-Für die Ausgabe weiterer Bemerkungen tragen Sie im Menü `Abitur > Zeugnisbemerkungen` den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
-
-## Ausgabe freiwilliger Unterrichtsveranstaltungen
-
-`Abitur > Zeugnisbemerkungen > Merkmal (freiw)`
-
-Für die Ausgabe freiwilliger Unterrichtsveranstaltungen tragen Sie im Menü `Abitur >Zeugnisbemerkungen` eine Zeugnisbemerkung ein. Entscheidend ist die Eingabe in der Spalte „Merkmal“. Hier müssen Sie "freiw" eintragen.
-
-## Fächerkategorie
+### Fächerkategorie
 
 `Extras > Schlüsselverzeichnisse > Fächer > Kategorie`
 
@@ -138,7 +82,33 @@ Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kate
 |SportTheorie|
 |Seminar|
 
-## vorgegebene Sprachreferenzen
+## Fremdsprache
+
+### Fremdsprachenfolge
+
+`Schüler > Daten 3 > Von/Bis` <br/>`Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
+ 
+Tragen Sie das Von/Bis (erwartet wird der Jahrgang) der belegten Fremdsprachen in den Feldern "von/bis" ein.
+Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
+
+### Sprachkenntnisse
+
+`Abitur > Prüfung > Sprachkenntnisse`
+
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
+
+### Fremdsprachennachweise
+
+`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+
+Hinweis zur Ausgabe der Fremdsprachennachweise:
+Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. 
+Gefiltert werden die alten Fremdsprachen:
+* Latein (`Schlüsselverzeichnis > Fächer > Spalte "Merkmal"` = LAT) und
+* Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer > Spalte "Merkmal"` = AGR). 
+Diese werden nicht ausgegeben.
+
+### Sprachreferenzen
 
 `Extras > Schlüsselverzeichnisse > Sprachreferenzen`
 
@@ -157,6 +127,28 @@ C2 | C2 | Annähernd muttersprachliche Kenntnisse
 
 Vom Bericht fragt den Eintrag aus dem Feld "Kürzel" ab.
 
+## Fächerpositionierung
+
+`Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
+
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
+Fach eine Position in der Spalte "Position" angegeben werden. Dabei werden Fächer mit ungerader Positionsnummer links und Fächer mit gerader Positionsnummer rechts ausgegeben.
+
+`Schüler > Zeugnis > Fächer > Position`
+
+Nummieren Sie die Positionen der Fächer fortlaufend. 
+Der Bericht setzt die Fächer entsprechend dieser Nummerierung auf zwei Spalten unter Berücksichtigung der max. Anzahl von Fächern pro Spalte laut Senatsvorlage.
+
+## Zeugnisdatum
+
+`Abitur > Prüfung > Zeugnisdatum`
+
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
+
+## Eintrittsjahr Einführungsphase
+
+Zur Ermittlung des Eintrittsdatums in die Einführungsphase der gymnasialen Oberstufe ist es zwingend erforderlich, dass Sie im Menü „Klassen“ bei der Klasse des Schülers auf der Registerkarte „Daten“ im Feld „Klassenart“ „Oberstufenjahrgang (Nur Kurse)“ oder "Oberstufenjahrgang (Grund- und Leistungskurse)" zugewiesen haben.
+
 ## Ausgabe Kurshalbjahr
 
 `Extras > Schlüsselverzeichnisse > Verordnungen`
@@ -166,31 +158,33 @@ Sie müssen für jeden Schüler die Abiturordnung angeben, die für ihn relevant
 Integrierter Sekundarschule tragen bitte in Spalte "Ab Jahrgang" eine 11 ein.
 Gymnasien tragen bitte in Spalte "Ab Jahrgang" eine 10 ein.
 
-## Fremdsprachennachweise
+## Zeugnisbemerkungen
 
-`Extras > Schlüsselverzeichnisse > Fächer > Merkmal (LAT, AGR)`
+### Eingabe
 
-Hinweis zur Ausgabe der Fremdsprachennachweise:
-Im Bericht wird abgefragt, ob es sich um eine moderne Fremdsprache handelt. 
-Gefiltert werden die alten Fremdsprachen:
-* Latein (`Schlüsselverzeichnis > Fächer > Spalte "Merkmal"` = LAT) und
-* Griechisch (Altgriechisch) (`Schlüsselverzeichnis > Fächer > Spalte "Merkmal"` = AGR). 
-Diese werden nicht ausgegeben.
+`Abitur > Zeugnis >Zeugnisbemerkungen`
 
-## Schulname
+Um dem Zeugnis eine Bemerkung zuzuordnen, tragen Sie im Menü "Abitur" unter "Zeugnis" im Feld "Zeugnisbemerkungen" den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-`Mandanten > Daten > Name 2`
+## Zeugnisbemerkungen Menü `Abitur`
 
-Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
+`Abitur > Zeugnisbemerkungen`
 
-## Fächerpositionierung
+Für die Ausgabe weiterer Bemerkungen tragen Sie im Menü `Abitur > Zeugnisbemerkungen` den entsprechenden Text ein. Zusätzlich muss jeder Bemerkung im Feld "Position" eine Reihenfolge zugewiesen werden. Z.B. für die erste Bemerkung eine 1, für die zweite eine 2 usw.
 
-`Schüler > Zeugnis > Fächer > Position`
+### Ausgabe freiwilliger Unterrichtsveranstaltungen
 
-Nummieren Sie die Positionen der Fächer fortlaufend. 
-Der Bericht setzt die Fächer entsprechend dieser Nummerierung auf zwei Spalten unter Berücksichtigung der max. Anzahl von Fächern pro Spalte laut Senatsvorlage.
+`Abitur > Zeugnisbemerkungen > Merkmal (freiw)`
 
-## Merkmale für Zeugnisbemerkungen
+Für die Ausgabe freiwilliger Unterrichtsveranstaltungen tragen Sie im Menü `Abitur >Zeugnisbemerkungen` eine Zeugnisbemerkung ein. Entscheidend ist die Eingabe in der Spalte „Merkmal“. Hier müssen Sie "freiw" eintragen.
+
+### weitere Bemerkungen zur Schullaufbahn
+
+`Abitur > Zeugnisbemerkungen > Merkmal (S_Lauf)`
+
+Für die Ausgabe weiterer Bemerkungen zur Schullaufbahn tragen Sie im Menü `Abitur >Zeugnisbemerkungen` eine Zeugnisbemerkung ein. Entscheidend ist die Eingabe in der Spalte „Merkmal“. Hier müssen Sie "S_Lauf" eintragen.
+
+### Merkmale
 
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -198,7 +192,7 @@ Bei den Zeugnisbemerkungen müssen verschiedene Typen der Bemerkung unterschiede
 
 Folgende Kürzel im Feld "Merkmal" dürfen für den Zeugnisdruck verwendet werden:
 
-## Bemerkungstext zur Ausgabe eines Beiblattes
+### Bemerkungstext zur Ausgabe eines Beiblattes
 
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -212,4 +206,4 @@ Die Ausgabe des Bemerkungstext: "Ein Beiblatt (Schul Z 620) ist Bestandteil dies
 
 Liegt eine Zeugnisbemerkung mit dem Merkmal "Beiblatt" beim Schüler vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses.”
 
-Liegt dieses Merkaml nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
+Liegt dieses Merkmal nicht vor, kommt der Text in der Bemerkung: “Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses.”
