@@ -1,4 +1,4 @@
-﻿# SAC-BVJ-AS mit HS (A.01.10)
+﻿# SAC-BVJ-AS (A.01.10)
 
 Vorlage A.01.10, Zeugnis der Berufsschule
 Berufsvorbereitungsjahr (mit Hauptschulabschluss)
@@ -24,6 +24,11 @@ BerufS2 | BerufS2 | 2. Berufsbezogener Lernbereich
 Pflicht | Pflicht | Pflichtfach
 BerufS | BerufS | Berufsbezogener Unterricht / Fachrichtungsbezogner Lernbereich
 Praktikum | Praktikum | Praktikum
+FachP|FachP|-
+FachT|FachT|-
+WahlPF_D1|WahlPF_D1|-
+WahlPF_D2|WahlPF_D2|-
+WahlPF_H1|WahlPF_H1|-
 
 ## Ausdruck
 
