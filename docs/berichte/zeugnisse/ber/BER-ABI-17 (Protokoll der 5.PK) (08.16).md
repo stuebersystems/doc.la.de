@@ -1,6 +1,6 @@
 # BER-ABI-11, BER-ABI-16, BER-ABI-17
 
-BER-ABI-17 (Protokoll der 5.PK) (08.16).rpt<br/>BER-ABI-17 (Protokoll der 5.PK - DS) (09.19).rpt<br/>BER-ABI-16 (Protokoll der 5.PK - BLL) (08.16).rpt
+BER-ABI-17 (Protokoll der 5.PK) (08.16).rpt<br/>BER-ABI-17 (Protokoll der 5.PK - DS) (09.19).rpt<br/>BER-ABI-16 (Protokoll der 5.PK - BLL) (08.16).rpt<br/>berichte/zeugnisse/ber/BER-ABI-17 (Protokoll der 5.PK) (08.16).md
 
 Vorlage: <br/>
 Abi-11_Protokoll_muendl_Pruefung_8-2016.docx<br/>Abi-17_Protokoll_5PK_Praes_Pruef_8-2016.docx<br/>Abi-17_DS_Protokoll_5PK_Praes_Pruef_DS_3-2019.docx<br/>Abi-16_Protokoll_5PK_Pruefungsgespach_BLL_8-2016.docx

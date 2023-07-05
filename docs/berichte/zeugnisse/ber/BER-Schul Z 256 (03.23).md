@@ -4,6 +4,14 @@
 
 Schul Z 256 – Zeugnis des Gymnasiums über den mittleren Schulabschluss 
 
+## Ausdruck
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
+
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld Zeugnisdatum eingetragen sein.
+
 ## Schülerlaufbahn
 
 `Schueler > Laufbahn > Allgemein > Versetzt`
@@ -54,6 +62,10 @@ Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflichtbereich
+1PF | 1PF | 1. Prüfungsfach (Deutsch)
+2PF | 2PF | 2. Prüfungsfach (Mathematik)
+3PF | 3PF | 3. Prüfungsfach (1.Fremdsprache)
+4PF | 4PF | 4. Prüfungsfach (Präsentationsprüfung)
 
 ## Zeugnisbemerkungen
 
@@ -128,14 +140,6 @@ Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld Name 3
 
 Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld Name 2 ein.
 
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
-
-`Schüler > Zeugnis > Details > Zeugnisdatum`
-
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld Zeugnisdatum eingetragen sein.
-
 ## II. Leistungen im Prüfungsteil (Seite 3)
 
 Für die Ausgabe der Fächer und Noten im Menü `Schüler > Zeugnis > Fächer` im Feld "Fachstatus" die folgenden Einträge. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
@@ -151,9 +155,9 @@ Die Noten der Prüfungsfächer erfassen Sie im Menü `Schüler > Zeugnis > Leist
 
 Spalte | Note für..
 --|--
-Endnote (Gesamt) | Gesamtnote
-Schriftl. Note 1 | schriftlich
-Mündl. Note | mündlich
+**Endnote (Gesamt)** | Gesamtnote
+**Schriftl. Note 3**| schriftlich
+**Schriftl. Note 4**| mündlich
 
 <img src="/assets/images/Berlin/z256.png">
 
