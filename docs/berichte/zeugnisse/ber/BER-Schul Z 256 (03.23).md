@@ -1,6 +1,10 @@
 ﻿# BER-Schul Z 256 (03.23)
 
 [1]:/assets/images/Berlin/ber-schul-z-256.png "Zugang, Abgang"
+[2]:/assets/images/Berlin/256.000.png
+[3]:/assets/images/Berlin/256.001.png
+[4]:/assets/images/Berlin/256.002.png
+[5]:/assets/images/Berlin/256.003.png
 
 Schul Z 256 – Zeugnis des Gymnasiums über den mittleren Schulabschluss 
 
@@ -156,10 +160,11 @@ Die Noten der Prüfungsfächer erfassen Sie im Menü `Schüler > Zeugnis > Leist
 Spalte | Note für..
 --|--
 **Endnote (Gesamt)** | Gesamtnote
-**Schriftl. Note 3**| schriftlich
-**Schriftl. Note 4**| mündlich
+**Schriftl. Note 1**| schriftlich
+**mdl. Note**| mündlich
 
-<img src="/assets/images/Berlin/z256.png">
+[![Zugang, Abgang][2]][2]
+[![Zugang, Abgang][4]][4]
 
 ## Benotung im Fach Deutsch
 
@@ -169,9 +174,12 @@ Deutsch erhält eine Note für den "allgemeinen Teil", "schriftliche Leistungen"
 
 Note | Spalte
 --|--
-Gesamtnote | Spalte "Endote"
-allgemeiner Teil | Spalte "Mündl. Note"
-schriftliche Leistungen |  Spalte "Schriftl. Note 4"
+**Endnote**|Gesamtnote
+**schriftl. Note 3**|allgemeiner Teil 
+**schriftl. Note 4**|schriftliche Leistungen
+
+[![Zugang, Abgang][3]][3]
+[![Zugang, Abgang][5]][5]
 
 ## vorgegeben Positionierung der Fächer
 
