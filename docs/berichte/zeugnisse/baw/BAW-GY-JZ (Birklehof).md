@@ -56,9 +56,9 @@ Die Zuweisung kann per Fachtafel erfolgen.
 
 #### Benotung
 
-`Extras > Schlüsselverzeichnisse > Noten` <br/>`Klassen > Daten > Beurteilung`<br/>`Schüler > Zeungis > Leistungen > Endnote` 
+`Extras > Schlüsselverzeichnisse > Noten` <br/>`Klassen > Daten > Beurteilung`<br/>`Schüler > Zeungis > Leistungen > Endnote(gesamt)` 
 
-Erfassen Sie die Beurteilung bitte in der Spalte `Endnote`. Für das Zeugnis wird die der gewählten Noten im Schlüsselverzeichnis `Noten` hinterlegte Bezeichnung ausgegeben.
+Erfassen Sie die Beurteilung bitte in der Spalte `Endnote (gesamt)`. Für das Zeugnis wird die der gewählten Noten im Schlüsselverzeichnis `Noten` hinterlegte Bezeichnung ausgegeben.
 
 ### Birklehof-Stunden
 
