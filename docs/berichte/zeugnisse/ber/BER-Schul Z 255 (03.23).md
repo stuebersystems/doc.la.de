@@ -2,6 +2,11 @@
 
 Schul Z 255 – Zeugnis des Gymnasiums über die erweiterte Berufsbildungsreife
 
+[2]:/assets/images/Berlin/256.000.png
+[3]:/assets/images/Berlin/256.001.png
+[4]:/assets/images/Berlin/256.002.png
+[5]:/assets/images/Berlin/256.003.png
+
 ## Versetzung
 
 `Schueler > Laufbahn > Allgemein > Versetzt`
@@ -39,25 +44,29 @@ Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
 WahlPF | WahlPF | Wahlpflichtbereich
 
-## Präsentationsprüfung
+## II. Leistungen im Prüfungsteil (Seite 3)
 
-Für die Ausgabe des Faches der Präsentationsprüfung weisen Sie diesem Fach im Menü `Schüler > Zeugnis > Fächer` im Feld "Fachstatus" den Eintrag "4PF" zu. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
+Für die Ausgabe der Fächer und Noten im Menü `Schüler > Zeugnis > Fächer` im Feld "Fachstatus" die folgenden Einträge. Grundlage bildet das `Schlüsselverzeichnis > Fachstatus`.
 
-Kürzel | Schlüssel | Zeugnisbereich
+Kürzel | Schlüssel | Bedeutung
 --|--|--
-4PF | 4PF | 4. Prüfungsfach
+1PF | 1PF | 1. Prüfungsfach (Deutsch)
+2PF | 2PF | 2. Prüfungsfach (Mathematik)
+3PF | 3PF | 3. Prüfungsfach (1.Fremdsprache)
+4PF | 4PF | 4. Prüfungsfach (Präsentationsprüfung)
 
-Die Noten der Präsentationsprüfung erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` in folgenden Feldern:
+Die Noten der Prüfungsfächer erfassen Sie im Menü `Schüler > Zeugnis > Leistungen` in folgenden Feldern:
 
 Spalte | Note für..
 --|--
-Endnote (Gesamt) | Gesamtnote
-Schriftl. Note 1 | Präsentationsprüfung
-Mündl. Note | ggf. zusätzliche mündliche Prüfung
+**Endnote (Gesamt)** | Gesamtnote
+**Schriftl. Note 1**| schriftlich
+**mdl. Note**| mündlich
+
+[![Zugang, Abgang][2]][2]
+[![Zugang, Abgang][4]][4]
 
 ## Benotung im Fach Deutsch
-
-Seite 2
 
 `Schüler > Zeugnis > Leistungen > Deutsch`
 
@@ -65,9 +74,12 @@ Deutsch erhält eine Note für den "allgemeinen Teil", "schriftliche Leistungen"
 
 Note | Spalte
 --|--
-Gesamtnote | Spalte "Endote"
-allgemeiner Teil | Spalte "Mündl. Note"
-schriftliche Leistungen |  Spalte "Schriftl. Note 4"
+**Endnote**|Gesamtnote
+**schriftl. Note 3**|allgemeiner Teil 
+**schriftl. Note 4**|schriftliche Leistungen
+
+[![Zugang, Abgang][3]][3]
+[![Zugang, Abgang][5]][5]
 
 ## Zeugnisbemerkungen
 
