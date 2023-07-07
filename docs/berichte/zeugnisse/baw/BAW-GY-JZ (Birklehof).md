@@ -128,7 +128,7 @@ Der Aufzählungspunkt, das Fach "Mathematik" und der Doppelpunkt dahinter werden
 
 ### Weiteres Engagement
 
-Erfassen Sie bitte für die Einträge unter "Weiteres Engagement" Bemerkungen unter `Schüler > Zeugnis > Bemerkungen/Formulare`. Jeder Bemerkung weisen Sie bitte eine Position zu, die sich nicht doppeln darf. Um die Bemerkung nicht im allgemeinen Bemerkungsbereich auszugeben, tragen Sie bitte im Zeugnismerkmal `VB` ein. 
+Erfassen Sie bitte für die Einträge unter "Weiteres Engagement" Bemerkungen unter `Schüler > Zeugnis > Bemerkungen/Formulare`. Jeder Bemerkung weisen Sie bitte eine Position zu, die sich nicht doppeln darf. Um die Bemerkung nicht im allgemeinen Bemerkungsbereich auszugeben, tragen Sie bitte im Zeugnismerkmal `WE` ein. 
 
 #### Platzhalter
 
