@@ -95,9 +95,9 @@ Deutsch erhält eine Note für den "allgemeinen Teil", "schriftliche Leistungen"
 
 Note | Spalte
 --|--
-Gesamtnote | Spalte "Endote"
-allgemeiner Teil | Spalte "Schriftl. Note 4"
-Mündliche Note | Spalte "Mündl. Note"
+Gesamtnote | Spalte **Endote**
+allgemeiner Teil | Spalte **Schriftl. Note 4**
+Mündliche Note | Spalte **Schriftl. Note 3**
 
 ### Positionierung
 
