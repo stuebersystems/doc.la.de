@@ -187,24 +187,26 @@ Note | Spalte
 
 Um Noten den jeweiligen Fächer zuzuordnen, verwenden Sie für die Fächer folgende Positionen:
 
-* Deutsch: 1
-* 1. Fremdsprache: 2
-* 2. Fremdsprache: 3
-* Lernbereich Gesellschaftswissenschaften : 4
-* Geografie: 5
-* Geschichte: 7
-* Politische Bildung: 8
-* Ethik: 9
-* Mathe: 10
-* Lernbereich Naturwissenschaften: 11
-* Biologie: 12
-* Chemie: 13
-* Physik: 14
-* Kunst: 15
-* Musik: 16
-* Sport: 17
-* Informationstechnischer Grundkurs: 18
-* Wahlpflichtfach eins: 30
-* Wahlpflichtfach zwei: 31
-* Wahlpflichtfach drei: 32
-* Wahlpflichtfach vier: 33
+Fach | Position
+--|--
+Deutsch | 1
+1. Fremdsprache | 2
+2. Fremdsprache | 3
+Lernbereich Gesellschaftswissenschaften | 4
+Ethik | 5
+Geografie | 6
+Geschichte | 7
+Politische Bildung | 8
+Mathematik | 9
+Lernbereich Naturwissenschaften | 10
+Biologie | 11
+Chemie | 12
+Physik | 13
+Kunst | 14
+Musik | 15
+Sport | 16
+Informationstechnischen Grundkurs| 30
+Wahlpflichtfach | 33
+Wahlpflichtfach | 31
+Wahlpflichtfach | 32
+Wahlpflichtfach | 34

@@ -1,9 +1,6 @@
 # BAW-GY-JZ (Birklehof).md
 
 
-
-
-
 ## Ausdruck
 
 Dieser Bericht wird als Zeugnis gedruckt aus dem Menü `Schüler` gedruckt. Bitte markieren Sie die gewünschten Schüler und rufen den Druck mit `STRG+Z` oder über `Drucken  > Zeugnisse` auf.
@@ -163,7 +160,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 Feld| Quelle
 --|--
-Versetzt nach| Der Wert wird aus `Klasse > Zeiträume > Jahrgang` gelesen und um 1 Jahr erhöht.
+Versetzt nach| Der Wert wird aus `Klasse > Zeiträume > Jahrgang` gelesen und um 1 Jahr erhöht. <br/>(derzeit deaktiviert, bitte manuell erfassen)
 Ort|Der Ort wird in Magellan unter `Mandanten > Daten > Ort` ausgelesen.
 Datum|Das Zeugnisdatum wird unter `Schüler > Zeugnis > Details > Zeugnisdatum` ausgelesen. Bitte nutzen Sie die Sammelzuweisung am oberen Fensterrand.
 Klassenlehrer| Der Klassenlehrer wird unter `Klasse > Zeiträume > Klassenleiter1` erwartet. Bitte prüfen Sie, ob unter `Lehrer > Geschlecht` der korrekte Eintrag erfolgte.
