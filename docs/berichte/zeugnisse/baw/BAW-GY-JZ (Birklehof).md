@@ -110,7 +110,7 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 ## Seite 2
 
-![Seite 1](/assets/images/baw/bh1.png)
+![Seite 2](/assets/images/baw/bh1.png)
 
 ### Verbalbeurteilung
 
@@ -121,7 +121,7 @@ Wenn eine zusätzliche Beurteilung für ein Fach gewünscht ist, erfassen Sie di
 Beispiel:
 * Mathematik: Text der verbalen Beurteilung
 
-Der Aufzählungspunkt, das Fach "Mathematik" und der Doppelpunkt dahinter werden vom Bericht erzeugt.
+Der Aufzählungspunkt, das Fach "Mathematik" und der Doppelpunkt dahinter werden vom Bericht erzeugt. <br/>Ist kein Fach mit einer verbalen Beurteilung versehen worden, wird der Bereich ausgeblendet und der nachfolgende Bereich hochgezogen.
 
 ### Weiteres Engagement
 
@@ -161,7 +161,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 Feld| Quelle
 --|--
 Versetzt nach| Der Wert wird aus `Klasse > Zeiträume > Jahrgang` gelesen und um 1 Jahr erhöht. <br/>(derzeit deaktiviert, bitte manuell erfassen)
-Ort|Der Ort wird in Magellan unter `Mandanten > Daten > Ort` ausgelesen.
-Datum|Das Zeugnisdatum wird unter `Schüler > Zeugnis > Details > Zeugnisdatum` ausgelesen. Bitte nutzen Sie die Sammelzuweisung am oberen Fensterrand.
+Ort|Der Ort fest im Bericht hinterlegt.
+Datum|Das Zeugnisdatum wird unter manuell erfasst.
 Klassenlehrer| Der Klassenlehrer wird unter `Klasse > Zeiträume > Klassenleiter1` erwartet. Bitte prüfen Sie, ob unter `Lehrer > Geschlecht` der korrekte Eintrag erfolgte.
 Schulleiter|Der Schulleiter wird unter `Mandanten > Daten > Schulleiter` erwartet. Bitte prüfen Sie, ob unter `Lehrer > Geschlecht` der korrekte Eintrag erfolgte.
+
+![Zeugnisfuß](/assets/images/baw/bh3.png)
