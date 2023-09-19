@@ -6,7 +6,7 @@
 
 ## Format
 
-Der Bericht ist für Kartendrucker und den Kartentyp CR80 angepasst.
+Der Bericht ist für Kartendrucker und den Kartentyp CR80 angepasst. **Bitte beachten Sie, dass Sie den Kartendrucker für die korrekte Ausgabe als Standarddrucker am Arbeitsplatz eingerichtet haben müssen.**
 
 ## Druck
 
