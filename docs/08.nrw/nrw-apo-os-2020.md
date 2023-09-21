@@ -118,20 +118,29 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 
 ## Prüfungen
 
-Prüfungen können für die GH-Kurse des 3. Prüfungsfach und/oder 4. Prüfungsfach auch in mehreren Fächern des gleichen Aufgabenfeldes abgelegt werden. Beide Fächer müssen in MAGELLAN auf der Qualifikationskarte erscheinen und auswertbar markiert werden, da jeweils nur eine Teil der Kurse der jeweiligen Fachzeile als Prüfungsfächer berücksichtigt werden sollen, auf dem Abiturzeugnis aber nur eins der beiden Fächer erscheinen soll.
+### 3. und 4. Prüfungsfach
 
-1. Beide Fachzeilen werden im Feld Status als Prüfungsfach markiert (Fachstatus `3PF` oder `4PF` ).
-2. In der Spalte `Merkmal` wird manuell erfasst (Eintragung `Q1Q2` oder `Q3Q4`), welche Kurse je Fachzeile als Prüfungsfachkurse zu werten sind.
-3. Für eine der beiden Zeilen wird in der Spalte `Merkmal` hinter der Kennzeichnung der Kurshalbjahre (`Q1Q2` oder `Q3Q4`) mit einem `*` gekennzeichnet, dass dieses Fach auf dem Abiturzeugnis als Prüfungsfach ausgegeben werden soll.
+Prüfungen können für die GH-Kurse des 3. Prüfungsfach und/oder 4. Prüfungsfach auch in mehreren Fächern des gleichen Aufgabenfeldes oder mit unterschiedlichen Aufgabenfeldern abgelegt werden. 
+Beide Fächer müssen in MAGELLAN auf der Qualifikationskarte erscheinen und auswertbar markiert werden, auf der Karte `Abitur > Prüfungen` und dem Abiturzeugnis soll aber nur eins der beiden Fächer erscheinen.
+
+1. Beide Fachzeilen werden im Feld Status als Prüfungsfach markiert (Fachstatus `3PF` und `3PF` oder `4PF` und `4PF`).
+2. In der Spalte `Merkmal` wird manuell erfasst (Varianten nachstehend), welche Kurse je Fachzeile als Prüfungsfachkurse zu werten sind.
+3. Für eine der beiden Zeilen wird in der Spalte `Merkmal` hinter der Kennzeichnung der Kurshalbjahre mit einem `*` gekennzeichnet, dass dieses Fach auf dem Abiturzeugnis als Prüfungsfach ausgegeben werden soll.
 
 ![Darstellung](/assets/images/nrw.bielefeld/04.png)
 
 Merkmal|Bedeutung|
 -----|-----|
-Q1Q2 | Q1 und Q2 werden für die Prüfung eingebracht, das Fach selbst wird aber für die Prüfung nicht angezeigt|
-Q3Q4 | Q3 und Q4 werden für die Prüfung eingebracht, das Fach selbst wird aber für die Prüfung nicht angezeigt|
-Q1Q2* | Q1 und Q2 werden für die Prüfung eingebracht, das Fach selbst wird für die Prüfung angezeigt|
-Q3Q4* | Q3 und Q4 werden für die Prüfung eingebracht, das Fach selbst wird für die Prüfung angezeigt|
+Q1Q2 | Q1 und Q2 werden für die Prüfung eingebracht, das Fach selbst wird aber auf der Karte `Prüfung` nicht angezeigt.<br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q3Q4*` erwartet. |
+Q3Q4 | Q3 und Q4 werden für die Prüfung eingebracht, das Fach selbst wird aber auf der Karte `Prüfung` **nicht** angezeigt.<br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q1Q2*` erwartet.|
+Q1Q2* | Q1 und Q2 werden für die Prüfung eingebracht, das Fach selbst wird für die Prüfung angezeigt.<br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q3Q4` erwartet.|
+Q3Q4* | Q3 und Q4 werden für die Prüfung eingebracht, das Fach selbst wird für die Prüfung angezeigt<br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q1Q2` erwartet.|
+Q1Q2Q3|Q1-Q3 wird für die Berechung eingebracht, das Fach selbst wird aber auf der Karte `Prüfung` **nicht** angezeigt. <br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q4*` erwartet. 
+Q1Q2Q3*|Q1-Q3 wird für die Berechung eingebracht und das Fach wird auf der Karte `Prüfung` angezeigt. <br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q4` erwartet. 
+Q4|Q4 wird für die Berechung eingebracht und das Fach wird **nicht** auf der Karte `Prüfung` angezeigt.  <br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q1Q2Q3*` erwartet. 
+Q4*|Q4 wird für die Berechung eingebracht und das Fach wird auf der Karte `Prüfung` angezeigt.  <br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q1Q2Q3` erwartet. 
+
+Die Karte `Prüfung` stellt je Prüfungsfach ein Feld zur Darstellung des Prüfungsfachs bereit. Beim Auslösen der Berechnung werden die als Prüfungsfach anhand des Fachstatus erkannten Fächer übergeben. Gibt es für einen Fachstatus mehr als eine Zeile, wird das Feld `Merkmal` ausgewertet. Es wird die Zeile übergeben, für die einer der folgenden Werte gesetzt wurden: `Q1Q2*`, `Q3Q4*` , `Q1Q2Q3*` oder `Q4*`. 
 
 !!! tipp "Hinweis!"
 
@@ -162,6 +171,10 @@ Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. 
 |Merkmal|Bedeutung|
 |--|--|
 |**A**| Fremdsprache Anfänger|
+
+## Füllkurse
+
+Beim Starten der Vorschlagsautomatik oder der automatischen Berechnung werden in den Spalten `Q1Bestanden` bis `Q4Bestanden` die eingebrachten Füllkurse automatisch gelb markiert. Diese Darstellung ist manuell nicht änderbar, sondern kann Änderungen der Daten durch das Neuauslösen des Skriptes neu gesetzt werden.
 
 ## Leistungsarten
 
