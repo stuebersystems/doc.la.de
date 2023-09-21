@@ -140,7 +140,7 @@ Q1Q2Q3*|Q1-Q3 wird für die Berechung eingebracht und das Fach wird auf der Kart
 Q4|Q4 wird für die Berechung eingebracht und das Fach wird **nicht** auf der Karte `Prüfung` angezeigt.  <br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q1Q2Q3*` erwartet. 
 Q4*|Q4 wird für die Berechung eingebracht und das Fach wird auf der Karte `Prüfung` angezeigt.  <br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q1Q2Q3` erwartet. 
 
-Die Karte `Prüfung` stellt je Prüfungsfach ein Feld zur Darstellung des Prüfungsfachs bereit. Beim Auslösen der Berechnung werden die als Prüfungsfach anhand des Fachstatus erkannten Fächer übergeben. Gibt es für einen Fachstatus mehr als eine Zeile, wird das Feld `Merkmal` ausgewertet. Es wird die Zeile übergeben, für die einer der folgenden Werte gesetzt wurden: `Q1Q2*`, `Q3Q4*` , `Q1Q2Q3*` oder `Q4*`. 
+Die Karte `Prüfung` stellt je Prüfungsfach ein Feld zur Darstellung des Prüfungsfachs bereit. Beim Auslösen der Berechnung werden die als Prüfungsfach anhand des Fachstatus erkannten Fächer übergeben. Gibt es für einen Fachstatus mehr als eine Zeile, wird das Feld `Merkmal` ausgewertet. Es wird die Zeile übergeben, für die einer der folgenden Werte gesetzt wurden: `Q1Q2*`, `Q3Q4*` , `Q1Q2Q3*` oder `Q4*`. Das Fach, dass auf der Prüfungskarte als 3. oder 4. Prüfungsfach steht, wird für das Abiturzeugnis berücksichtigt.
 
 !!! tipp "Hinweis!"
 
