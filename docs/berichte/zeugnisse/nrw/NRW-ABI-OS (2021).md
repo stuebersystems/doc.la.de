@@ -28,19 +28,23 @@ Der Bericht gibt als Wappen die Bilddatei aus, die unter `Mandanten > Daten2 > L
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein. Hierfür steht Ihnen auch auf der selben Karte der Aufruf für eine Sammelzuweisung zur Verfügung.
 
-## Spalte Punkte (X oder Note)
+## Spalte Punkte (X oder Note oder leer)
 
 `Extras > Schlüsselverzeichnisse > Noten` <br/>`Abitur > Qualifikation > Q1-Q4`<br/>`Abitur > Qualifikation > Q1Bestanden-Q4Bestanden`
 
-Der Bericht gibt für eingebrachte Kurse (gelbe Markierung auf der Qualifikationskarte) die erfasste Punktzahl aus. 
-Wurde ein belegter Kurs nicht bewertet, nutzen Sie bitte die Note "-".
-Ist der Kurs bestanden, kennzeichnen Sie unter `Qualifikation > Q1Bestanden-Q4Bestanden` den Kurs mit "Bestanden (P)", diese Information wird für nicht eingebrachte Kurse als "X" ausgegeben.
+Das Abiturzeugnis gibt für eingebrachte Kurse (gelbe Markierung auf der Qualifikationskarte) die erfasste Punktzahl aus. 
+Wurde ein bestandener Kurs nicht bewertet, nutzen Sie bitte die Note "-".
+Wurde ein nicht bestandener Kurs nicht bewertet, nutzen Sie bitte die Note "nb.".
+
+**Bestandene Kurse ohne Note**: <br/>Ist der Kurs bestanden, kennzeichnen Sie unter `Qualifikation > Q1Bestanden-Q4Bestanden` den Kurs mit "Bestanden (P)", diese Information wird für nicht eingebrachte Kurse als "X" ausgegeben.<br/>
+**Nicht bestandene Kurse ohne Note**: <br/>Ist der Kurs nicht bestanden, kennzeichnen Sie unter `Qualifikation > Q1Bestanden-Q4Bestanden` den Kurs mit "Nicht bestanden (F)", diese Information in Kombination mit der Note "nb." nicht auf dem Zeugnis ausgegeben, aber in der Prüfung des Abiturskriptes erkannt.
 
 Eintrag im Notenverzeichnis:
 
-Kürzel|Bezeichnung|Wert|Notenart
---|--|--|--
-**-**|beliebig|leer|Füllwert
+Kürzel|Bezeichnung|Wert|Notenart|Bedeutung
+--|--|--|--|--
+**-**|beliebig|leer|Füllwert| Ausgabe `-` auf dem Zeugnis
+**nb.**|beliebig|leer|Füllwert| keine Ausgabe auf dem Zeugnis
 
 ## vierstündige Fächer
 

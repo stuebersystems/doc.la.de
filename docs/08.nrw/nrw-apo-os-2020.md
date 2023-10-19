@@ -164,7 +164,7 @@ Ges|**LK**|Studienfachbezogneer Grundkurs der Eingangsphase
 Sf|**LK**|Studienfachkurs
 Pr|**PR**|Projekt
 
-## Merkmal
+## Merkmal (neu einsetzende Fremdsprache)
 
 Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. Er kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Merkmal``` übernommen werden.
 
@@ -210,3 +210,21 @@ Das Skript vervierfacht die Note. Das Ergebnis der eingebrachten Lernleistung wi
 Soll die Lernleistung vom Skript berücksichtigt werden, setzen Sie bitte das Häkchen vor `Lernleistung einbringen`.
 
 ![Beispiel für den Eintrag der besonderen Lernleistung](\assets\images\nrw\08.png)
+
+## Benotung
+
+`Extras > Schlüsselverzeichnisse > Noten` <br/>`Abitur > Qualifikation > Q1-Q4`<br/>`Abitur > Qualifikation > Q1Bestanden-Q4Bestanden`
+
+Das Abiturzeugnis gibt für eingebrachte Kurse (gelbe Markierung auf der Qualifikationskarte) die erfasste Punktzahl aus. 
+Wurde ein bestandener Kurs nicht bewertet, nutzen Sie bitte die Note "-".
+Wurde ein nicht bestandener Kurs nicht bewertet, nutzen Sie bitte die Note "nb.".
+
+**Bestandene Kurse ohne Note**: <br/>Ist der Kurs bestanden, kennzeichnen Sie unter `Qualifikation > Q1Bestanden-Q4Bestanden` den Kurs mit "Bestanden (P)", diese Information wird für nicht eingebrachte Kurse als "X" ausgegeben.<br/>
+**Nicht bestandene Kurse ohne Note**: <br/>Ist der Kurs nicht bestanden, kennzeichnen Sie unter `Qualifikation > Q1Bestanden-Q4Bestanden` den Kurs mit "Nicht bestanden (F)", diese Information in Kombination mit der Note "nb." nicht auf dem Zeugnis ausgegeben, aber in der Prüfung des Abiturskriptes erkannt.
+
+Eintrag im Notenverzeichnis:
+
+Kürzel|Bezeichnung|Wert|Notenart|Bedeutung
+--|--|--|--|--
+**-**|beliebig|leer|Füllwert| Ausgabe `-` auf dem Zeugnis
+**nb.**|beliebig|leer|Füllwert| keine Ausgabe auf dem Zeugnis
