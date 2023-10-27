@@ -1,6 +1,8 @@
 # Kursliste (Kontrolle Fachstatus)
 
-![Bezeichnung](/assets/images/kurslisten/002.png)
+[01]:assets/images/kursliste/002.png "Text"
+
+[![Text][01]][01]
 
 ## Ausdruck
 
@@ -21,4 +23,3 @@ Bitte weisen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Lehrer" den Fa
 `Schüler > Zeugnis > Details > Tutor`
 
 Bitte füllen Sie im Menü `Schüler > Zeugnis > Details` das Feld "Tutor". Grundlage bildet das Menü `Lehrer`, diese müssen vorab erfasst sein. Der WErt kann auch per Sammelzuweisung verteilt werden.
-

@@ -1356,7 +1356,7 @@ nav:
       - Klassenliste mit Endnoten: berichte/kurslisten/Klassenliste mit Endnoten.md
       - Klassenliste Teilzeit mit Kreis: berichte/kurslisten/Klassenliste Teilzeit mit Kreis.md
       - Klassenliste Vollzeit mit Kreis: berichte/kurslisten/Klassenliste Vollzeit mit Kreis.md
-      - Kursliste (Kontrolle Fachstatus): Kursliste (Kontrolle Fachstatus).md
+      - Kursliste (Kontrolle Fachstatus): berichte/kurslisten/Kursliste (Kontrolle Fachstatus).md
       - Kursliste (Schüler-Kursart-Klasse-Lehrer): berichte/kurslisten/Kursliste (Schüler-Kursart-Klasse-Lehrer).md
       - Kursliste (Zensurerfassung nach Lehrer gruppiert) (KL3,KL4): berichte/kurslisten/Kursliste (Zensurerfassung nach Lehrer gruppiert) (KL3,KL4).md
       - Kursliste (Zensurerfassung): berichte/kurslisten/Kursliste (Zensurerfassung).md
@@ -1451,33 +1451,42 @@ nav:
       - Prüfungslisten: berichte/abitur/pruefungslisten.md
       - SHL-GY-Abi(Abiturergebnisse): berichte/abitur/SHL-GY-Abi(Abiturergebnisse).md
       - Schülerliste (Abitur): berichte/abitur/Schülerliste (Abitur).md
-    - Quittungen: 
-      - Quittung (Leihvertrag Taschenrechner): berichte/quittungen/Quittung (Leihvertrag Taschenrechner).md
-      - Quittung(DIN A4): berichte/quittungen/Quittung(DIN A4).md
-      - Quittung(DIN A5): berichte/quittungen/Quittung(DIN A5).md
-      - Quittung (Bondrucker - 2mm Rand): berichte/quittungen/Quittung (Bondrucker - 2mm Rand).md
-      - Quittung (Bondrucker - 4mm Rand): berichte/quittungen/Quittung (Bondrucker - 4mm Rand).md
-    - Medien: 
-      - Etiketten (254x508): berichte/medien/Etiketten (254x508).md
-      - Etiketten (508x254): berichte/medien/Etiketten (508x254).md
-      - Etiketten (89x36): berichte/medien/Etiketten (89x36).md
-      - Etiketten (Dymo 99010, 28x89): berichte/medien/Etiketten (Dymo 99010, 28x89).md
-      - Etiketten (Dymo 99012, 36x89): berichte/medien/Etiketten (Dymo 99012, 36x89).md
-      - Etiketten (No.3475 - 70 x 36 mm - 1fach - 8 x 3): berichte/medien/Etiketten (No.3475 - 70 x 36 mm - 1fach - 8 x 3).md
-      - Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach - 9 x 4 Zeilen): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach - 9 x 4 Zeilen).md
-      - Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach).md
-      - Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach - 8 x 4 Zeilen): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach - 8 x 4 Zeilen).md
-      - Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach).md
-      - Medienliste (1 Exemplar): berichte/medien/Medienliste (1 Exemplar).md
-      - Medienliste (Inventur): berichte/medien/Medienliste (Inventur).md
-      - Medienliste (Standard): berichte/medien/Medienliste (Standard).md
-      - Medienliste (mit Exemplaren) mit Katalog: berichte/medien/Medienliste (mit Exemplaren) mit Katalog.md
-      - Medienliste (mit Exemplaren): berichte/medien/Medienliste (mit Exemplaren).md
-    - Medienvorgänge: 
-      - Medienvorgaenge (Standard): berichte/medienvorgaenge/Medienvorgaenge (Standard).md
-      - Aktive Ausleihvorgaenge pro Schueler (nach Klassen gruppiert): berichte/medienvorgaenge/Aktive Ausleihvorgaenge pro Schueler (nach Klassen gruppiert).md
-      - Alle Ausleihvorgaenge pro Schueler (nach Klassen und Medien gruppiert): berichte/medienvorgaenge/Alle Ausleihvorgaenge pro Schueler (nach Klassen und Medien gruppiert).md
-    - Medienausleiher: 
+    - BIBLIOTHEK: 
+      - Menü Ausleihe:
+        - Quittung (Leihvertrag Taschenrechner): berichte/quittungen/Quittung (Leihvertrag Taschenrechner).md
+        - Quittung(DIN A4): berichte/quittungen/Quittung(DIN A4).md
+        - Quittung(DIN A5): berichte/quittungen/Quittung(DIN A5).md
+        - Quittung (Bondrucker - 2mm Rand): berichte/quittungen/Quittung (Bondrucker - 2mm Rand).md
+        - Quittung (Bondrucker - 4mm Rand): berichte/quittungen/Quittung (Bondrucker - 4mm Rand).md
+      - Menü Bücher /Medien: 
+        - Etiketten (254x508): berichte/medien/Etiketten (254x508).md
+        - Etiketten (508x254): berichte/medien/Etiketten (508x254).md
+        - Etiketten (89x36): berichte/medien/Etiketten (89x36).md
+        - Etiketten (Dymo 99010, 28x89): berichte/medien/Etiketten (Dymo 99010, 28x89).md
+        - Etiketten (Dymo 99012, 36x89): berichte/medien/Etiketten (Dymo 99012, 36x89).md
+        - Etiketten (No.3475 - 70 x 36 mm - 1fach - 8 x 3): berichte/medien/Etiketten (No.3475 - 70 x 36 mm - 1fach - 8 x 3).md
+        - Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach - 9 x 4 Zeilen): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach - 9 x 4 Zeilen).md
+        - Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 1fach).md
+        - Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach - 8 x 4 Zeilen): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach - 8 x 4 Zeilen).md
+        - Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach): berichte/medien/Etiketten (No.3651 - 52,5 x 29,7 mm - 2fach).md
+        - Medienliste (1 Exemplar): berichte/medien/Medienliste (1 Exemplar).md
+        - Medienliste (Inventur): berichte/medien/Medienliste (Inventur).md
+        - Medienliste (Standard): berichte/medien/Medienliste (Standard).md
+        - Medienliste (mit Exemplaren) mit Katalog: berichte/medien/Medienliste (mit Exemplaren) mit Katalog.md
+        - Medienliste (mit Exemplaren): berichte/medien/Medienliste (mit Exemplaren).md
+      - Menü Vorgänge: 
+        - Medienvorgaenge (Standard): berichte/medienvorgaenge/Medienvorgaenge (Standard).md
+        - Aktive Ausleihvorgaenge pro Schueler (nach Klassen gruppiert): berichte/medienvorgaenge/Aktive Ausleihvorgaenge pro Schueler (nach Klassen gruppiert).md
+        - Alle Ausleihvorgaenge pro Schueler (nach Klassen und Medien gruppiert): berichte/medienvorgaenge/Alle Ausleihvorgaenge pro Schueler (nach Klassen und Medien gruppiert).md
+      - Menü Mahnwesen:
+        - Mahnungen: berichte/mahnungen/mahnungen.md
+        - Mahnungen (mit ISBN): berichte/mahnungen/mahnungen-isbn.md
+        - Mahnungen (mit ISBN, Signatur, Barcode): berichte/mahnungen/mahnungen.isbn.sig.barcode.md
+      - Menü Verlage:
+        - Verlagsliste: berichte/verlage/verlagsliste.md
+      - Menü Lieferanten:
+        - Lieferantenliste mit Telefonnummern: berichte/lieferanten/lieferantenliste.md             
+      - Menü Schüler, Lehrer, Personen: 
         - Alle Ausleihvorgaenge pro Lehrer: berichte/medienausleiher/Alle Ausleihvorgaenge pro Lehrer.md
         - Alle Ausleihvorgaenge pro Person: berichte/medienausleiher/Alle Ausleihvorgaenge pro Person.md
         - Alle Ausleihvorgaenge pro Schueler (nach Klassen gruppiert): berichte/medienausleiher/Alle Ausleihvorgaenge pro Schueler (nach Klassen gruppiert).md
