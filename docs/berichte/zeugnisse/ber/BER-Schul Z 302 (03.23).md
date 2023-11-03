@@ -1,5 +1,7 @@
 ﻿# BER-Schul Z 302 (03.23)
 
+[01]:/assets/images/Berlin/ber-schul-z-302_001.png "freiwillige Unterrichtsveranstaltung"
+
 Schul Z 302 - Zeugnis Qualifikationsphase - Gym ISS GS BG (03.23).docx
 
 ## Ausdruck
@@ -164,6 +166,12 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
+
+### freiwillige Unterrichtsveranstaltungen
+
+Um den Bereich "Freiwillige Unterrichtsveranstaltungen" zu füllen, legen Sie bitte Zeugnisbemerkungen mit dem gewünschten Inhalt an und erfassen im Zeugnismerkmal bitte `freiw` und eine Position.
+
+[![freiwillige Unterrichtsveranstaltung][01]][01
 
 ### Beiblatt
 
