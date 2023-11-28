@@ -131,16 +131,29 @@ Beide Fächer müssen in MAGELLAN auf der Qualifikationskarte erscheinen und aus
 
 Merkmal|Bedeutung|
 -----|-----|
-Q1Q2 | Q1 und Q2 werden für die Prüfung eingebracht, das Fach selbst wird aber auf der Karte `Prüfung` nicht angezeigt.<br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q3Q4*` erwartet. |
-Q3Q4 | Q3 und Q4 werden für die Prüfung eingebracht, das Fach selbst wird aber auf der Karte `Prüfung` **nicht** angezeigt.<br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q1Q2*` erwartet.|
-Q1Q2* | Q1 und Q2 werden für die Prüfung eingebracht, das Fach selbst wird für die Prüfung angezeigt.<br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q3Q4` erwartet.|
-Q3Q4* | Q3 und Q4 werden für die Prüfung eingebracht, das Fach selbst wird für die Prüfung angezeigt<br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q1Q2` erwartet.|
-Q1Q2Q3|Q1-Q3 wird für die Berechung eingebracht, das Fach selbst wird aber auf der Karte `Prüfung` **nicht** angezeigt. <br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q4*` erwartet. 
-Q1Q2Q3*|Q1-Q3 wird für die Berechung eingebracht und das Fach wird auf der Karte `Prüfung` angezeigt. <br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q4` erwartet. 
-Q4|Q4 wird für die Berechung eingebracht und das Fach wird **nicht** auf der Karte `Prüfung` angezeigt.  <br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q1Q2Q3*` erwartet. 
-Q4*|Q4 wird für die Berechung eingebracht und das Fach wird auf der Karte `Prüfung` angezeigt.  <br/><br/>Diese Angabe wird in Kombination mit dem Wert `Q1Q2Q3` erwartet. 
+Q1 |Note aus Q1 wird für die Prüfung berücksichtigt.|
+Q2 | Note aus Q3 wird für die Prüfung berücksichtigt.|
+Q3 | Note aus Q3 wird für die Prüfung berücksichtigt.|
+Q4 | Note aus Q4 wird für die Prüfung berücksichtigt.| 
+Q1* | Note aus Q1* wird für die Prüfung berücksichtigt.<br/>(Übernahme des Fachs auf Prüfungskarte)|
+Q2* | Note aus Q2* wird für die Prüfung berücksichtigt.<br/>(Übernahme des Fachs auf Prüfungskarte)|
+Q3* | Note aus Q3* wird für die Prüfung berücksichtigt.<br/>(Übernahme des Fachs auf Prüfungskarte)|
+Q4* | Note aus Q3* wird für die Prüfung berücksichtigt.<br/>(Übernahme des Fachs auf Prüfungskarte)|
+Q1Q2| Noten aus Q1 und Q2 werden für die Prüfung berücksichtigt.|
+Q2Q3| Noten aus Q2 und Q3 werden für die Prüfung berücksichtigt.|
+Q3Q4 | Noten aus Q3 und Q4 werden für die Prüfung berücksichtigt.|
+Q1Q2* | Noten aus Q1 und Q2 werden für die Prüfung berücksichtigt.<br/>(Übernahme des Fachs auf Prüfungskarte)|
+Q2Q3* | Noten aus Q2 und Q3 werden für die Prüfung berücksichtigt.<br/>(Übernahme des Fachs auf Prüfungskarte)|
+Q3Q4* | Noten aus Q3 und Q4 werden für die Prüfung berücksichtigt.<br/>(Übernahme des Fachs auf Prüfungskarte)|
+Q1Q2Q3 | Noten aus Q1, Q2 und Q3 werden für die Prüfung berücksichtigt. |
+Q2Q3Q4 | Noten aus Q2, Q3 und Q4 werden für die Prüfung berücksichtigt. |
+Q1Q2Q3*|Noten aus Q1, Q2 und Q3 werden für die Prüfung berücksichtigt.<br/>(Übernahme des Fachs auf Prüfungskarte) |
+Q2Q3Q4* | Noten aus Q2, Q3 und Q4 werden für die Prüfung berücksichtigt.<br/>(Übernahme des Fachs auf Prüfungskarte)|
 
-Die Karte `Prüfung` stellt je Prüfungsfach ein Feld zur Darstellung des Prüfungsfachs bereit. Beim Auslösen der Berechnung werden die als Prüfungsfach anhand des Fachstatus erkannten Fächer übergeben. Gibt es für einen Fachstatus mehr als eine Zeile, wird das Feld `Merkmal` ausgewertet. Es wird die Zeile übergeben, für die einer der folgenden Werte gesetzt wurden: `Q1Q2*`, `Q3Q4*` , `Q1Q2Q3*` oder `Q4*`. Das Fach, dass auf der Prüfungskarte als 3. oder 4. Prüfungsfach steht, wird für das Abiturzeugnis berücksichtigt.
+!!! danger Achtung
+
+    **`*`**:     Die Karte `Prüfung` stellt je Prüfungsfach ein Feld zur Darstellung des Prüfungsfachs bereit. Beim Auslösen der Berechnung werden die als Prüfungsfach anhand des Fachstatus erkannten Fächer auf die Prüfungkarte übergeben. Gibt es für das 3PF oder 4PF mehr als eine Fachzeile, wird das Feld `Merkmal` ausgewertet. 
+    Das mit **`*`** markierte Fach (siehe obere Möglichkeiten), wird auf die Prüfungskarte übergeben und auf dem Zeugnis als Prüfungsfach gezeigt.
 
 !!! tipp "Hinweis!"
 
@@ -217,7 +230,7 @@ Soll die Lernleistung vom Skript berücksichtigt werden, setzen Sie bitte das H�
 
 Das Abiturzeugnis gibt für eingebrachte Kurse (gelbe Markierung auf der Qualifikationskarte) die erfasste Punktzahl aus. 
 Wurde ein bestandener Kurs nicht bewertet, nutzen Sie bitte die Note "-".
-Wurde ein nicht bestandener Kurs nicht bewertet, nutzen Sie bitte die Note "nb.".
+Wurde ein nicht bestandener Kurs nicht bewertet, setzt das Skritp die Note "nb.", vorausgesetzt, sie ist wie in der untenstehenden Tabelle in der Datenbank angelegt. 
 
 **Bestandene Kurse ohne Note**: <br/>Ist der Kurs bestanden, kennzeichnen Sie unter `Qualifikation > Q1Bestanden-Q4Bestanden` den Kurs mit "Bestanden (P)", diese Information wird für nicht eingebrachte Kurse als "X" ausgegeben.<br/>
 **Nicht bestandene Kurse ohne Note**: <br/>Ist der Kurs nicht bestanden, kennzeichnen Sie unter `Qualifikation > Q1Bestanden-Q4Bestanden` den Kurs mit "Nicht bestanden (F)", diese Information in Kombination mit der Note "nb." nicht auf dem Zeugnis ausgegeben, aber in der Prüfung des Abiturskriptes erkannt.
