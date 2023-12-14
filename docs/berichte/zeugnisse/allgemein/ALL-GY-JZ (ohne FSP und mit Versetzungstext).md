@@ -6,7 +6,7 @@
 
 Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-## Klasenjahrgang
+## Klassenjahrgang
 
 `Klassen > Zeiträume > Zeitraum > Jahrgang`
 
