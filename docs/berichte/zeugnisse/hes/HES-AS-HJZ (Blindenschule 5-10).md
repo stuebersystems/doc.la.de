@@ -1,5 +1,7 @@
 # HES-AS-HJZ (Blindenschule 5-10)
 
+## Abbildung
+
 ![HES-AS-HJZ (Blindenschule 5-10)](/assets/images/hes/001.png)
 
 ## Ausdruck
@@ -48,7 +50,7 @@ Kürzel|Schlüssel|Zeugnisbereich
 --|--|--
 WahlPF|WahlPF|Wahlpflichtfach
 
-## Position
+## Position (Fach)
 
 `Schüler > Zeugnis > Fächer > Position`
 
@@ -77,7 +79,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü "Schüler" auf Registe
 
 `Schüler > Zeugnis > Zeugnisbemerkungen`<br/>`Extras > Schlüsselverzeichnisse > Zeugnisbemerkungen`
 
-### Position
+### Position (Zeugnisbemerkung)
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü "Schüler" auf der Registerkarte "Zeugnis" unter "Zeugnis". Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen. Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung)
 vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
@@ -85,18 +87,17 @@ vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausg
 ### Platzhalter
 
 Bemerkungen legen Sie unter `Schüler > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So <<hier steht Ihr Platzhalter>>.  
+Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So ``<<hier steht Ihr Platzhalter>>``.  
 
 Möglich sind:
 
-``<<Name>>  ``             -->   Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-``<<Nachname>> ``      -->    Nachname des Schülers
-``<<Vorname>>  `` 	      --->		   Vorname, Vorname2 und Namenszusatz des Schülers
-``<<Anrede1>> ``        	--->		    Er/Sie 		(je nach Geschlecht des Schülers)
-``<<Anrede2>> ``        	---> 		   er/sie 		(je nach Geschlecht des Schülers)
-``<<Anrede3>>   ``      	--->    		seine/ihre	 (je nach Geschlecht des Schülers)
-``<<Anrede4>>  ``       	---> 		    ihm/ihr		 (je nach Geschlecht des Schülers)
-``<<Anrede5>>    ``     	---> 	    	seinen/ihren	 (je nach Geschlecht des Schülers)
-  
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+Platzhalter|Bedeutung
+--|--
+``<<Name>> ``| Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>> ``| Nachname des Schülers
+``<<Vorname>> `` |Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Anrede1>> `` | Er/Sie (je nach Geschlecht des Schülers)
+``<<Anrede2>> `` | er/sie (je nach Geschlecht des Schülers)
+``<<Anrede3>> `` | seine/ihre (je nach Geschlecht des Schülers)
+``<<Anrede4>> `` | ihm/ihr (je nach Geschlecht des Schülers)
+``<<Anrede5>> `` | seinen/ihren (je nach Geschlecht des Schülers)
