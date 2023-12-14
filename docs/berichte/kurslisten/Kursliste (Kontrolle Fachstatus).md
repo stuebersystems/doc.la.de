@@ -1,8 +1,6 @@
 # Kursliste (Kontrolle Fachstatus)
 
-[01]:assets/images/kursliste/002.png "Text"
-
-[![Text][01]][01]
+![Bezeichnung](/assets/images/kurslisten/002.png)
 
 ## Ausdruck
 
