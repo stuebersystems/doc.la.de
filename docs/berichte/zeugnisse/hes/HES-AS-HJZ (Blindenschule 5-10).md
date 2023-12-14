@@ -1,6 +1,6 @@
 # HES-AS-HJZ (Blindenschule 5-10)
 
-![HES-AS-HJZ (Blindenschule 5-10)](assets/images/hes/001.png)
+![HES-AS-HJZ (Blindenschule 5-10)](/assets/images/hes/001.png)
 
 ## Ausdruck
 
