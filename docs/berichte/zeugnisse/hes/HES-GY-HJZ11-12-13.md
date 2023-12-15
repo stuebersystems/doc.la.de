@@ -4,6 +4,10 @@
 
 ![HES-GY-HJZ (11-12-13).rpt )](/assets/images/hes/003.png)
 
+## Ausdruck
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden. Der Bericht muss aus dem Menu `Drucken` `Zeugnis Drucken` (Strg + Z) gedruckt werden.
+
 ## Schulhalbjahr
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck1`
@@ -55,10 +59,6 @@ Sport|Sport
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler` auf Registerkarte `Zeugnis` unter `Details` im Feld `Zeugnisdatum` eingetragen sein. Für die Zusweisung des Zeugnisdatums können Sie auch die Sammelzuweisung nutzen, den Aufruf finden Sie am oberen Rand der Karte `Details`.
 
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden. Der Bericht muss aus dem Menu `Drucken` `Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
 ## Zeugnisbemerkung
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Zeugnis`. Wenn Sie die Schaltfläche `Hinzufügen` anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
@@ -75,6 +75,30 @@ Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler` beim jeweiligen Sc
 `Schüler > Zeugnis > Fächer > Fachlehrer`
 
 Bitte geben Sie im Menü `Schüler > Zeugnis > Fächer` den Lehrer an. Den Lehrer können Sie manuell zuweisen, per Fachtafel ergänzen oder aus DAVINCI (Lehrerunterricht) übernehmen.
+
+## Wochenstunden
+
+`Schüler > Zeugnis > Fächer > Merkmal`<br/>`Extras > Schlüsselverzeichnisse > Fachtafeln > FachtafelFächer > Merkmal`
+
+Für die Ausgabe der Anzahl der Wochenstunden pro Fach tragen Sie im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Fächer` die Wochenstunden im Feld `Merkmal` ein. Für den Zeugnisdruck ist nur der Wert dieses Merkmales relevant. Die Zuweisung kann manuell oder per Fachtafelzuweisung erfolgen.
+
+## Fachthema (Schwerpunkt)
+
+`Schüler > Zeugnis > Fächer > Schwerpunkt`<br/>`Extras > Schlüsselverzeichnisse > Fachtafeln > FachtafelFächer > Schwerpunkt`<br/>`Extras > Schlüsselverzeichnisse > Fachschwerpunkte`
+
+Das Thema des Faches tragen Sie im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Fächer` im Feld `Schwerpunkt` ein. Grundlage hierfür bildet das Schlüsselverzeichnis `Extras > Schlüsselverzeichnisse > Weitere Schlüsselverzeichnisse > Fachschwerpunkte`. Die Zuweisung kann manuell oder per Fachtafelzuweisung erfolgen.
+
+## Dienstbezeichnung
+
+`Extras > Schlüsselverzeichnisse > Dienstbezeichnisse` <br/>`Lehrer > Daten2 > Dienstbez.`
+
+Zur Ausgabe des  Oberstufenleiter oder Studienleiter weisen Sie bitte dem Lehrer jeweiligen im Menü `Lehrer` Registerkarte `Daten 2` im Feld `Dienstbez.` die Dienstbezeichnung `Oberstufenleiter` oder `Studienleiter` zu. Grundlage bildet das Feld `Bezeichnung` im Schlüsselverzeichnis `Extras > Schlüsselverzeichnisse > Dienstbezeichnungen`. **Wichtig ist, dass nur ein Lehrer Ihrer Schule diese Dienstbezeichnung hat.**
+
+## Schulart
+
+`Klassen > Merkmale > MerkmalA6`<br/>`Extras > Schlüsselverzeichnisse > Merkmale (Klassen)`
+
+Die Bezeichnung der Schulart, zum Beispiel ob berufliches oder normales Gymnasium, weisen Sie der jeweiligen Klasse im Menu `Klassen > Merkmale > Merkmal A6` zu. Grundlage bildet das Schlüsselverzeichnis `Extras > Schlüsselverzeichnisse > Merkmale (Klassen)` und ausgegeben wird die Bezeichnung.
 
 ## Zeugnisbemerkungen
 
@@ -102,27 +126,3 @@ Platzhalter > Bedeutung
 ``<<Anrede3>> ``  >  seine/ihre (je nach Geschlecht des Schülers)
 ``<<Anrede4>> ``  >  ihm/ihr (je nach Geschlecht des Schülers)
 ``<<Anrede5>> ``  >  seinen/ihren (je nach Geschlecht des Schülers)
-
-## Wochenstunden
-
-`Schüler > Zeugnis > Fächer > Merkmal`<br/>`Extras > Schlüsselverzeichnisse > Fachtafeln > FachtafelFächer > Merkmal`
-
-Für die Ausgabe der Anzahl der Wochenstunden pro Fach tragen Sie im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Fächer` die Wochenstunden im Feld `Merkmal` ein. Für den Zeugnisdruck ist nur der Wert dieses Merkmales relevant. Die Zuweisung kann manuell oder per Fachtafelzuweisung erfolgen.
-
-## Fachthema (Schwerpunkt)
-
-`Schüler > Zeugnis > Fächer > Schwerpunkt`<br/>`Extras > Schlüsselverzeichnisse > Fachtafeln > FachtafelFächer > Schwerpunkt`<br/>`Extras > Schlüsselverzeichnisse > Fachschwerpunkte`
-
-Das Thema des Faches tragen Sie im Menü `Schüler` auf der Registerkarte `Zeugnis` unter `Fächer` im Feld `Schwerpunkt` ein. Grundlage hierfür bildet das Schlüsselverzeichnis `Extras > Schlüsselverzeichnisse > Weitere Schlüsselverzeichnisse > Fachschwerpunkte`. Die Zuweisung kann manuell oder per Fachtafelzuweisung erfolgen.
-
-## Dienstbezeichnung
-
-`Extras > Schlüsselverzeichnisse > Dienstbezeichnisse` <br/>`Lehrer > Daten2 > Dienstbez.`
-
-Zur Ausgabe des  Oberstufenleiter oder Studienleiter weisen Sie bitte dem Lehrer jeweiligen im Menü `Lehrer` Registerkarte `Daten 2` im Feld `Dienstbez.` die Dienstbezeichnung `Oberstufenleiter` oder `Studienleiter` zu. Grundlage bildet das Feld `Bezeichnung` im Schlüsselverzeichnis `Extras > Schlüsselverzeichnisse > Dienstbezeichnungen`. **Wichtig ist, dass nur ein Lehrer Ihrer Schule diese Dienstbezeichnung hat.**
-
-## Schulart
-
-`Klassen > Merkmale > MerkmalA6`<br/>`Extras > Schlüsselverzeichnisse > Merkmale (Klassen)`
-
-Die Bezeichnung der Schulart, zum Beispiel ob berufliches oder normales Gymnasium, weisen Sie der jeweiligen Klasse im Menu `Klassen > Merkmale > Merkmal A6` zu. Grundlage bildet das Schlüsselverzeichnis `Extras > Schlüsselverzeichnisse > Merkmale (Klassen)` und ausgegeben wird die Bezeichnung.

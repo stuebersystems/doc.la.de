@@ -4,15 +4,17 @@
 
 ![HES-GY-AZ (12-13).rpt  ](/assets/images/hes/002.png)
 
+## Ausdruck
+
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden. Der Bericht muss aus dem Menu `Drucken` `Zeugnis Drucken` (Strg + Z) gedruckt werden.
+
 ## Klassenjahrgang
 
 `Klassen > Zeiträume > Jahrgang`
 
 Im entsprechenden Zeitraum muss im Menü Klassen bei der Klasse des Schülers auf der Registerkarte `Zeiträume` unter `Zeitraum` der Jahrgang im Feld `Jahrgang` angegeben sein.
 
-## Fächer
-
-### Fachstatus
+## Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Weitere Schlüsselverzeichnisse > Fachstati`<br/>`Extras > Schlüsselverzeichnisse > Fachtafeln`
 
