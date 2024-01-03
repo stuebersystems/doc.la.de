@@ -66,6 +66,10 @@ GK | GK | Grundkurse
 
 `Mandanten > Daten > Schulleiter`<br/>`Schüler > Zeugnis > Details > Tutor`
 
+!!! warning "Hinweis"
+
+    Nur für `BER-Schul Z 302 (10.19).rpt` (oder frühere Ausgaben), seit `BER-Schul Z 302 (03.23)` erfolgt als feste Ausgabe "Tutorin / Tutor" und "Schulleiterin / Schulleiter".
+
 Tragen Sie den Schulleiter (analog Tutor) ein, Sie können dabei in der Liste auf einen im Menü `Lehrer` erfassten Datensatz zugreifen. Bitte stellen Sie sicher, dass dem ausgewählten Lehrerdatensatz das Geschlecht zugewiesen wurde.
 
 ## Mandanten
