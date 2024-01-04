@@ -1,4 +1,4 @@
-﻿# BER-Schul Z 255 (03.23)
+﻿# BER-Schul Z 255 - eBBR (03.23)
 
 Schul Z 255 – Zeugnis des Gymnasiums über die erweiterte Berufsbildungsreife
 
