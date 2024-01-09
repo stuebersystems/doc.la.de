@@ -1,6 +1,6 @@
 # Schülerliste (für CSV-Export).rpt
 
-**`Schülerliste (für CSV-Export) ohne Kopfzeile.rpt`**: <br/>Dieser Bericht ist eine Variante von `Schülerliste (für CSV-Export).rpt` und gibt lediglich die Kopfzeile nicht aus.
+Für diesen Bericht gibt es die Variante **`Schülerliste (für CSV-Export) ohne Kopfzeile.rpt`**. Unterschied: die Kopfzeile wird nicht ausgegeben.
 
 [1]:/assets/images/berichte.schueler/002.png "Export nach PDF"
 [2]:/assets/images/berichte.schueler/003.png "Bericht"
