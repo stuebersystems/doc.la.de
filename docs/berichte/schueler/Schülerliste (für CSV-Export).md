@@ -5,7 +5,7 @@ Schülerliste (für CSV-Export).rpt
 
 Dieser Bericht ist eine spezielle Anfertigung um Daten im CSV-Format zu erhalten. 
 
-[![Bericht][1]][1]
+[![Bericht][2]][2]
 
 ## Aufruf
 
