@@ -1,4 +1,4 @@
-Schülerliste (für CSV-Export).rpt
+# Schülerliste (für CSV-Export).rpt
 
 [1]:/assets/images/berichte.schueler/002.png "Export nach PDF"
 [2]:/assets/images/berichte.schueler/003.png "Bericht"
