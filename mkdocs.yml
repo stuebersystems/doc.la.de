@@ -1206,7 +1206,8 @@ nav:
       - Schülerausweis ohne Photo: berichte/schueler/Schülerausweis ohne Photo.md
       - Schülerkarteikarte (DIN A5): berichte/schueler/Schülerkarteikarte (DIN A5).md
       - Schülerkarteikarte: berichte/schueler/Schülerkarteikarte.md
-      - Schülerliste (für CSV-Export): berichte/schueler/Schülerliste (für CSV-Export).md      
+      - Schülerliste (für CSV-Export): berichte/schueler/Schülerliste (für CSV-Export).md
+      - Schülerliste (für CSV-Export) ohne Kopfzeile: berichte/schueler/Schülerliste (für CSV-Export).md   
       - Schülerliste (Klasse, Geburtsdaten, Adresse, Telefon): berichte/schueler/Schülerliste ( Klasse, Geburtsdaten, Adresse, Telefon).md
       - Schülerliste (Klasse, Geburtsdaten, Konfession, Geschlecht): berichte/schueler/Schülerliste ( Klasse, Geburtsdaten, Konfession, Geschlecht).md
       - Schülerliste (Klasse, Tutor, Merkmal B1, B2, B3, B4): berichte/schueler/Schülerliste ( Klasse, Tutor, Merkmal B1, B2, B3, B4).md
