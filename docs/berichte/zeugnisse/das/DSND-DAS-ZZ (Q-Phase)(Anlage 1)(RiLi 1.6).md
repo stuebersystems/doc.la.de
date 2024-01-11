@@ -1,5 +1,8 @@
 # DSND-DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6).rpt
 
+
+Beschreibung gilt auch für `DSND-DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6)G8()).rpt`
+
 [6]:/assets/images/DAS/das06.png
 [7]:/assets/images/DAS/das07.png
 [8]:/assets/images/DAS/das08.png
@@ -101,6 +104,16 @@ Jahrgang/Zeitraum | Ausgabe im Bericht
 12.2 (Q2) | 2. Kurshalbjahr
 13.1 (Q3) | 3. Kurshalbjahr
 13.2 (Q4) | 4. Kurshalbjahr
+
+Für die G8-Variante des Berichts gilt: 
+
+Eingabe|Ergebnis
+--|--
+`Klassen > Zeiträume > Jahrgang` = 11<br/>und<br/>`Schlüsselverzeichnis > Zeiträume > Art`= 1.Halbjahr | 1.
+`Klassen > Zeiträume > Jahrgang` = 11<br/>und<br/>`Schlüsselverzeichnis > Zeiträume > Art`= 2.Halbjahr | 2.
+`Klassen > Zeiträume > Jahrgang` = 12<br/>und<br/>`Schlüsselverzeichnis > Zeiträume > Art`= 1.Halbjahr | 3.
+`Klassen > Zeiträume > Jahrgang` = 12<br/>und<br/>`Schlüsselverzeichnis > Zeiträume > Art`= 2.Halbjahr | 4.
+
 
 ## Klassenjahrgang
 
