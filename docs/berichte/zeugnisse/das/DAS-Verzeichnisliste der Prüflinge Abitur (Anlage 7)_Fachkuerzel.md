@@ -1,4 +1,4 @@
-# # DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7) mit Fachkürzeln
+# DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7) mit Fachkürzeln
 
 [1]:/assets/images/das/das35.01.png "DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7).rpt"
 [2]:/assets/images/das/das36.png "Prüfungsfächer und Unterrichtssprache"
