@@ -5,13 +5,13 @@
 
 ## Ausdruck
 
-`Schüler > Auswahl > Drucken > Bericht drucken > Ausland` <br/>
-`Abitur > Auswahl > Drucken > Bericht drucken > Ausland`
+`Schüler > Auswahl > Drucken > Bericht drucken > Auslandsschulen` <br/>
+`Abitur > Auswahl > Drucken > Bericht drucken > Auslandschulen`
 
 Zum Drucken der Prüfungslisten gehen Sie wie folgt vor:
 
 1) Im Menü `Schüler/Abitur > Auswahl` markieren Sie die gewünschten Schüler.
-2) Wählen Sie über `Start > Drucken > Bericht drucken > Ausland` aus.
+2) Wählen Sie über `Start > Drucken > Bericht drucken > Auslandsschulen` aus.
 
 ![DAS-Verzeichnis der Prüflinge (§ 14 Absatz (5) DIA-PO)][1]
 

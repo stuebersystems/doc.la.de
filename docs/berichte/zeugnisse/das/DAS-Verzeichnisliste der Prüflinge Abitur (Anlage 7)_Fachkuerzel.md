@@ -4,14 +4,13 @@
 [2]:/assets/images/das/das36.png "Prüfungsfächer und Unterrichtssprache"
 
 ## Ausdruck
-
-`Schüler > Auswahl > Drucken > Ausland` <br/>
-`Abitur > Auswahl > Drucken > Ausland`
+`Schüler > Auswahl > Drucken > Bericht drucken > Auslandsschulen` <br/>
+`Abitur > Auswahl > Drucken > Bericht drucken > Auslandschulen`
 
 Zum Drucken der Prüfungslisten gehen Sie wie folgt vor:
 
 1) Im Menü `Schüler/Abitur > Auswahl` markieren Sie die gewünschten Schüler.
-2) Wählen Sie über `Start > Drucken > Ausland` aus.
+2) Wählen Sie über `Start > Drucken > Bericht drucken > Auslandsschulen` aus.
 
 [![DAS-Verzeichnisliste der Prüflinge Abitur (Anlage 7).rpt][1]
 
