@@ -1,6 +1,6 @@
 ﻿# BER-Schul Z 250 (03.23)
 
-[00]:/assets/images/Berlin/schulz250.png "Positionierung der Wahlfächer"
+[00]:/assets/images/Berlin/schulz250.png "BER-Schul Z 250 (03.23)"
 [01]:/assets/images/Berlin/ber-z-250-01.png "Positionierung der Wahlfächer"
 
 Schul Z 250 (03.23)
