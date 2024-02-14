@@ -1432,6 +1432,7 @@ nav:
     - Menü Personen: 
       - Personenliste mit Adressen: berichte/personen/Personenliste mit Adressen.md
     - Menü Sorgeberechtigte: 
+      - Sorgeberechtigte (mit SchuelerID): berichte/sorgeberechtigte/Sorgeberechtigte (mit SchuelerID).md
       - Sorgeberechtigte (nur Funktion1 und Funktion2): berichte/sorgeberechtigte/Sorgeberechtigte (nur Funktion1 und Funktion2).md
       - Sorgeberechtigte mit Kindern aller Zeiträume: berichte/sorgeberechtigte/Sorgeberechtigte mit Kindern aller Zeiträume.md
       - Sorgeberechtigte mit Kindern im aktuellen Zeitraum: berichte/sorgeberechtigte/Sorgeberechtigte mit Kindern im aktuellen Zeitraum.md
