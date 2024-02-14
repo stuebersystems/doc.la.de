@@ -9,11 +9,9 @@
 [07]:/assets/images/sorgeberechtigte/007.png "7"
 [08]:/assets/images/sorgeberechtigte/008.png "8"
 
-
 [![Bericht][01]][01]
 
-
-Der Bericht dient dazu, die ausgelesenen Daten aus der Vorschau heraus als Excel-Datei zu exportieren, die abschließend als CSV-Datei gespeichert werden kann.
+Der Bericht ist nicht für den Druck gedacht, sondern dient dazu, die aus MGELLANA gelesenen Daten aus der Berichtsvorschau heraus als Excel-Datei zu exportieren, die abschließend als CSV-Datei gespeichert werden kann.
 
 ## Aufruf
 
