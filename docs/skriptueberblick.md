@@ -163,11 +163,12 @@ APO 1999|[SAA-APO-1999.dws](https://doc.la.stueber.de/10.saa/saa-apo-1999)|-|SAA
 
 | Verordnung | Abitur| Fachwahl <br/> MAGELLAN | Fachwahl <br/> DAVINCI | Schüler <br/> Leistungskarte | BBS |
 |------------|------------------------------------------|------------------------------------------|------------------------------------------|-------------------------------|-----|
-| APO 1998 | [SHL-APO-1998.dws](https://doc.la.stueber.de/13.shl/shl-apo-1998) | - | SHL-FW-APO-1998.dws | - | - |
-| APO 2007 | [SHL-APO-2007.dws](https://doc.la.stueber.de/13.shl/shl-apo-2007) | - | - | - | - |
-| APO 2010 | [SHL-APO-2010.dws](https://doc.la.stueber.de/13.shl/shl-apo-2007shl-apo-2010) | [SHL-FW-APO-2010.js](https://doc.la.stueber.de/13.shl/shl-fw-apo-2010js) | [SHL-FW-APO-2010.js](https://doc.la.stueber.de/13.shl/shl-fw-apo-2010js) | - | - |
-| APO 2015 | [SHL-APO-2015.dws](https://doc.la.stueber.de/13.shl/shl-apo-2015) | - | - | - | - |
+| APO 2020 | [SHL-APO-2020.dws](https://doc.la.stueber.de/13.shl/shl-apo-2020)| - | - | - | - |
 | APO 2018 | [SHL-APO-2018.dws](https://doc.la.stueber.de/13.shl/shl-apo-2018)| - | - | - | - |
+| APO 2015 | [SHL-APO-2015.dws](https://doc.la.stueber.de/13.shl/shl-apo-2015) | - | - | - | - |
+| APO 2010 | [SHL-APO-2010.dws](https://doc.la.stueber.de/13.shl/shl-apo-2007shl-apo-2010) | [SHL-FW-APO-2010.js](https://doc.la.stueber.de/13.shl/shl-fw-apo-2010js) | [SHL-FW-APO-2010.js](https://doc.la.stueber.de/13.shl/shl-fw-apo-2010js) | - | - |
+| APO 2007 | [SHL-APO-2007.dws](https://doc.la.stueber.de/13.shl/shl-apo-2007) | - | - | - | - |
+| APO 1998 | [SHL-APO-1998.dws](https://doc.la.stueber.de/13.shl/shl-apo-1998) | - | SHL-FW-APO-1998.dws | - | - |
 
 ## Thüringen
 
