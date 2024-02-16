@@ -1,5 +1,7 @@
 ﻿# SHL-GY-FHReife (2015)
 
+Dieser Bericht ist veraltet, bitte verwenden Sie die aktuellere Vorlage.
+
 ## Aufgabenbereich
 
 `Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereich`

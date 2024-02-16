@@ -1,5 +1,7 @@
 ﻿# SHL-GY-AZ (A3)
 
+Dieser Bericht ist veraltet, bitte verwenden Sie die aktuellere Vorlage.
+
 ## Zeugnisbemerkungen Abitur
 
 `Abitur > Zeugnis >Zeugnisbemerkungen`

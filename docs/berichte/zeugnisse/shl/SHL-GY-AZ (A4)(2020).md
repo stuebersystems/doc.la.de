@@ -1,12 +1,21 @@
-﻿# SHL-GY-AZ (A3)(2015)
+﻿# SHL-GY-AZ (A4)(2020)
 
-Dieser Bericht ist veraltet, bitte verwenden Sie die aktuellere Vorlage.
+## Abbildungen
+
+[01]:/assets/images/SHL/004.png "Seite 1"
+[02]:/assets/images/SHL/005.png "Seite 2"
+
+
+[![Seite 1][01]][01]
+
+[![Seite 2][02]][02]
+
 
 ## Ausgabe Schulhalbjahr
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1". Bitte tragen Sie das Datum im Format `jjjj/jj` ein.
 
 ## Jahrgang Klasse
 
@@ -45,12 +54,12 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 E-Kurs E | E-Kurs | Fach mit erhöhtem Anforderungsniveau
 
-## Schulname 
+## Schulname und Ort
 
-`Mandanten > Daten > Name 1`
+`Mandanten > Daten > Name 1`  <br/>`Mandanten > Daten > Name 2` <br/>`Mandanten > Daten > Ort`
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkarte "Daten 1" im Feld "Name
-1" ein.
+1" und "Name 2"ein. Erfassen Sie bitte den Ort unter `Mandanten > Daten > Ort`.
 
 ## SchulleiterIn 
 
@@ -86,9 +95,16 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
 
-## Sprachkenntnisse 
+### Latinum, Graecum, Hebraicum
 
 `Abitur > Prüfung > Sprachkenntnisse`
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung > Sprachkenntnisse` die entsprechenden Felder markieren.
+Um die Bemerkung auf dem Bericht auszugeben, aktivieren Sie bitte das gewünschte Häkchen vor dem Feld unter `Abitur > Prüfung > Sprachkenntnisse.`
 
+Häkchen<br/>aktiviert|Ausgabe
+--|--
+kleines Latinum|Dieses Zeugnis schließt den Nachweis des Kleine Latinums gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+großes Latinum|Dieses Zeugnis schließt den Nachweis des Latinums gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+Graecum|Dieses Zeugnis schließt den Nachweis des Graecums gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+großes Latinum und Graecum|Dieses Zeugnis schließt den Nachweis des Latinums und des Graecums gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
+Hebraicum|Dieses Zeugnis schließt den Nachweis des Hebraicums gemäß „Vereinbarung über das Latinum und das Graecum“ (Beschluss der Kultusministerkonferenz vom 22.09.2005) ein.
