@@ -1,5 +1,7 @@
 ﻿# SHL-GY-ABI (2015)
 
+Bitte verwenden Sie die aktuellere Ausgabe!
+
 `Archiv`
 
 bis 2018

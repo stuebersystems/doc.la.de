@@ -2,6 +2,8 @@
 
 ab 2018
 
+Bitte verwenden Sie die aktuellere Ausgabe!
+
 ## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
