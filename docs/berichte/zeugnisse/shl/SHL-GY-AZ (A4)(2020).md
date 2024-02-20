@@ -52,7 +52,19 @@ Folgende Unterrichtsarten dürfen im Zeugnisdruck verwendet werden:
 
 Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
-E-Kurs E | E-Kurs | Fach mit erhöhtem Anforderungsniveau
+E-Kurs| E | Fach mit erhöhtem Anforderungsniveau
+P-Kurs| P | Profilgebendes Fach
+
+### eA, PF, KF
+
+`Extras > Fächer > Kategorie`<br/>`Extras > Schlüsselverzeichnisse > Unterrichtsart`<br/>`Abitur > Qualifikation > Unterrichtsart`
+
+Ausgabe|Voraussetzung
+--|--
+eA|Fach ist mit der Fachkategorie Deutsch, Mathematik oder Fremdsprache gekennzeichnet <br/>Unterrichtsart ist `E-Kurs`
+PF|Unterrichtsart ist `P-Kurs`
+KF|Fach ist mit der Fachkategorie Deutsch, Mathematik oder Fremdsprache gekennzeichnet <br/>Unterrichtsart ist weder `E-Kurs` noch `P-Kurs`
+
 
 ## Schulname und Ort
 
