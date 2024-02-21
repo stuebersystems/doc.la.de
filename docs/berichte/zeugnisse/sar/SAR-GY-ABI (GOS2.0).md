@@ -16,13 +16,11 @@ Bitte beachten Sie ergänzend die Voraussetzungen für Unterrichtsarten, Fachsta
 
 ## Oberstufenorganisation
 
-[Landesanpassungen](https://doc.la.stueber.de)
-
-Für den Zeugnisdruck des Abiturs/Hauptphase bildet die Online Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript.
+Für den Zeugnisdruck des Abiturs/Hauptphase bildet die Online Dokumentation die Grundlage: [SAR-APO-2018](https://doc.la.stueber.de/12.sar/sar-apo-2018/).
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
+Das Zeugnis muss aus dem Menü `Abitur` gedruckt werden, bitte rufern Sie den Druck über `Start > Drucken > Zeugnisse` oder über `STRG+Z` auf.
 
 ## Fachstatus, Aufgabenbereich, Unterrichtarten
 
@@ -169,7 +167,6 @@ Die Note für die besondere Lernleistung tragen Sie im 1. Notenfeld ganz links e
 [![`Abitur > Prüfung > Lernleistung`][3]][3]
 
 [3]:/assets/images/Saarland/sar003.png
-
 
 ### Seminarfächer
 
