@@ -4,7 +4,25 @@ Vorlage: Anlage 9a [§ 54 (1)] - mit GeR, Abiturzeugnis
 
 Bitte beachten Sie ergänzend die Voraussetzungen für Unterrichtsarten, Fachstatus, Fachkategorien und Aufgabenbereiche für das dazugehörige Berechnungsskript unter https://doc.la.stueber.de/12.sar/sar-apo-2018/.
 
-## Fachstatus
+## Abbildungen
+
+[01]:/assets/images/Saarland/053.png "Seite 1 und 4"[![Seite 1 und 4][01]][01]
+
+[02]:/assets/images/Saarland/054.png "Seite 2 und 3"[![Seite 2 und 3][01]][02]
+
+## Oberstufenorganisation
+
+[Landesanpassungen](https://doc.la.stueber.de)
+
+Für den Zeugnisdruck des Abiturs/Hauptphase bildet die Online Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript.
+
+## Ausdruck
+
+Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
+
+## Fachstatus, Aufgabenbereich, Unterrichtarten
+
+### Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -19,7 +37,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 4PF| 4PF|  4. Prüfungsfach
 5PF |  5PF | 5. Prüfungsfach
 
-## Aufgabenbereich 
+### Aufgabenbereich 
 
 `Schlüsselverzeichnis > Fächer > Aufgabenbereich`
 
@@ -33,7 +51,7 @@ mathem.-nat.-technisch | Mathem.-naturwissenschaftl.-techn. Aufgabenfeld
 Sport| Weitere Fächer
 Religion| Weitere Fächer
 
-## Unterrichtsarten 
+### Unterrichtsarten 
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -45,7 +63,9 @@ Kürzel | Schlüssel | Zeugnisbereich
 L-Kurs | L  | Leistungskurse (L-Kurse), Kurse auf erhöhtem Anforderungsniveau
 G-Kurs | G | Grundkurse (G-Kurse), Kurs auf grundlegendem Anforderungsniveau
 
-## Fremdsprachenfolge 
+## Sprachen
+
+### Fremdsprachenfolge 
 
 `Schüler > Daten 3 > Von/Bis-Datum`
 
@@ -73,47 +93,30 @@ In einem Rundschreiben wurde mitgeteilt, dass für die zweite Fremdsprache in de
 [7]:/assets/images/Saarland/sar007.png
 [8]:/assets/images/Saarland/sar008.png
 
-## Oberstufenorganisation
+### Latinum / Graecum 
 
-[Landesanpassungen](https://doc.la.stueber.de)
+`Abitur > Prüfung`
 
-Für den Zeugnisdruck des Abiturs/Hauptphase bildet die Online Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript.
+Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
 
-## SchulleiterIn 
+## Vorsitz Abiturprüfungskommission, Schulleiter 
 
-`Mandanten > Daten 1 > Schulleiter`
+`Extras > Schlüsselverzeichnisse > Amtsbezeichnungen > Kürzel`<br/>`Extras > Schlüsselverzeichnisse > Dienstbezeichnungen > Kürzel`<br/> `Lehrer > Daten 2 > Amtsbez.` <br/>`Lehrer > Daten 2 > Dienstbez.` <br/>`Mandanten > Daten 1 > Schulleiter`
 
-Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
 
-## Vorsitzender/Vorsitzende der Abiturprüfungskommission 
+Vorsitzende der Abiturprüfungskommission:
+Erfassen Sie im Menü `Lehrer`, einen Datensatz für den Vorsitz der Abiturprüfungskommission. Geben Sie dem Lehrer das Kürzel "PR-KOM".
 
-`Lehrer`
+Erfassen mindestens den Nachnamen und das Geschlecht. Nehmen Sie weiterhin folgende Eintragungen vor:
 
-Erfassen Sie im Menü `Lehrer`, die/den Vorsitzender/Vorsitzende der Abiturprüfungskommission. Geben Sie dem Lehrer das Kürzel "PR-KOM". Nehmen Sie weiterhin folgende Eintragungen vor:
-`Lehrer > Daten 1`: Erfassen Sie hier im Feld "Geschlecht" das Geschlecht
-`Lehrer > Daten 2`: Erfassen Sie hier im Feld "Dienstbezeichnung" die entsprechende Dienstbezeichung, Grundlage dafür bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`
+`Lehrer > Daten 1`: Erfassen Sie den Nachnamen und das Geschlecht
+`Lehrer > Daten 2`: Erfassen Sie die `Dienstbez.` oder `Amtsbez.`
 
-## Amtsbezeichnung der LeherInnen
+Schulleiter: 
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden, unter `Lehrer > Daten1` erfassen Sie bitte das Geschlecht.
 
-`Lehrer > Daten 2 > Amtsbez.`
-
-Die Amtsbezeichnung des Schulleiters / Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld „Amtsbez.“ ein. Grundlage für das Zuweisen einer Amtsbezeichnung bildet das `Schlüsselverzeichnis > Amtsbezeichnungen`.
-
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
-
-## Benotung
-
-`Klassen > Daten > Beurteilungsart`
-
-Im Menü `Klassen > Daten` muss bei der Klasse des Schülers im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
-
-## Zeugnisdatum 
-
-`Abitur > Prüfung > Zeugnisdatum`
-
-Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
+Amtsbezeichnung/Dienstbezeichnung: 
+Die Amtsbezeichnung des Schulleiters oder des Vorsitzenden der Prüfungskommission tragen Sie für den jeweiligen im Menü `Lehrer > Daten 2` im Feld `Amtsbez.` oder im Feld `Dienstbez.` ein. Es wird erst das Feld `Amtsbez.` geprüft, ist dort ein Wert erfasst, wird das Kürzel ausgegeben. Wenn dort der Eintrag fehlt, wird als nächstes das Feld `Dienstbez.` geprüft und das Kürzel des dort erfassten Wertes ausgegeben.
 
 ## Mandant 
 
@@ -121,13 +124,29 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" 
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
 
-## Latinum / Graecum 
+## Benotung
 
-`Abitur > Prüfung`
+`Klassen > Daten > Beurteilungsart`
 
-Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `Abitur > Prüfung` die entsprechenden Felder markieren.
+Im Menü `Klassen > Daten` muss bei der Klasse des Schülers im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
 
-## Besondere Lernleistung 
+## Datumswerte
+
+### Eintrittsdatum in die Oberstufe
+
+`Schüler > Merkmale > Merkmal D1`
+
+Eintrittsdatum in die Oberstufe: Tragen Sie im Menü `Schüler > Merkmale`  im Feld "Merkmal D1" das Datum des Eintritts in die Oberstufe ein.
+
+### Zeugnisdatum 
+
+`Abitur > Prüfung > Zeugnisdatum`
+
+Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" ein.
+
+## Seminarfach, BLL
+
+### Besondere Lernleistung 
 
 `Abitur > Prüfung > Lernleistung`
 
@@ -138,49 +157,14 @@ Die Note für die besondere Lernleistung tragen Sie im 1. Notenfeld ganz links e
 
 [3]:/assets/images/Saarland/sar003.png
 
-## Seminarfächer
+
+### Seminarfächer
 
 `Schlüsselverzeichnisse > Fächer > Aufgabenbereich (Seminar)`
 
 Weisen Sie dem Fach "Seminarfach" im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" der Wert "Seminar" zu.
 
-## Zeugnisbemerkungen 
-
-`Schüler > Zeugnis > Bemerkungen/Formulare` ODER
-`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
-`Berufsschule > Zeugnisbemerkungen`
-
-Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
-Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So `<<hier steht Ihr Platzhalter>>`.  
-
-Möglich sind:
-Platzhalter in MAGELLAN | Anzeige im Bericht
---|--
-``<<Vorname>>`` | Vorname Vorname2
-``<<Nachname>>`` | Nachname
-``<<NachnameV>>`` | Namenszusatz Nachname
-``<<Name>>`` | Vorname Vorname2 Namenszusatz Nachname
-``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-``<<Nachname>>``  |  Nachname des Schülers
-``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
-``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
-``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)     
-``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers) 
-``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers) 
-``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers) 
-``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers) 
-``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers) 
-``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)
-``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin  (je nach Geschlecht des Schülers) 
-``<<DemSchueler_DerSchuelerin>> `` |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)"
-
-## Eintrittsdatum in die Oberstufe
-
-`Schüler > Merkmale > Merkmal D1`
-
-Eintrittsdatum in die Oberstufe: Tragen Sie im Menü `Schüler > Merkmale`  im Feld "Merkmal D1" das Datum des Eintritts in die Oberstufe ein.
-
-## Noten
+### Noten
 
 `Extras > Schlüsselverzeichnisse > Noten > Notenart (Punktwerte)`
 
@@ -203,3 +187,37 @@ bL 13| sehr gut | | 13 |	Punktwert | Keine Farbe ausgewählt | | |
 
 [3]:/assets/images/Saarland/sar003.png
 [5]:/assets/images/Saarland/sar005.png
+
+
+## Zeugnisbemerkungen 
+
+`Schüler > Zeugnis > Bemerkungen/Formulare` ODER
+`Abitur > Abitur > Zeugnis > Zeugnisbemerkungen`ODER
+`Berufsschule > Zeugnisbemerkungen`
+
+
+Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` ODER im Menü `Abitur > Zeugnis > Zeugnisbemerkungen` ODER `Abitur > Zeugnis > Zeugnisbemerkungen` an. Vergeben Sie für jede Zeugnisbemerkung eine Position, auch wenn es nur eine Bemerkung gibt. Postitionen sollen aufsteigend sein, müssen aber nicht aufeinanderfolgend sein.
+
+Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren.  
+Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So `<<hier steht Ihr Platzhalter>>`.  
+
+Möglich sind:
+Platzhalter in MAGELLAN | Anzeige im Bericht
+--|--
+``<<Vorname>>`` | Vorname Vorname2
+``<<Nachname>>`` | Nachname
+``<<NachnameV>>`` | Namenszusatz Nachname
+``<<Name>>`` | Vorname Vorname2 Namenszusatz Nachname
+``<<Name>>`` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+``<<Nachname>>``  |  Nachname des Schülers
+``<<Vorname>>`` |  Vorname, Vorname2 und Namenszusatz des Schülers
+``<<Er_Sie>>`` |  Er/Sie (je nach Geschlecht des Schülers)
+``<<Seine_Ihre>>`` | Seine/Ihre (je nach Geschlecht des Schülers)     
+``<<seine_ihre>>`` |  seine/ihre (je nach Geschlecht des Schülers) 
+``<<Ihm_Ihr>>`` |  Ihm/Ihr (je nach Geschlecht des Schülers) 
+``<<ihm_ihr>>`` |  ihm/ihr (je nach Geschlecht des Schülers) 
+``<<Seinen_Ihren>>`` |  Seinen/Ihnen (je nach Geschlecht des Schülers) 
+``<<seinen_ihren>>`` |  seinen/ihnen (je nach Geschlecht des Schülers) 
+``<<DerSchueler_DieSchuelerin>>`` |  Der Schüler/Die Schülerin je nach Geschlecht des Schülers)
+``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin  (je nach Geschlecht des Schülers) 
+``<<DemSchueler_DerSchuelerin>> `` |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)"

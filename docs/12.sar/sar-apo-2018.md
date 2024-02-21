@@ -18,11 +18,11 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 | Bezeichnung  | beliebig                                 |
 | Kategorie    | Abitur                                   |
 | Typ          | leer |
-| Ab Jahrgang  | leer                                       |
-| Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server) |
+| Ab Jahrgang  | `10` oder `11` <br/>Geben Sie die 10 für G8, die 11 für G9 ein!                             |
+| Skript       | ```...\Ihre Region\Ihr_Skript.dws``` (Pfad zur Skriptdatei auf Ihrem Server)                |
 | Notenart 11  | leer _(Einführungsphase, Gymnasien: Klassenstufe 10, Gemeinschaftsschule: Klassenstufe 11)_ |
-| Notenart 12  | Punkte _(Hauptphase, Gymnasien: 11/1 und 11/2, Gemeinschaftsschule: 12/1 und 12/2)_      |
-| Notenart 13  | Punkte  _(Hauptphase, Gymnasien: 12/1 und 12/2, Gemeinschaftsschule: 13/1 und 13/2)_     |
+| Notenart 12  | Punkte _(Hauptphase, Gymnasien: 11/1 und 11/2, Gemeinschaftsschule: 12/1 und 12/2)_         |
+| Notenart 13  | Punkte  _(Hauptphase, Gymnasien: 12/1 und 12/2, Gemeinschaftsschule: 13/1 und 13/2)_        |
 | Notenart BBS | leer                                     |
 | Gültig von   | leer                                     |
 | Gültig bis   | leer                                     |
