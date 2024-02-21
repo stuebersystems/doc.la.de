@@ -120,6 +120,16 @@ Die Amtsbezeichnung des Schulleiters oder des Vorsitzenden der Prüfungskommissi
 
 ## Mandant 
 
+### Logo
+
+`Mandanten > Daten 2 > Logo1`<br/>`Mandanten > Daten 2 > Logo2`
+
+Um die Logos der Seite 1 rechts und links vom Schulnamen zu befüllen, hinterlegen Sie bitte die Bilddateien unter `Mandanten > Daten2`. Die Platzhalter sind beispielhaft hinterlegt, je nach Abmaß Ihrer Logodateien kann es nötig sein, die Platzhalter im Bericht anzupassen.
+
+Logo1 = Linke Seite <br/> Logo2 = rechte Seite
+
+### Ort
+
 `Mandanten > Daten 1 > Ort`
 
 Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld „Ort“.
