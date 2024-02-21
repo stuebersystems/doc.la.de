@@ -6,9 +6,13 @@ Bitte beachten Sie ergänzend die Voraussetzungen für Unterrichtsarten, Fachsta
 
 ## Abbildungen
 
-[01]:/assets/images/Saarland/053.png "Seite 1 und 4"[![Seite 1 und 4][01]][01]
+[01]:/assets/images/Saarland/053.png "Seite 1 und 4"
 
-[02]:/assets/images/Saarland/054.png "Seite 2 und 3"[![Seite 2 und 3][01]][02]
+[![Seite 1 und 4][01]][01]
+
+[02]:/assets/images/Saarland/054.png "Seite 2 und 3"
+
+[![Seite 2 und 3][02]][02]
 
 ## Oberstufenorganisation
 
@@ -102,7 +106,6 @@ Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `A
 ## Vorsitz Abiturprüfungskommission, Schulleiter 
 
 `Extras > Schlüsselverzeichnisse > Amtsbezeichnungen > Kürzel`<br/>`Extras > Schlüsselverzeichnisse > Dienstbezeichnungen > Kürzel`<br/> `Lehrer > Daten 2 > Amtsbez.` <br/>`Lehrer > Daten 2 > Dienstbez.` <br/>`Mandanten > Daten 1 > Schulleiter`
-
 
 Vorsitzende der Abiturprüfungskommission:
 Erfassen Sie im Menü `Lehrer`, einen Datensatz für den Vorsitz der Abiturprüfungskommission. Geben Sie dem Lehrer das Kürzel "PR-KOM".
