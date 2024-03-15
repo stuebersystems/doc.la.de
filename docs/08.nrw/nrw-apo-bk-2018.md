@@ -46,9 +46,9 @@ Bitte legen Sie unter `Verzeichnisse > Verordnungen` eine neue Zeile an und fül
 ## Fachkategorien
 
 Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`. 
-Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werden. Für diese Fächer sind die zu verwendenden Fachkategorien fest vorgeschrieben. Alle anderen Fächer können mit einer der übrigen Fachkategorie gekennzeichnet werden oder ohne Fachkategorie geführt werden.
+Dabei müssen, je nach Verordnung, einige Fächer besonders berücksichtigt werden. Für diese Fächer sind die zu verwendenden Fachkategorien fest vorgeschrieben.
 
-|Fachkategorien|Muss genutzt werden|
+|Fachkategorien|vom Skript<br/>berücksichtigt|
 |--|--|
 |Fremdsprache|**Ja**|
 |Religion/Ethik|**Ja**|
