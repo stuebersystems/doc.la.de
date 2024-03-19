@@ -11,7 +11,7 @@
 
 [![Bericht][01]][01]
 
-Der Bericht ist nicht für den Druck gedacht, sondern dient dazu, die aus MGELLANA gelesenen Daten aus der Berichtsvorschau heraus als Excel-Datei zu exportieren, die abschließend als CSV-Datei gespeichert werden kann.
+Der Bericht ist nicht für den Druck gedacht, sondern dient dazu, die aus MAGELLAN gelesenen Daten aus der Berichtsvorschau heraus als Excel-Datei zu exportieren, die abschließend als CSV-Datei gespeichert werden kann.
 
 ## Aufruf
 
