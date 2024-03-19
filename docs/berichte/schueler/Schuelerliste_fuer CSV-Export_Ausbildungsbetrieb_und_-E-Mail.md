@@ -55,9 +55,11 @@ Wählen Sie "getrennt" und klicken auf "Weiter"!
 
 [![Speichern][05]][05]
 
-Aktivieren Sie nur die Auswahl "Semikolon" und klicken auf "Fertigstellen"! Als Ergebnis werden die Daten jetzt spaltenweise dargestellt. Rufen Sie `Datei > Speichern unter` auf und achten bitte darauf, dass Sie als Dateityp wählen "CSV (Trennzeichen-getrennt) (*.csv)"
+Aktivieren Sie nur die Auswahl "Semikolon" und klicken auf "Fertigstellen"! 
 
 [![Speichern][06]][06]
+
+Als Ergebnis werden die Daten jetzt spaltenweise dargestellt. Rufen Sie `Datei > Speichern unter` auf und achten bitte darauf, dass Sie als Dateityp wählen "CSV (Trennzeichen-getrennt) (*.csv)"
 
 [![Speichern][07]][07]
 
