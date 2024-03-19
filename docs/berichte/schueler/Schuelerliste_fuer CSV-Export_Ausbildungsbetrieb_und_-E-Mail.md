@@ -7,7 +7,7 @@
 [05]:/assets/images/schueler/008.png "5"
 [06]:/assets/images/schueler/009.png "6"
 [07]:/assets/images/schueler/010.png "7"
-[08]:/assets/images/sorgeberechtigte/011.png "8"
+[08]:/assets/images/schueler/011.png "8"
 [09]:/assets/images/schueler/004.png "aktueller Betrieb"
 
 [![Bericht][01]][01]
