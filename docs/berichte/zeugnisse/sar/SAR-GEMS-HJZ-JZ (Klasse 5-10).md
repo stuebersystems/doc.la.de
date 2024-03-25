@@ -3,6 +3,49 @@
 Zeugnis für Anlagen 4.1, 4.2, 4.3, 4.4
 umfasst Halbjahreszeugnis Klassenstufe 5-10 sowie Jahreszeugnis Klassenstufe 5-8
 
+## Ausdruck
+
+`Schüler > Auswahl > Drucken > Zeugnisse drucken...`
+
+Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
+
+Das Zeugnis kann sowohl Halbjahres- und Jahreszeugnis sein. Maßgebend ist der Eintrag im `Schlüsselverzeichnis > Zeiträume` in Spalte „Art“ 1. Halbjahr oder 2 Halbjahr.
+
+Weiterhin können Sie das Zeugnis für die Klassen 5-10 nutzen. Die unterschiedlichen Inhalte ergeben sich aufgrund des eingetragenen Jahrganges im Menü `Klassen > Zeiträume > Zeitraum`.
+
+Hinweis: In Klassenstufen 9 + 10 werden keine Jahreszeugnisse gedruckt, verwenden Sie hier bitte das Abschlusszeugnis für Gemeinschaftsschulen für Klasse 9+10!
+
+## KlassenleiterIn, SchulleiterIn, Deinstbezeichnung
+
+`Klassen > Zeiträume >  Klassenleiter 1/Klassenleiter 2`
+
+Wenn im Menü `Klassen > Zeiträume` im Feld „Klassenleiter 1“ und "Klassenleiter 2" Lehrer eingetragen werden, werden beide auf dem Zeugnis ausgegeben.
+
+### SchulleiterIn
+
+`Mandanten > Daten 1 > Schulleiter`
+
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
+
+### KlassenleiterIn
+
+`Klassen > Zeiträume > Zeitraum > Klassenleiter`
+
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
+
+
+### st. KlassenleiterIn
+
+`Klassen > Zeiträume > Zeitraum > Klassenleiter 2`
+
+Der stellv. Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` im Feld „Klassenleiter 2“ eingetragen werden.
+
+### Dienstbezeichnung der Lehrer
+
+`Lehrer > Daten 2 > Dienstbez.`
+
+Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez. ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
+
 ## Zeugniskonferenzdatum
 
 `Schueler > Zeugnis > Details > Zeugniskonferenz am`
@@ -24,7 +67,8 @@ Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:"
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
-WahlPF | WahlPF | Wahlpflichtbereich"
+Pflicht | Pflicht | Pflicht
+WahlPF | WahlPF | Wahlpflichtbereich
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
 ## Schuldaten
@@ -33,27 +77,11 @@ Wahlb | Wahlb | Wahlfächer bzw. –bereich
 
 Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
 
-## SchulleiterIn
-
-`Mandanten > Daten 1 > Schulleiter`
-
-Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden.
-
-## KlassenleiterIn
-
-`Klassen > Zeiträume > Zeitraum > Klassenleiter`
-
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden.
-
 ## Zeugnisdatum
 
 `Schüler > Zeugnis > Details > Zeugnisdatum`
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
-
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 ## Benotung
 
@@ -67,22 +95,6 @@ Im Menü `Klassen > Daten` muss bei der Klasse des Schülers im Feld "Beurteilun
 
 Der Ort des Druckdatums ergibt sich aufgrund der Eintragung im Menü `Mandanten > Daten 1` im Feld "Ort".
 
-## Dienstbezeichnung der Lehrer
-
-`Lehrer > Daten 2 > Dienstbez.`
-
-Die Dienstbezeichnung des Schulleiters / Lehrers tragen Sie im Menü `Lehrer > Daten 2` im Feld "Dienstbez. ein. Grundlage für das Zuweisen einer Dienstbezeichnung bildet das `Schlüsselverzeichnis > Dienstbezeichnungen`.
-
-## Ausdruck
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
-
-## st. KlassenleiterIn
-
-`Klassen > Zeiträume > Zeitraum > Klassenleiter 2`
-
-Der stellv. Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` im Feld „Klassenleiter 2“ eingetragen werden.
-
 ## Ausgabe Schuljahr
 
 `Schlüsselverzeichnis > Zeiträume > Ausdruck 2`
@@ -93,7 +105,6 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 `Schüler > Zeugnis > Fächer > Niveau`
 
-Einstufungen im nächsten Halbjahr
 Die Einstufungen im nächsten Halbjahr tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Anforderungsebenen tragen sie `Schlüsselverzeichnis > Fachniveaus` ein. Verwenden Sie diese wie folgt:
 
 Kürzel | Schlüssel | Zeugnisbereich
@@ -102,9 +113,8 @@ G | G | Grundkurs
 E | E | Erweiterungskurs
 A | A | Aufbaukurs
 
-Beachten Sie dabei, dass die Fächer nur ausgelesen werden können, wenn Sie im `Schlüsselverzeichnis > Fächer` im Feld "Merkmal" ein Merkmal für das Fach wie folgt anlegen: 
-jeweils die ersten 3 Buchstaben des Faches in Großbuchstaben, 
-also für
+Beachten Sie dabei, dass die Fächer nur ausgelesen werden können, wenn Sie im `Schlüsselverzeichnis > Fächer` im Feld "Merkmal" ein Merkmal für das Fach wie folgt anlegen: <br/>
+jeweils die ersten 3 Buchstaben des Faches in Großbuchstaben, also für
 
 Fach | Merkmal
 --|--
@@ -142,12 +152,12 @@ Der 2ten Fremdsprache muss im Menü `Schüler > Zeugnis > Fächer` im Feld "Fach
 
 `Schüler > Zeugnis > Fächer > Merkmal (*, )`
 
-## Integrationszeugnis - Kennzeichnung der Fächer mit Förderung
-
 Fächer, die nach einem individuellen Förderplan unterrichtet wurden, kennzeichnen Sie im Menü `Schüler > Zeugnis > Fächer` in der Spalte "Merkmal" wie folgt:
 
-"*"    bedeutet: sonderpädagogische Förderung im Bereich Lernen
-""  bedeutet: sonderpädagogische Förderung im Bereich geistige Entwicklung
+Eintrag|Ergebnis
+--|--
+"*"   | bedeutet: sonderpädagogische Förderung im Bereich Lernen
+""    | bedeutet: sonderpädagogische Förderung im Bereich geistige Entwicklung
 
 Unter den Bemerkungen wird infolge der Zuweisung "*" oder "" in der Spalte "Merkmal" beim Fach der entsprechende Bemerkungstext ausgegeben.
 
@@ -171,7 +181,7 @@ Unter den Zeugnisbemerkungen wird dies automatisch ausgewiesen: „Zeugnisnote a
 `Mandanten > Daten 2 > Logo 1, Logo 2`
 
 Die Landeswappen und/oder Ihr Schullogo können individuell auf dem Zeugnis ausgegeben werden:  
-Im Menü `Mandanten > Daten 2` können Sie ihre Landeswappen oder Ihre Schullogos im "jepg" Format hochladen. Damit es zu keiner Skalierung kommt beachten Sie dabei, dass Ihre Datei nach Möglichkeit 2,8 cm hoch wie breit sein sollte.
+Im Menü `Mandanten > Daten 2` können Sie ihre Landeswappen oder Ihre Schullogos im "jpg" Format hochladen. Damit es zu keiner Skalierung kommt beachten Sie dabei, dass Ihre Datei nach Möglichkeit 2,8 cm hoch wie breit sein sollte.
 
 ## Ausgabe der Arbeitsgemeinschaften
 
@@ -183,15 +193,6 @@ Es werden nur Arbeitsgemeinschaften mit der Endnote "tg" (teilgenommen) ausgegeb
 
 Ein Handout zu den Zeugnisformularen Klassenstufen 5-10 (Gymnasium) ist auf dem BSCW-Server [http://bscw.saarland.de](http://bscw.saarland.de) abgelegt.
 
-## Ausdruck
-
-`Schüler > Auswahl > Drucken > Zeugnisse drucken...`
-
-Das Zeugnis kann sowohl Halbjahres- und Jahreszeugnis sein. Maßgebend ist der Eintrag im `Schlüsselverzeichnis > Zeiträume` in Spalte „Art“ 1. Halbjahr oder 2 Halbjahr.
-
-Weiterhin können Sie das Zeugnis für die Klassen 5-10 nutzen. Die unterschiedlichen Inhalte ergeben sich aufgrund des eingetragenen Jahrganges im Menü `Klassen > Zeiträume > Zeitraum`.
-
-Hinweis: In Klassenstufen 9 + 10 werden keine Jahreszeugnisse gedruckt, verwenden Sie hier bitte das Abschlusszeugnis für Gemeinschaftsschulen für Klasse 9+10!
 
 ## Anforderungsebenen/Einstufungen der Fächer
 
@@ -209,47 +210,7 @@ A | A | Aufbaukurs
 Die Einstufungen im aktuellen Halbjahr tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Unterrichtsart" ein.
 Die Erläuterungen zu den Einstufungen werden im Zeugnisbericht automatisch gesetzt.
 
-## Ausdruck
 
-`Schüler > Auswahl > Drucken > Zeugnisse drucken...`
-
-## Differenzierung Zeugnisbemerkung durch Merkmale
-
-`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale (alle, zb, AZ, AS, VHZ)`
-
-Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
-
-In den Berichten sind zwei Bereiche für Zeugnisbemerkungen implementiert. Die beiden Bereiche werden über das Feld "Merkmal" der Zeugnisbemerkungen angesteuert.
-Innerhalb der beiden Bereiche wird die Reihenfolge der Zeugnisbemerkungen über die Angabe der "Positionsnummer" gesteuert.
-
-Um Zeugnisbemerkungen im oberen Bereich zu platzieren, muss im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` der Zeugnisbemerkung im Feld "Merkmal" der Eintrag "alle" zugewiesen sein. Dieser Bereich ist für Zeugnisbemerkungen reserviert, die auf allen Zeugnissen (VHZ, HJZ/JZ, AS und AZ) erscheinen sollen.
-
-Zeugnisbemerkungen können gezielt auf einen Bericht (Zeugnisformular) beschränkt werden:
-
-Merkmal | Zeugnisformular
---|--
-zb | Zeugnisbemerkung erscheint nur auf Halbjahres-/Jahreszeugnis
-AZ | Zeugnisbemerkung erscheint nur auf Abgangszeugnis
-AS | Zeugnisbemerkung erscheint nur auf Abschlusszeugnis
-VHZ | Zeugnisbemerkung erscheint nur auf Verhaltenszeugnis
-
-Sie können Zeugnisbemerkungen über Platzhalter personalisieren. Möglich sind:
-
-Platzhalter | Ausgabe im Bericht
---|--
-``<<Vorname>>`` | Vorname und 2. Vorname des Schülers
-``<<Nachname>``| Zusatz und Nachname des Schülers
-``<<Frau>>	`` | Frau
-``<<Sie>>`` | Sie
-``<<Herr>>`` | Herr
-``<<Herrn>>``| Herrn
-``<<Er>>`` | Er"
-
-## KlassenleiterIn
-
-`Klassen > Zeiträume >  Klassenleiter 1/Klassenleiter 2`
-
-Wenn im Menü `Klassen > Zeiträume` im Feld „Klassenleiter 1“ und "Klassenleiter 2" Lehrer eingetragen werden, werden beide auf dem Zeugnis ausgegeben.
 
 ## Erfüllung Schulpflicht
 
@@ -269,6 +230,40 @@ Was genau prüft der Bericht?
 1. Wenn im Menü `Klassen > Zeiträume` im Feld "Jahrgang" der Wert 1, 2, 3, 4, 5, 6 oder 7 und/oder keine 2. Fremdsprache im Menü `Schüler > Daten 3` angegeben, wird der Bereich immer angezeigt!
 2. Ein Unterdrücken passiert nur, wenn Jahrgang > 7 und 2. FS angegeben ist.
 
+## Zeugnisbemerkungen
+
+### Differenzierung Zeugnisbemerkung durch Merkmale
+
+`Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale (alle, zb, AZ, AS, VHZ)`
+
+Zeugnisbemerkungen können im `Schlüsselverzeichnis > Zeugnisbemerkungen` vordefiniert werden oder beim Schüler individuell formuliert werden.
+
+In den Berichten sind zwei Bereiche für Zeugnisbemerkungen implementiert. Die beiden Bereiche werden über das Feld "Merkmal" der Zeugnisbemerkungen angesteuert.
+Innerhalb der beiden Bereiche wird die Reihenfolge der Zeugnisbemerkungen über die Angabe der "Positionsnummer" gesteuert.
+
+Um Zeugnisbemerkungen im oberen Bereich zu platzieren, muss im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` der Zeugnisbemerkung im Feld "Merkmal" der Eintrag "alle" zugewiesen sein. Dieser Bereich ist für Zeugnisbemerkungen reserviert, die auf allen Zeugnissen (VHZ, HJZ/JZ, AS und AZ) erscheinen sollen.
+
+Zeugnisbemerkungen können gezielt auf einen Bericht (Zeugnisformular) beschränkt werden:
+
+Merkmal | Zeugnisformular
+--|--
+zb | Zeugnisbemerkung erscheint nur auf Halbjahres-/Jahreszeugnis
+AZ | Zeugnisbemerkung erscheint nur auf Abgangszeugnis
+AS | Zeugnisbemerkung erscheint nur auf Abschlusszeugnis
+VHZ | Zeugnisbemerkung erscheint nur auf Verhaltenszeugnis
 
 
+## Platzhalter
+
+Sie können Zeugnisbemerkungen über Platzhalter personalisieren. Möglich sind:
+
+Platzhalter | Ausgabe im Bericht
+--|--
+``<<Vorname>>`` | Vorname und 2. Vorname des Schülers
+``<<Nachname>``| Zusatz und Nachname des Schülers
+``<<Frau>>	`` | Frau
+``<<Sie>>`` | Sie
+``<<Herr>>`` | Herr
+``<<Herrn>>``| Herrn
+``<<Er>>`` | Er
 
