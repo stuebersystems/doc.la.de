@@ -20,7 +20,7 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 `Klassen > Zeiträume > Jahrgang`<br/>`Schlüsselverzeichnisse > Zeiträume > Von`
 
 Bitte achten Sie darauf, dass der `Jahrgang` für die Klassenzeiträume unter `Klassen > Zeiträume` gefüllt ist. 
-Das Jahr wird aus dem kleinsten Klassenzeitraum, dem den `Jahrgang` 10 zugeordnet wurde abgeleitet. 
+Das Jahr wird aus dem kleinsten Klassenzeitraum, dem der `Jahrgang` 10 zugeordnet wurde abgeleitet. 
 
 ## Fachstatus, Unterrichtsart
 

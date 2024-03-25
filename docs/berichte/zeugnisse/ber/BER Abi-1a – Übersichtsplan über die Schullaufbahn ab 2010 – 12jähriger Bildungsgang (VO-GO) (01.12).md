@@ -22,7 +22,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 `Klassen > Zeiträume > Jahrgang`<br/>`Schlüsselverzeichnisse > Zeiträume > Von`
 
 Bitte achten Sie darauf, dass der `Jahrgang` für die Klassenzeiträume unter `Klassen > Zeiträume` gefüllt ist. 
-Das Jahr wird aus dem kleinsten Klassenzeitraum, dem den `Jahrgang` 11 zugeordnet wurde abgeleitet. 
+Das Jahr wird aus dem kleinsten Klassenzeitraum, dem der `Jahrgang` 11 zugeordnet wurde abgeleitet. 
 
 ## Fachstatus, Unterrichtsart
 
