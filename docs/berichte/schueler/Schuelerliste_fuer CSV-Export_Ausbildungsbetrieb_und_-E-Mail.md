@@ -29,13 +29,14 @@ Als aktueller Betrieb wird für den Schüler der Betrieb ausgegeben, der am unte
 
 Kopfzeile: keine
 
-Datenzeile: `Schueler.ID;Betrieb.Name1;Betrieb.Email`
+Datenzeile: `Schueler.ID;Betrieb.Name1;Betrieb.Email;Betriebekontakte.ID`
 
 Titel|Inhalt
 --|--
 SchülerID|`Schülerauswahlliste > ID`
 Ausbildungsbetrieb.Name1|`Betriebe > Daten > Name1`
 Ausbildungsbetrieb.E-Mail|`Betriebe > Daten > E-Mail`
+BetriebeKontakte.ID|`Schueler > Ausbildung > Ausbilderkontakt`
 
 ## Weiterverarbeitung
 
