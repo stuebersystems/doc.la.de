@@ -2,6 +2,7 @@
 
 BER-Schul Z 259(03.23)
 
+![BER-Schul Z 259(03.23)][1]
 
 [1]:/assets/images/Berlin/schulz259.png "BER-Schul Z 259(03.23)"
 
