@@ -20,8 +20,6 @@ Geboren am<br/>Geburtsort|`Schueler > Daten1` Geburtsdatum, Geburtsort
 Gymnasium besucht von/bis| `Schueler > Daten2` Zugang am, Abgang am
 Jahrgangsstufe| `Klasse > Zeiträume > Jahrgang`
 
-
-
 ## Fehlzeiten, Versäumnisse
 
 ### Fehltage und/oder Fehlstunden
