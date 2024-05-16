@@ -123,13 +123,13 @@ Naturwissenschaften | 6
 Kunst | 7
 Musik | 8
 Sport | 9
-Ethik |`Extras > Schlüsselverzeichnisse > Fächer > Fachmerkmal` = **Ethik**
-Geografie |`Extras > Schlüsselverzeichnisse > Fächer > Fachmerkmal` = **Geografie**
-Geschichte |`Extras > Schlüsselverzeichnisse > Fächer > Fachmerkmal` = **Geschichte**
-Politische Bildung |`Extras > Schlüsselverzeichnisse > Fächer > Fachmerkmal` = **PB**
-Biologie |`Extras > Schlüsselverzeichnisse > Fächer > Fachmerkmal` = **Biologie**
-Chemie |`Extras > Schlüsselverzeichnisse > Fächer > Fachmerkmal` = **Chemie**
-Physik |`Extras > Schlüsselverzeichnisse > Fächer > Fachmerkmal` = **Physik**
+Ethik |`Extras > Schlüsselverzeichnisse > Fächer > Zeugnismerkmal` = **Ethik**
+Geografie |`Extras > Schlüsselverzeichnisse > Fächer > Zeugnismerkmal` = **Geografie**
+Geschichte |`Extras > Schlüsselverzeichnisse > Fächer > Zeugnismerkmal` = **Geschichte**
+Politische Bildung |`Extras > Schlüsselverzeichnisse > Fächer > Zeugnismerkmal` = **PB**
+Biologie |`Extras > Schlüsselverzeichnisse > Fächer > Zeugnismerkmal` = **Biologie**
+Chemie |`Extras > Schlüsselverzeichnisse > Fächer > Zeugnismerkmal` = **Chemie**
+Physik |`Extras > Schlüsselverzeichnisse > Fächer > Zeugnismerkmal` = **Physik**
 Wahlpflichtfach zwei oder Informationstechnischen Grundkurs (rechts)| 31
 Wahlpflichtfach drei oder Informationstechnischen Grundkurs (links)| 32
 Wahlpflichtfach vier oder Informationstechnischen Grundkurs (rechts)| 33
