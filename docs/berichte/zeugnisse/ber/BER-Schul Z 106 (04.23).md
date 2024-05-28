@@ -4,7 +4,7 @@ Schul Z 106 – Zeugnis der Jahrgangsstufen 5 und 6 – (04.23)
 
 ## Abbildung
 
-[01]:/assets/images/Berlin/Z106_schuleeins00.png "Vorderseite"
+[01]:/assets/images/Berlin/_schule.eins/Z106_schuleeins00.png "Vorderseite"
 
 [![Vorderseite][01]][01]
 

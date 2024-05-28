@@ -4,7 +4,7 @@ Schul Z 104 – Zeugnis der Jahrgangsstufen 3 und 4 – (04.23).rpt
 
 ## Abbildung
 
-[01]:/assets/images/Berlin/Z104_schuleeins00.png "Vorderseite"
+[01]:/assets/images/Berlin/_schule.eins/Z104_schuleeins00.png "Vorderseite"
 
 [![Vorderseite][01]][01]
 
