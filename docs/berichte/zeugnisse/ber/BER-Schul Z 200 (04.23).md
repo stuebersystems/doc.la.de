@@ -8,11 +8,13 @@ Schul Z 200 – Zeugnis der ISS und der Gemeinschaftsschule, Jahrgangsstufen 7 b
 
 [02]:/assets/images/Berlin/Z200_schuleeins01.png "Rückseite"
 
-
 [![Vorderseite][01]][01]
 
 [![Vorderseite][02]][02]
 
+## Ausdruck
+
+Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 ## Ausgabe Fächer
 
@@ -44,6 +46,9 @@ ITG <br/>rechte Seite|Fachbezeichnung "Informationstechnischer Grundkurs"
 Wahlpflichtfach <br/>rechte Seite| Fachstatus "WahlPF" und Position 21
 Wahlpflichtfach <br/>rechte Seite| Fachstatus "WahlPF" und Position 22
 
+## Logo
+
+Das Wappen ist eine feste Ausgabe, das Logo auf der rechten Seite im Zeugniskopf kann aus einer unter `Mandanten > Daten2 > Logo` hinterlegten JPG-Datei ausgegeben werden.
 
 ## Zeugnisdatum
 
@@ -51,9 +56,6 @@ Wahlpflichtfach <br/>rechte Seite| Fachstatus "WahlPF" und Position 22
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 ## Zeugnisbemerkungen
 
