@@ -1,10 +1,10 @@
-﻿# BER-Schul Z 106 – Zeugnis der Jahrgangsstufen 5 und 6 – (04.23).rpt
+﻿# BER-Schul Z 104 – Zeugnis der Jahrgangsstufen 3 und 4 – (04.23).rpt
 
-Schul Z 106 – Zeugnis der Jahrgangsstufen 5 und 6 – (04.23)
+Schul Z 104 – Zeugnis der Jahrgangsstufen 3 und 4 – (04.23).rpt
 
 ## Abbildung
 
-[01]:/assets/images/Berlin/Z106_schuleeins00.png "Vorderseite"
+[01]:/assets/images/Berlin/Z104_schuleeins00.png "Vorderseite"
 
 [![Vorderseite][01]][01]
 
@@ -60,11 +60,12 @@ Lesen - Mit Texten und Medien umgehen|links|Fachbezeichnung "Lesen - Mit Texten 
 Fremdsprache|links|Fach muss unter `Schüler > Zeugnisse > Fächer` und unter `Schüler > Daten 3 > FS1` erfasst sein
 Mathematik|rechts|Fachbezeichnung "Mathematik"
 Naturwissenschaften|rechts|Fachbezeichnung "Naturwissenschaften"
-Gesellschaftswissenschaften|rechts|
-Kunst|rechts|
-Musik|rechts|
-Sport|rechts|
-freie Zeile|rechts|beliebiges Fach, Position 100
+Gesellschaftswissenschaften|rechts|Fachbezeichnung "Gesellschaftswissenschaften"
+Kunst|rechts|Fachbezeichnung "Kunst"
+Musik|rechts|Fachbezeichnung "Musik"
+Sport|rechts|Fachbezeichnung "Sport"
+erste freie Zeile|rechts|beliebiges Fach, Position 100|rechts|
+zweite freie Zeile|rechts|beliebiges Fach, Position 101|rechts|
 
 ## Noten
 
