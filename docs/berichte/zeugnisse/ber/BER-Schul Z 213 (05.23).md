@@ -133,7 +133,7 @@ Achtung: Eine falsche Positionierung der Fächer ordnet den Fächern eine falsch
 
 ## Wahlpflichtfächer
 
-Für die Wahlpflichtfächer erfassen Sie bitte die korrekte Position und die Unterrichtsart `WahlPF`
+Für die Wahlpflichtfächer erfassen Sie bitte die korrekte Position und die Unterrichtsart `WahlPF`.
 
 ## ER/GR Niveau
 
