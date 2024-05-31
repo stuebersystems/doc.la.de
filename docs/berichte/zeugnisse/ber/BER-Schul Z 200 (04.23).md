@@ -6,7 +6,7 @@ Schul Z 200 – Zeugnis der ISS und der Gemeinschaftsschule, Jahrgangsstufen 7 b
 [02]:/assets/images/Berlin/_schule.eins/Z200_schuleeins01.png "Rückseite"
 [03]:/assets/images/Berlin/_schule.eins/Z200_schuleeins02.png "Notenumrechnung"
 
-## Abbildung
+## Abbildungen
 
 [![Vorderseite][01]][01]
 
