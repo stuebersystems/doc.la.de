@@ -56,14 +56,12 @@ Das Wappen ist eine feste Ausgabe, das Logo auf der rechten Seite im Zeugniskopf
 
 Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein. Das Zeugnisdatum kann auch per Sammelzuweisung zugewiesen werden, den Aufruf für die Sammelzuweisung finden Sie am oberen Rand der Karte `Details`.
 
-
 ## Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
-
 
 Der Bericht gibt an verschiedenen Stellen Zeugnisbemerkungen oder auch vordefinierte Texte aus, dabei wird das Feld `Merkmal` ausgewertet. Folgende Merkmale sind möglich:
 
@@ -74,8 +72,6 @@ AG|Vorderseite, "ergänzende Angebote:"|leer|Text der Bemerkungen wird ausgegebe
 Beiblatt|Vorderseite, "Bemerkungen:"|leer|vordefinierte Bemerkungen wird ausgegeben ("Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses" oder "Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses")
 ASV|Vorderseite, "Bemerkungen:"|leer|vordefinierte Bemerkungen wird ausgegeben ("Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten in der Anlage zu diesem Zeugnis beurteilt" oder "Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten in der Anlage zu diesem Zeugnis nicht beurteilt"    
 " oder "Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses")
-
-
 
 ## Fehltage und/oder Fehlstunden
 
@@ -126,6 +122,12 @@ Note | Feld in MAGELLAN
 mündliche Note | Mündl. Note | 
 schriftliche Note | Schriftl. Note 4
 Gesamtnote | Endnote
+
+## Ausgabe "n.e."
+
+`Extras > Schlüsselverzeichnisse > Noten` <br/>`Schüler > Zeugnis > Leistungen`
+
+Für die Ausgabe von "n.e" legen Sie bitte eine Note mit der Notenart "Fülltext" an und weisen sie an den gewünschten Positionen zu.
 
 ## Merkmale für Zeugnisbemerkungen
 
