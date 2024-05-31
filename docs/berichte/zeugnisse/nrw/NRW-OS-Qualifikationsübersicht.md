@@ -30,7 +30,7 @@ Der Schülername wird zusammengesetzt aus den Feldern `Vorname`, `Vorname2`, `Zu
 
 ## Sortierung
 
-Der Bericht zeigt die Zeile sortiert nach folgenden Kriterien an:
+Der Bericht zeigt die Zeilen sortiert nach folgenden Kriterien an:
 
 1. Unterrichtart
 2. Aufgabenbereich
@@ -48,6 +48,3 @@ Punktwerte <br/>Q1-Q4|`Abitur > Qualifikation > Q1-Q4`<br/>Die als eingebracht m
 Leistungsarten <br/>Q1-Q4|`Abitur > Qualifikation > LeistungsartQ1-Q4`(Kürzel)
 Bestanden <br/>Q1-Q4|`Abitur > Qualifikation > BestandenQ1-Q4`(Kürzel)<br/><br/>Die als eingebracht markierten Punkte werden fett und gelb hinterlegt dargestellt
 ∑|`Abitur > Qualifikation > Summe` (berechneter Wert)
-
-
-
