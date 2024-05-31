@@ -92,7 +92,6 @@ Die Noten der Fächer tragen Sie im Menü `Schüler > Zeugnis > Leistungen` in d
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` ein.
 
-
 ## Zeugnisbemerkungen
 
 `Schüler > Zeugnis > Bemerkungen/Formulare`

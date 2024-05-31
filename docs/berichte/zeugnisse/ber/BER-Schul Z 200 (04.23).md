@@ -2,15 +2,15 @@
 
 Schul Z 200 – Zeugnis der ISS und der Gemeinschaftsschule, Jahrgangsstufen 7 bis 10, Noten und Punkte (04.23)
 
-## Abbildung
-
 [01]:/assets/images/Berlin/_schule.eins/Z200_schuleeins00.png "Vorderseite"
-
 [02]:/assets/images/Berlin/_schule.eins/Z200_schuleeins01.png "Rückseite"
+[03]:/assets/images/Berlin/_schule.eins/Z200_schuleeins02.png "Notenumrechnung"
+
+## Abbildung
 
 [![Vorderseite][01]][01]
 
-[![Vorderseite][02]][02]
+[![Rückseite][02]][02]
 
 ## Ausdruck
 
@@ -78,20 +78,6 @@ ASV|Vorderseite, "Bemerkungen:"|leer|vordefinierte Bemerkungen wird ausgegeben (
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
-## Benotung
-
-`Klassen > Daten > Beurteilungsart`<br/>`Extras >  Schlüsselverzeichnisse > Noten` <br/> `Schüler > Zeugnis > Leistungen`
-
-Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
-
-Spalte | Eingabe
---|--
-GR|Schüler > Zeugnis > Leistungen > **Endnote (gesamt)**
-ER|Schüler > Zeugnis > Leistungen > **Endnote**
-Punkte|Schüler > Zeugnis > Leistungen > **Endnote** <br/>(Werte werden aus der Eingabe unter Endnote (Noten-Wert aus dem Verzeichnis) umgerechnet)
-mündliche Note| Schüler > Zeugnis > Leistungen > **Mündl. Note**
-Schriftliche Note| Schüler > Zeugnis > Leistungen > **Schriftliche Note 4**
-
 ## Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
@@ -110,7 +96,27 @@ WahlPF | WahlPF | Wahlpflichtfach
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-## mdl./schriftl. Note/Gesamtnote Fächer
+## Benotung
+
+## Benotung
+
+`Klassen > Daten > Beurteilungsart`<br/>`Extras >  Schlüsselverzeichnisse > Noten` <br/> `Schüler > Zeugnis > Leistungen`
+
+Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten im Feld "Beurteilungsart" "Benotung durch Punkte" angegeben sein.
+
+Spalte | Eingabe
+--|--
+GR|**Berechnung** aus der Punkteingabe im Feld Endnote
+ER|**Berechnung** aus der Punkteingabe im Feld Endnote
+Punkte|Schüler > Zeugnis > Leistungen > **Endnote** <br/>(Werte werden aus der Eingabe unter Endnote (Noten-Wert aus dem Verzeichnis) umgerechnet)
+mündliche Note| Schüler > Zeugnis > Leistungen > **Mündl. Note**
+Schriftliche Note| Schüler > Zeugnis > Leistungen > **Schriftliche Note 4**
+
+Die Eingabe der Punkte wird für ER und GR entsprechend der Vorgaben umgerechnet:
+
+[![Notenumrechnung][03]][03]
+
+### mdl./schriftl. Note/Gesamtnote Fächer
 
 `Schüler > Zeugnis > Leistungen`
 
@@ -118,11 +124,11 @@ Manche Fächer werden mit einer Note für mündliche Leistungen, einer Note für
 
 Note | Feld in MAGELLAN
 --|--
-mündliche Note | Mündl. Note | 
+mündliche Note | Mündl. Note 
 schriftliche Note | Schriftl. Note 4
 Gesamtnote | Endnote
 
-## Ausgabe "n.e."
+### Ausgabe "n.e."
 
 `Klassen > Zeiträume > Jahrgang`
 
@@ -136,9 +142,9 @@ GR= `--`
 ER= `n.e.`
 Punkte= `--`
 
+## Zeugnisbemerkungen
 
-
-## Merkmale für Zeugnisbemerkungen
+### Merkmale
 
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
@@ -150,6 +156,26 @@ Merkmal | Bedeutung
 --|--
 AG | Ergänzende Angebote
 leer| weitere Bemerkungen
+
+### Personalisierung
+ 
+`Abitur > Zeugnisbemerkungen` oder `Schüler > Zeugnis > Bemerkungen/Formulare`
+
+Bemerkungen Legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü `Abitur > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
+Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B. So `<<hier steht Ihr Platzhalter>>`. 
+
+Möglich sind:
+
+Platzhalter | Ausgabe im Bericht
+--|--
+`<<Name>>` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+`<<Nachname>>` | Nachname des Schülers
+`<<Vorname>>` | Vorname, Vorname2 und Namenszusatz des Schülers
+`<<Anrede1>>` | Er/Sie (je nach Geschlecht des Schülers)
+`<<Anrede2>>` | er/sie (je nach Geschlecht des Schülers)
+`<<Anrede3>>` | seine/ihre (je nach Geschlecht des Schülers)
+`<<Anrede4>>` | ihm/ihr (je nach Geschlecht des Schülers)
+`<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
 
 ## Fremdsprachenfolge
 
