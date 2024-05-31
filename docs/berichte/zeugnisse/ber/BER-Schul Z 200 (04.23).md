@@ -70,8 +70,7 @@ Merkmal|Bereich|Position|Ergebnis
 leer| Rückseite, "Weitere Bemerkungen:"|muss aufsteigend gefüllt sein| Text der Bemerkungen wird ausgegeben
 AG|Vorderseite, "ergänzende Angebote:"|leer|Text der Bemerkungen wird ausgegeben
 Beiblatt|Vorderseite, "Bemerkungen:"|leer|vordefinierte Bemerkungen wird ausgegeben ("Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses" oder "Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses")
-ASV|Vorderseite, "Bemerkungen:"|leer|vordefinierte Bemerkungen wird ausgegeben ("Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten in der Anlage zu diesem Zeugnis beurteilt" oder "Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten in der Anlage zu diesem Zeugnis nicht beurteilt"    
-" oder "Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses")
+ASV|Vorderseite, "Bemerkungen:"|leer|vordefinierte Bemerkungen wird ausgegeben ("Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten in der Anlage zu diesem Zeugnis beurteilt" oder "Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten in der Anlage zu diesem Zeugnis nicht beurteilt")
 
 ## Fehltage und/oder Fehlstunden
 
@@ -125,9 +124,19 @@ Gesamtnote | Endnote
 
 ## Ausgabe "n.e."
 
-`Extras > Schlüsselverzeichnisse > Noten` <br/>`Schüler > Zeugnis > Leistungen`
+`Klassen > Zeiträume > Jahrgang`
 
-Für die Ausgabe von "n.e" legen Sie bitte eine Note mit der Notenart "Fülltext" an und weisen sie an den gewünschten Positionen zu.
+Wird der Klassenjahrgang 8 erkannt, werden für Physik folgende Ergebnisse ausgegeben:
+GR= `--`
+ER= `n.e.`
+Punkte= `--`
+
+Wird der Klassenjahrgang 7 erkannt, werden für Chemie folgende Ergebnisse ausgegeben:
+GR= `--`
+ER= `n.e.`
+Punkte= `--`
+
+
 
 ## Merkmale für Zeugnisbemerkungen
 
@@ -160,7 +169,6 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 `Mandanten > Daten 1 > Schulleiter`
 
 Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
-
 
 ## Jahrgang Klasse
 
