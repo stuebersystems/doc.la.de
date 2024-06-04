@@ -73,12 +73,6 @@ zweite freie Zeile|rechts|beliebiges Fach, Position 101|rechts|
 
 Die Noten werden für die Fächer aus dem Feld `Endnote` unter `Schüler > Zeugnis > Leistungen` gelesen, es wird das Notenkürzel ausgegeben.
 
-## Zeugnisbemerkungen
-
-`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
-
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
 ## Benotung
 
@@ -94,9 +88,28 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 ## Zeugnisbemerkungen
 
-`Schüler > Zeugnis > Bemerkungen/Formulare`
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
 
-Die Bemerkung "Entsprechend dem Beschluss der Schulkonferenz gemäß § 58 (7) SchulG wird das Arbeits- und Sozialverhalten - in der Anlage zu diesem Zeugnis berurteilt - nicht berurteilt-." wird vom Bericht automatisch eingetragen.
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
+
+### ASV, Beiblatt
+
+Der Bericht gibt an verschiedenen Stellen Zeugnisbemerkungen oder auch vordefinierte Texte aus, dabei wird das Feld `Merkmal` ausgewertet. Folgende Merkmale sind möglich:
+
+Merkmal|Bereich|Position|Ergebnis
+--|--|--|--
+leer| Rückseite, "Weitere Bemerkungen:"|muss aufsteigend gefüllt sein| Text der Bemerkungen wird ausgegeben
+Beiblatt|Vorderseite, "Bemerkungen:"|leer|vordefinierte Bemerkungen wird ausgegeben ("Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses" oder "Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses")
+ASV|Vorderseite, "Bemerkungen:"|leer|vordefinierte Bemerkungen wird ausgegeben ("Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten in der Anlage zu diesem Zeugnis beurteilt" oder "Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten in der Anlage zu diesem Zeugnis nicht beurteilt")
+
+### individuelle Bemerkungen
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
+
 
 ### Platzhalter
  

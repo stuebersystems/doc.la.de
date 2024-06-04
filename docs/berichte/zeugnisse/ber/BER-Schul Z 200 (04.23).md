@@ -63,6 +63,8 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
 Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
 
+### ASV, Beiblatt, ergänzende Angebote
+
 Der Bericht gibt an verschiedenen Stellen Zeugnisbemerkungen oder auch vordefinierte Texte aus, dabei wird das Feld `Merkmal` ausgewertet. Folgende Merkmale sind möglich:
 
 Merkmal|Bereich|Position|Ergebnis
