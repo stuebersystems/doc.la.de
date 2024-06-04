@@ -62,6 +62,12 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` in den Feldern "Fehltage", "davon unentschuldigt", "Fehlstunden" und "davon unentschuldigt" erfolgen.
 
+## Versäumnisse
+
+`Schüler > Zeugnis > Details > Versäumnisse`
+
+Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
+
 ## Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
@@ -74,11 +80,6 @@ Kürzel | Schlüssel | Bezeichnung
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
 
-## Versäumnisse
-
-`Schüler > Zeugnis > Details > Versäumnisse`
-
-Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
 ## Benotung
 
@@ -124,44 +125,6 @@ GR= `--`
 ER= `n.e.`
 Punkte= `--`
 
-## Zeugnisbemerkungen
-
-`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
-
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
-
-### ASV, Beiblatt, ergänzende Angebote
-
-Der Bericht gibt an verschiedenen Stellen Zeugnisbemerkungen oder auch vordefinierte Texte aus, dabei wird das Feld `Merkmal` ausgewertet. Folgende Merkmale sind möglich:
-
-Merkmal|Bereich|Position|Ergebnis
---|--|--|--
-leer| Rückseite, "Weitere Bemerkungen:"|muss aufsteigend gefüllt sein| Text der Bemerkungen wird ausgegeben
-AG|Vorderseite, "ergänzende Angebote:"|leer|Text der Bemerkungen wird ausgegeben
-Beiblatt|Vorderseite, "Bemerkungen:"|leer|vordefinierte Bemerkungen wird ausgegeben ("Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses" oder "Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses")
-ASV|Vorderseite, "Bemerkungen:"|leer|vordefinierte Bemerkungen wird ausgegeben ("Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten in der Anlage zu diesem Zeugnis beurteilt" oder "Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten in der Anlage zu diesem Zeugnis nicht beurteilt")
-
-### Personalisierung
- 
-`Abitur > Zeugnisbemerkungen` oder `Schüler > Zeugnis > Bemerkungen/Formulare`
-
-Bemerkungen Legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü `Abitur > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
-Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B. So `<<hier steht Ihr Platzhalter>>`. 
-
-Möglich sind:
-
-Platzhalter | Ausgabe im Bericht
---|--
-`<<Name>>` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
-`<<Nachname>>` | Nachname des Schülers
-`<<Vorname>>` | Vorname, Vorname2 und Namenszusatz des Schülers
-`<<Anrede1>>` | Er/Sie (je nach Geschlecht des Schülers)
-`<<Anrede2>>` | er/sie (je nach Geschlecht des Schülers)
-`<<Anrede3>>` | seine/ihre (je nach Geschlecht des Schülers)
-`<<Anrede4>>` | ihm/ihr (je nach Geschlecht des Schülers)
-`<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
-
 ## Fremdsprachenfolge
 
 `Schüler > Daten 3 > 1./2./3./4. Fremdsprache`
@@ -202,3 +165,42 @@ Beim Druck aus dem 2. Halbjahr wird einer der beiden Sätze ausgegeben:
 
 * `Vorname` rückt im kommenden Schuljahr auf in die Jahrgangsstufe `aktueller Klassenjahrgang +1`
 * `Vorname` rückt im kommenden Schuljahr nicht auf.
+
+## Zeugnisbemerkungen
+
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
+
+### ASV, Beiblatt, ergänzende Angebote
+
+Der Bericht gibt an verschiedenen Stellen Zeugnisbemerkungen oder auch vordefinierte Texte aus, dabei wird das Feld `Merkmal` ausgewertet. Folgende Merkmale sind möglich:
+
+Merkmal|Bereich|Position|Ergebnis
+--|--|--|--
+leer| Rückseite, "Weitere Bemerkungen:"|muss aufsteigend gefüllt sein| Text der Bemerkungen wird ausgegeben
+AG|Vorderseite, "ergänzende Angebote:"|leer|Text der Bemerkungen wird ausgegeben
+Beiblatt|Vorderseite, "Bemerkungen:"|leer|vordefinierte Bemerkungen wird ausgegeben ("Ein Beiblatt (Schul Z 620) ist Bestandteil dieses Zeugnisses" oder "Ein Beiblatt (Schul Z 620) ist nicht Bestandteil dieses Zeugnisses")
+ASV|Vorderseite, "Bemerkungen:"|leer|vordefinierte Bemerkungen wird ausgegeben ("Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten in der Anlage zu diesem Zeugnis beurteilt" oder "Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten in der Anlage zu diesem Zeugnis nicht beurteilt")
+
+### Personalisierung
+ 
+`Abitur > Zeugnisbemerkungen` oder `Schüler > Zeugnis > Bemerkungen/Formulare`
+
+Bemerkungen Legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü `Abitur > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
+Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum Ende Ihres Platzhalters, z.B. So `<<hier steht Ihr Platzhalter>>`. 
+
+Möglich sind:
+
+Platzhalter | Ausgabe im Bericht
+--|--
+`<<Name>>` | Vorname, Vorname2, Namenszusatz und Nachname des Schülers
+`<<Nachname>>` | Nachname des Schülers
+`<<Vorname>>` | Vorname, Vorname2 und Namenszusatz des Schülers
+`<<Anrede1>>` | Er/Sie (je nach Geschlecht des Schülers)
+`<<Anrede2>>` | er/sie (je nach Geschlecht des Schülers)
+`<<Anrede3>>` | seine/ihre (je nach Geschlecht des Schülers)
+`<<Anrede4>>` | ihm/ihr (je nach Geschlecht des Schülers)
+`<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
+
