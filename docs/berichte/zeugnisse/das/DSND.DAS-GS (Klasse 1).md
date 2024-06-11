@@ -99,6 +99,8 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 Der Versetzungsvermerk wird nur im 2. Halbjahr ausgegeben.
 
+Das Versetzungsvermerk bezieht sich hier auf den Verbleib in Klasse 2 oder Versetzung in Klasse 2.
+
 ## Fehlzeiten
 
 `Schueler > Zeugnis > Details > Fehltage und/oder Fehlstunden`
