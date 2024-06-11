@@ -89,8 +89,6 @@ Weisen Sie im aktuellen Zeitraum im Menü `Klasse > Daten` das Berufsfeld im Fel
 
 ## Betriebliche Lernaufgabe
 
-### Betriebliche Lernaufgabe
-
 `Schüler > Zeugnis > Fächer`
 
 Neben dem Wahlunterricht und den berufsfeldübergreifenden bzw. berufsfeldbezogenen Unterricht muss auch die Betriebliche Lernaufgabe benotet werden. Gehen Sie dafür wie folgt vor:
