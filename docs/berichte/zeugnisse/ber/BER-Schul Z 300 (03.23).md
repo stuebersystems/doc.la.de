@@ -22,7 +22,6 @@ männlich|Er
 divers|Vorname
 leer|Vorname
 
-
 ## Fehlzeiten
 
 ### Fehltage und/oder Fehlstunden
@@ -37,7 +36,7 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Versäumnisse" ein.
 
-## Fremdsprachenfolge
+## Fremdsprachen
 
 ### von bis
 
@@ -125,8 +124,7 @@ Wahl | Wahl | Wahlunterricht
 
  `Schüler > Zeugnis > Fächer (Position) bzw. Abitur > Qualifikation (Position)`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro
-Fach eine Position in der Spalte "Position" angegeben werden.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü "Schüler" bei jedem Schüler auf der Registerkarte Zeugnis > Fächer bzw. im Menü Abitur bei jedem Schüler auf der Registerkarte "Qualifikation" pro Fach eine Position in der Spalte "Position" angegeben werden.
 
 ### Sport
 

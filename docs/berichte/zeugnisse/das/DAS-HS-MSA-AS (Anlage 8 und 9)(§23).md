@@ -62,10 +62,10 @@ Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 Kürzel |  Schlüssel | Bezeichnung	
 --|--|--
-1 PF | 1 PF | 1. Prüfungsfach
-2 PF  | 2 PF  | 2. Prüfungsfach
-3 PF  | 3 PF  | 3. Prüfungsfach
-4 PF  | 4 PF  | 4. Prüfungsfach
+1PF | 1PF | 1. Prüfungsfach
+2PF  | 2PF  | 2. Prüfungsfach
+3PF  | 3PF  | 3. Prüfungsfach
+4PF  | 4PF  | 4. Prüfungsfach
 
 ## Fremdsprachen, Sprachreferenz
 
