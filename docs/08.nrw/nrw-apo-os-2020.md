@@ -249,16 +249,17 @@ Im Skript „NRW-APO-OS-2020“ gibt es eine Prüfung: Wenn für den zu der Vors
 ## Sammelaktion "Vorschlag zuweisen"
 
 Um den Berechnungsvorschlag für eine Gruppe von Schülern ausführen zu lassen, gibt es ab der Version 11.0.5 eine Funktion, die wir nachstehend beschreiben.
+
 !!! warning "Wichtig!"
 
     Die Sammelaktion "Vorschlag zuweisen" setzt die Nutzung der Regionaleinstellung "Nordrhein-Westfalen" und des  Abiturberechnungsskripts "NRW-APO-OS-2020.dws" voraus.
 
-**Voraussetzungen:**
-
-**Region:** Für die Verbindung von MAGELLAN zu Ihrer Datenbank kann je Arbeitsplatz eine Region gewählt werden. Sie können diese Einstellung einsehen oder anpassen im Modul MAGELLAN Administrator unter `Datenbankverbindungen > Doppelklick auf Ihre Verbindungszeile > Unterkarte Datenbank > Feld Region`. Hier muss der Wert "Nordrhein-Westfalen" gewählt sein.
+**Voraussetzungen:** <br/>
+**Region:** Für die Verbindung von MAGELLAN zu Ihrer Datenbank kann je Arbeitsplatz eine Region gewählt werden. Sie können diese Einstellung einsehen oder anpassen im Modul MAGELLAN Administrator unter `Datenbankverbindungen > Doppelklick auf Ihre Verbindungszeile > Unterkarte Datenbank > Feld Region`. Hier muss der Wert "Nordrhein-Westfalen" gewählt sein. <br/>
 **Skriptdatei**: Den Schülern muss das Berechnungsverordnungsskript "NRW-APO-OS-2020.dws" ab der MAGELLAN-Version 11.0.5 zugewiesen sein, dieses Skript kann auf die Aktion reagieren und die Aktionen Initialisieren, Vorschlag und Berechnen für eine Gruppe von Schülern ausführen.
 
-So gehen Sie vor:
+**So gehen Sie vor:**
+
 1. Bitte markieren Sie die gewünschten Schüler in der Auswahlliste des Menüs `Abitur` und rufen den Assistenten am oberen Fensterrand unter `Abitur > Vorschlag zuweisen` auf. 
 2. Klicken Sie auf `Weiter` und `Fertigstellen` um den Assistenten auszuführen.
 
