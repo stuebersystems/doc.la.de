@@ -1,9 +1,10 @@
-# MVP-APO-FG-2019 (in Planung)
+# MVP-APO-FG-2019
 
-Oberstufen- und Abiturprüfungsverordnung
-(Abiturprüfungsverordnung - APVO M-V) vom 19. Februar 2019
+[04]:/assets/images/MVP/004.png "Besondere Lernleistung"
+[05]:/assets/images/MVP/005.png "Facharbeit"
 
-[Link zur Oberstufen- und Abiturprüfungsverordnung](http://www.landesrecht-mv.de/jportal/portal/page/bsmvprod.psml;jsessionid=78CA6AAE794574D9CB4CAD793DDB3466.jp26?showdoccase=1&st=lr&doc.id=jlr-AbiPrVMVrahmen&doc.part=X&doc.origin=bs)
+Oberstufen- und Abiturprüfungsverordnung (Abiturprüfungsverordnung - APVO M-V)* Vom 19. Februar 2019
+Gesamtausgabe in der Gültigkeit vom 26.07.2022 bis 31.07.2024  ([APVO M-V](https://www.landesrecht-mv.de/bsmv/document/jlr-AbiPrVMVrahmen))
 
 ## Verzeichnis Verordnung
 
@@ -79,13 +80,13 @@ Folgende Aufgabenbereiche stehen zur Verfügung und müssen unter ```Verzeichnis
 
 ## Unterrichtsart
 
-Die Unterrichtsart muss unter `Abitur > Qualifikation > Unterrichtsart` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus `Schüler > Zeugnis > Fächer > Unterrichtsart` übernommen werden.
-Prüfen Sie bitte unter `Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten`,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
+Die Unterrichtsart muss unter ```Abitur > Qualifikation > Unterrichtsart``` zugeordnet sein. Sie kann aber auch beim Synchronisieren der Schülerfachdaten bereits aus ```Schüler > Zeugnis > Fächer > Unterrichtsart``` übernommen werden.
+Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Unterrichtsarten```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 |Kürzel| Schlüssel |Bedeutung|
 |--|--|--|
-L-Kurs | L  | Leistungskurse (L-Kurse), Kurse auf erhöhtem Anforderungsniveau
-G-Kurs | G | Grundkurse (G-Kurse), Kurs auf grundlegendem Anforderungsniveau
+|HF|HF|Hauptfach|
+|GF|GF|Grundfach|
 
 ## Fachstatus
 
@@ -99,22 +100,27 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 |3PF |3PF |3. Prüfungsfach|
 |4PF |4PF |4. Prüfungsfach|
 |5PF |5PF |5. Prüfungsfach (mündlich)|
-
-## Berufliche Fächer / Berufliche Schwerpunktfächer
-
-Beruflichen Fächern und beruflichen Schwerpunktfächern weisen Sie im `Schlüsselverzeichnisse > Fächer` im Feld "Zeugnismerkmal" vorgegebenes Merkmal zu:
-
-Zeugnismerkmal | verwendet für
---|--
-BSF | berufliches Schwerpunktfach
-BF | berufliche Fach
-
-![`Schlüsselverzeichnisse > Fächer`](/assets/images/MVP/mvp001.png)
-
-## Besondere Lernleistung
-
-Hier müssen Sie im Menü `Abitur > Prüfung` im Bereich „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld im Feld "Thema" zu. Das Gesamtergebnis in einfacher Wertung tragen Sie im 1. Notenfeld ganz links ein.
+|FA|FA|Facharbeit|
 
 ## Facharbeit
 
-Zur Ausgabe der „Facharbeit“ müssen Sie im Menü  `Abitur > Prüfung` im Bereich "Projekt“ das entsprechende Fach zuweisen und das Optionsfeld „Projekt einbringen“ markieren. Das Thema des Projektes weisen Sie analog dem entsprechenden Feld im Feld "Thema" zu. Das Gesamtergebnis in einfacher Wertung tragen Sie im 1. Notenfeld ganz links ein.
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten` <br/>`Abitur > Qualifikation > Unterrichtsart`
+
+Markieren Sie auf der Qualifikationskarte die Fachzeile der Facharbeit mit dem Fachstatus `FA`. 
+Es werden je nach Leistung ein oder zwei Kurse mit für Block I berücksichtigt. 
+Beim Auslösen des Berechnungsskriptes wird das Fach und dessen Ergebnisse mit auf die Karte `Prüfung` übergeben und dort auf der Unterkarte `Projekt` gezeigt. 
+Erfassen Sie das Thema bitte im im gleichnamige Feld `Thema`.
+
+[![Facharbeit][05]][05]
+
+## Besondere Lernleistung
+
+`Extras > Schlüsselverzeichnisse > Unterrichtsarten` <br/>`Abitur > Qualifikation > Unterrichtsart`
+
+Anstelle der 4. oder 5. mündlichen Prüfung ist auch eine „Besondere Lernleistung“ möglich.
+Bitte erfassen Sie das `Fach`, das `Thema` und die `Punkte` der Besonderen Lernleistung unter `Abitur > Prüfung > Lernleistung` in den gleichnamigen Feldern.
+
+Beim Auslösen des Berechnungsskriptes wird das Fach mit den Fächern für das 4. und 5.Prüfungsfach verglichen und wenn es gleich ist, wird die Note, die Sie im ersten Punktefeld links für die Lernleistung erfasst haben als Ergebnis für die mündliche Prüfung des Fachs gewertet.
+Erfassen Sie das Thema bitte im im gleichnamige Feld `Thema`.
+
+[![Besondere Lernleistung][04]][04]

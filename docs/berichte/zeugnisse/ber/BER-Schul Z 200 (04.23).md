@@ -185,7 +185,7 @@ Beiblatt|Vorderseite, "Bemerkungen:"|leer|vordefinierte Bemerkungen wird ausgege
 ASV|Vorderseite, "Bemerkungen:"|leer|vordefinierte Bemerkungen wird ausgegeben ("Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten in der Anlage zu diesem Zeugnis beurteilt" oder "Entsprechend dem Beschluss der Schulkonferenz wird das Arbeits- und Sozialverhalten in der Anlage zu diesem Zeugnis nicht beurteilt")
 
 ### Personalisierung
- 
+
 `Abitur > Zeugnisbemerkungen` oder `Schüler > Zeugnis > Bemerkungen/Formulare`
 
 Bemerkungen Legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` oder im Menü `Abitur > Zeugnisbemerkungen` an. Sie können Zeugnisbemerkungen über Platzhalter auch personalisieren. 
@@ -203,4 +203,3 @@ Platzhalter | Ausgabe im Bericht
 `<<Anrede3>>` | seine/ihre (je nach Geschlecht des Schülers)
 `<<Anrede4>>` | ihm/ihr (je nach Geschlecht des Schülers)
 `<<Anrede5>>` | seinen/ihren (je nach Geschlecht des Schülers)
-
