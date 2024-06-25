@@ -72,7 +72,7 @@ APO 2010|-|[HES-FW-APO-2010.js](http://doc.la.stueber.de/05.hes/hes-fw-apo-2010j
 
 Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
-APO 2019 (in Bearbeitung)|[MVP-APO-FG-2019.dws](https://doc.la.stueber.de/06.mvp/mvp-apo-fg-2019)|-|-|-|-
+APO 2019|[MVP-APO-FG-2019.dws](https://doc.la.stueber.de/06.mvp/mvp-apo-fg-2019)|-|-|-|-
 APO 2017|[MVP-APO-FG-2017.dws](https://doc.la.stueber.de/06.mvp/mvp-apo-fg-2017)|-|-|-|-
 APO 2010|[MVP-APO-2010.dws (auch FG)](https://doc.la.stueber.de/06.mvp/mvp-apo-2010) |[MVP-FW-APO-2010.js](https://doc.la.stueber.de/06.mvp/mvp-fw-apo-2010js)|[MVP-FW-APO-2010.js](https://doc.la.stueber.de/06.mvp/mvp-fw-apo-2010js)|-|-
 APO 2006|[MVP-APO-2006.dws (auch FG)](https://doc.la.stueber.de/06.mvp/mvp-apo-2006) |-|-|-|-
