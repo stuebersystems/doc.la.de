@@ -106,8 +106,7 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten` <br/>`Abitur > Qualifikation > Unterrichtsart`
 
-Markieren Sie auf der Qualifikationskarte die Fachzeile der Facharbeit mit dem Fachstatus `FA`. 
-Es werden je nach Leistung ein oder zwei Kurse mit für Block I berücksichtigt. 
+Markieren Sie auf der Qualifikationskarte die Fachzeile der Facharbeit mit dem Fachstatus `FA`. Bitte tragen Sie die Leistungen für ein oder zwei Halbjahre mit ein, wenn sie für BlockI berücksichtigt werden sollen. Wenn die Facharbeit nicht berücksichtigt werden soll, dürfen die Werte nicht erfasst werden.
 Beim Auslösen des Berechnungsskriptes wird das Fach und dessen Ergebnisse mit auf die Karte `Prüfung` übergeben und dort auf der Unterkarte `Projekt` gezeigt. 
 Erfassen Sie das Thema bitte im im gleichnamige Feld `Thema`.
 
