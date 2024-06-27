@@ -1,6 +1,10 @@
 ﻿# SHL-GY-ABI (2020)
 
+gilt auch für `SHL-GY-ABI (2020)(Variante2)`
+
 ab 2024
+
+Quelle: [https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-AbdGymVSH2023pAnlage1](https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-AbdGymVSH2023pAnlage1)
 
 ## Abbildungen
 
@@ -13,15 +17,15 @@ ab 2024
 
 [![Seite 2][02]][02]
 
-[![Seite 3][01]][03]
+[![Seite 3][03]][03]
 
-[![Seite 4][02]][04]
+[![Seite 4][04]][04]
 
 ## Ausdruck
 
 Das Zeugnis/der Bericht muss aus dem Menü `Abitur` gedruckt werden.
 
-## SchulleiterIn 
+## SchulleiterIn
 
 `Mandanten > Daten 1 > Schulleiter`
 
