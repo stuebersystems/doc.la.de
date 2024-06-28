@@ -37,7 +37,8 @@ erworben, nicht erworben| `Abitur > Qualifikation > Status` <br/>Fachhochschulre
 ### Ausgabe der Fächer und Reihenfolge
 
 Die Ausgabe basiert auf der Angabe der Fächer unter `Abitur > Qualifikation`. Die Fächer können hier natürlich auch aus `Schüler > Zeugnis > Fächer` synchronisiert werden. Die Reihenfolge ergibt sich aus den `Aufgabenbereichen` der vewendeten Fächer (siehe `Extras > Schlüsselverzeichnisse > Fächer > Aufgabenbereiche`), der den Fächer zugewiesenen `Position`.
-Für die beiden Leistungskurse muss die Unterrichtsart `HF`. Kürzel und Schlüssel bitte unter Extras > Unterrichtsart > Unterrichtsarten = `HF` sein). Für das berufliche Schwerpunktfach erfassen Sie bitte zusätzlich unter `Extras > Schlüsselverzeichnisse > Fächer > Zeugnismerkmal` den Wert `BSF`.
+Für die beiden Leistungskurse muss die Unterrichtsart `HF`. Kürzel und Schlüssel bitte unter `Extras > Unterrichtsart > Unterrichtsarten` = `HF` sein). 
+Für das berufliche Schwerpunktfach erfassen Sie bitte zusätzlich unter `Extras > Schlüsselverzeichnisse > Fächer > Zeugnismerkmal` den Wert `BSF`.
 
 ### Facharbeit
 

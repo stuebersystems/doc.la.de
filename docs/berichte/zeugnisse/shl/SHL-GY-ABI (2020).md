@@ -1,7 +1,5 @@
 ﻿# SHL-GY-ABI (2020)
 
-gilt auch für `SHL-GY-ABI (2020)(Variante2)`
-
 ab 2024
 
 Quelle: [https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-AbdGymVSH2023pAnlage1](https://www.gesetze-rechtsprechung.sh.juris.de/bssh/document/jlr-AbdGymVSH2023pAnlage1)
