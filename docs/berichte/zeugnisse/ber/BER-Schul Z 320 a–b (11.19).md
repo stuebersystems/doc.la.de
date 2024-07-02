@@ -1,17 +1,12 @@
 ﻿# BER-Schul Z 320 a-b
 
-Schul Z 320a (04.23)
-Schul Z 320b (04.23)
-Schul Z 320a (11.19)
-Schul Z 320b (11.19)
-
-
+Schul Z 320a (04.23)<br/>Schul Z 320b (04.23)<br/>Schul Z 320a (11.19)<br/>Schul Z 320b (11.19)
 
 [1]:/assets/images/Berlin/ber-schulz-320a.png "BER-Schul Z 320 a-b (11.19)"
 
 ![BER-Schul Z 320 a-b (11.19)][1]
 
-## Noten 
+## Noten
 
 `Extras > Schlüsselverzeichnisse > Noten`
 
@@ -26,14 +21,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ## Ausdruck
 
-Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
-
-## Zeugnisbemerkungen
-
-`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
-
-Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
-Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
+Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden. Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 ## Fehltage und/oder Fehlstunden
 
@@ -43,11 +31,12 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 
 ## Zeiträume
 
-`Extras > Schlüsselverzeichnis > Zeiträume > Art`
+`Extras > Schlüsselverzeichnis > Zeiträume > Art`<br/>`Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
 Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` in den Feldern `Ausdruck1` und `Ausdruck2`.
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
-## Schriftart 
+## Schriftart
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
@@ -63,10 +52,6 @@ Kürzel | Schlüssel | Bezeichnung
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
 VU | VU | Verstärkungsunterricht
-
-## Ausdruck
-
-Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt werden.
 
 ## Fächerpositionierung
 
@@ -93,12 +78,6 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 Im entsprechenden Zeitraum muss im Menü `Klassen` bei der Klasse des Schülers der Jahrgang auf der Registerkarte `Zeiträume` im Feld "Jahrgang" eingetragen sein.
 
-## Zeiträume
-
-`Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
-
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
-
 ## Versetzung
 
 `Schüler > Laufbahn > Allgemein > Versetzt`
@@ -107,7 +86,12 @@ Im entsprechenden Zeitraum muss der Versetzungsvermerk im Menü `Schüler > Lauf
 
 ## Zeugnisbemerkungen
 
-### ## Beiblatt
+`Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`
+
+Die Zuweisung von Zeugnisbemerkungen erfolgt im Menü `Schüler > Zeugnis > Formulare/Zeugnisbemerkungen`. Wenn Sie die Schaltfläche "Hinzufügen" anklicken, können Sie eine Zeugnisbemerkung definieren, die ausschließlich für den markierten Schüler gültig ist oder eine zuvor in den Verzeichnissen definiert allgemeingültige Zeugnisbemerkung auswählen und zuweisen.
+Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reihenfolge (Nummerierung) vorgegeben werden. Z.B. für die Ausgabe der ersten Bemerkung "1", für die Ausgabe der zweiten Bemerkung "2" usw.
+
+### Beiblatt
 
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmale`
 
