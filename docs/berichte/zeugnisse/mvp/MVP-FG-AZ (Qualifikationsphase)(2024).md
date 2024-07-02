@@ -1,4 +1,6 @@
-﻿# MVP-FG-AZ (Qualifikationsphase)(2024)
+﻿# MVP-FG-AZ (Qualifikationsphase)(2024) und MVP-FG-AZ (Qualifikationsphase)(A3)(2024)
+
+Diesen Bericht gibt es als A4- und als A3-Ausgabe.
 
 ## Abbildungen
 
