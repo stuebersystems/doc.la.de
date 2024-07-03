@@ -229,9 +229,9 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 
 ### Bemerkung "Übergang"
 
-`Schlüsselverzeichnisse > Abschlussarten > Abschlussart 1`
+`Extras > Schlüsselverzeichnisse > Abschlussarten` <br/>`Schüler > Laufbahn > Abschlussart 1`
 
-Die Ausgabe Zeugnisbemerkungen wird durch den Eintrag im Menü `Schüler > Laufbahn > Abschluss` gesteuert. Tragen Sie im Bereich „Abschluss1“ im Feld „Abschlussart“ die jeweilige Abschlussart ein. Grundlage bildet das `Schlüsselverzeichnis > Abschlussarten`. 
+Die Ausgabe Bemerkungen wird durch den Eintrag im Menü `Schüler > Laufbahn > Abschluss > Abschlussart 1` gesteuert. Tragen Sie im Bereich „Abschluss1“ im Feld „Abschlussart 1“ die jeweilige Abschlussart ein. Grundlage bildet das `Schlüsselverzeichnis > Abschlussarten`. 
 
 Zeugnisbemerkungen:
 
