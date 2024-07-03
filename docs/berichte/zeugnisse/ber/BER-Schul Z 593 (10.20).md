@@ -227,13 +227,14 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
 ``<<DemSchueler_DerSchuelerin>> `` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-### automatisierte Zeugnisbemerkungen
+### Bemerkung "Übergang"
 
 `Schlüsselverzeichnisse > Abschlussarten > Abschlussart 1`
 
 Die Ausgabe Zeugnisbemerkungen wird durch den Eintrag im Menü `Schüler > Laufbahn > Abschluss` gesteuert. Tragen Sie im Bereich „Abschluss1“ im Feld „Abschlussart“ die jeweilige Abschlussart ein. Grundlage bildet das `Schlüsselverzeichnis > Abschlussarten`. 
 
 Zeugnisbemerkungen:
+
 * Das Zeugnis berechtigt / berechtigt nicht) zum Übergang in die gymnasiale Oberstufe nach § 5 Verordnung über die gymnasiale Oberstufe (VO-GO in der jeweils gültigen Fassung). 
 * Das Zeugnis berechtigt / berechtigt nicht) zum Übergang in die Fachoberschule nach § 4 Ausbildungs- und Prüfungsverordnung für die Fachoberschule (APO-FOS in der jeweils gültigen Fassung).
 
