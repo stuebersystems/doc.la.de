@@ -12,15 +12,67 @@ Schul Z 593 – Zeugnis der Integrierten Berufsausbildungsvorbereitung über den
 
 [![Seite 2 und 3][02]][02]
 
-schulz59301.png
+## Ausdruck
 
-## Zugang am und/oder Abgang am
+Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
+
+## Schuldaten
+
+`Mandanten > Daten > Name 1`
+
+Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
+
+`Mandanten > Daten > Name 2`
+
+Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
+
+`Mandanten > Daten 1 > Name 3`
+
+Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
+
+## SchulleiterIn / KlassenleiterIn / AbteilungsleiterIn
+
+### SchulleiterIn
+
+`Mandanten > Daten 1 > Schulleiter`
+
+Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
+
+### KlassenleiterIn
+
+`Klassen > Zeiträume > Zeitraum > Klassenleiter`
+
+Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
+
+### AbteilungsleiterIn
+
+`Klassen > Daten > Abteilung` und `Extras > Schlüsselverzeichnis > Abteilungen`
+
+Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
+
+1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
+2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
+
+## Daten
+
+### Zeugnisdatum
+
+`Schüler > Zeugnis > Details > Zeugnisdatum`
+
+Die Durchschnittsnote im Abschlusszeugnis des Bildungsgangs Integrierte Berufsausbildungsvorbereitung wird gemäß § 24 und Anlage 5 der Verordnung über die Integrierte Berufsausbildungsvorbereitung gebildet.
+
+Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
+Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Schüler > Zeugnis > Zeugnisdetails` gezogen.
+
+### Zugang am und/oder Abgang am
 
 `Schueler > Daten 2 > Zugang am und/oder Abgang am`
 
 Tragen Sie das Zugangs- bzw. Abgangsdatum im aktuellen Zeitraum im Menü `Schüler > Daten 2` im Feld "Zugang am" bzw. "Abgang am" ein.
 
-## Unterrichtsarten
+## Unterrichtsart, Niveau, Fachstatus
+
+### Unterrichtsarten
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
@@ -33,58 +85,7 @@ BÜ | BÜ | Fachübergreifender / Berufsübergreifender Lernbereich (Unterricht)
 FachT | FachT | Fachtheoretischer Bereich (Unterricht)
 FachP | FachP | Fachpraktischer Bereich (Unterricht)"
 
-## Schuldaten
-
-`Mandanten > Daten > Name 1`
-
-Tragen Sie die Bezeichnung Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 1" ein.
-
-## SchulleiterIn
-
-`Mandanten > Daten 1 > Schulleiter`
-
-Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Feld "Schulleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
-
-## KlassenleterIn
-
-`Klassen > Zeiträume > Zeitraum > Klassenleiter`
-
-Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume` bei der jeweiligen Klasse im Feld "Klassenleiter" eingetragen werden. Bitte achten Sie darauf, das dem zugrunde liegenden Lehrereintrag ein Geschlecht unter `Lehrer > Daten1` zugewiesen wurde.
-
-## Zeugnisdatum
-
-`Schüler > Zeugnis > Details > Zeugnisdatum`
-
-Die Durchschnittsnote im Abschlusszeugnis des Bildungsgangs Integrierte Berufsausbildungsvorbereitung wird gemäß § 24 und Anlage 5 der Verordnung über die Integrierte Berufsausbildungsvorbereitung gebildet.
-
-Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > Details` im Feld "Zeugnisdatum" eingetragen sein.
-
-## Ausdruck
-
-Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
-
-## Bezirk der Schule
-
-`Mandanten > Daten 1 > Name 3`
-
-Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 3" ein.
-
-## AbteilungsleiterIn
-
-`Klassen > Daten > Abteilung` und `Extras > Schlüsselverzeichnis > Abteilungen`
-
-Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wie folgt vor:
-
-1. Im entsprechenden Zeitraum muss im Menü `Klassen > Daten` bei der Klasse des Schülers im Feld "Abteilung" die Abteilung der Klasse angegeben werden.
-2. Unter `Schlüsselverzeichnis > Abteilungen` können Sie der Abteilung in dem Feld "Leiter" einen Abteilungsleiter zufügen.
-
-## Namenszusätze Schule
-
-`Mandanten > Daten > Name 2`
-
-Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 2" ein.
-
-## Bewertung der Leistungen auf Niveaus
+### Bewertung der Leistungen auf Niveaus
 
 `Extras > Schlüsselverzeichnisse > Fachniveau` <br/>`Schüler > Zeugnis > Fächer > Niveau`
 
@@ -97,13 +98,7 @@ ER | ER | Er-Niveau
 
 Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Niveau" ein. Die unterschiedlichen Leistungsstufen tragen Sie im `Schlüsselverzeichnis > Fachniveaus` ein.
 
-## Fächerpositionierung
-
-`Schüler > Zeugnis > Fächer > Position`
-
-Für die Sortierung der Fächer des "Berufsfeldübergreifenden Unterrichts" auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Den Fächern mit Niveau-Stufe (GR-Niveau / ER-Niveau) weisen Sie die Position 1-3 zu, den Fächern "Wirtschafts- und Sozialkunde" und Spoprt/Gesundheitsförderung weisen Sie die Position 4-5 zu.
-
-## Fachstatus
+### Fachstatus
 
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
@@ -132,11 +127,11 @@ Zusatz Note 1 | Gesamtnote
 
 Das Thema der Präsentationsprüfung erfassen Sie im Menü `Schüler > Zeugnis > Leistungen`im Feld "Beurteilungstexte".
 
-## Zeugnisdatum
+## Fächerpositionierung
 
-`Schüler > Zeugnis > Zeugnisdetails > Zeugnisdatum`
+`Schüler > Zeugnis > Fächer > Position`
 
-Das BIS-Datum für den Besuch des Schülers an der Schule wird aus dem Feld "Zeugnisdatum" im Menü `Schüler > Zeugnis > Zeugnisdetails` gezogen.
+Für die Sortierung der Fächer des "Berufsfeldübergreifenden Unterrichts" auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Fächer` pro Fach eine Position in der Spalte "Position" angegeben werden. Den Fächern mit Niveau-Stufe (GR-Niveau / ER-Niveau) weisen Sie die Position 1-3 zu, den Fächern "Wirtschafts- und Sozialkunde" und Spoprt/Gesundheitsförderung weisen Sie die Position 4-5 zu.
 
 ## Betriebliche Lernaufgabe
 
@@ -196,7 +191,11 @@ Bitte lesen Sie dazu unsere Onlinedokumentation:
 
 ## Zeugnisbemerkungen
 
-## Personalisierung
+### Text Schulabschluss
+
+Der Bemerkungstext "Der mittlere Schulabschluss ist im Deutschen und Europäischen Qualifikationsrahmen dem Niveau 3 zugeordnet. wird fest auf dem Zeugnis ausgegeben.
+
+### Personalisierung
 
 `Schüler > Zeugnis > Bemerkungen/Formulare` / `Abitur > Abitur > Zeugnis > Zeugnisbemerkungen` / 
 `Berufsschule > Zeugnisbemerkungen`
@@ -226,10 +225,6 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 ``<<derSchueler_dieSchuelerin>> `` | der Schüler/die Schülerin (je nach Geschlecht des Schülers) 
 ``<<DemSchueler_DerSchuelerin>> `` | Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-### Text Schulabschluss
-
-Der Bemerkungstext "Der mittlere Schulabschluss ist im Deutschen und Europäischen Qualifikationsrahmen dem Niveau 3 zugeordnet. wird fest auf dem Zeugnis ausgegeben.
-
 ### automatisierte Zeugnisbemerkungen
 
 `Schlüsselverzeichnisse > Abschlussarten > Abschlussart 1`
@@ -255,11 +250,10 @@ leer | leer | Nicht berechtigt für beide Übergänge
 
 Zeugnisbemerkungen, die nur auf dem MSA Zeugnis ausgegeben werden sollen, weisen Sie Menü `Schüler > Zeugnis > Bemerkungen/Formulare` bei der Bemerkung das Merkmal "MSA" zu.
 
-## Zeugnisbemerkungen für EBBR Zeugnis
+### Zeugnisbemerkungen für EBBR Zeugnis
 
 `Schüler > Zeugnis > Bemerkungen/Formulare > Merkmal > EBBR` <br/>`Klassen > Daten > Beurteilung`
 
 Zeugnisbemerkungen, die nur auf dem MSA Zeugnis ausgegeben werden sollen, weisen Sie Menü `Schüler > Zeugnis > Bemerkungen/Formulare` bei der Bemerkung das Merkmal "EBBR" zu.
 
 Im Menü `Klassen > Daten` muss bei der Klasse des Schülers im Feld Beurteilungsart "Noten" angegeben sein. Dennoch steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verfügung.
-

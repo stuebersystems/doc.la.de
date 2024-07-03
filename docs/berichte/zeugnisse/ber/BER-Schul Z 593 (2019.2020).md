@@ -1,5 +1,7 @@
 # BER-Schul Z 593 (2019.2020).rpt
 
+Dieser Bericht wird durch den aktuelleren Bericht "BER-Schul Z 593 (10.20).rpt" ersetzt.
+
 Schul Z 593 – Zeugnis der Integrierten Berufsausbildungsvorbereitung über den mittleren Schulabschluss (Vollzeit) – (4 Seiten) (2019/2020)
 
 ## Zeugnisbemerkungen für EBBR Zeugnis
