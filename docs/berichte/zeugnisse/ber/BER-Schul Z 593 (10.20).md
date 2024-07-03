@@ -135,6 +135,8 @@ Für die Sortierung der Fächer des "Berufsfeldübergreifenden Unterrichts" auf 
 
 ## Betriebliche Lernaufgabe
 
+### Note und Fach
+
 `Schüler > Zeugnis > Fächer`
 
 "Betriebliche Lernaufgabe - Endnote" - Um für die "Betriebliche Lernaufgabe - Endnote" die "Gesamtstunden" und eine "Note" auf dem Zeugnis ausgeben zu können, legen Sie bitte ein Fach für diese "Betriebliche Lernaufgabe" im `Schlüsselverzeichnis > Fächer` mit folgendem Kürzel an:
@@ -145,7 +147,7 @@ BLE | leer | beliebig
 
 Weisen Sie dieses Fach dem Schüler im Menü `Schüler > Zeugnis > Fächer` zu. Tragen Sie im Feld "Faktor" die "Gesamtstunden" ein. Die Endnote erfassen Sie für dieses Fach im Menü `Schüler > Zeugnis > Leistungen` im Feld "Endnote (Gesamt)".
 
-### Thema der betrieblichen Lernaufgabe
+### Thema
 
 `Schüler > Zeugnis > Leistungen > Beurteilung`
 
