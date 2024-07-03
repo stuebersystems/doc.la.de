@@ -4,7 +4,7 @@ Schul Z 593 – Zeugnis der Integrierten Berufsausbildungsvorbereitung über den
 
 ## Abbildung
 
-[02]:/assets/images/Berlin/schulz59300.png "Seite 1 und 4"
+[01]:/assets/images/Berlin/schulz59300.png "Seite 1 und 4"
 
 [![Seite 1 und 4][01]][01]
 
