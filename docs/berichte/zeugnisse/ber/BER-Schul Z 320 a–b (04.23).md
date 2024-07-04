@@ -1,8 +1,6 @@
-﻿# BER-Schul Z 320 a-b
+﻿# BER-Schul Z 320 a-b (04.23)
 
-Bitte verwenden Sie den aktuelleren Bericht `BER-Schul Z 320 a-b (04.23)`!
-
-Schul Z 320a (04.23)<br/>Schul Z 320b (04.23)<br/>Schul Z 320a (11.19)<br/>Schul Z 320b (11.19)
+Schul Z 320a (04.23)
 
 [1]:/assets/images/Berlin/ber-schulz-320a.png "BER-Schul Z 320 a-b (11.19)"
 
@@ -42,18 +40,21 @@ Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitra
 
 Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für den Zeugnisdruck vorgegebene Schriftart SenBJS auf Ihrem Rechner installiert sein.
 
-## Fachstatus
+## Wahlfächer
 
-`Extras > Schlüsselverzeichnisse > Fachstatus`
+`Extras > Schlüsselverzeichnisse > Fachstatus`<br/>`Schüler > Zeugnis > Fächer > Fachstatus`<br/>`Schüler > Zeugnis > Fächer > Position`
 
-Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
+Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen `Fachstatus` zuordnen. 
+Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
 
 Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 Kürzel | Schlüssel | Bezeichnung 
 --|--|--
 WahlPF | WahlPF | Wahlpflichtfach
-VU | VU | Verstärkungsunterricht
+
+Der Bericht ist für 4 Wahlpflichtfächer ausgelegt. Bitte kennzeichnen Sie die Fächer mit dem oben beschriebenen `Fachstatus` und vergeben jeweils eine `Position`.
+Ungerade Positionen werden auf der linken Seite gezeigt, gerade Positionen auf der rechten Seite. Die Positionen müssen aufsteigend, aber nicht aufeinanderfolgend sein.
 
 ## Fächerpositionierung
 
