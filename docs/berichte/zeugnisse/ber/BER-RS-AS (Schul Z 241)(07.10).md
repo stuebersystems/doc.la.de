@@ -79,13 +79,13 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
+Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. Magellan greift hier auf das Menü `Lehrer` zurück.
 
 ## StellvertreterIn
 
 `Mandaten > Daten 1 > Stellvertreter`
 
-Der Stellvertreter des Schulleiters muss im entsprechenden Zeitraum im Menü `Mandaten > Daten 1` im Feld "Stellvertreter" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
+Der Stellvertreter des Schulleiters muss im entsprechenden Zeitraum im Menü `Mandaten > Daten 1` im Feld "Stellvertreter" eingetragen werden. Magellan greift hier auf das Menü `Lehrer` zurück.
 
 ## Unterscheidung bei der Notenvergabe
 
@@ -93,7 +93,7 @@ Der Stellvertreter des Schulleiters muss im entsprechenden Zeitraum im Menü `Ma
 
 Bei der Notenvergabe wird auf dem Zeugnis zwischen "Leistungen in der Prüfung", den "Jahrgangsnoten der Jahrgangsstufe 10 der Realschule"  und "Präsentationsprüfung" unterschieden:
 
-Noten | Felder in MAGELLAN
+Noten | Felder in Magellan
 --|--
 Leistungen in den Prüfungsfächern - Schriftliche Note |  Spalte "Schriftl. Note 4" 
 Leistungen in den Prüfungsfächern - Mündliche Note | Spalte  "Schriftl Note 2"

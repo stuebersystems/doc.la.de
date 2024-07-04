@@ -15,7 +15,7 @@
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1". Bitte tragen Sie das Datum im Format `jjjj/jj` ein.
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1". Bitte tragen Sie das Datum im Format `jjjj/jj` ein.
 
 ## Jahrgang Klasse
 

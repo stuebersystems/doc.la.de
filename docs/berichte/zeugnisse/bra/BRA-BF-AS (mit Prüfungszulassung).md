@@ -17,7 +17,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 
 `Schlüsselverzeichnis > Zeiträume > Art UND Klassen > Zeiträume > Jahrgang`
 
-Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter Schlüsselverzeichnis > Zeiträume > Art und aus dem Menü Klassen > Zeiträume > Jahrgang.
+Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter Schlüsselverzeichnis > Zeiträume > Art und aus dem Menü Klassen > Zeiträume > Jahrgang.
 z.B.
 1 Jahrgang = 1. und 2. HJ
 2 Jahrgang = 3. und 4. HJ usw.
@@ -91,4 +91,4 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 `Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".

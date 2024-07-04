@@ -69,7 +69,7 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
+Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. Magellan greift hier auf das Menü `Lehrer` zurück.
 
 ## Fachabitur
 

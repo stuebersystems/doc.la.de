@@ -65,7 +65,7 @@ Um die Note der Komplexprüfung 1 und 2 auszugeben, legen Sie jeweils 2 Fächer 
 
 `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü Lehrer zurück.
+Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. Magellan greift hier auf das Menü Lehrer zurück.
 
 ## Berufsfeld der Klasse
 
@@ -89,5 +89,5 @@ Tragen Sie im aktuellen Zeitraum im Menü Schüler > Laufbahn > Abschluss die Ab
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 

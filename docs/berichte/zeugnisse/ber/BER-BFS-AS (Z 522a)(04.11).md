@@ -87,7 +87,7 @@ Für die korrekte Ausgabe der Fächernoten im Fachrichtungsübergreifenden und F
 Bei Fächern, in denen zusätzlich zur Endnote eine mündliche und schriftliche Note ausgegeben wird, tragen Sie die Noten wie folgt ein:
 Im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Leistungen`
 
-Spalte in MAGELLAN | Note für:
+Spalte in Magellan | Note für:
 --|--
 Spalte "Endnote (Gesamt)" | Gesamtnote
 Spalte "Schriftl. Note 1" | schriftliche Note

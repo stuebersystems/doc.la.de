@@ -82,8 +82,8 @@ Wenn der Name 2 und der Name 3 gefüllt sind, werden die beiden Inhalte mit eine
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`<br/>`Extras > Schlüsselverzeichnis > Zeiträume > Art`
 
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art".
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art".
 
 ZeitraumArt 1.Halbjahr ergibt = "1. Schulhalbjahr " + {Zeitraeume.Ausdruck1} Beispiel: 1.Schulhalbjahr 2022/23<br/>
 ZeitraumArt leer oder 2.Halbjahr = "Schuljahr " + {Zeitraeume.Ausdruck1} Beispiel: Schuljahr 2022/23
@@ -172,7 +172,7 @@ Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum En
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 `<<VornameV>>` | Vorname Vorname2
 `<<Nachname>>` | Nachname

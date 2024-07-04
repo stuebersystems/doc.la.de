@@ -51,7 +51,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 `Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 ## Zeugnisdatum
 
@@ -127,7 +127,7 @@ Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
 ``<<Nachname>>`` | Nachname

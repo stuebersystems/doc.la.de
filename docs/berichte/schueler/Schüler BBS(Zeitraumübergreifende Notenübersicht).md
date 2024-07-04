@@ -39,7 +39,7 @@ Der Bericht muss aus dem Menu "Drucken" "Zeugnis Drucken" (Strg + Z)gedruckt wer
 
  `Schlüsselverzeichnisse > Zeiträume`
 
-Die Ausgabe des Schulhalbjahrs erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte „Bezeichnung“. Aus Platzgründen formatieren Sie die „Bezeichnung“ folgendermaßen:
+Die Ausgabe des Schulhalbjahrs erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte „Bezeichnung“. Aus Platzgründen formatieren Sie die „Bezeichnung“ folgendermaßen:
 
 1. kürzen Sie "Halbjahr" mit "HJ" ab
 2. kürzen Sie das Jahr, z.B. "2009" mit "09" ab

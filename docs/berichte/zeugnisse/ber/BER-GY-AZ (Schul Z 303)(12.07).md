@@ -130,7 +130,7 @@ Jahrgang/Zeitraum | Ausgabe im Bericht
 
 1. Das Schuljahr wird im `Schlüsselverzeichnis > Zeiträume` in der Spalte “Ausdruck1“ hinterlegt.
 2. Das Schulhalbjahr wird im `Schlüsselverzeichnis > Zeiträume` in der Spalte „Art“ hinterlegt
-3. Die Ausgabe Vorkurs/E-Phase/Kurshalbjahr ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume` im Feld "Art" und aufgrund der Eintragungen im Menü `Klassen > Zeiträume` im Feld „Jahrgang“
+3. Die Ausgabe Vorkurs/E-Phase/Kurshalbjahr ergibt sich aufgrund der Definition des aktuellen Zeitraums in Magellan im `Schlüsselverzeichnis > Zeiträume` im Feld "Art" und aufgrund der Eintragungen im Menü `Klassen > Zeiträume` im Feld „Jahrgang“
 4. Im Menü Klassen müssen den Klassen im Feld "Klassenart" in den entsprechenden Zeiträumen entweder "Oberstufenjahrgang (Nur Kurse)" (für Vorkurs / E-Phase)** bzw. "Oberstufenjahrgang (Grund- und Leistungskurse)" (für Kurshalbjahre)** hinterlegt sein.
 
 Jahrgang/Halbjahr | Ausgabe im Bericht/Zeugnis
@@ -146,7 +146,7 @@ Jahrgang/Halbjahr | Ausgabe im Bericht/Zeugnis
 
 `Extras > Schlüsselverzeichnisse > Fächer > Kategorie`
 
-Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
+Jedes Fach muss in Magellan im `Schlüsselverzeichnis > Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
 
 |Fächer > Kategorie|
 |--|

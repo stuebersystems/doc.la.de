@@ -143,7 +143,7 @@ setzen Sie den Haken vor `Lernleistung einbringen`. Das Thema der besonderen Ler
 
 ## Leistung mündlich erbracht
 
-Sie können in MAGELLAN unter Abitur > Qualifikation > Layout anpassen pro Kurshalbjahr eine Spalte zum Markieren, ob eine Leistung mündlich erbracht wurde einblenden. Bitte markieren Sie dort die mündliche Leistung für ausgewählte Fächer und Halbjahre. Diese Eingabe wird vom Skript für die Festlegung des Profils ausgewertet.
+Sie können in Magellan unter Abitur > Qualifikation > Layout anpassen pro Kurshalbjahr eine Spalte zum Markieren, ob eine Leistung mündlich erbracht wurde einblenden. Bitte markieren Sie dort die mündliche Leistung für ausgewählte Fächer und Halbjahre. Diese Eingabe wird vom Skript für die Festlegung des Profils ausgewertet.
 
 ![Blenden Sie die Spalten unter "Layout anpassen" ein und markieren per Häkchen, falls eine Leistung mündlich erbracht wurde.](/assets/images/E1_Q4_muendlich.png)
 

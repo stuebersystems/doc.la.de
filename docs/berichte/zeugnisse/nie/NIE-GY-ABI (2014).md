@@ -112,7 +112,7 @@ oB | ohne Bewertung | Füllwerte
 `Abitur > Prüfung`
 
 Anstelle der 4. schriftlichen Prüfung ist auch eine „Besondere Lernleistung“ möglich.
-Gehen Sie in MAGELLAN wie folgt vor:
+Gehen Sie in Magellan wie folgt vor:
 
 Wählt der Schüler anstelle der 4. schriftlichen Prüfung die Einbringung einer „Besonderen Lernleistung“, müssen Sie im Menü `Abitur > Prüfung` im Feld „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
 Die schriftliche Note für die „Besondere Lernleistung" tragen Sie im 1. Notenfeld ganz links ein. Folglich ist keine schriftliche Note unter „Prüfungsfächer“ im 4. PF zugewiesen (Feld bleibt leer).
@@ -127,7 +127,7 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
+Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. Magellan greift hier auf das Menü `Lehrer` zurück.
 
 ## Seminarfach
 
@@ -141,7 +141,7 @@ Bitte benutzen Sie für das Seminarfach unter `Extras > Schlüsselverzeichnisse 
 
 Die Fremdsprachen des Schülers tragen Sie wie folgt ein:
 
-Fremdsprachen | Eintragung in MAGELLAN wie folgt
+Fremdsprachen | Eintragung in Magellan wie folgt
 --|-- 
 Pflichtfremdsprachen | Diese tragen Sie im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" ein. Im Feld "Zusatz" markieren Sie die entsprechenden Sprachen mit "Pflichtfach". Sie können max. 4 Pflichtfremdsprachen auswählen, beachten Sie aber bitte, dass bei der Auswahl von 4 Fremdsprachen keine "Wahlsprachen" mehr ausgewählt werden können.
 Wahlsprachen | Diese tragen Sie im im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" ein. Beachten Sie bitte, dass nur die 3. und/oder 4. Fremdsprache eine Wahlsprache sein kann. Im Feld "Zusatz" markieren Sie die entsprechenden Sprachen mit "Wahlfach (fakultative FS)".

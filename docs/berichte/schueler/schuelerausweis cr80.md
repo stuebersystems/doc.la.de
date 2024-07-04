@@ -34,7 +34,7 @@ Das Schülerfoto wird aus dem Feld `Schüler > Daten1 > Passfoto` gelesen.
 
 `Schüler > Daten1 > Vorname` <br/>`Schüler > Daten1 > 2.Vorname` <br/>`Schüler > Daten1 > Zusatz` <br/>`Schüler > Daten1 > Nachname` 
 
-Das Namensfeld kann bei langen Namen zweizeilig ausgegeben werden. Die Namen werden je nach Angabe in MAGELLAN in folgender Reihenfolge ausgegeben: `Zusatz Nachname, Vorname 2.Vorname`.
+Das Namensfeld kann bei langen Namen zweizeilig ausgegeben werden. Die Namen werden je nach Angabe in Magellan in folgender Reihenfolge ausgegeben: `Zusatz Nachname, Vorname 2.Vorname`.
 
 ## Weitere Schülerdaten
 

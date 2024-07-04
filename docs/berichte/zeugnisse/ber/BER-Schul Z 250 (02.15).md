@@ -43,7 +43,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 ## Versetzung
 
@@ -84,7 +84,7 @@ Tragen Sie die "Verspätungen" im entsprechenden Zeitraum im Menü `Schüler > Z
 
 Manche Fächer werden mit einer Note für mündliche Leistungen, einer Note für schriftliche Leistungen und einer Gesamtnote versehen. Tragen Sie daher im Menü `Schüler > Zeugnis > Leistungen` die Noten wie folgt ein:
 
-Note | Feld in MAGELLAN
+Note | Feld in Magellan
 --|--
 mündliche Note | Mündl. Note | 
 schriftliche Note | Schriftl. Note 4

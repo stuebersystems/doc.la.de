@@ -131,7 +131,7 @@ HINWEIS: Weitere Sportfächer (Sport Theorie, Sport) vergeben Sie bitte die Posi
 
 `Extras > Schlüsselverzeichnisse > Fächer > Kategorie`
 
-Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
+Jedes Fach muss in Magellan im `Schlüsselverzeichnis > Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
 
 |Fächer > Kategorie|
 |--|

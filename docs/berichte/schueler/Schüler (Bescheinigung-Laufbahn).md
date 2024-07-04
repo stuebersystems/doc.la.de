@@ -40,5 +40,5 @@ Tragen Sie im Menü `Schüler > Daten 2` im Bereich "Abgang" das Datum für das 
 
 `Schlüsselverzeichnis > Zeiträume > Ausdruck 2`
 
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck 2".
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck 2".
 

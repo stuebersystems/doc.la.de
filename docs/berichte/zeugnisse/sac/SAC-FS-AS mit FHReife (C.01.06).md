@@ -81,7 +81,7 @@ Tragen Sie die Vollzeit-  bzw. Teilzeitform unter `Klassen > Daten > Organisatio
 
 `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
+Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. Magellan greift hier auf das Menü `Lehrer` zurück.
 
 ## Namenszusätze der Schule
 
@@ -98,7 +98,7 @@ Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
 ``<<Nachname>>`` | Nachname
@@ -170,7 +170,7 @@ Das Thema der Facharbeit tragen Sie im Menü `Schüler > Leistungem` im Feld "Be
 3. Weisen Sie diesen Fächer im Menü `Schüler > Zeugnis > Fächer` im Feld `Unterrichtsart`, entweder ``KP`` (für praktische Komplexprüfung) oder ``KS`` (für schriftliche Komplexprüfung zu. Grundlage bildet das `Schlüsselverzeichnis > Unterrichtsarten`.
 4. Der Bericht gibt zusätzlich eine Nummer vor der schriftlichen Komplexprüfung aus, dahinter wird die Fachbezeichnung ausgelesen.
 5. Die Note der schriftlichen / praktischen Komplexprüfung tragen Sie im Menü `Schüler > Zeugnis > Leistungen` ein.
-6. Damit der Bericht die Lernfelder der entsprechenden schriftlichen / praktischen Komplexprüfung zuordnen kann, weisen Sie im Menü `Schüler > Zeugnis > Fächer` diesen Lernfeldern im Feld "Hauptfach" das für die Komplexprüfung angelegte Fach zu. MAGELLAN greift hier auf das `Schlüsselverzeichnis > Fächer` zu.
+6. Damit der Bericht die Lernfelder der entsprechenden schriftlichen / praktischen Komplexprüfung zuordnen kann, weisen Sie im Menü `Schüler > Zeugnis > Fächer` diesen Lernfeldern im Feld "Hauptfach" das für die Komplexprüfung angelegte Fach zu. Magellan greift hier auf das `Schlüsselverzeichnis > Fächer` zu.
 
 Die Ausgabe differiert je nach Fachstatus des Faches:
 
@@ -206,5 +206,5 @@ Damit eine Differenzierung der Fächer für die automatische Durchschnittsnotebe
 
 1. Fächer Sport, Religion und Ethik: Es ist zwingend erforderlich den jeweiligen Fächern im `Schlüsselverzeichnis > Fächer` im Feld "Aufgabenbereich" die Werte "Religion" oder "Sport" zuzuweisen.
 
-2. Nachrichtlich ausgewiesene Fächer (Noten): Nachrichtlich ausgewiesenen Fächern weisen Sie im Menü `Schüler > Zeugnis > Fächer`  im Feld "Hauptfach" das für die Komplexprüfung angelegte Fach zu. MAGELLAN greift hier auf das `Schlüsselverzeichnis > Fächer` zu.
+2. Nachrichtlich ausgewiesene Fächer (Noten): Nachrichtlich ausgewiesenen Fächern weisen Sie im Menü `Schüler > Zeugnis > Fächer`  im Feld "Hauptfach" das für die Komplexprüfung angelegte Fach zu. Magellan greift hier auf das `Schlüsselverzeichnis > Fächer` zu.
 

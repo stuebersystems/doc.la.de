@@ -31,7 +31,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
  `Schüler > Laufbahn > Allgemein > Empfehlung`
 
-In MAGELLAN muss im Menü `Schüler > Laufbahn` im Bereich "Allgemein" im Feld "Empfehlung" HS, RS oder GY gewählt werden. Grundlage bildet das Schlüsselverzeichnis > Empfehlungen. Der Bericht setzt dann automatisch folgende Kreuzchen:
+In Magellan muss im Menü `Schüler > Laufbahn` im Bereich "Allgemein" im Feld "Empfehlung" HS, RS oder GY gewählt werden. Grundlage bildet das Schlüsselverzeichnis > Empfehlungen. Der Bericht setzt dann automatisch folgende Kreuzchen:
 
 HS > HS, R+ und IGS
 RS > RS, R+ und IGS

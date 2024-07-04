@@ -85,7 +85,7 @@ PR | PR | Präsentationsprüfung
 
 Notenerfassung im 3. PF - Für die korrekte Ausgabe der Fächernoten im dritten Prüfungsfach tragen Sie die Noten im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Leistungen` in den Notenspalten wie folgt ein:
 
-Note für | Eintrag in MAGELLAN
+Note für | Eintrag in Magellan
 --|--
 mündliche Note | Spalte "Mündll. Note"
 schriftliche Note | Spalte "Schriftl. Note 1"

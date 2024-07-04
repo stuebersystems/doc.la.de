@@ -72,11 +72,11 @@ Der unterrichtende Lehrer kann manuell oder per Fachtafel unter `Schüler > Zeug
 
 ### Bemerkungen
 
-Dieses Feld kann manuell nach dem Druck befüllt werden, es wird keine Eintrag aus MAGELLAN ausgegeben.
+Dieses Feld kann manuell nach dem Druck befüllt werden, es wird keine Eintrag aus Magellan ausgegeben.
 
 ### Zahl der Wochenstunden
 
-Dieses Feld kann manuell nach dem Druck befüllt werden, es wird keine Eintrag aus MAGELLAN ausgegeben.
+Dieses Feld kann manuell nach dem Druck befüllt werden, es wird keine Eintrag aus Magellan ausgegeben.
 
 ## Berichtsfuß
 
@@ -88,7 +88,7 @@ Dieses Feld kann manuell nach dem Druck befüllt werden, es wird keine Eintrag a
 
 Diese Angaben können je Schüler oder per Sammelzuweisung (Aufruf auf der Unterkarte `Details`) zugewiesen werden.
 
-Bezeichnung<br/>im Bericht|Feld in<br/>MAGELLAN
+Bezeichnung<br/>im Bericht|Feld in<br/>Magellan
 --|--
 versäumte Tage| Fehltage
 davon unentschuldigt|(Fehltage) davon unentschuldigt

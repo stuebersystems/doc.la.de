@@ -16,7 +16,7 @@ Tragen Sie das Zeugnisdatum im Menü `Abitur > Prüfung` im Feld "Zeugnisdatum" 
 
 1. Das Schuljahr wird unter `Extras > Schlüsselverzeichnisse > Zeiträume` im Feld “Ausdruck1“ hinterlegt.
 2. Das Schulhalbjahr wird unter `Extras > Schlüsselverzeichnisse > Zeiträume` im Feld „Art“ hinterlegt
-3. Die Ausgabe Vorkurs/E-Phase/Kurshalbjahr ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume` im Feld "Art" und aufgrund der Eintragungen im Menü `Klassen > Zeiträume` im Feld „Jahrgang“
+3. Die Ausgabe Vorkurs/E-Phase/Kurshalbjahr ergibt sich aufgrund der Definition des aktuellen Zeitraums in Magellan im `Schlüsselverzeichnis > Zeiträume` im Feld "Art" und aufgrund der Eintragungen im Menü `Klassen > Zeiträume` im Feld „Jahrgang“
 4. Im Menü `Klassen > Klassenart` muss in den entsprechenden Zeiträumen entweder "Oberstufenjahrgang (Nur Kurse)" (für Vorkurs / E-Phase)** bzw. "Oberstufenjahrgang (Grund- und Leistungskurse)" (für Kurshalbjahre)** hinterlegt sein.
 
 Jahrgange/Halbjahr | Ausgabe im Bericht/Zeugnis
@@ -40,7 +40,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Beim Abgang können 2 Abschlüsse erworben werden. Es wird unterschieden:
 
-Varianten | Ausgabe | Eingaben in MAGELLAN
+Varianten | Ausgabe | Eingaben in Magellan
 --|--|--
 Varinate 1 | mittlere Reife | Jahrgang 11 (1. und 2. HJ); Jahrgang 12 (1. HJ)
 Variante 2 | schulischer Teil der Fachhochschulreife | Jahrgang 12 (2.HJ); Jahrgang 13 (1. und 2 HJ)

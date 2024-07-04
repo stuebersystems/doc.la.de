@@ -10,13 +10,13 @@ Der Bericht muss aus über `Drucken > Bericht Drucken (Strg + P)` gedruckt werde
 
 `Extras > Schlüsselverzeichnisse > Zeiträume`
 
-Die Ausgabe des "von" - "bis" Datums des Zeitraumes ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben werden hierbei die Einträge in den Spalten „Von“ und "Bis".
+Die Ausgabe des "von" - "bis" Datums des Zeitraumes ergibt sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben werden hierbei die Einträge in den Spalten „Von“ und "Bis".
 
 ## Zeitraum
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe in der Spalte "Zeitraum" erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte „Ausdruck1“.
+Die Ausgabe in der Spalte "Zeitraum" erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan im `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte „Ausdruck1“.
 
  `Schüler > Laufbahn > Allgemein > Zugang/Abgang`
 

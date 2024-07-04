@@ -90,7 +90,7 @@ Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
 ``<<Nachname>>`` | Nachname
@@ -134,7 +134,7 @@ Die Merkmale D1-D4 können per Sammelzuweisung den Schüler zugewiesen werden. (
 
 `BER-BFS-Matrix-2016.dws`
 
-Um eine zeitraumübergreifenden Endnotenberechnung der Berufsfachschule in MAGELLAN auszuführen, lesen Sie bitte unsere Onlinedokumentation:
+Um eine zeitraumübergreifenden Endnotenberechnung der Berufsfachschule in Magellan auszuführen, lesen Sie bitte unsere Onlinedokumentation:
 
 [https://doc.la.stueber.de/berufsschule/](https://doc.la.stueber.de/berufsschule/)
 [https://doc.la.stueber.de/03.ber/ber-bfs-matrix-2016dws](https://doc.la.stueber.de/03.ber/ber-bfs-matrix-2016dws/).md"

@@ -6,7 +6,7 @@ Basierend auf der Verordnung über die gymnasiale Oberstufe (VO-GO)  [http://sch
 
 !!! info "Hinweis"
 
-    Das Skript NIE-APO-G9-2016 berechnet das Abitur für den Jahrgang, der nach 13 Jahren Abitur macht und berücksichtigt für die Qualifikation die Halbjahre 12/1-13/2. Die entsprechenden Jahrgänge müssen in MAGELLAN als Oberstufenjahrgänge gekennzeichnet sein.
+    Das Skript NIE-APO-G9-2016 berechnet das Abitur für den Jahrgang, der nach 13 Jahren Abitur macht und berücksichtigt für die Qualifikation die Halbjahre 12/1-13/2. Die entsprechenden Jahrgänge müssen in Magellan als Oberstufenjahrgänge gekennzeichnet sein.
     Mit diese Skript kann auch die Fachhochschulreife berechnet werden. Bitte wählen Sie dazu unter `Menü > Abitur > Qualifikation > Status` den entsprechenden Status aus.
 
 ## Verzeichnis Verordnung

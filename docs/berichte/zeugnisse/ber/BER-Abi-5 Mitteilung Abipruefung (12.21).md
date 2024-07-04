@@ -16,4 +16,4 @@ Das Zeugnis/der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 ## Daten manuell erfassen
 
-Die Checkboxen und Textzeilen sind Vorlagen für die manuelle Erfassung, es werden keine Einträge aus MAGELLAN ausgegeben.
+Die Checkboxen und Textzeilen sind Vorlagen für die manuelle Erfassung, es werden keine Einträge aus Magellan ausgegeben.

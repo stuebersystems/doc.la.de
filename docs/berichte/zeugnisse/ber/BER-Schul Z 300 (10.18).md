@@ -19,7 +19,7 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Art`
 
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
 
 ## Versäumnisse
 
@@ -47,7 +47,7 @@ Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum En
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 `<<VornameV>>` | Vorname Vorname2
 `<<Nachname>>` | Nachname

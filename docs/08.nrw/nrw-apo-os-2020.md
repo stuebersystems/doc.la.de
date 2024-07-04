@@ -1,6 +1,6 @@
 # NRW-APO-OS-2020
 
-Nachstehend beschreiben wir die vorausgesetzten Eintragungen in MAGELLAN.
+Nachstehend beschreiben wir die vorausgesetzten Eintragungen in Magellan.
 
 ## Verordnung und Gültigkeit
 
@@ -121,7 +121,7 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 ### 3. und 4. Prüfungsfach
 
 Prüfungen können für die GH-Kurse des 3. Prüfungsfach und/oder 4. Prüfungsfach auch in mehreren Fächern des gleichen Aufgabenfeldes oder mit unterschiedlichen Aufgabenfeldern abgelegt werden. 
-Beide Fächer müssen in MAGELLAN auf der Qualifikationskarte erscheinen und auswertbar markiert werden, auf der Karte `Abitur > Prüfungen` und dem Abiturzeugnis soll aber nur eins der beiden Fächer erscheinen.
+Beide Fächer müssen in Magellan auf der Qualifikationskarte erscheinen und auswertbar markiert werden, auf der Karte `Abitur > Prüfungen` und dem Abiturzeugnis soll aber nur eins der beiden Fächer erscheinen.
 
 1. Beide Fachzeilen werden im Feld Status als Prüfungsfach markiert (Fachstatus `3PF` und `3PF` oder `4PF` und `4PF`).
 2. In der Spalte `Merkmal` wird manuell erfasst (Varianten nachstehend), welche Kurse je Fachzeile als Prüfungsfachkurse zu werten sind.
@@ -255,8 +255,8 @@ Um den Berechnungsvorschlag für eine Gruppe von Schülern ausführen zu lassen,
     Die Sammelaktion "Vorschlag zuweisen" setzt die Nutzung der Regionaleinstellung "Nordrhein-Westfalen" und des  Abiturberechnungsskripts "NRW-APO-OS-2020.dws" voraus.
 
 **Voraussetzungen:** <br/>
-**Region:** Für die Verbindung von MAGELLAN zu Ihrer Datenbank kann je Arbeitsplatz eine Region gewählt werden. Sie können diese Einstellung einsehen oder anpassen im Modul MAGELLAN Administrator unter `Datenbankverbindungen > Doppelklick auf Ihre Verbindungszeile > Unterkarte Datenbank > Feld Region`. Hier muss der Wert "Nordrhein-Westfalen" gewählt sein. <br/>
-**Skriptdatei**: Den Schülern muss das Berechnungsverordnungsskript "NRW-APO-OS-2020.dws" ab der MAGELLAN-Version 11.0.5 zugewiesen sein, dieses Skript kann auf die Aktion reagieren und die Aktionen Initialisieren, Vorschlag und Berechnen für eine Gruppe von Schülern ausführen.
+**Region:** Für die Verbindung von Magellan zu Ihrer Datenbank kann je Arbeitsplatz eine Region gewählt werden. Sie können diese Einstellung einsehen oder anpassen im Modul Magellan Administrator unter `Datenbankverbindungen > Doppelklick auf Ihre Verbindungszeile > Unterkarte Datenbank > Feld Region`. Hier muss der Wert "Nordrhein-Westfalen" gewählt sein. <br/>
+**Skriptdatei**: Den Schülern muss das Berechnungsverordnungsskript "NRW-APO-OS-2020.dws" ab der Magellan-Version 11.0.5 zugewiesen sein, dieses Skript kann auf die Aktion reagieren und die Aktionen Initialisieren, Vorschlag und Berechnen für eine Gruppe von Schülern ausführen.
 
 **So gehen Sie vor:**
 

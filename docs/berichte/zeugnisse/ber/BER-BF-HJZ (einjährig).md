@@ -65,7 +65,7 @@ Um auf dem Zeugnis das Geschlecht des Abteilungsleiters auszugeben, gehen Sie wi
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Von/Bis`
 
-Die Ausgabe des "von" - "bis" Datums des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben werden hierbei die Einträge in den Spalten "Von" und "Bis".
+Die Ausgabe des "von" - "bis" Datums des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben werden hierbei die Einträge in den Spalten "Von" und "Bis".
 
 ## Berufsfeld der Klasse
 
@@ -96,7 +96,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Art`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Art". Tragen Sie den von und bis Zeitraum unter "Von" und "Bis" ein.
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Art". Tragen Sie den von und bis Zeitraum unter "Von" und "Bis" ein.
 
 ## Zeugnisbemerkungen
  

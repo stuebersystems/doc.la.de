@@ -60,7 +60,7 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü Lehrer zurück.
+Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. Magellan greift hier auf das Menü Lehrer zurück.
 
 ## automatischen Berechnung der Durchschnittsnote 
 
@@ -77,7 +77,7 @@ Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum 
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
 ``<<Nachname>>`` | Nachname

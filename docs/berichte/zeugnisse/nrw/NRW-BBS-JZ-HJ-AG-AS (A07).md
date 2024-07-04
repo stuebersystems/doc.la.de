@@ -54,7 +54,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 **Zeugnisdatum**
 
@@ -101,7 +101,7 @@ Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "N
 
 Beim Druck des Zeugnis für die Auszubildenden beachten Sie bitte folgende Punkte:
 
-1)  Je nach Ihren Einstellungen in MAGELLAN können die Abschlüsse „Abschlusszeugnis " oder „Abschlusszeugnis und Hauptschulabschluss" ausgegeben werden. 
+1)  Je nach Ihren Einstellungen in Magellan können die Abschlüsse „Abschlusszeugnis " oder „Abschlusszeugnis und Hauptschulabschluss" ausgegeben werden. 
 2)  Beim Abschlusszeugnis können Sie unterscheiden ob neben dem Berufsschulabschluss auch der Hauptschulabschluss erreicht wurde oder nicht. Tragen Sie dazu im Menü `Schüler > Laufbahn > Abschlüsse > Abschluss1` den Abschluss wie folgt ein (Grundlage dazu ist das Schlüsselverzeichnis > Abschlüsse Intern):
 
 Kürzel | Bezeichnung	
@@ -137,7 +137,7 @@ Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > 
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Von / Bis`
 
-Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
+Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
 **(Zeugnisbemerkungen)** 
 `Abitur > Zeugnisbemerkungen`

@@ -14,7 +14,7 @@ Der Tutor muss im entsprechenden Zeitraum im Menü Schüler > Zeugnis > Details 
 
 `Schlüsselverzeichnis > Zeiträume > Art`
 
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
 
 ## Fachstatus
 
@@ -89,7 +89,7 @@ Die Abschlussnote der abgewählten bzw. abgeschlossenen Fächer tragen Sie im Me
 Den Zeitraum "von" und "bis" der abgewählten bzw. abgeschlossenen Fächer tragen Sie im Menü `Abitur > Qualifikation` im Feld "Merkmal" ein. Bitte beachten Sie dabei, nur die letzen beiden Ziffern des jeweiligen Kalenderjahres hintereinander einzutragen.
 
 Beispiel:
-von / bis | ausgegeben werden soll | Eintrag in MAGELLAN
+von / bis | ausgegeben werden soll | Eintrag in Magellan
 --|--|--
 "von" | 2003/2004 | 0304
 "bis" | 2005/2006 | 0506

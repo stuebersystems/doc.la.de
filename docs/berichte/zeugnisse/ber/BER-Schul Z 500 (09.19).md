@@ -8,7 +8,7 @@ Schul Z 500 – Zeugnis der Berufsschule – (2 Seiten) – (09.19)
 
 **Ausgabe "X. Halbjahr" **
 
-Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume > Art` und aus dem Menü `Schüler > Zeitraum > Details` den Eintrag in Feld „Jahrgang". Des Weiteren wird das Datum des Schulformeintritts im Menü `Schüler > Laufbahn > Allgemein` (Feld "Schulformeintritt) herangezogen.
+Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in Magellan im `Schlüsselverzeichnis > Zeiträume > Art` und aus dem Menü `Schüler > Zeitraum > Details` den Eintrag in Feld „Jahrgang". Des Weiteren wird das Datum des Schulformeintritts im Menü `Schüler > Laufbahn > Allgemein` (Feld "Schulformeintritt) herangezogen.
 
 Ist beim Schüler kein Jahrgang eingetragen, wird der Jahrgang der Klasse aus dem Menü `Klasse > Zeiträume` aus dem  Feld „Jahrgang" herangezogen.
 
@@ -141,11 +141,11 @@ Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
 ``<<Nachname>>`` | Nachname

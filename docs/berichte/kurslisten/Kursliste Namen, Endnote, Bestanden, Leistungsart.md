@@ -5,7 +5,7 @@
 
 ## Allgemein
 
-Diese Kursliste gruppiert je nach Vorauswahl im Kurslistenfilter von MAGELLAN, die ausgegebenen Daten nach Fach, Kursnummer, Unterrichtsart und unterrichtendem Lehrer.
+Diese Kursliste gruppiert je nach Vorauswahl im Kurslistenfilter von Magellan, die ausgegebenen Daten nach Fach, Kursnummer, Unterrichtsart und unterrichtendem Lehrer.
 
 ## Druck
 

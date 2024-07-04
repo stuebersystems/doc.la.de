@@ -7,6 +7,7 @@ Diesen Bericht gibt es als A4- und als A3-Ausgabe.
 [01]:/assets/images/MVP/001.png "S.1"
 [02]:/assets/images/MVP/002.png "S.2"
 [03]:/assets/images/MVP/003.png "S.3"
+[04]:/assets/images/MVP/006.png "Eingabe Facharbeit"
 
 [![Seite 1][01]][01]
 [![Seite 2][02]][02]
@@ -48,7 +49,9 @@ Fach |Thema|Note
 --|--|--
 Fach|`Abitur > Prüfung > Projekt > Fach`
 Thema|`Abitur > Prüfung > Projekt > Thema`
-Note|`Abitur > Prüfung > Projekt > Punkte` (ganz links)
+Note|`Abitur > Prüfung > Projekt > Punkte` (bei einer Note bitte erstes Feld links,<br/>bei zwei Noten noch das zweite Feld von rechts)
+
+[![Eingabe Facharbeit][04]][04]
 
 ### Besondere Lernleistung
 

@@ -289,7 +289,7 @@ Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
 ``<<Nachname>>`` | Nachname
@@ -390,7 +390,7 @@ LA3 (beliebig)| LA3 | Betriebliche Lernaufgabe 3 (beliebig)
 
 `BER-IBA-HJ-2020.dws`
 
-Um eine halbjahresbezogene Berechnung der Durchschnittsnoten für den Berufsfeldbezogenen Unterricht in Fachtherie und Fachpraxis für den Bildungsgang der Integrierten Berufsausbildungsvorbereitung (IBA) in MAGELLAN auszuführen, lesen Sie bitte unsere Onlinedokumentation:
+Um eine halbjahresbezogene Berechnung der Durchschnittsnoten für den Berufsfeldbezogenen Unterricht in Fachtherie und Fachpraxis für den Bildungsgang der Integrierten Berufsausbildungsvorbereitung (IBA) in Magellan auszuführen, lesen Sie bitte unsere Onlinedokumentation:
 
 [https://doc.la.stueber.de/03.ber/ber-iba-hj-2020dws/](https://doc.la.stueber.de/03.ber/ber-iba-hj-2020dws/)
 

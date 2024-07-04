@@ -6,7 +6,7 @@ Basierend auf der Verordnung über die Abschlüsse in der gymnasialen Oberstufe,
 
 !!! info "Hinweis"
 
-    Das Skript NIE-APO-G9-2016 berechnet das Abitur für den Jahrgang, der nach 13 Jahren Abitur macht und berücksichtigt für die Qualifikation die Halbjahre 12/1-13/2. Die entsprechenden Jahrgänge müssen in MAGELLAN als Oberstufenjahrgänge gekennzeichnet sein.
+    Das Skript NIE-APO-G9-2016 berechnet das Abitur für den Jahrgang, der nach 13 Jahren Abitur macht und berücksichtigt für die Qualifikation die Halbjahre 12/1-13/2. Die entsprechenden Jahrgänge müssen in Magellan als Oberstufenjahrgänge gekennzeichnet sein.
     Mit diese Skript kann auch die Fachhochschulreife berechnet werden. Bitte wählen Sie dazu unter `Menü > Abitur > Qualifikation > Status` den entsprechenden Status aus.
 
 ## Verzeichnis Verordnung
@@ -164,7 +164,7 @@ Im Bereich `Abitur > Qualifikation` weisen Sie dem Fach den Fachstatus 4. PF ode
 
 Die Fremdsprachen des Schülers tragen Sie wie folgt ein:
 
-Fremdsprachen | Eintragung in MAGELLAN wie folgt
+Fremdsprachen | Eintragung in Magellan wie folgt
 --|-- 
 Pflichtfremdsprachen | Diese tragen Sie im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" ein. Im Feld "Zusatz" markieren Sie die entsprechenden Sprachen mit "Pflichtfach". Sie können max. 4 Pflichtfremdsprachen auswählen, beachten Sie aber bitte, dass bei der Auswahl von 4 Fremdsprachen keine "Wahlsprachen" mehr ausgewählt werden können.
 Wahlsprachen | Diese tragen Sie im im Menü `Schüler > Daten 3` im Bereich "Fremdsprachenfolge" ein. Beachten Sie bitte, dass nur die 3. und/oder 4. Fremdsprache eine Wahlsprache sein kann. Im Feld "Zusatz" markieren Sie die entsprechenden Sprachen mit "Wahlfach (fakultative FS)".

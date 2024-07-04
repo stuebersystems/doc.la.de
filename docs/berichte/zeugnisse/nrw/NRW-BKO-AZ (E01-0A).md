@@ -80,7 +80,7 @@ Der Bericht muss aus dem Menu `Drucken > Zeugnis Drucken` (Strg + Z) gedruckt we
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Von / Bis`
 
-Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
+Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
 ## Zeugnisbemerkungen
 

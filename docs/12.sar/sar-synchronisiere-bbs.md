@@ -71,7 +71,7 @@ Für nicht autorisierte Änderungen am Quellcode übernimmt STÜBER SYSTEMS wede
 
 ## Speicherort
 
-Das Skript wird mit der Installation von MAGELLAN als Server-/Einzelplatzinstallation unter `C:\Users\Public\Documents\Stueber Systems\Magellan 9\Skripte\Saarland` abgelegt.
+Das Skript wird mit der Installation von Magellan als Server-/Einzelplatzinstallation unter `C:\Users\Public\Documents\Stueber Systems\Magellan 9\Skripte\Saarland` abgelegt.
 
 ## Berücksichtigung von Wiederholern in Magellan nach der AO-BS (Ausbildung an Berufsschulen im Saarland)
 
@@ -130,14 +130,14 @@ ausschließlich auf die Tabelle Schuelerfachdaten zugreifen, sollten diese Skrip
 
 Dieses Skript wurde unter Magellan 6 angepasst und getestet. Unter Magellan 7 müsste es auch lauffähig sein.
 
-> **STÜBER SYSTEMS:** Mit der Ausgabe MAGELLAN 9.0.3 wird unter .../Skripte/Saarland ein unter MAGELLAN 9 lauffähiges Skript ausgeliefert.
+> **STÜBER SYSTEMS:** Mit der Ausgabe Magellan 9.0.3 wird unter .../Skripte/Saarland ein unter Magellan 9 lauffähiges Skript ausgeliefert.
 
 Folgende Dateien werden vom MBK zur Verfügung gestellt:
 
 * Skriptdatei „Synchronisiere BBS.dws“
 * Dokumentation zur Benutzung des angepassten Skriptes (BS-AO-Magellan-WDH.pdf, diese Dokumentation)
-* Crystal Report zur Anzeige der WiederholerInnen (Wiederholerliste.rpt) (Nicht Teil der MAGELLAN-Installation)
-* Crystal Report für die Schulbescheinigung (Schulbescheinigung.rpt) (Nicht Teil der MAGELLAN-Installation):
+* Crystal Report zur Anzeige der WiederholerInnen (Wiederholerliste.rpt) (Nicht Teil der Magellan-Installation)
+* Crystal Report für die Schulbescheinigung (Schulbescheinigung.rpt) (Nicht Teil der Magellan-Installation):
 
 ### 3.2 Schüler hat bereits den Bildungsgang der Berufsschule erfolgreich abgeschlossen
 
@@ -209,7 +209,7 @@ Wiederholerliste.rpt einsetzen. Dieser erzeugt eine Liste der WiederholerInnen p
 
 [![Abbildung][16]][16]
 
-> **STÜBER SYSTEMS**: Unter MAGELLAN 9 sollte bei einer Standardinstallation der Speicherort auf dem Serverrechner unter `C:\Users\Public\Documents\Stueber Systems\Magellan 9\Skripte` sein.
+> **STÜBER SYSTEMS**: Unter Magellan 9 sollte bei einer Standardinstallation der Speicherort auf dem Serverrechner unter `C:\Users\Public\Documents\Stueber Systems\Magellan 9\Skripte` sein.
 
 [![Abbildung][17]][17]
 

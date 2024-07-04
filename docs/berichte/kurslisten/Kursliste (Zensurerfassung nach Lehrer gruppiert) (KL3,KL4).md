@@ -22,7 +22,7 @@ Bitte füllen Sie im Menü `Schüler > Zeugnis > Details` das Feld "Tutor". Grun
 
 ## Notenherkunft
 
-Name im <br/>Bericht| Name in <br/>MAGELLAN | Name in<br/>der Datenbank
+Name im <br/>Bericht| Name in <br/>Magellan | Name in<br/>der Datenbank
 --|--|--
 Punkte KL3|schriftlichte Note 3|Note3
 Punkte KL4|schriftlichte Note 4|Note4

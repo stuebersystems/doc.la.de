@@ -107,7 +107,7 @@ Ist Sport 1. Prüfungsfach, dann wird auf der Registerkarte „Prüfung“ bei  
 
 ## Sport-Praxis Sonderregelung
 
-  MAGELLAN:
+  Magellan:
   Ist Sport 1. Prüfungsfach, dann wird auf Prüfungsregisterkarte bei
   "Schriftliche Note" die Punktzahl SP (siehe unten) aus schriftlicher UND
   mündlicher Note eingetragen und in der Spalte "mündliche Note" die

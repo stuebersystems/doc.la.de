@@ -55,7 +55,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 `Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 ## Zeugnisdatum
 
@@ -80,7 +80,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld "Position" eine Reih
 ODER 
 `Klassen > Merkmale > A1` und `Klassen > Merkmale > A2`
 
-Auf dem Zeugnis wird der Berufsbezogene Bereich diffenziert nach dem Bereich ausgegeben. Beachten Sie hier folgende Vorgehensweise für Ihre Eintragungen in MAGELLAN:
+Auf dem Zeugnis wird der Berufsbezogene Bereich diffenziert nach dem Bereich ausgegeben. Beachten Sie hier folgende Vorgehensweise für Ihre Eintragungen in Magellan:
 
 Fälle | Wie weisen Sie Berufsbereiche zu?
 --|--

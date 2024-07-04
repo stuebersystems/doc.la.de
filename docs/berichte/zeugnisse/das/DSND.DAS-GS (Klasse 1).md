@@ -34,15 +34,15 @@
 [![Zeugnisvorschau1][25]][25]
 [![Zeugnisvorschau2][26]][26]
 
-## ENBREA Lernleistungen
+## Enbrea Lernleistungen
 
 Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie [hier](https://doc.magellan.stueber.de/schulverwaltung/howto/enbrea.leistungen/).
 
-## ENBREA Funktionen aktivieren
+## Enbrea Funktionen aktivieren
 
-`Datenbank > Optionen > ENBREA`
+`Datenbank > Optionen > Enbrea`
 
-Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
+Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > Enbrea > Enbrea Funktionen` aktivieren.
 
 ## Ausdruck
 
@@ -71,13 +71,13 @@ Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Fel
 
 [![Name der Schule, Namenszusätz][12]][12]
 
-[![Eintragungen in MAGELLAN][13]][13]
+[![Eintragungen in Magellan][13]][13]
 
 ## Schulhalbjahre
 
 `Extras > Schlüsselverzeichnisse > Zeiträume`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 ## Klassenjahrgang
 
@@ -124,7 +124,7 @@ Kürzel |  Schlüssel | Zeugnisbereich
 --|--|--
 AG | AG | Arbeitsgemeinschaft
 
-[![Eintragungen in MAGELLAN][7]][7]
+[![Eintragungen in Magellan][7]][7]
 
 ## Ort des Druckdatums
 
@@ -170,7 +170,7 @@ Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum En
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 `<<VornameV>>` | Vorname Vorname2
 `<<Nachname>>` | Nachname
@@ -190,13 +190,13 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-[![Eintragungen in MAGELLAN][9]][9]
+[![Eintragungen in Magellan][9]][9]
 
 ## Fachpositionen
 
-`Schüler > Zeugnis > ENBREA Leistungen > Position`
+`Schüler > Zeugnis > Enbrea Leistungen > Position`
 
-Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü `Schüler > Zeugnis > ENBREA Leistungen` pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
+Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü `Schüler > Zeugnis > Enbrea Leistungen` pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
 
 Folgende Positionierungen sind vorgegeben:
 

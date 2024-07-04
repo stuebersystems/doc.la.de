@@ -75,7 +75,7 @@ Für die Ausgabe der Zeugnisbemerkungen muss über das Feld `Position` eine Reih
 
 `Schlüsselverzeichnis > Zeiträume > Art`
 
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld `Art`
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Schlüsselverzeichnis > Zeiträume` im Feld `Art`
 
 ## Ort
 
@@ -140,15 +140,15 @@ Platzhalter | Inhalt
 
 ### Option
 
-`Datenbank > Optionen > ENBREA`
+`Datenbank > Optionen > Enbrea`
 
-Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen `aktivieren.
+Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > Enbrea > Enbrea Funktionen `aktivieren.
 
 ### Kenn.-Nr
 
 Als Kenn-Nr. liest der Bericht die SchülerID des Schüler aus.
 
-### ENBREA Lernleistungen
+### Enbrea Lernleistungen
 
 Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie hier: [https://doc.magellan.stueber.de/schulverwaltung/howto/enbrea.leistungen/](https://doc.magellan.stueber.de/schulverwaltung/howto/enbrea.leistungen/).
 
@@ -160,6 +160,6 @@ Bitte weisen im Menü Klassen > Zeiträume über die Schaltfläche `Leistungspro
 
 ### Position
 
-`Schüler > Zeugnis > ENBREA Leistungen> Position`
+`Schüler > Zeugnis > Enbrea Leistungen> Position`
 
-Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > ENBREA Leistungen` pro Fach/Name eine Position in der Spalte `Position` angegeben werden.
+Für die Sortierung der Fächer auf den Zeugnissen muss im Menü `Schüler > Zeugnis > Enbrea Leistungen` pro Fach/Name eine Position in der Spalte `Position` angegeben werden.

@@ -6,7 +6,7 @@ Dieser Bericht gibt die Zeugnisbemerkungen aus dem Bereich `Schüler > Zeugnis >
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 ## Jahrgang Klasse
 
@@ -116,7 +116,7 @@ Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum 
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
 ``<<Nachname>>`` | Nachname

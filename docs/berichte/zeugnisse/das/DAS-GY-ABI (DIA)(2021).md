@@ -47,7 +47,7 @@ Dem Zeugnis liegt die Ordnung zur Erlangung der Allgemeinen Hochschulreife an De
 
 !!! info "Hinweis"
 
-    Die Abiturqualifikationsberechnung in MAGELLAN können Sie mit Hilfe eines Berechnungsskriptes durchführen. Lesen Sie dazu bitte die Anleitung zum entsprchenden Berechnungsskript [DE-DIAP-2018](https://doc.la.stueber.de/01.de/de-diap-2018/) 
+    Die Abiturqualifikationsberechnung in Magellan können Sie mit Hilfe eines Berechnungsskriptes durchführen. Lesen Sie dazu bitte die Anleitung zum entsprchenden Berechnungsskript [DE-DIAP-2018](https://doc.la.stueber.de/01.de/de-diap-2018/) 
 
 ## Ausdruck
 
@@ -83,7 +83,7 @@ Religion | Weitere Fächer
 
 Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremdsprache im aktuellen Zeitraum unter "Fremdsprachenfolge" ein. Damit Ihnen hier Fremdsprachen im Auswahlmenü angeboten werden, müssen Sie unter `Schlüsselverzeichnis > Fächer` im Feld "Kategorie" aus dem Pull-Down-Menü "Fremdsprache" zugewiesen haben.
 
-Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintrages in MAGELLAN unter `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "von" und aus dem Menü `Klassen > Zeiträume` Feld „Jahrgang“.
+Die Ausgabe des Jahrganges unter FREMDSPRACHEN errechnet sich aufgrund des Eintrages in Magellan unter `Schüler > Daten 3 > Fremdsprachenfolge` im Feld "von" und aus dem Menü `Klassen > Zeiträume` Feld „Jahrgang“.
 
 !!!info Hinweis
 
@@ -250,7 +250,7 @@ Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum En
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 `<<VornameV>>` | Vorname Vorname2
 `<<Nachname>>` | Nachname

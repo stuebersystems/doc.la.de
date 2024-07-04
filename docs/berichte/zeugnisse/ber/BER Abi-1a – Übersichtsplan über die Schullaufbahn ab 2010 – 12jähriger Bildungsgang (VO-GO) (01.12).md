@@ -112,7 +112,7 @@ Religion | weitere Fächer
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten > Schlüssel`
 
-Bitte prüfen Sie in MAGELLAN im `Schlüsselverzeichnis > Unterrichtsarten`, ob alle notwendigen Einträge vorhanden sind, ggfs. Sind sie zusätzlich anzulegen. Die folgende Unterrichtsarten werden für die Fächer der Schüler vom Skript erwartet. 
+Bitte prüfen Sie in Magellan im `Schlüsselverzeichnis > Unterrichtsarten`, ob alle notwendigen Einträge vorhanden sind, ggfs. Sind sie zusätzlich anzulegen. Die folgende Unterrichtsarten werden für die Fächer der Schüler vom Skript erwartet. 
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--

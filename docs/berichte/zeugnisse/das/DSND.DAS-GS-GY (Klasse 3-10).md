@@ -96,11 +96,11 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 `Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 `Schlüsselverzeichnis > Zeiträume > Art`
 
-Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
+Die Ausgabe des Schulhalbjahres ergibt sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Schlüsselverzeichnis > Zeiträume` im Feld "Art"
 
 ## Zeugnisdatum
 
@@ -163,7 +163,7 @@ Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum En
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 `<<VornameV>>` | Vorname Vorname2
 `<<Nachname>>` | Nachname
@@ -192,7 +192,7 @@ Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis) als
 Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
 Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das `Schlüsselverzeichnisse > Abschlüsse Intern`, der Bericht fragt das "Kürzel" "Abgang" ab.
 
-[![Eintragungen in MAGELLAN][10]][10]
+[![Eintragungen in Magellan][10]][10]
 
 ## Schulart
 

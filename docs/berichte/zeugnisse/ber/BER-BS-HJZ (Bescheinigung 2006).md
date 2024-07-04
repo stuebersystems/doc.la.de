@@ -34,7 +34,7 @@ Das Zeugnis/der Bericht muss aus dem Menü "Schüler" gedruckt werden.
 
 ´Schlüsselverzeichnis > Zeiträume > Art´ UND ´Klassen > Zeiträume > Jahrgang´
 
-Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter ´Schlüsselverzeichnis > Zeiträume > Art´ und aus dem Menü ´Klassen > Zeiträume > Jahrgang´.
+Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter ´Schlüsselverzeichnis > Zeiträume > Art´ und aus dem Menü ´Klassen > Zeiträume > Jahrgang´.
 z.B.
 1 Jahrgang = 1. und 2. HJ
 

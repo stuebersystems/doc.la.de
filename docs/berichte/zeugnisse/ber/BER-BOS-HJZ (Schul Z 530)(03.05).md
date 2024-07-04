@@ -30,7 +30,7 @@ Im Menü "Klassen" muss bei der Klasse des Schülers auf der Registerkarte Daten
 
 `Schlüsselverzeichnis > Zeiträume > Art` und `Klassen > Zeiträume > Jahrgang`
 
-Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume > Art` und aus `Klassen > Zeiträume > Jahrgang`.
+Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Schlüsselverzeichnis > Zeiträume > Art` und aus `Klassen > Zeiträume > Jahrgang`.
 z.B.
 
 Jahrgang | Ausgabe im Bericht/Zeugnis

@@ -1,18 +1,18 @@
 # Alle Skripte im Überblick
 
-Die gesamte Berechnung wird durch MAGELLAN-Skripte durchgeführt oder anders gesagt, jedes Skript repräsentiert eine Verordnung.
+Die gesamte Berechnung wird durch Magellan-Skripte durchgeführt oder anders gesagt, jedes Skript repräsentiert eine Verordnung.
 
 !!! info Hinweis
     Achten Sie in den folgenden Abschnitten immer auf die speziellen Hinweise für das von Ihnen gewählte Skript. Die für Sie relevante Skriptdatei können Sie der Tabelle für Ihre Region unten entnehmen.
 
-Die Skripte befinden sich im MAGELLAN- bzw. im DAVINCI-Verzeichnis im Ordner `Skripte > Ihre Region`.
-MAGELLAN-Skripte können zum Beispiel das Abitur oder die Fachhochschulreife berechnen, die Zulassung zur 12 prüfen, Fachwahlen in MAGELLAN oder DAVINCI prüfen, Durchschnitte oder Abschlüsse ermitteln und zuweisen oder Ergebnisse im Berufsschulbereich berechnen.
+Die Skripte befinden sich im Magellan- bzw. im DaVinci-Verzeichnis im Ordner `Skripte > Ihre Region`.
+Magellan-Skripte können zum Beispiel das Abitur oder die Fachhochschulreife berechnen, die Zulassung zur 12 prüfen, Fachwahlen in Magellan oder DaVinci prüfen, Durchschnitte oder Abschlüsse ermitteln und zuweisen oder Ergebnisse im Berufsschulbereich berechnen.
 
 Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm verwendet und erwartet auch unterschiedliche Eingaben. Diese Eingaben beschreiben wir in den weiteren Abschnitten für jedes Skript.
 
 ## Baden-Württemberg
 
-| Verordnung | Abitur | Fachwahl <br/> MAGELLAN | Fachwahl <br/> DAVINCI | Schüler <br/> Leistungskarte | BBS |
+| Verordnung | Abitur | Fachwahl <br/> Magellan | Fachwahl <br/> DaVinci | Schüler <br/> Leistungskarte | BBS |
 |------------|------------------------------------------|------------------------|----------------------|------------------------------------------|-----|
 | APO 2010 | [BAW-APO-2010-G9.dws](http://doc.la.stueber.de/02.baw/baw-apo-2010-g9) | - | - | - | - |
 | APO 2001 | [BAW-APO-2010-G9.dws](http://doc.la.stueber.de/02.baw/baw-apo-2010-g9) | - | - | - | - |
@@ -27,7 +27,7 @@ Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm ve
 
 ## Berlin
 
-| Verordnung | Abitur | Fachwahl <br/> MAGELLAN | Fachwahl <br/> DAVINCI | Schüler <br/> Leistungskarte | BBS |
+| Verordnung | Abitur | Fachwahl <br/> Magellan | Fachwahl <br/> DaVinci | Schüler <br/> Leistungskarte | BBS |
 |---|----|---|----|------------------------------------------|-----|
 | BER-IBA-AS-2020 | - | - | - | [BER-IBA-AS-2020](https://doc.la.stueber.de/03.ber/ber-iba-as-2020dws/) | - |
 | BER-IBA-HJ-2020 | - | - | - | [BER-IBA-HJ-2020.dws](https://doc.la.stueber.de/03.ber/ber-iba-hj-2020dws/)|-  |
@@ -48,7 +48,7 @@ Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm ve
 
 ## Bremen
 
-Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
+Verordnung|Abitur|Fachwahl <br/> Magellan|Fachwahl <br/> DaVinci|Schüler <br/> Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
 APO 2006|[BRE-APO-2006.dws](http://doc.la.stueber.de/04.bre/bre-apo-1998-2006) |-|-|-|-
 APO 1998|[BRE-APO-1998.dws](http://doc.la.stueber.de/04.bre/bre-apo-1998-2006) |-|BRE-FW-APO-1998.dws|-|-
@@ -62,7 +62,7 @@ APO KO 2010| [BRE-APO-KO-2010.dws](http://doc.la.stueber.de/04.bre/bre-apo-ko-20
 
 ## Hessen
 
-Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
+Verordnung|Abitur|Fachwahl <br/> Magellan|Fachwahl <br/> DaVinci|Schüler <br/> Leistungskarte|BBS
 ----------|------|----------------- |---------------- |------------------------ |------------
 APO 2015|[HES-APO-2015.dws](http://doc.la.stueber.de/05.hes/hes-apo-2015)|[HES-FW-APO-2015.js](http://doc.la.stueber.de/05.hes/hes-fw-apo-2015js) |[HES-FW-APO-2015.js](http://doc.la.stueber.de/05.hes/hes-fw-apo-2015js)|-|-
 APO 2015|[HES-APO-BGY-2015.dws](http://doc.la.stueber.de/05.hes/hes-apo-bgy-2015)|[HES-FW-APO-BGY-2015.js](http://doc.la.stueber.de/05.hes/hes-fw-apo-bgy-2015js)|[HES-FW-APO-BGY-2015.js](http://doc.la.stueber.de/05.hes/hes-fw-apo-bgy-2015js)|-|-
@@ -70,7 +70,7 @@ APO 2010|-|[HES-FW-APO-2010.js](http://doc.la.stueber.de/05.hes/hes-fw-apo-2010j
 
 ## Mecklenburg-Vorpommern
 
-Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
+Verordnung|Abitur|Fachwahl <br/> Magellan|Fachwahl <br/> DaVinci|Schüler <br/> Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
 APO 2019|[MVP-APO-FG-2019.dws](https://doc.la.stueber.de/06.mvp/mvp-apo-fg-2019)|-|-|-|-
 APO 2017|[MVP-APO-FG-2017.dws](https://doc.la.stueber.de/06.mvp/mvp-apo-fg-2017)|-|-|-|-
@@ -81,7 +81,7 @@ APO FG 1999|[MVP-APO-FG-1999.dws](https://doc.la.stueber.de/06.mvp/mvp-apo-fg-19
 
 ## Niedersachsen
 
-Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
+Verordnung|Abitur|Fachwahl <br/> Magellan|Fachwahl <br/> DaVinci|Schüler <br/> Leistungskarte|BBS
 ----------|------|----------------- |---------------- |------------------------ |------------
 APO 2018|[NIE-APO-G9-2018.dws](https://doc.la.stueber.de/07.nie/nie-apo-g9-2018) |-|-|-|-
 APO 2016|[NIE-APO-G9-2016.dws](https://doc.la.stueber.de/07.nie/nie-apo-g9-2016) |-|-|-|-
@@ -96,7 +96,7 @@ APO FG 2007|[NIE-APO-FG-2007.dws](https://doc.la.stueber.de/07.nie/nie-apo-fg-20
 
 ## Nordrhein-Westfalen
 
-Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
+Verordnung|Abitur|Fachwahl <br/> Magellan|Fachwahl <br/> DaVinci|Schüler <br/> Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
 APO OS 2020|[NRW-APO-OS-2020](https://doc.la.stueber.de/08.nrw/nrw-apo-os-2020/)|-|-|-|-
 APO 1998|[NRW-APO-1998.dws](https://doc.la.stueber.de/08.nrw/nrw-apo-1998)|-|NRW-FW-APO-1998.dws|-|-
@@ -109,7 +109,7 @@ AS APO BK 1999|-|-|-|[NRW-AS-APO-BK-1999](https://doc.la.stueber.de/08.nrw/nrw-a
 
 ## Rheinland-Pfalz
 
-|Verordnung | Abitur | Fachwahl <br/> MAGELLAN | Fachwahl <br/> DAVINCI | Schüler <br/> Leistungskarte | BBS |
+|Verordnung | Abitur | Fachwahl <br/> Magellan | Fachwahl <br/> DaVinci | Schüler <br/> Leistungskarte | BBS |
 |--|--|--|--|--|--|
 | APO 1999 | [RLP-APO-1999.dws](https://doc.la.stueber.de/09.rlp/rlp-apo-1999) | - | RLP-FW-APO-1999.dws | - | - |
 | RLP 2006 | [RLP-APO-2006.dws](https://doc.la.stueber.de/09.rlp/rlp-apo-2006) | - | RLP-FW-APO-2006.dws | - | - |
@@ -127,7 +127,7 @@ AS APO BK 1999|-|-|-|[NRW-AS-APO-BK-1999](https://doc.la.stueber.de/08.nrw/nrw-a
 
 ## Sachsen
 
-Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
+Verordnung|Abitur|Fachwahl <br/> Magellan|Fachwahl <br/> DaVinci|Schüler <br/> Leistungskarte|BBS
 ----------|------|----------------- |-------------- |------------------------ |------------
 APO BGY 2021|[SAC-APO-BGY-2021](https://doc.la.stueber.de/11.sac/sac-apo-bgy-2021)|-|-|-|-
 APO BGY 2017|[SAC-APO-BGY-2017](https://doc.la.stueber.de/11.sac/sac-apo-bgy-2017)|-|-|-|-
@@ -140,13 +140,13 @@ APO BGY 2014|[SAC-APO-BGY-2014](https://doc.la.stueber.de/11.sac/sac-apo-bgy-201
 
 ## Sachsen-Anhalt
 
-Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
+Verordnung|Abitur|Fachwahl <br/> Magellan|Fachwahl <br/> DaVinci|Schüler <br/> Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
 APO 1999|[SAA-APO-1999.dws](https://doc.la.stueber.de/10.saa/saa-apo-1999)|-|SAA-FW-APO-1999.dws |-|-
 
 ## Saarland
 
-| Verordnung | Abitur | Mittelstufe | Fachwahl <br/> MAGELLAN | Fachwahl <br/> DAVINCI | Schüler <br/> Leistungskarte | BBS |
+| Verordnung | Abitur | Mittelstufe | Fachwahl <br/> Magellan | Fachwahl <br/> DaVinci | Schüler <br/> Leistungskarte | BBS |
 |--------------|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|-------------------------------|-----|
 | APO 2018 | [SAR-APO-2018.dw](https://doc.la.stueber.de/12.sar/sar-apo-2018) | - | - | - | - | - |
 | APO 2017 | [SAR-APO-2017.dws](https://doc.la.stueber.de/12.sar/sar-apo-2017) | - | - | - | - | - |
@@ -161,7 +161,7 @@ APO 1999|[SAA-APO-1999.dws](https://doc.la.stueber.de/10.saa/saa-apo-1999)|-|SAA
 
 ## Schleswig-Holstein
 
-| Verordnung | Abitur| Fachwahl <br/> MAGELLAN | Fachwahl <br/> DAVINCI | Schüler <br/> Leistungskarte | BBS |
+| Verordnung | Abitur| Fachwahl <br/> Magellan | Fachwahl <br/> DaVinci | Schüler <br/> Leistungskarte | BBS |
 |------------|------------------------------------------|------------------------------------------|------------------------------------------|-------------------------------|-----|
 | APO 2020 | [SHL-APO-2020.dws](https://doc.la.stueber.de/13.shl/shl-apo-2020)| - | - | - | - |
 | APO 2018 | [SHL-APO-2018.dws](https://doc.la.stueber.de/13.shl/shl-apo-2018)| - | - | - | - |
@@ -172,13 +172,13 @@ APO 1999|[SAA-APO-1999.dws](https://doc.la.stueber.de/10.saa/saa-apo-1999)|-|SAA
 
 ## Thüringen
 
-Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
+Verordnung|Abitur|Fachwahl <br/> Magellan|Fachwahl <br/> DaVinci|Schüler <br/> Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
 APO 1999|[THÜ-APO-1999.dws](https://doc.la.stueber.de/14.thu/thu-apo-1999)|-|THÜ-FW-APO-1999.dws |-|-
 
 ## Deutsche Auslandschulen
 
-Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
+Verordnung|Abitur|Fachwahl <br/> Magellan|Fachwahl <br/> DaVinci|Schüler <br/> Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
 2017|-|-|-|[DE-MSA-2019.dws](https://doc.la.stueber.de/01.de/de-msa-2019dws)|-
 APO 2018|[DE-DIAP-2018.dws](https://doc.la.stueber.de/01.de/de-diap-2018) |-|-|-|-
@@ -188,7 +188,7 @@ APO 2004|[DE-DRP-2005.dws](https://doc.la.stueber.de/01.de/de-drp-2005) |-|-|-|-
 
 ## Schweiz
 
-Verordnung|Abitur|Fachwahl <br/> MAGELLAN|Fachwahl <br/> DAVINCI|Schüler <br/> Leistungskarte|BBS
+Verordnung|Abitur|Fachwahl <br/> Magellan|Fachwahl <br/> DaVinci|Schüler <br/> Leistungskarte|BBS
 ----------|------|-----------------|----------------|------------------------|------------
 Buchhändler|-|-|-|[CH-BBS-Matrix (Buchhändler).dws](https://doc.la.stueber.de/15.ch/ch-bbs-matrix_buchhandlerdws)
 Büroassistenten|-|-|-|[CH-BBS-Matrix (Büroassistent).dws](https://doc.la.stueber.de/15.ch/ch-bbs-matrix_buroassistentdws)

@@ -107,7 +107,7 @@ Legen Sie im Menü `Schüler > Zeugnis > Bemerkungen/Formulare` eine Zeugnisbeme
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Von / Bis`
 
-Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
+Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
 ## Zeugnisbemerkungen
 

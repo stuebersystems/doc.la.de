@@ -4,7 +4,7 @@
 
 !!! danger "Achtung"
 
-    MAGELLAN bietet die Möglichkeit eigene Skripte oder Bericht (mitunter auf der Grundlage von Veröffentlichungen von STÜBER SYSTEMS) zu entwickeln und einzusetzen. **Diese selbst erstellten Skripte und Berichte werden von uns nicht gepflegt, sondern lediglich veröffentlicht.** 
+    Magellan bietet die Möglichkeit eigene Skripte oder Bericht (mitunter auf der Grundlage von Veröffentlichungen von STÜBER SYSTEMS) zu entwickeln und einzusetzen. **Diese selbst erstellten Skripte und Berichte werden von uns nicht gepflegt, sondern lediglich veröffentlicht.** 
     Federführender Autor des Skriptes, der Berichte und der Dokumentation war Heinz Kersting vom Berufskolleg Mitte TÜV NORD College.
     Aktuell wird diese Skript nicht weitergepflegt.
 
@@ -37,7 +37,7 @@ Für die Notenvergabe und den Zeugnisdruck sind vorbereitend Werte in den Schlü
 
 ## Unterrichtsarten definieren
 
-In MAGELLAN 6 müssen unter ```Verzeichnisse > Weitere Schlüsselverzeichnisse > Unterrichtsarten``` die Unterrichtsarten wie folgt definiert sein. Entscheidend ist der Eintrag in der Spalte Kürzel. Das Kürzel wird in den Zeugnissen abgefragt und ordnet die Fächer dem entsprechenden Zeugnisbereich zu. Der eingetragene Schlüssel kann dagegen frei gewählt werden.
+In Magellan 6 müssen unter ```Verzeichnisse > Weitere Schlüsselverzeichnisse > Unterrichtsarten``` die Unterrichtsarten wie folgt definiert sein. Entscheidend ist der Eintrag in der Spalte Kürzel. Das Kürzel wird in den Zeugnissen abgefragt und ordnet die Fächer dem entsprechenden Zeugnisbereich zu. Der eingetragene Schlüssel kann dagegen frei gewählt werden.
 
 Kürzel |Bezeichnung
 --|--
@@ -71,11 +71,11 @@ Unter ```Verzeichnisse > Fachtafeln``` müssen den Fächern die entsprechenden U
 
 !!! info "Hinweis"
 
-    Fachtafeleinträge können von DAVINCI nach MAGELLAN abgeglichen werden.
+    Fachtafeleinträge können von DaVinci nach Magellan abgeglichen werden.
 
 ## Dienstbezeichnungen definieren
 
-Unter ```Verzeichnisse > Weitere Schlüsselverzeichnisse > Dienstbezeichnungen``` müssen die genauen Dienstbezeichnungen eingetragen werden. Verwenden Sie die Werte in MAGELLAN unter ```Lehrer > Daten2 > Dienstbez```.
+Unter ```Verzeichnisse > Weitere Schlüsselverzeichnisse > Dienstbezeichnungen``` müssen die genauen Dienstbezeichnungen eingetragen werden. Verwenden Sie die Werte in Magellan unter ```Lehrer > Daten2 > Dienstbez```.
 
 ![Dienstbezeichnungen ](/assets/images/nrw/nrw_dienstbez.png)
 
@@ -127,7 +127,7 @@ Unter ```Verzeichnisse > Verordnungen``` müssen die Berechnungsskript(e) für d
 * AW für Abgangszeugnis für Schulwechsler
 * ZB für Zwischenbeurteilungen
 
-Das Skript NRW-AS-APO-BK-1999.dws muss nur einmalig vorhanden und sollte im Unterordner: ```….\MAGELLAN 6\Skripte\Nordrhein-Westfalen``` abgelegt sein.
+Das Skript NRW-AS-APO-BK-1999.dws muss nur einmalig vorhanden und sollte im Unterordner: ```….\Magellan 6\Skripte\Nordrhein-Westfalen``` abgelegt sein.
 
 !!! info "Hinweis"
 
@@ -254,9 +254,9 @@ Dazu können pro Fachklasse die Fachrichtung, der Schwerpunkt und das Berufsfeld
 
 ![Hier tragen Sie den Bildungsgang der Klasse ein.](/assets/images/nrw/nrw_bildungsgang.png)
 
-In der obigen Abbildung ist als Beispiel der Klasse IB-1R2 der Ausbildungsberuf (Bildungsgang) Industriemechaniker zugeordnet. Wenn nun in dieser Klasse ein Schüler oder eine Schülerin mit dem Ausbildungsberuf Teilezurichter beschult wird, muss dieses Merkmal dem Schüler zugeordnet werden, und zwar in MAGELLAN unter Ansicht ```Schüler > Ausbildung > Ausbildung```.
+In der obigen Abbildung ist als Beispiel der Klasse IB-1R2 der Ausbildungsberuf (Bildungsgang) Industriemechaniker zugeordnet. Wenn nun in dieser Klasse ein Schüler oder eine Schülerin mit dem Ausbildungsberuf Teilezurichter beschult wird, muss dieses Merkmal dem Schüler zugeordnet werden, und zwar in Magellan unter Ansicht ```Schüler > Ausbildung > Ausbildung```.
 
-Bei homogenen Klassen (d.h. alle Schüler haben den gleichen Bildungsgang bzw. Ausbildungsberuf) sollte der Bildungsgang nur der Klasse in MAGELLAN unter Ansicht ```Klassen > Daten > Bildungsgang``` zugeordnet werden.
+Bei homogenen Klassen (d.h. alle Schüler haben den gleichen Bildungsgang bzw. Ausbildungsberuf) sollte der Bildungsgang nur der Klasse in Magellan unter Ansicht ```Klassen > Daten > Bildungsgang``` zugeordnet werden.
 
 Grundsätzlich gilt, dass beim Zeugnisdruck und in der Landesstatistik für die Zuordnung des Bildungsgan-ges/Ausbildungsberufes zuerst der Eintrag unter Ansicht ```Schüler > Ausbildung``` geprüft wird. Falls dort kein Eintrag vorhanden ist, wird der Bildungsgang/Ausbildungsberuf genommen, der unter Ansicht ```Klassen > Daten``` zugeordnet ist.
 

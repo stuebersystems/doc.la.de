@@ -1,9 +1,9 @@
 ﻿# Medienvorgaenge (Standard)
 
-Dieser Bericht ist aus dem Modul `MAGELLAN BIBLIOTHEK` aufrufbar.
+Dieser Bericht ist aus dem Modul `Magellan Bibliothek` aufrufbar.
 
 ## Ausdruck
 
-`MAGELLAN BIBLIOTHEK > Vorgänge > Berichte drucken`
+`Magellan Bibliothek > Vorgänge > Berichte drucken`
 
-Der Bericht muss aus dem Programm MAGELLAN BIBLIOTHEK aus dem Menü `Vorgänge > Aktuell` gedruckt werden.
+Der Bericht muss aus dem Programm Magellan Bibliothek aus dem Menü `Vorgänge > Aktuell` gedruckt werden.

@@ -1,6 +1,6 @@
 # NIE-APO-G9-2010/NIE-APO-G8-2010
 
-Das Skript NIE-APO-G8-2010 berechnet das Abitur für den Jahrgang, der nach 12 Jahren Abitur macht und berücksichtigt für die Qualifikation die Halbjahre 11/1-12/2. Das Skript NIE-APO-G9-2010 berechnet das Abitur für den Jahrgang, der nach 13 Jahren Abitur macht und berücksichtigt für die Qualifikation die Halbjahre 12/1-13/2. Die entsprechenden Jahrgänge müssen in MAGELLAN als Oberstufenjahrgänge gekennzeichnet sein.
+Das Skript NIE-APO-G8-2010 berechnet das Abitur für den Jahrgang, der nach 12 Jahren Abitur macht und berücksichtigt für die Qualifikation die Halbjahre 11/1-12/2. Das Skript NIE-APO-G9-2010 berechnet das Abitur für den Jahrgang, der nach 13 Jahren Abitur macht und berücksichtigt für die Qualifikation die Halbjahre 12/1-13/2. Die entsprechenden Jahrgänge müssen in Magellan als Oberstufenjahrgänge gekennzeichnet sein.
 
 ## Verzeichnis Verordnung
 
@@ -120,7 +120,7 @@ Bitte haken Sie eine Befreiung des Schülers vom Sportunterricht im Menü „Sch
 
 ## Sport-Praxis Sonderregelung
 
-MAGELLAN:
+Magellan:
 Ist Sport 1. Prüfungsfach, dann wird auf Prüfungsregisterkarte bei
 "Schriftliche Note" die Punktzahl SP (siehe unten) aus schriftlicher UND
 mündlicher Note eingetragen und in der Spalte "mündliche Note" die

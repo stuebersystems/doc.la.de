@@ -6,9 +6,9 @@
 [3]:/assets/images/abi_sync2.png
 [4]:/assets/images/g8_verordnung.png
 
-Die jeweiligen Verordnungen spiegeln sich über die Landesanpassung von MAGELLAN bzw. DAVINCI in der Fachwahlüberprüfung und der Abiturqualifikationsberechnung wider.
-Die Oberstufe stellt den schwierigsten Teil der Schulorganisation dar. MAGELLAN und DAVINCI stellen Funktionen für die gesamte Oberstufenorganisation zur Verfügung. Damit die Berechnungen korrekt durchgeführt werden können und Sie auch die Abiturzeugnisse richtig ausgedruckt bekommen, müssen Sie allerdings einige wenige aber wichtige Details beachten. Diese Details werden in diesem Kapitel erklärt. Lesen Sie es bitte sorgfältig.
-Der Vollständigkeit halber sei an dieser Stelle erwähnt: Fachwahlüberprüfung und Abiturqualifikationsberechnung basieren auf offengelegten (Open Source) MAGELLAN-Skripten, die Sie mit Hilfe des MAGELLAN-Skripteditors bearbeiten können.
+Die jeweiligen Verordnungen spiegeln sich über die Landesanpassung von Magellan bzw. DaVinci in der Fachwahlüberprüfung und der Abiturqualifikationsberechnung wider.
+Die Oberstufe stellt den schwierigsten Teil der Schulorganisation dar. Magellan und DaVinci stellen Funktionen für die gesamte Oberstufenorganisation zur Verfügung. Damit die Berechnungen korrekt durchgeführt werden können und Sie auch die Abiturzeugnisse richtig ausgedruckt bekommen, müssen Sie allerdings einige wenige aber wichtige Details beachten. Diese Details werden in diesem Kapitel erklärt. Lesen Sie es bitte sorgfältig.
+Der Vollständigkeit halber sei an dieser Stelle erwähnt: Fachwahlüberprüfung und Abiturqualifikationsberechnung basieren auf offengelegten (Open Source) Magellan-Skripten, die Sie mit Hilfe des Magellan-Skripteditors bearbeiten können.
 
 !!! info "Hinweis"
 
@@ -26,34 +26,34 @@ Zur Oberstufenorganisation gehören folgende Aufgaben:
 8. Fachhochschulreife berechnen
 9. Zeugnisbemerkungen eingeben und Zeugnisse drucken
 
-Schritt 1 muss in DAVINCI und MAGELLAN durchgeführt werden.
+Schritt 1 muss in DaVinci und Magellan durchgeführt werden.
 
-Schritt 2 wird in DAVINCI-Kursplan oder in MAGELLAN durchgeführt, alle weiteren Schritte ausschließlich in MAGELLAN.
+Schritt 2 wird in DaVinci-Kursplan oder in Magellan durchgeführt, alle weiteren Schritte ausschließlich in Magellan.
 
 !!! info "Hinweis"
 
-    Diese Dokumentation versteht sich als Ergänzung der landesspezifischen Besonderheiten zu den Standarddokumentationen für [**MAGELLAN**](http://doc.magellan6.stueber.de/) und [**DAVINCI**](http://doc.davinci6.stueber.de/), die ausführlich die Schritte beschreiben.
+    Diese Dokumentation versteht sich als Ergänzung der landesspezifischen Besonderheiten zu den Standarddokumentationen für [**Magellan**](http://doc.magellan6.stueber.de/) und [**DaVinci**](http://doc.davinci6.stueber.de/), die ausführlich die Schritte beschreiben.
 
-DAVINCI und MAGELLAN verfügen über sehr kompakte Funktionen für die gesamte Oberstufenorganisation und machen Ihnen so die Arbeit so leicht wie möglich. Es liegt leider in der Natur der Sache, dass zusätzlich von Ihrer Seite aus sehr gute Kenntnisse in der jeweiligen Oberstufenverordnung erforderlich sind.
-In den folgenden Abschnitten werden die einzelnen Schritte in der Oberstufenorganisation mit DAVINCI und MAGELLAN erläutert.
+DaVinci und Magellan verfügen über sehr kompakte Funktionen für die gesamte Oberstufenorganisation und machen Ihnen so die Arbeit so leicht wie möglich. Es liegt leider in der Natur der Sache, dass zusätzlich von Ihrer Seite aus sehr gute Kenntnisse in der jeweiligen Oberstufenverordnung erforderlich sind.
+In den folgenden Abschnitten werden die einzelnen Schritte in der Oberstufenorganisation mit DaVinci und Magellan erläutert.
 Bevor wir mit der Fachwahlüberprüfung beginnen, müssen wir zunächst einige wichtige Bemerkungen zu Oberstufenjahrgängen, Fachkürzeln, Fachkategorien, Aufgabenbereichen, Unterrichtsarten und Fachstatus machen.
 
 ## Oberstufenjahrgänge einrichten
 
-Die Oberstufe besteht in der Regel aus den Jahrgängen 11, 12 und 13 (für das G8 Abitur lesen Sie bitte den Abschnitt G8 Abitur". In MAGELLAN und DAVINCI sind Klassen und Jahrgänge gleichbedeutend.
-In MAGELLAN werden die Schüler einer Klassen bzw. einem Jahrgang zugeordnet, indem sie eingeschult werden. Für jeden Schüler werden in MAGELLAN die entsprechenden Fächer bzw. Kurse mit den Noten (Punkten) erfasst.
+Die Oberstufe besteht in der Regel aus den Jahrgängen 11, 12 und 13 (für das G8 Abitur lesen Sie bitte den Abschnitt G8 Abitur". In Magellan und DaVinci sind Klassen und Jahrgänge gleichbedeutend.
+In Magellan werden die Schüler einer Klassen bzw. einem Jahrgang zugeordnet, indem sie eingeschult werden. Für jeden Schüler werden in Magellan die entsprechenden Fächer bzw. Kurse mit den Noten (Punkten) erfasst.
 
-Eine Ausnahme bildet in der Regel die Oberstufe: Es ist effektiver die Schüler-Fachwahlen der Oberstufenjahrgänge in DAVINCI-Kursplan einzugeben, da DAVINCI-Kursplan dafür speziell optimiert wurde. In DAVINCI-Kursplan können Sie über Extras|Aktualisieren die Fachwahlen dann nach MAGELLAN übertragen.
+Eine Ausnahme bildet in der Regel die Oberstufe: Es ist effektiver die Schüler-Fachwahlen der Oberstufenjahrgänge in DaVinci-Kursplan einzugeben, da DaVinci-Kursplan dafür speziell optimiert wurde. In DaVinci-Kursplan können Sie über Extras|Aktualisieren die Fachwahlen dann nach Magellan übertragen.
 
-## Oberstufenjahrgänge in DAVINCI
+## Oberstufenjahrgänge in DaVinci
 
-In DAVINCI definieren Sie in den DAVINCI-Stammdaten die Klassen. Sie können eine Jahrgangsstufe in Klassen aufteilen (11a, 11b usw) oder pro Klassenstufe nur eine Klasse eingeben - wichtig ist, dass über das Feld `Stufe` der Jahrgang zugeordnet wird. Damit sind klassenübergreifende Kurse innerhalb eines Jahrgangs und auch jahgangsüerbgreifende Kurse abbildbar.
+In DaVinci definieren Sie in den DaVinci-Stammdaten die Klassen. Sie können eine Jahrgangsstufe in Klassen aufteilen (11a, 11b usw) oder pro Klassenstufe nur eine Klasse eingeben - wichtig ist, dass über das Feld `Stufe` der Jahrgang zugeordnet wird. Damit sind klassenübergreifende Kurse innerhalb eines Jahrgangs und auch jahgangsüerbgreifende Kurse abbildbar.
 
-![Einrichten der Klassen in DAVINCI](/assets/images/klassen_davinci.jpg)
+![Einrichten der Klassen in DaVinci](/assets/images/klassen_davinci.jpg)
 
-## Oberstufenjahrgänge in MAGELLAN
+## Oberstufenjahrgänge in Magellan
 
-In MAGELLAN werden die Daten halbjahresbezogen abgelegt. Sie definieren also drei Klassen 11, 12 und 13 mit je zwei Zeiträumen bzw. Halbjahren.
+In Magellan werden die Daten halbjahresbezogen abgelegt. Sie definieren also drei Klassen 11, 12 und 13 mit je zwei Zeiträumen bzw. Halbjahren.
 Folgende Angaben sind bei der Eingabe der Oberstufenjahrgänge neben den Halbjahren wichtig:
 
 |Eingabefeld|Eingabe|
@@ -66,12 +66,12 @@ Folgende Angaben sind bei der Eingabe der Oberstufenjahrgänge neben den Halbjah
 
 Beim neuen Abitur Ende 12 anstatt Ende 13, dem sog. G8 Abitur, das aktuell in verschiedenen Bundesländern eingeführt wird, beginnt die Orientierungsstufe ein Jahr früher, also in der Jahrgangsstufe 10.
 
-Die Oberstufenjahrgänge sind also (10), 11 und 12. In MAGELLAN besteht die Registerkarte Qualifikation in der Ansicht Abitur standardmäßig aus den Jahrgängen 11, 12 und 13. Damit das Abiturskript und Anzeige korrekt sind, sollten Sie auf Folgendes beachten:
-Stellen Sie in MAGELLAN in der Ansicht `Klassen > Daten` im Feld "Klassenart" unbedingt Oberstufenjahrgang bei den Klassen 11 und 12 ein, damit die Noten beim Synchronisieren (in der Ansicht Abitur) auch in den Abiturbereich übernommen werden.
+Die Oberstufenjahrgänge sind also (10), 11 und 12. In Magellan besteht die Registerkarte Qualifikation in der Ansicht Abitur standardmäßig aus den Jahrgängen 11, 12 und 13. Damit das Abiturskript und Anzeige korrekt sind, sollten Sie auf Folgendes beachten:
+Stellen Sie in Magellan in der Ansicht `Klassen > Daten` im Feld "Klassenart" unbedingt Oberstufenjahrgang bei den Klassen 11 und 12 ein, damit die Noten beim Synchronisieren (in der Ansicht Abitur) auch in den Abiturbereich übernommen werden.
 
 Für die Klasse 10 können Sie optional die Klassenart "Standard mit Oberstufensynchronisation" wählen. Bei dieser Auswahl würden in der Klasse 10 die Schüler ohne Fach- und Notendaten in den Bereich `Abitur` synchronisiert werden, um die Fachwahl  für 11, 12 ggf. 13 unter `Abitur > Fachwahl` vorbereiten zu können.
 
-Klicken Sie in der MAGELLAN Ansicht `Abitur > Qualifikation` auf die Schaltfläche `Layout anpassen` und verändern Sie die Spaltenüberschriften z.B. in 1., 2., …, 6.
+Klicken Sie in der Magellan Ansicht `Abitur > Qualifikation` auf die Schaltfläche `Layout anpassen` und verändern Sie die Spaltenüberschriften z.B. in 1., 2., …, 6.
 
 !!! info "Hinweis"
 
@@ -81,7 +81,7 @@ Klicken Sie in der MAGELLAN Ansicht `Abitur > Qualifikation` auf die Schaltfläc
 
 In den nachfolgenden Punkten wird allgemein beschrieben, welche Einstellungen zuvor im Programm gewählt werden sollen. Da diese pro Verordnung abweichen können, finden Sie die genauen Werte für Ihre Verordnung in den Abschnitten pro Bundesland.
 
-In einigen Bundesländern muss bei der Berechnung der Gesamtqualifikation der Kursinhalt bzw. die Sportart beachtet werden. Dazu können Sie in MAGELLAN unter Abitur auf der Registerkarte Qualifikation in der Spalte Merkmal bei Sport durch entsprechende Kürzel für jedes Qualifikationshalbjahr angeben, um welche Sportart es sich handelt.
+In einigen Bundesländern muss bei der Berechnung der Gesamtqualifikation der Kursinhalt bzw. die Sportart beachtet werden. Dazu können Sie in Magellan unter Abitur auf der Registerkarte Qualifikation in der Spalte Merkmal bei Sport durch entsprechende Kürzel für jedes Qualifikationshalbjahr angeben, um welche Sportart es sich handelt.
 
 !!! info "Hinweis"
 
@@ -95,7 +95,7 @@ Welche Fachkürzel und welche Sportarten-Kürzel Sie genau pro Verordnung verwen
 
 ### Sport
 
-In einigen Bundesländern muss bei der Berechnung der Gesamtqualifikation der Kursinhalt bzw. die Sportart beachtet werden. Dazu können Sie in MAGELLAN unter `Abitur > Qualifikation` in der Spalte "Merkmal" bei Sport durch entsprechende Kürzel für jedes Qualifikationshalbjahr angeben, um welche Sportart es sich handelt.
+In einigen Bundesländern muss bei der Berechnung der Gesamtqualifikation der Kursinhalt bzw. die Sportart beachtet werden. Dazu können Sie in Magellan unter `Abitur > Qualifikation` in der Spalte "Merkmal" bei Sport durch entsprechende Kürzel für jedes Qualifikationshalbjahr angeben, um welche Sportart es sich handelt.
 
 !!! info "Hinweis"
 
@@ -109,7 +109,7 @@ Welche Fachkürzel und welche Sportarten-Kürzel Sie genau pro Verordnung verwen
 
 ### Fachkürzel
 
-Das Fachkürzel dient in MAGELLAN und DAVINCI in der Regel nur der schulinternen Bezeichnung. Für jedes Fach können Sie unter `Extras > Schlüsselverzeichnisse > Fächer` im Feld "Schlüssel" den für etwaige landesspezifische Statistiken relevanten Statistikschlüssel eintragen.
+Das Fachkürzel dient in Magellan und DaVinci in der Regel nur der schulinternen Bezeichnung. Für jedes Fach können Sie unter `Extras > Schlüsselverzeichnisse > Fächer` im Feld "Schlüssel" den für etwaige landesspezifische Statistiken relevanten Statistikschlüssel eintragen.
 
 !!! info "Hinweis"
 
@@ -165,24 +165,24 @@ Die korrekte Belegung prüft das Verordnungsskript (ggf. vorab schon das Fachwah
 
 ### Spalte Merkmal
 
-In MAGELLAN finden Sie in der Ansicht `Abitur> Qualifikation` die Spalte "Merkmal". Sie dient dazu, für ein Fach bestimmte Merkmale einzutragen, die für den Ausdruck und die Abiturqualifikation verwendet werden können. Die meisten Abiturskripte beachten die Angaben in dieser Spalte nicht.
+In Magellan finden Sie in der Ansicht `Abitur> Qualifikation` die Spalte "Merkmal". Sie dient dazu, für ein Fach bestimmte Merkmale einzutragen, die für den Ausdruck und die Abiturqualifikation verwendet werden können. Die meisten Abiturskripte beachten die Angaben in dieser Spalte nicht.
 
 ### Schlüsselverzeichnis Unterrichtsarten
 
-In MAGELLAN bzw. DAVINCI werden standardmäßig folgende Unterrichtsarten mitgeliefert. Bitte beachten Sie, dass für Berichte, Fachwahlüberprüfungen oder Abiturqualifikationen die Groß- und Kleinschreibweise bei Schlüssel beachtet wird.
+In Magellan bzw. DaVinci werden standardmäßig folgende Unterrichtsarten mitgeliefert. Bitte beachten Sie, dass für Berichte, Fachwahlüberprüfungen oder Abiturqualifikationen die Groß- und Kleinschreibweise bei Schlüssel beachtet wird.
 
 !!! info "Hinweis"
 
     Es können Unterrichtsarten in den Standardverzeichnissen fehlen, bitte prüfen Sie anhand der Beschreibung zu den einzelnen Skripten, welche Werte benötigt werden und legen Sie ggf. im `Schlüsselverzeichnis > Unterrichtsarten` an.
 
-So rufen Sie in DAVINCI das `Schlüsselverzeichnis > Unterrichtsarten` auf:
+So rufen Sie in DaVinci das `Schlüsselverzeichnis > Unterrichtsarten` auf:
 
-1. Starten Sie das DAVINCI Basismodul.
+1. Starten Sie das DaVinci Basismodul.
 2. Klicken Sie auf `Extras > Schlüsselverzeichnisse >  Unterrichtsarten`.
 
-So rufen Sie in MAGELLAN das `Schlüsselverzeichnis >  Unterrichtsarten` auf:
+So rufen Sie in Magellan das `Schlüsselverzeichnis >  Unterrichtsarten` auf:
 
-1. Starten Sie MAGELLAN.
+1. Starten Sie Magellan.
 2. Klicken Sie auf `Extras > Schlüsselverzeichnisse > Unterrichtsarten`
 
 #### standardmäßig mitgelieferte Unterrichtsarten
@@ -230,20 +230,20 @@ So rufen Sie in MAGELLAN das `Schlüsselverzeichnis >  Unterrichtsarten` auf:
 
 ### Schlüsselverzeichnis Fachstatus
 
-In MAGELLAN bzw. DAVINCI werden standardmäßig folgende Fachstatus mitgeliefert. Bitte beachten Sie, dass für Berichte, Fachwahlüberprüfungen oder Abiturqualifikationen die Groß- und Kleinschreibweise bei Schlüssel beachtet wird.
+In Magellan bzw. DaVinci werden standardmäßig folgende Fachstatus mitgeliefert. Bitte beachten Sie, dass für Berichte, Fachwahlüberprüfungen oder Abiturqualifikationen die Groß- und Kleinschreibweise bei Schlüssel beachtet wird.
 
 !!! info "Hinweis"
 
     Es können Fachstatus in den Standardverzeichnissen fehlen, bitte prüfen Sie anhand der Beschreibung zu den einzelnen Skripten, welche Werte benötigt werden und legen Sie ggf. im Schlüsselverzeichnis an.
 
-So rufen Sie in DAVINCI das `Schlüsselverzeichnis > Fachstatus` auf:
+So rufen Sie in DaVinci das `Schlüsselverzeichnis > Fachstatus` auf:
 
-1. Starten Sie das DAVINCI-Basismodul.
+1. Starten Sie das DaVinci-Basismodul.
 2. Klicken Sie auf `Extras > Schlüsselverzeichnisse > Fachstatus`.
 
-So rufen Sie in MAGELLAN das `Schlüsselverzeichnis > Fachstatus` auf:
+So rufen Sie in Magellan das `Schlüsselverzeichnis > Fachstatus` auf:
 
-1. Starten Sie MAGELLAN.
+1. Starten Sie Magellan.
 2. Klicken Sie auf `Extras > Schlüsselverzeichnisse > Fachstatus` 
 
 #### standardmäßig mitgelieferte Fachstatus
@@ -274,16 +274,16 @@ So rufen Sie in MAGELLAN das `Schlüsselverzeichnis > Fachstatus` auf:
 
 ### Fortgeführte Fremdsprache
 
-Im Bereich `Schüler > Daten 3` in MAGELLAN können Sie die Fremdsprachenfolge des jeweiligen Schülers eingeben. Für jede Fremdsprache können Sie dabei unter der Fremdsprachenfolge im Feld "von" und "bis" die Jahrgangsstufen angeben, in denen die Fremdsprache belegt wurde. Aus der Differenz ergibt sich für die Abiturskripte, ob es sich um eine fortgeführte Fremdsprache handelt. Eine fortgeführte Fremdsprache muss mindestens drei Jahre belegt worden sein.
+Im Bereich `Schüler > Daten 3` in Magellan können Sie die Fremdsprachenfolge des jeweiligen Schülers eingeben. Für jede Fremdsprache können Sie dabei unter der Fremdsprachenfolge im Feld "von" und "bis" die Jahrgangsstufen angeben, in denen die Fremdsprache belegt wurde. Aus der Differenz ergibt sich für die Abiturskripte, ob es sich um eine fortgeführte Fremdsprache handelt. Eine fortgeführte Fremdsprache muss mindestens drei Jahre belegt worden sein.
 
-Folgende MAGELLAN-Skripte berechnen die fortgeführte Fremdsprache bzw. verwenden diese Angaben:
+Folgende Magellan-Skripte berechnen die fortgeführte Fremdsprache bzw. verwenden diese Angaben:
 
 * RLP-APO-BGY-1999
 * RLP-APO-WG-1999
 
 !!! info "Hinweis"
 
-    Beachten Sie in MAGELLAN die Eingabe der korrekten Fremdsprachendauer. Andernfalls kann die Qualifikationsberechnung nicht korrekt arbeiten. Die Skripte, die nicht aufgeführt werden, verwenden diese Angaben nicht.
+    Beachten Sie in Magellan die Eingabe der korrekten Fremdsprachendauer. Andernfalls kann die Qualifikationsberechnung nicht korrekt arbeiten. Die Skripte, die nicht aufgeführt werden, verwenden diese Angaben nicht.
 
 In der Fachwahlüberprüfung wird die Abdeckung der Aufgabenbereiche bzw. die Einhaltung der Kombinationsbedingungen geprüft und ggf. in der Spalten Bemerkung bzw. Schlüssel des Schüler-Fensters oder im Fachwahl-Fenster entsprechende Hinweise angezeigt.
 
@@ -295,7 +295,7 @@ Voraussetzung dafür ist, dass auf der Registerkarte Fächer des Stammdatenfenst
 
 ## Schlüsselverzeichnis Abschlussjahrgänge
 
-Sie können in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Abschlussjahrgänge` Abschlussjahrgänge definieren. In unserem Fall ist dies ein Abiturjahrgang. Damit können Sie jedem Schüler in der Rubrik Abitur den entsprechenden Abiturjahrgang zuordnen.
+Sie können in Magellan unter `Extras > Schlüsselverzeichnisse > Abschlussjahrgänge` Abschlussjahrgänge definieren. In unserem Fall ist dies ein Abiturjahrgang. Damit können Sie jedem Schüler in der Rubrik Abitur den entsprechenden Abiturjahrgang zuordnen.
 Dieser Vermerk hat keinen Einfluss auf Abschluss- oder Qualifikationsberechnungen, sondern dient dazu, später alle Schüler eines bestimmten Abiturjahrgangs z.B. für Ausdrucke herausfiltern zu können und ist eine der Voraussetzungen zum Synchronisieren der Schüler in den Bereich `Abitur`.
 
 !!! info "Hinweis"
@@ -306,8 +306,8 @@ Dieser Vermerk hat keinen Einfluss auf Abschluss- oder Qualifikationsberechnunge
 
 ## Schlüsselverzeichnis Verordnungen
 
-MAGELLAN ist überregional einsetzbar, insofern sind die doch recht unterschiedlichen Teile wie Abiturverordnungen, Fachwahlen, Zeugnisvorlagen usw. nicht fest im Programm integriert, sondern der Benutzer wählt aus, welche Bereiche er nutzt.
-Welche Verordnungen (Abiturverordnung, Fachwahl) Sie verwenden möchten, definieren Sie in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Verordnungen`.
+Magellan ist überregional einsetzbar, insofern sind die doch recht unterschiedlichen Teile wie Abiturverordnungen, Fachwahlen, Zeugnisvorlagen usw. nicht fest im Programm integriert, sondern der Benutzer wählt aus, welche Bereiche er nutzt.
+Welche Verordnungen (Abiturverordnung, Fachwahl) Sie verwenden möchten, definieren Sie in Magellan unter `Extras > Schlüsselverzeichnisse > Verordnungen`.
 
 ![`Extras > Schlüsselverzeichnisse > Verordnungen`](/assets/images/verzeichnis_verordnungen.png)
 
@@ -320,7 +320,7 @@ Sie müssen für jeden Schüler die Abiturordnung angeben, die für ihn relevant
 |Kategorie| Mögliche Eingaben sind Fachwahl, Berufsschule oder Abitur.|
 |Gültig von |Gültigkeitsdatum von, ohne Bedeutung für die Berechnung|
 |Gültig bis |Gültigkeitsdatum bis, ohne Bedeutung für die Berechnung|
-|Skript| Geben Sie hier den Namen des Skripts für diese Abiturprüfungs- oder Fachwahlordnung ein. Abiturskripte enthalten auch die Berechnung der Fachhochschulreife. Alle verfügbaren Skripte befinden sich im MAGELLAN-Verzeichnis SKRIPTE.|
+|Skript| Geben Sie hier den Namen des Skripts für diese Abiturprüfungs- oder Fachwahlordnung ein. Abiturskripte enthalten auch die Berechnung der Fachhochschulreife. Alle verfügbaren Skripte befinden sich im Magellan-Verzeichnis SKRIPTE.|
 |Typ |Über Einträge im Typ wird zum Beispiel zwischen G8 und G9 unterschieden. Oder ob Sie Ihr Gymnasium den Schwerpunkt Technik (TG) oder Wirtschaft (WG) hat.  Was für Ihr Skript genau als Eintrag erwartet wird, lesen Sie bitte im Abschnitt zum Skript nach.|
 |Ab Jahrgang |Für G8-Jahrgänge wird der Wert 10 erwartet, für G9 eine 11. Durch den Eintrag werden beim Synchronisieren die Schülerdaten aus der 12 oder 13 in die Spalten der Qualifikationsphase übernommen. Für Skripte ohne G8/G9-Unterscheidung bleibt diese Spalte leer.|
 
@@ -344,10 +344,10 @@ Mit der Aktion  `Abitur > Qualifikation > Schüler synchronisieren` werden die i
 
     Wenn Sie G8- und G9-Jahrgänge an Ihrer Schule haben, müssen Sie unter `Extras > Schlüsselverzeichnisse > Verordnungen` getrennte Zeilen anlegen. Tragen Sie in der Spalte "Ab Jahrgang" bitte 10 (für G8) oder 11 (für G9) ein. Synchronisieren Sie die Schüler bitte getrennt und weisen jeweils die Verordnungszeile zu. 
 
-Die Schüler können für die **Fachwahl** in MAGELLAN oder für die **Abiturqualifikation** synchronisiert werden.
+Die Schüler können für die **Fachwahl** in Magellan oder für die **Abiturqualifikation** synchronisiert werden.
 Bevor Sie die Fachwahl anlegen oder später die Abiturqualifikationen überprüfen können, müssen Sie die Daten der Schüler synchronisieren. Beim Synchronisieren geschieht Folgendes:
 
-MAGELLAN extrahiert für die markierten Schüler die Fachdaten der Halbjahre 11/1 bis 13/2. Dies ist die Voraussetzung dafür, dass die Qualifikations- und Abschlussberechnungen der Oberstufe durchgeführt werden können. Auch wenn Sie zuvor keine Fächer bzw. Punkte in den Oberstufenhalbjahren angegeben haben, müssen Sie diese Synchronisation einmal ausführen um die Schüler in das Abiturmenü zu übertragen.
+Magellan extrahiert für die markierten Schüler die Fachdaten der Halbjahre 11/1 bis 13/2. Dies ist die Voraussetzung dafür, dass die Qualifikations- und Abschlussberechnungen der Oberstufe durchgeführt werden können. Auch wenn Sie zuvor keine Fächer bzw. Punkte in den Oberstufenhalbjahren angegeben haben, müssen Sie diese Synchronisation einmal ausführen um die Schüler in das Abiturmenü zu übertragen.
 
 Damit die Synchronisation klappt sind die folgenden Einstellungen wichtig:
 
@@ -375,9 +375,9 @@ Auf der nächsten Karte wählen Sie bitte die `Prüfungsordnung` und den `Abschl
 
 Wechseln Sie nach dem Synchronisieren in den Bereich `Abitur > Auswahl`. Es werden alle synchronisierten Schüler angezeigt.
 
-Per Doppelklick auf den gewünschten Schüler oder über einen Klick auf die Registerkarte `Qualifikation` wechseln Sie zur Abiturzulassung. Auf dieser Registerkarte finden Sie die Fächer und Notenwerte der Oberstufenhalbjahre, falls Sie diese Angaben bereits in MAGELLAN im Bereich `Schüler` gemacht haben sollten. Andernfalls können Sie Fächer und Notenwerte für die Oberstufenhalbjahre auch hier eingeben.
+Per Doppelklick auf den gewünschten Schüler oder über einen Klick auf die Registerkarte `Qualifikation` wechseln Sie zur Abiturzulassung. Auf dieser Registerkarte finden Sie die Fächer und Notenwerte der Oberstufenhalbjahre, falls Sie diese Angaben bereits in Magellan im Bereich `Schüler` gemacht haben sollten. Andernfalls können Sie Fächer und Notenwerte für die Oberstufenhalbjahre auch hier eingeben.
 
-Sollte die 11 in Ihrem Bundesland nicht in Leistungs- und Grundkursen unterrichtet werden, erscheinen die Fächer der besseren Übersicht wegen trotzdem unterschieden nach den Leistungs- und Grundkursen der Jahrgangsstufen 12 und 13. Intern macht MAGELLAN für die Noten der 11 keine Unterscheidung in Leistungs- und Grundkurse.
+Sollte die 11 in Ihrem Bundesland nicht in Leistungs- und Grundkursen unterrichtet werden, erscheinen die Fächer der besseren Übersicht wegen trotzdem unterschieden nach den Leistungs- und Grundkursen der Jahrgangsstufen 12 und 13. Intern macht Magellan für die Noten der 11 keine Unterscheidung in Leistungs- und Grundkurse.
 
 ## Abitur nach G8 oder G9
 

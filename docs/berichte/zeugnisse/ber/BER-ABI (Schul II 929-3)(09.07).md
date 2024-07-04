@@ -55,7 +55,7 @@ Kürzel | Schlüssel | Bezeichnung
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
 
-5. Prüfungskomponente | Vorgehensweise in MAGELLAN
+5. Prüfungskomponente | Vorgehensweise in Magellan
 --|--
 Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.
 Des Weiteren wird im Menü `Abitur > Prüfung` im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
@@ -94,4 +94,4 @@ Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum
 
 `Abitur > Prüfung > schriftliche Note`
 
-Die Punkte des "1. Gutachten" tragen Sie im Menü `Abitur > Prüfung` im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank  abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü `Abitur > Prüfung` im  Feld "schriftliche Note" abändern.
+Die Punkte des "1. Gutachten" tragen Sie im Menü `Abitur > Prüfung` im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank  abgefragt. Für die weitere Berechnung in Magellan [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü `Abitur > Prüfung` im  Feld "schriftliche Note" abändern.

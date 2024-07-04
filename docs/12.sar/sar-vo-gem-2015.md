@@ -77,7 +77,7 @@ Bitte legen Sie im `Schlüsselverzeichnis > Fächer` zusätzlich folgende Fäche
 
 #### Fachkategorien
 
-Jedem Fach, das Sie in der Gemeinschaftsschule verwenden, muss in MAGELLAN unter `Schlüsselverzeichnisse > Fächer` in Spalte "Kategorie"` eine Kategorie zugewiesen sein.  
+Jedem Fach, das Sie in der Gemeinschaftsschule verwenden, muss in Magellan unter `Schlüsselverzeichnisse > Fächer` in Spalte "Kategorie"` eine Kategorie zugewiesen sein.  
 Folgende Fachkategorien werden vom Berechnungsskript der Mittelstufe verwendet und müssen den Fächern entsprechend zugewiesen werden.
 
 |Fachkategorien|Wird vom Skript berücksichtigt|
@@ -116,7 +116,7 @@ Folgende Fachkategorien werden vom Berechnungsskript der Mittelstufe verwendet u
 
 #### Aufgabenbereiche
 
-Folgende Aufgabenbereiche stehen Ihnen in MAGELLAN zur Verfügung und müssen unter `Schlüsselverzeichnisse > Fächer` in der Spalte "Aufgabenbereich" bei den Fächern verwendet d.h. zugewiesen werden:
+Folgende Aufgabenbereiche stehen Ihnen in Magellan zur Verfügung und müssen unter `Schlüsselverzeichnisse > Fächer` in der Spalte "Aufgabenbereich" bei den Fächern verwendet d.h. zugewiesen werden:
 
 | Aufgabenbereich |
 | --- |
@@ -190,13 +190,13 @@ Bitte legen Sie im `Schlüsselverzeichnis > Abschlussarten` folgende Zusatzinfor
 
 ### Vorbereitung
 
-Wechseln Sie in MAGELLAN in das Menü `Mittelstufe`. Über  `Start > Schüler synchronisieren` werden die in den Halbjahren pro Schüler erfassten Fach- und Notendaten aus dem Menü  `Schüler > Zeugnis > Leistungen` in das Menü `Mittelstufe > Prüfung` kopiert. Im Menü `Mittelstufe > Auwahl` werden Ihnen die bereits synchronisierten Schüler angezeigt. 
+Wechseln Sie in Magellan in das Menü `Mittelstufe`. Über  `Start > Schüler synchronisieren` werden die in den Halbjahren pro Schüler erfassten Fach- und Notendaten aus dem Menü  `Schüler > Zeugnis > Leistungen` in das Menü `Mittelstufe > Prüfung` kopiert. Im Menü `Mittelstufe > Auwahl` werden Ihnen die bereits synchronisierten Schüler angezeigt. 
 
 ![Synchronisation Mittelstufe](/assets/images/mittelstufe/ms_synch02.png)
 
 Damit die Daten korrekt in die Spalten kopiert werden können, müssen die nachstehenden Daten korrekt erfasst sein.
 
-MAGELLAN extrahiert für die markierten Schüler die Fachdaten der Halbjahre 8.2, 9.1 und 9.2.
+Magellan extrahiert für die markierten Schüler die Fachdaten der Halbjahre 8.2, 9.1 und 9.2.
 
 Dies ist die Voraussetzung dafür, dass die Abschlussberechnung der Mittelstufe nach Klasse 9 durchgeführt werden kann. 
 
@@ -236,7 +236,7 @@ Auf der nächsten Karte wählen Sie bitte den `Abschlussjahrgang` und die `Prüf
 
 Nach der Synchronisieren werden Ihnen im Bereich `Mittelstufe > Auswahl` alle synchronisierten Schüler angezeigt.
 
-Per `Doppelklick` auf den gewünschten Schüler oder über einen Klick auf die Registerkarte `Prüfung` wechseln Sie zur Abschlussberechnung. Auf dieser Registerkarte finden Sie die Fächer, Unterrichtsarten und Notenwerte der Klassen 8.2, 9.1 und 9.2 (für Abschlussberechnung nach Klasse 9) bzw. 9.2, 10.1  und 10.2 (für Abschlussberechnung nach Klasse 10), falls Sie diese Angaben bereits in MAGELLAN unter der Rubrik `Schüler` gemacht haben sollten.
+Per `Doppelklick` auf den gewünschten Schüler oder über einen Klick auf die Registerkarte `Prüfung` wechseln Sie zur Abschlussberechnung. Auf dieser Registerkarte finden Sie die Fächer, Unterrichtsarten und Notenwerte der Klassen 8.2, 9.1 und 9.2 (für Abschlussberechnung nach Klasse 9) bzw. 9.2, 10.1  und 10.2 (für Abschlussberechnung nach Klasse 10), falls Sie diese Angaben bereits in Magellan unter der Rubrik `Schüler` gemacht haben sollten.
 
 Durch die Synchronisation erfolgen folgende Vorbelegungen:
 
@@ -284,7 +284,7 @@ Erfolgt eine Änderung in den Matrix, wird rechts unten der Status mit "Abschlus
 
 ### Spalte Merkmal
 
-In MAGELLAN finden Sie in der Ansicht `MITTELSTUFE` auf der Registerkarte `Prüfung` die Spalte „Merkmal“. Sie dient dazu, für ein Fach bestimmte Merkmale einzutragen, die für den Ausdruck und die Berechnung verwendet werden können. Folgende Einträge sind möglich: `*`, `**` oder `***`
+In Magellan finden Sie in der Ansicht `MITTELSTUFE` auf der Registerkarte `Prüfung` die Spalte „Merkmal“. Sie dient dazu, für ein Fach bestimmte Merkmale einzutragen, die für den Ausdruck und die Berechnung verwendet werden können. Folgende Einträge sind möglich: `*`, `**` oder `***`
 Hierdurch wird als Zeugnisbemerkung automatisch einer der folgenden ministeriellen Texte  ausgewählt:
 
 Eintrag|Text

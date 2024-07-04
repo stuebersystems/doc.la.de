@@ -57,7 +57,7 @@ Tragen Sie im Menü `Schüler > Daten 3` beim entsprechenden Schüler die Fremds
 `Abitur > Prüfung`
 
 Anstelle der 5. mündlichen Prüfung ist auch eine "Besondere Lernleistung" möglich.
-Gehen Sie in MAGELLAN wie folgt vor:
+Gehen Sie in Magellan wie folgt vor:
 Wählt der Schüler anstelle der 5. mündlichen Prüfung die Einbringung einer "Besonderen Lernleistung", müssen Sie im Menü Abitur > Prüfung im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren. Die schriftliche Note für die "Besondere Lernleistung" tragen Sie im 1. Notenfeld ganz links ein.
 
 Für den Zeugnisdruck des Abiturs bildet die Online-Dokumentation die Grundlage. Bitte wählen Sie hier Ihr entsprechendes Bundesland und Berechnungsskript. [https://doc.la.stueber.de/](https://doc.la.stueber.de/skriptueberblick)

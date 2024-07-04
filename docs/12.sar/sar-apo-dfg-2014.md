@@ -7,9 +7,9 @@ Dieses Skript beinhaltet die Abiturqualifikationsberechnung für das Deutsch-Fra
 Das Skript arbeitet mit Trimestern. Dazu müssen Sie unter `Extras > Optionen > Einstellungen > Zeiträume` den Standardwert von Halbjahren auf Trimester ändern.
 
 !!! info "Hinweis"
-    Sollten Sie bisher in MAGELLAN mit Halbjahre gearbeitet haben, benötigen STÜBER SYSTEMS Ihre Datenbank, um die vorhandenen Zeiträume pauschal auf Trimester umzustellen.
+    Sollten Sie bisher in Magellan mit Halbjahre gearbeitet haben, benötigen STÜBER SYSTEMS Ihre Datenbank, um die vorhandenen Zeiträume pauschal auf Trimester umzustellen.
 
-Nach der Änderung auf Trimester müssen Sie MAGELLAN schließen und neu starten, damit die Einstellung aktiv wird. Sie können dann unter Verzeichnisse \| Zeiträume nur noch Zeiträume der Art 1. Trimester, 2. Trimester bzw. 3. Trimester anlegen.
+Nach der Änderung auf Trimester müssen Sie Magellan schließen und neu starten, damit die Einstellung aktiv wird. Sie können dann unter Verzeichnisse \| Zeiträume nur noch Zeiträume der Art 1. Trimester, 2. Trimester bzw. 3. Trimester anlegen.
 
 ## Notenverzeichnis
 

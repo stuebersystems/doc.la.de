@@ -101,7 +101,7 @@ Den Versetzungstext in Bezug auf die Berechtigung zum Übergang an die gymnasial
 
 `Mandaten > Daten 1 > Stellvertreter`
 
-Der Stellvertreter des Schulleiters muss im entsprechenden Zeitraum im Menü `Mandaten > Daten 1` im Feld "Stellvertreter" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
+Der Stellvertreter des Schulleiters muss im entsprechenden Zeitraum im Menü `Mandaten > Daten 1` im Feld "Stellvertreter" eingetragen werden. Magellan greift hier auf das Menü `Lehrer` zurück.
 
 ## StellvertreterIn
 

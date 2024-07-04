@@ -60,7 +60,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 ## Zeugnisdatum
 
@@ -109,8 +109,8 @@ Die Leistungsstufe tragen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "N
 
 Beim Druck des Zeugnis für die Auszubildenden beachten Sie bitte folgende Punkte:
 
-1) Je nach Ihren Einstellungen in MAGELLAN kann  das Zeugnis ein Jahreszeugnis,  Halbjahreszeugnis, Versetzungszeugnis oder Abgangszeugnis sein. 		
-2) Je nach Ihren Einstellungen in MAGELLAN können die Abschlüsse „Abgangszeugnis (kein Abschluss)“,  „Abschlusszeugnis und Hauptschulabschluss“, „Berufsgrundbildung u. Sekundarabschluss I (Fachoberschulreife ohne Qualifikationsvermerk)“ und „Berufsgrundbildung u. Sekundarabschluss I (Hauptschulabschl. nach Klasse 10)“ ausgegeben werden. 
+1) Je nach Ihren Einstellungen in Magellan kann  das Zeugnis ein Jahreszeugnis,  Halbjahreszeugnis, Versetzungszeugnis oder Abgangszeugnis sein. 		
+2) Je nach Ihren Einstellungen in Magellan können die Abschlüsse „Abgangszeugnis (kein Abschluss)“,  „Abschlusszeugnis und Hauptschulabschluss“, „Berufsgrundbildung u. Sekundarabschluss I (Fachoberschulreife ohne Qualifikationsvermerk)“ und „Berufsgrundbildung u. Sekundarabschluss I (Hauptschulabschl. nach Klasse 10)“ ausgegeben werden. 
 3) Die Zeugnisformulare setzen voraus, dass das Berechnungsskript AS-APO-BK-1999.dws bei der Eingabe der Zensuren benutzt wird. Im Schlüsselverzeichnis > Verordnungen könnte dies wie folgt aussehen:
 
 Kürzel | Bezeichnung | Typ | Skript
@@ -165,7 +165,7 @@ Die Angabe der Fehlstunden muss im entsprechenden Zeitraum im Menü `Schüler > 
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Von / Bis`
 
-Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
+Die Ausgabe des "vom" und "bis" Datums erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan im `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in den Spalten "von" und "bis".
 
 ## Zeugnisbemerkungen
 

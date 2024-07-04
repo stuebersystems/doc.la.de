@@ -84,7 +84,7 @@ Damit das Zeugnis/der Bericht korrekt ausgedruckt wird, muss die vom Senat für 
 
 Manche Fächer werden mit einer Note für mündliche Leistungen, einer Note für schriftliche Leistungen und einer Gesamtnote versehen. Tragen Sie daher im Menü `Schüler > Zeugnis > Leistungen` die Noten wie folgt ein:
 
-Note | Feld in MAGELLAN
+Note | Feld in Magellan
 --|--
 mündliche Note | Mündl. Note | 
 schriftliche Note | Schriftl. Note 4

@@ -4,7 +4,7 @@
 
     Entspricht: Rheinland-Pfalz Gymnasium APO 2010 achtjähriger Bildungsgang
 
-## Verzeichnis Verordnung in MAGELLAN
+## Verzeichnis Verordnung in Magellan
 
 Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
@@ -24,7 +24,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 |Gültig von |leer|
 |Gültig bis|leer|
 
-## Verordnung in DAVINCI hinterlegen
+## Verordnung in DaVinci hinterlegen
 
 In der Ansicht ``Stammdaten > Klassen`` weisen Sie die Klassen bzw. Jahrgänge mit Kurssystem (Modus „Kurse“) aus und geben das Fachwahlskript an, nach dem die Fachwahl überprüft werden soll. Hinzu kommen ggf. weitere Angaben sind insbesondere für Fachwahlüberprüfungen notwendig, die mehrere Halbjahre überprüfen, z.B. in Berlin.
 

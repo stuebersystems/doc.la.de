@@ -125,7 +125,7 @@ Fachpositionen können bereits bei der Fachwahl per Fachwahltafel oder per Facht
 
 ## Prüfungen
 
-Prüfungen können für die GH-Kurse des 3. Prüfungsfach und/oder 4. Prüfungsfach auch in mehreren Fächern des gleichen Aufgabenfeldes abgelegt werden. Beide Fächer müssen in MAGELLAN auf der Qualifikationskarte erscheinen und auswertbar markiert werden, da jeweils nur eine Teil der Kurse der jeweiligen Fachzeile als Prüfungsfächer berücksichtigt werden sollen, auf dem Abiturzeugnis aber nur eins der beiden Fächer erscheinen soll.
+Prüfungen können für die GH-Kurse des 3. Prüfungsfach und/oder 4. Prüfungsfach auch in mehreren Fächern des gleichen Aufgabenfeldes abgelegt werden. Beide Fächer müssen in Magellan auf der Qualifikationskarte erscheinen und auswertbar markiert werden, da jeweils nur eine Teil der Kurse der jeweiligen Fachzeile als Prüfungsfächer berücksichtigt werden sollen, auf dem Abiturzeugnis aber nur eins der beiden Fächer erscheinen soll.
 
 1. Beide Fachzeilen werden im Feld Status als Prüfungsfach markiert (Fachstatus `3PF` oder `4PF` ).
 2. In der Spalte `Merkmal` wird manuell erfasst (Eintragung `Q1Q2` oder `Q3Q4`), welche Kurse je Fachzeile als Prüfungsfachkurse zu werten sind.
@@ -159,7 +159,7 @@ Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum 
 
 Beispiele für den Einsatz der Platzhalter:
 
-Platzhalter|Ausgabe|Felder in MAGELLAN
+Platzhalter|Ausgabe|Felder in Magellan
 --|--|--
 Vorname   | Hans|Vorname
 VornameV  |Hans Peter  |Vorname + 2.Vorname

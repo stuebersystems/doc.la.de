@@ -2,7 +2,7 @@
 
 Das Skript NIE-APO-G8-2014 berechnet das Abitur für den Jahrgang, der nach 12 Jahren Abitur macht und berücksichtigt für die Qualifikation die Halbjahre 11/1-12/2.
 
-Das Skript NIE-APO-G9-2014 berechnet das Abitur für den Jahrgang, der nach 13 Jahren Abitur macht und berücksichtigt für die Qualifikation die Halbjahre 12/1-13/2. Die entsprechenden Jahrgänge müssen in MAGELLAN als Oberstufenjahrgänge gekennzeichnet sein.
+Das Skript NIE-APO-G9-2014 berechnet das Abitur für den Jahrgang, der nach 13 Jahren Abitur macht und berücksichtigt für die Qualifikation die Halbjahre 12/1-13/2. Die entsprechenden Jahrgänge müssen in Magellan als Oberstufenjahrgänge gekennzeichnet sein.
 
 ## Verzeichnis Verordnung
 

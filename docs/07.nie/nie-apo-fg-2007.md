@@ -105,7 +105,7 @@ Das Merkmal muss unter ```Abitur > Qualifikation > Merkmal``` eingetragen sein. 
 
 ## Sport-Praxis Sonderregelung
 
-  MAGELLAN:
+  Magellan:
   
   Ist Sport 1. Prüfungsfach, dann wird auf Prüfungsregisterkarte bei
   "Schriftliche Note" die Punktzahl SP (siehe unten) aus schriftlicher UND

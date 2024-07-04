@@ -104,7 +104,7 @@ Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Beson
 
 Gehen Sie jeweils wie folgt vor:
 
-Prüfungskomponente | Vorgehensweise in MAGELLAN
+Prüfungskomponente | Vorgehensweise in Magellan
 --|--
 Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus. Des Weiteren wird im Menü `Abitur > Prüfung` im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.
 Besondere Lernleistung | Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld "Lernleistung" das entsprechende Fach zuweisen und das Optionsfeld "Lernleistung einbringen" markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. `Abitur >  Prüfung > Lernleistung`, die schriftl Note für das "1. Gutachten bzw. schriftliche Note für die besondere Lernleistung" tragen Sie im 1. Punktefeld ganz links ein. Die mdl. Note für die besondere Lernleistung tragen Sie im 2. Punktefeld ein.|
@@ -125,7 +125,7 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Der Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
+Der Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. Magellan greift hier auf das Menü `Lehrer` zurück.
 
 ## zusätzlichen mündliche Prüfungen 
 
@@ -156,7 +156,7 @@ Bemerkungen legen Sie entweder im Menü `Schüler > Zeugnis > Bemerkungen/Formul
 Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende Ihres Platzhalters, z.B.  So `<<hier steht Ihr Platzhalter>>`.  
 
 Möglich sind:
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
 ``<<Nachname>>`` | Nachname

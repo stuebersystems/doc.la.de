@@ -40,7 +40,7 @@ WahlPF | WahlPF | Wahlpflichtfach
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Von/Bis`
 
-Die Ausgabe des "von" - "bis" Datums des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben werden hierbei die Einträge in den Spalten "Von" und "Bis".
+Die Ausgabe des "von" - "bis" Datums des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Schlüsselverzeichnis > Zeiträume`. Ausgegeben werden hierbei die Einträge in den Spalten "Von" und "Bis".
 
 ## Benotung in Klassen
 

@@ -1,9 +1,9 @@
 ﻿# Medienliste (Inventur)
 
-Dieser Bericht ist aus dem Modul `MAGELLAN BIBLIOTHEK` aufrufbar.
+Dieser Bericht ist aus dem Modul `Magellan Bibliothek` aufrufbar.
 
 ## Ausdruck
 
-`MAGELLAN BIBLIOTHEK > Bücher / Medien > Berichte drucken`
+`Magellan Bibliothek > Bücher / Medien > Berichte drucken`
 
-Der Bericht muss aus dem Programm MAGELLAN BIBLIOTHEK aus dem Menü `Bücher / Medien` gedruckt werden.
+Der Bericht muss aus dem Programm Magellan Bibliothek aus dem Menü `Bücher / Medien` gedruckt werden.

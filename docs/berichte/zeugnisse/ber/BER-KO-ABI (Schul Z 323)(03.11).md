@@ -92,7 +92,7 @@ Das Latinum, Graecum usw. wird auf dem Zeugnis ausgegeben, indem Sie im Menü `A
 
 1. Das Schuljahr wird unter `Extras > Schlüsselverzeichnisse > Zeiträume` im Feld “Ausdruck1“ hinterlegt.
 2. Das Schulhalbjahr wird unter `Extras > Schlüsselverzeichnisse > Zeiträume` im Feld „Art“ hinterlegt
-3. Die Ausgabe Vorkurs/E-Phase/Kurshalbjahr ergibt sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnis > Zeiträume` im Feld "Art" und aufgrund der Eintragungen im Menü `Klassen > Zeiträume` im Feld „Jahrgang“
+3. Die Ausgabe Vorkurs/E-Phase/Kurshalbjahr ergibt sich aufgrund der Definition des aktuellen Zeitraums in Magellan im `Schlüsselverzeichnis > Zeiträume` im Feld "Art" und aufgrund der Eintragungen im Menü `Klassen > Zeiträume` im Feld „Jahrgang“
 4. Im Menü `Klassen > Klassenart` muss in den entsprechenden Zeiträumen entweder "Oberstufenjahrgang (Nur Kurse)" (für Vorkurs / E-Phase)** bzw. "Oberstufenjahrgang (Grund- und Leistungskurse)" (für Kurshalbjahre)** hinterlegt sein.
 
 Jahrgange/Halbjahr | Ausgabe im Bericht/Zeugnis

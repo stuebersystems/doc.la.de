@@ -101,6 +101,6 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 ## Besondere Lernleistung
 
 Anstelle der 4. schriftlichen Prüfung ist auch eine „Besondere Lernleistung“ möglich.
-Gehen Sie in MAGELLAN wie folgt vor:
+Gehen Sie in Magellan wie folgt vor:
 • Wählt der Schüler anstelle der 4. schriftlichen Prüfung die Einbringung einer „Besonderen Lernleistung“, müssen Sie im Menü „Abitur“ unter der Registerkarte „Prüfung“ im Feld „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu.
 Die schriftliche Note für die „Besondere Lernleistung" tragen Sie im 1. Notenfeld ganz links ein. Folglich ist keine schriftliche Note unter „Prüfungsfächer“ im 4. PF zugewiesen (Feld bleibt leer).

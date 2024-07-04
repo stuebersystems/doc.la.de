@@ -20,5 +20,5 @@ Tragen Sie im Menü Schüler > Daten 2  im Bereich "Bereits besuchte Schulen" di
 
 Klassen > Auswahl > Drucken > Berichte drucken > Klassenliste (welche Bewerber sind Wiederholer).rpt
 
-Dieser Bericht zeigt Ihnen Wiederholer bei Bewerbern an. Dies wird in MAGELLAN anhand der Klassenstufe geprüft, die in diesem Fall bei der aktuellen Klassenstufe (der Klasse) identisch mit der Klassenstufe der letzten Herkunftsschule sein muss. Dazu müssen die Klassenstufen sowohl der Klasse als auch der Herkunftsschulen (Menü Schüler > Daten 2 > Zugang / Abgang >Herkunftsschule eingetragen sein.  Grundlage hierzu bildet das Kürzel im Schlüsselverzeichnis  > Klassenstufen.
+Dieser Bericht zeigt Ihnen Wiederholer bei Bewerbern an. Dies wird in Magellan anhand der Klassenstufe geprüft, die in diesem Fall bei der aktuellen Klassenstufe (der Klasse) identisch mit der Klassenstufe der letzten Herkunftsschule sein muss. Dazu müssen die Klassenstufen sowohl der Klasse als auch der Herkunftsschulen (Menü Schüler > Daten 2 > Zugang / Abgang >Herkunftsschule eingetragen sein.  Grundlage hierzu bildet das Kürzel im Schlüsselverzeichnis  > Klassenstufen.
 

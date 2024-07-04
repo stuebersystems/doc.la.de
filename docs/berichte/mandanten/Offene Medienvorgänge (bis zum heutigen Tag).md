@@ -6,5 +6,5 @@ Dieser Bericht listet alle offenen Medienvorgänge aufdessen Ausleihedatum vor d
 
 `BIBILIOTHEK > Mandanten > Berichte drucken`
 
-Der Bericht muss aus dem Modul MAGELLAN BIBLIOTHEK und LERNMITTEL aus dem Menü `Mandanten` gedruckt werden.
+Der Bericht muss aus dem Modul Magellan Bibliothek und LERNMITTEL aus dem Menü `Mandanten` gedruckt werden.
 

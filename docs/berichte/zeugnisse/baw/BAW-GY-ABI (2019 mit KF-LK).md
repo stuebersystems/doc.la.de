@@ -83,7 +83,7 @@ Der Schulleiter muss im entsprechenden Zeitraum unter `Mandanten > Daten1` im Fe
 
 **A0348** `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Der Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld ""Prüfungsvorsitz"" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück."
+Der Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld ""Prüfungsvorsitz"" eingetragen werden. Magellan greift hier auf das Menü `Lehrer` zurück."
 
 **A0139** 
 `Abitur > Prüfung > Zeugnisdatum`

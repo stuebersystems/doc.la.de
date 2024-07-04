@@ -30,7 +30,7 @@ PRS | PRS   |  5. Prüfungskomponente Präsentationsprüfung"
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 ## Ausdruck
 
@@ -68,6 +68,6 @@ Falls die Besondere Lernleistung nicht eines der Prüfungsfächer 1.-4. ist, wei
 
 ## Daten manuell erfassen
 
-Daten unter Punkt 2-7 müssen Sie nach Ausdruck aus MAGELLAN manuell im Zeugnis erfassen/eintragen.
+Daten unter Punkt 2-7 müssen Sie nach Ausdruck aus Magellan manuell im Zeugnis erfassen/eintragen.
 
 ![Daten nach Ausdruck manuell erfassen](/assets/images/Berlin/ber01.png)

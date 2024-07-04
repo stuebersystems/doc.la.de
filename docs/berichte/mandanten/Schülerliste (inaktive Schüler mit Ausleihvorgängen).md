@@ -1,7 +1,7 @@
 ﻿# Schülerliste (inaktive Schüler mit Ausleihvorgängen)
 
 
-Dieser Bericht listet alle ausgeschulten Schüler auffür die es noch nicht abgeschlossene Medienvorgänge in der MAGELLAN BIBLIOTHEK gibt.
+Dieser Bericht listet alle ausgeschulten Schüler auffür die es noch nicht abgeschlossene Medienvorgänge in der Magellan Bibliothek gibt.
 
 ## Ausdruck
 

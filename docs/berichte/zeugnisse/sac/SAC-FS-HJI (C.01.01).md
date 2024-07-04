@@ -84,7 +84,7 @@ Tragen Sie die Bezeichnung Ihrer Schule im Menü "Mandanten" auf der Registerkar
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 ## Zeugnisdatum
 
@@ -154,7 +154,7 @@ Einen Platzhalter definieren Sie über „``<<“ zum Beginn und „>>``“ zum 
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 ``<<VornameV>>`` | Vorname Vorname2
 ``<<Nachname>>`` | Nachname
@@ -193,7 +193,7 @@ Sollte ein Fach (die Fachbezeichnung) auf dem Zeugnis mit einem Zusatz `*)` vers
 Legen Sie dazu passend bitte ein Zeugnisbemerkung mit der Erläuterung an.
 
 
-Eintrag in MAGELLAN | Ausgabe auf dem Zeugnis
+Eintrag in Magellan | Ausgabe auf dem Zeugnis
 --|--
 Fach: Deu, Merkmal: `*` | `Deutsch *)`
 

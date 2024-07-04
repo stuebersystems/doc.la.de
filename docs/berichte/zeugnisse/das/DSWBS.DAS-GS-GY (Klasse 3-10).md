@@ -30,7 +30,7 @@
 
 ## Anmerkungen
 
-Dieser Bericht basiert auf dem Bericht`DAS-GS-GY (Klasse 3-10).rpt`. Abweichend vom orginialen Bericht gibt es vier feste Logos im Zeugnisfuß, zwei Platzhalter für Zeugnislogos, die in MAGELLAN hinterlegt werden können. Zusätzlich wird in diesem Bericht nicht das Arbeits- und Sozialverhalten der Schüler ausgegeben.
+Dieser Bericht basiert auf dem Bericht`DAS-GS-GY (Klasse 3-10).rpt`. Abweichend vom orginialen Bericht gibt es vier feste Logos im Zeugnisfuß, zwei Platzhalter für Zeugnislogos, die in Magellan hinterlegt werden können. Zusätzlich wird in diesem Bericht nicht das Arbeits- und Sozialverhalten der Schüler ausgegeben.
 
 Jahres- und Halbjahreszeugnis der Klassenstufe 3-10, Schulformen: 
 
@@ -58,7 +58,7 @@ hierbei steht auch ein Feld für die schriftliche Beurteilung des Fachs zur Verf
 
 `Extras > Schlüsselverzeichnisse > Zeiträume`
 
-Die Ausgabe des Schulhalbjahres/Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1" und "Art".
+Die Ausgabe des Schulhalbjahres/Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1" und "Art".
 
 [![Ausgabe Schulhalbjahr/Schuljahr auf dem Zeugnis][22]][22]
 
@@ -207,7 +207,7 @@ Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum En
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 `<<VornameV>>` | Vorname Vorname2
 `<<Nachname>>` | Nachname

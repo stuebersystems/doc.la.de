@@ -33,7 +33,7 @@ Bitte erfassen Sie unter `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdru
 `Extras > Schlüsselverzeichnisse > Noten > Bezeichnung` <br/>`Schüler > Zeugnis > Details > Mitarbeit`<br/>`Schüler > Zeugnis > Details > Verhalten`
 
 Bitte legen Sie im Schlüsselverzeichnis die gewünschten Noten mit der Notenart `Note` an, es wird der Eintrag aus dem Feld `Bezeichnung` ausgegeben. 
-Weisen Sie den Schülern die individuelle Note unter `Schüler > Zeugnis > Details` in den Feldern `Verhalten` und `Mitarbeit` zu. Die Note kann hier manuell erfasst werden, per Sammelzuweisung vorbelegt werden oder aus MyMAGELLAN übernommen werden.
+Weisen Sie den Schülern die individuelle Note unter `Schüler > Zeugnis > Details` in den Feldern `Verhalten` und `Mitarbeit` zu. Die Note kann hier manuell erfasst werden, per Sammelzuweisung vorbelegt werden oder aus MyMagellan übernommen werden.
 
 ### Fachbereich
 
@@ -42,7 +42,7 @@ Weisen Sie den Schülern die individuelle Note unter `Schüler > Zeugnis > Detai
 `Extras > Schlüsselverzeichnisse > Fachtafeln > FachtafelFächer > Position` <br/>`Schüler > Zeugnis > Fächer > Position`
 
 Dieser Zeugnisbericht gibt Fächer und Noten zweispaltig aus. Die Anordnung wird über die Fachposition gesteuert, Fächer mit einer ungeraden Position werden in der linken Spalte, Fächer mit einer geraden Position werden in der rechten Spalte ausgegeben. Die Fachpositionierung können Sie bereits in den Fachtafeln vorbereiten und so den Schülern mit den Fächern zuweisen.
-Sollten bereits die Fächer ohne Position den Schülern zugeordnet worden sein, können Positionen manuell ergänzt oder auch nachträglich per Fachtafel zugewiesen werden, bitte beachten Sie hierfür folgenden Abschnitt der MAGELLAN Dokumentation: [https://doc.magellan.stueber.de/schulverwaltung/howto/zeugnisdaten1/#optionen-zum-verandern-bestehender-fachdaten](https://doc.magellan.stueber.de/schulverwaltung/howto/zeugnisdaten1/#optionen-zum-verandern-bestehender-fachdaten).
+Sollten bereits die Fächer ohne Position den Schülern zugeordnet worden sein, können Positionen manuell ergänzt oder auch nachträglich per Fachtafel zugewiesen werden, bitte beachten Sie hierfür folgenden Abschnitt der Magellan Dokumentation: [https://doc.magellan.stueber.de/schulverwaltung/howto/zeugnisdaten1/#optionen-zum-verandern-bestehender-fachdaten](https://doc.magellan.stueber.de/schulverwaltung/howto/zeugnisdaten1/#optionen-zum-verandern-bestehender-fachdaten).
 
 #### Fächer und Fachbezeichnungen
 
@@ -89,7 +89,7 @@ Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname
 ``<<VornameV>>`` | Vorname Vorname2
@@ -137,7 +137,7 @@ Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname
 ``<<VornameV>>`` | Vorname Vorname2

@@ -3,7 +3,7 @@
 
 # Dokumentation zu Landesanpassungen
 
-Dies ist die deutsche Dokumentation zu den Landesanpassungen von [MAGELLAN](https://magellan.stueber.de) und [DAVINCI](https://davinci.stueber.de). Die Dokumentation ist Open Source und wir haben sie mit [MkDocs](https://www.mkdocs.org) und [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) realisiert. 
+Dies ist die deutsche Dokumentation zu den Landesanpassungen von [Magellan](https://magellan.stueber.de) und [DaVinci](https://davinci.stueber.de). Die Dokumentation ist Open Source und wir haben sie mit [MkDocs](https://www.mkdocs.org) und [Material for MkDocs](https://squidfunk.github.io/mkdocs-material) realisiert. 
 
 ## MkDocs unter Windows installieren
 

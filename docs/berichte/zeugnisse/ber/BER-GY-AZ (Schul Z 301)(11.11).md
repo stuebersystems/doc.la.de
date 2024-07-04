@@ -73,8 +73,8 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 Ausgabe "im Verlauf / am Ende": Tragen Sie das Abgangsdatum im Menü ´Schüler > Zugang/Abgang´ im Feld  „Abgang am“ ein. 
 Unterschieden werden 3 Fälle:
 
-1) Ausgabe "im Verlauf": Abgangsdatum ist kleiner als das Datum des aktuellen Zeitraums in MAGELLAN (´Schlüsselverzeichnis > Zeiträume > Von´)
-2) Ausgabe "am Ende": Abgangsdatum größergleich als das Datum des aktuellen Zeitraums in MAGELLAN (´Schlüsselverzeichnis > Zeiträume > Von´)
+1) Ausgabe "im Verlauf": Abgangsdatum ist kleiner als das Datum des aktuellen Zeitraums in Magellan (´Schlüsselverzeichnis > Zeiträume > Von´)
+2) Ausgabe "am Ende": Abgangsdatum größergleich als das Datum des aktuellen Zeitraums in Magellan (´Schlüsselverzeichnis > Zeiträume > Von´)
 3) Ausgabe "im Verlauf / am Ende": es wurde kein Abgangsdatum angegeben
 
 ## Ausdruck

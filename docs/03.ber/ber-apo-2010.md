@@ -2,7 +2,7 @@
 
 !!! info "Hinweis"
 
-    Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [Bundeslandspezifisch > Berlin](https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin.html)!
+    Weitere wichtige Informationen finden Sie in der Magellan-Dokumentation im Abschnitt [Bundeslandspezifisch > Berlin](https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin.html)!
 
 ## Verzeichnis Verordnung
 

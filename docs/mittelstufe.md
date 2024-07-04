@@ -2,9 +2,9 @@
 
 ## Spezielle Einstellungen pro Skript
 
-Die gesamte Abschlussnotenberechnung wird durch MAGELLAN-Skripte durchgeführt. D.h. jedes Skript repräsentiert eine Verordnung. Es wird im Folgenden jeweils das Veröffentlichungsjahr der entsprechenden Verordnung angeben.
+Die gesamte Abschlussnotenberechnung wird durch Magellan-Skripte durchgeführt. D.h. jedes Skript repräsentiert eine Verordnung. Es wird im Folgenden jeweils das Veröffentlichungsjahr der entsprechenden Verordnung angeben.
 
-Die derzeit in MAGELLAN verfügbaren Prüfungsordnungen werden im Abschnitt [Alle Skripte im Überblick](skriptueberblick.md) aufgelistet.
+Die derzeit in Magellan verfügbaren Prüfungsordnungen werden im Abschnitt [Alle Skripte im Überblick](skriptueberblick.md) aufgelistet.
 
 !!! info "Hinweis"
 

@@ -73,7 +73,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 `Extras > Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 ## Versetzung
 
@@ -143,7 +143,7 @@ beliebig | beliebig | Informationstechnischer Grundkurs
 Bei Fächern, in denen zusätzlich zur Endnote eine mündliche und schriftliche Note ausgegeben wird, tragen Sie die Noten wie folgt ein:
 Im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Leistungen`
 
-Spalte in MAGELLAN | Note für:
+Spalte in Magellan | Note für:
 --|--
 Spalte "Endnote" | Note
 Spalte "Schriftl. Note 1" | schriftliche Note

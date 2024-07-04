@@ -8,7 +8,7 @@ Der Bericht muss aus dem Menü `Schüler` gedruckt werden.
 
 ## Allgemein
 
-Es werden im Berichtskopf die Schüler-/Sorgeberechtigtendaten aus den Einträgen in MAGELLAN ausgegeben. 
+Es werden im Berichtskopf die Schüler-/Sorgeberechtigtendaten aus den Einträgen in Magellan ausgegeben. 
 
 ## Druckdatum und Ort
 

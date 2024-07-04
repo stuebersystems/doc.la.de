@@ -83,7 +83,7 @@ Für die Ausgabe "Die Abiturprüfung wird wiederholt" muss im aktuellen Zeitraum
 
 `Abitur > Prüfung > schriftliche Note`
 
-Die Punkte des "1. Gutachten" tragen Sie im Menü `Abitur > Prüfung` im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank  abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü `Abitur > Prüfung` im  Feld "schriftliche Note" abändern.
+Die Punkte des "1. Gutachten" tragen Sie im Menü `Abitur > Prüfung` im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank  abgefragt. Für die weitere Berechnung in Magellan [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü `Abitur > Prüfung` im  Feld "schriftliche Note" abändern.
 
 ## Zeugnisbemerkungen Abitur
 
@@ -125,7 +125,7 @@ Um die laufende Nummer chronologisch korrekt auszugeben, müssen alle Schüler e
 
 `Extras > Schlüsselverzeichnisse > Fächer > Kategorie`
 
-Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
+Jedes Fach muss in Magellan im `Schlüsselverzeichnis > Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
 
 |Fächer > Kategorie|
 |--|

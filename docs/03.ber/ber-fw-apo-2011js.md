@@ -4,9 +4,9 @@
 
 !!! info "Hinweis"
 
-     Weitere wichtige Informationen finden Sie in der MAGELLAN-Dokumentation im Abschnitt [Regionales > Berlin](https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin/) !
+     Weitere wichtige Informationen finden Sie in der Magellan-Dokumentation im Abschnitt [Regionales > Berlin](https://doc.magellan7.stueber.de/schulverwaltung/regionales/berlin/berlin/) !
 
-## Verzeichnis Verordnung in MAGELLAN
+## Verzeichnis Verordnung in Magellan
 
 Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und füllen Sie diese mit den nachstehenden Werten. Beim Synchronisieren der Schüler in das Abitur-Menü weisen Sie den Schülern die Verordnung zu.
 
@@ -27,7 +27,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 
 ![Eintragung im Verzeichnis Verordnungen für Abiturberechnung und Fachwahl](/assets/images/ber-apo-fw-2011.png)
 
-## Verordnung in DAVINCI hinterlegen
+## Verordnung in DaVinci hinterlegen
 
 In der Ansicht ``Stammdaten > Klassen`` weisen Sie die Klassen bzw. Jahrgänge mit Kurssystem (Modus „Kurse“) aus und geben das Fachwahlskript an, nach dem die Fachwahl überprüft werden soll. Hinzu kommen ggf. weitere Angaben sind insbesondere für Fachwahlüberprüfungen notwendig, die mehrere Halbjahre überprüfen, z.B. in Berlin.
 

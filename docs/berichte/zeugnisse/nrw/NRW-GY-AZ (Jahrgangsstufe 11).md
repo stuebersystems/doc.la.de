@@ -65,4 +65,4 @@ Tragen Sie im Menü `Schüler > Laufbahn > Allgemein` im Feld "Schulformeintritt
 
 `Abitur > Prüfung > schriftliche Note`
 
-Die Punkte des "1. Gutachten" tragen Sie im Menü `Abitur > Prüfung` im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank  abgefragt. Für die weitere Berechnung in MAGELLAN [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im  Feld "schriftliche Note" abändern.
+Die Punkte des "1. Gutachten" tragen Sie im Menü `Abitur > Prüfung` im Feld "schriftliche Note". Die "Festgesetzte Note" kann manuell erfasst werden, wird aber nicht aus der Datenbank  abgefragt. Für die weitere Berechnung in Magellan [nicht für diesen Bericht relevant], würden Sie falls die Note des 1. Gutachtens von der festgesetzten Note abweicht, die Eingabe im Menü Abitur > Prüfung im  Feld "schriftliche Note" abändern.

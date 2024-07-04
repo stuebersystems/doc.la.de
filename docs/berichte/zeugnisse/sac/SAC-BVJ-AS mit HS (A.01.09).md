@@ -52,7 +52,7 @@ Der Klassenlehrer muss im entsprechenden Zeitraum im Menü `Klassen > Zeiträume
 
 `Schlüsselverzeichnis > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schuljahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan `Schlüsselverzeichnis > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 ## Zeugnisdatum
 
@@ -103,7 +103,7 @@ Den ersten Berufsbereich weisen Sie unter `Klassen > Merkmale > Merkmal A1`, den
 
 ![Zeugnisvorlage A.01.09 Deckblatt](/assets/images/Sachsen/a.01.08_Bild01.png)
 
-![Eingabe in MAGELLAN 7](/assets/images/Sachsen/a.01.08_Bild02.png)
+![Eingabe in Magellan 7](/assets/images/Sachsen/a.01.08_Bild02.png)
 
 ## Dauer Praktikum/Berufspraktische/Praktische Ausbildung 
 
@@ -123,7 +123,7 @@ Einen Platzhalter definieren Sie über „<<“ zum Beginn und „>>“ zum Ende
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 ``<<Vorname>>`` | Vorname Vorname2
 ``<<Nachname>>`` | Nachname

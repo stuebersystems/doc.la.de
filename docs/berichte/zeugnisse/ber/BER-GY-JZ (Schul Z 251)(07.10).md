@@ -106,13 +106,13 @@ Den Versetzungstext in Bezug auf die Berechtigung zum Übergang an die gymnasial
 
 `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
+Den Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. Magellan greift hier auf das Menü `Lehrer` zurück.
 
 ## StellvertreterIn
 
 `Mandaten > Daten 1 > Stellvertreter`
 
-Der Stellvertreter des Schulleiters muss im entsprechenden Zeitraum im Menü `Mandaten > Daten 1` im Feld "Stellvertreter" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
+Der Stellvertreter des Schulleiters muss im entsprechenden Zeitraum im Menü `Mandaten > Daten 1` im Feld "Stellvertreter" eingetragen werden. Magellan greift hier auf das Menü `Lehrer` zurück.
 
 ## vorgegeben Positionierung der Fächer
 

@@ -10,7 +10,7 @@ Im entsprechenden Zeitraum muss das Zeugnisdatum im Menü `Schüler > Zeugnis > 
 
 ´Schlüsselverzeichnis > Zeiträume > Art´ UND ´Klassen > Zeiträume > Jahrgang´
 
-Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter ´Schlüsselverzeichnis > Zeiträume > Art´ und aus dem Menü ´Klassen > Zeiträume > Jahrgang´.
+Die Ausgabe des Schulhalbjahres errechnet sich aufgrund der Definition des aktuellen Zeitraums in Magellan unter ´Schlüsselverzeichnis > Zeiträume > Art´ und aus dem Menü ´Klassen > Zeiträume > Jahrgang´.
 z.B.
 1 Jahrgang = 1. und 2. HJ
 

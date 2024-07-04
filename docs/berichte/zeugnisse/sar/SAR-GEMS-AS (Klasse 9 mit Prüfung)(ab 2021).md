@@ -49,7 +49,7 @@ Im Menü `Klassen > Daten` muss bei der Klasse des Schülers im Feld "Beurteilun
 
 `Schüler > Zeugnis > Details > Prüfungsvorsitz`
 
-Der Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. MAGELLAN greift hier auf das Menü `Lehrer` zurück.
+Der Prüfungsvorsitz muss im entsprechenden Zeitraum im Menü `Schüler > Zeugnis > Details` im Feld "Prüfungsvorsitz" eingetragen werden. Magellan greift hier auf das Menü `Lehrer` zurück.
 
 ## Anforderungsebenen/Einstufungen der Fächer
 

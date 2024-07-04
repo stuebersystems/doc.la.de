@@ -88,7 +88,7 @@ Der Fachstatus muss unter ```Abitur > Qualifikation > Fachstatus``` zugeordnet s
 Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fachstatus```,  dass in Ihrem Verzeichnis alle erwarteten Werte vorhanden sind oder legen Sie ggfs. an.
 
 !!!warning Wichtig
-    Die Prüfungsfächer 1. bis 3. müssen nicht eingetragen werden, das Skript besetzt den Fachstatus für die Leistungskurse automatisch. Dabei wird auch die Gewichtung (einfach oder doppelt) der Leistungskurssumme von MAGELLAN übernommen. Der Leistungskurs mit der geringsten Summe wird einfach gewertet, es sei denn, Sie haben einen Sportleistungskurs für den der praktische Teil nicht erfüllt wurde, mit `ST` im Feld `Merkmal` gekennzeichnet.
+    Die Prüfungsfächer 1. bis 3. müssen nicht eingetragen werden, das Skript besetzt den Fachstatus für die Leistungskurse automatisch. Dabei wird auch die Gewichtung (einfach oder doppelt) der Leistungskurssumme von Magellan übernommen. Der Leistungskurs mit der geringsten Summe wird einfach gewertet, es sei denn, Sie haben einen Sportleistungskurs für den der praktische Teil nicht erfüllt wurde, mit `ST` im Feld `Merkmal` gekennzeichnet.
 
 |Kürzel |Schlüssel |Bedeutung|
 |NeinNein|NeinNein|NeinNein|
@@ -101,7 +101,7 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 |Ersatz |Ersatz |Ersatzfach für Sport im Falle eines Sportattestes|
 
 !!!warning Wichtig
-    Bitte tragen Sie keine Prüfungsfächer von Hand unter MAGELLAN > Abitur > Prüfung ein, das führt zu Problemen, da das Skript die Prüfungsfächer 1.Nein3. selbstständig vergibt und anschließend das Fach und die letzte Note auf die Karte Prüfungen kopiert!
+    Bitte tragen Sie keine Prüfungsfächer von Hand unter Magellan > Abitur > Prüfung ein, das führt zu Problemen, da das Skript die Prüfungsfächer 1.Nein3. selbstständig vergibt und anschließend das Fach und die letzte Note auf die Karte Prüfungen kopiert!
 
 ## Merkmal
 

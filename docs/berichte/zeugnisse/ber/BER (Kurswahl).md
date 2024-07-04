@@ -102,7 +102,7 @@ Religion | weitere Fächer
 
 `Extras > Schlüsselverzeichnisse > Fächer > Kategorie`
 
-Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
+Jedes Fach muss in Magellan im `Schlüsselverzeichnis > Fächer` in Spalte "Kategorie" einen der nachfolgenden Werte erfasst haben:
 
 |Fächer > Kategorie|
 |--|
@@ -130,7 +130,7 @@ Jedes Fach muss in MAGELLAN im `Schlüsselverzeichnis > Fächer` in Spalte "Kate
 
 `Extras > Schlüsselverzeichnisse > Unterrichtsarten > Schlüssel`
 
-Bitte prüfen Sie in MAGELLAN im `Schlüsselverzeichnis > Unterrichtsarten`, ob alle notwendigen Einträge vorhanden sind, ggfs. Sind sie zusätzlich anzulegen. Die folgende Unterrichtsarten werden für die Fächer der Schüler vom Skript erwartet. 
+Bitte prüfen Sie in Magellan im `Schlüsselverzeichnis > Unterrichtsarten`, ob alle notwendigen Einträge vorhanden sind, ggfs. Sind sie zusätzlich anzulegen. Die folgende Unterrichtsarten werden für die Fächer der Schüler vom Skript erwartet. 
 
 Kürzel | Schlüssel | Bezeichnung
 --|--|--

@@ -10,7 +10,7 @@ Tragen Sie im Menü `Schüler > Daten 2` im Bereich "Abgang" das Datum für das 
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe in der Spalte "Zeitraum" erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN im `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte „Ausdruck1“.
+Die Ausgabe in der Spalte "Zeitraum" erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan im `Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte „Ausdruck1“.
 
 ## Ausdruck
 

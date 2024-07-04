@@ -24,7 +24,7 @@ Der Weg die Daten aus der Vorschau direkt als Exceldatei oder als CSV-Datei zu s
 
 ## Felder
 
-Titel|Quelle in MAGELLAN
+Titel|Quelle in Magellan
 --|--
 Schülernr.| `Schüler > Merkmale > MerkmalB1`
 Schüler|`Schüler > Daten1 > Vorname` <br/>`Schüler > Daten1 > Vorname` <br/>Ausgabe als `Nachname,Vorname`

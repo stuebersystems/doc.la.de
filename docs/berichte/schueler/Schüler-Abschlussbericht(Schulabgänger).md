@@ -36,7 +36,7 @@ Den Abschluss des Schülers tragen Sie im Menü `Schüler > Laufbahn > Abschluss
 
 `Schüler > Zeugnis > Fächer`
 
-Der Abschlussbericht für Schulabgänger gibt aus dem Menü `Schüler > Zeugnis > Fäche`r folgende Daten aus, die entsprechend in MAGELLAN eingetragen werden müssen:
+Der Abschlussbericht für Schulabgänger gibt aus dem Menü `Schüler > Zeugnis > Fäche`r folgende Daten aus, die entsprechend in Magellan eingetragen werden müssen:
 * Klasse
 * Schuljahr und Halbjahr
 * Fachkürzel

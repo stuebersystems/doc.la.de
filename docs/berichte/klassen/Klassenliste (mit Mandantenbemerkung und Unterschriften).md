@@ -7,7 +7,7 @@
 
 Die Liste ist gedacht als Unterschriftenliste für individuelle Situationen. Insofern ist der erklärende Text auf den sich die Schülerunterschrift beziehen soll austauschbar.
 
-Nachfolgend sind erforderliche Eintragungen für die Berichte unter `MAGELLAN > Klassen > Drucken > Berichte` beschrieben.
+Nachfolgend sind erforderliche Eintragungen für die Berichte unter `Magellan > Klassen > Drucken > Berichte` beschrieben.
 
 [![Klassenliste (mit Mandantenbemerkung und Unterschriften)][1]][1]
 

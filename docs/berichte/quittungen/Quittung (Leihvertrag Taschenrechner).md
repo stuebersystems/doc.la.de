@@ -1,16 +1,16 @@
 ﻿# Quittung (Leihvertrag Taschenrechner)
 
-Dieser Bericht ist aus dem Modul `MAGELLAN BIBLIOTHEK` aufrufbar.
+Dieser Bericht ist aus dem Modul `Magellan Bibliothek` aufrufbar.
 
 Leihvertrag GTR Stadt Dresden - grafikfähiger Taschenrechner
 
-![MAGELLAN Optionen](/assets/images/bib001.png)
+![Magellan Optionen](/assets/images/bib001.png)
 
 ## Adresse Schulträger
 
-`MAGELLAN > Adressen > Daten > Kategorie (ST)`
+`Magellan > Adressen > Daten > Kategorie (ST)`
 
-Die Adresse des Schulträger legen Sie in MAGELLAN im Menü `Adressen > Daten` an. Wichtig ist, dass Sie in dem Feld „Kategorie“ das Kürzel „ST“ zuweisen. Grundlage hierfür bildet das `Schlüsselverzeichnis > Kategorien (Adressen)`.
+Die Adresse des Schulträger legen Sie in Magellan im Menü `Adressen > Daten` an. Wichtig ist, dass Sie in dem Feld „Kategorie“ das Kürzel „ST“ zuweisen. Grundlage hierfür bildet das `Schlüsselverzeichnis > Kategorien (Adressen)`.
 
 ![Adressen](/assets/images/bib002.png)
 
@@ -22,15 +22,15 @@ Falls der Schüler nicht volljährig ist, tragen Sie im Menü `Schüler > Daten 
 
 ## Anlegen der Taschenrechner
 
-`MAGELLAN BIBLIOTHEK > Bücher/Medien > Daten 1`
+`Magellan Bibliothek > Bücher/Medien > Daten 1`
 
-Die Taschenrechner legen Sie in der MAGELLAN BIBLIOTHEK im Menü `Bücher/Medien > Daten 1` an. Wichtig ist, dass in dem Feld „Medienkategorie“ das Kürzel „Vertrag“ zugewiesen wird. Grundlage bildet das `Schlüsselverzeichnis > Kategorien (Medien)`.
+Die Taschenrechner legen Sie in der Magellan Bibliothek im Menü `Bücher/Medien > Daten 1` an. Wichtig ist, dass in dem Feld „Medienkategorie“ das Kürzel „Vertrag“ zugewiesen wird. Grundlage bildet das `Schlüsselverzeichnis > Kategorien (Medien)`.
 
 ![`Bücker/Medien > Daten 1`](/assets/images/bib003.png)
 
 ## Zubehör Taschenrechner
 
-`MAGELLAN BIBLIOTHEK > Bücher/Medien > Daten 2`
+`Magellan Bibliothek > Bücher/Medien > Daten 2`
 
 Das Zubehör für den Taschenrechner legen Sie im Menü `Bücher/Medien > Daten 2` im Feld "Bemerkungen" an.
 
@@ -38,6 +38,6 @@ Das Zubehör für den Taschenrechner legen Sie im Menü `Bücher/Medien > Daten 
 
 ## Ausdruck
 
-Der Ausdruck erfolgt in der MAGELLAN BIBLIOTHEK über den Bereich `Ausleihe`.
+Der Ausdruck erfolgt in der Magellan Bibliothek über den Bereich `Ausleihe`.
 
 ![Ausdruck](/assets/images/bib005.png)

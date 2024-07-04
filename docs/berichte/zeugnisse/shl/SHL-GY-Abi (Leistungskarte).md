@@ -45,7 +45,7 @@ Zur Ausgabe der Abitur-Prüfungsfächer müssen unter `Abitur > Prüfung > Prüf
 Bei der 5 Prüfungskomponente wird zwischen einer "Präsentation" und der "Besonderen Lernleistung" unterschieden.
 Gehen Sie jeweils wie folgt vor:
 
-5. Prüfungskomponente | Vorgehensweise in MAGELLAN
+5. Prüfungskomponente | Vorgehensweise in Magellan
 --|--
 Präsentation | Bei der "Präsentation" weisen Sie dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte "Fachstatus" den Wert "5 PF" zu und führen das entsprechende Skript aus.
 Des Weiteren wird im Menü `Abitur > Prüfung` im Feld "5. PF" das Fach eingetragen. Dort tragen Sie die Noten aus 13 und die mündliche Note ein.

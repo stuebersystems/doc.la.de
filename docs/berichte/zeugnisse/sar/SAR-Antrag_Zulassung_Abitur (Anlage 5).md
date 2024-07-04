@@ -121,7 +121,7 @@ Ergänzungsprüfung Ja/Nein haken Sie händisch auf dem Formular ein.
 
 `Extras > Schlüsselverzeichnisse > Abschlussjahrgänge`
 
-Jahr der Abiturprüfung: Sie können in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Abschlussjahrgänge` die Abschlussjahrgänge definieren. In unserem Fall ist dies ein Abiturjahrgang. Damit können Sie jedem Schüler in der Rubrik `Abitur` den entsprechenden Abiturjahrgang zuordnen. 
+Jahr der Abiturprüfung: Sie können in Magellan unter `Extras > Schlüsselverzeichnisse > Abschlussjahrgänge` die Abschlussjahrgänge definieren. In unserem Fall ist dies ein Abiturjahrgang. Damit können Sie jedem Schüler in der Rubrik `Abitur` den entsprechenden Abiturjahrgang zuordnen. 
 
 Der Bericht liest das Feld "Bezeichnung" aus. (2021, 2020 etc.)
 

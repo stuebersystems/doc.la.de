@@ -116,9 +116,9 @@ Eingabe der Präsentationsprüfung oder Besonderen Lernleistung im Abitur
 
 `Abitur > Prüfung > Präsentation/Lernleistung`
 
-Fall | Vorgehensweise in MAGELLAN
+Fall | Vorgehensweise in Magellan
 --|--
-Präsentationsprüfung | Es ist MAGELLAN notwendig, beim Einbringen der Präsentationsprüfung im Menu `Abitur > Prüfung` im Bereich "Präsentation" das Optionsfeld „Präsentationsprüfung einbringen“. Fach, Thema und Punkte notieren Sie ebenfalls im Reiter „Präsentation“. Die erreichten Punkte tragen Sie im linken Feld ein.
+Präsentationsprüfung | Es ist Magellan notwendig, beim Einbringen der Präsentationsprüfung im Menu `Abitur > Prüfung` im Bereich "Präsentation" das Optionsfeld „Präsentationsprüfung einbringen“. Fach, Thema und Punkte notieren Sie ebenfalls im Reiter „Präsentation“. Die erreichten Punkte tragen Sie im linken Feld ein.
 Besonderen Lernleistung im Block 1 | Weisen Sie im Menü `Abitur > Qualifikation` dem entsprechendem Fach die Unterrichtsart „BL“ zu. Tragen Sie im Menü `Abitur > Qualifikation` die Note im einzubringenden Halbjahr zwischen Q1-Q4 ein. Im Menü `Abitur > Prüfung`  im Bereich "Lernleistung" tragen Sie das Thema der Lernleistung im Feld „Thema“ ein. Beachten Sie, dass das Optionsfeld "Präsentationsprüfung einbringen“ NICHT markiert ist.
 Besonderen Lernleistung im Block 2 | Markieren Sie das Optionsfeld „Besondere Lernleistung einbringen“. Fach, Thema und Punkte notieren Sie ebenfalls im Reiter „Lernleistung“. Die erreichten Punkte tragen Sie im linken Feld ein.
 

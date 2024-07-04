@@ -39,7 +39,7 @@ Das Zeugnis ist variabel sowohl als Zeugnis (Halbjahres- oder Jahreszeugnis) als
 Zwischen Abgangszeugnis und Jahres- oder Halbjahreszeugnis wird durch den Eintrag in  „Abschluss 1“ ( `Schüler > Laufbahn > Abschluss > Abschluss1`) differenziert. Bleibt das Feld leer, handelt es sich Jahres- oder Halbjahreszeugnis. 
 Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Eintrag "Abgang" ein. Grundlage dazu bildet das `Schlüsselverzeichnisse > Abschlüsse Intern`, der Bericht fragt das "Kürzel" "Abgang" ab.
 
-[![Eintragungen in MAGELLAN][10]][10]
+[![Eintragungen in Magellan][10]][10]
 
 [![Ausgabe auf dem Zeugnis, wenn "Abgang" eingetragen][11]][11]
 
@@ -47,7 +47,7 @@ Handelt es sich um ein Abgangszeugnis, tragen Sie unter „Abschluss 1“ den Ei
 
 `Extras > Schlüsselverzeichnisse > Zeiträume > Ausdruck 1`
 
-Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in MAGELLAN unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
+Die Ausgabe des Schulhalbjahres erfolgt aufgrund der Definition des aktuellen Zeitraums in Magellan unter `Extras > Schlüsselverzeichnisse > Zeiträume`. Ausgegeben wird hierbei der Eintrag in der Spalte "Ausdruck1".
 
 ## Klassenjahrgang
 
@@ -112,7 +112,7 @@ Tragen Sie die Namenszusätze Ihrer Schule im Menü `Mandanten > Daten 1` im Fel
 
 [![Name der Schule, Namenszusätz][12]][12]
 
-[![Eintragungen in MAGELLAN][13]][13]
+[![Eintragungen in Magellan][13]][13]
 
 ## Ort des Druckdatums
 
@@ -157,7 +157,7 @@ Einen Platzhalter definieren Sie über „`<<“ zum Beginn und „>>`“ zum En
 
 Möglich sind:
 
-Platzhalter in MAGELLAN | Anzeige im Bericht
+Platzhalter in Magellan | Anzeige im Bericht
 --|--
 `<<VornameV>>` | Vorname Vorname2
 `<<Nachname>>` | Nachname
@@ -177,13 +177,13 @@ Platzhalter in MAGELLAN | Anzeige im Bericht
 `<<derSchueler_dieSchuelerin>>`  | der Schüler/die Schülerin  (je nach Geschlecht des Schüler)  
 `<<DemSchueler_DerSchuelerin>>`  |  Dem Schüler/Der Schülerin (je nach Geschlecht des Schülers)
 
-## ENBREA Lernleistungen
+## Enbrea Lernleistungen
 
 Eine Anleitung zum Erfassen von Daten, die in sogenannten komplexen Zeugnisberichten ausgegeben werden, finden Sie [hier](https://doc.magellan.stueber.de/schulverwaltung/howto/enbrea.leistungen/).
 
-`Datenbank > Optionen > ENBREA`
+`Datenbank > Optionen > Enbrea`
 
-Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > ENBREA > ENBREA Funktionen` aktivieren.
+Um die Funktionalitäten zu aktivieren, setzen Sie bitte das Häkchen unter `Datenbank > Optionen > Enbrea > Enbrea Funktionen` aktivieren.
 
 ## Arbeits- und Sozialverhalten
 
@@ -193,7 +193,7 @@ Bitte weisen im Menü `Klassen > Zeiträume` über die Schalfläche "Leistungspr
 
 ## Fachpositionen
 
-`Schüler > Zeugnis > ENBREA Leistungen> Position`
+`Schüler > Zeugnis > Enbrea Leistungen> Position`
 
-Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü `Schüler > Zeugnis > ENBREA Leistungen` pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
+Für die Sortierung der Fächer auf sogenannten komplexen Zeugnisberichten muss im Menü `Schüler > Zeugnis > Enbrea Leistungen` pro Fach/Name eine Position in der Spalte "Position" angegeben werden.
 

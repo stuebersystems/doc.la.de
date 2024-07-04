@@ -85,7 +85,7 @@ Tragen Sie den Bezirk Ihrer Schule im Menü `Mandanten > Daten 1` im Feld "Name 
 Die Noten der Prüfungsfächer tragen Sie wie folgt ein:
 Im aktuellen Zeitraum im Menü `Schüler > Zeugnis > Leistungen`
 
-Spalte in MAGELLAN | Note für:
+Spalte in Magellan | Note für:
 --|--
 Spalte "Endnote (Gesamt)" | Gesamtnote
 Spalte "Schriftl. Note 1" | schriftliche Note

@@ -9,7 +9,7 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 |Kürzel|beliebig|
 |Bezeichnung|beliebig|
 |Kategorie|Abitur|
-|Typ|Das Skript erwartet die Eingabe des Typs in MAGELLAN unter ```Verzeichnisse > Verordnungen``` in der Spalte Typ. In DAVINCI tragen Sie den Wert bitte auf dem Stammdatenregister Klassen bei Verordnungstyp ein. Folgende Werte können genutzt werden: |
+|Typ|Das Skript erwartet die Eingabe des Typs in Magellan unter ```Verzeichnisse > Verordnungen``` in der Spalte Typ. In DaVinci tragen Sie den Wert bitte auf dem Stammdatenregister Klassen bei Verordnungstyp ein. Folgende Werte können genutzt werden: |
 ||"TK" für Fachrichtung "Technik"  |
 ||"WI" für Fachrichtung "Wirtschaft" |
 ||"GS" für Fachrichtung "Gesundheit und Soziales" |

@@ -127,7 +127,7 @@ Die Anzahl der Wochenstunden pro Fremdsprache tragen Sie im Menü `Abitur > Qual
 
 Bei der 4 Prüfungskomponente wird zwischen einer „Präsentation“ und einer  „mündlichen Prüfung „ unterschieden.
 
-Fall | Vorgehensweise in MAGELLAN
+Fall | Vorgehensweise in Magellan
 --|--
 Päsentation | Weisen die dem entsprechenden Fach im Menü `Abitur > Qualifikation` in der Spalte „Fachstatus“ den Wert „4 PF“ zu und führen das entsprechende Skript aus.  Zur Ausgabe der Präsentation müssen Sie im Menü `Abitur > Prüfung` im Feld „Präsentation“ das entsprechende Fach zuweisen und das Optionsfeld „Präsentation einbringen“ markieren. Das Thema der Präsentation weisen Sie analog dem entsprechenden Feld zu. Die Note für die Präsentation tragen Sie im 1. Notenfeld ganz links ein. 
 5. Prüfungskomponente |  Bei der 5 Prüfungskomponente wird zwischen einer der „Besonderen Lernleistung“  und einer mündlichen Prüfung unterschieden. Zur Ausgabe der besonderen Lernleistung müssen Sie im Menü `Abitur > Prüfung` im Feld „Lernleistung“ das entsprechende Fach zuweisen und das Optionsfeld „Lernleistung einbringen“ markieren. Das Thema der besonderen Lernleistung weisen Sie analog dem entsprechenden Feld zu. Die Note für die besondere Lernleistung tragen Sie im 1. Notenfeld ganz links ein.

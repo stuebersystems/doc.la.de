@@ -24,11 +24,11 @@ Liegt eine Praktikumsbescheinigung für einen Schüler vor, tragen Sie bitte den
 
 [2]:/assets/images/nrw/07.png
 
-Bereiten Sie hierfür bitte einmalig folgende Punkte in MAGELLAN vor:
+Bereiten Sie hierfür bitte einmalig folgende Punkte in Magellan vor:
 
 Feld ``Merkmal A10`` in `Praktikum` umbenennen:
 
-* Öffnen Sie in MAGELLAN bitte den Punkt `Extras > Bezeichnunngen anpassen` und wählen die Zeile für den Bewerber-/Schülereintrag `Merkmal A10` aus. 
+* Öffnen Sie in Magellan bitte den Punkt `Extras > Bezeichnunngen anpassen` und wählen die Zeile für den Bewerber-/Schülereintrag `Merkmal A10` aus. 
 * Ersetzen Sie in der Spalte `durch` den Eintrag durch `Praktikum`.
 *  Die Ansicht im Programm aktualisiert sich durch einen Wechsel des Menüpunktes, schalten Sie beispielsweise vom Menü `Schüler` auf `Klassen` und wieder zuück.
 

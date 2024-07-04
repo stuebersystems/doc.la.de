@@ -74,7 +74,7 @@ Der Tutor muss im entsprechenden Zeitraum im Menü `Schüler` beim jeweiligen Sc
 
 `Schüler > Zeugnis > Fächer > Fachlehrer`
 
-Bitte geben Sie im Menü `Schüler > Zeugnis > Fächer` den Lehrer an. Den Lehrer können Sie manuell zuweisen, per Fachtafel ergänzen oder aus DAVINCI (Lehrerunterricht) übernehmen.
+Bitte geben Sie im Menü `Schüler > Zeugnis > Fächer` den Lehrer an. Den Lehrer können Sie manuell zuweisen, per Fachtafel ergänzen oder aus DaVinci (Lehrerunterricht) übernehmen.
 
 ## Wochenstunden
 
