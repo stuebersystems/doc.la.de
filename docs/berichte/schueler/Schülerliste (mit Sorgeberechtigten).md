@@ -4,7 +4,6 @@
 
 `Schüler > Daten1 > Familie`
 
-
 ## TutorIn
 
 `Schüler > Zeugnis > Details > Tutor`

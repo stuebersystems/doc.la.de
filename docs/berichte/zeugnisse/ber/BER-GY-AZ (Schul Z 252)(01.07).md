@@ -98,25 +98,25 @@ Um Noten den jeweiligen Fächer zuzuordnen, verwenden Sie für die Fächer folge
 
 Fach | Position
 --|--
- Deutsch | 1
- 1. Fremdsprache | 2
- 2. Fremdsprache | 3
- Lernbereich Gesellschaftswissenschaften | 4
- Geschichte/Sozialkunde | 5
- Geografie | 6
- Ethik |7
- Mathematik | 8
- Lernbereich Naturwissenschaften | 9
- Physik | 10
- Chemie | 11
- Biologie | 12
- Lernbereich Künste | 13
- Musik | 14
- Bildende Kunst | 15
- Sport | 16
- Informationstechnischer Grundkurs | 17
- Wahlpflichtfach eins | 30
- Wahlpflichtfach zwei | 31
+Deutsch | 1
+1.Fremdsprache | 2
+2.Fremdsprache | 3
+Lernbereich Gesellschaftswissenschaften | 4
+Geschichte/Sozialkunde | 5
+Geografie | 6
+Ethik |7
+Mathematik | 8
+Lernbereich Naturwissenschaften | 9
+Physik | 10
+Chemie | 11
+Biologie | 12
+Lernbereich Künste | 13
+Musik | 14
+Bildende Kunst | 15
+Sport | 16
+Informationstechnischer Grundkurs | 17
+Wahlpflichtfach eins | 30
+Wahlpflichtfach zwei | 31
 
 Achtung: Eine falsche Positionierung der Fächer ordnet den Fächern eine falsche oder keine Note zu. Das Fach wird trotzdem angezeigt.
 
@@ -124,12 +124,10 @@ Achtung: Eine falsche Positionierung der Fächer ordnet den Fächern eine falsch
 
 `Mandaten > Daten 1 > Stellvertreter`
 
+## Arbeits- und Sozialverhalten
+
 Die Ausgabe auf dem Zeugnis, ob "Arbeits- und Sozialverhalten" beurteilt wird oder nicht tätigen Sie wie folgt. Ausschlaggebend dabei ist das Feld "Verhalten" im Menü `Schüler > Zeugnis > Details`.
 
-1. wird nicht beurteilt:
+1. wird nicht beurteilt: Sie lassen dass Feld "Verhalten" leer oder weisen dem Feld den Noten-Füllwert "nein" zu.
 
-Sie lassen dass Feld "Verhalten" leer oder weisen dem Feld den Noten-Füllwert "nein" zu.
-
-2. wird beurteilt:
-
-Sie weisen dem Feld "Verhalten" den Noten-Füllwert "ja" zu.
+2. wird beurteilt: Sie weisen dem Feld "Verhalten" den Noten-Füllwert "ja" zu.

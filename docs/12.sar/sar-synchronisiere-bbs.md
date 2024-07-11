@@ -191,7 +191,7 @@ Ergebnisse.
 
 #### Vorbeugende Sicherungen
 
-* Kopie der Datenbank (Magellan6.fdb) beim ersten Test;
+* Kopie der Datenbank (Magellan6.FDB) beim ersten Test;
 * Orginal-Synchronisierungsskript Synchronisiere BBS.dws (Ordner \...\Skripte) kopieren.
 
 #### Ablauf der Synchronisierung
