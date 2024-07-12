@@ -34,7 +34,7 @@ Je nach Aufgabe eines Skriptes wird es in verschiedenen Ansichten im Programm ve
 | BER-IBA-MSA-2019 | - | - | - | [BER-IBA-MSA-2019.dws](https://doc.la.stueber.de/03.ber/ber-iba-msa-2019/) | - |
 | BER-BFS-Matrix (2016) | - | - | - | - | [BER-BFS-Matrix-2016](https://doc.la.stueber.de/03.ber/ber-bfs-matrix-2016dws.md) |
 | BER-BBS-Matrix (2007) | - | - | - | - | [BER-BBS-Matrix-2007](https://doc.la.stueber.de/03.ber/ber-bbs-matrix-2007dws/) |
-| APO 2017 | [BER-APO-2017.dws](http://doc.la.stueber.de/03.ber/BER-APO-2017) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-IBA-MSA-2019](https://doc.la.stueber.de/durchschnitt_abschluss/BER-IBA-MSA-2019) | - |
+| APO 2017 | [BER-APO-2017.dws](http://doc.la.stueber.de/03.ber/BER-APO-2017) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | [BER-FW-APO-2017.js](https://doc.la.stueber.de/Skripte/ber-fw-apo-2017js) | - | - |
 | APO 2004 | [BER-APO-2004.dws](http://doc.la.stueber.de/03.ber/ber-apo-2004)| - | - | - | - |
 | APO 2007 | [BER-APO-2007.dws](http://doc.la.stueber.de/03.ber/ber-apo-2007) | - | - | [BER-BBS-Matrix-2007.dws](https://doc.la.stueber.de/berufsschule/skript/ber-bbs-matrix-2007dws) | - |
 | APO 2010 | [BER-APO-2010.dws](http://doc.la.stueber.de/03.ber/ber-apo-2010) | - | - | - | - |
