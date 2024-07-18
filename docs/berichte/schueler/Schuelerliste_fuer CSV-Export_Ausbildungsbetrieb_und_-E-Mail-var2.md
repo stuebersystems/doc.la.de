@@ -51,6 +51,7 @@ Betriebekontakte.Email|`Betriebe > Kontakte > TelE-Mailefon`<br/> Für den dem S
 
 ## Weiterverarbeitung
 
+Nachstehend beschreiben wir Ihnen an einem allgemeinten Beispiel eine mögliche Weiterverarbeitung der Inhalte. 
 Rufen Sie die Berichtsvorschau auf:
 
 [![Vorschau][02]][02]
