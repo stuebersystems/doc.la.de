@@ -49,9 +49,11 @@ BetriebeKontakte.Nachname|`Betriebe > Kontakte > Nachname`<br/> Für den dem Sch
 BetriebeKontakte.Vorname|`Betriebe > Kontakte > Vorname`<br/> Für den dem Schüler unter `Schüler > Ausbildung` für den aktuellen Ausbildungsdatensatz zugeordneten Kontakt
 Betriebekontakte.Email|`Betriebe > Kontakte > TelE-Mailefon`<br/> Für den dem Schüler unter `Schüler > Ausbildung` für den aktuellen Ausbildungsdatensatz zugeordneten Kontakt
 
+!!! Tipp "Wichtig!"    
+    Nachstehend beschreiben wir Ihnen an einem allgemeinen Beispiel eine mögliche Weiterverarbeitung der Inhalte. 
+
 ## Weiterverarbeitung
 
-Nachstehend beschreiben wir Ihnen an einem allgemeinten Beispiel eine mögliche Weiterverarbeitung der Inhalte. 
 Rufen Sie die Berichtsvorschau auf:
 
 [![Vorschau][02]][02]
