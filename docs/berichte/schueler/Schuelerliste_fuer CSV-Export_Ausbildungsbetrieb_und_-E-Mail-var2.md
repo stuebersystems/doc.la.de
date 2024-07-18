@@ -1,6 +1,6 @@
 # Schülerliste (für CSV-Export) Ausbildungsbetrieb und -E-Mail(Var2)
 
-[01]:/assets/images/schueler/002.png "Bericht"
+[01]:/assets/images/schueler/002.var2.png "Bericht"
 [02]:/assets/images/schueler/005.png "Vorschau"
 [03]:/assets/images/schueler/006.png "Speichern"
 [04]:/assets/images/schueler/007.png "4"
