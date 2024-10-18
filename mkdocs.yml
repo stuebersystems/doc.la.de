@@ -324,7 +324,9 @@ nav:
           - DSND.DAS-GY-MSA (Versetzung) (ZKA)(Anlage 11)(§23): berichte/zeugnisse/das/DSND.DAS-GY-MSA (Versetzung) (ZKA)(Anlage 11)(§23).md
           - DSND.DAS-HS-MSA-AS (Anlage 8 und 9)(§23): berichte/zeugnisse/das/DSND.DAS-HS-MSA-AS (Anlage 8 und 9)(§23).md
           - DSND-DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6): berichte/zeugnisse/das/DSND-DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6).md
-          - DSND-DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6)(G8): berichte/zeugnisse/das/DSND-DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6).md          
+          - DSND-DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6)(G8): berichte/zeugnisse/das/DSND-DAS-ZZ (Q-Phase)(Anlage 1)(RiLi 1.6).md
+        - DST:
+          - DAS-Schülerliste (für CSV-Export) mit Elterndaten (Kopfspalten griechisch).rpt: berichte/zeugnisse/das/DAS-Schuelerliste (für CSV-Export) mit Elterndaten_griechisch.md            
         - DSWBS:
           - DSWBS.DAS-GS-GY (Klasse 3-10): berichte/zeugnisse/das/DSWBS.DAS-GS-GY (Klasse 3-10).md
           - DSWBS.DAS-GS-GY (Klasse 3-10) Abgangszeugnis: berichte/zeugnisse/das/DSWBS.DAS-GS-GY (Klasse 3-10) Abgangszeugnis.md
@@ -1214,6 +1216,7 @@ nav:
       - Bescheinigung über den Schulbesuch zweifach(mit Wochenstunden): berichte/schueler/Bescheinigung über den Schulbesuch zweifach(mit Wochenstunden).md
       - Bescheinigung über den Schulbesuch zweifach: berichte/schueler/Bescheinigung über den Schulbesuch zweifach.md
       - DAS-Übersicht über Prüfungsfächer Abitur (Anlage 6): berichte/abitur/DAS-Übersicht über Prüfungsfächer Abitur (Anlage 6).md     
+      - DAS-Schülerliste (für CSV-Export) mit Elterndaten (Kopfspalten griechisch).rpt: berichte/zeugnisse/das/DAS-Schuelerliste (für CSV-Export) mit Elterndaten_griechisch.md            
       - Fachwahl-Kursliste: berichte/schueler/Fachwahl-Kursliste.md
       - KV09b Masernschutz: berichte/schueler/KV09b Masernschutz.md
       - MVP-Schullastenausgleich-Teilzeit (nicht im Landkreis Mecklenburgische Seenplatte): berichte/schueler/MVP-Schullastenausgleich-Teilzeit (nicht im Landkreis Mecklenburgische Seenplatte).md
