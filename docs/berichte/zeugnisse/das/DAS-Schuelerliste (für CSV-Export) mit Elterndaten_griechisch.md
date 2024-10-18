@@ -29,7 +29,7 @@ Der Bericht gibt für die ersten beiden für den Schüler unter `Schüler > Date
 
 Kopfzeile: `"Aριθμός ατομικού φακέλου /Aριθμός προσωρινής προστασίας";"ΟΝΟΜΑ ΜΑΘΗΤΗ";"ΕΠΩΝΥΜΟ ΜΑΘΗΤΗ";...`
 
-Datenzeile: `"leer";"Vorname des Schülers";"Nachname des Schülers";...`
+Datenzeile: `"";"Vorname des Schülers";"Nachname des Schülers";...`
 
 
 Kopfspalte| Inhalte
@@ -98,15 +98,17 @@ Aριθμός ατομικού φακέλου /Aριθμός προσωρινή�
 ΓΕΝΟΣ ΜΗΤΕΡΑΣ|leer
 
 !!! Tipp "Hinweis!"    
-    Nachstehend beschreiben wir Ihnen an einem allgemeinen Beispiel eine mögliche Weiterverarbeitung der Inhalte. Die Bilder sind beispielhaft und beziehen sich ggfs. nicht auf diesen Bericht.
+    Nachstehend beschreiben wir Ihnen an einem allgemeinen Beispiel eine mögliche Weiterverarbeitung der Inhalte.
 
 ## Weiterverarbeitung
 
 Rufen Sie die Berichtsvorschau auf:
 
-[![Vorschau][02]][02]
+[![Vorschau][01]][01]
 
 Speichern Sie die Daten aus der Berichtsvorschau heraus als "Microsoft Excel - Nur Daten (*.xlsx)"!
+
+[![Vorschau][02]][02]
 
 [![Speichern][03]][03]
 
@@ -126,6 +128,6 @@ Als Ergebnis werden die Daten jetzt spaltenweise dargestellt. Rufen Sie `Datei >
 
 [![Speichern][07]][07]
 
-So sieht die fertige Datei aus, wenn Sie sie beispielsweise im Texteditor aufrufen: 
+So sieht die fertige Datei in Excel aus: 
 
 [![Speichern][08]][08]
