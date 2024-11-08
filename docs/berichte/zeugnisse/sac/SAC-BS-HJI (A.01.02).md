@@ -2,6 +2,14 @@
 
 A.01.02 Halbjahresinformation der Berufsschule Vorbereitungsklasse
 
+[01]:/assets/images/Sachsen/sac_bs_hji_a.01.02.png "SAC-BS-HJI (A.01.02)"
+
+[![SAC-BS-HJI (A.01.02)][01]][01]
+
+
+
+sac_bs_hji_a.01.02
+
 ## Beurteilungsart Klasse
 
 `Klassen > Daten > Beurteilungsart > Benotung durch Noten` 
