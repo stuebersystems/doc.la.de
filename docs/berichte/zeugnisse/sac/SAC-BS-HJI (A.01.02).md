@@ -6,10 +6,6 @@ A.01.02 Halbjahresinformation der Berufsschule Vorbereitungsklasse
 
 [![SAC-BS-HJI (A.01.02)][01]][01]
 
-
-
-sac_bs_hji_a.01.02
-
 ## Beurteilungsart Klasse
 
 `Klassen > Daten > Beurteilungsart > Benotung durch Noten` 
@@ -27,13 +23,13 @@ Die Angabe der Fehltage und/oder der Fehlstunden muss im entsprechenden Zeitraum
 `Extras > Schlüsselverzeichnisse > Fachstatus`
 
 Für die korrekte Ausgabe der Fächer in den entsprechenden Zeugnisbereichen müssen Sie im Menü `Schüler > Zeugnis > Fächer` den entsprechenden Fächern einen Fachstatus zuordnen. Für den Zeugnisdruck ist dabei nur der Schlüssel des Fachstatus relevant, das Kürzel kann beliebig gewählt werden. Bedenken Sie hierbei, dass Sie bereits im Schlüsselverzeichnis "Fachtafeln" den Fachstatus zuweisen können. Grundlage für das Zuweisen eines Fachstatus bildet das `Schlüsselverzeichnis > Fachstatus`. Wenn Sie dann den Schülern diese Fachtafeln zuweisen, müssen Sie die Angabe des Fachstatus nicht pro Schüler und pro Fach vornehmen.
-Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:"
+Folgende Fachstati dürfen im Zeugnisdruck verwendet werden:
 
 Kürzel | Schlüssel | Zeugnisbereich
 --|--|--
-Wahlb | Wahlb | Wahlfächer bzw. –bereich"
-Pflicht | Pflicht | Pflichtfach"
-Praktikum | Praktikum | Praktikum"
+Wahlb | Wahlb | Wahlfächer bzw. –bereich
+Pflicht | Pflicht | Pflichtfach
+Praktikum | Praktikum | Praktikum
 
 ## Zugang am / Abgang am
 
