@@ -1,7 +1,12 @@
-﻿# SAC-BS-AS (Vorbereitungsklasse) (A.01.06)
+﻿# SAC-BS-AS (Vorbereitungsklasse) (A.01.06) und  SAC-BS-AS (Vorbereitungsklasse) (A.01.06) V1
 
 A.01.06 Zeugnis Vorbereitungsklasse
 
+[01]:/assets/images/Sachsen/sac_bs_as_a.01.06.png "SAC-BS-AS (Vorbereitungsklasse) (A.01.06)"
+
+[![SAC-BS-AS (Vorbereitungsklasse) (A.01.06)][01]][01]
+
+sac_bs_as_a.01.06
 ## Benotung in Klassen
 
 `Klassen > Daten > Beurteilungsart > Benotung durch Noten`  
