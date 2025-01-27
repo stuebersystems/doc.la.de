@@ -30,6 +30,7 @@ Kürzel | Schlüssel | Zeugnisbereich
 Wahlb | Wahlb | Wahlfächer bzw. –bereich
 Pflicht | Pflicht | Pflichtfach
 Praktikum | Praktikum | Praktikum
+BPraktikum | BPraktikum | BPraktikum
 
 ## Zugang am / Abgang am
 
@@ -84,9 +85,9 @@ Der Schulort (bzw. Ausstellungsort) ergibt sich aufgrund der Eintragung im Menü
 
 Gehen Sie bitte wie folgt vor:
 
-1) Definieren Sie ein Fach im `Schlüsselverzeichnis > Fächer`, weisen Sie dieses im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu. Zusätzlich erhält dieses Fach im Feld "Fachstatus" „Praktikum“ zu.
-2) Diesem Fach weisen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Zusatzklasse" die Klasse zu, wo der erfolgte „Bildungsgang“ hinterlegt ist.
-3) Die Anzahl der Wochen für  die „Integration in der Berufsschule“  weisen Sie im Menü Schüler > Zeugnis > Fächer im Feld "Merkmal" zu.
+1. Definieren Sie ein Fach im `Schlüsselverzeichnis > Fächer`, weisen Sie dieses im Menü `Schüler > Zeugnis > Fächer` dem Schüler zu. Zusätzlich erhält dieses Fach im Feld "Fachstatus" „Praktikum“ oder "BPraktikum"zu.
+2. Diesem Fach weisen Sie im Menü `Schüler > Zeugnis > Fächer` im Feld "Zusatzklasse" die Klasse zu, wo der erfolgte „Bildungsgang“ (`Klasse > Daten > Bildungsgang`) hinterlegt ist.
+3. Die Anzahl der Wochen für  die „Integration in der Berufsschule“  weisen Sie im Menü Schüler > Zeugnis > Fächer im Feld "Merkmal" zu.
 
 ![`Schüler > Zeugnis > Fächer` ](/assets/images/Sachsen/a.01.02_Bild01.png)
 
