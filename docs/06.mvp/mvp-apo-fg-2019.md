@@ -104,11 +104,13 @@ Prüfen Sie bitte unter ```Verzeichnisse > weitere Schlüsselverzeichnisse > Fac
 
 ## Facharbeit
 
-`Extras > Schlüsselverzeichnisse > Unterrichtsarten` <br/>`Abitur > Qualifikation > Unterrichtsart`
+`Extras > Schlüsselverzeichnisse > Fachstatus` <br/>`Abitur > Qualifikation > Unterrichtsart`<br/>`Abitur > Prüfungen > Projekte`
 
-Markieren Sie auf der Qualifikationskarte die Fachzeile der Facharbeit mit dem Fachstatus `FA`. Bitte tragen Sie die Leistungen für ein oder zwei Halbjahre mit ein, wenn sie für BlockI berücksichtigt werden sollen. Wenn die Facharbeit nicht berücksichtigt werden soll, dürfen die Werte nicht erfasst werden.
-Beim Auslösen des Berechnungsskriptes wird das Fach und dessen Ergebnisse mit auf die Karte `Prüfung` übergeben und dort auf der Unterkarte `Projekt` gezeigt. 
+Markieren Sie auf der Qualifikationskarte die Fachzeile der Facharbeit mit dem Fachstatus `FA`. Bitte tragen Sie die Leistungen für ein oder zwei Halbjahre mit ein. Wenn die Facharbeit nicht berücksichtigt werden soll, dürfen diese Werte nicht eingebracht werden.
+Beim Auslösen des Berechnungsskriptes wird das Fach und dessen Ergebnisse mit auf die Karte `Prüfung` übergeben und dort auf der Unterkarte `Projekt` gezeigt.
+Die Punktwert eines 1. Halbjahres aus Block 1 wird unter `Note 1` und eine eventueller 2. Punktwert eines 2. Halbjahres aus Block 1 wird unter `Note 2` für die Facharbeit auf die Unterkarte `Projekt` übertragen.   
 Erfassen Sie das Thema bitte im im gleichnamige Feld `Thema`.
+Die Summe beider Noten wird auf dem Zeugnisse auf der Seite 3 ausgegben. Soll nur ein Halbjahr in die Ausgabe auf Seite 3 einbezogen werden, so muss entweder `Note 1` oder `Note 2` auf die Unterkarte `Projekt` gelöscht werden.
 
 [![Facharbeit][05]][05]
 
