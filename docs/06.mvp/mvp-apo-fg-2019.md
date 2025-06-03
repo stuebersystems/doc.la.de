@@ -26,6 +26,16 @@ Bitte legen Sie unter ```Verzeichnisse > Verordnungen``` eine neue Zeile an und 
 |Gültig von |leer|
 |Gültig bis|leer|
 
+## Verzeichnis Fächer
+
+Bei Fächer, die auf dem Zeugnis als "berufliches Schwerpunktfach" oder "berufliches Fach" ausgeiwesen werden sollen, müssen Sie in der Spalte `Zeugnismerkmal` die folgenden Werte eintragen
+
+|Zeugnismerkmal|Bedeutung|
+|--|--|
+|BFS|berufliches Schwerpunktfach|
+|BF|berufliches Fach|
+
+
 ## Fachkategorien
 
 Berechnungsskripte erkennen relevante Fächer anhand der Eintragungen unter `Extras > Schlüsselverzeichnisse > Fächer > Fachkategorie`. 
