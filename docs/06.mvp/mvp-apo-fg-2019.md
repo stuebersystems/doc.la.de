@@ -121,6 +121,7 @@ Beim Auslösen des Berechnungsskriptes wird das Fach und dessen Ergebnisse mit a
 Die Punktwert eines 1. Halbjahres aus Block 1 wird unter `Note 1` und eine eventueller 2. Punktwert eines 2. Halbjahres aus Block 1 wird unter `Note 2` für die Facharbeit auf die Unterkarte `Projekt` übertragen.   
 Erfassen Sie das Thema bitte im im gleichnamige Feld `Thema`.
 Die Summe beider Noten wird auf dem Zeugnisse auf der Seite 3 ausgegeben. Soll nur ein Halbjahr in die Ausgabe auf Seite 3 einbezogen werden, so muss entweder `Note 1` oder `Note 2` auf die Unterkarte `Projekt` gelöscht werden.
+Damit der Punktwert füßr die Fachrabeit auf Seite 3 des Zeugnisses bei seiner Ausgabe als nicht geklammert dargestellt wird, muss auf der Unterkarte `Projekt` das Feld `Eingebracht` angehakt sein.
 
 [![Facharbeit][05]][05]
 
