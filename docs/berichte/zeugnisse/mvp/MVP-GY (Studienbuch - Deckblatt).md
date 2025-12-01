@@ -1,4 +1,4 @@
-﻿# MVP-GY (Studienbuch - Deckblatt)
+# MVP-GY (Studienbuch - Deckblatt)
 
 ## Name der Schule 
 
@@ -6,7 +6,7 @@
 
 Aus der Ansicht Mandant wird der Name (Name 1 + Name 2) sowie der Ort der Schule übernommen.
 
-## Stammdaten des Schüler
+## Stammdaten des Schülers
 
 `Schüler > Daten 1`
 
@@ -20,7 +20,7 @@ Der aktuelle Mandant wird als Schule genutzt. Aus der Ansicht Mandant wird der N
 
 `Klassen > Zeiträume > Jahrgang`
 
-Der Ansicht Klassen muss der Jahrgang der Oberstufenklassen muss 11, 12 oder 13 sein.
+Der Ansicht Klassen muss der Jahrgang der Oberstufenklassen muss `11`, `12` oder `13` sein.
 
 `Klassen > Zeiträume > Schulformeintritt`
 
