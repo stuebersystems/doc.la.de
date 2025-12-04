@@ -1,4 +1,4 @@
-# MVP-GY (Studienbuch - Qualifikation)
+# MVP-GY (Studienbuch - Einführung)
 
 ## Name der Schule 
 
