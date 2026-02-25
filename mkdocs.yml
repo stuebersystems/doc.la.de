@@ -1456,6 +1456,8 @@ nav:
       - RLP - Lehrer (Abwesenheitsstatistik nur Krank): berichte/lehrer/RLP - Lehrer (Abwesenheitsstatistik nur Krank).md
       - RLP - Lehrer (Abwesenheitsstatistik): berichte/lehrer/RLP - Lehrer (Abwesenheitsstatistik).md
     - Menü Mandanten: 
+      - OSK B:
+           - Mandant Datenbericht OS: berichte/mandanten/Mandant Datenbericht OS.md
       - Ausländerliste (alle): berichte/mandanten/Ausländerliste (alle).md
       - Ausländerliste (mit Betrieben): berichte/mandanten/Ausländerliste (mit Betrieben).md
       - Ausländerliste (nur Minderjährige): berichte/mandanten/Ausländerliste (nur Minderjährige).md
